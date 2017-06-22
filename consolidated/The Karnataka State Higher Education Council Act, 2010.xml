@@ -1,0 +1,983 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/2010/26/main"/>
+          <FRBRuri value="/in-kar/act/2010/26"/>
+          <FRBRalias value="The Karnataka State Higher Education Council Act, 2010"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/2010/26/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/2010/26/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/2010/26/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/2010/26/eng@1980-01-01"/>
+          <FRBRdate date="2017-04-11" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka State Higher Education Council Act, 2010</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act No. 26 of 2010</p>
+        <p>An Act to provide for the constitution of the Karnataka State Higher Education Council.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>Whereas the National Education Policy, 1986 and the Task Force on Higher Education set up by the State Government in 2002 recommended that State level planning and co-ordination of higher education shall be done through Council for Higher Education;</p>
+      <p>Whereas it is expedient to establish a State Higher Education Council as a collective of the Government, Universities, academics and experts in order to forge a synergic relationship among them by occupying an operational space in between the Government and Universities and between Universities and apex level regulatory bodies, with the objects of (i) promoting academic excellence and social justice by the Government in policy formulation and perspective planning, (ii) ensuring the autonomy, accountability and co-ordination among all institutions of higher education in the State, and (iii) guiding the harmonious growth of higher education in accordance with the socio-economic requirements of the State;</p>
+      <p>BE it enacted by the Karnataka State Legislature in the Sixty first year of the Republic of India, as follows:-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka State Higher Education Council Act, 2010.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall come into force on such date as the State Government, may by notification, appoint. (This Act has come into force w.e.f.9.8.2010 by Notification No.ED 179 URC 2010, Dated:09.08.2010.)</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions. -</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“Chairman” means the Chairman of the Council;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“College” means any College or any institution maintained or approved by, or affiliated to, any University and providing courses of study for admission to the examination of the University and includes autonomous college;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"Council" means the Karnataka State Higher Education Council constituted under Section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“Executive Committee” means the Executive Committee of the Council;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“Executive Director” means Executive Director and the Member-Secretary of the Council</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>"Government" means the Government of Karnataka;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“Higher education” means an education, whether professional, technical or otherwise, and includes research studies leading to the award of a degree or diploma or certificate by a University or an institution approved by the University;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>"Institution" means an academic institution of higher education and research, not being a college, associated with and admitted to privileges of a University or maintained by a University;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“Medical Council of India” means the Council constituted under the Indian Medical Council Act, 1956 (Central Act 102 of 1956);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“Member” means a member of the Governing Council or the Executive Committee, as the case may be;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>"Prescribed" means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“Regulations” means the regulations made by the Governing Council under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>"State" means the State of Karnataka;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>"Statutes", "Ordinances" and "Regulations" of a University mean respectively, the Statutes, the Ordinances and the Regulations issued under the respective Acts of a University;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>“Teacher” means any regular teacher working in a University, Government College or Government aided or Unaided College or institution whose appointment has been made or approved by or on behalf of the Government or a University;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.p">
+                  <num>(p)</num>
+                  <p>"University" means any University in the State established by an Act of the State Legislature;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.q">
+                  <num>(q)</num>
+                  <p>"University Grants Commission" means the Commission established under the University Grants Commission Act, 1956 (Central Act 3 of 1956);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.r">
+                  <num>(r)</num>
+                  <p>“Vice-Chairman” means the Vice-Chairman of the Council.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Constitution, powers and functions of the council</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Constitution of the Council.-</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government shall constitute the Council to be called the Karnataka State Higher Education Council, which shall consist of the following, namely:-</p>
+              <table id="section-3.1.table1">
+                <tr>
+                  <td>
+                    <p>(i) The Minister in charge of the Higher Education</p>
+                  </td>
+                  <td>
+                    <p>Chairman</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(ii) An eminent educationist who is or has been the Vice- Chancellor of the university or member of any apex body of Higher education nominated by the Government</p>
+                  </td>
+                  <td>
+                    <p>Vice-Chairman</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(iii) the Executive Director</p>
+                  </td>
+                  <td>
+                    <p>Member-Secretary</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(iv) Vice-Chancellors of the State Universities</p>
+                  </td>
+                  <td>
+                    <p>Members</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(v) A nominee of the University Grants Commission not below the rank of Joint Secretary</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(vi) Ten academicians of repute from different Academic disciplines, of whom two shall be a woman and two belonging to the Scheduled Castes or Scheduled Tribes, nominated by the Government.</p>
+                  </td>
+                  <td>
+                    <p>Members</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(vii) The Principal Secretary to Government, Finance Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(viii) The Principal Secretary to Government, Higher Education Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(ix) The Principal Secretary to Government, Medical Education</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(x) The Principal Secretary to Government, Primary and Secondary Education</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xi) The Principal Secretary to Government, Agriculture</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xii) The Principal Secretary to Government, Horticulture</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xiii) The Principal Secretary to Government, Animal Husbandry &amp; Veterinary Sciences</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xiv) The Secretary to Government, Law and Justice</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xv) The Principal Secretary to Government, Social Welfare</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xvi) The Commissioner of Collegiate Education</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xvii) The Director of Technical Education</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xviii) The Director of Medical Education</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>(xix) The Commissioner for Pre-University Board.</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+              </table>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The Council shall be a body corporate by the name aforesaid, having perpetual succession and a common seal and shall by the said name sue and be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The headquarters of the Council shall be at Bangalore.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Disqualifications.-</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-4.1.list1">
+                <listIntroduction>No person shall be qualified for nomination or to continue as a member of the Council, if on the date of such nomination he is,-</listIntroduction>
+                <item id="section-4.1.list1.a">
+                  <num>(a)</num>
+                  <p>of unsound mind or a deaf, mute; or</p>
+                </item>
+                <item id="section-4.1.list1.b">
+                  <num>(b)</num>
+                  <p>adjudicated as an un-discharged insolvent;</p>
+                </item>
+                <item id="section-4.1.list1.c">
+                  <num>(c)</num>
+                  <p>sentenced by a criminal court to imprisonment for any offence involving moral turpitude;</p>
+                </item>
+                <item id="section-4.1.list1.d">
+                  <num>(d)</num>
+                  <p>directly or indirectly by himself or his partner has any share or interest in any work done by order of, or in any contract entered into on behalf of the Council;</p>
+                </item>
+                <item id="section-4.1.list1.e">
+                  <num>(e)</num>
+                  <p>a person who has been terminated from any Government or university service for guilty of misconduct or negligence.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>In case of dispute or doubt as to whether a person is disqualified under sub-section (1), the decision of the Government shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>Save as otherwise provided in this Act, no person who is not a graduate of any University established by law shall be eligible for nomination as a member of the Council under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in this Act but save as otherwise provided, any employee of the University, both teaching and non-teaching or ministerial or any person in the management of an affiliated college in whatever capacity shall not be eligible for nomination as member of the Council under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Powers and functions of the Council.-</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>The powers and functions of the Council shall be as follows, namely:-</p>
+              <blockList id="section-5.paragraph-0.list2">
+                <listIntroduction>A. General Functions:-</listIntroduction>
+                <item id="section-5.paragraph-0.list2.i">
+                  <num>(i)</num>
+                  <p>It shall render advice to the Government, Universities and other institutions of higher education in the State;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.ii">
+                  <num>(ii)</num>
+                  <p>It shall co-ordinate the roles of the Government, Universities and apex regulatory agencies in higher education within the State;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.iii">
+                  <num>(iii)</num>
+                  <p>It shall evolve new concepts, programmes and perspective plans for development of higher education suo moto or on the suggestion by the Government or requests from Universities or other institutions in the State;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.iv">
+                  <num>(iv)</num>
+                  <p>It shall monitor the progress of implementation of the Developmental Programmes of Universities and colleges taken up in the State with the assistance of National Regulatory Agencies.</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.v">
+                  <num>(v)</num>
+                  <p>It shall promote co-operation and co-ordination of the educational institutions among themselves and explore the scope for inter action with industry and other related establishment;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.vi">
+                  <num>(vi)</num>
+                  <p>It shall prepare an annual report making self-appraisal and showing details of its performance;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.vii">
+                  <num>(vii)</num>
+                  <p>It shall suggest measures for the academic and financial accountability of the Universities and other Institutions of higher education in the State;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.viii">
+                  <num>(viii)</num>
+                  <blockList id="section-5.paragraph-0.list2.viii.list0">
+                    <listIntroduction>It shall prepare the annual budget and the audited statement of expenditure in such manner as may be prescribed.</listIntroduction>
+                    <item id="section-5.paragraph-0.list2.viii.list0.B">
+                      <num>(B)</num>
+                      <p>Academic Functions:-</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-5.paragraph-0.list2.i">
+                  <num>(i)</num>
+                  <p>It shall encourage and promote innovations in curricular development, restructuring of courses and updating of syllabi in the University and the colleges;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.ii">
+                  <num>(ii)</num>
+                  <p>It shall co-ordinate the programmes of autonomous colleges and monitor their implementation;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.iii">
+                  <num>(iii)</num>
+                  <p>It shall devise steps to improve the standards of examinations conducted by Universities and suggest necessary reforms;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.iv">
+                  <num>(iv)</num>
+                  <p>It shall facilitate training of teachers in Universities and colleges;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.v">
+                  <num>(v)</num>
+                  <p>It shall promote and monitor publication of quality text book, monographs and reference books;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.vi">
+                  <num>(vi)</num>
+                  <p>It shall develop programmes for greater academic co-operation and interaction between University and College teachers and to facilitate mobility of students and teachers within and outside the State;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.vii">
+                  <num>(vii)</num>
+                  <p>It shall advice on regulation of admission in Universities, colleges and institutions of higher education;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.viii">
+                  <num>(viii)</num>
+                  <p>It shall encourage sports, games, physical education and cultural activities in the Universities and colleges;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.ix">
+                  <num>(ix)</num>
+                  <p>It shall review periodically, the existing guidelines and furnish recommendations for regulating admissions to various courses and for appointments to the posts of teachers and teacher-administrators in Universities, colleges and other institutions of higher education;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.x">
+                  <num>(x)</num>
+                  <p>It shall prepare an overview report on the working of the Universities and colleges in the State and furnish a copy thereof to the Government and such other authorities as the Government may specify;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.xi">
+                  <num>(xi)</num>
+                  <p>It shall perform such other functions for the realization of the twin objectives of equality and excellence in higher education;</p>
+                </item>
+                <item id="section-5.paragraph-0.list2.C">
+                  <num>(C)</num>
+                  <p>Advisory Functions:-</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-5.1.list1">
+                <listIntroduction>It shall advice the Government,-</listIntroduction>
+                <item id="section-5.1.list1.i">
+                  <num>(i)</num>
+                  <p>regarding the norms, if any relating to the establishment of new Universities and colleges besides additional subjects and departments in the existing Universities and colleges;</p>
+                </item>
+                <item id="section-5.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>regarding the Statutes, Ordinances and Regulations of Universities in the State and to suggest modification wherever required to maintain uniformity in the administration without prejudice to the autonomy for the academic pursuits;</p>
+                </item>
+                <item id="section-5.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>on any University, college or institution of higher education or any other matter relating to higher education and research which may be referred to the Council;</p>
+                </item>
+                <item id="section-5.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>in determining the block maintenance grants and to lay down the basis for such grants;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-5.2.list1">
+                <listIntroduction>It shall perform any other functions necessary for the furtherance of higher Education in the State.</listIntroduction>
+                <item id="section-5.2.list1.D">
+                  <num>(D)</num>
+                  <p>Powers of the Council.-</p>
+                </item>
+                <item id="section-5.2.list1.i">
+                  <num>(i)</num>
+                  <p>It shall prepare a perspective plan for implementation of the policies, evolve various programmes and determine the priorities of such programmes for implementation;</p>
+                </item>
+                <item id="section-5.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>It shall propose general guidelines for the release of grants by the Government to Universities and other institutions of higher education and advise the Government about the release of such grants to each University and other institutions of higher education;</p>
+                </item>
+                <item id="section-5.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>It shall give such directions as may be necessary for effective functioning of the Executive Committee in accordance with its objectives;</p>
+                </item>
+                <item id="section-5.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>It shall frame regulations in accordance with this Act and the rules made there under;</p>
+                </item>
+                <item id="section-5.2.list1.v">
+                  <num>(v)</num>
+                  <p>It shall have such other powers as may be prescribed for the effective implementation of the programmes for the furtherance of the objectives of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>The Chairman.-</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairman shall have the right to call for report on any matter pertaining to the affairs of the Council and offer suggestions for the improvement of the functioning of the Council.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman shall preside over the meetings of the Council and the Executive Committee.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>The Vice-Chairman.-</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Vice-Chairman shall preside over the meetings of the Council or the Executive Committee in the absence of the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The Vice-Chairman shall exercise such other powers and perform such other functions as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The Vice- Chairman or any member other than an ex-officio member shall be appointed by the Government ordinarily for a term of five years and shall not be eligible for reappointment for a second term:</p>
+              <p>Provided that a person who has not attained the age of seventy years shall be eligible to be appointed as the Vice-Chairman.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>The Executive Director.-</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>A senior administrative officer, serving or retired, not below the rank of a Principal Secretary to the State Government, having aptitude and experience in the field of education or who is or has been a Vice-Chancellor or a Professor with not less than ten years of experience shall be appointed by the Government as the Executive Director of the Council.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The Executive Director shall be appointed by the Government ordinarily for a term of five years and shall not be eligible for reappointment for a second term:</p>
+              <p>Provided that a person who has not attained the age of sixty-five years shall be eligible to be appointed as the Executive Director.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>The Executive Director shall be the Executive officer and responsible for the co-ordination of the functions of the Council.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.4">
+            <num>(4)</num>
+            <content>
+              <p>The Executive Director shall exercise such powers and perform such functions as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Term of the Council.-</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The term of the Council shall be for a period of five years. The Government shall re-constitute the Council once in every five years:</p>
+              <p>Provided that in the event of delay in the constitution of the new Council, the existing Council may continue for a period of six months from the date of expiry of the term or till the reconstitution of new council whichever is earlier.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Meetings of the Council.-</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>The Council shall meet as often as may be necessary, at such time and place and observe such rules of procedure as may be provided in the regulations, but it shall meet at least twice a year.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall have power to act, notwithstanding any vacancy in the membership or any defect in the constitution thereof, and the proceedings of the Council shall be valid notwithstanding that some person, who was not entitled to be a member, had attended, or otherwise had taken part in the proceedings of the Council.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>The meeting of the Council shall be convened by the Executive Director on the advice of the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>The quorum of the meeting of the Council shall be one third of the total members of the Council. The decisions of the meeting may be taken by simple majority of those present and voting.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Terms and conditions of the Vice-Chairman, the Executive Director and members.-</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Vice-Chairman, Executive Director or any Member, may in writing under his signature, addressed to the Chairman, resign his membership to the Council:</p>
+              <p>Provided that he shall continue to hold such office until his resignation is accepted and communicated in writing.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The salaries, allowances and other perquisites payable to the Vice Chairman shall be the same as that of a Vice Chancellor of a University.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>The salaries and allowances payable to the Executive Director shall be the same as that of a Principal Secretary to the Government, if he is a retired officer, and his pay shall be reduced to that of his pension and DCRG. If a serving officer is appointed is not entitled for any salary or allowances.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to the pleasure of the Government, a non-official member shall hold the office for a term of five years or till the expiry of the term of the body represented by him whichever is earlier.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>The non-official member shall be eligible for such rate of travelling allowance, daily allowance and sitting fee as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.6">
+            <num>(6)</num>
+            <content>
+              <p>Subject to the provisions of this section, the other terms and conditions of service of the Vice-Chairman, Executive Director and Members shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Removal from Membership of the Council.-</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>If, at any time, it appears to the Government that a member appointed or nominated has proved himself to be unfit to hold office or has been guilty of misconduct or neglect which in the opinion of the Government renders his removal from the membership of the Council, as expedient, the Government may, after giving such member, a reasonable opportunity of showing cause as to why he shall not be removed from the Council and after examining the same decide whether to continue or remove such member, as the case may be, from his membership and in case of such removal from the membership of the Council it shall be made by notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The Vice-Chairman or the Executive Director shall not be removed except by an order of the State Government passed on the ground of willful omission or refusal to carry out the provisions of this Act or Rules or Regulations made there under or for abuse of the powers vested in him after consideration of the report of an inquiry ordered by the State Government in this behalf.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Filling up of casual vacancy.-</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>If a casual vacancy arises in the office of a nominated or appointed Member, either by reason of his death, resignation, removal or otherwise, such vacancy shall be filled up by the Government by nomination or appointment as the case may be and such Member shall hold office only for the remainder of the term of the Member in whose place he was nominated or appointed.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>The executive committee</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>The Executive Committee.-</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <blockList id="section-14.paragraph-0.list1">
+                <listIntroduction>There shall be an Executive Committee for the Council which shall consist of the following members, namely:-</listIntroduction>
+                <item id="section-14.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>the Vice-Chairman of the council; - Chairman</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>the Executive Director; - Member-Secretary</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.iii">
+                  <num>(iii)</num>
+                  <p>two Vice-Chancellors, nominated by rotation by the Council for a period of one year - Members</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.iv">
+                  <num>(iv)</num>
+                  <p>four of the ten academicians of repute who are the members of the Council nominated by it by rotation for a period of twenty months - Members</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.v">
+                  <num>(v)</num>
+                  <p>the Principal Secretary to Government, Higher Education Department, - Ex-officio member</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.vi">
+                  <num>(vi)</num>
+                  <p>the Principal Secretary to the Government, Medical Education Department, - Ex-officio member</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Powers and functions of the Executive Committee.-</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <blockList id="section-15.paragraph-0.list1">
+                <listIntroduction>The Executive Committee shall have the following powers and perform the following functions, namely:-</listIntroduction>
+                <item id="section-15.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>It shall be competent to take decisions on behalf of the Council, subject to the concurrence of the Council in all matters with policy implications:</p>
+                </item>
+              </blockList>
+              <blockList id="section-15.paragraph-0.list3">
+                <listIntroduction>Provided that in urgent circumstances the Executive Committee may take a decision subject to ratification by the Council;</listIntroduction>
+                <item id="section-15.paragraph-0.list3.ii">
+                  <num>(ii)</num>
+                  <p>It shall incur such expenses as are necessary to fulfill the objectives set out in this Act and carry out all decisions taken by the Council;</p>
+                </item>
+                <item id="section-15.paragraph-0.list3.iii">
+                  <num>(iii)</num>
+                  <p>It shall present before the Council the annual academic and financial audit reports of the Council for its approval;</p>
+                </item>
+                <item id="section-15.paragraph-0.list3.iv">
+                  <num>(iv)</num>
+                  <p>It shall have such other powers, functions and duties as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Meetings.-</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>The meetings of the Executive Committee shall be convened by the Executive Director on the advice of the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall meet, as often as may be necessary, at such time and place and observe such rules of procedure as may be provided in the regulations provided that it shall meet at least once in three months.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>The quorum for the meetings of the Executive Committee shall be one third of the filled up membership in each body and decisions may be taken in the meetings by simple majority of those present and voting.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Directions by the government</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Directions by the Government.-</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>On the recommendation of the Council, or suo-moto the Government may, direct any university with such modification as may be necessary to implement the reforms in such manner as may be specified therein. Notwithstanding anything contained in any law for the time being in force, it shall be obligatory on the part of the university to implement the directions given by the Government and to report the action taken to the Government and the council accordingly. The council shall review from time to time the compliance by the universities, of the direction given by the Government.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Funds of the council</heading>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Funds of the Council.-</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The funds of the Council shall include all sums which may, from time to time, be paid to it by the Government and all other receipts including any sum from the Central Government, the University Grants Commission or any other authority, institutions or person.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The Government may pay to the Council every financial year such sums as may be considered necessary for the functioning of the Council and for the discharge of its responsibilities and duties.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <p>All expenditure incurred by the Council under or for the purposes of this Act shall be defrayed from out of the Fund and any surplus remaining, after such expenditure has been met, shall be invested in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Annual Accounts and Audit.-</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>The accounts of the Council shall be maintained in such manner and in such form as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>The Council shall prepare an annual statement of accounts in such form and in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>The accounts of the Council shall be audited once in a year by such auditor as the Government may appoint in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>The Executive Director to the Council shall cause the annual audit report to be printed and forward a printed copy thereof to each member and shall place such report before the Governing Council for consideration at its next meeting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.5">
+            <num>(5)</num>
+            <content>
+              <p>The Council shall take appropriate action forthwith to remedy any defect or irregularity that may be pointed out in the audit report.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.6">
+            <num>(6)</num>
+            <content>
+              <p>The accounts of the Council as certified by the auditor together with the audit report along with the remarks of the Council thereon shall be forwarded to the Government within such time as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.7">
+            <num>(7)</num>
+            <content>
+              <p>The Government shall, as soon as may be after the receipt of the annual accounts together with the audit report under sub-section (6), cause the same to be laid before both the Houses of Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Annual Report.-</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The Council shall prepare for every year a report of its activities under this Act during that year and submit the report to the Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>The Government shall, as soon as may be after the receipt of a report under sub-section (1), cause the same to be laid before both the Houses of Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Protection of acts done in good faith.-</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against the Council or any member or officer or employee of the Council for anything which is done or intended to be done in good faith in pursuance of the provisions of this Act or any rules or regulations made there under.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Staff of the Council.-</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>The Council shall, with prior approval of the Government appoint such officers and staff, as it deems necessary for the discharge of its functions under this Act. The terms and conditions of service of the officers and staff of the Council shall be such as may be specified in the regulations to be framed by the Council.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Members and Staff of the Council to be public servants.-</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>The Chairman, Vice-Chairman, Members, Officers and Staff of the Council shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act or any rule or regulation or order or direction made or issued under this Act shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (Central Act 45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to make regulations.-</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>The Council may, with prior approval of the Government, make regulations not inconsistent with the provisions of this Act and rules made thereunder for carrying out all or any of the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power to make rules.-</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may by notification make rules, for carrying out all or any of the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power to remove difficulties.-</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act,</p>
+              <p>the Government may, by order, as occasion may require, do anything not inconsistent with the provisions of this Act which appears to them to be necessary or expedient for the purpose of removing the difficulty.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order issued under sub-section (1) shall, as soon as may be after it is made be laid before both the Houses of Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Amendment of Karnataka Act 29 of 2001.-</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>In the Karnataka State Universities Act, 2000 (Karnataka Act 29 of 2001), section 72 shall be omitted.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

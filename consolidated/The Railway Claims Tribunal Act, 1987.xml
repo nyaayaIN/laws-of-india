@@ -1,0 +1,827 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1987/54/main"/>
+          <FRBRuri value="/in-union/act/1987/54"/>
+          <FRBRalias value="The Railway Claims Tribunal Act, 1987"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1987/54/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1987/54/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1987/54/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1987/54/eng@1980-01-01"/>
+          <FRBRdate date="2017-02-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Railway Claims Tribunal Act, 1987</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 54 OF 1987</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[23rd. December, 1987.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to provide for the establishment of a Railway Claims Tribunal for inquiring into and determining claims against a railway administration for loss, destruction, damage, deterioration or non-delivery of animals or goods entrusted to it to be carried by railway or for the refund of fares or freight or for compensation for death or injury to passengers occurring as a result of railway accidents or untoward incidents and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Thirty-eighth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Railway Claims Tribunal Act, 1987.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“application” means an application made under section 16;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“appointed day” means the date with effect from which the Claims Tribunal is established under section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“Bench” means a Bench of the Claims Tribunal;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“Chairman” means the Chairman of the Claims Tribunal;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“Claims Tribunal” means the Railway Claims Tribunal established under section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“Judicial Member” means a Member of the Claims Tribunal appointed as such under this Act, and includes the Chairman or Vice-Chairman who possesses any of the qualifications specified in sub-section (3) of section 5;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“Member” means a Member (whether Judicial or Technical) of the Claims Tribunal, and includes the Chairman and Vice-Chairman;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“notification” means a notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“prescribed” means prescribed by rules;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“Railways Act” means the Indian Railways Act, 1890 (9 of 1890);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“rules” means rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“Technical Member” means a Member of the Claims Tribunal who is not a Judicial Member, and includes the Chairman or a Vice-Chairman who possesses any of the qualifications specified in sub-section (4) of section 5;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“Vice-Chairman” means a Vice-Chairman of the Claims Tribunal.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—</p>
+              <blockList id="section-2.paragraph-0.list4">
+                <listIntroduction>References to the Vice-Chairman in this Act shall be construed as references to each of the Vice-Chairman;</listIntroduction>
+                <item id="section-2.paragraph-0.list4.n">
+                  <num>(n)</num>
+                  <p>“untoward incident” shall have the meaning assigned to it in clause (c) of section 123 of the Railways Act, 1989;(o) words and expressions used and not defined in this Act but defined in the Railways Act or the rules made thereunder shall have the meanings respectively assigned to them in that Act or the said rules.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Establishment of railway claims tribunal and benches thereof</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment of Railway Claims Tribunal.—</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>The Central Government shall, by notification, establish a Claims Tribunal, to be known as the Railway Claims Tribunal, to exercise the jurisdiction, powers and authority conferred on it by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Composition of Claims Tribunal and Benches thereof.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The Claims Tribunal shall consist of a Chairman, four Vice-Chairmen and such number of Judicial Members and Technical Members as the Central Government may deem fit and, subject to the other provisions of this Act, the jurisdiction, powers and authority of the Claims Tribunal may be exercised by Benches thereof.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the other provisions of this Act, a Bench shall consist of one Judicial Member and one Technical Member.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-4.3.list1">
+                <listIntroduction>Notwithstanding anything contained in sub-section (1), the Chairman—</listIntroduction>
+                <item id="section-4.3.list1.a">
+                  <num>(a)</num>
+                  <p>may, in addition to discharging the functions of the Judicial Member or the Technical Member of the Bench to which he is appointed, discharge the functions of the Judicial Member or, as the case may be, the Technical Member, of any other Bench;</p>
+                </item>
+                <item id="section-4.3.list1.b">
+                  <num>(b)</num>
+                  <p>may transfer a Vice-Chairman or other Member from one Bench to another Bench;</p>
+                </item>
+                <item id="section-4.3.list1.c">
+                  <num>(c)</num>
+                  <p>may authorise the Vice-Chairman or the Judicial Member or the Technical Member appointed to one Bench to discharge also the functions of the Vice-Chairman or, as the case may be, the Judicial Member or the Technical Member of another Bench.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in the foregoing provisions of this section, it shall be competent for the Chairman or any other Member authorised by the Chairman in this behalf to function as a Bench consisting of a single Member and exercise the jurisdiction, powers and authority of the Claims Tribunal in respect of such classes of cases or such matters pertaining to such classes of cases as the Chairman may, by general or special order, specify:</p>
+              <p>Provided that if at any stage of the hearing of any such case or matter, it appears to the Chairman or such Member that the case or matter is of such a nature that it ought to be heard by a Bench consisting of two Members, the case or matter may be transferred by the Chairman or, as the case may be, referred to him for transfer, to such Bench as the Chairman may deem fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>Subject to the other provisions of this Act, the Benches shall sit at such places as the Central Government may, by notification, specify.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Qualifications for appointment as Chairman, Vice-Chairman or other Member.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-5.1.list1">
+                <listIntroduction>A person shall not be qualified for appointment as the Chairman unless he—</listIntroduction>
+                <item id="section-5.1.list1.a">
+                  <num>(a)</num>
+                  <p>is, or has been, a Judge of a High Court; or</p>
+                </item>
+                <item id="section-5.1.list1.b">
+                  <num>(b)</num>
+                  <p>has, for at least two years, held the office of a Vice-Chairman. (2) A person shall not be qualified for appointment as the Vice-Chairman unless he—</p>
+                </item>
+                <item id="section-5.1.list1.a">
+                  <num>(a)</num>
+                  <p>is, or has been, or is qualified to be, a Judge of a High Court; or</p>
+                </item>
+                <item id="section-5.1.list1.b">
+                  <num>(b)</num>
+                  <p>has been a member of the Indian Legal Service and has held a post in Grade I of that Service or any higher post for at least five years; or</p>
+                </item>
+                <item id="section-5.1.list1.c">
+                  <num>(c)</num>
+                  <p>has, for at least five years, held a civil judicial post carrying a scale of pay which is not less than that of a Joint Secretary to the Government of India; or</p>
+                </item>
+                <item id="section-5.1.list1.d">
+                  <num>(d)</num>
+                  <p>has, for at least five years, held a post under a railway administration carrying a scale of pay which is not less than that of a Joint Secretary to the Government of India and has adequate knowledge of rules and procedure of, and experience in, claims and commercial matters relating to railways; or</p>
+                </item>
+                <item id="section-5.1.list1.e">
+                  <num>(e)</num>
+                  <p>has, for a period of not less than three years, held office as a Judicial Member or a Technical Member.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-5.3.list1">
+                <listIntroduction>A person shall not be qualified for appointment as a Judicial Member unless he—</listIntroduction>
+                <item id="section-5.3.list1.a">
+                  <num>(a)</num>
+                  <p>is, or has been, or is qualified to be, a Judge of a High Court; or</p>
+                </item>
+                <item id="section-5.3.list1.b">
+                  <num>(b)</num>
+                  <p>has been a Member of the Indian Legal Service and has held a post in Grade I of that Service for at least three years; or</p>
+                </item>
+                <item id="section-5.3.list1.c">
+                  <num>(c)</num>
+                  <p>has, for at least three years, held a civil judicial post carrying a scale of pay which is not less than that of a Joint Secretary to the Government of India.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as a Technical Member unless he has, for at least three years, held a post under a railway administration carrying a scale of pay which is not less than that of a Joint Secretary to the Government of India and has adequate knowledge of rules and procedure of, and experience in, claims and commercial matters relating to railways.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.5">
+            <num>(5)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (6), the Chairman, Vice-Chairman and every other Member shall be appointed by the President.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.6">
+            <num>(6)</num>
+            <content>
+              <p>No appointment of a person as the Chairman shall be made except after consultation with the Chief Justice of India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Vice-Chairman to act as Chairman or to discharge his functions in certain circumstances.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>In the event of the occurrence of any vacancy in the office of the Chairman by reason of his death, resignation or otherwise, such one of the Vice-Chairman as the Central Government may, by notification, authorise in this behalf, shall act as the Chairman until the date on which a new Chairman, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>When the Chairman is unable to discharge his functions owing to absence, illness or any other cause, such one of the Vice-Chairmen as the Central Government may, by notification, authorise in this behalf, shall discharge the functions of the Chairman until the date on which the Chairman resumes his duties.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Term of office.—</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <blockList id="section-7.paragraph-0.list1">
+                <listIntroduction>The Chairman, Vice-Chairman or other Member shall hold office as such for a term of five years from the date on which he enters upon his office or until he attains,—</listIntroduction>
+                <item id="section-7.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of the Chairman, the age of sixty-five years; and</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>in the case of the Vice-Chairman or any other Member, the age of sixty-two years, whichever is earlier.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Resignation and removal.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairman, Vice-Chairman or other Member may, by notice in writing under his hand addressed to the President, resign his office:</p>
+              <p>Provided that the Chairman, Vice-Chairman or other Member shall, unless he is permitted by the President to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of such notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is the earliest.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman, Vice-Chairman or any other Member shall not be removed from his office except by an order made by the President on the ground of proved misbehaviour or incapacity after an inquiry made by a Judge of the Supreme Court in which such Chairman, Vice-Chairman or other Member had been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may, by rules, regulate the procedure for the investigation of misbehaviour or incapacity of the Chairman, Vice-Chairman or other Member referred to in sub-section (2).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Salaries and allowances and other terms and conditions of service of Chairman, Vice-Chairman and other Members.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The salaries and allowances payable to, and the other terms and conditions of service (including pension, gratuity and other retirement benefits) of, the Chairman, Vice-Chairman and other Members shall be such as may be prescribed:</p>
+              <p>Provided that neither the salary and allowances nor the other terms and conditions of service of the Chairman, Vice-Chairman or other Members shall be varied to his disadvantage after his appointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Provision as to the holding of offices by Chairman, Vice-Chairman, etc., on ceasing to be such Chairman or Vice-Chairman, etc.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <blockList id="section-10.paragraph-0.list1">
+                <listIntroduction>On ceasing to hold office—</listIntroduction>
+                <item id="section-10.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the Chairman of the Claims Tribunal shall be ineligible for further employment either under the Government of India or under the Government of a State;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>a Vice-Chairman shall, subject to the other provisions of this Act, be eligible for appointment as the Chairman of the Claims Tribunal, or as the chairman, vice-chairman or member of any other Tribunal established under any law for the time being in force, but not for any other employment either under the Government of India or under the Government of a State;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>a Member (other than the Chairman or Vice-Chairman) shall, subject to the other provisions of this Act, be eligible for appointment as the Chairman or Vice-Chairman or as the chairman, vice-chairman or member of any other Tribunal established under any law for the time being in force, but not for any other employment either under the Government of India or under the Government of a State;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>the Chairman, Vice-Chairman or other Member shall not appear, act or plead before the Claims Tribunal.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section, employment under the Government of India or under the Government of a State includes employment under any local or other authority within the territory of India or under the control of the Government of India or under any corporation or society owned or controlled by the Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Financial and administrative powers of Chairman.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>The Chairman shall exercise such financial and administrative powers over the Benches as may be vested in him under the rules:</p>
+              <p>Provided that the Chairman shall have authority to delegate such of his financial and administrative powers as he may think fit to the Vice-Chairman or any other officer of the Claims Tribunal, subject to the condition that the Vice-Chairman or such officer shall, while exercising such delegated powers, continue to act under the direction, control and supervision of the Chairman.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Staff of Claims Tribunal.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall determine the nature and categories of the officers and other employees required to assist the Claims Tribunal in the discharge of its functions and provide the Claims Tribunal with such officers and other employees as it may think fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The officers and other employees of the Claims Tribunal shall discharge their functions under the general superintendence of the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>The salaries and allowances and conditions of service of the officers and other employees of the Claims Tribunal shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Jurisdiction, powers and authority of claims tribunal</heading>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Jurisdiction, powers and authority of Claims Tribunal.—</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>The Claims Tribunal shall exercise, on and from the appointed day, all such jurisdiction, powers and authority as were exercisable immediately before that day by any civil court or a Claims Commissioner appointed under the provisions of the Railways Act,—</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.1A">
+            <num>(1A)</num>
+            <content>
+              <blockList id="section-13.1A.list1">
+                <listIntroduction>The Claims Tribunal shall also exercise, on and from the date of commencement of the provisions of section 124A of the Railways Act, 1989 (24 of 1989), all such jurisdiction, powers and authority as were exercisable immediately before that date by any civil court in respect of claims for compensation now payable by the railway administration under section 124A of the said Act or the rules made thereunder.;(a) relating to the responsibility of the railway administrations as carriers under Chapter VII of the Railways Act in respect of claims for—</listIntroduction>
+                <item id="section-13.1A.list1.i">
+                  <num>(i)</num>
+                  <p>compensation for loss, destruction, damage, deterioration or non-delivery of animals or goods entrusted to a railway administration for carriage by railway;</p>
+                </item>
+                <item id="section-13.1A.list1.ii">
+                  <num>(ii)</num>
+                  <p>compensation payable under section 82A of the Railways Act or the rules made thereunder; and</p>
+                </item>
+                <item id="section-13.1A.list1.b">
+                  <num>(b)</num>
+                  <p>in respect of the claims for refund of fares or part thereof or for refund of any freight paid in respect of animals or goods entrusted to a railway administration to be carried by railway.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of the Railways Act, 1989 (24 of 1989) and the rules made thereunder shall, so far as may be, be applicable to the inquiring into or determining, any claims by the Claims Tribunal under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Distribution of business amongst Benches.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any Benches are constituted, the Central Government may, from time to time, by notification, make provisions as to the distribution of the business of the Claims Tribunal amongst the Benches and specify the matters which may be dealt with by each Bench.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>If any question arises as to whether any matter falls within the purview of the business allocated to a Bench, the decision of the Chairman shall be final.</p>
+              <p>Explanation.—</p>
+              <p>For the removal of doubts, it is hereby declared that the expression “matters” includes an application under section 20.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Bar of jurisdiction.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>On and from the appointed day, no court or other authority shall have, or be entitled to, exercise any jurisdiction, powers or authority in relation to the matters referred to in sub-sections (1) and (1A) of section 13.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Procedure</heading>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Application to Claims Tribunal.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>A person seeking any relief in respect of the matters referred to in sub-section (1) or sub-section (1A) of section 13 may make an application to the Claims Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Every application under sub-section (1) shall be in such form and be accompanied by such documents or other evidence and by such fee in respect of the filing of such application and by such other fees for the service or execution of processes as may be prescribed:</p>
+              <p>Provided that no such fee shall be payable in respect of an application under sub-clause (ii) of clause (a) of sub-section (1) or, as the case may be, sub-section (1A) of section 13.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Limitation.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-17.1.list1">
+                <listIntroduction>The Claims Tribunal shall not admit an application for any claim—</listIntroduction>
+                <item id="section-17.1.list1.a">
+                  <num>(a)</num>
+                  <p>under sub-clause (i) of clause (a) of sub-section (1) of section 13 unless the application is made within three years from the date on which the goods in question were entrusted to the railway administration for carriage by railway;</p>
+                </item>
+                <item id="section-17.1.list1.b">
+                  <num>(b)</num>
+                  <p>under sub-clause (ii) of clause (a) of sub-section (1) or, as the case may be, sub-section (1A) of section 13 unless the application is made within one year of occurrence of the accident;</p>
+                </item>
+                <item id="section-17.1.list1.c">
+                  <num>(c)</num>
+                  <p>under clause (b) of sub-section (1) of section 13 unless the application is made within three years from the date on which the fare or freight is paid to the railway administration:</p>
+                </item>
+              </blockList>
+              <p>Provided that no application for any claim referred to in sub-clause (i) of clause (a) of sub-section (1) of section 13 shall be preferred to the Claims Tribunal until the expiration of three months next after the date on which the intimation of the claim has been preferred under section 78B of the Railways Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), an application may be entertained after the period specified in sub-section (1) if the applicant satisfies the Claims Tribunal that he had sufficient cause for not making the application within such period.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Procedure and powers of Claims Tribunal.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The Claims Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act and of any rules, the Claims Tribunal shall have powers to regulate its own procedure including the fixing of places and times of its enquiry.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The Claims Tribunal shall decide every application as expeditiously as possible and ordinarily every application shall be decided on a perusal of documents, written representations and affidavits and after hearing such oral arguments as may be advanced.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-18.3.list1">
+                <listIntroduction>The Claims Tribunal shall have, for the purposes of discharging its functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:—</listIntroduction>
+                <item id="section-18.3.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-18.3.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of documents;</p>
+                </item>
+                <item id="section-18.3.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-18.3.list1.d">
+                  <num>(d)</num>
+                  <p>subject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872 (1 of 1872), requisitioning any public record or document or copy of such record or document from any office;</p>
+                </item>
+                <item id="section-18.3.list1.e">
+                  <num>(e)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-18.3.list1.f">
+                  <num>(f)</num>
+                  <p>reviewing its decisions;</p>
+                </item>
+                <item id="section-18.3.list1.g">
+                  <num>(g)</num>
+                  <p>dismissing an application for default or deciding it ex parte;</p>
+                </item>
+                <item id="section-18.3.list1.h">
+                  <num>(h)</num>
+                  <p>setting aside any order of dismissal of any application for default or any order passed by it ex parte;</p>
+                </item>
+                <item id="section-18.3.list1.i">
+                  <num>(i)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Right to legal representation and presenting officers.—</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>A person making an application to the Claims Tribunal may either appear in person or take the assistance of a legal practitioner of his choice to present his case before the Claims Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>A railway administration may authorise one or more legal practitioners or any of its officers to act as presenting officers and every person so authorised by it may present its case with respect to any application before the Claims Tribunal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Power of Chairman to transfer cases from one Bench to another.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>On the application of any of the parties and after notice to the parties, and after hearing such of them as he may desire to be heard, or on his own motion without such notice, the Chairman may transfer any case pending before one Bench, for disposal, to any other Bench.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Decision to be by majority.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>If the Members of a Bench differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the Chairman who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more of the other Members and such point or points shall be decided according to the opinion of the majority of the Members who have heard the case, including those who first heard it.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Execution of orders of Claims Tribunal.—</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>An order made by the Claims Tribunal under this Act shall be executable by the Claims Tribunal as a decree of civil court and, for this purpose, the Claims Tribunal shall have all the powers of a civil court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), the Claims Tribunal may transmit any order made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Appeals</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Appeals.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as provided in sub-section (2) and notwithstanding anything contained in the Code of Civil Procedure, 1908 (5 of 1908) or in any other law, an appeal shall lie from every order, not being an interlocutory order, of the Claims Tribunal, to the High Court having jurisdiction over the place where the Bench is located.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>No appeal shall lie from an order passed by the Claims Tribunal with the consent of the parties.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal under this section shall be preferred within a period of ninety days from the date of the order appealed against.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Transfer of pending cases.—</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>Every suit, claim or other legal proceeding (other than an appeal) pending before any court, Claims Commissioner or other authority immediately before the appointed day, or, as the case may be, the date of commencement of the provisions of sub-section (1A) of section 13 being a suit, claim or proceeding the cause of action whereon it is based is such that it would have been, if it had arisen after the appointed day, or, as the case may be, the date of commencement of the provisions of sub-section (1A) of section 13 within the jurisdiction of the Claims Tribunal, shall stand transferred on that day or, as the case may be, date to the Claims Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-24.2.list1">
+                <listIntroduction>Where any suit, claim or other legal proceeding stands transferred from any court, Claims Commissioner or other authority to the Claims Tribunal under sub-section (1),—</listIntroduction>
+                <item id="section-24.2.list1.a">
+                  <num>(a)</num>
+                  <p>the court, Claims Commissioner or other authority shall, as soon as may be after such transfer, forward the records of such suit, claim or other legal proceeding to the Claims Tribunal;</p>
+                </item>
+                <item id="section-24.2.list1.b">
+                  <num>(b)</num>
+                  <p>the Claims Tribunal may, on receipt of such records, proceed to deal with such suit, claim or other legal proceeding, so far as may be, in the same manner as an application, from the stage which was reached before such transfer or from any earlier stage or de novo as the Claims Tribunal may deem fit.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Proceedings before Claims Tribunal to be judicial proceedings.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>All proceedings before the Claims Tribunal shall be deemed to be judicial proceedings within the meaning of sections 193, 219 and 228 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Members and staff of Claims Tribunal to be public servants.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>The Chairman, Vice-Chairman and other Members and the officers and other employees of the Claims Tribunal shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against the Central Government or against the Chairman, Vice-Chairman or other Member, or any other person authorised by the Chairman, Vice-Chairman or other Member for anything which is in good faith done or intended to be done in pursuance of this Act or any rule or order made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Act to have overriding effect.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no such order shall be made after the expiry of a period of three years from the appointed day.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-30.2.list1">
+                <listIntroduction>Without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-30.2.list1.a">
+                  <num>(a)</num>
+                  <p>the procedure under sub-section (3) of section 8 for the investigation of misbehaviour or incapacity of the Chairman, Vice-Chairman or other Member;</p>
+                </item>
+                <item id="section-30.2.list1.b">
+                  <num>(b)</num>
+                  <p>salaries and allowances payable to, and the other terms and conditions of service (including pension, gratuity and other retirement benefits) of, the Chairman, Vice-Chairman and other Members under section 9;</p>
+                </item>
+                <item id="section-30.2.list1.c">
+                  <num>(c)</num>
+                  <p>the financial and administrative powers which the Chairman may exercise over the Benches under section 11;</p>
+                </item>
+                <item id="section-30.2.list1.d">
+                  <num>(d)</num>
+                  <p>the salaries and allowances and conditions of service of officers and other employees of the Claims Tribunal under sub-section (3) of section 12;</p>
+                </item>
+                <item id="section-30.2.list1.e">
+                  <num>(e)</num>
+                  <p>the form of application, the documents and other evidence to be accompanied with such application and fee in respect of filing of such application and fee for the service or execution of processes under sub-section (2) of section 16;</p>
+                </item>
+                <item id="section-30.2.list1.f">
+                  <num>(f)</num>
+                  <p>the rules subject to which the Claims Tribunal shall have powers to regulate its own procedure under sub-section (1) of section 18 and the additional matters in which the Claims Tribunal may exercise powers of civil court under clause (i) of sub-section (3) of that section;</p>
+                </item>
+                <item id="section-30.2.list1.g">
+                  <num>(g)</num>
+                  <p>any other matter which is required to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of on effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30A">
+          <num>30A.</num>
+          <heading>Power to make rules retrospectively.—</heading>
+          <paragraph id="section-30A.paragraph-0">
+            <content>
+              <p>The power to make rules under clause (b) of sub-section (2) of section 30 shall include the power to make such rules or any of them retrospectively from a date not earlier than the date on which this Act received the assent of the President, but no such retrospective effect shall be given to any such rule so as to prejudicially affect the interests of any person to whom such rule may be applicable.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Amendments to the Railways Act.</heading>
+        <paragraph id="chapter-VII.paragraph-0">
+          <content>
+            <p>Rep. by the Repealing and Amending Act, 2001 (30 of 2001), s. 2 and the First Schedule (w.e.f. 3-9-2001).</p>
+          </content>
+        </paragraph>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

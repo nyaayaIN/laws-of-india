@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1888/03/main"/>
+          <FRBRuri value="/in-union/act/1888/03"/>
+          <FRBRalias value="The Police Act, 1888"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1888/03/eng@1988-02-17/main"/>
+          <FRBRuri value="/in-union/act/1888/03/eng@1988-02-17"/>
+          <FRBRdate date="1988-02-17" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1888/03/eng@1988-02-17/main"/>
+          <FRBRuri value="/in-union/act/1888/03/eng@1988-02-17"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Police Act, 1888</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[17th February, 1888]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 03 of 1888</p>
+        <p>An Act to amend the law relating to the regulation of Police.</p>
+        <p>WHEREAS it is expedient to relax those provisions of Acts for the regulation of police which restrict the employment of police-officers to be presidency, province or place of the police-establishment of which they are members; It is hereby enacted as follows:—</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Title and extent.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Police Act, 1888.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Constitution of police-forces for special purposes.—</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Madras District Police Act, 1859 (24 of 1859), the Indian Police Act, 1861 (5 of 1861), the Bombay District Police Act, 1890 (Bom. Act 4 of 1890) or any Act relating to the Police in any presidency-town, the Central Government may, by notification in the Official Gazette, create a special police-district embracing parts of two or more States, and extend every part of the said district the powers and jurisdiction of members of a police-force belonging to a State specified in the notification.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to any orders which the Central Government may make in this behalf, members of the said Police-Force shall have, within every part of any State of which any part is included in the said district, the powers, duties, privileges and liabilities which, as police officers, they have in their own State.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.3">
+          <num>(3)</num>
+          <content>
+            <p>Any member of the police-force whom the Central Government shall generally or specially empower to act under this sub-section may, subject to any orders which the Central Government may make in this behalf, exercise within any State any part of which is included in the said district any of the powers of the officer-in-charge of a police station in that State, and when so exercising any such powers, shall, subject to any such order as aforesaid, be deemed to be an officer-in-charge of a police-station discharging the functions of such an officer within the limits of his station.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.4">
+          <num>(4)</num>
+          <content>
+            <p>A part of a State included in the said district shall not by reason of that inclusion cease, for the purposes of any enactment relating to police, to be part of the State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Employment of police-officers beyond the State to which they belong.—</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>Notwithstanding anything in any of the Acts mentioned or referred to in the last foregoing section, but subject to any orders which the Central Government may make in this behalf, a member of the police force of any State may discharge the functions of a police-officer in any part of any other State and shall, while so discharging such functions, be deemed to be a member of the police-force of that part and be vested with the powers, functions and privileges and be subject to the liabilities of a police-officer belonging to that police-force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Consent of State Government to exercise of powers and jurisdiction.—</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>Nothing in this Act shall be deemed to enable the police of one State to exercise powers and jurisdiction in any area within another [State, not being a railway area, without the consentof the Government of that other State.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

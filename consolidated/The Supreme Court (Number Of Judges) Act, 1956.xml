@@ -1,0 +1,76 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1956/55/main"/>
+          <FRBRuri value="/in-union/act/1956/55"/>
+          <FRBRalias value="The Supreme Court (Number Of Judges) Act, 1956"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1956/55/eng@1956-09-16/main"/>
+          <FRBRuri value="/in-union/act/1956/55/eng@1956-09-16"/>
+          <FRBRdate date="1956-09-16" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1956/55/eng@1956-09-16/main"/>
+          <FRBRuri value="/in-union/act/1956/55/eng@1956-09-16"/>
+          <FRBRdate date="2017-02-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Supreme Court (Number Of Judges) Act, 1956</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 55 OF 1956</docNumber>
+      </p>
+      <longTitle>
+        <p>An Act to provide for an increase in the number of Judges of the Supreme Court, excluding the Chief Justice.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Seventh Year of the Republic of India as follows:—</p>
+        </formula>
+      </preamble>
+      <p class="DateOfEnactment">
+        <docDate>[16th September, 1956.]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Seventh Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title.</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>This act may be called the Supreme Court (Number of Judges) Act, 1956.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Maximum number of Supreme Court Judges other than Chief Justice.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>The maximum number of Judges of the Supreme Court, excluding the Chief Justice of India, shall be thirty.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

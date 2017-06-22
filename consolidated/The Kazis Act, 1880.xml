@@ -1,0 +1,97 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1880/12/main"/>
+          <FRBRuri value="/in-union/act/1880/12"/>
+          <FRBRalias value="The Kazis Act, 1880"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1880/12/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1880/12/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1880/12/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1880/12/eng@1980-01-01"/>
+          <FRBRdate date="2016-11-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Kazis Act, 1880</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title.—</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>This Act may be called the Kazis Act, 1880;</p>
+            <p>***</p>
+            <p>Local Extent.—</p>
+            <p>It extends, in the first instance, only to the territories administered by the Governor of Fort Saint George in Council. But the Government of any other State may, from time to time, by notification in the Official Gazette, extend it to the whole or any part of the territories under its administration.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Power to appoint Kazis for any local area.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>Wherever it appears to the State Government that any considerable number of the Muhammadans resident in any local area desire that one or more Kazis should be appointed for such local area, the State Government may, if it thinks fit, after consulting the principal Muhammadan residents of such local area, select one or more fit persons and appoint him or them to be Kazis for such local area.</p>
+            <p>If any question arises whether any person has been rightly appointed Kazi under this section, the decision thereof by the State Government shall be conclusive.</p>
+            <p>The State Government may, if it thinks fit, suspend or remove any Kazi appointed under this section who is guilty of any misconduct in the execution of his office, or who is for a continuous period of six months absent from the local area for which he is appointed, or leaves such local area for the purpose of residing elsewhere, or is declared an insolvent, or desires to be discharged from the office, or who refuses or becomes in the opinion of the State Government unfit, or personally incapable, to discharge the duties of the office.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Naib Kazis.—</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>Any Kazi appointed under this Act may appoint one or more persons as his naib or naibs to act in his place in all or any of the matters appertaining to his office throughout the whole or in any portion of the local area for which he is appointed and may suspend or remove any naib so appointed.</p>
+            <p>When any Kazi is suspended or removed under section 2, his naib or naibs (if any) shall be deemed to be suspended or removed, as the case may be.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Nothing in Act to confer judicial or administrative powers; or to render the presence of Kazi necessary; or to prevent any one acting as Kazi.—</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <blockList id="section-4.paragraph-0.list1">
+              <listIntroduction>Nothing herein contained, and no appointment made hereunder, shall be deemed—</listIntroduction>
+              <item id="section-4.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to confer any judicial or administrative powers on any Kazi or Naib Kazi appointed hereunder; or</p>
+              </item>
+              <item id="section-4.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>to render the presence of a Kazi or Naib Kazi necessary at the celebration of any marriage or the performance of any rite or ceremony; or</p>
+              </item>
+              <item id="section-4.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>to prevent any person discharging any of the functions of a Kazi.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

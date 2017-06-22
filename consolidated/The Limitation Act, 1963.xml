@@ -1,0 +1,4482 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1963/36/main"/>
+          <FRBRuri value="/in-union/act/1963/36"/>
+          <FRBRalias value="The Limitation Act, 1963"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1963/36/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1963/36/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1963/36/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1963/36/eng@1980-01-01"/>
+          <FRBRdate date="2016-12-22" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Limitation Act, 1963</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act, No. 36 of 1963]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[5th October, 1963]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to consolidate and amend the law for the limitation of suits and other proceedings and for purposes connected therewith.</p>
+      <p>BE it enacted by Parliament in the Fourteenth Year of the Republic of India as follows:</p>
+    </preamble>
+    <body>
+      <part id="part-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Limitation Act, 1963.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except, the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-2.paragraph-0.list1.a.list0">
+                    <listIntroduction>“applicant” includes—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>a petitioner;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>any person from or through whom an applicant derives his right to apply;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>any person whose estate is represented by the applicant as executor, administrator or other representative;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“application” includes a petition;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“bill of exchange” includes a hundi and a cheque;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“bond “ includes any instrument whereby a person obliges himself to pay money to another, on condition that the obligation shall be void if a specified act is performed, or is not performed, as the case may be;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <blockList id="section-2.paragraph-0.list1.e.list1">
+                    <listIntroduction>“defendant” includes—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.e.list1.i">
+                      <num>(i)</num>
+                      <p>any person from or through whom a defendant derives his liability to be sued;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.e.list1.ii">
+                      <num>(ii)</num>
+                      <p>any person whose estate is represented by the defendant as executor, administrator or other representative;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“easement” includes a right not arising from contract, by which one person is entitled to remove and appropriate for his own profit any part of the soil belonging to another or anything growing in, or attached to, or subsisting upon, the land of another;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“foreign country” means any country other than India;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“good faith”— nothing shall be deemed to be done in good faith which is not done with due care and attention;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <blockList id="section-2.paragraph-0.list1.i.list2">
+                    <listIntroduction>“plaintiff” includes—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.i.list2.i">
+                      <num>(i)</num>
+                      <p>any person from or through whom a plaintiff derives his right to sue;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.i.list2.ii">
+                      <num>(ii)</num>
+                      <p>any person whose estate is represented by the plaintiff as executor, administrator or other representative;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“period of limitation” means the period of limitation prescribed for any suit, appeal or application by the Schedule, and “prescribed period” means the period of limitation computed in accordance with the provisions of this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“promissory note” means any instrument whereby the maker engages absolutely to pay a specified sum of money to another at a time therein limited, or on demand, or at sight;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“suit” does not include an appeal or an application;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“tort” means a civil wrong which is not exclusively the breach of a contract or the breach of a trust;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>“trustee” does not include a benamidar, a mortgagee remaining in possession after the mortgage has been satisfied or a person in a wrongful possession without title.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </part>
+      <part id="part-II">
+        <num>II</num>
+        <heading>Limitation of suits, appeals and applications</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Bar of limitation.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions contained in sections 4 to 24 (inclusive), every suit instituted, appeal preferred, and application made after the prescribed period shall be dismissed, although limitation has not been set up as a defence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-3.2.list1">
+                <listIntroduction>For the purposes of this Act —</listIntroduction>
+                <item id="section-3.2.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-3.2.list1.a.list0">
+                    <listIntroduction>a suit is instituted —</listIntroduction>
+                    <item id="section-3.2.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>in an ordinary case, when the plaint is presented to the proper officer;</p>
+                    </item>
+                    <item id="section-3.2.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>in the case of a pauper, when his application for leave to sue as a pauper is made; and</p>
+                    </item>
+                    <item id="section-3.2.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>in the case of a claim against a company which is being wound up by the court, when the claimant first sends in his claim to the official liquidator;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-3.2.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-3.2.list1.b.list1">
+                    <listIntroduction>any claim by way of a set off or a counter claim, shall be treated as a separate suit and shall be deemed to have been instituted —</listIntroduction>
+                    <item id="section-3.2.list1.b.list1.i">
+                      <num>(i)</num>
+                      <p>in the case of a set off, on the same date as the suit in which the set off is pleaded;</p>
+                    </item>
+                    <item id="section-3.2.list1.b.list1.ii">
+                      <num>(ii)</num>
+                      <p>in the case of a counter claim, on the date on which the counter claim is made in court;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-3.2.list1.c">
+                  <num>(c)</num>
+                  <p>an application by notice of motion in a High Court is made when the application is presented to the proper officer of that court.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Expiry of prescribed period when court is closed.—</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <p>Where the prescribed period for any suit, appeal or application expires on a day when the court is closed, the suit, appeal or application may be instituted, preferred or made on the day when the court reopens.</p>
+              <p>Explanation.—</p>
+              <p>A court shall be deemed to be closed on any day within the meaning of this section if during any part of its normal working hours it remains closed on that day.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Extension of prescribed period in certain cases.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Any appeal or any application, other than an application under any of the provisions of Order XXI of the Code of Civil Procedure, 1908 (5 of 1908), may be admitted after the prescribed period, if the appellant or the applicant satisfies the court that he had sufficient cause for not preferring the appeal or making the application within such period.</p>
+              <p>Explanation.—</p>
+              <p>The fact that the appellant or the applicant was misled by any order, practice or judgment of the High Court in ascertaining or computing the prescribed period may be sufficient cause within the meaning of this section.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Legal disability.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a person entitled to institute a suit or make an application for the execution of a decree is, at the time from which the prescribed period is to be reckoned, a minor or insane, or an idiot, he may institute the suit or make the application within the same period after the disability has ceased, as would otherwise have been allowed from the time specified therefore in the third column of the Schedule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Where such person is, at the time from which the prescribed period is to be reckoned, affected by two such disabilities, or where, before his disability has ceased, he is affected by another disability, he may institute the suit or make the application within the same period after both disabilities have ceased, as would otherwise have been allowed from the time so specified.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the disability continues up to the death of that person, his legal representative may institute the suit or make the application within the same period after the death, as would otherwise have been allowed from the time so specified.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>Where the legal representative referred to in sub-section (3) is, at the date of the death of the person whom he represents, affected by any such disability, the rules contained in sub-sections (1) and (2) shall apply.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>Where a person under disability dies after the disability ceases but within the period allowed to him under this section, his legal representative may institute the suit or make the application within the same period after the death, as would otherwise have been available to that person had he not died.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section, ‘minor’ includes a child in the womb.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Disability of one of several persons.—</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>Where one of several persons jointly entitled to institute a suit or make an application for the execution of a decree is under any such disability, and a discharge can be given without the concurrence of such person, time will run against them all; but, where no such discharge can be given, time will not run as against any of them until one of them becomes capable of giving such discharge without the concurrence of the others or until the disability has ceased.</p>
+              <p>Explanation I.—</p>
+              <p>This section applies to a discharge from every kind of liability, including a liability in respect of any immovable property.</p>
+              <p>Explanation II.—</p>
+              <p>For the purposes of this section, the manager of a Hindu undivided family governed by the Mitakshara law shall be deemed to be capable of giving a discharge without the concurrence of the other members of the family only if he is in management of the joint family property.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Special exceptions.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>Nothing in section 6 or in section 7 applies to suits to enforce rights of pre-emption, or shall be deemed to extend, for more than three years from the cessation of the disability or the death of the person affected thereby, the period of limitation for any suit or application.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Continuous running of time.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>Where once time has begun to run, no subsequent disability or inability to institute a suit or make an application stops it:</p>
+              <p>Provided that where letters of administration to the estate of a creditor have been granted to his debtor, the running of the period of limitation for a suit to recover the debt shall be suspended while the administration continues.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Suits against trustees and their representatives.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the foregoing provisions of this Act, no suit against a person in whom property has become vested in trust for any specific purpose, or against his legal representatives or assigns (not being assigns for valuable consideration), for the purpose of following in his or their hands such property, or the proceeds thereof, or for an account of such property or proceeds, shall be barred by any length of time.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section any property comprised in a Hindu, Muslim or Buddhist religious or charitable endowment shall be deemed to be property vested in trust for a specific purpose and the manager of the property shall be deemed to be the trustee thereof.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Suits on contracts entered into outside the territories to which the Act extends.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Suits instituted in the territories to which this Act extends on contracts entered into in the State of Jammu and Kashmir or in a foreign country shall be subject to the rules of limitation contained in this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-11.2.list1">
+                <listIntroduction>No rule of limitation in force in the State of Jammu and Kashmir or in a foreign country shall be a defence to a suit instituted in the said territories on a contract entered into in that State or in a foreign country unless—</listIntroduction>
+                <item id="section-11.2.list1.a">
+                  <num>(a)</num>
+                  <p>the rule has extinguished the contract; and</p>
+                </item>
+                <item id="section-11.2.list1.b">
+                  <num>(b)</num>
+                  <p>the parties were domiciled in that State or in the foreign country during the period prescribed by such rule.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </part>
+      <part id="part-III">
+        <num>III</num>
+        <heading>Computation of period of limitation</heading>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Exclusion of time in legal proceedings.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>In computing the period of limitation for any suit, appeal or application, the day from which such period is to be reckoned, shall be excluded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>In computing the period of limitation for an appeal or an application for leave to appeal or for revision or for review of a judgment, the day on which the judgment complained of was pronounced and the time requisite for obtaining a copy of the decree, sentence or order appealed from or sought to be revised or reviewed shall be excluded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>Where a decree or order is appealed from or sought to be revised or reviewed, or where an application is made for leave to appeal from a decree or order, the time requisite for obtaining a copy of the judgment shall also be excluded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.4">
+            <num>(4)</num>
+            <content>
+              <p>In computing the period of limitation for an application to set aside an award, the time requisite for obtaining a copy of the award shall be excluded.</p>
+              <p>Explanation.—</p>
+              <p>In computing under this section the time requisite for obtaining a copy of a decree or an order, any time taken by the court to prepare the decree or order before an application for a copy thereof is made shall not be excluded.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>In computing the period of limitation prescribed for any suit or appeal in any case where an application for leave to sue or appeal as a pauper has been made and rejected, the time during which the applicant has been prosecuting in good faith his application for such leave shall be excluded, and the court may, on payment of the court fees prescribed for such suit or appeal, treat the suit or appeal as having the same force and effect as if the court fees had been paid in the first instance.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Exclusion of time of proceeding bona fide in court without jurisdiction. —</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>In computing the period of limitation for any suit the time during which the plaintiff has been prosecuting with due diligence another civil proceeding, whether in a court of first instance or of appeal or revision, against the defendant shall be excluded, where the proceeding relates to the same matter in issue and is prosecuted in good faith in a court which, from defect of jurisdiction or other cause of a like nature, is unable to entertain it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>In computing the period of limitation for any application, the time during which the applicant has been prosecuting with due diligence another civil proceeding, whether in a court of first instance or of appeal or revision, against the same party for the same relief shall be excluded, where such proceeding is prosecuted in good faith in a court which, from defect of jurisdiction or other cause of a like nature, is unable to entertain it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in rule 2 of Order XXXIII of the Code of Civil Procedure, 1908 (5 of 1908), the provisions of sub-section (1) shall apply in relation to a fresh suit instituted on permission granted by the court under rule 1 of that Order where such permission is granted on the ground that the first suit must fail by reason of a defect in the jurisdiction of the court or other cause of a like nature.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-14.3.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-14.3.list3.a">
+                  <num>(a)</num>
+                  <p>in excluding the time during which a former civil proceeding was pending, the day on which that proceeding was instituted and the day on which it ended shall both be counted;</p>
+                </item>
+                <item id="section-14.3.list3.b">
+                  <num>(b)</num>
+                  <p>a plaintiff or an applicant resisting an appeal shall be deemed to be prosecuting a proceeding;</p>
+                </item>
+                <item id="section-14.3.list3.c">
+                  <num>(c)</num>
+                  <p>misjoinder of parties or of causes of action shall be deemed to be a cause of a like nature with defect of jurisdiction.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Exclusion of time in certain other cases.—</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>In computing the period of limitation of any suit or application for the execution of a decree, the institution or execution of which has been stayed by injunction or order, the time of the continuance of the injunction or order, the day on which it was issued or made, and the day on which it was withdrawn, shall be excluded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>In computing the period of limitation for any suit of which notice has been given, or for which the previous consent or sanction of the Government or any other authority is required, in accordance with the requirements of any law for the time being in force, the period of such notice or, as the case may be, the time required for obtaining such consent or sanction shall be excluded.</p>
+              <p>Explanation.—</p>
+              <p>In excluding the time required for obtaining the consent or sanction of the Government or any other authority, the date on which the application was made for obtaining the consent or sanction and the date of receipt of the order of the Government or other authority shall both be counted.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>In computing the period of limitation for any suit or application for execution of a decree by any receiver or interim receiver appointed in proceedings for the adjudication of a person as an insolvent or by any liquidator or provisional liquidator appointed in proceedings for the winding up of a company, the period beginning with the date of institution of such proceeding and ending with the expiry of three months from the date of appointment of such receiver or liquidator, as the case may be, shall be excluded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.4">
+            <num>(4)</num>
+            <content>
+              <p>In computing the period of limitation for a suit for possession by a purchaser at a sale in execution of a decree, the time during which a proceeding to set aside the sale has been prosecuted shall be excluded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.5">
+            <num>(5)</num>
+            <content>
+              <p>In computing the period of limitation for any suit the time during which the defendant has been absent from India and from the territories outside India under the administration of the Central Government, shall be excluded.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Effect of death on or before the accrual of the right to sue.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a person who would, if he were living, have a right to institute a suit or make an application dies before the right accrues, or where a right to institute a suit or make an application accrues only on the death of a person, the period of limitation shall be computed from the time when there is a legal representative of the deceased capable of instituting such suit or making such application.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a person against whom, if he were living, a right to institute a suit or make an application would have accrued dies before the right accrues, or where a right to institute a suit or make an application against any person accrues on the death of such person, the period of limitation shall be computed from the time when there is a legal representative of the deceased against whom the plaintiff may institute such suit or make such application.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Nothing in sub-section (1) or sub-section (2) applies to suits to enforce rights of pre-emption or to suits for the possession of immovable property or of a hereditary office.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Effect of fraud or mistake.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-17.1.list1">
+                <listIntroduction>Where, in the case of any suit or application for which a period of limitation is prescribed by this Act,—</listIntroduction>
+                <item id="section-17.1.list1.a">
+                  <num>(a)</num>
+                  <p>the suit or application is based upon the fraud of the defendant or respondent or his agent; or</p>
+                </item>
+                <item id="section-17.1.list1.b">
+                  <num>(b)</num>
+                  <p>the knowledge of the right or title on which a suit or application is founded is concealed by the fraud of any such person as aforesaid; or</p>
+                </item>
+                <item id="section-17.1.list1.c">
+                  <num>(c)</num>
+                  <p>the suit or application is for relief from the consequences of a mistake; or</p>
+                </item>
+                <item id="section-17.1.list1.d">
+                  <num>(d)</num>
+                  <p>where any document necessary to establish the right of the plaintiff or applicant has been fraudulently concealed from him,</p>
+                </item>
+              </blockList>
+              <p>the period of limitation shall not begin to run until plaintiff or applicant has discovered the fraud or the mistake or could, with reasonable diligence, have discovered it; or in the case of a concealed document, until the plaintiff or the applicant first had the means of producing the concealed document or compelling its production:</p>
+              <blockList id="section-17.1.list4">
+                <listIntroduction>Provided that nothing in this section shall enable any suit to be instituted or application to be made to recover or enforce any charge against, or set aside any transaction affecting, any property which—</listIntroduction>
+                <item id="section-17.1.list4.i">
+                  <num>(i)</num>
+                  <p>in the case of fraud, has been purchased for valuable consideration by a person who was not a party to the fraud and did not at the time of the purchase know, or have reason to believe, that any fraud had been committed, or</p>
+                </item>
+                <item id="section-17.1.list4.ii">
+                  <num>(ii)</num>
+                  <p>in the case of mistake, has been purchased for valuable consideration subsequently to the transaction in which the mistake was made, by a person who did not know, or have reason to believe, that the mistake had been made, or</p>
+                </item>
+                <item id="section-17.1.list4.iii">
+                  <num>(iii)</num>
+                  <p>in the case of a concealed document, has been purchased for valuable consideration by a person who was not a party to the concealment and, did not at the time of purchase know, or have reason to believe, that the document had been concealed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a judgment-debtor has, by fraud or force, prevented the execution of a decree or order within the period of limitation, the court may, on the application of the judgment-creditor made after the expiry of the said period extend the period for execution of the decree or order:</p>
+              <p>Provided that such application is made within one year from the date of the discovery of the fraud or the cessation of force, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Effect of acknowledgment in writing.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>Where, before the expiration of the prescribed period for a suit of application in respect of any property or right, an acknowledgment of liability in respect of such property or right has been made in writing signed by the party against whom such property or right is claimed, or by any person through whom he derives his title or liability, a fresh period of limitation shall be computed from the time when the acknowledgment was so signed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the writing containing the acknowledgment is undated, oral evidence may be given of the time when it was signed; but subject to the provisions of the Indian Evidence Act, 1872 (1 of 1872), oral evidence of its contents shall not be received.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-18.2.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-18.2.list3.a">
+                  <num>(a)</num>
+                  <p>an acknowledgment may be sufficient though it omits to specify the exact nature of the property or right, or avers that the time for payment, delivery, performance or enjoyment has not yet come or is accompanied by a refusal to pay, deliver, perform or permit to enjoy, or is coupled with a claim to set-off, or is addressed to a person other than a person entitled to the property or right;</p>
+                </item>
+                <item id="section-18.2.list3.b">
+                  <num>(b)</num>
+                  <p>the word “signed” means signed either personally or by an agent duly authorised in this behalf; and</p>
+                </item>
+                <item id="section-18.2.list3.c">
+                  <num>(c)</num>
+                  <p>an application for the execution of a decree or order shall not be deemed to be an application in respect of any property or right.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Effect of payment on account of debt or of interest on legacy.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Where payment on account of a debt or of interest on a legacy is made before the expiration of the prescribed period by the person liable to pay the debt or legacy or by his agent duly authorised in this behalf, a fresh period of limitation shall be computed from the time when the payment was made:</p>
+              <p>Provided that, save in the case of payment of interest made before the 1st day of January, 1928, an acknowledgment of the payment appears in the handwriting of, or in a writing signed by, the person making the payment.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-19.paragraph-0.list4">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-19.paragraph-0.list4.a">
+                  <num>(a)</num>
+                  <p>where mortgaged land is in the possession of the mortgagee, the receipt of the rent or produce of such land shall be deemed to be a payment;</p>
+                </item>
+                <item id="section-19.paragraph-0.list4.b">
+                  <num>(b)</num>
+                  <p>“debt” does not include money payable under a decree or order of a court.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Effect of acknowledgment or payment by another person.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The expression “agent duly authorised in this behalf” in sections 18 and 19 shall, in the case of a person under disability, include his lawful guardian, committee or manager or an agent duly authorised by such guardian, committee or manager to sign the acknowledgment or make the payment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in the said sections renders one of several joint contractors, partners, executors or mortgagees chargeable by reason only of a written acknowledgment signed by, or of a payment made by, or by the agent, of, any other or others of them.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-20.3.list1">
+                <listIntroduction>For the purposes of the said sections,—</listIntroduction>
+                <item id="section-20.3.list1.a">
+                  <num>(a)</num>
+                  <p>an acknowledgment signed or a payment made in respect of any liability by or by the duly authorised agent of, any limited owner of property who is governed by Hindu law, shall be a valid acknowledgment or payment, as the case may be, against a reversioner succeeding to such liability; and</p>
+                </item>
+                <item id="section-20.3.list1.b">
+                  <num>(b)</num>
+                  <p>where a liability has been incurred by or on behalf of a Hindu undivided family as such, an acknowledgment or payment made by, or by the duly authorised agent of, the manager of the family for the time being shall be deemed to have been made on behalf of the whole family.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Effect of substituting or adding new plaintiff or defendant.—</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Where after the institution of a suit, a new plaintiff or, defendant is substituted or added, the suit shall, as regards him, be deemed to have been instituted when he was so made a party:</p>
+              <p>Provided that where the court is satisfied that the omission to include a new plaintiff or defendant was due to a mistake made in good faith it may direct that the suit as regards such plaintiff or defendant shall be deemed to have been instituted on any earlier date.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in sub-section (1) shall apply to a case where a party is added or substituted owing to assignment or devolution of any interest during the pendency of a suit or where a plaintiff is made a defendant or a defendant is made a plaintiff.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Continuing breaches and torts.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>In the case of a continuing breach of contract or in the case of a continuing tort, a fresh period of limitation begins to run at every moment of the time during which the breach or the tort, as the case may be, continues.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Suits for compensation for acts not actionable without special damage.—</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>In the case of a suit for compensation for an act which does not give rise to a cause of action unless some specific injury actually results therefrom, the period of limitation shall be computed from the time when the injury results.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Computation of time mentioned in instruments.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>All instruments shall for the purposes of this Act be deemed to be made with reference to the Gregorian calendar.</p>
+            </content>
+          </paragraph>
+        </section>
+      </part>
+      <part id="part-IV">
+        <num>IV</num>
+        <heading>Acquisition of ownership by possession</heading>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Acquisition of easement by prescription.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the access and use of light or air to and for any building have been peaceably enjoyed therewith as an easement, and as of right, without interruption, and for twenty years, and where any way or watercourse or the use of any water or any other easement (whether affirmative or negative) has been peaceably and openly enjoyed by any person claiming title thereto as an easement and as of right without interruption and for twenty years, the right to such access and use of light or air, way, watercourse, use of water, or other easement shall be absolute and indefeasible.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>Each of the said periods of twenty years shall be taken to be a period ending within two years next before the institution of the suit wherein the claim to which such period relates is contested.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the property over which a right is claimed under sub-section (1) belongs to the Government that sub-section shall be read as if for the words “twenty years” the words “thirty years” were substituted.</p>
+              <p>Explanation.—</p>
+              <p>Nothing is an interruption within the meaning of this section, unless where there is an actual discontinuance of the possession or enjoyment by reason of an obstruction by the act of some person other than the claimant, and unless such obstruction is submitted to or acquiesced in for one year after the claimant has notice thereof and of the person making or authorising the same to be made.</p>
+              <blockList id="section-25.3.list4">
+                <listIntroduction>State Amendment</listIntroduction>
+                <item id="section-25.3.list4.Orissa">
+                  <num>(Orissa)</num>
+                  <p>—Section 25 is repealed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Exclusion in favour of reversioner of servient tenement.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Where any land or water upon, over or from, which any easement has been enjoyed or derived has been held under or by virtue of any interest for life or in terms of years exceeding three years from the granting thereof the time of the enjoyment of such easement during the continuance of such interest or term shall be excluded in the computation of the period to twenty years in case the claim is, within three years next after the determination of such interests or term resisted by the person entitled on such determination to the said land or water.</p>
+              <blockList id="section-26.paragraph-0.list2">
+                <listIntroduction>State Amendment</listIntroduction>
+                <item id="section-26.paragraph-0.list2.Orissa">
+                  <num>(Orissa)</num>
+                  <p>—Section 26 is repealed.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Extinguishment of right to property.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>At the determination of the period hereby limited to any person for instituting a suit for possession of any property, his right to such property shall be extinguished.</p>
+            </content>
+          </paragraph>
+        </section>
+      </part>
+      <part id="part-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Amendment of certain Acts.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>Rep. by the Repealing and Amending Act, 1974 (56 of 1974), sec. 2 and First Sch.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Savings.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>Nothing in this Act shall affect section 25 of the Indian Contract Act, 1872 (9 of 1872).</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed by the Schedule, the provisions of section 3 shall apply as if such period were the period prescribed by the Schedule and for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law, the provisions contained in sections 4 to 24 (inclusive) shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.3">
+            <num>(3)</num>
+            <content>
+              <p>Save as otherwise provided in any law for the time being in force with respect to marriage and divorce, nothing in this Act shall apply to any suit or other proceeding under any such law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.4">
+            <num>(4)</num>
+            <content>
+              <p>Sections 25 and 26 and the definition of “easement” in section 2 shall not apply to cases arising in the territories to which the Indian Easements Act, 1882 (5 of 1882), may for the time being extend.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Provision for suits, etc ., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908. —</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <blockList id="section-30.paragraph-0.list1">
+                <listIntroduction>Notwithstanding anything contained in this Act,—</listIntroduction>
+                <item id="section-30.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any suit for which the period of limitation is shorter than the period of limitation prescribed by the Indian Limitation Act, 1908 (9 of 1908), may be instituted within a period of seven years next after the commencement of this Act or within the period prescribed for such suit by the Indian Limitation Act, 1908 (9 of 1908), whichever period expires earlier:</p>
+                </item>
+              </blockList>
+              <blockList id="section-30.paragraph-0.list3">
+                <listIntroduction>Provided that if in respect of any such suit, the said period of seven years expires earlier than period of limitation prescribed therefore under the Indian Limitation Act, 1908 (9 of 1908) and the said period of seven years together with so much of the period of limitation in respect of such suit under the Indian Limitation Act, 1908 (9 of 1908), as has already expired before the commencement of this Act is shorter than the period prescribed for such suit under this Act, then, the suit may be instituted within the period of limitation prescribed therefore under this Act;</listIntroduction>
+                <item id="section-30.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>any appeal or application for which the period of limitation is shorter than the period of limitation prescribed by the Indian Limitation Act, 1908 (9 of 1908), may be preferred or made within a period of ninety days next after the commencement of this Act or within the period prescribed for such appeal or application by the Indian Limitation Act, 1908, whichever period expires earlier.</p>
+                </item>
+              </blockList>
+              <p>State Amendment</p>
+              <p>(Modification under Article 371F of the Constitution of India )</p>
+              <p>Sikkim. —For section 30, substitute the following section, namely:—</p>
+              <p>“30. Notwithstanding anything contained in this Act, any suit, appeal or application, which could be instituted, preferred or made before the commencement of this Act and for which the period of limitation is shorter than the period provided therefore by the law in Sikkim immediately before such commencement, may be instituted, preferred or made within the period provided by such law.”</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Provisions as to barred or pending suits, etc. -</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <blockList id="section-31.paragraph-0.list1">
+                <listIntroduction>Nothing in this Act shall,</listIntroduction>
+                <item id="section-31.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>enable any suit, appeal or application to be instituted, preferred or made, for which the period of limitation prescribed by the Indian Limitation Act, 1908 (9 of 1908), expired before the commencement of this Act; or</p>
+                </item>
+                <item id="section-31.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>affect any suit, appeal or application instituted, preferred or made before, and pending at, such commencement.</p>
+                </item>
+              </blockList>
+              <p>State Amendment</p>
+              <p>(Modification under Article 371F of the Constitution of India )</p>
+              <p>Sikkim. —In section 31, in clause (a), for the words “Indian Limitation Act, 1908 (9 of 1908), expired before the commencement of this Act”, substitute the words “law in force in Sikkim immediately before the commencement of this Act, expired before such commencement”.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Repealed.—</heading>
+        </section>
+      </part>
+    </body>
+  </act>
+  <components>
+    <component id="component-thescheduleperiodsoflimitation">
+      <doc name="thescheduleperiodsoflimitation">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1963/36/thescheduleperiodsoflimitation"/>
+              <FRBRuri value="/in-union/act/1963/36"/>
+              <FRBRalias value="THE SCHEDULE - PERIODS OF LIMITATION"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1963/36/eng@1980-01-01/thescheduleperiodsoflimitation"/>
+              <FRBRuri value="/in-union/act/1963/36/eng@1980-01-01"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1963/36/eng@1980-01-01/thescheduleperiodsoflimitation"/>
+              <FRBRuri value="/in-union/act/1963/36/eng@1980-01-01"/>
+              <FRBRdate date="2016-12-22" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thescheduleperiodsoflimitation">
+            <heading>[See sections 2(j) and 3]</heading>
+            <paragraph id="thescheduleperiodsoflimitation.paragraph-0">
+              <content>
+                <table id="thescheduleperiodsoflimitation.paragraph-0.table0">
+                  <tr>
+                    <td>
+                      <p>FIRST DIVISION--SUITS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Description of suit</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Period of limitation</p>
+                    </td>
+                    <td>
+                      <p>Time from which period begins to run</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART I-- SUITS RELATING TO ACCOUNTS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1</p>
+                    </td>
+                    <td>
+                      <p>For the balance due on a mutual, open and current account, where there have been reciprocal demands between the parties.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The close of the year in which the last item admitted or proved is entered in the account; such year to be computed as in the account.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>2</p>
+                    </td>
+                    <td>
+                      <p>Against a factor for an account.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the account is, during the continuance of the agency, demanded and refused or, where no such demand is made, when the agency terminates.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>3</p>
+                    </td>
+                    <td>
+                      <p>By a principal against his agent for movable property received by the latter and not accounted for.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the account is, during the continuance of the agency, demanded and refused or, where no such demand is made, when the agency terminates.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>4</p>
+                    </td>
+                    <td>
+                      <p>Other suits by principals against agents for neglect or misconduct.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the neglect or misconduct becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>5</p>
+                    </td>
+                    <td>
+                      <p>For an account and a share of the profits of a dissolved partnership.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the dissolution.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART II--SUITS RELATING TO CONTRACTS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>6</p>
+                    </td>
+                    <td>
+                      <p>For a Seaman's wages.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The end of the voyage during which the wages are earned.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>7</p>
+                    </td>
+                    <td>
+                      <p>For wages in the case of any other person.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the wages accrue due</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>8</p>
+                    </td>
+                    <td>
+                      <p>For the price of food or drink sold by the keeper of a hotel, tavern or lodging house.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the food or drink is delivered.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>9</p>
+                    </td>
+                    <td>
+                      <p>For the price of lodging.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the price becomes payable.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>10</p>
+                    </td>
+                    <td>
+                      <p>Against a carrier for compensation for losing or injuring goods.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the loss or injury occurs.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>11</p>
+                    </td>
+                    <td>
+                      <p>Against a carrier for compensation for non-delivery of, or delay in delivering goods.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the goods ought to be delivered.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>12</p>
+                    </td>
+                    <td>
+                      <p>For the hire of animals, vehicles, boats or house-hold furniture.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the hire becomes payable.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>13</p>
+                    </td>
+                    <td>
+                      <p>For the balance of money advanced in payment of goods to be delivered.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the goods ought to be delivered.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>14</p>
+                    </td>
+                    <td>
+                      <p>For the price of goods sold and delivered where no fixed period of credit is agreed upon.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the delivery of the goods.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>15</p>
+                    </td>
+                    <td>
+                      <p>For the price of goods sold and delivered to be paid for after the expiry of a fixed period of credit.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the period of credit expires.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>16</p>
+                    </td>
+                    <td>
+                      <p>For the price of goods sold and delivered to be paid for by a bill of exchange, no such bill being given.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the period of the proposed bill elapses.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>17</p>
+                    </td>
+                    <td>
+                      <p>For the price of trees or growing crops sold by the plaintiff to the defendant where no fixed period of credit is agreed upon.</p>
+                    </td>
+                    <td>
+                      <p>Three years.</p>
+                    </td>
+                    <td>
+                      <p>The date of the sale.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>18</p>
+                    </td>
+                    <td>
+                      <p>For the price of work done by the plaintiff for the defendant at his request, where no time has been fixed for payment.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the work is done.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>19</p>
+                    </td>
+                    <td>
+                      <p>For money payable for money lent.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the loan is made.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>20</p>
+                    </td>
+                    <td>
+                      <p>Like suit when the lender has given a cheque for the money.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the cheque is paid.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>21</p>
+                    </td>
+                    <td>
+                      <p>For money lent under an agreement that it shall be payable on demand.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the loan is made.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>22</p>
+                    </td>
+                    <td>
+                      <p>For money deposited under an agreement that it shall be payable on demand, including money of a customer in the hands of his banker so payable.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the demand is made.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>23</p>
+                    </td>
+                    <td>
+                      <p>For money payable to the plaintiff for money paid for the defendant.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the money is paid.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>24</p>
+                    </td>
+                    <td>
+                      <p>For money payable by the defendant to the plaintiff for money received by the defendant, for the plaintiff's use.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the money is received.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>25</p>
+                    </td>
+                    <td>
+                      <p>For money payable for interest upon money due from the defendant to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the interest becomes due.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>26</p>
+                    </td>
+                    <td>
+                      <p>For money payable to the plaintiff for money found to be due from the defendant to the plaintiff on accounts stated between them.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the accounts are stated in writing signed by the defendant or his agent duly authorised in this behalf, unless where the debt is, by a simultaneous agreement in writing signed as aforesaid, made payable at a future time, and then when that time arrives.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>27</p>
+                    </td>
+                    <td>
+                      <p>For compensation for breach of a promise to do anything at a specified .time, or upon the happening of a specified contingency.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the time specified arrives or the contingency happens.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>28</p>
+                    </td>
+                    <td>
+                      <p>On a single bond, where a day is specified for payment.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The day so specified.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>29</p>
+                    </td>
+                    <td>
+                      <p>On a single bond, where no such day is specified.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of executing the bond.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>30</p>
+                    </td>
+                    <td>
+                      <p>On a bond subject to a condition.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the condition is broken.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>31</p>
+                    </td>
+                    <td>
+                      <p>On a bill of exchange or promissory note payable at a fixed time after date.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the bill or note falls due.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>32</p>
+                    </td>
+                    <td>
+                      <p>On a bill of exchange payable at sight, or after sight, but not at a fixed time.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the bill is presented.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>33</p>
+                    </td>
+                    <td>
+                      <p>On a bill of exchange accepted payable at a particular place.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the bill is presented at that place.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>34</p>
+                    </td>
+                    <td>
+                      <p>On a bill of exchange or promissory note payable at a fixed time, after sight or after demand.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the fixed time expires.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>35</p>
+                    </td>
+                    <td>
+                      <p>On a bill of exchange or promissory note payable on demand and not accompanied by any writing restraining or postponing the right to sue.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the bill or note.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>36</p>
+                    </td>
+                    <td>
+                      <p>On a promissory note or bond payable by installments.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The expiration of the first term of payment as to the part then payable; and for the other parts, the expiration of the respective terms of payment.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>37</p>
+                    </td>
+                    <td>
+                      <p>On a promissory note or bond payable by installments, which provides that, if default be made in payment of one or more installments, the whole shall be due.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the default is made, unless where the payee or obligee waives the benefit of the provision and then when fresh default is made in respect of which there is no such waiver.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>38</p>
+                    </td>
+                    <td>
+                      <p>On a promissory note given by the maker to a third person to be delivered to the payee after a certain event should happen.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the delivery to the payee.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>39</p>
+                    </td>
+                    <td>
+                      <p>On a dishonoured foreign bill where protest has been made and notice given.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the notice is given.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>40</p>
+                    </td>
+                    <td>
+                      <p>By the payee against the drawer of a bill of exchange, which has been dishonoured by non-acceptance.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the refusal to accept.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>41</p>
+                    </td>
+                    <td>
+                      <p>By the acceptor of an accommodation bill against the drawer.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the acceptor pays the amount of the bill.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>42</p>
+                    </td>
+                    <td>
+                      <p>By a surety against the principal debtor.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the surety pays the creditor.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>43</p>
+                    </td>
+                    <td>
+                      <p>By a surety against a co-surety.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the surety pays anything in excess of his own share.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>44</p>
+                    </td>
+                    <td>
+                      <p>(a) On a policy of insurance when the sum insured is payable after proof of the death has been given to or received by the insurers.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the death of the deceased, or where the claim on the policy is denied, either partly or wholly, the date of such denial.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b)On a policy of insurance when the sum insured is payable after proof of the loss has been given to or received by the insurers.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the occurrence causing the loss, or where the claim on the policy is denied, either partly or wholly, the date of such denial.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>45</p>
+                    </td>
+                    <td>
+                      <p>By the assured to recover premia paid under a policy voidable at the election of the insurers.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the insurers elect to avoid the policy.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>46</p>
+                    </td>
+                    <td>
+                      <p>Under the Indian Succession Act, 1925 (39 of 1925), section 36p or section 361, to compel a refund by a person to whom an executor or administrator has paid a legacy or distributed assets.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the payment or distribution.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>47</p>
+                    </td>
+                    <td>
+                      <p>For money paid upon an existing consideration which afterwards fails.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the failure.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>48</p>
+                    </td>
+                    <td>
+                      <p>For contribution by a party who has paid the whole or more than his share of the amount due under a joint decree, or by a sharer in a joint estate who has paid the whole or more than his share of the amount of revenue due from himself and his co-sharers.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the payment in excess of the plaintiff's own share.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>49</p>
+                    </td>
+                    <td>
+                      <p>By a co-trustee to enforce against the estate of a deceased trustee a claim for contribution.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the right to contribution accrues.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>50</p>
+                    </td>
+                    <td>
+                      <p>By the manager of a joint estate of an undivided family for contribution, in respect of a payment made by him on account of the estate.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the payment.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>51</p>
+                    </td>
+                    <td>
+                      <p>For the profits of immovable property belonging to the plaintiff which have been wrongfully received by the defendant.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the profits are received.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>52</p>
+                    </td>
+                    <td>
+                      <p>For arrears of rent.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>Where the arrears become due.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>53</p>
+                    </td>
+                    <td>
+                      <p>By a vendor of immovable property for personal payment of unpaid purchase-money.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The time fixed for completing the sale, or (where the title is accepted after the time fixed for completion) the date of the acceptance.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>54</p>
+                    </td>
+                    <td>
+                      <p>For specific performance of a contract.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date fixed for the performance, or, if no such date is fixed, when the plaintiff has notice that performance is refused.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>55</p>
+                    </td>
+                    <td>
+                      <p>For compensation for the breach of any contract, express or implied not herein specially provided for.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the contract is broken or (where there are successive breaches) when the breach in respect of which the suit is instituted occurs or (where the breach is continuing) when it ceases.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART III--SUITS RELATING TO DECLARATIONS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>56</p>
+                    </td>
+                    <td>
+                      <p>To declare the forgery of an instrument issued or registered.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the issue or registration becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>57</p>
+                    </td>
+                    <td>
+                      <p>To obtain a declaration that an alleged adoption is invalid, or never, in fact, took place.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the alleged adoption becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>58</p>
+                    </td>
+                    <td>
+                      <p>To obtain any other declaration.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the right to sue first accrues.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART IV--SUITS RELATING TO DECREES AND INSTRUMENTS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>59</p>
+                    </td>
+                    <td>
+                      <p>To cancel or set aside an instrument or decree or for the rescission of a contract.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the facts entitling the plaintiff to have the instrument or decree cancelled or set aside or the contract rescinded first become known to him.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>60</p>
+                    </td>
+                    <td>
+                      <p>To set aside a transfer of property made by the guardian of a ward -</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) by the ward who has attained majority.</p>
+                    </td>
+                    <td>
+                      <p>Three Years</p>
+                    </td>
+                    <td>
+                      <p>When the ward attains majority.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) by the ward's legal representative--</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(i) When the ward dies within three years from the date of attaining majority.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the ward attains majority.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(ii) When the ward dies before attaining</p>
+                    </td>
+                    <td>
+                      <p>Three Years</p>
+                    </td>
+                    <td>
+                      <p>When the ward dies.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>majority.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART V--SUITS RELATING TO IMMOVABLE PROPERTY</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>61</p>
+                    </td>
+                    <td>
+                      <p>By a mortgagor --</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) to redeem or recover possession of immovable property mortgaged.</p>
+                    </td>
+                    <td>
+                      <p>Thirty years</p>
+                    </td>
+                    <td>
+                      <p>When the right to redeem or to recover possession accrues.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) to recover possession of immovable property mortgaged and afterwards transferred by the mortgagee for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Twelve year</p>
+                    </td>
+                    <td>
+                      <p>When the transfer becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(c) to recover surplus collections received by the mortgagee after the mortgage has been satisfied.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the mortgagor re-enters on the mortgaged property.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>62</p>
+                    </td>
+                    <td>
+                      <p>To enforce payment of money secured by a mortgage or otherwise charged upon immovable property.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the money sued for becomes due.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>63</p>
+                    </td>
+                    <td>
+                      <p>By a mortgagee--</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) for foreclosure.</p>
+                    </td>
+                    <td>
+                      <p>Thirty years</p>
+                    </td>
+                    <td>
+                      <p>When the money secured by the mortgage becomes due.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) for possession of immovable property mortgaged.</p>
+                    </td>
+                    <td>
+                      <p>Twelve year</p>
+                    </td>
+                    <td>
+                      <p>When the mortgagee becomes entitled to possession.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>64</p>
+                    </td>
+                    <td>
+                      <p>For possession of immovable property based on previous possession and not on title, when the plaintiff while in possession of the property has been dispossessed.</p>
+                    </td>
+                    <td>
+                      <p>Twelve year</p>
+                    </td>
+                    <td>
+                      <p>The date of dispossession.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>65</p>
+                    </td>
+                    <td>
+                      <p>For possession of immovable property or any interest therein based on title.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the possession of the defendant becomes adverse to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Explanation.-- For the purposes of this article --</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) where the suit is by a remainderman, a reversioner (other than a landlord) or a devisee the possession of the defendant shall be deemed to become adverse only when the estate of the remainderman, reversioner or devisee, as the case may be, falls into possession;</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) where the suit is by a Hindu or Muslim entitled to the possession of immovable property on the death of a Hindu or Muslim female, the possession of the defendant shall be deemed to become adverse only when the female dies;</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(c) where the suit is by a purchaser at a sale in execution of a decree when the judgment-debtor was out of possession at the date of the sale, the purchaser shall be deemed to be a representative of the judgment-debtor who was out of possession.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>STATE AMENDMENTS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1Bihar:</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>In Article 65, in the second column, following words shall be added at the end, namely:-- "but 30 years in respect of immovable property belonging to a member of the Schedule Tribes as specified in Part III to the Schedule to the Constitution (Scheduled Tribes) Order, 1950".</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>2Orissa:</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>In Article 65, second column, following words shall be added at the end, namely:--</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>but thirty years in relation to immovable property belonging to a member of a Scheduled Tribe specified in respect of the State of Orissa in the Constitution (Scheduled Tribes) Order, 1950.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>66</p>
+                    </td>
+                    <td>
+                      <p>For possession of immovable property when the plaintiff has become entitled to possession by reason of any forfeiture or breach of condition.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the forfeiture is incurred or the condition is broken.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>67</p>
+                    </td>
+                    <td>
+                      <p>By a landlord to recover possession from a tenant.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the tenancy is determined.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART VI--SUITS RELATING TO MOVABLE PROPERTY</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>68</p>
+                    </td>
+                    <td>
+                      <p>For specific movable property lost, or acquired by theft, or dishonest misappropriation or conversion.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the person having the right to the possession of the property first learns in whose possession it is.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>69</p>
+                    </td>
+                    <td>
+                      <p>For other specific movable property.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the property is wrongfully taken.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>70</p>
+                    </td>
+                    <td>
+                      <p>To recover movable property deposited or pawned from a depository or pawnee.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of refusal after demand.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>71</p>
+                    </td>
+                    <td>
+                      <p>To recover movable property deposited or pawned and afterwards bought from the depository or pawnee for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the sale becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART VII--SUITS RELATING TO TORT</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>72</p>
+                    </td>
+                    <td>
+                      <p>For compensation for doing or for omitting to do an act alleged to be in pursuance of any enactment in force for the time being in the territories to which this Act extends.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the act or omission takes place.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>73</p>
+                    </td>
+                    <td>
+                      <p>For compensation for false imprisonment</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the imprisonment ends.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>74</p>
+                    </td>
+                    <td>
+                      <p>For compensation for a malicious prosecution.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the plaintiff is acquitted or the prosecution is otherwise terminated.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>75</p>
+                    </td>
+                    <td>
+                      <p>For compensation for libel.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the libel is published.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>76</p>
+                    </td>
+                    <td>
+                      <p>For compensation for slander.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the words are spoken or, if the words are not actionable in themselves, when the special damage complained of results.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>77</p>
+                    </td>
+                    <td>
+                      <p>For compensation for loss of service occasioned by the seduction of the plaintiff's servant or daughter.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the loss occurs.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>78</p>
+                    </td>
+                    <td>
+                      <p>For compensation for inducing a person to break a contract with the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>The date of the breach.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>79</p>
+                    </td>
+                    <td>
+                      <p>For compensation for an illegal, irregular or excessive distress.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>The date of the distress.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>80</p>
+                    </td>
+                    <td>
+                      <p>For compensation for wrongful seizure of movable property under legal process.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>The date of the seizure.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>81</p>
+                    </td>
+                    <td>
+                      <p>By executors, administrators or representatives under the Legal Representatives' Suits Act, 1855 (12 of 1855).</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>The date of the death of the person wronged.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>82</p>
+                    </td>
+                    <td>
+                      <p>By executors, administrators or representatives under the Indian Fatal Accidents Act, 1855 (13 of 1855).</p>
+                    </td>
+                    <td>
+                      <p>Two years</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>The date of the death of the person killed.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>83</p>
+                    </td>
+                    <td>
+                      <p>Under the Legal Representatives' Suits Act, 1855 (12 of 1855) against an executor, an administrator or any other representative.</p>
+                    </td>
+                    <td>
+                      <p>Two years</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>When the wrong complained of is done.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>84</p>
+                    </td>
+                    <td>
+                      <p>Against one who, having a right to use property for specific purposes, perverts it to other purposes.</p>
+                    </td>
+                    <td>
+                      <p>Two years</p>
+                    </td>
+                    <td>
+                      <p>When the perversion first becomes known to the person injured thereby.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>85</p>
+                    </td>
+                    <td>
+                      <p>For compensation for obstructing a way or a water course.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the obstruction.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>86</p>
+                    </td>
+                    <td>
+                      <p>For compensation for diverting a watercourse.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the diversion.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>87</p>
+                    </td>
+                    <td>
+                      <p>For compensation for trespass upon immovable property.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the trespass.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>88</p>
+                    </td>
+                    <td>
+                      <p>For compensation for infringing copyright or any other exclusive privilege.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the infringement.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>89</p>
+                    </td>
+                    <td>
+                      <p>To restrain waste.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the waste begins.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>90</p>
+                    </td>
+                    <td>
+                      <p>For compensation for injury caused by an injunction wrongfully obtained.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the injunction ceases.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>91</p>
+                    </td>
+                    <td>
+                      <p>For compensation, --</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the person having the right to the possession of the property first learns in whose possession it is.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) for wrongfully taking or detaining any specific movable property lost, or acquired by theft, or dishonest misappropriation, or conversion.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) for wrongfully taking or injuring or wrongfully detaining any other specific movable property.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the property is wrongfully taken or injured, or when the detainer's possession becomes unlawful.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART VIII--SUITS RELATING TO TRUSTS AND TRUST PROPERTY</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>92</p>
+                    </td>
+                    <td>
+                      <p>To recover possession of immovable property conveyed or bequeathed in trust and afterwards transferred by the trustee for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the transfer becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>93</p>
+                    </td>
+                    <td>
+                      <p>To recover possession of movable property conveyed or bequeathed in trust and afterwards transferred by the trustee for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the transfer becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>94</p>
+                    </td>
+                    <td>
+                      <p>To set aside a transfer of immovable property comprised in a Hindu, Muslim or Buddhist religious or charitable endowment, made by a manager thereof, for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the transfer becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>95</p>
+                    </td>
+                    <td>
+                      <p>To set aside a transfer of movable property comprised in a Hindu, Muslim or Buddhist religious or charitable endowment, made by a manager thereof, for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the transfer becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>96</p>
+                    </td>
+                    <td>
+                      <p>By the manager of a Hindu, Muslim or Buddhist religious or charitable endowment to recover possession of movable or immovable properly comprised in the endowment which has been transferred by a previous manager for a valuable consideration.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>The date of death, resignation or removal of the transferor or the date of appointment of the plaintiff as manager of the endowment, whichever is later.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART IX--SUITS RELATING TO MISCELLANEOUS MATTERS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>97</p>
+                    </td>
+                    <td>
+                      <p>To enforce a right of pre-emption whether the right is founded on law or general usage or on special contract.</p>
+                    </td>
+                    <td>
+                      <p>One year.</p>
+                    </td>
+                    <td>
+                      <p>When the purchaser takes under the sale sought to be impeached, physical possession of the whole or part of the property sold, or, where the subject-matter of the sale does not admit of physical possession of the whole or part of the property, when the instrument of sale is registered.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>98</p>
+                    </td>
+                    <td>
+                      <p>By a person against whom3[an] of Order XXI of the Code of Civil Procedure, 1908 (5 of 1908) or an order under section 28 of thePresidency Small Cause Courts Act, 1882 (15 of 1882) has been made, to establish the right which he claims to the property comprised in the order.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p>The date of the final order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>99</p>
+                    </td>
+                    <td>
+                      <p>To set aside a sale by a civil or revenue court or a sale for arrears of Government revenue or for any demand recoverable as such arrears.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p>When the sale is confirmed or would otherwise have become final and conclusive had no such suit been brought.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>100</p>
+                    </td>
+                    <td>
+                      <p>To alter or set aside any decision or order of a civil court in any proceeding other than a suit or any act or order of an officer of Government in his official capacity.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p>The date of the final decision or order by the court or the date of the act or order of the officer, as the case may be.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>101</p>
+                    </td>
+                    <td>
+                      <p>Upon a judgment including a foreign judgment, or a recognisance.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the judgment or recognisance.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>102</p>
+                    </td>
+                    <td>
+                      <p>For property which the plaintiff has conveyed while insane.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the plaintiff is restored to sanity and has knowledge of the conveyance.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>103</p>
+                    </td>
+                    <td>
+                      <p>To make good out of the general estate of a deceased trustee the loss occasioned by a breach of trust.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>The date of the trustee's death or if the loss has not then resulted, the date of the loss.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>104</p>
+                    </td>
+                    <td>
+                      <p>To establish a periodically recurring right.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the plaintiff is first refused the enjoyment of the right.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>105</p>
+                    </td>
+                    <td>
+                      <p>By a Hindu for arrears of maintenance.</p>
+                    </td>
+                    <td>
+                      <p>Three yean</p>
+                    </td>
+                    <td>
+                      <p>When the arrears are payable.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>106</p>
+                    </td>
+                    <td>
+                      <p>For a legacy or for a share of a residue bequeathed by a testator or for a distributive share of the property of an intestate against an executor or an administrator or some other person legally charged with the duty of distributing the estate.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the legacy or share becomes payable or deliverable.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>107</p>
+                    </td>
+                    <td>
+                      <p>For possession of a hereditary office. Explanation. -- A hereditary office is possessed when the properties thereof are usually received, or (if there are no properties) when the duties thereof are usually performed.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the defendant takes possession of the office adversely to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>108</p>
+                    </td>
+                    <td>
+                      <p>Suit during the life of a Hindu or Muslim female by a Hindu or Muslim, who if the female died at the date of instituting the suit, would be entitled to the possession of land, to have an alienation of such land made by the female declared to be void except for her life or until her re-marriage.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>The date of the alienation.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>109</p>
+                    </td>
+                    <td>
+                      <p>By a Hindu governed by Mitakshara law to set aside his father's alienation of ancestral property.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the alienee takes possession of the property.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>110</p>
+                    </td>
+                    <td>
+                      <p>By a person excluded from a joint family property to enforce a right to share therein.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>When the exclusion becomes known to the plaintiff.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>111</p>
+                    </td>
+                    <td>
+                      <p>By or on behalf of a any local authority for possession of any public street or road or any part thereof from which it has been dispossessed or of which it has discontinued the possession.</p>
+                    </td>
+                    <td>
+                      <p>Thirty years</p>
+                    </td>
+                    <td>
+                      <p>The date of the dispossession or discontinuance</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>112</p>
+                    </td>
+                    <td>
+                      <p>Any suit (except a suit before the Supreme Court in the exercise of its original jurisdiction) by or on behalf of the Central Government or any State Government, including the Government of the State of Jammu and Kashmir.</p>
+                    </td>
+                    <td>
+                      <p>Thirty years</p>
+                    </td>
+                    <td>
+                      <p>When the period of limitation would begin to run under this Act against a like suit by a private person.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>STATE AMENDMENT</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>4West Bengal:</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>In the entry in the first column against Article 112, after the words "Jammu and Kashmir" the following words shall be and shall be deemed always to have been added, namely:--</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>of a Government company owned wholly either by the Central Government or by the State Government or jointly by the Central and the State Government.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART X--SUITS FOR WHICH THERE IS NO PRESCRIBED PERIOD</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>113</p>
+                    </td>
+                    <td>
+                      <p>Any suit for which no period of limitation is provided elsewhere in this Schedule.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the right to sue accrues,</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>SECOND DIVISION---APPEALS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>114</p>
+                    </td>
+                    <td>
+                      <p>Appeal from an order of acquittal --</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) under sub-section (1) or sub-section (2) of section 417 of the Code of Criminal Procedure, 1898 (5 of 1898).</p>
+                    </td>
+                    <td>
+                      <p>Ninety days</p>
+                    </td>
+                    <td>
+                      <p>The date of the order appealed from.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) under sub-section (3) of section 417 of the Code.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the grant of special leave.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>115</p>
+                    </td>
+                    <td>
+                      <p>Under the Code of Criminal Procedure, 1898 (5 of 1898)</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) from a sentence of death passed by a court of session or by a High Court in the exercise of its original criminal jurisdiction.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the sentence.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) from any other sentence or any order not being an order of acquittal --</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(i) to the High Court.</p>
+                    </td>
+                    <td>
+                      <p>Sixty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the sentence or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(ii) to any other court.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the sentence or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>116</p>
+                    </td>
+                    <td>
+                      <p>Under the Code of Civil Procedure, 1908 (5 of 1908),--</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) to a High Court from any decree or order.</p>
+                    </td>
+                    <td>
+                      <p>Ninety days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) to any other court from any decree or order.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>117</p>
+                    </td>
+                    <td>
+                      <p>From a decree or order of any High Court to the same Court.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>THIRD DIVISION--APPLICATIONS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Description of application</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Period of limitation</p>
+                    </td>
+                    <td>
+                      <p>Time from which period begins to run</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART I-- APPLICATIONS IN SPECIFIED CASES</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>118</p>
+                    </td>
+                    <td>
+                      <p>For leave to appear and defend a suit under summary procedure.</p>
+                    </td>
+                    <td>
+                      <p>Ten days</p>
+                    </td>
+                    <td>
+                      <p>When the summons is served.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>119</p>
+                    </td>
+                    <td>
+                      <p>Under the Arbitration Act, 1940 (10 of 1940),--</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) for the filing in court of an award.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of service of the notice of the making of the award.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) for setting aside an award or getting an award remitted for reconsideration.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of service of the notice of the filing of the award.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>120</p>
+                    </td>
+                    <td>
+                      <p>Under the Code of Civil Procedure, 1908 (5 of 1908) to have the legal representative of a deceased plaintiff or appellant, or of a deceased defendant or respondent, made a p.arty.</p>
+                    </td>
+                    <td>
+                      <p>Ninety days</p>
+                    </td>
+                    <td>
+                      <p>The date of death of the plaintiff, appellant, defendant or respondent as the case may be.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>121</p>
+                    </td>
+                    <td>
+                      <p>Under the same Code for an order to set aside an abatement.</p>
+                    </td>
+                    <td>
+                      <p>Sixty days</p>
+                    </td>
+                    <td>
+                      <p>The date of abatement.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>122</p>
+                    </td>
+                    <td>
+                      <p>To restore a suit or appeal or application for review or revision dismissed for default of appearance or for want of prosecution or for failure to pay costs of service of process or to furnish security for costs.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of dismissal.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>123</p>
+                    </td>
+                    <td>
+                      <p>To set aside a decree passed ex parte or to re-hear an appeal decreed or heard ex parte.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or where the summons or notice was not duly served, when the applicant had knowledge of the decree.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Explanation. -- For the purpose of this article, substituted service under rule 20 of Order V of the Code of Civil Procedure, 1908 (5 of 1908) shall not be deemed to be due service.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>124</p>
+                    </td>
+                    <td>
+                      <p>For a review of judgment by a court other than the Supreme Court.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>125</p>
+                    </td>
+                    <td>
+                      <p>To record an adjustment or satisfaction of a decree.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>When the payment or adjustment is made.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>126</p>
+                    </td>
+                    <td>
+                      <p>For the payment of the amount of a decree by installments.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>127</p>
+                    </td>
+                    <td>
+                      <p>To set aside a sale in execution of a decree, including any such application by a judgment-debtor.</p>
+                    </td>
+                    <td>
+                      <p>5[Sixty] days</p>
+                    </td>
+                    <td>
+                      <p>The date of the sale.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>128</p>
+                    </td>
+                    <td>
+                      <p>For possession by one dispossessed of immovable property and disputing the right of the decree-holder or purchaser at a sale in execution of a decree.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the dispossession.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>129</p>
+                    </td>
+                    <td>
+                      <p>For possession after removing resistance or obstruction to delivery of possession of immovable property decreed or sold in execution of a decree.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of resistance or obstruction.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>130</p>
+                    </td>
+                    <td>
+                      <p>For leave to appeal as a pauper --</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) to the High Court;</p>
+                    </td>
+                    <td>
+                      <p>Sixty days</p>
+                    </td>
+                    <td>
+                      <p>The date of decree appealed from.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) to any other court.</p>
+                    </td>
+                    <td>
+                      <p>Thirty days</p>
+                    </td>
+                    <td>
+                      <p>The date of decree appealed from.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>131</p>
+                    </td>
+                    <td>
+                      <p>To any court for the exercise of its powers of revision under the Code of Civil Procedure, 1908 (5 of 1908), or the Code of Criminal Procedure, 1898 (5 of 1898).</p>
+                    </td>
+                    <td>
+                      <p>Ninety days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or order or sentence sought to be revised.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>132</p>
+                    </td>
+                    <td>
+                      <p>To the High Court for a certificate of fitness to appeal to the Supreme Court under clause (1) of article 132, article 133 or sub-clause (c) of clause (1) of article 134 of the Constitution or under any other law for the time being in force.</p>
+                    </td>
+                    <td>
+                      <p>Sixty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree, order or sentence.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>133</p>
+                    </td>
+                    <td>
+                      <p>To the Supreme Court for special leave to appeal, --</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(a) in a case involving death sentence.</p>
+                    </td>
+                    <td>
+                      <p>Sixty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the judgment, final order or sentence.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(b) in a case where leave to appeal was refused by the High Court.</p>
+                    </td>
+                    <td>
+                      <p>Sixty days</p>
+                    </td>
+                    <td>
+                      <p>The date of the order of refusal.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>(c) in any other case.</p>
+                    </td>
+                    <td>
+                      <p>Ninety days</p>
+                    </td>
+                    <td>
+                      <p>The date of the judgment or order.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>134</p>
+                    </td>
+                    <td>
+                      <p>For delivery of possession by a purchaser of immovable property at a sale in execution of a decree.</p>
+                    </td>
+                    <td>
+                      <p>One year</p>
+                    </td>
+                    <td>
+                      <p>When the sale becomes absolute.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>135</p>
+                    </td>
+                    <td>
+                      <p>For the enforcement of a decree granting a mandatory injunction.</p>
+                    </td>
+                    <td>
+                      <p>Three years.</p>
+                    </td>
+                    <td>
+                      <p>The date of the decree or where a date is fixed for performance, such date.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>136</p>
+                    </td>
+                    <td>
+                      <p>For the execution of any decree (other than a decree granting a mandatory injunction) or order of any civil court.</p>
+                    </td>
+                    <td>
+                      <p>Twelve years</p>
+                    </td>
+                    <td>
+                      <p>6[When] the decree or order becomes enforceable or where the decree or any subsequent order directs any payment of money or the delivery of any property to be made at a certain date or at recurring periods, when default in making the payment or delivery in respect of which execution is sought, takes place:</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Provided that an application for the enforcement or execution of a decree granting a perpetual injunction shall not be subject to any period of limitation.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>PART II--OTHER APPLICATIONS</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>137</p>
+                    </td>
+                    <td>
+                      <p>Any other application for which no period of limitation is provided elsewhere in this division.</p>
+                    </td>
+                    <td>
+                      <p>Three years</p>
+                    </td>
+                    <td>
+                      <p>When the right to apply accrues.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                </table>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

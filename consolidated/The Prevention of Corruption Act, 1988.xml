@@ -1,0 +1,793 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1988/49/main"/>
+          <FRBRuri value="/in-union/act/1988/49"/>
+          <FRBRalias value="The Prevention of Corruption Act, 1988"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1988/49/eng@1988-09-09/main"/>
+          <FRBRuri value="/in-union/act/1988/49/eng@1988-09-09"/>
+          <FRBRdate date="1988-09-09" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1988/49/eng@1988-09-09/main"/>
+          <FRBRuri value="/in-union/act/1988/49/eng@1988-09-09"/>
+          <FRBRdate date="2016-10-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Prevention Of Corruption Act, 1988</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 49 OF 1988</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[9th September, 1988.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to consolidate and amend the law relating to the prevention of corruption and for matters connected therewith.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Thirty-ninth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title and extent.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Prevention of Corruption Act, 1988.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu and Kashmir and it applies also to all citizens of India outside India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“election” means any election, by whatever means held under any law for the purpose of selecting members of Parliament or of any Legislature, local authority or other public authority;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“public duty” means a duty in the discharge of which the State, the public or the community at large has an interest;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.paragraph-0.list3">
+                <listIntroduction>Explanation.—In this clause “State” includes a corporation established by or under a Central, Provincial or State Act, or an authority or a body owned or controlled or aided by the Government or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956);</listIntroduction>
+                <item id="section-2.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <blockList id="section-2.paragraph-0.list3.c.list0">
+                    <listIntroduction>“public servant” means—</listIntroduction>
+                    <item id="section-2.paragraph-0.list3.c.list0.i">
+                      <num>(i)</num>
+                      <p>any person in the service or pay of the Government or remunerated by the Government by fees or commission for the performance of any public duty;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>any person in the service or pay of a local authority;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.iii">
+                      <num>(iii)</num>
+                      <p>any person in the service or pay of a corporation established by or under a Central, Provincial or State Act, or an authority or a body owned or controlled or aided by the Government or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956);</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.iv">
+                      <num>(iv)</num>
+                      <p>any Judge, including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.v">
+                      <num>(v)</num>
+                      <p>any person authorised by a court of justice to perform any duty, in connection with the administration of justice, including a liquidator, receiver or commissioner appointed by such court;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.vi">
+                      <num>(vi)</num>
+                      <p>any arbitrator or other person to whom any cause or matter has been referred for decision or report by court of justice or by a competent public authority;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.vii">
+                      <num>(vii)</num>
+                      <p>any person who holds an office by virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.viii">
+                      <num>(viii)</num>
+                      <p>any person who holds an office by virtue of which he is authorised or required to perform any public duty;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.ix">
+                      <num>(ix)</num>
+                      <p>any person who is the president, secretary or other office-bearer of a registered co-operative society engaged in agriculture, industry, trade or banking, receiving or having received any financial aid from the Central Government or a State Government or from any corporation established by or under a Central, Provincial or State Act, or any authority or body owned or controlled or aided by the Government or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956);</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.x">
+                      <num>(x)</num>
+                      <p>any person who is a chairman, member or employee of any Service Commission or Board, by whatever name called, or a member of any selection committee appointed by such Commission or Board for the conduct of any examination or making any selection on behalf of such Commission or Board;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.xi">
+                      <num>(xi)</num>
+                      <p>any person who is a Vice-Chancellor or member of any governing body, professor, reader, lecturer or any other teacher or employee, by whatever designation called, of any University and any person whose services have been availed of by a University or any other public authority in connection with holding or conducting examinations;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list3.c.list0.xii">
+                      <num>(xii)</num>
+                      <p>any person who is an office-bearer or an employee of an educational, scientific, social, cultural or other institution, in whatever manner established, receiving or having received any financial assistance from the Central Government or any State Government, or local or other public authority.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <p>Explanation 1.—Persons falling under any of the above sub-clauses are public servants, whether appointed by the Government or not.</p>
+              <p>Explanation 2.—Wherever the words “public servant” occur, they shall be understood of every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Appointment of Special Judges</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Power to appoint special Judges.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-3.1.list1">
+                <listIntroduction>The Central Government or the State Government may, by notification in the Official Gazette, appoint as many special Judges as may be necessary for such area or areas or for such case or group of cases as may be specified in the notification to try the following offences, namely:—</listIntroduction>
+                <item id="section-3.1.list1.a">
+                  <num>(a)</num>
+                  <p>any offence punishable under this Act; and</p>
+                </item>
+                <item id="section-3.1.list1.b">
+                  <num>(b)</num>
+                  <p>any conspiracy to commit or any attempt to commit or any abetment of any of the offences specified in clause (a).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as a special Judge under this Act unless he is or has been a Sessions Judge or an Additional Sessions Judge or an Assistant Sessions Judge under the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Cases triable by special Judges.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), or in any other law for the time being in force, the offences specified in sub-section (1) of section 3 shall be tried by special Judges only.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Every offence specified in sub-section (1) of section 3 shall be tried by the special Judge for the area within which it was committed, or, as the case may be, by the special Judge appointed for the case, or where there are more special Judges than one for such area, by such one of them as may be specified in this behalf by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>When trying any case, a special Judge may also try any offence, other than an offence specified in section 3, with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), a special Judge shall, as far as practicable, hold the trial of an offence on day-to-day basis.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Procedure and powers of special Judge.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>A special Judge may take cognizance of offences without the accused being committed to him for trial and, in trying the accused persons, shall follow the procedure prescribed by the Code of Criminal Procedure, 1973 (2 of 1974), for the trial of warrant cases by Magistrates.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>A special Judge may, with a view to obtaining the evidence of any person supposed to have been directly or indirectly concerned in, or privy to, an offence, tender a pardon to such person on condition of his making a full and true disclosure of the whole circumstances within his knowledge relating to the offence and to every other person concerned, whether as principal or abettor, in the commission thereof and any pardon so tendered shall, for the purposes of sub-sections (1) to (5) of section 308 of the Code of Criminal Procedure, 1973 (2 of 1974), be deemed to have been tendered under section 307 of that Code.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>Save as provided in sub-section (1) or sub-section (2), the provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall, so far as they are not inconsistent with this Act, apply to the proceedings before a special Judge; and for the purposes of the said provisions, the Court of the special Judge shall be deemed to be a Court of Session and the person conducting a prosecution before a special Judge shall be deemed to be a public prosecutor.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>In particular and without prejudice to the generality of the provisions contained in sub-section (3), the provisions of sections 326 and 475 of the Code of Criminal Procedure, 1973 (2 of 1974), shall, so far as may be, apply to the proceedings before a special Judge and for the purposes of the said provisions, a special Judge shall be deemed to be a Magistrate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.5">
+            <num>(5)</num>
+            <content>
+              <p>A special Judge may pass upon any person convicted by him any sentence authorised by law for the punishment of the offence of which such person is convicted.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.6">
+            <num>(6)</num>
+            <content>
+              <p>A special Judge, while trying an offence punishable under this Act, shall exercise all the powers and functions exercisable by a District Judge under the Criminal Law Amendment Ordinance, 1944 (Ordinance 38 of 1944).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Power to try summarily.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a special Judge tries any offence specified in sub-section (1) of section 3, alleged to have been committed by a public servant in relation to the contravention of any special order referred to in sub-section (1) of section 12A of the Essential Commodities Act, 1955 (10 of 1955) or of an order referred to in clause (a) of sub-section (2) of that section, then, notwithstanding anything contained in sub-section (1) of section 5 of this Act or section 260 of the Code of Criminal Procedure, 1973 (2 of 1974), the special Judge shall try the offence in a summary way, and the provisions of sections 262 to 265 (both inclusive) of the said Code shall, as far as may be, apply to such trial:</p>
+              <p>Provided that, in the case of any conviction in a summary trial under this section, it shall be lawful for the special Judge to pass a sentence of imprisonment for a term not exceeding one year:</p>
+              <p>Provided further that when at the commencement of, or in the course of, a summary trial under this section, it appears to the special Judge that the nature of the case is such that a sentence of imprisonment for a term exceeding one year may have to be passed or that it is, for any other reason, undesirable to try the case summarily, the special Judge shall, after hearing the parties, record an order to that effect and thereafter recall any witnesses who may have been examined and proceed to hear or re-hear the case in accordance with the procedure prescribed by the said Code for the trial of warrant cases by Magistrates.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything to the contrary contained in this Act or in the Code of Criminal Procedure, 1973 (2 of 1974), there shall be no appeal by a convicted person in any case tried summarily under this section in which the special Judge passes a sentence of imprisonment not exceeding one month, and of fine not exceeding two thousand rupees whether or not any order under section 452 of the said Code is made in addition to such sentence, but an appeal shall lie where any sentence in excess of the aforesaid limits is passed by the special Judge.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Offences and Penalties</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Public servant taking gratification other than legal remuneration in respect of an official act.—</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>Whoever, being, or expecting to be a public servant, accepts or obtains or agrees to accept or attempts to obtain from any person, for himself or for any other person, any gratification whatever, other than legal remuneration, as a motive or reward for doing or forbearing to do any official act or for showing or forbearing to show, in the exercise of his official functions, favour or disfavour to any person or for rendering or attempting to render any service or disservice to any person, with the Central Government or any State Government or Parliament or the Legislature of any State or with any local authority, corporation or Government company referred to in clause (c) of section 2, or with any public servant, whether named or otherwise, shall be punishable with imprisonment which shall be not less than three years but which may extend to seven years and shall also be liable to fine.</p>
+              <blockList id="section-7.paragraph-0.list2">
+                <listIntroduction>Explanations.—</listIntroduction>
+                <item id="section-7.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>“Expecting to be a public servant.” If a person not expecting to be in office obtains a gratification by deceiving others into a belief that he is about to be in office, and that he will then serve them, be may be guilty of cheating, but he is not guilty of the offence defined in this section.</p>
+                </item>
+                <item id="section-7.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>“Gratification.” The word “gratification” is not restricted to pecuniary gratifications or to gratifications estimable in money.</p>
+                </item>
+                <item id="section-7.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>“Legal remuneration.” The words “legal remuneration” are not restricted to remuneration which a public servant can lawfully demand, but include all remuneration which he is permitted by the Government or the organisation, which he serves, to accept.</p>
+                </item>
+                <item id="section-7.paragraph-0.list2.d">
+                  <num>(d)</num>
+                  <p>“A motive or reward for doing.” A person who receives a gratification as a motive or reward for doing what he does not intend or is not in a position to do, or has not done, comes within this expression.</p>
+                </item>
+                <item id="section-7.paragraph-0.list2.e">
+                  <num>(e)</num>
+                  <p>Where a public servant induces a person erroneously to believe that his influence with the Government has obtained a title for that person and thus induces that person to give the public servant, money or any other gratification as a reward for this service, the public servant has committed an offence under this section.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Taking gratification, in order, by corrupt or illegal means, to influence public servant.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>Whoever accepts or obtains, or agrees to accept, or attempts to obtain, from any person, for himself or for any other person, any gratification whatever as a motive or reward for inducing, by corrupt or illegal means, any public servant, whether named or otherwise, to do or to forbear to do any official act, or in the exercise of the official functions of such public servant to show favour or disfavour to any person, or to render or attempt to render any service or disservice to any person with the Central Government or any State Government or Parliament or the Legislature of any State or with any local authority, corporation or Government company referred to in clause (c) of section 2, or with any public servant, whether named or otherwise, shall be punishable with imprisonment for a term which shall be not less than three years but which may extend to seven years and shall also be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Taking gratification, for exercise of personal influence with public servant.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>Whoever accepts or obtains or agrees to accept or attempts to obtain, from any person, for himself or for any other person, any gratification whatever, as a motive or reward for inducing, by the exercise of personal influence, any public servant whether named or otherwise to do or to forbear to do any official act, or in the exercise of the official functions of such public servant to show favour or disfavour to any person, or to render or attempt to render any service or disservice to any person with the Central Government or any State Government or Parliament or the Legislature of any State or with any local authority, corporation or Government company referred to in clause (c) of section 2, or with any public servant, whether named or otherwise, shall be punishable with imprisonment for a term which shall be not less than three years but which may extend to seven years and shall also be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Punishment for abetment by public servant of offences defined in section 8 or 9.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>Whoever, being a public servant, in respect of whom either of the offences defined in section 8 or section 9 is committed, abets the offence, whether or not that offence is committed in consequence of that abetment, shall be punishable with imprisonment for a term which shall be not less than six months but which may extend to five years and shall also be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Public servant obtaining valuable thing, without consideration from person concerned in proceeding or business transacted by such public servant.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>Whoever, being a public servant, accepts or obtains or agrees to accept or attempts to obtain for himself, or for any other person, any valuable thing without consideration, or for a consideration which he knows to be inadequate, from any person whom he knows to have been, or to be, or to be likely to be concerned in any proceeding or business transacted or about to be transacted by such public servant, or having any connection with the official functions of himself or of any public servant to whom he is subordinate, or from any person whom he knows to be interested in or related to the person so concerned, shall be punishable with imprisonment for a term which shall be not less than six months but which may extend to five years and shall also be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Punishment for abetment of offences defined in section 7 or 11.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>Whoever abets any offence punishable under section 7 or section 11 whether or not that offence is committed in consequence of that abetment, shall be punishable with imprisonment for a term which shall be not less than three years but which may extend to seven years and shall also be liable to five.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Criminal misconduct by a public servant.—</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-13.1.list1">
+                <listIntroduction>A public servant is said to commit the offence of criminal misconduct,—</listIntroduction>
+                <item id="section-13.1.list1.a">
+                  <num>(a)</num>
+                  <p>if he habitually accepts or obtains or agrees to accept or attempts to obtain from any person for himself or for any other person any gratification other than legal remuneration as a motive or reward such as is mentioned in section 7; or</p>
+                </item>
+                <item id="section-13.1.list1.b">
+                  <num>(b)</num>
+                  <p>if he habitually accepts or obtains or agrees to accept or attempts to obtain for himself or for any other person, any valuable thing without consideration or for a consideration which he knows to be inadequate from any person whom he knows to have been, or to be, or to be likely to be concerned in any proceeding or business transacted or about to be transacted by him, or having any connection with the official functions of himself or of any public servant to whom he is subordinate, or from any person whom he knows to be interested in or related to the person so concerned; or</p>
+                </item>
+                <item id="section-13.1.list1.c">
+                  <num>(c)</num>
+                  <p>if he dishonestly or fraudulently misappropriates or otherwise converts for his own use any property entrusted to him or under his control as a public servant or allows any other person so to do; or</p>
+                </item>
+                <item id="section-13.1.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-13.1.list1.d.list0">
+                    <listIntroduction>if he,—</listIntroduction>
+                    <item id="section-13.1.list1.d.list0.i">
+                      <num>(i)</num>
+                      <p>by corrupt or illegal means, obtains for himself or for any other person any valuable thing or pecuniary advantage; or</p>
+                    </item>
+                    <item id="section-13.1.list1.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>by abusing his position as a public servant, obtains for himself or for any other person any valuable thing or pecuniary advantage; or</p>
+                    </item>
+                    <item id="section-13.1.list1.d.list0.iii">
+                      <num>(iii)</num>
+                      <p>while holding office as a public servant, obtains for any person any valuable thing or pecuniary advantage without any public interest; or</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-13.1.list1.e">
+                  <num>(e)</num>
+                  <p>if he or any person on his behalf, is in possession or has, at any time during the period of his office, been in possession for which the public servant cannot satisfactorily account, of pecuniary resources or property disproportionate to his known sources of income.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—For the purposes of this section, “known sources of income” means income received from any lawful source and such receipt has been intimated in accordance with the provisions of any law, rules or orders for the time being applicable to a public servant.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>Any public servant who commits criminal misconduct shall be punishable with imprisonment for a term which shall be not less than four years but which may extend to ten years and shall also be liable to fine.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Habitual committing of offence under sections 8, 9 and 12.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <blockList id="section-14.paragraph-0.list1">
+                <listIntroduction>Whoever habitually commits—</listIntroduction>
+                <item id="section-14.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>an offence punishable under section 8 or section 9; or</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>an offence punishable under section 12,</p>
+                </item>
+              </blockList>
+              <p>shall be punishable with imprisonment for a term which shall be not less than five years but which may extend to ten years and shall also be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Punishment for attempt.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>Whoever attempts to commit an offence referred to in clause (c) or clause (d) of sub-section (1) of section 13 shall be punishable with imprisonment for a term which shall not be less than two years but which may extend to five years and with fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Matters to be taken into consideration for fixing fine.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Where a sentence of fine is imposed under sub-section (2) of section 13 or section 14, the court in fixing the amount of the fine shall take into consideration the amount or the value of the property, if any, which the accused person has obtained by committing the offence or where the conviction is for an offence referred to in clause (e) of sub-section (1) of section 13, the pecuniary resources or property referred to in that clause for which the accused person is unable to account satisfactorily.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Investigation into Cases under the Act</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Persons authorised to investigate.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <blockList id="section-17.paragraph-0.list1">
+                <listIntroduction>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), no police officer below the rank,—</listIntroduction>
+                <item id="section-17.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of the Delhi Special Police Establishment, of an Inspector of Police;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>in the metropolitan areas of Bombay, Calcutta, Madras and Ahmedabad and in any other metropolitan area notified as such under sub-section (1) of section 8 of the Code of Criminal Procedure, 1973 (2 of 1974), of an Assistant Commissioner of Police;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>elsewhere, of a Deputy Superintendent of Police or a police officer of equivalent rank,</p>
+                </item>
+              </blockList>
+              <p>shall investigate any offence punishable under this Act without the order of a Metropolitan Magistrate or a Magistrate of the first class, as the case may be, or make any arrest therefor without a warrant:</p>
+              <p>Provided that if a police officer not below the rank of an Inspector of Police is authorised by the State Government in this behalf by general or special order, he may also investigate any such offence without the order of a Metropolitan Magistrate or a Magistrate of the first class, as the case may be, or make arrest therefor without a warrant:</p>
+              <p>Provided further that an offence referred to in clause (e) of sub-section (1) of section 13 shall not be investigated without the order of a police officer not below the rank of a Superintendent of Police.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power to inspect bankers’ books.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>If from information received or otherwise, a police officer has reason to suspect the commission of an offence which he is empowered to investigate under section 17 and considers that for the purpose of investigation or inquiry into such offence, it is necessary to inspect any bankers’ books, then, notwithstanding anything contained in any law for the time being in force, he may inspect any bankers’ books in so far as they relate to the accounts of the persons suspected to have committed that offence or of any other person suspected to be holding money on behalf of such person, and take or cause to be taken certified copies of the relevant entries therefrom, and the bank concerned shall be bound to assist the police officer in the exercise of his powers under this section:</p>
+              <p>Provided that no power under this section in relation to the accounts of any person shall be exercised by a police officer below the rank of a Superintendent of Police, unless he is specially authorised in this behalf by a police officer of or above the rank of a Superintendent of Police.</p>
+              <p>Explanation.— In this section, the expressions “bank” and “bankers’ books” shall have the meanings respectively assigned to them in the Bankers’ Books Evidence Act, 1891 (18 of 1891).</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Sanction for Prosecution and other Miscellaneous Provisions</heading>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Previous sanction necessary for prosecution.—</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-19.1.list1">
+                <listIntroduction>No court shall take cognizance of an offence punishable under sections 7, 10, 11, 13 and 15 alleged to have been committed by a public servant, except with the previous sanction save as otherwise provided in the Lokpal and Lokayuktas Act, 2013 (1 of 2014)—</listIntroduction>
+                <item id="section-19.1.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of a person who is employed in connection with the affairs of the Union and is not removable from his office save by or with the sanction of the Central Government, of that Government;</p>
+                </item>
+                <item id="section-19.1.list1.b">
+                  <num>(b)</num>
+                  <p>in the case of a person who is employed in connection with the affairs of a State and is not removable from his office save by or with the sanction of the State Government, of that Government;</p>
+                </item>
+                <item id="section-19.1.list1.c">
+                  <num>(c)</num>
+                  <p>in the case of any other person, of the authority competent to remove him from his office.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>Where for any reason whatsoever any doubt arises as to whether the previous sanction as required under sub-section (1) should be given by the Central Government or the State Government or any other authority, such sanction shall be given by that Government or authority which would have been competent to remove the public servant from his office at the time when the offence was alleged to have been committed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-19.3.list1">
+                <listIntroduction>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),—</listIntroduction>
+                <item id="section-19.3.list1.a">
+                  <num>(a)</num>
+                  <p>no finding, sentence or order passed by a special Judge shall be reversed or altered by a Court in appeal, confirmation or revision on the ground of the absence of, or any error, omission or irregularity in, the sanction required under sub-section (1), unless in the opinion of that court, a failure of justice has in fact been occasioned thereby;</p>
+                </item>
+                <item id="section-19.3.list1.b">
+                  <num>(b)</num>
+                  <p>no court shall stay the proceedings under this Act on the ground of any error, omission or irregularity in the sanction granted by the authority, unless it is satisfied that such error, omission or irregularity has resulted in a failure of justice;</p>
+                </item>
+                <item id="section-19.3.list1.c">
+                  <num>(c)</num>
+                  <p>no court shall stay the proceedings under this Act on any other ground and no court shall exercise the powers of revision in relation to any interlocutory order passed in any inquiry, trial, appeal or other proceedings.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>In determining under sub-section (3) whether the absence of, or any error, omission or irregularity in, such sanction has occasioned or resulted in a failure of justice the court shall have regard to the fact whether the objection could and should have been raised at any earlier stage in the proceedings.</p>
+              <blockList id="section-19.4.list2">
+                <listIntroduction>Explanation.—For the purposes of this section,—</listIntroduction>
+                <item id="section-19.4.list2.a">
+                  <num>(a)</num>
+                  <p>error includes competency of the authority to grant sanction;</p>
+                </item>
+                <item id="section-19.4.list2.b">
+                  <num>(b)</num>
+                  <p>a sanction required for prosecution includes reference to any requirement that the prosecution shall be at the instance of a specified authority or with the sanction of a specified person or any requirement of a similar nature.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Presumption where public servant accepts gratification other than legal remuneration.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>Where, in any trial of an offence punishable under section 7 or section 11 or clause (a) or clause (b) of sub-section (1) of section 13 it is proved that an accused person has accepted or obtained or has agreed to accept or attempted to obtain for himself, or for any other person, any gratification (other than legal remuneration) or any valuable thing from any person, it shall be presumed, unless the contrary is proved,that he accepted or obtained or agreed to accept or attempted to obtain that gratification or that valuable thing, as the case may be, as a motive or reward such as is mentioned in section 7 or, as the case may be, without consideration or for a consideration which he knows to be inadequate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>Where in any trial of an offence punishable under section 12 or under clause (b) of section 14, it is proved that any gratification (other than legal remuneration) or any valuable thing has been given or offered to be given or attempted to be given by an accused person, it shall be presumed, unless the contrary is proved, that he gave or offered to give or attempted to give that gratification or that valuable thing, as the case may be, as a motive or reward such as is mentioned in section 7, or, as the case may be, without consideration or for a consideration which he knows to be inadequate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-sections (1) and (2), the court may decline to draw the presumption referred to in either of the said sub-sections, if the gratification or thing aforesaid is, in its opinion, so trivial that no inference of corruption may fairly be drawn.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Accused person to be a competent witness.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Any person charged with an offence punishable under this Act, shall be a competent witness for the defence and may give evidence on oath in disproof of the charges made against him or any person charged together with him at the same trial:</p>
+              <blockList id="section-21.paragraph-0.list2">
+                <listIntroduction>Provided that—</listIntroduction>
+                <item id="section-21.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>he shall not be called as a witness except at his own request;</p>
+                </item>
+                <item id="section-21.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>his failure to give evidence shall not be made the subject of any comment by the prosecution or give rise to any presumption against himself or any person charged together with him at the same trial;</p>
+                </item>
+                <item id="section-21.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <blockList id="section-21.paragraph-0.list2.c.list0">
+                    <listIntroduction>he shall not be asked, and if asked shall not be required to answer, any question tending to show that he has committed or been convicted of any offence other than the offence with which he is charged, or is of bad character, unless—</listIntroduction>
+                    <item id="section-21.paragraph-0.list2.c.list0.i">
+                      <num>(i)</num>
+                      <p>the proof that he has committed or been convicted of such offence is admissible evidence to show that he is guilty of the offence with which he is charged, or</p>
+                    </item>
+                    <item id="section-21.paragraph-0.list2.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>he has personally or by his pleader asked any question of any witness for the prosecution with a view to establish his own good character, or has given evidence of his good character, or the nature or conduct of the defence is such as to involve imputations on the character of the prosecutor or of any witness for the prosecution, or</p>
+                    </item>
+                    <item id="section-21.paragraph-0.list2.c.list0.iii">
+                      <num>(iii)</num>
+                      <p>he has given evidence against any other person charged with the same offence.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>The Code of Criminal Procedure, 1973 to apply subject to certain modifications.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <blockList id="section-22.paragraph-0.list1">
+                <listIntroduction>The provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall in their application to any proceeding in relation to an offence punishable under this Act have effect as if,—</listIntroduction>
+                <item id="section-22.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>in sub-section (1) of section 243, for the words “The accused shall then be called upon”, the words “The accused shall then be required to give in writing at once or within such time as the Court may allow, a list of the persons (if any) whom he proposes to examine as his witnesses and of the documents (if any) on which he proposes to rely and he shall then be called upon” had been substituted;</p>
+                </item>
+                <item id="section-22.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>in sub-section (2) of section 309, after the third proviso, the following proviso had been inserted, namely:—</p>
+                </item>
+              </blockList>
+              <blockList id="section-22.paragraph-0.list3">
+                <listIntroduction>“Provided also that the proceeding shall not be adjourned or postponed merely on the ground that an application under section 397 has been made by a party to the proceeding.”;</listIntroduction>
+                <item id="section-22.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>after sub-section (2) of section 317, the following sub-section had been inserted, namely:—</p>
+                </item>
+              </blockList>
+              <blockList id="section-22.paragraph-0.list5">
+                <listIntroduction>“(3) Notwithstanding anything contained in sub-section (1) or sub-section (2), the Judge may, if he thinks fit and for reasons to be recorded by him, proceed with inquiry or trial in the absence of the accused or his pleader and record the evidence of any witness subject to the right of the accused to recall the witness for cross-examination.”;</listIntroduction>
+                <item id="section-22.paragraph-0.list5.d">
+                  <num>(d)</num>
+                  <p>in sub-section (1) of section 397, before the Explanation, the following proviso had been inserted, namely :—</p>
+                </item>
+              </blockList>
+              <blockList id="section-22.paragraph-0.list7">
+                <listIntroduction>“Provided that where the powers under this section are exercised by a Court on an application made by a party to such proceedings, the Court shall not ordinarily call for the record of the proceedings:—</listIntroduction>
+                <item id="section-22.paragraph-0.list7.a">
+                  <num>(a)</num>
+                  <p>without giving the other party an opportunity of showing cause why the record should not be called for; or</p>
+                </item>
+                <item id="section-22.paragraph-0.list7.b">
+                  <num>(b)</num>
+                  <p>if it is satisfied that an examination of the record of the proceedings may be made from the certified copies.”.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Particulars in a charge in relation to an offence under section 13 (1) (c).—</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), when an accused is charged with an offence under clause (c) of sub-section (1) of section 13, it shall be sufficient to describe in the charge the property in respect of which the offence is alleged to have been committed and the dates between which the offence is alleged to have been committed, without specifying particular items or exact dates, and the charge so framed shall be deemed to be a charge of one offence within the meaning of section 219 of the said Code:</p>
+              <p>Provided that the time included between the first and last of such dates shall not exceed one year.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Statement by bribe giver not to subject him to prosecution.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, a statement made by a person in any proceeding against a public servant for an offence under sections 7 to 11 or under section 13 or section 15, that he offered or agreed to offer any gratification (other than legal remuneration) or any valuable thing to the public servant, shall not subject such person to a prosecution under section 12.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Military, Naval and Air Force or other law not to be affected.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Nothing in this Act shall affect the jurisdiction exercisable by, or the procedure applicable to, any court or other authority under the Army Act, 1950 (45 of 1950), the Air Force Act, 1950 (46 of 1950), the Navy Act, 1957 (62 of 1957), the Border Security Force Act, 1968 (47 of 1968), the Coast Guard Act, 1978 (30 of 1978) and the National Security Guard Act, 1986 (47 of 1986).</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>For the removal of doubts, it is hereby declared that for the purposes of any such law as is referred to in sub-section (1), the court of a special Judge shall be deemed to be a court of ordinary criminal justice.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Special Judges appointed under Act 46 of 1952 to be special Judges appointed under this Act.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Every special Judge appointed under the Criminal Law Amendment Act, 1952, for any area or areas and is holding office on the commencement of this Act shall be deemed to be a special Judge appointed under section 3 of this Act for that area or areas and, accordingly, on and from such commencement, every such Judge shall continue to deal with all the proceedings pending before him on such commencement in accordance with the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Appeal and revision.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>Subject to the provisions of this Act, the High Court may exercise, so far as they may be applicable, all the powers of appeal and revision conferred by the Code of Criminal Procedure, 1973 (2 of 1974) on a High Court as if the court of the special Judge were a court of Session trying cases within the local limits of the High Court.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Act to be in addition to any other law.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not in derogation of, any other law for the time being in force, and nothing contained herein shall exempt any public servant from any proceeding which might, apart from this Act, be instituted against him.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Amendment of the Ordinance 38 of 1944.—</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <blockList id="section-29.paragraph-0.list1">
+                <listIntroduction>In the Criminal Law Amendment Ordinance, 1944,—</listIntroduction>
+                <item id="section-29.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>in sub-section (1) of section 3, sub-section (1) of section 9, clause (a) of section 10, sub-section (1) of section 11 and sub-section (1) of section 13, for the words “State Government”, wherever they occur, the words “State Government or, as the case may be, the Central Government” shall be substituted;</p>
+                </item>
+                <item id="section-29.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>in section 10, in clause (a), for the words “three months”, the words “one year” shall be substituted;</p>
+                </item>
+                <item id="section-29.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <blockList id="section-29.paragraph-0.list1.c.list0">
+                    <listIntroduction>in the Schedule,—</listIntroduction>
+                    <item id="section-29.paragraph-0.list1.c.list0.i">
+                      <num>(i)</num>
+                      <p>paragraph 1 shall be omitted;</p>
+                    </item>
+                    <item id="section-29.paragraph-0.list1.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>in paragraphs 2 and 4,—</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-29.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>after the words “a local authority”, the words and figures “or a corporation established by or under a Central, Provincial or State Act, or an authority or a body owned or controlled or aided by Government or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956) or a society aided by such corporation, authority, body or Government company” shall be inserted;</p>
+                </item>
+                <item id="section-29.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-29.paragraph-0.list1.b.list1">
+                    <listIntroduction>after the words “or authority”, the words “or corporation or body or Government company or society” shall be inserted;</listIntroduction>
+                    <item id="section-29.paragraph-0.list1.b.list1.iii">
+                      <num>(iii)</num>
+                      <p>for paragraph 4A, the following paragraph shall be substituted, namely:— “4A. An offence punishable under the Prevention of Corruption Act, 1988.”;</p>
+                    </item>
+                    <item id="section-29.paragraph-0.list1.b.list1.iv">
+                      <num>(iv)</num>
+                      <p>in paragraph 5, for the words and figures “items 2, 3 and 4”, the words, figures and letter “items 2, 3, 4 and 4A” shall be substituted.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Repeal and saving.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The Prevention of Corruption Act, 1947 (2 of 1947) and the Criminal Law Amendment Act, 1952 (46 of 1952) are hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, but without prejudice to the application of section 6 of the General Clauses Act, 1897 (10 of 1897), anything done or any action taken or purported to have been done or taken under or in pursuance of the Acts so repealed shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken under or in pursuance of the corresponding provision of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Omission of certain sections of Act 45 of 1860.—</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <p>***</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

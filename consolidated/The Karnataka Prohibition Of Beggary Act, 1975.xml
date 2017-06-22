@@ -1,0 +1,980 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1975/27/main"/>
+          <FRBRuri value="/in-kar/act/1975/27"/>
+          <FRBRalias value="The Karnataka Prohibition Of Beggary Act, 1975"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1975/27/eng@2017-01-20/main"/>
+          <FRBRuri value="/in-kar/act/1975/27/eng@2017-01-20"/>
+          <FRBRdate date="2017-01-20" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1975/27/eng@2017-01-20/main"/>
+          <FRBRuri value="/in-kar/act/1975/27/eng@2017-01-20"/>
+          <FRBRdate date="2017-01-20" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Prohibition Of Beggary Act, 1975</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>KARNATAKA ACT NO. 27 OF 1975</docNumber>
+      </p>
+      <longTitle>
+        <p>An Act to prohibit persons from resorting to begging and to provide for the detention, training and employment of beggars, for the custody, trial and punishment of beggar offenders and for the relief and rehabilitation of such persons in the State of Karnataka.</p>
+        <p>WHEREAS it is necessary and expedient to prohibit persons from resorting to begging and to provide for the detention, training and employment of beggars, for the custody, trial and punishment of beggar offenders and for the relief and rehabilitation of such persons in the State of Karnataka;</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by the Karnataka State Legislature in the Twenty-sixth Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.-</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka Prohibition of Beggary Act, 1975.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Karnataka.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force in such areas of the State on such dates as the State Government may, by notification appoint and different dates may be appointed for different areas:</p>
+              <p>Provided that the provisions of this Act shall not be brought into force in any area unless the State Government is satisfied that suitable facilities exist for the relief of the beggars of that area.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Definitions</heading>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.-</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <p>In this Act, unless the context otherwise requires,-</p>
+            </content>
+          </paragraph>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <p>“alms” means anything given gratuitously to a beggar, such as money, cooked or un-cooked food, grains or clothing, or any other thing of value;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-2.2.list1">
+                <listIntroduction>“beggar” means any person other than a child who,-</listIntroduction>
+                <item id="section-2.2.list1.a">
+                  <num>(a)</num>
+                  <p>solicits or receives alms in a public place whether or not under any pretence such as singing, dancing, fortune telling, performing tricks, or selling articles;</p>
+                </item>
+                <item id="section-2.2.list1.b">
+                  <num>(b)</num>
+                  <p>enters any private premises for the purpose of soliciting or receiving alms;</p>
+                </item>
+                <item id="section-2.2.list1.c">
+                  <num>(c)</num>
+                  <p>exposes or exhibits with the object of obtaining or extorting alms, any sore, wound, injury, deformity or disease whether of a human being or of an animal;</p>
+                </item>
+                <item id="section-2.2.list1.d">
+                  <num>(d)</num>
+                  <p>having no visible means of subsistence, wanders about or remains in any public place in such condition or manner as makes it likely that he exists by soliciting or receiving alms;</p>
+                </item>
+                <item id="section-2.2.list1.e">
+                  <num>(e)</num>
+                  <p>allows himself to be used as an exhibit for the purpose of soliciting or receiving alms:</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.2.list3">
+                <listIntroduction>Provided that a person shall not be deemed to be a beggar if he,-</listIntroduction>
+                <item id="section-2.2.list3.i">
+                  <num>(i)</num>
+                  <p>is a religious mendicant licensed by the Central Relief Committee to solicit alms in the prescribed manner ;</p>
+                </item>
+                <item id="section-2.2.list3.ii">
+                  <num>(ii)</num>
+                  <p>in the performance of any religious vow or obligation as sanctioned by custom or religion collects alms in a private or public place, without being a nuisance; or</p>
+                </item>
+                <item id="section-2.2.list3.iii">
+                  <num>(iii)</num>
+                  <p>is permitted in writing by the Central Relief Committee to collect contributions in cash or kind from the public for any public institution, whether religious or secular or for the furtherance of any object for the good of the public; or</p>
+                </item>
+                <item id="section-2.2.list3.iv">
+                  <num>(iv)</num>
+                  <p>is a student collecting alms for the prosecution of his studies;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.3">
+            <num>(3)</num>
+            <content>
+              <p>“Central Relief Committee” means the committee constituted by the Government under section 4;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.4">
+            <num>(4)</num>
+            <content>
+              <p>“child” means a boy, who has not attained the age of sixteen years, or a girl, who has not attained the age of eighteen years;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.5">
+            <num>(5)</num>
+            <content>
+              <p>“Government” means the State Government;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.6">
+            <num>(6)</num>
+            <content>
+              <p>“institution” includes a receiving centre, a relief centre, colony, settlement area or any other institution declared to be such by the Government;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.7">
+            <num>(7)</num>
+            <content>
+              <p>“local area” means an area declared as such by the Government from time to time for the purposes of this Act by a notification;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.8">
+            <num>(8)</num>
+            <content>
+              <p>“local committee” means the committee appointed by the Central Relief Committee for any local area;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.9">
+            <num>(9)</num>
+            <content>
+              <p>“notification” means a notification published in the official Gazette;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.10">
+            <num>(10)</num>
+            <content>
+              <p>“prescribed” means prescribed by rules made under this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.11">
+            <num>(11)</num>
+            <content>
+              <p>“public place” means any place intended for the use of or accessible to the public and includes any public conveyance;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.12">
+            <num>(12)</num>
+            <content>
+              <p>“receiving centre” means a centre established by the Central Relief Committee for the reception and temporary retention of beggars; and</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.13">
+            <num>(13)</num>
+            <content>
+              <p>“Relief centre” means a centre established by the Central Relief Committee for the relief of beggars sent thereto.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Prohibition of begging</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Begging prohibited.-</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>No person shall beg in the areas in which this Act is in force.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Constitution and administration</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Central Relief Committee.-</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may by notification constitute a Central Relief Committee (hereunder referred to as the Committee).</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-4.2.list1">
+                <listIntroduction>The Committee shall consist of,-</listIntroduction>
+                <item id="section-4.2.list1.a">
+                  <num>(a)</num>
+                  <p>The Secretary to Government Social Welfare and Labour Department ... Member</p>
+                </item>
+                <item id="section-4.2.list1.b">
+                  <num>(b)</num>
+                  <p>The Director of Social Welfare in Karnataka ... Member</p>
+                </item>
+                <item id="section-4.2.list1.c">
+                  <num>(c)</num>
+                  <p>The Secretary to Government, Finance Department ... Member</p>
+                </item>
+                <item id="section-4.2.list1.d">
+                  <num>(d)</num>
+                  <p>Four non-official members nominated by the Government ... Members</p>
+                </item>
+              </blockList>
+              <p>The Government may appoint one of the Members of the Committee as its Chairman and appoint a Secretary who may or may not be a member of the Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the pleasure of the State Government, the term of the office of the non-official members shall be for a period of three years:</p>
+              <p>Provided that if a non-official member of the Committee absents himself without permission of the Committee for two consecutive meetings of the Committee, he shall cease to be a member.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-4.4.list0">
+                <item id="section-4.4.list0.a">
+                  <num>(a)</num>
+                  <p>Casual or other vacancies in the Committee shall be filled by the Government in the prescribed manner.</p>
+                </item>
+                <item id="section-4.4.list0.b">
+                  <num>(b)</num>
+                  <p>During any vacancy in the Committee the continuing members may act as if no vacancy had occured.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>The non-official members shall be paid such remuneration and allowances as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.6">
+            <num>(6)</num>
+            <content>
+              <p>The Committee shall meet at least once in two months.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.7">
+            <num>(7)</num>
+            <content>
+              <p>Subject to the provisions of this Act and the rules made thereunder, the supervision, direction and control of all matters relating to the administration of relief shall vest in the Committee.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Local Committees.-</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>The Committee, may for the purposes of carrying out the provisions of this Act in any local area constitute as prescribed a local committee.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Local administration.-</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the control of the Central Relief Committee and the rules made in this behalf, the administration of relief to the beggars in any local area shall be vested in the local committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>For the purpose of carrying out the provisions of this Act in any part of a local area, the local committee may constitute such sub-committees as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Institutions</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Receiving Centres.-</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>The Central Relief Committee may provide receiving centres for the reception and temporary retention of beggars or it may by notification declare any institution to be a receiving centre for the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Relief Centres.-</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>The Central Relief Committee may establish institutions, in such places as may be deemed necessary for the detention, relief and rehabilitation of persons contravening the provisions of section 3 and sent thereto or it may by notification declare any existing institution as a relief centre.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Management of institutions.-</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act, the Central Relief Committee shall make provision for the proper management of institutions and for the care of the inmates therein.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>Every person detained in any of the institutions shall be subject to such rules of discipline as may be prescribed.</p>
+              <p>Explanation.- 'Discipline' includes the enforcement of manual labour and hard labour.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Enforcement of discipline.-</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>The Central Relief Committee may authorise the officer-in-charge of any institution to enforce discipline in such institution in the manner prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Procedure and punishments</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Arrest and enquiry.-</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Any police officer or such other officer as may be authorised by the Government in this behalf by general or special order who finds any person other than a child contravening the provisions of section 3 shall arrest such person and inform him of the grounds for such arrest and remove him immediately to the nearest receiving centre.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The officer-in-charge of the receiving centre shall thereupon without delay, hold such enquiry as may be prescribed and if satisfied that the person, if released, will not resort to begging shall release him forthwith, with or without surety.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>If the person arrested under sub-section (1) is not released forthwith under sub-section (2) the officer-in-charge of the receiving centre shall produce him before the Executive Magistrate or the Judicial Magistrate or the Metropolitan Magistrate having jurisdiction, within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of such Magistrate provided that no person arrested under sub-section (1) shall be detained in custody beyond the said period without the authority of a magistrate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>The magistrate before whom a person is produced under sub-section (3) shall hold an enquiry and if satisfied that such person has committed the offence of begging but undertakes not to commit such offence, shall release him on his furnishing a bond for a sum of rupees one thousand</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>If any person released under sub-section (4) is again produced before any Executive Magistrate or a Judicial Magistrate or a Metropolitan Magistrate for a similar offence, and the contravention of section 3 is proved against him, he shall not be released without a surety for a sum of rupees two thousand</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Magistrate to send beggar to the relief centre.-</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>If a person against whom action has been taken under section 11 is again produced before a magistrate for a similar offence, or on the ground that such person does not or is unable to comply with the directions contained in the said section and if the magistrate on enquiry finds that the person has contravened the provisions of section 3, he shall convict him and pass a sentence of detention in the nearest relief centre for such period which shall not be less than one year but which may extend to three years as may be specified in the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>An order of detention passed by a magistrate under sub-section (1) may at any time be revoked or modified.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Infirm, disabled and decrepit beggars and persons suffering from any incurable disease to be arrested and sent to receiving centres.-</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in section 11 where an officer-in-charge of the receiving centre in the course of enquiry held in pursuance of sub-section (2) of section 11 finds that a person other than a child is infirm, disabled, decrepit or suffering from any loathsome or incurable disease he shall ascertain from that person if he has any relatives and if there are any, he shall immediately send for them and if on enquiry it is found that the person cannot be taken care of, or if there are no relatives, the officer-in-charge of the receiving centre shall, with the report of his enquiry, immediately produce him before the Executive Magistrate or the Judicial Magistrate or the Metropolitan Magistrate having jurisdiction within a period of twenty-four hours of his arrest excluding the time necessary for the journey from the place of arrest to the court of such magistrate:</p>
+              <p>Provided that no person arrested shall be detained in the custody beyond a period of twenty-four hours without the authority of a magistrate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a person who is produced under subsection (1) before a magistrate is found on enquiry by such magistrate to have contravened the provisions of section 3, the magistrate shall convict him and pass sentence of detention in the nearest relief centre for such period which shall not be less than one year but which may extend to three years as may be specified in the order and an order of detention passed by a magistrate may at any time be revoked or modified by such magistrate.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Medical examination and detention of leprosy patients and lunatics.</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Where it appears to the Government that any beggar detained in an institution under any order of a magistrate is of unsound mind or is suffering from leprosy, the Government may, by an order setting forth the grounds for the belief that the beggar is of unsound mind or is suffering from leprosy, order his removal to a mental hospital or a leper asylum or other place of safe custody, there to be kept and treated as the Government directs during the remainder of the term for which he has been ordered to be detained, or if on the expiration of that term, it is certified by a medical officer that it is necessary for the safety of the beggar or of others that he should be further detained under medical care or treatment, then until he is discharged according to law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Where it appears to the Government that the beggar has ceased to be of unsound mind, or is cured of leprosy, the Government shall, by an order direct the person having charge of the beggar if still liable to be kept in custody, send him to the institution from which he was removed or if the beggar is no longer liable to be kept in custody, order him to be discharged.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the provision of sub-section (2) the provisions of section 31 of the Lunacy Act, 1912 (Central Act 4 of 1912) or section 14 of the Lepers Act, 1898 (Central Act 3 of 1898), or the corresponding provision of any other law in force in any area of the State, shall apply to every beggar confined in a mental hospital or a leper asylum under sub-section (1) after the expiration of the period for which he was ordered to be detained; and the time during which a beggar is confined in a mental hospital or leper asylum under that sub-section shall be reckoned as part of the period for which he may be ordered by the magistrate to be detained:</p>
+              <p>Provided that where the removal of a beggar due to unsoundness of mind or leprosy is immediately necessary, it shall be open to the authorities of the institution in which the beggar is detained to apply to a court having jurisdiction under the Lunacy Act, 1912 (Central Act 4 of 1912) or the Lepers Act, 1898 (Central Act 3 of 1898) or under any corresponding law in force in any area of the State for an immediate order of committal to a mental hospital or a leper asylum until such time as the orders of the Government can be obtained in the matter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Beggar to leave Institution on discharge or permission.-</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>No person who is admitted to any Institution shall leave it without an order of discharge or without the written permission of the officer-in-charge of the Institution.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Absconding beggars how to be dealt with.-</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>On a report from the officer-in-charge of any institution that a person has left such institution in contravention of section 15, any police officer or such other officer as may be authorised by Government in this behalf, shall arrest such person without a warrant and inform him of the grounds for such arrest and remove him immediately to the institution which he had left.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The officer-in-charge of the institution shall produce him before the Executive Magistrate or the Judicial Magistrate or the Metropolitan Magistrate having jurisdiction, within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of such magistrate and the magistrate shall, after satisfying himself that the said person has contravened the provisions of section 15, order him to be delivered to the institution with a warning.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Any person dealt with under the provisions of sub-section (1), who absconds or takes to begging after he is discharged under section 15 shall be placed before a Judicial Magistrate, or Metropolitan Magistrate who after summary trial may convict him and sentence him to imprisonment for a period not exceeding three months.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Abettors to be punished with imprisonment or fine or both.-</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Whoever employs any person to beg or abets such employment, shall be punished on conviction by a magistrate with simple or rigorous imprisonment for a term which may extend to three months or with fine, which may extend to three hundred rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Refusal of a beggar to go to an institution or to a Magistrate punishable with imprisonment or fine or both.-</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Any beggar refusing or failing to accompany a Police Officer or any officer authorised by the Government in this behalf appear before a magistrate or to be taken to an institution when required under this Act, shall be punished on conviction by a magistrate with simple imprisonment for a term which may extend to one month or with fine which may extend to fifty rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Transfer from one Institution to another.-</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Chairman of the Central Relief Committee may direct any person detained in a receiving centre or relief centre or any other institution to be transferred therefrom to another receiving centre, relief centre or Institution of a like nature in the State:</p>
+              <p>Provided that the total period of detention of such person shall in no case be increased by such transfer.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Temporary release of beggars.-</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government or any authority to which the Government may delegate its power in this behalf, may, subject to such conditions as may be prescribed, release on parole for such period as it may deem necessary any beggar detained in a relief centre in case of any serious illness or death of any member of the beggar’s family or any of his nearest relatives or for any other sufficient cause.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>The period of release of a beggar under sub-section (1) shall not count towards the total period of his detention in the relief centre.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Unconditional release of beggars.-</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>At any time after the expiration of three months from the date on which a beggar is detained in a relief centre, if the officer-in-charge of such relief centre is satisfied from the conduct of such beggar in such centre during the period of his detention that there is a probability that such person will abstain from begging, he may recommend to the Government his unconditional release and the Government may order the release of such person unconditionally and thereupon the term for which such person had been ordered to be detained in a relief centre shall be deemed to have expired.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Transfer between relief centres in the State and institutions of a like nature in other States of India.-</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairman of the Central Relief Committee may, in consultation with the officer-in-charge of a relief centre, order the transfer to that relief centre of any person in respect of whom an order of detention has been made by a competent authority in any other State in India of the nature of an order under this Act directing him to be detained in a relief centre or institution of a like nature, and upon such transfer, the provisions of this Act shall apply to such person as if he had been directed under this Act to be detained in such relief centre by a competent court in the State of Karnataka.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman of the Central Relief Committee may, direct any person detained in a relief centre in the State to be transferred therefrom to any institution of a like nature in any other State in India to be detained therein under the provisions of law similar to this Act in force in that State:</p>
+              <p>Provided that no person shall be transferred under this section to any other State without the consent of the Government of such State.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Offences under this Act cognizable.-</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>All offences under this Act shall be cognizable.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Fines.-</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Fines recovered under this Act, shall be credited to the Central Relief Fund.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Priority for cases under the Act.-</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Notwithstanding anything in the Code of Criminal Procedure, 1973 (Central Act 2 of 1974), every court shall, as far as possible give precedence to any proceeding under this Act over any other proceeding before such court.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power to acquire property, etc.-</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Subject to the rules made in this behalf the Central Relief Committee or any local committee shall have power to acquire property, enter into contracts, institute and defend legal proceedings and do all other acts incidental thereto.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Appointment of officers.-</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>The Central Relief Committee or the local committees with the previous sanction of the Central Relief Committee may appoint officers for the purpose of the Act in accordance with the rules prescribed in that behalf.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Protection of officers.-</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against any person for anything which is in good faith done or intended to be done under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Public Servant.-</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>Every person empowered to perform any function under this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (Central Act XLV of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Central Relief Fund.-</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-30.1.list1">
+                <listIntroduction>In order to carry out the purposes of this Act, a fund called the Central Relief Fund shall be formed. This Fund shall consist of,-</listIntroduction>
+                <item id="section-30.1.list1.i">
+                  <num>(i)</num>
+                  <p>subscriptions and donations;</p>
+                </item>
+                <item id="section-30.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>grants from the Government;</p>
+                </item>
+                <item id="section-30.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>the cess paid under sub-section (3) of section 31;</p>
+                </item>
+                <item id="section-30.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>grants from local bodies, and other private or public institutions;</p>
+                </item>
+                <item id="section-30.1.list1.v">
+                  <num>(v)</num>
+                  <p>fines recovered under this Act; and</p>
+                </item>
+                <item id="section-30.1.list1.vi">
+                  <num>(vi)</num>
+                  <p>receipts from other sources.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Relief Fund shall be administered by a Committee consisting of the Secretary to Government, Social Welfare and Labour Department who shall be the Chairman and the Director of Social Welfare and a representative of the Finance Department nominated by the Government who shall be the members of the Committee.(3) Subject to such rules as may be prescribed, the Central Relief Fund shall be applied for such purposes and in such manner as may be decided by the Committee constituted under sub-section (2) from time to time.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Beggary cess.-</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-31.1.list1">
+                <listIntroduction>With effect from such date as the Government may by notification appoint, a beggary cess in the form of a surcharge on,-</listIntroduction>
+                <item id="section-31.1.list1.i">
+                  <num>(i)</num>
+                  <p>tax on lands and buildings;</p>
+                </item>
+                <item id="section-31.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>tax on entry of goods into the local area for consumption, use or sale therein;</p>
+                </item>
+                <item id="section-31.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>tax on vehicles;</p>
+                </item>
+                <item id="section-31.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>tax on professions, trades, callings and employments,</p>
+                </item>
+              </blockList>
+              <p>shall be levied in the area within the jurisdiction of every local authority under the relevant laws relating to the levy of such taxes at the rate of three paise for every rupee of the taxes so levied.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>The cess levied under sub-section (1) shall be collected by the local authority concerned as if the cess were a tax payable under the relevant laws for the time being in force and the provisions of the said laws relating to the levy and collection of the said tax shall apply in respect of the levy and collection of such cess subject to such modifications as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <p>The local authority shall be entitled to deduct as the cost of collection ten percent of the amount collected under sub-section (2) and the balance shall be paid by such local authority to the Committee constituted under sub-section (2) of section 30, within such time and in such manner as the Government may direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.4">
+            <num>(4)</num>
+            <content>
+              <p>If a local authority fails to make payment of such balance amount within the time as directed by the Government under sub-section (3), the Government may make an order directing the person having the custody of the fund of the local authority concerned to pay such balance amount in priority to any other charge against such fund and such person shall so far as the amounts to the credit of such fund admit, be bound to comply with the order.(5) Where the balance amount due from a local authority is not paid in compliance with the order of the Government under sub-section(4), the such amount shall be recoverable from such local authority in the same manner as an arrear of land revenue and the amount so recovered shall be credited to the Central Relief Fund.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Board of Visitors.-</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>The Government may, in accordance with the rules made in this behalf, appoint a Board of Visitors in local areas to inspect, from time to time, the institutions situated therein, and to report on the working of these institutions, to the Government and offer such suggestions as they deem fit for the improvement of the said institutions.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Revision.-</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <p>Notwithstanding anything to the contrary contained in the Code of Criminal Procedure, 1973 (Central Act 2 of 1974) any person aggrieved by any decision of a magistrate under this Act, may apply to the Court of Session having jurisdiction in the prescribed manner and within the prescribed time for revision of such decision and the Court of Session in so doing may examine the legality or propriety of the proceedings before the magistrate. The decision of the Court of Session shall be final.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Appeal.-</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>If any inmate of an institution is aggrieved by any order passed by any person in charge of the institution, he may appeal against that order to the Chairman of the local committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The decision of the Chairman of the local committee may be taken up in second appeal to the Board of Appeal constituted in the prescribed manner by the Central Relief Committee from amongst its members and the order of that Board shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Charge for misconduct.-</heading>
+          <paragraph id="section-35.paragraph-0">
+            <content>
+              <p>The Government may on the report of an auditor who may be appointed by the Government to audit the accounts of the Central Relief Fund pass an order charging any person responsible for causing any loss through misconduct or negligence, after obtaining his explanation and shall in every such case certify the amount due from such person, and upon the application of the Central Relief Committee the revenue authorities shall recover the said amount from such person as if it were an arrear of land revenue and credit to the Central Relief Fund.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Publication of annual accounts.-</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>The annual accounts of receipts and expenditure, and the budget when sanctioned shall be open to public inspection and shall be published in such manner as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Administration Report.-</heading>
+          <subsection id="section-37.1">
+            <num>(1)</num>
+            <content>
+              <p>As soon as may be after the 1st July every year, and not later than such date as may be fixed by the Government, the Central Relief Committee shall submit to the Government an administration report for the preceding official year in such manner and with such details as the Government may direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.2">
+            <num>(2)</num>
+            <content>
+              <p>Each local committee shall, as soon as may be after the 1st July of each year and not latter than such date as may be fixed by the Central Relief Committee, submit to the Central Relief Committee an administration report for the preceding official year in such manner and in such form as may be fixed by the Central Relief Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.3">
+            <num>(3)</num>
+            <content>
+              <p>The report shall be published in such manner as the Government may direct.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>Control</heading>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Powers of Government.-</heading>
+          <paragraph id="section-38.paragraph-0">
+            <content>
+              <blockList id="section-38.paragraph-0.list1">
+                <listIntroduction>The Government or any officer authorised by the Government by a general or special order shall have power,-</listIntroduction>
+                <item id="section-38.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to enter and inspect any institution under the control or management of the Central Relief Committee or inspect any work in progress under it or under its direction;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to call for any extract from the proceedings of the Central Relief Committee or of any Committee under its control and direction and any return, statement, account or report which the Central Relief Committee may be required to furnish;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to inspect the office of the Central Relief Committee or any office under its control and direction, and call for the records of any such office, and the officer authorised shall submit the records for the orders of the Government if he is satisfied that the order or proceedings of the Central Relief Committee or the local committee is contrary to law or orders for the time being in force.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Disputes.-</heading>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>If any dispute arises between the Central Relief Committee and local committees or local bodies in any matter arising under the provisions of this Act and the dispute is not amicably settled, the matter shall be reported to the Government who may take cognizance of the dispute and decide it and the decision of the Government shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <p>No suit shall be entertained by a civil court in respect of any dispute referred to in sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Rules.-</heading>
+          <subsection id="section-40.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may by notification make rules generally for the purpose of carrying into effect the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-40.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for,-</listIntroduction>
+                <item id="section-40.2.list1.a">
+                  <num>(a)</num>
+                  <p>the constitution of the committees and institutions and their powers, duties and functions;</p>
+                </item>
+                <item id="section-40.2.list1.b">
+                  <num>(b)</num>
+                  <p>the constitution of the Board of Visitors, its powers, duties and functions;</p>
+                </item>
+                <item id="section-40.2.list1.c">
+                  <num>(c)</num>
+                  <p>the submission of returns and statements and reports and the preparation and submission of annual receipts and expenditure and the annual administration report by the Central Relief Committee and the local committees;</p>
+                </item>
+                <item id="section-40.2.list1.d">
+                  <num>(d)</num>
+                  <p>the auditing of accounts;</p>
+                </item>
+                <item id="section-40.2.list1.e">
+                  <num>(e)</num>
+                  <p>the constitution of a Board of Appeal, its powers, duties and functions;</p>
+                </item>
+                <item id="section-40.2.list1.f">
+                  <num>(f)</num>
+                  <p>the transfer of beggars from one institution to another and on such conditions as may be prescribed from one State to another;</p>
+                </item>
+                <item id="section-40.2.list1.g">
+                  <num>(g)</num>
+                  <p>prescribing the form of bonds required to be taken under the provisions of this Act; and</p>
+                </item>
+                <item id="section-40.2.list1.h">
+                  <num>(h)</num>
+                  <p>any other matter in respect of which rules are required to be or may be made under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-40.3">
+            <num>(3)</num>
+            <content>
+              <p>The power of the Government to make rules under this Act shall be subject to the condition of previous publication.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.4">
+            <num>(4)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid as soon as may be after it is made, before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or successive sessions aforesaid both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall from the date on which the modification or annulment is notified by the Government in the official Gazette have effect only in such modified form or be of no effect, as the case may be, so however, that any modification or annulment shall be without prejudice to the validity of anything previously done under such rule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.5">
+            <num>(5)</num>
+            <content>
+              <p>All rules made by the Government under this Act shall be published in the official Gazette both in English and Kannada.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Repeal.-</heading>
+          <paragraph id="section-41.paragraph-0">
+            <content>
+              <p>On the date on which this Act comes into force in any area in which any of the Acts specified in the Schedule to this Act is in force, such Act shall stand repealed on such date in such area:</p>
+              <p>Provided that section 6 of the Karnataka General Clauses Act, 1899 (Karnataka Act III of 1899), shall be applicable in respect of such repeal and sections 8 and 24 of the said Act shall be applicable as if the said enactments had been repealed and re-enacted by this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedule">
+      <doc name="schedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-kar/act/1975/27/schedules"/>
+              <FRBRuri value="/in-kar/act/1975/27"/>
+              <FRBRalias value="Schedule"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-kar/act/1975/27/eng@2017-01-20/schedules"/>
+              <FRBRuri value="/in-kar/act/1975/27/eng@2017-01-20"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-kar/act/1975/27/eng@2017-01-20/schedules"/>
+              <FRBRuri value="/in-kar/act/1975/27/eng@2017-01-20"/>
+              <FRBRdate date="2017-01-20" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedule">
+            <subsection id="schedule.1">
+              <num>(1)</num>
+              <content>
+                <p>The Bombay Beggars Act, 1945 (Bombay Act XXIII of 1945).</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.2">
+              <num>(2)</num>
+              <content>
+                <p>The Prevention of Beggary Act, 1350 F (Hyderbad Act XX of 1350 Fasli).</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.3">
+              <num>(3)</num>
+              <content>
+                <p>The Madras Prevention of Begging Act, 1945 (Madras Act XIII of 1945).</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.4">
+              <num>(4)</num>
+              <content>
+                <p>The Mysore Prohibition of Beggary Act, 1944 (Mysore Act 33 of 1944).</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

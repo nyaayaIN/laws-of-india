@@ -1,0 +1,784 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1952/30/main"/>
+          <FRBRuri value="/in-union/act/1952/30"/>
+          <FRBRalias value="The Requisitioning And Acquisition Of Immovable Property Act, 1952"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1952/30/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1952/30/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1952/30/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1952/30/eng@1980-01-01"/>
+          <FRBRdate date="2016-11-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Requisitioning And Acquisition Of Immovable Property Act, 1952</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and duration.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Requisitioning and Acquisition of Immovable Property Act, 1952.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>***</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“award” means any award of an arbitrator made under section 8;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“competent authority” means any person or authority authorised by the Central Government, by notification in the Official Gazette, to perform the functions of the competent authority under this Act for such area as may be specified in the notification;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“landlord” means any person who for the time being is receiving, or is entitled to receive, the rent of any premises, whether on his own account, or on account or on behalf of for the benefit, of any other person or as a trustee, guardian or receiver for any other person, or who would so receive the rent or be entitled to receive the rent if the premises were let to a tenant;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>the expression “person interested”, in relation to any property, includes all persons claiming, or entitled to claim, an interest in the compensation payable on account of the requisitioning or acquisition of that property under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-2.paragraph-0.list1.e.list0">
+                  <listIntroduction>“premises” means any building or part of a building and includes—</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.e.list0.i">
+                    <num>(i)</num>
+                    <p>the garden, grounds and outhouses, if any, appertaining to such building or part of a building;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.ii">
+                    <num>(ii)</num>
+                    <p>any fittings affixed to such building or part of a building for the more beneficial enjoyment thereof;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“property” means immovable property of every kind and includes any rights in or over such property;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“tenant” means any person by whom or on whose account rent is payable for any premises and includes such sub-tenants and other persons as have derived title under the tenant under any law for the time being in force.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Power to requisition immovable property.—</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-3.1.list1">
+              <listIntroduction>Where the competent authority is of opinion that any property is needed or likely to be needed for any public purpose, being a purpose of the Union, and that the property should be requisitioned, the competent authority—</listIntroduction>
+              <item id="section-3.1.list1.a">
+                <num>(a)</num>
+                <p>shall call upon the owner or any other person who may be in possession of the property by notice in writing (specifying therein the purpose of the requisition) to show cause, within fifteen days of the date of the service of such notice on him, why the property should not be requisitioned; and</p>
+              </item>
+              <item id="section-3.1.list1.b">
+                <num>(b)</num>
+                <p>may, by order, direct that neither the owner of the property nor any other person shall, without permission of the competent authority, dispose of, or structurally alter, the property or let it out to a tenant until the expiry of such period, not exceeding two months, as may be specified in the order.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>If, after considering the cause, if any, shown by any person interested in the property or in possession thereof, the competent authority is satisfied that it is necessary or expedient so to do, it may, by order in writing, requisition the property and may make such further orders as appear to it to be necessary or expedient in connection with the requisitioning:</p>
+            <blockList id="section-3.2.list2">
+              <listIntroduction>Provided that no property or part thereof—</listIntroduction>
+              <item id="section-3.2.list2.a">
+                <num>(a)</num>
+                <p>which is bona fide used by the owner thereof as the residence of himself or his family, or</p>
+              </item>
+              <item id="section-3.2.list2.b">
+                <num>(b)</num>
+                <p>which is exclusively used either for religious worship by the public or as a school, hospital, public library or an orphanage or for the purpose of accommodation of person connected with the management of such place of worship or such school, hospital, library, or orphanage, shall be requisitioned:</p>
+              </item>
+            </blockList>
+            <p>Provided further that where the requisitioned property consists of premises which are being used as a residence by a tenant for not less than two months immediately preceding the date of the service of notice under sub-section (1), the competent authority shall provide such tenant with alternative accommodation which, in its opinion, is suitable.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Power to take possession of requisitioned property.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any property has been requisitioned under section 3, the competent authority may, by notice in writing order the owner as well as any other person who may be in possession of the property to surrender or deliver possession thereof to the competent authority or any person duly authorised by it in this behalf within thirty days of the service of the notice.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>If any person refuses or fails to comply with an order made under sub-section (1), the competent authority may take possession of the property and may, for that purpose, use such force as may be necessary.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Rights over requisitioned property.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>All property requisitioned under section 3, shall be used for such purposes as may be mentioned in the notice of requisition.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any premises are requisitioned under section 3, the competent authority may order the landlord to execute such repairs as may be necessary and are usually made by landlords in that locality and as may be specified in the notice, within such reasonable time as may be mentioned therein, and if the landlord fails to execute any repairs in pursuance of such order, the competent authority may cause the repairs specified in the order to be executed at the expense of the landlord and the cost thereof may, without prejudice to any other mode of recovery, be deducted from the compensation payable to the landlord.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Release from requisitioning.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may at any time release from requisition any property requisitioned under this Act and shall, as far as possible, restore the property in as good a condition as it was when possession thereof was taken subject only to the changes caused by reasonable wear and tear and irresistible force:</p>
+            <blockList id="section-6.1.list2">
+              <listIntroduction>Provided that where the purposes for which any requisitioned property was being used cease to exits, the Central Government shall, unless the property is acquired under section 7, release that property, as soon as may be, from requisition.</listIntroduction>
+              <item id="section-6.1.list2.IA">
+                <num>(IA)</num>
+                <p>Notwithstanding anything contained in sub-section (1), the Central Government shall release from requisition—</p>
+              </item>
+              <item id="section-6.1.list2.a">
+                <num>(a)</num>
+                <p>any property requisitioned or deemed to be requisitioned under this Act before the commencement of the Requisitioning and Acquisition of Immovable Property (Amendment) Act, 1970, on or before the expiry of a period of</p>
+              </item>
+            </blockList>
+            <blockList id="section-6.1.list4">
+              <listIntroduction>seventeen years from such commencement;</listIntroduction>
+              <item id="section-6.1.list4.b">
+                <num>(b)</num>
+                <p>any property requisitioned under this Act after such commencement, on or before the expiry of a period of</p>
+              </item>
+            </blockList>
+            <p>seventeen years from the date on which possession of such property was surrendered or delivered to, or taken by, the competent authority under section 4;</p>
+            <p>unless such property is acquired under section 7 within the period of</p>
+            <p>seventeen years aforesaid.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any property is to be released from requisition,</p>
+            <p>under sub-section (1) or under sub-section (1A) the competent authority may, after such inquiry, if any, as it may in any case consider necessary to make or cause to be made, specify by order in writing the person to whom possession of the property shall be given and such possession shall, as far as practicable, be given to the person from whom possession was taken at the time of the requisition or to the successors-in-interest of such person.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>The delivery of possession of the property to the person specified in an order under sub-section (2) shall be a full discharge of the Central Government from all liability in respect of the property, but shall not prejudice any rights in respect of the property which any other person may be entitled by due process of law to enforce against the person to whom possession of the property is given.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>Where any person to whom possession of any requisitioned property is to be given is not found and has no agent or other person empowered to accept delivery on his behalf, the competent authority shall cause a notice declaring that the property is released from requisition to be affixed on some conspicuous part of the property and shall also publish the notice in the Official Gazette.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <p>When a notice referred to in sub-section (4) is published in the Official Gazette, the property specified in such notice shall cease to be subject to requisition on and from the date of such publication and shall be deemed to have been delivered to the person entitled to possession thereof and the Central Government shall not be liable for any compensation or other claim in respect of the property for any period after the said date.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.6">
+          <num>(6)</num>
+          <content>
+            <p>Where any property requisitioned under this Act or any material part thereof is wholly destroyed or rendered substantially and permanently unfit for the purpose for which it was requisitioned by reason of fire, earthquake, tempest, flood or violence of any army or of a mob or other irresistible force, the requisition shall, at the option of the Central Government, be void:</p>
+            <p>Provided that the benefit of this sub-section shall not be available to the Central Government where the injury to such property is caused by any wrongful act or default of that Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Power to acquire requisitioned property.—</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any property is subject to requisition, the Central Government may, if it is of opinion that it is necessary to acquire the property for a public purpose, at any time acquire such property by publishing in the Official Gazette a notice to the effect that the Central Government has decided to acquire the property in pursuance of this section:</p>
+            <p>Provided that before issuing such notice, the Central Government shall call upon the owner of, or any other person who, in the opinion of the Central Government, may be interested in, such property to show cause why the property should not be acquired; and after considering the cause, if any, shown by any person interested in the property and after giving the parties an opportunity of being heard, the Central Government may pass such orders as it deems fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>When a notice as aforesaid is published in the Official Gazette, the requisitioned property shall, on and from the beginning of the day on which the notice is so published, vest absolutely in the Central Government free from all encumbrances and the period of requisition of such property shall end.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-7.3.list1">
+              <listIntroduction>No property shall be acquired under this section except in the following circumstances, namely:—</listIntroduction>
+              <item id="section-7.3.list1.a">
+                <num>(a)</num>
+                <p>Where any works have, during the period of requisition, been constructed on, in or over, the property wholly or partially at the expense of the Central Government and the Government decides that the value of, or the right to use, such works should be secured or preserved for the purposes of Government; or</p>
+              </item>
+              <item id="section-7.3.list1.b">
+                <num>(b)</num>
+                <p>where the cost of restoring the property to its condition at the time of its requisition would, in the determination of the Central Government, be excessive and the owner declines to accept release from requisition of the property without payment of compensation for so restoring the property.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>Any decision or determination of the Central Government under sub-section (3) shall be final and shall not be called in question in any Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of clause (a) of sub-section (3) “works” includes buildings, structures and improvements of every description.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Principles and method of determining compensation.—</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-8.1.list1">
+              <listIntroduction>Where any property is requisitioned or acquired under this Act, there shall be paid compensation the amount of which shall be determined in the manner and in accordance with the principles hereinafter set out, that is to say,—</listIntroduction>
+              <item id="section-8.1.list1.a">
+                <num>(a)</num>
+                <p>where the amount of compensation can be fixed by agreement, it shall be paid in accordance with such agreement;</p>
+              </item>
+              <item id="section-8.1.list1.b">
+                <num>(b)</num>
+                <p>where no such agreement can be reached, the Central Government shall appoint as arbitrator a person who is, or has been, or is qualified for appointment as, a judge of a High Court;</p>
+              </item>
+              <item id="section-8.1.list1.c">
+                <num>(c)</num>
+                <p>the Central Government may, in any particular case, nominate a person having expert knowledge as to the nature of the property requisitioned or acquired to assist the arbitrator and where such nomination is made, the person to be compensated may also nominate an assessor for the same purpose;</p>
+              </item>
+              <item id="section-8.1.list1.d">
+                <num>(d)</num>
+                <p>at the commencement of the proceedings before the arbitrator, the Central Government and the person to be compensated shall state what in their respective opinion is a fair amount of compensation;</p>
+              </item>
+              <item id="section-8.1.list1.e">
+                <num>(e)</num>
+                <p>the arbitrator shall, after hearing the dispute, make an award determining the amount of compensation which appears to him to be just and specifying the person or persons to whom such compensation shall be paid; and in making the award, he shall have regard to the circumstances of each case and the provisions of sub-sections (2) and (3), so far as they are applicable;</p>
+              </item>
+              <item id="section-8.1.list1.f">
+                <num>(f)</num>
+                <p>when there is any dispute as to the person or persons who are entitled to the compensation the arbitrator shall decide such dispute and if the arbitrator finds that more persons than one are, entitled to compensation, he shall apportion the amount thereof amongst such persons;</p>
+              </item>
+              <item id="section-8.1.list1.g">
+                <num>(g)</num>
+                <p>nothing in the Arbitration Act, 1940 (10 of 1940)* shall apply to arbitration under this section.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-8.2.list1">
+              <listIntroduction>The amount of compensation payable for the requisitioning, of any property shall, subject to the provisions of sub-sections (2A) and (2B), consist of—</listIntroduction>
+              <item id="section-8.2.list1.a">
+                <num>(a)</num>
+                <p>a recurring payment, in respect of the period of requisition, of a sum equal to the rent which would have been payable for the use and occupation of the property, if it had been taken on lease for that period; and</p>
+              </item>
+              <item id="section-8.2.list1.b">
+                <num>(b)</num>
+                <blockList id="section-8.2.list1.b.list0">
+                  <listIntroduction>such sum or sums, if any, as may be found necessary to compensate the person interested for all or any of the following matters, namely:—</listIntroduction>
+                  <item id="section-8.2.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>pecuniary loss due to requisitioning;</p>
+                  </item>
+                  <item id="section-8.2.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>expenses on account of vacating the requisitioned premises;</p>
+                  </item>
+                  <item id="section-8.2.list1.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>expenses on account of reoccupying the premises upon release from requisition; and</p>
+                  </item>
+                  <item id="section-8.2.list1.b.list0.iv">
+                    <num>(iv)</num>
+                    <p>damages (other than normal wear and tear) caused to the property during the period of requisition, including the expenses that may have to be incurred for restoring the property to the condition in which it was at the time of requisition.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-8.2A">
+          <num>(2A)</num>
+          <content>
+            <blockList id="section-8.2A.list1">
+              <listIntroduction>The recurring payment, referred to in clause (a) of sub-section (2), in respect of any property shall, unless the property is sooner released from requisition under section 6 or acquired under section 7, be revised in accordance with the provisions of sub-section (2B)—</listIntroduction>
+              <item id="section-8.2A.list1.a">
+                <num>(a)</num>
+                <blockList id="section-8.2A.list1.a.list0">
+                  <listIntroduction>in a case where such property has been subject to requisition under this Act for the period of five years or a longer period immediately preceding the commencement of the Requisitioning and Acquisition of Immovable Property (Amendment) Act, 1975—</listIntroduction>
+                  <item id="section-8.2A.list1.a.list0.i">
+                    <num>(i)</num>
+                    <p>first with effect from the date of such commencement, and</p>
+                  </item>
+                  <item id="section-8.2A.list1.a.list0.ii">
+                    <num>(ii)</num>
+                    <p>secondly with effect from the expiry of five years, and thirdly with effect from the expiry of ten years, from such commencement;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-8.2A.list1.b">
+                <num>(b)</num>
+                <blockList id="section-8.2A.list1.b.list1">
+                  <listIntroduction>in a case where such property has been subject to requisition under this Act immediately before such commencement for a period shorter than five years and the maximum period within which such property shall, in accordance with the provisions of sub-section (1A) of section 6, be released from requisition or acquired, extends beyond five years from such commencement,—</listIntroduction>
+                  <item id="section-8.2A.list1.b.list1.i">
+                    <num>(i)</num>
+                    <p>first with effect from the date of expiry of five years from the date on which possession of such property has been surrendered or delivered to, or taken by, the competent authority under section 4, and</p>
+                  </item>
+                  <item id="section-8.2A.list1.b.list1.ii">
+                    <num>(ii)</num>
+                    <p>secondly with effect from the date of expiry of five years, and thirdly with effect from the date of expiry of ten years, from the date on which the revision made under sub-clause (i) takes effect;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-8.2A.list1.c">
+                <num>(c)</num>
+                <blockList id="section-8.2A.list1.c.list2">
+                  <listIntroduction>in any other case,—</listIntroduction>
+                  <item id="section-8.2A.list1.c.list2.i">
+                    <num>(i)</num>
+                    <p>first with effect from the date of expiry of five years from the date on which possession of such property has been surrendered or delivered to, or taken by, the competent authority under section 4, and</p>
+                  </item>
+                  <item id="section-8.2A.list1.c.list2.ii">
+                    <num>(ii)</num>
+                    <p>secondly with effect from the date of expiry of five years, and thirdly with effect from the date of expiry of ten years, from the date on which the revision under sub-clause (i) takes effect.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-8.2B">
+          <num>(2B)</num>
+          <content>
+            <p>The recurring payment in respect of any property shall be revised by re-determining such payment in the manner and in accordance with the principles set out in sub-section (1) read with clause (a) of sub-section (2), as if such property had been requisitioned under this Act on the date with effect from which the revision has to be made under sub-section (2A).</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>The compensation payable for the acquisition of any property under section 7 shall be the price which the requisitioned property would have fetched in the open market, if it had remained in the same condition as it was at the time of requisitioning and been sold on the date of acquisition.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Payment of compensation.—</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>The amount of compensation payable under an award shall, subject to any rules made under this Act, be paid by the competent authority to the person or persons entitled thereto in such manner and within such time as may be specified in the award.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Appeals from orders of requisitioning.—</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person aggrieved by an order of requisition made by the competent authority under sub-section (2) of section 3 may, within twenty-one days from the date of service of the order, prefer an appeal to the Central Government:</p>
+            <p>Provided that the Central Government may entertain the appeal after the expiry of the said period of twenty-one days, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>On receipt of an appeal under sub-section (1), the Central Government may, after calling for a report from the competent authority and giving an opportunity to the parties of being heard and after making such further inquiry, if any, as may be necessary, pass such orders as it thinks fit and the order of the Central Government shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>Where an appeal is preferred under sub-section (1), the Central Government may stay the enforcement of the order of the competent authority for such period and on such conditions as it thinks fit.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Appeals from awards in respect of compensation.—</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>Any person aggrieved by an award of the arbitrator made under section 8 may, within thirty days from the date of such award, prefer an appeal to the High Court within whose jurisdiction the requisitioned or acquired property is situate:</p>
+            <p>Provided that the High Court may entertain the appeal after the expiry of the said period of thirty days, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Competent authority and arbitrator to have certain powers of civil courts.—</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <blockList id="section-12.paragraph-0.list1">
+              <listIntroduction>The competent authority and the arbitrator appointed under section 8, while holding an inquiry or, as the case may be arbitration proceeding under this Act, shall have all the powers of a civil court, while trying a suit, under the Code of Civil Procedure, 1908 (5 of 1908) in respect of the following matters, namely:—</listIntroduction>
+              <item id="section-12.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>requiring the discovery and production of any document;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>reception of evidence of affidavits;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>requisitioning any public record from any court or office;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>issuing commissions for examination of witnesses.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Power to obtain information.—</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>The Central Government or the competent authority may, with a view to carrying out the purposes of section 3 or section 6, or section 7, or section 8, by order require any person to furnish to such officer, as may be specified in the order, such information in his possession as may be specified relating to any property which is requisitioned or acquired, or intended to be requisitioned or acquired, under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Power to enter and inspect.—</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>The competent authority or any officer, empowered in this behalf by such authority by general or special order, may enter and inspect any property for the purposes of determining whether, and if so, in what manner, an order this Act should be made in relation to such property or with a view to securing compliance with an order made under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Service of notice and orders.—</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-15.1.list1">
+              <listIntroduction>Subject to the provisions of this section and any rules that may be made under this Act, every notice or order issued or made under this Act shall,—</listIntroduction>
+              <item id="section-15.1.list1.a">
+                <num>(a)</num>
+                <p>in the case of any notice or order of a general nature or affecting a class of persons, be published in the Official Gazette; and</p>
+              </item>
+              <item id="section-15.1.list1.b">
+                <num>(b)</num>
+                <p>in the case of any notice or order affecting an individual, corporation or firm be served in the manner provided for the service of summons in rule 2 of Order XXIX or rule 3 of Order XXX, as the case may be, in the First Schedule of the Code of Civil Procedure, 1908 (5 of 1908); and</p>
+              </item>
+              <item id="section-15.1.list1.c">
+                <num>(c)</num>
+                <blockList id="section-15.1.list1.c.list0">
+                  <listIntroduction>in the case of any notice or order affecting an individual person (not being a corporation or firm), be served on such person—</listIntroduction>
+                  <item id="section-15.1.list1.c.list0.i">
+                    <num>(i)</num>
+                    <p>by delivering or tendering it to that person, or</p>
+                  </item>
+                  <item id="section-15.1.list1.c.list0.ii">
+                    <num>(ii)</num>
+                    <p>if it cannot be so delivered or tendered, by delivering or tendering it to any officer or such person or any adult male member of the family or such person, or by affixing a copy thereof on the outer door or on some conspicuous part of the premises in which that person is known to have last resided or carried on business or personally worked for gain; or failing service by these means,</p>
+                  </item>
+                  <item id="section-15.1.list1.c.list0.iii">
+                    <num>(iii)</num>
+                    <p>by post.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the ownership of the property is in dispute or where the persons interested in the property are not readily traceable and the notice or order cannot be served without undue delay, the notice or order may be served by publishing it in the Official Gazette, and where possible, by affixing a copy thereof on any conspicuous part of the property to which it relates.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Easement not to be disturbed.—</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>No person interested in any property requisitioned or acquired under this Act shall, without the previous written consent of the competent authority or except for the purposes of effecting repairs or complying with a municipal requirement, wilfully disturb any convenience or easement attached to such property or remove, destroy or render unserviceable any thing provided for permanent use therewith or discontinue or cause to be discontinued any supply or service provided for the property.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Delegation of powers.—</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, direct that the powers exercisable by it</p>
+            <p>*** under this Act shall, in such circumstances and under such conditions, if any, as may be specified in the notification, be exercisable also by an officer subordinate to that Government or</p>
+            <p>by the State Government or by an officer subordinate to the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>All notifications issued under sub-section (1) shall be laid, as soon as may be, before Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done in pursuance of this Act or any order made thereunder.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>No suit or other legal proceeding shall lie against the Central Government or the competent authority for any damage caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance of this Act or any order made thereunder.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Bar of jurisdiction of civil courts.—</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>Save as otherwise expressly provided in this Act, no civil court shall have jurisdiction in respect of any matter which the competent authority or arbitrator is empowered by or under this Act to determine, and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Penalty for offences.—</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Whoever contravenes any provision of this Act, or any rule made thereunder, or any order made or direction given under this Act, or obstructs the lawful exercise of any power conferred by or under this Act, shall be punishable with fine which may extend to one thousand rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Certain persons to be public servants.—</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>The competent authority, every arbitrator and every officer empowered by the Central Government or the competent authority, while exercising any power or performing any duty under this Act, shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (Act XLV of 1860).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-22.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-22.2.list1.a">
+                <num>(a)</num>
+                <p>the procedure to be followed by the competent authority in making inquires under section 3 or section 6;</p>
+              </item>
+              <item id="section-22.2.list1.b">
+                <num>(b)</num>
+                <p>the procedure to be followed in arbitration proceedings and appeals under this Act;</p>
+              </item>
+              <item id="section-22.2.list1.c">
+                <num>(c)</num>
+                <p>the principles to be followed in determining the amount of compensation and method of payment of such compensation;</p>
+              </item>
+              <item id="section-22.2.list1.d">
+                <num>(d)</num>
+                <p>the principles to be followed in apportioning the cost or proceedings before the arbitrator and on appeal under this Act;</p>
+              </item>
+              <item id="section-22.2.list1.e">
+                <num>(e)</num>
+                <p>the manner of service of notices and orders;</p>
+              </item>
+              <item id="section-22.2.list1.f">
+                <num>(f)</num>
+                <p>any other matter which has to be, or may be, prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made the rule shall thereafter have effect only in such modified form or to be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Validation of certain requisitions and acquisitions.—</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>All immovable property which purports to have been requisitioned by a State Government for any public purpose, being a purpose of the Union, under any Provincial or State Act and which, immediately before the 25th day of January, 1952, was used or occupied by the Central Government or by an officer or authority subordinate to that Government shall, as from that date, be deemed to be property duly requisitioned under section 3 of this Act, and every such requisition shall, notwithstanding any judgment, decree or order of any Court, be deemed always to have been valid as if this Act had been in force on and from the date of the requisition and the requisition had been duly made by a competent authority under this Act, and all the provisions of this Act shall apply accordingly:</p>
+            <p>Provided that all agreements and awards for the payment of compensation in respect of any such property for any period of requisition before the 25th day of January, 1952 and in force immediately before that date shall be valid and shall be deemed always to have been valid and shall continue to be in force and shall apply to the payment of compensation in respect of that property for any period of requisition after that date.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>Every acquisition of immovable property purporting to have been made before the commencement of this Act by a State Government for any public purpose, being a purpose of a Union, under any enactment for the time being in force in that State and which, immediately before such commencement, was used or occupied by the Central Government or by an officer or authority subordinate to that Government shall, notwithstanding any defect in, or invalidity of, the enactment or order under which the acquisition was made, be deemed for all purposes to have been validly made as if the provisions of the said enactment or order had been included and enacted in this section and this section had been in force on and from the date of the acquisition.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Repeals and savings.—</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>The Requisitioned Land (Continuance of Powers) Act, 1947 (XVII of 1947), the Delhi Premises (Requisition and Eviction) Act, 1947 (XLIX of 1947) and the Requisitioning and Acquisition of Immovable Property Ordinance, 1952 (III of 1952) are hereby repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>For the removal of doubts, it is hereby declared that any property which immediately before such repeal was subject to requisition under the provisions of either of the said Acts or the said Ordinance shall, on the commencement of this Act, be deemed to be property requisitioned under section 3 of this Act, and all the provisions of this Act shall apply accordingly:</p>
+            <blockList id="section-24.2.list2">
+              <listIntroduction>Provided that—</listIntroduction>
+              <item id="section-24.2.list2.a">
+                <num>(a)</num>
+                <p>all agreements and awards for the payment of compensation in respect of any such property for any period of requisition before the commencement of this Act and in force immediately before such commencement, shall continue to be in force and shall apply to the payment of compensation in respect of that property for any period of requisition after such commencement;</p>
+              </item>
+              <item id="section-24.2.list2.b">
+                <num>(b)</num>
+                <p>anything done or any action taken (including any orders, notifications or rules made or issued) in exercise of powers conferred by or under either of the said Acts or the said Ordinance shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken in the exercise of the powers conferred by or under this Act as if this Act was in force on the day on which such thing was done or action was taken.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Special provision as to certain requisitions under Act 51 of 1962.—</heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in this Act, any immovable property requisitioned by the Central Government or by any officer or authority to whom powers in this behalf have been delegated by that Government, under the Defence of India Act, 1962, and the rules made thereunder (including any immovable property deemed to have been requisitioned under the said Act) which has not been released from such requisition before the 10th January, 1968, shall, as from that date, be deemed to have been requisitioned by the competent authority under the provisions of this Act for the purpose for which such property was held immediately before the said date and all the provisions of this Act shall apply accordingly:</p>
+            <blockList id="section-25.1.list2">
+              <listIntroduction>Provided that—</listIntroduction>
+              <item id="section-25.1.list2.a">
+                <num>(a)</num>
+                <p>all determinations, agreements and awards for the payment of compensation in respect of any such property for any period of requisition before the said date and in force immediately before the said date; shall continue to be in force and shall apply to the payment of compensation in respect of that property for any period of requisition as from the said date;</p>
+              </item>
+              <item id="section-25.1.list2.b">
+                <num>(b)</num>
+                <p>anything done or any action taken (including any orders, notifications or rules made or issued) by the Central Government or by any officer or authority to whom powers in this behalf have been delegated by that Government, in exercise of the powers conferred by or under Chapter VI of the Defence of India Act, 1962, shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken in the exercise of the powers conferred by or under this Act as if this section was in force on the date on which such thing was done or action was taken.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <p>Save as otherwise provided in sub-section (1), the provisions of the Defence of India Act, 1962, and the rules made thereunder, in so far as those provisions relate to the requisitioning of any such immovable property as is referred to in sub-section (1), shall as from the 10th January, 1968, cease to operate except as respects things done or omitted to be done before such cesser and section 6 of the General Clauses Act, 1897 (10 of 1897), shall apply upon such cesser of operation as if such cesser were a repeal of an enactment by a Central Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Special provision as to certain requisitions under Act 42 of 1971.—</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-26.1.list1">
+              <listIntroduction>Notwithstanding anything contained in this Act, any immovable property requisitioned or purported to have been requisitioned by the Central Government or by any officer or authority to whom powers in this behalf have been delegated by that Government, under the Defence of India Act, 1971, and the rules made thereunder (including any immovable property deemed to have been requisitioned under the said Act), which has not been released from such requisition before the appointed day, shall,—</listIntroduction>
+              <item id="section-26.1.list1.i">
+                <num>(i)</num>
+                <p>if such property was requisitioned on or before the 21st day of March, 1977, as from the date, and</p>
+              </item>
+              <item id="section-26.1.list1.ii">
+                <num>(ii)</num>
+                <p>if such property was requisitioned at any time after such date, as from the date of its requisition,</p>
+              </item>
+            </blockList>
+            <p>be deemed to have been requisitioned by the competent authority under the provisions of this Act for the purpose for which such property was held immediately before the appointed day and all the provisions of this Act shall apply accordingly:</p>
+            <p>Provided that in determining the compensation payable under this Act in respect of any property so deemed to have been requisitioned under this Act, the sum or sums, if any, as may be found necessary to compensate the person interested for all or any of the matters specified in clause (b) of sub-section (2) of section 8 shall be reduced by the sum or sums, if any, paid or payable in respect of such property under the Defence of India Act, 1971, and the rules made thereunder.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>Save as otherwise provided in sub-section (1), the provisions of the Defence of India Act, 1971, and the rules made thereunder, in so far as those provisions relate to the requisitioning of any such immovable property as is referred to in sub-section (1), shall, as from the 21st March, 1977, cease to operate except as respects things done or omitted to be done before such cesser and section 6 of the General Clauses Act, 1897 (10 of 1897), shall apply upon such cesser of operation as if such cesser were a repeal of an enactment by a Central Act.</p>
+            <p>Explanation.—</p>
+            <p>In this section, “appointed day” means the 23rd September, 1977.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

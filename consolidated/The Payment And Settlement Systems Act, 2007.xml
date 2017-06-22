@@ -1,0 +1,1237 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2007/51/main"/>
+          <FRBRuri value="/in-union/act/2007/51"/>
+          <FRBRalias value="The Payment And Settlement Systems Act, 2007"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2007/51/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/2007/51/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2007/51/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/2007/51/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-29" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Payment And Settlement Systems Act, 2007</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement. </heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Payment and Settlement Systems Act, 2007.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India .</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provisions of this Act, and any reference to the commencement in any such provision of this Act shall be construed as a reference to the commencement of that provision.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions. </heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-2.1.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,</listIntroduction>
+              <item id="section-2.1.list1.a">
+                <num>(a)</num>
+                <blockList id="section-2.1.list1.a.list0">
+                  <listIntroduction>"bank" means,</listIntroduction>
+                  <item id="section-2.1.list1.a.list0.i">
+                    <num>(i)</num>
+                    <p>a bank included in the Second Schedule to the Reserve Bank of India Act, 1934 (2 of 1934);</p>
+                  </item>
+                  <item id="section-2.1.list1.a.list0.ii">
+                    <num>(ii)</num>
+                    <p>a post office savings bank;</p>
+                  </item>
+                  <item id="section-2.1.list1.a.list0.iii">
+                    <num>(iii)</num>
+                    <p>a banking company as defined in clause (c) of section 5, of the Banking Regulation Act, 1949 (10 of 1949).</p>
+                  </item>
+                  <item id="section-2.1.list1.a.list0.iv">
+                    <num>(iv)</num>
+                    <p>a co-operative bank as defined in clause (cci) of section 5, as inserted by section 56, of the Banking Regulation Act, 1949 (10 of 1949); and</p>
+                  </item>
+                  <item id="section-2.1.list1.a.list0.v">
+                    <num>(v)</num>
+                    <p>such other bank as the Reserve Bank may, be notification, specify for the purposes of this Act.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.1.list1.b">
+                <num>(b)</num>
+                <p>"derivative" means an instrument, to be settled at a future date, whose value is derived from change in interest rate, foreign exchange rate, credit rating or credit index, price of securities (also called underlying), or any other underlying or a combination of more than one of them and includes interest rate swaps, forward rate agreements, foreign currency swaps, foreign currency rupee swaps, foreign currency options, foreign currency rupee options or any other instrument, as may be specified by the Reserve Bank from time to time;</p>
+              </item>
+              <item id="section-2.1.list1.c">
+                <num>(c)</num>
+                <p>"electronic funds transfer" means any transfer of funds which is initiated by a person by way of instruction, authorisation or order to a bank to debit or credit an account maintained with that bank through electronic means and includes point of sale transfers, automated teller machine transactions, direct deposits or withdrawal of funds, transfers initiated by telephone, internet and card payment;</p>
+              </item>
+              <item id="section-2.1.list1.d">
+                <num>(d)</num>
+                <blockList id="section-2.1.list1.d.list1">
+                  <listIntroduction>"gross settlement system" means a payment system in which each settlement of funds or securities occurs on the basis of separate or individual instructions;</listIntroduction>
+                  <item id="section-2.1.list1.d.list1.da">
+                    <num>(da)</num>
+                    <p>"issuer" means a person who issues a legal entity identifier or such other unique identification (by whatever name called), as may be specified by the Reserve Bank from time to time;</p>
+                  </item>
+                  <item id="section-2.1.list1.d.list1.db">
+                    <num>(db)</num>
+                    <p>"legal entity identifier" means a unique identity code assigned to a person by an issuer for the purpose of identifying that person in such derivatives or financial transactions, as may be specified by the Reserve Bank from time to time;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.1.list1.e">
+                <num>(e)</num>
+                <p>"netting" means the determination by the system provider of the amount of money or securities, due or payable or deliverable, as a result of setting off or adjusting, the payment obligations or delivery obligations among the system participants, including the claims and obligations arising out of the termination by the system provider, on the insolvency or dissolution or winding up of any system participant or such other circumstances as the system provider may specify in its rules or regulations or bye-laws (by whatever name called), of the transactions admitted for settlement at a future date so that only a net claim be demanded or a net obligation be owned;</p>
+              </item>
+              <item id="section-2.1.list1.f">
+                <num>(f)</num>
+                <p>"notification" means a notification published in the Official Gazette;</p>
+              </item>
+              <item id="section-2.1.list1.g">
+                <num>(g)</num>
+                <blockList id="section-2.1.list1.g.list2">
+                  <listIntroduction>"payment instruction" means any instrument, authorisation or order in any form, including electronic means, to effect a payment,</listIntroduction>
+                  <item id="section-2.1.list1.g.list2.i">
+                    <num>(i)</num>
+                    <p>by a person to a system participant; or</p>
+                  </item>
+                  <item id="section-2.1.list1.g.list2.ii">
+                    <num>(ii)</num>
+                    <p>by a system participant to another system participant;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.1.list1.h">
+                <num>(h)</num>
+                <p>"payment obligation" means an indebtedness that is owned by one system participant to another system participant as a result of clearing or settlement of one or more payment instructions relating to funds, securities or foreign exchange or derivatives or other transactions;</p>
+              </item>
+              <item id="section-2.1.list1.i">
+                <num>(i)</num>
+                <p>"payment system" means a system that enables payment to be effected between a payer and a beneficiary, involving clearing, payment or settlement service or all of them, but does not include a stock exchange;</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.1.list3">
+              <listIntroduction>Explanation .For the purposes of this clause, payment system includes the systems enabling credit card operations, debit card operations, smart card operations, money transfer operations or similar operations;</listIntroduction>
+              <item id="section-2.1.list3.j">
+                <num>(j)</num>
+                <p>"prescribed" means prescribed by regulations made under this Act;</p>
+              </item>
+              <item id="section-2.1.list3.k">
+                <num>(k)</num>
+                <p>"regulation" means a regulation made under this Act;</p>
+              </item>
+              <item id="section-2.1.list3.l">
+                <num>(l)</num>
+                <p>"Reserve Bank" means the Reserve Bank of India , constituted under the Reserve Bank of India Act, 1934 (2 of 1934);</p>
+              </item>
+              <item id="section-2.1.list3.m">
+                <num>(m)</num>
+                <p>"security" means the Government securities as defined in the Public Debt Act, 1944 (18 of 1944) or such other securities as may be notified by the Central Government from time to time under that Act;</p>
+              </item>
+              <item id="section-2.1.list3.n">
+                <num>(n)</num>
+                <p>"settlement" means settlement of payment instructions and includes the settlement of securities, foreign exchange or derivatives or other transactions which involve payment obligations;</p>
+              </item>
+              <item id="section-2.1.list3.o">
+                <num>(o)</num>
+                <blockList id="section-2.1.list3.o.list0">
+                  <listIntroduction>"systemic risk" means the risk arising from</listIntroduction>
+                  <item id="section-2.1.list3.o.list0.i">
+                    <num>(i)</num>
+                    <p>the inability of a system participant to meet his payment obligations under the payment system as and when they become due; or</p>
+                  </item>
+                  <item id="section-2.1.list3.o.list0.ii">
+                    <num>(ii)</num>
+                    <p>any disruption in the system, which may cause other participants to fail to meet their obligations when due and is likely to have an impact on the stability of the system:</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <blockList id="section-2.1.list5">
+              <listIntroduction>Provided that if any doubt or difference arises as to whether a particular risk is likely to have an impact on the stability of the system, the decision of the Reserve Bank shall be final;</listIntroduction>
+              <item id="section-2.1.list5.p">
+                <num>(p)</num>
+                <p>"system participant" means a bank or any other person participating in a payment system and includes the system provider;</p>
+              </item>
+              <item id="section-2.1.list5.q">
+                <num>(q)</num>
+                <p>"system provider" means a person who operates an authorised payment system.</p>
+              </item>
+              <item id="section-2.1.list5.r">
+                <num>(r)</num>
+                <p>"trade repository" means a person who is engaged in the business of collecting, collating, storing, maintaining, processing or disseminating electronic records or data relating to such derivatives or financial transactions, as may be</p>
+              </item>
+            </blockList>
+            <p>specified by the Reserve Bank from time to time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>Words and expressions used, but not defined in this Act and defined in the Reserve Bank of India Act, 1934 (2 of 1934) or the Banking Regulation Act, 1949 (10 of 1949), shall have the meanings respectively assigned to them in those Acts.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Designated authority and its Committee. </heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The Reserve Bank shall be the designated authority for the regulation and supervision of payment systems under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The Reserve Bank may, for the purposes of exercising the powers and performing the functions and discharging the duties conferred on it by or under this Act, by regulation, constitute a committee of its Central Board to be known as the Board for Regulation and Supervision of Payment and Settlement Systems.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-3.3.list1">
+              <listIntroduction>The Board constituted under sub-section (2) shall consist of the following members, namely:</listIntroduction>
+              <item id="section-3.3.list1.a">
+                <num>(a)</num>
+                <p>Governor, Reserve Bank, who shall be the Chairperson of the Board;</p>
+              </item>
+              <item id="section-3.3.list1.b">
+                <num>(b)</num>
+                <p>Deputy Governors, Reserve Bank, out of whom the Deputy Governor who is in-charge of the Payment and Settlement Systems, shall be the Vice-Chairperson of the Board;</p>
+              </item>
+              <item id="section-3.3.list1.c">
+                <num>(c)</num>
+                <p>Not exceeding three Directors from the Central Board of the Reserve Bank of India to be nominated by the Governor, Reserve Bank.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <p>The powers and functions of the Board constituted under sub-section (2), the time and venue of its meetings, the procedure to be followed in such meetings (including the quorum at such meetings) and other matters incidental thereto shall be such as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>The Board for Regulation and Supervision of Payment and Settlement Systems constituted under clause (i) of sub-section (2) of section 58 of the Reserve Bank of India Act, 1934 shall be deemed to be the Board constituted under this section and continue accordingly until the Board is reconstituted in accordance with the provisions of this act and shall be governed by the rules and regulations made under the reserve Bank of India Act, 1934 in so far as they are not inconsistent with the provisions of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Payment system not to operate without authorisation. </heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>No person other than the Reserve Bank, shall commence or operate a payment system except under and in accordance with an authorisation issued by the Reserve Bank under the provisions of this Act:</p>
+            <blockList id="section-4.1.list2">
+              <listIntroduction>Provided that nothing contained in this section shall apply to</listIntroduction>
+              <item id="section-4.1.list2.a">
+                <num>(a)</num>
+                <p>the continued operation of an existing payment system on commencement of this Act for a period not exceeding six months from such commencement, unless within such period, the operator of such payment system obtains an authorisation under this Act or the application for authorisation made under section 7 of this Act is refused by the Reserve Bank;</p>
+              </item>
+              <item id="section-4.1.list2.b">
+                <num>(b)</num>
+                <p>any person acting as the duly appointed agent of another person to whom the payment is due;</p>
+              </item>
+              <item id="section-4.1.list2.c">
+                <num>(c)</num>
+                <p>a company accepting payments either from its holding company or any of its subsidiary companies or from any other company which is also a subsidiary of the same holding company;</p>
+              </item>
+              <item id="section-4.1.list2.d">
+                <num>(d)</num>
+                <p>any other person whom the Reserve Bank may, after considering the interests of monetary policy of efficient operation of payment systems, the size of any payment system or for any other reason, by notification, exempt from the provisions of this section.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The Reserve Bank may, under sub-section (1) of this section, authorize a company or corporation to operate or regulate the existing clearing houses or new clearing houses of banks in order to have a common retail clearing house system for the banks throughout the country:</p>
+            <p>Provided, however, that not less than fifty-one per cent. of the equity of such company or corporation shall be held by public sector banks.</p>
+            <p>Explanation .For the purposes of this clause, public sector banks shall include a corresponding new bank, State Bank of India and subsidiary bank as defined in section 5 of the Banking Regulation Act, 1949 (10 of 1949).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Application for authorisation. </heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person disirous of commencing or carrying on a payment system may apply to the Reserve Bank for an authorisation under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>An application under sub-section (1) shall be made in such form and in such manner and shall be accompanied by such fees as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Inquiry by the Reserve Bank.</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <p>After the receipt of an application under section 5, and before an authorisation is issued under this Act, the Reserve Bank may make such inquiries as it may consider necessary for the purpose of satisfying itself about the genuineness of the particulars furnished by the applicant, his capacity to operate the payment system, the credentials of the participants or for any other reason and when such an inquiry is conducted by any person authorised by it in this behalf, it may require a report from such person in respect of the inquiry.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Issue or refusal of authorisation. </heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-7.1.list1">
+              <listIntroduction>The Reserve Bank may, if satisfied, after any inquiry under section 6 or otherwise, that the application is complete in all respects and that it conforms to the provisions of this Act and the regulations issue an authorisation for operating the payment system under this Act having regard to the following considerations, namely:</listIntroduction>
+              <item id="section-7.1.list1.i">
+                <num>(i)</num>
+                <p>the need for the proposed payment system or the services proposed to be undertaken by it;</p>
+              </item>
+              <item id="section-7.1.list1.ii">
+                <num>(ii)</num>
+                <p>the technical standards or the design of the proposed payment system;</p>
+              </item>
+              <item id="section-7.1.list1.iii">
+                <num>(iii)</num>
+                <p>the terms and conditions of operation of the proposed payment system including any security procedure;</p>
+              </item>
+              <item id="section-7.1.list1.iv">
+                <num>(iv)</num>
+                <p>the manner in which transfer of funds may be effected within the payment system;</p>
+              </item>
+              <item id="section-7.1.list1.v">
+                <num>(v)</num>
+                <p>the procedure for netting of payment instructions effecting the payment obligations under the payment system;</p>
+              </item>
+              <item id="section-7.1.list1.vi">
+                <num>(vi)</num>
+                <p>the financial status, experience of management and integrity of the applicant;</p>
+              </item>
+              <item id="section-7.1.list1.vii">
+                <num>(vii)</num>
+                <p>interests of consumers, including the terms and conditions governing their relationship with payment system providers;</p>
+              </item>
+              <item id="section-7.1.list1.viii">
+                <num>(viii)</num>
+                <p>monetary and credit policies; and</p>
+              </item>
+              <item id="section-7.1.list1.ix">
+                <num>(ix)</num>
+                <p>such other factors as may be considered relevant by the Reserve Bank.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-7.2.list1">
+              <listIntroduction>An authorisation issued under sub-section (1) shall be in such form as may be prescribed and shall</listIntroduction>
+              <item id="section-7.2.list1.a">
+                <num>(a)</num>
+                <p>state the date on which it takes effect;</p>
+              </item>
+              <item id="section-7.2.list1.b">
+                <num>(b)</num>
+                <p>state the conditions subject to which the authorisation shall be in force;</p>
+              </item>
+              <item id="section-7.2.list1.c">
+                <num>(c)</num>
+                <p>indicate the payment of fees, if any, to be paid for the authorisation to be in force;</p>
+              </item>
+              <item id="section-7.2.list1.d">
+                <num>(d)</num>
+                <p>if it considers necessary, require the applicant to furnish such security for the proper conduct of the payment system under the provisions of this Act;</p>
+              </item>
+              <item id="section-7.2.list1.e">
+                <num>(e)</num>
+                <p>continue to be in force till the authorisation is revoked.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Where the Reserve Bank considers that the application for authorisation should be refused, it shall give the applicant a written notice to that effect stating the reasons for the refusal:</p>
+            <p>Provided that no such application shall be refused unless the applicant is given a reasonable opportunity of being heard.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>Every application for authorisation shall be processed by the Reserve Bank as soon as possible and an endeavour shall be made to dispose of such application within six months from the date of filing of such application.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Revocation of authorisation. </heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-8.1.list1">
+              <listIntroduction>If a system provider,</listIntroduction>
+              <item id="section-8.1.list1.i">
+                <num>(i)</num>
+                <p>contravenes any provisions of this Act, or</p>
+              </item>
+              <item id="section-8.1.list1.ii">
+                <num>(ii)</num>
+                <p>does not comply with the regulations, or</p>
+              </item>
+              <item id="section-8.1.list1.iii">
+                <num>(iii)</num>
+                <p>fails to comply with the orders or directions issued by the designated authority, or</p>
+              </item>
+              <item id="section-8.1.list1.iv">
+                <num>(iv)</num>
+                <p>operates the payment system contrary to the conditions subject to which the authoristion was issued, the Reserve Bank may, by order, revoke the authorisation given to such system provider under this Act:</p>
+              </item>
+            </blockList>
+            <blockList id="section-8.1.list3">
+              <listIntroduction>Provided that no order of revocation under sub-section (1) shall be made</listIntroduction>
+              <item id="section-8.1.list3.i">
+                <num>(i)</num>
+                <p>except after giving the system provider a reasonable opportunity of being heard; and</p>
+              </item>
+              <item id="section-8.1.list3.ii">
+                <num>(ii)</num>
+                <p>without prejudice to the direction of the Reserve Bank to the system provider that the operation of the payment system shall not be carried out till the order of revocation is issued.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing contained in sub-section (1) shall apply to a case where the Reserve Bank considers it necessary to revoke the authorisation given to a payment system in the interest of the monetary policy of the country or for any other reasons to be specified by it in the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>The order of revocation issued under sub-section (1) shall include necessary provisions to protect and safeguard the interests of persons affected by such order of revocation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.4">
+          <num>(4)</num>
+          <content>
+            <p>Where a system provider becomes insolvent or dissolved or wound up, such system provider shall inform that fact to the Reserve Bank and thereupon the Reserve Bank shall take such steps as deemed necessary to revoke the authorisation issued to such system provider to operate the payment system.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Appeal to the Central Government. </heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Any applicant for an authorisation whose application for the operation of the payment system is refused under sub-section (3) of section 7 or a system provider who is aggrieved by an order of revocation under section 8 may, within thirty days from the date on which the order is communicated to him, appeal to the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government shall endeavour to dispose of an appeal under sub-section (1) within a period of three months.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>The decision of the Central Government on the appeal under sub-section (1) shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Power to determine standards. </heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-10.1.list1">
+              <listIntroduction>The Reserve Bank may, from time to time, prescribe</listIntroduction>
+              <item id="section-10.1.list1.a">
+                <num>(a)</num>
+                <p>the format of payment instructions and the size and shape of such instructions;</p>
+              </item>
+              <item id="section-10.1.list1.b">
+                <num>(b)</num>
+                <p>the timings to be maintained by payment systems;</p>
+              </item>
+              <item id="section-10.1.list1.c">
+                <num>(c)</num>
+                <p>the manner of transfer of funds within the payment system, either through paper, electronic means or in any other manner, between banks or between banks and other system participants;</p>
+              </item>
+              <item id="section-10.1.list1.d">
+                <num>(d)</num>
+                <p>such other standards to be complied with the payment systems generally;</p>
+              </item>
+              <item id="section-10.1.list1.e">
+                <num>(e)</num>
+                <p>the criteria for membership of payment systems including continuation, termination and rejection of membership;</p>
+              </item>
+              <item id="section-10.1.list1.f">
+                <num>(f)</num>
+                <p>the conditions subject to which the system participants shall participate in such fund transfers and the rights and obligations of the system participants in such funds.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>Without prejudice to the provisions of sub-section (1), the Reserve Bank may, from time to time, issue such guidelines, as it may consider necessary for the proper and efficient management of the payment systems generally or with reference to any particular payment system.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Notice of change in the payment system. </heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-11.1.list1">
+              <listIntroduction>No system provider shall cause any change in the system which would affect the structure or the operation of the payment system without</listIntroduction>
+              <item id="section-11.1.list1.a">
+                <num>(a)</num>
+                <p>the prior approval of the Reserve Bank; and</p>
+              </item>
+              <item id="section-11.1.list1.b">
+                <num>(b)</num>
+                <p>giving notice of not less than thirty days to the system participants after the approval of the Reserve Bank:</p>
+              </item>
+            </blockList>
+            <p>Provided that in the interest of monetary policy of the country or in public interest, the Reserve Bank may permit the system provider to make any changes in a payment system without giving notice to the system participants under clause (b) or requiring the system provider to give notice for a period longer than thirty days.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the Reserve Bank has any objection, to the proposed change for any reason, it shall communicate such objection to the systems provider within two weeks of receipt of the intimation of the proposed changes from the system provider.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>The system provider shall, within a period of two weeks of the receipt of the objections from the Reserve Bank forward his comments to the Reserve Bank and the proposed changes may be effected only after the receipt of approval from the Reserve Bank.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Power to call for returns, documents or other information.</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>The Reserve Bank may call for from any system provider such returns or documents as it may require or other information in regard to the operation of his payment system at such intervals, in such form and in such manner, as the Reserve Bank may require from time to time or as may be prescribed and such order shall be complied with.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Access to information.</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>The Reserve Bank shall have right to access any information relating to the operation of any payment system and system provider and all the system participants shall provide access to such information to the Reserve Bank.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Power to enter and inspect.</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>Any officer of the Reserve Bank duly authorised by it in writing in this behalf, may for ensuing compliance with the provisions of this Act or any regulations, enter any premises where a payment system is being operated and may inspect any equipment, including any computer system or other documents situated at such premises and call upon any employee of such system provider or participant thereof or any other person working in such premises to furnish such information or documents as may be required by such officer.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Information, etc., to be confidential. </heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (2), any document or information obtained by the Reserve Bank under sections 12 to 14 (both inclusive) shall be kept confidential.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Reserve Bank may disclose any document or information obtained by it under sections 12 to 14 (both inclusive) to any person to whom the disclosure of such document or information is considered necessary for protecting the integrity, effectiveness or security of the payment system, or in the interest of banking or monetary policy or the operation of the payment systems generally or in the public interest.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Power to carry out audit and inspection.</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>The Reserve Bank may, for the purpose of carrying out its functions under this Act, conduct or get conducted audits and inspections of a payment system or participants thereof and it shall be the duty of the system provider and the system participants to assist the Reserve Bank to carry out such audit or inspection, as the case may be.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Power to issue directions.</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <blockList id="section-17.paragraph-0.list1">
+              <listIntroduction>Where the Reserve Bank is of the opinion that,</listIntroduction>
+              <item id="section-17.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>a payment system or a system participant is engaging in, or is about to engage in, any act, omission or course of conduct that results, or is likely to result, in systemic risk being inadequately controlled; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.b">
+                <num>(b)</num>
+                <blockList id="section-17.paragraph-0.list1.b.list0">
+                  <listIntroduction>any action under clause (a) is likely to affect the payment system the monetary policy or the credit policy of the country, the Reserve Bank may issue directions in writing to such payment system or system participant requiring it, within such time as the Reserve Bank may specify</listIntroduction>
+                  <item id="section-17.paragraph-0.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>to cease and desist from engaging in the act, omission or course of conduct or to ensure the system participants to cease and desist from the act, omission or course of conduct; or</p>
+                  </item>
+                  <item id="section-17.paragraph-0.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>to perform such acts as may be necessary, in the opinion of the Reserve Bank, to remedy the situation.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power of Reserve Bank to give directions generally.</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>Without prejudice to the provisions of the foregoing, the Reserve Bank may, if it is satisfied that for the purpose of enabling it to regulate the payment systems or in the interest of management or operation of any of the payment systems or in public interest, it is necessary so to do, lay down policies relating to the regulation of payment systems including electronic, non-electronic, domestic and international payment systems affecting domestic transactions and give such directions in writing as it may consider necessary to system providers or the system participants or any other person either generally or to any such agency and in particular, pertaining to the conduct of business relating to payment systems.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Directions of Reserve Bank to be complied with.</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>Every person to whom a direction has been issued by the Reserve Bank under this Act shall comply with such direction without any delay and a report of compliance shall be furnished to the Reserve Bank within the time allowed by it.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>System provider to act in accordance with the Act, regulations, etc.</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Every system provider shall operate the payment system in accordance with the provisions of this Act, the regulations, the contract governing the relationship among the system participants, the rules and regulations which deal with the operation of the payment system and the conditions subject to which the authorisation is issued, and the directions given by the Reserve Bank from time to time.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Duties of a system provider. </heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>Every system provider shall disclose to the existing or potential system participants, the terms and conditions including the charges and the limitations of liability under the payment system, supply them with copies of the rules and regulations governing the operation of the payment system, netting arrangements and other relevant documents.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall be the duty of every system provider to maintain the standards determined under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Duty to keep documents in the payment system confidential. </heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>A system provider shall not disclose to any other person the existence or contents of any document or part thereof or other information given to him by a system participant, except where such disclosure is required under the provisions of this Act or the disclosure is made with the express or implied consent of the system participant concerned or where such disclosure is in obedience to the orders passed by a court of competent jurisdiction or a statutory authority in exercise of the powers conferred by a statute.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of the Bankers' Book Evidence Act, 1891 (18 of 1891) shall apply in relation to the information or documents or other books in whatever form maintained by the system provider.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Settlement and netting. </heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>The payment obligations and settlement instructions among the system participants shall be determined in accordance with the gross or netting procedure, as the case may be, approved by the Reserve Bank while issuing authorisation to a payment system under section 7, or, such gross or netting procedure as may be approved by it under any other provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the rules providing for the operation of a payment system indicates a procedure for the distribution of losses between the system participants and the payment system, such procedure shall have effect notwithstanding anything to the contrary contained in any other law for the time being in force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.3">
+          <num>(3)</num>
+          <content>
+            <p>A settlement effected under such procedure shall be final and irrevocable.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-23.4.list1">
+              <listIntroduction>Where, by an order of a court, Tribunal or authority––</listIntroduction>
+              <item id="section-23.4.list1.a">
+                <num>(a)</num>
+                <p>a system participant is declared as insolvent or is dissolved or wound up; or</p>
+              </item>
+              <item id="section-23.4.list1.b">
+                <num>(b)</num>
+                <p>a liquidator or receiver or assignee (by whatever name called), whether provisional or otherwise, is appointed in a proceeding relating to insolvency or dissolution or winding up of a system participant,</p>
+              </item>
+            </blockList>
+            <p>then, notwithstanding anything contained in the Banking Regulation Act,1949 or the Companies Act,1956 or the Companies Act, 2013 or any other law for the time being in force, such order shall not affect any settlement that has become final and irrevocable prior to such order or immediately thereafter, and the right of the system provider to appropriate any collaterals contributed by the system participants towards its settlement or other obligations in accordance with the</p>
+            <p>rules, regulations or bye-laws relating to such system provider.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.5">
+          <num>(5)</num>
+          <content>
+            <p>Where an order referred to in sub-section (4) is made with respect to a central counter party, then, notwithstanding such order or anything contained in the Banking Regulation Act,1949 or the Companies Act,1956 or the Companies Act, 2013 or any other law for the time being in force, the payment obligations and settlement instructions between the central counter party and the system participants including those arising from transactions admitted for settlement at a future date, shall be determined forthwith by such central counter party in accordance with the gross or netting procedure, as the case may be, approved by the Reserve Bank, while issuing authorisation or under any other provisions of this Act, and such determination shall be final and irrevocable.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.6">
+          <num>(6)</num>
+          <content>
+            <blockList id="section-23.6.list1">
+              <listIntroduction>Notwithstanding anything contained in the Banking Regulation Act,1949 or the Companies Act, 1956 or the Companies Act, 2013 or any other law for the time being in force, the liquidator or receiver or assignee (by whatever name called) of the central counter party, whether appointed as provisional or otherwise, shall––</listIntroduction>
+              <item id="section-23.6.list1.a">
+                <num>(a)</num>
+                <p>not re-open any determination that has become final and irrevocable;</p>
+              </item>
+              <item id="section-23.6.list1.b">
+                <num>(b)</num>
+                <p>after appropriating in accordance with the rules, regulations or bye-laws of the central counter party, the collaterals provided by the system participants towards their settlement or other obligations, return the collaterals held in excess to the system participants concerned.</p>
+              </item>
+            </blockList>
+            <p>Explanation 1.For the removal of doubts, it is hereby declared that the settlement, whether gross or net, referred to in this section is final and irrevocable as soon as the money, securities, foreign exchange or derivatives or other transactions payable as a result of such settlement is determined, whether or not such money, securities or foreign exchange or derivatives or other transactions is actually paid.</p>
+            <p>Explanation 2. For the purposes of this section, the expression “central counter party” means a system provider who by way of novation interposes between system participants in the transactions admitted for settlement, thereby becoming the buyer to every seller and the seller to every buyer, for the purpose of effecting settlement of their transactions.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23A">
+        <num>23A.</num>
+        <heading/>
+        <subsection id="section-23A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-23A.1.list1">
+              <listIntroduction>The Reserve Bank may, in public interest or in the interest of the customers of designated payment systems or to prevent the affairs of such designated payment system from being conducted in a manner prejudicial to the interests of its customers, require system provider of such payment system to––</listIntroduction>
+              <item id="section-23A.1.list1.a">
+                <num>(a)</num>
+                <p>deposit and keep deposited in a separate account or accounts held in a scheduled commercial bank; or</p>
+              </item>
+              <item id="section-23A.1.list1.b">
+                <num>(b)</num>
+                <p>maintain liquid assets in such manner and form as it may specify from time to time,</p>
+              </item>
+            </blockList>
+            <p>of an amount equal to such percentage of the amounts collected by the system provider of designated payment system from its customers and remaining outstanding, as may be specified by the Reserve Bank from time to time:</p>
+            <p>Provided that the Reserve Bank may specify different percentages and the manner and forms for different categories of designated payment systems.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23A.2">
+          <num>(2)</num>
+          <content>
+            <p>The balance held in the account or accounts, referred to in sub-section (1), shall not be utilised for any purpose other than for discharging the liabilities arising on account of the usage of the payment service by the customers or for repaying to the customers or for such other purpose as may be specified by the Reserve Bank</p>
+            <p>from time to time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23A.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Banking Regulation Act, 1949 or the Companies Act, 1956 or the Companies Act, 2013 or any other law for the time being in force, the persons entitled to receive payment under sub-section (2) shall have a first and paramount charge on the balance held in that account and the liquidator or receiver or assignee (by whatever name called) of the system provider of the designated payment system or the scheduled commercial bank concerned, whether appointed as provisional or otherwise, shall not utilise the said balances for any other purposes until all such persons are paid in full or adequate provision is made therefor.</p>
+            <blockList id="section-23A.3.list2">
+              <listIntroduction>Explanation.––For the purposes of this section, the expressions––</listIntroduction>
+              <item id="section-23A.3.list2.a">
+                <num>(a)</num>
+                <p>“designated payment system” shall mean a payment system or a class of payment system, as may be specified by the Reserve Bank from time to time, engaged in collection of funds from their customers for rendering payment service;</p>
+              </item>
+              <item id="section-23A.3.list2.b">
+                <num>(b)</num>
+                <p>“scheduled commercial bank” shall mean a “banking company”, “corresponding new bank”, “State Bank of India” and “subsidiary bank” as defined in section 5 of the Banking Regulation Act, 1949 and included in the Second Schedule to the Reserve Bank of India Act,1934.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Settlement of disputes. </heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>The system provider shall make provision in its rules or regulations for creation of panel consisting of not less than three system participants other than the system participants who are parties to the dispute to decide the disputes between system participants in respect of any matter connected with the operation of the payment system.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any dispute in respect of any matter connected with the operation of the payment system arises between two or more system participants, the system provider shall refer the dispute to the panel referred to in sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.3">
+          <num>(3)</num>
+          <content>
+            <p>Where any dispute arises between any system participant and the system provider or between system providers or where any of the system participants is not satisfied with the decision of the panel referred to in sub-section (1), the dispute shall be referred to the Reserve Bank.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.4">
+          <num>(4)</num>
+          <content>
+            <p>The dispute referred to the Reserve Bank for adjudication under sub-section (3) shall be disposed of by an officer of the Reserve Bank generally or specially authorised in this behalf and the decision of the Reserve Bank shall be final and binding.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.5">
+          <num>(5)</num>
+          <content>
+            <p>Where a dispute arises between the Reserve Bank, while acting in its capacity as system provider or as system participant, and another system provider or system participant, the matter shall be referred to the Central Government which may authorise an officer not below the rank of Joint Secretary for settlement of the dispute and the decision of such officer shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Dishonour of Electronic Funds Transfer for insufficiency, etc., of funds in the account. </heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an electronic funds transfer initiated by a person from an account maintained by him cannot be executed on the ground that the amount of money standing to the credit of that account is insufficient to honour the transfer instruction or that it exceeds the amount arranged to be paid from that account by an agreement made with a bank, such person shall be deemed to have committed an offence and shall, without prejudice to any other provisions of this Act, be punished with imprisonment for a term which may be extended to two years, or with fine which may extend to twice the amount of the electronic funds transfer, or with both:</p>
+            <blockList id="section-25.1.list2">
+              <listIntroduction>Provided that nothing contained in this section shall apply unless</listIntroduction>
+              <item id="section-25.1.list2.a">
+                <num>(a)</num>
+                <p>the electronic funds transfer was initiated for payment of any amount of money to another person for the discharge, in whole or in part, of any debt on other liability;</p>
+              </item>
+              <item id="section-25.1.list2.b">
+                <num>(b)</num>
+                <p>the electronic funds transfer was initiated in accordance with the relevant procedural guidelines issued by the system provider;</p>
+              </item>
+              <item id="section-25.1.list2.c">
+                <num>(c)</num>
+                <p>the beneficiary makes a demand for the payment of the said amount of money by giving a notice in writing to the person initiating the electronic funds transfer within thirty days of the receipt of information by him from the bank concerned regarding the dishonour of the electronic funds transfer; and</p>
+              </item>
+              <item id="section-25.1.list2.d">
+                <num>(d)</num>
+                <p>the person initiating the electronic funds transfer fails to make the payment of the said money to the beneficiary within fifteen days of the receipt of the said notice.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall be presumed, unless the contrary is proved, that the electronic funds transfer was initiated for the discharge, in whole or in part, of any debt or other liability.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall not be a defence in a prosecution for an offence under sub-section (1) that the person, who initiated the electronic funds transfer through an instruction, authorization, order or agreement, did not have reason to believe at the time of such instruction, authorization, order or agreement that the credit of his account is insufficient to effect the electronic funds transfer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.4">
+          <num>(4)</num>
+          <content>
+            <p>The Court shall, in respect of every proceeding under this section, on production of a communication from the bank denoting the dishonour of electronic funds transfer, presume the fact of dishonour of such electronic funds transfer, unless and until such fact is disproved.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.5">
+          <num>(5)</num>
+          <content>
+            <p>The provisions of Chapter XVII of the Negotiable Instruments Act, 1881 (26 of 1881) shall apply to the dishonour of electronic funds transfer to the extent the circumstances admit.</p>
+            <p>Explanation. For the purpose of this section, debt or other liability means a legally enforceable debt or other liability, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Penalties. </heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>Where a person contravenes the provisions of section 4 or fails to comply with the terms and conditions subject to which the authorisation has been issued under section 7, he shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to ten years or with fine which may extend to one crore rupees or with both and with a further fine which may extend to one lakh rupees for every day, after the first during which the contravention or failure to comply continues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>Whoever in any application for authorisation or in any return or other document or on any information required to be furnished by or under, or for the purpose of, any provision of this Act, wilfully makes a statement which is false in any material particular, knowing it to be false or wilfully omits to make a material statement, shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to fine which shall not be less than ten lakh rupees and which may extend to fifty lakh rupees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.3">
+          <num>(3)</num>
+          <content>
+            <p>If any person fails to produce any statement, information, returns or other documents, or to furnish any statement, information, returns or other documents, which under section 12 or under section 13, it is his duty to furnish or to answer any question relating to the operation of a payment system which is required by an officer making inspection under section 14, he shall be punishable with fine which may extend to ten lakh rupees in respect of each offence and if he persists in such refusal, to a further fine which may extend to twenty-five thousand rupees for every day for which the offence continues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.4">
+          <num>(4)</num>
+          <content>
+            <p>If any person discloses any information, the disclosure of which is prohibited under section 22, he shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to five lakh rupees or an amount equal to twice the amount of the damages incurred by the act of such disclosure, whichever is higher or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.5">
+          <num>(5)</num>
+          <content>
+            <p>Where a direction issued under this Act is not complied with within the period stipulated by the Reserve Bank or where no such period is stipulated, within a reasonable time or where the penalty imposed by the Reserve Bank under section 30 is not paid within a period of thirty days from the date of the order, the system provider or the system participant which has failed to comply with the direction or to pay the penalty shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to ten years, or with fine which may extend to one crore rupees or with both and where the failure to comply with the direction continues, with further fine which may extend to one lakh rupees for every day, after the first during which the contravention continues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.6">
+          <num>(6)</num>
+          <content>
+            <p>If any provision of this Act is contravened, or if any default is made in complying with any other requirement of this Act, or of any regulation, order or direction made or given or condition imposed thereunder and in respect of which no penalty has been specified, then, the person guilty of such contravention or default, as the case may be, shall be punishable with fine which may extend to ten lakh rupees and where a contravention or default is a continuing one, with a further fine which may extend to twenty-five thousand rupees for every day, after the first during which the contravention or default continues.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Offences by companies. </heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>Where a person committing a contravention of any of the provisions of this Act or any regulation, direction or order made thereunder is a company, every person who, at the time of the contravention, was in charge of, and was responsible to, the company for the conduct of business of the company, as well as the company, shall be guilty of the contravention and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to punishment if he proves that the contravention took place without his knowledge or that he exercised all due diligence to prevent such contravention.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where a contravention of any of the provisions of this Act or of any regulation, direction or order made thereunder has been committed by a company and it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.</p>
+            <blockList id="section-27.2.list2">
+              <listIntroduction>Explanation. For the purposes of this section,</listIntroduction>
+              <item id="section-27.2.list2.a">
+                <num>(a)</num>
+                <p>company means any body corporate and includes a firm or other association of individuals; and</p>
+              </item>
+              <item id="section-27.2.list2.b">
+                <num>(b)</num>
+                <p>director, in relation to a firm, means a partner in the firm.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Cognizance of offences. </heading>
+        <subsection id="section-28.1">
+          <num>(1)</num>
+          <content>
+            <p>No court shall take cognizance of an offence punishable under this Act except upon a complaint in writing made by an officer of the Reserve Bank generally or specially authorised by it in writing in this behalf, and no court, lower than that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any such offence:</p>
+            <p>Provided that the Court may take cognizance of an offence punishable under section 25 upon a complaint in writing made by the person aggrieved by the dishonour of the electronic funds transfer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-28.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), a Magistrate may dispense with the personal attendance of the officer of the Reserve Bank filing the compliant, but the Magistrate may, in his discretion, at any stage of the proceedings, direct the personal attendance of the complainant.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Application of fine. A court imposing any fine under this Act may of direct that the whole or any part thereof shall be applied in, or towards payment of, the costs of the proceedings.</heading>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Power of Reserve Bank to impose fines. </heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in section 26, if a contravention or default of the nature referred to in sub-section (2) or sub-section (5) of section 26, as the case may be, the Reserve Bank may impose on the person contravening or committing default a penalty not exceeding five lakh rupees or twice the amount involved in such contravention or default where such amount is quantifiable, whichever is more, and where such contravention of default is a continuing one, a further penalty which may extend to twenty-five thousand rupees for every day after the first during which the contravention or default continues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>For the purpose of imposing penalty under sub-section (1), the Reserve Bank shall serve a notice on the defaulter requiring him to show cause why the amount specified in the notice should not be imposed as a penalty and a reasonable opportunity of being heard shall also be given to such defaulter.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.3">
+          <num>(3)</num>
+          <content>
+            <p>Any penalty imposed by the Reserve Bank under this section shall be payable within a period of thirty days from the date on which notice issued by the Reserve Bank demanding payment of the sum is served on the defaulter and, in the event of failure of the person to pay the sum within such period, may be recovered on a direction made by the principal civil court having jurisdiction in the area where the registered office of the defaulter company or the official business of the person is situated:</p>
+            <p>Provided that no such direction shall be made, except on an application made by an officer of the Reserve Bank authorised by it in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.4">
+          <num>(4)</num>
+          <content>
+            <p>The Reserve Bank may recover the amount of penalty by debiting the current account, if any, of the defaulter or by liquidating the securities held to the credit of the defaulter or in accordance with the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.5">
+          <num>(5)</num>
+          <content>
+            <p>The court which makes a direction under sub-section (3) shall issue a certificate specifying the sum payable by the defaulter and every such certificate shall be enforceable in the same manner as it were a decree made by the court in a civil suit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.6">
+          <num>(6)</num>
+          <content>
+            <p>Where any complaint has been filed against any person in any court in respect of the contravention or default of the nature referred to in sub-section (2), or, as the case may be, sub-section (4) of section 26, then, no proceeding for the imposition of any penalty on the person shall be taken under this section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Power to compound offences. </heading>
+        <subsection id="section-31.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under this Act for any contravention, not being an offence punishable with imprisonment only, or with imprisonment and also with fine, may, on receipt of an application from the person committing such contravention either before or after the institution of any proceeding, be compounded by an officer of the Reserve Bank duly authorised by it in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-31.2">
+          <num>(2)</num>
+          <content>
+            <p>Where a contravention has been compounded under sub-section (1), no proceeding or further proceeding, as the case may be, shall be initiated or continued, as the case may be, against the person committing such contravention under that section, in respect of the contravention so compounded.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Act to have overriding effect. The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.</heading>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Mode of recovery of penalty. </heading>
+        <subsection id="section-33.1">
+          <num>(1)</num>
+          <content>
+            <p>The penalty imposed on the defaulter by the Reserve Bank under section 30 may be recovered by issuing a notice to any person from whom any amount is due to the defaulter, by requiring such person to deduct from the amount payable by him to the defaulter, the amount payable to the Reserve Bank by way of penalty and pay to the Reserve Bank.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.2">
+          <num>(2)</num>
+          <content>
+            <p>Save as otherwise provided in this section, every person to whom a notice is issued under this sub-section shall be bound to comply with such notice, and, in particular, where such notice is issued to a post office, bank or an insurer, it shall not be necessary for any passbook, deposit receipt, policy or any other document to be produced for the purpose of any entry, endorsement or the like being made before payment is made notwithstanding that any rule, practice or requirement to the contrary.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.3">
+          <num>(3)</num>
+          <content>
+            <p>Any claim respecting any property in relation to which a notice under this sub-section has been issued arising after the date of the notice shall be void as against any demand contained in the notice.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.4">
+          <num>(4)</num>
+          <content>
+            <p>Where a person to whom the notice under this sub-section is sent objects to it by a statement on oath that the sum demanded or any part thereof is not due to the defaulter or that he does not hold any money for or on account of the defaulter, then, nothing contained in this sub-section shall be deemed to require such person to pay any such sum or part thereof, as the case may be, but if it is discovered that such statement was false in any material particular, such person shall be personally liable to the Reserve Bank to the extent of his own liability to the defaulter on the date of the notice, or to the extent of the penalty imposed on the defaulter by the Reserve Bank, whichever is less.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.5">
+          <num>(5)</num>
+          <content>
+            <p>The Reserve Bank may at any time or from time to time, amend or revoke any notice issued under this section or extend the time for making the payment in pursuance of such notice.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.6">
+          <num>(6)</num>
+          <content>
+            <p>The Reserve Bank shall grant a receipt for any amount paid to it in compliance with a notice issued under this section and the person so paying shall be fully discharged from his liability to the defaulter to the extent of the amount so paid.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.7">
+          <num>(7)</num>
+          <content>
+            <p>Any person discharging any liability to the defaulter after the receipt of a notice under this section shall be personally liable to the Reserve Bank to the extent of his own liability to the defaulter so discharged or to the extent of the penalty imposed on the defaulter by the Reserve Bank, whichever is less.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.8">
+          <num>(8)</num>
+          <content>
+            <p>If the person to whom the notice under this section is sent fails to make payment in pursuance thereof to the Reserve Bank, he shall be deemed to be the defaulter in respect of the amount specified in the notice and further proceedings may be taken against him for the realisation of the amount as if it were an arrear due from him in the manner provided in this section.</p>
+            <p>Explanation. For the purposes of this section, defaulter means any person or system provider or system participant on whom the Reserve Bank has imposed a penalty under section 30.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Act not to apply to stock exchanges or clearing corporations of stock exchanges.</heading>
+        <paragraph id="section-34.paragraph-0">
+          <content>
+            <p>Nothing contained in this Act shall apply to stock exchanges or the clearing corporations of the stock exchanges.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-34A">
+        <num>34A.</num>
+        <heading/>
+        <subsection id="section-34A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-34A.1.list1">
+              <listIntroduction>The provisions of this Act shall apply to, or in relation to, a designated trade repository or issuer, as they apply to, or in relation to, payment systems to the extent applicable, subject to the modification that, throughout this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-34A.1.list1.a">
+                <num>(a)</num>
+                <p>references to a “payment system” or “system provider” shall be construed as references to a “designated trade repository” or “issuer”, as the case may be;</p>
+              </item>
+              <item id="section-34A.1.list1.b">
+                <num>(b)</num>
+                <blockList id="section-34A.1.list1.b.list0">
+                  <listIntroduction>references to “commencement of this Act” shall be construed with reference to––</listIntroduction>
+                  <item id="section-34A.1.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>a designated trade repository, as references to the date on which a trade repository is specified by the Reserve Bank as a designated trade repository; and</p>
+                  </item>
+                  <item id="section-34A.1.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>an issuer, as references to commencement of the Payment and Settlement Systems (Amendment) Act, 2015.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-34A.2">
+          <num>(2)</num>
+          <content>
+            <p>The Reserve Bank may, on an application by a designated trade repository or otherwise, permit or direct the designated trade repository to provide such other services as are deemed necessary from time to time.</p>
+            <p>Explanation.––For the purposes of this section, the expression “designated trade repository” shall mean a trade repository or a class of trade repositories, as may be specified by the Reserve Bank from time to time.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Certain persons deemed to be public servants. </heading>
+        <subsection id="section-35.1">
+          <num>(1)</num>
+          <content>
+            <p>Every officer of the Reserve Bank who has been entrusted with any power under this Act, shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-36">
+        <num>36.</num>
+        <heading>Protection of action taken in good faith. No suit or other legal proceedings shall lie against the Central Government, the Reserve Bank, or any officer thereof for any damage caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance of this Act, any regulations, order or direction made or given thereunder.</heading>
+      </section>
+      <section id="section-37">
+        <num>37.</num>
+        <heading>Power to remove difficulties. </heading>
+        <subsection id="section-37.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provision is not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty:</p>
+            <p>Provided that no order shall be made under this section after the expiry of a period of two years from the commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-37.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-38">
+        <num>38.</num>
+        <heading>Power of Reserve Bank to make regulations. </heading>
+        <subsection id="section-38.1">
+          <num>(1)</num>
+          <content>
+            <p>The Reserve Bank may, by notification, make regulations consistent with this Act to carry out the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-38.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-38.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing provision, such regulations may provide for all or any of the following matters, namely:</listIntroduction>
+              <item id="section-38.2.list1.a">
+                <num>(a)</num>
+                <p>the powers and functions of the Committee constituted under sub-section (2), the time and venue of its meetings and the procedure to be followed by it at its meetings (including the quorum at such meetings, under sub-section (4) of section 3;</p>
+              </item>
+              <item id="section-38.2.list1.b">
+                <num>(b)</num>
+                <p>the form and manner in which an application for authorisation for commencing or carrying on a payment system shall be made and the fees which shall accompany such application under sub-section (2) of section 5;</p>
+              </item>
+              <item id="section-38.2.list1.c">
+                <num>(c)</num>
+                <p>the form in which an authorisation to operate a payment system under this Act shall be issued under sub-section (2) of section 7;</p>
+              </item>
+              <item id="section-38.2.list1.d">
+                <num>(d)</num>
+                <p>the format of payment instructions and other matters relating to determination of standards to be complied with by the payment systems under sub-section (1) of section 10;</p>
+              </item>
+              <item id="section-38.2.list1.e">
+                <num>(e)</num>
+                <p>the intervals, at which and the form and manner in which the information or returns required by the Reserve Bank shall be furnished under section 12;</p>
+              </item>
+              <item id="section-38.2.list1.f">
+                <num>(f)</num>
+                <p>such other matters as are required to be, or may be, prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-38.2">
+          <num>(2)</num>
+          <content>
+            <p>Any regulation made under this section shall have effect from such earlier or later date (nor earlier than the date of commencement of this Act) as may be specified in the regulation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-38.3">
+          <num>(3)</num>
+          <content>
+            <p>Every regulation shall, as soon as may be after it is made by the Reserve Bank, be forwarded to the Central Government and that Central Government shall cause a copy of the same to be laid before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation, or both Houses agree that the regulation should not be made, the regulation shall, thereafter, have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

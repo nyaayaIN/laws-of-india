@@ -1,0 +1,1612 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-jnk/act/2013/07/main"/>
+          <FRBRuri value="/in-jnk/act/2013/07"/>
+          <FRBRalias value="The Jammu And Kashmir Juvenile Justice (Care And Protection Of Children) Act, 2013"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-jnk/act/2013/07/eng@2017-01-09/main"/>
+          <FRBRuri value="/in-jnk/act/2013/07/eng@2017-01-09"/>
+          <FRBRdate date="2017-01-09" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-jnk/act/2013/07/eng@2017-01-09/main"/>
+          <FRBRuri value="/in-jnk/act/2013/07/eng@2017-01-09"/>
+          <FRBRdate date="2016-12-29" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Jammu And Kashmir Juvenile Justice (Care And Protection Of Children) Act, 2013</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 07 OF 2013</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[24th April, 2013]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to consolidate and amend the law relating to juvenile in conflict with law and children in need of care and protection, by providing for proper care, protection and treatment by catering to their development needs, and for the adjudications and disposition of matters in the best interest of children and for their ultimate rehabilitation and for matters connected therewith or incidental thereto.</p>
+      <p>Be it enacted by the State Legislature in the Sixty-fourth Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, commencement and application</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Jammu and Kashmir Juvenile Justice (Care and Protection of Children) Act, 2013.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall come into force on such date as the Government may, by notification in the Government Gazette, appoint.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, the provisions of this Act shall apply to all cases involving detention, prosecution, penalty or sentence of imprisonment of juveniles in conflict with law under such other laws.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>"Act" means the Jammu and Kashmir Juvenile Justice (Care and Protection of Children) Act, 2013;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>"advisory board" means the State Advisory Board or a District Advisory Board, as the case may be, constituted under section 60;</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <blockList id="section-2.1.list1.c.list0">
+                    <listIntroduction>"begging" means-</listIntroduction>
+                    <item id="section-2.1.list1.c.list0.i">
+                      <num>(i)</num>
+                      <p>soliciting or receiving alms in a public place or entering into any private premises for the purpose of soliciting or receiving alms, whether under any pretence;</p>
+                    </item>
+                    <item id="section-2.1.list1.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>exposing or exhibiting with the object of obtaining or extorting alms, any sore, wound, injury, deformity or disease, whether of himself or of any other person or of an animal;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.1.list1.d">
+                  <num>(d)</num>
+                  <p>"Board" means the Juvenile Justice Board constituted under section 4;</p>
+                </item>
+                <item id="section-2.1.list1.e">
+                  <num>(e)</num>
+                  <blockList id="section-2.1.list1.e.list1">
+                    <listIntroduction>"child in need of care and protection" means a child-</listIntroduction>
+                    <item id="section-2.1.list1.e.list1.i">
+                      <num>(i)</num>
+                      <p>who is found without any home or settled place or abode and without any ostensible means of subsistence;</p>
+                    </item>
+                    <item id="section-2.1.list1.e.list1.ii">
+                      <num>(ii)</num>
+                      <p>who is found begging, or who is either a street child or a working child;</p>
+                    </item>
+                    <item id="section-2.1.list1.e.list1.iii">
+                      <num>(iii)</num>
+                      <p>who resides with a person (whether a guardian of the child or not) and such person-</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>has threatened to kill or injure the child and there is a reasonable likelihood of the threat being carried out; or</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-2.1.list1.b.list2">
+                    <listIntroduction>has killed, abused or neglected some other child or children and there is a reasonable likelihood of the child in question being killed, abused or neglected by that person;</listIntroduction>
+                    <item id="section-2.1.list1.b.list2.iv">
+                      <num>(iv)</num>
+                      <p>who is mentally or physically or ill child or children suffering from terminal diseases or incurable diseases having no one to support or look after;</p>
+                    </item>
+                    <item id="section-2.1.list1.b.list2.v">
+                      <num>(v)</num>
+                      <p>who has a parent or guardian and such parent or guardian is unfit or incapacitated to exercise control over the child;</p>
+                    </item>
+                    <item id="section-2.1.list1.b.list2.vi">
+                      <num>(vi)</num>
+                      <p>who does not have parent and no one is willing to take care of or whose parents had abandoned or surrendered him or who is missing and run away child and whose parents cannot be found after reasonable inquiry;</p>
+                    </item>
+                    <item id="section-2.1.list1.b.list2.vii">
+                      <num>(vii)</num>
+                      <p>who is being or is likely to be grossly abused, tortured or exploited for the purpose of sexual abuse or illegal acts;</p>
+                    </item>
+                    <item id="section-2.1.list1.b.list2.viii">
+                      <num>(viii)</num>
+                      <p>who is found vulnerable and is likely to be inducted into drug abuse or trafficking;</p>
+                    </item>
+                    <item id="section-2.1.list1.b.list2.ix">
+                      <num>(ix)</num>
+                      <p>who is being or is likely to be abused for unconscionable gains;</p>
+                    </item>
+                    <item id="section-2.1.list1.b.list2.x">
+                      <num>(x)</num>
+                      <p>who is victim of any armed conflict, civil commotion or natural calamity;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.1.list1.f">
+                  <num>(f)</num>
+                  <p>"children's home" means an institution established by the Government or by a voluntary organisation and certified by the Government under section 35;</p>
+                </item>
+                <item id="section-2.1.list1.g">
+                  <num>(g)</num>
+                  <p>"Committee" means a Child Welfare Committee constituted under section 30;</p>
+                </item>
+                <item id="section-2.1.list1.h">
+                  <num>(h)</num>
+                  <p>"competent authority" means in relation to children in need of care and protection a Committee and in relation to juvenile in conflict with law a Board;</p>
+                </item>
+                <item id="section-2.1.list1.i">
+                  <num>(i)</num>
+                  <p>"fit institution" means a governmental or a registered nongovernmental organisation or a voluntary organisation prepared to own the responsibility of a child and such organisation is found fit by the Government on the recommendation of the competent authority;</p>
+                </item>
+                <item id="section-2.1.list1.j">
+                  <num>(j)</num>
+                  <p>"fit person" means a person, being a social worker or any other person, who is prepared to own the responsibility of a child and is found fit by the competent authority to receive and take care of the child;</p>
+                </item>
+                <item id="section-2.1.list1.k">
+                  <num>(k)</num>
+                  <p>"Government" means the Government of Jammu and Kashmir;</p>
+                </item>
+                <item id="section-2.1.list1.l">
+                  <num>(l)</num>
+                  <p>"Guardian" in relation to a child, means his natural guardian or any other person having the actual charge or control over the child and recognized by the competent authority as a guardian in course of proceedings before that authority;</p>
+                </item>
+                <item id="section-2.1.list1.m">
+                  <num>(m)</num>
+                  <p>"Juvenile" or "child" means a person who has not completed eighteenth" year of age;</p>
+                </item>
+                <item id="section-2.1.list1.n">
+                  <num>(n)</num>
+                  <p>"Juvenile" in conflict law" means a juvenile who is alleged to have committed an offence and has not completed eighteenth year of age as on the date of commission of such offence;</p>
+                </item>
+                <item id="section-2.1.list1.o">
+                  <num>(o)</num>
+                  <p>" Narcotic drug" and "psychotropic substance" shall have the meaning respectively assigned to them in the Narcotic Drugs and psychotropic Substances Act, 1985 (Central Act No. 61 of 1985);</p>
+                </item>
+                <item id="section-2.1.list1.p">
+                  <num>(p)</num>
+                  <p>"observation home" means a home established by the Government or by a voluntary organization and certified by the Government under Section 9 as an observation home for the juvenile in conflict with law;</p>
+                </item>
+                <item id="section-2.1.list1.q">
+                  <num>(q)</num>
+                  <p>"Offence" means an offence punishable under any law for the time being in force;</p>
+                </item>
+                <item id="section-2.1.list1.r">
+                  <num>(r)</num>
+                  <p>"place of safety" means any place or institution (not being a police lock-up or jail), the person In charge of which is willing temporarily to receive and take care of the juvenile and which, in the opinion of the competent authority, may be a place of safety for the juvenile;</p>
+                </item>
+                <item id="section-2.1.list1.s">
+                  <num>(s)</num>
+                  <p>"Prescribed" means prescribed by rules made under the Act;</p>
+                </item>
+                <item id="section-2.1.list1.t">
+                  <num>(t)</num>
+                  <p>"probation officer" means an officer appointed by the Government as a Probation Officer under the Jammu and Kashmir Probation of Offenders Act, 1966 (XXXVII of 1966);</p>
+                </item>
+                <item id="section-2.1.list1.u">
+                  <num>(u)</num>
+                  <p>"public place" shall have the meaning assigned to it in the Immoral Traffic (Prevention) Act, 1956 (Central Act No. 104 of 1956);</p>
+                </item>
+                <item id="section-2.1.list1.v">
+                  <num>(v)</num>
+                  <p>"shelter home" means a home or a drop-in-centre set up under section 38;</p>
+                </item>
+                <item id="section-2.1.list1.w">
+                  <num>(w)</num>
+                  <p>"special home" means an institution established by the Government under section 10;</p>
+                </item>
+                <item id="section-2.1.list1.x">
+                  <num>(x)</num>
+                  <p>"special juvenile police unit" means a unit of the police force of the State designated for handling of juveniles of children under section 62;</p>
+                </item>
+                <item id="section-2.1.list1.y">
+                  <num>(y)</num>
+                  <p>"State" means the State of Jammu and Kashmir.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Words and expressions used but not defined in the Act, and defined in the Code of Criminal Procedure, Samvat 1989 shall have the, meanings respectively assigned to them in that Code.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Continuation of inquiry in respect of juvenile who has ceased to be a juvenile</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>Where an inquiry has been initiated against a juvenile in conflict with law or a child in need of care and protection and during the course of such inquiry the juvenile or the child ceases to be such, then, notwithstanding anything contained in the Act or in any other law for the time being in force, the inquiry may be continued and order may be made in respect of such person as if such person had continued to be a juvenile or a child.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Juvenile in conflict with law</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Juvenile Justice Board</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, Samvat 1989, the Government may, within a period of one year from the date of commencement of the Act, by notification in the Government Gazette, constitute for a district or a group of districts or each division of the State one or more Juvenile Justice Boards for exercising the powers and discharging the duties conferred or imposed on such Boards in relation to juveniles in conflict with law under the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>A Board shall consist of a Judicial Magistrate of the First Class and two social workers, forming a Bench and every such Bench shall have the powers conferred by the Code of Criminal Procedure, Samvat 1989 on a Judicial Magistrate of the First Class and the Magistrate on the Board shall be designated as the Principal Magistrate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>No Magistrate shall be appointed as a member of the Board unless he has special knowledge or training in child psychology or child welfare and no social worker shall be appointed as a member of the Board unless he has been actively involved in health, education or welfare activities pertaining to children for at least seven years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>The term of office of the members of the Board and the manner in which such member may resign shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <blockList id="section-4.5.list1">
+                <listIntroduction>The appointment of any member of the Board may be terminated after holding inquiry, by the Government, if-</listIntroduction>
+                <item id="section-4.5.list1.i">
+                  <num>(i)</num>
+                  <p>he has been found guilty of misuse of power vested under the Act;</p>
+                </item>
+                <item id="section-4.5.list1.ii">
+                  <num>(ii)</num>
+                  <p>he has been convicted of an offence involving moral turpitude, and such conviction has not been reversed or he has not been granted full pardon in respect of such offence;</p>
+                </item>
+                <item id="section-4.5.list1.iii">
+                  <num>(iii)</num>
+                  <p>he fails to attend the proceedings of the Board for consecutive three months without any valid reason or he fails to attend less than three-fourth of the sittings in a year.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.6">
+            <num>(6)</num>
+            <content>
+              <p>From the date of enforcement of the Act and till the formal constitution of the Board under this section, the Chief Judicial Magistrate having jurisdiction in the area shall exercise the powers and perform the functions of the Board and the provisions of the sub-section (2) of section 15 of the Act shall remain suspended during the period.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Procedure, etc. in relation to Board</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall meet at such time and shall, observe such rules of procedure in regard to the transaction of business at the meetings, as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>A child in conflict with law may be produced before an individual member of the Board, when the Board is not sitting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>A Board may act notwithstanding the absence of any member of the Board, and no order made by the Board shall be invalid by reason only of the absence of any member during any stage of proceedings:</p>
+              <p>Provided that there shall be at least two members including the Principal Magistrate present at the time of final disposal of the case.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>In the event of any difference of opinion among the members of the Board in the interim or final disposition, the opinion of the majority shall prevail, but where there is no such majority, the opinion of the Principal Magistrate, shall prevail.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Powers of Juvenile Justice Board</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a Board has been constituted, such Board shall, notwithstanding anything contained in any other law for the time being in force but save as otherwise expressly provided in the Act, have power to deal exclusively with all proceedings under the Act, relating to juvenile in conflict with law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The powers conferred on the Board by or under the Act may also be exercise by the High Court and the Court of Session, Srinagar or Jammu, as the case may be, when the proceedings come before them in appeal, revision or otherwise.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Procedure to be followed by a Magistrate not empowered under the Act</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>When any Magistrate not empowered to exercise the powers of a Board under the Act is of the opinion that a person brought before him under any of the provisions of the Act (other than for the purpose of giving evidence), is a juvenile or the child, he shall without any delay record such opinion and forward the juvenile or the child, and the record of the proceeding to the competent authority having jurisdiction over the proceeding.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The competent authority to which the proceeding is forwarded under sub-section (1) shall hold the inquiry as if the juvenile or the child had originally been brought before it.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Procedure to be followed when claim of juvenility is raised before any Court</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Whenever a claim of juvenility is raised before any court or a court is of the opinion that an accused person was a juvenile on the date of commission the offence, the Court shall make an inquiry, take such evidence as may be necessary (but not an affidavit) so as to determine the age of such person, and shall record a finding whether the person is a juvenile or not, stating his age as nearly as may be:</p>
+              <p>Provided that a claim of juvenility may be raised before any Court and it shall be recognized at any stage, even after final disposal of the case, and such claim shall be determined in terms of the provisions contained in the Act and the rules made there under, even if the juvenile has ceased to be so on or before the date of commencement of the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>If the Court finds a person to be a juvenile on the date of commission of the offence under sub-section (1), it shall forward the Juvenile to the Board for passing appropriate order and the sentence, if any, passed by a court shall be deemed to have no effect.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Observation homes</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>the Government may establish and maintain either by itself or under an agreement with voluntary organisation, observation homes in every district or a group of districts or each division of the State for the temporary reception of any juvenile in conflict with law during the pendency of any inquiry regarding them under the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the Government is of the opinion that any institution other than a home established or maintained under sub-section (1), is fit for the temporary reception of juvenile in conflict with law during the pendency of any inquiry regarding them under the Act, it may certify such institution as an observation home for purposes of the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The Government may, be rules made under the Act, provide for the management of observation homes, including the standards and various types of services to be provided by them for rehabilitation and social integration of a juvenile, and the circumstances under which, and the manner in which, the certification of an observation home may be granted or withdrawn.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.4">
+            <num>(4)</num>
+            <content>
+              <p>Every juvenile who is not placed under the charge of parent or guardian and is sent to an observation home shall be initially kept in a reception unit of the observation home for preliminary inquiries, care and classification for juveniles according to his age group, such as seven to twelve years, twelve to sixteen years and sixteen to eighteen years, giving fur considerations to physical and mental status and degree of the offence committed, for further induction into observation home.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Special Homes</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may establish and maintain either by itself or under an agreement with voluntary organizations, special homes in every district or a group of districts or each division of the State for reception and rehabilitation of juvenile in conflict with law under the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the Government is of opinion that any institution other than a home established or maintained under sub-section (1), is fit for the reception or juvenile in conflict with law to be sent there under the Act, it may certify such institution as a special home for the purpose of the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>The Government may, by rules made under the Act, provide for the management of special homes, including the standards and various types of services to be provided by them which are necessary for re-socialization of a juvenile, and the circumstances under which and the manner in which, the certificated of a special home may be granted or withdrawn.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>The rules made under sub-section (3) may also provide for classification and separation of juvenile in conflict with law on the basis of age and the nature of offences committed by them and his mental and physical status.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Apprehension of juvenile in conflict with law</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>As soon as a juvenile in conflict with law is apprehended by police, he shall be placed under the charge of the special juvenile police unit or the designated police officer, who shall produce the juvenile before the Board without any loss of time but within a period of twenty-four hours of his apprehension excluding the time necessary for the journey, from the place where the juvenile was apprehended, to the Board:</p>
+              <p>Provided that in no case, a juvenile in conflict with law shall be placed in a police lock-up or lodged in a jail.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-11.2.list1">
+                <listIntroduction>The Government may make rules consistent with the Act,-</listIntroduction>
+                <item id="section-11.2.list1.i">
+                  <num>(i)</num>
+                  <p>to provide for person through whom (including registered voluntary organisation) any juvenile in conflict with law may be prescribed before the Board;</p>
+                </item>
+                <item id="section-11.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>to provide the manner in which such juvenile may be sent to an observation home.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Control of custodian over juvenile</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>Any person in whose charge a juvenile is placed in pursuance of the Act shall, while the order is in force have the control over the juvenile as he would have if he were his parents, and shall be responsible for his maintenance, and the juvenile shall continue in his charge for the period stated by competent authority, notwithstanding that he is claimed by this parents or any other person.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Bail of juvenile</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>When any person accused of a bailable or non-bailable offences, and apparently a juvenile is arrested or detained or appears or is brought before a Board, such person shall, notwithstanding anything contained in the Code of Criminal Procedure, Samvat 1989 or in any other law for the time being in force, be released on bail with or without surety or places under the supervision of a Probation Officer or under the care of any fit institution or fit person but he shall not be so released if there appear reasonable grounds for believing that the release is likely to bring him into association with any known criminal or expose him to moral, physical or psychological danger or that his release would defeat the ends of justice.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>When such person having been arrested is not released on bail under sub-section (1) by the officer-in-charge of the police station, such officer shall cause him to be kept only in an observation home in the prescribed manner until he can be brought before Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>When such person is not released on bail under sub-section (1) by the Board it shall, instead of committing him to prison, make an order sending him to an observation home or a place of safety for such period during the pendency of the inquiry regarding him as may be specified in the order.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Information to parents, guardian or probation officer</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <blockList id="section-14.paragraph-0.list1">
+                <listIntroduction>Where a juvenile is arrested, the officer In charge of the police station or the special juvenile police unit to which the juvenile is brought shall, as soon as may be after the arrest, inform-</listIntroduction>
+                <item id="section-14.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the parent or guardian of the juvenile, if he can be found, of such arrest and direct him to be present at the Board before which the juvenile will appear; and</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the probation officer of such arrest to enable him to obtain information regarding the antecedents and family background of the juvenile and other material circumstances likely to be of assistance to the Board for making the inquiry.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Inquiry by Board regarding juvenile</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a juvenile having been charged with the offence is produced before a Board, the Board shall hold the inquiry in accordance with the provisions of the Act and may make such order in relation to the juvenile as it deem fit:</p>
+              <p>Provided that an inquiry under this section be completed within a period of four months from the date of its commencement, unless the period is extended by the Board having regard to the circumstance of the case and in special cases after recording the reasons in writing for such extension.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chief Judicial Magistrate, Srinagar or Jammu, as the case may be, shall review the pendency of cases of the Board at every six months, and shall direct the Board to increase the frequency of its sittings or may cause the constitution of additional Boards.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Order that may be passed regarding juvenile</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-16.1.list1">
+                <listIntroduction>Where a Board is satisfied on inquiry that a juvenile has committed an offence, then notwithstanding anything to the contrary contained in any other law for the time being in force, the Board may, if it thinks so fit,-</listIntroduction>
+                <item id="section-16.1.list1.a">
+                  <num>(a)</num>
+                  <p>allow the juvenile to go home after advice or admonition following appropriate inquiry against and counselling to the parent of the guardian and the juvenile;</p>
+                </item>
+                <item id="section-16.1.list1.b">
+                  <num>(b)</num>
+                  <p>direct the juvenile to participate in group counselling and similar activities;</p>
+                </item>
+                <item id="section-16.1.list1.c">
+                  <num>(c)</num>
+                  <p>order the juvenile to perform community service;</p>
+                </item>
+                <item id="section-16.1.list1.d">
+                  <num>(d)</num>
+                  <p>order the parent of the juvenile or the juvenile himself to pay a fine, if he is over fourteen years of age and earns money;</p>
+                </item>
+                <item id="section-16.1.list1.e">
+                  <num>(e)</num>
+                  <p>direct the juvenile to be released of probation of good conduct and placed under the care of any person, guardian or other fit person, on such parent, guardian or other fit person executing a bond, with or without surety, as the Board may require, for the good behaviour and well-being of the juvenile for any period nor exceeding three years;</p>
+                </item>
+                <item id="section-16.1.list1.f">
+                  <num>(f)</num>
+                  <p>direct the juvenile to be released on probation of good conduct and placed under the care of any fit institution for the good behaviour and well-being of the juvenile for any period not exceeding three years;</p>
+                </item>
+                <item id="section-16.1.list1.g">
+                  <num>(g)</num>
+                  <p>make an order directing the juvenile to be sent to a sent to a special home for a period of three years;</p>
+                </item>
+              </blockList>
+              <p>Provided that the Board may, if it is satisfied that having regard to the nature of the offence and the circumstances of the case, it is expedient so to do, for reasons to be recorded, reduce the period of stay to such period as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall obtain the social investigation report on juvenile either through a probation officer or a recognized voluntary organisation or otherwise, and shall take into consideration the findings of such report before passing an order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Where an order under clause (d), clause (c) or clause (f) of subsection (1) is made, the Board may, if it is of opinion that in the interest of the juvenile and of the public, it is expedient so to do, in addition make an order that the juvenile in conflict with law shall remain under supervision of a probation officer named in the order during such periods, nor exceeding three years as may be specified therein, and may un such supervision order impose such conditions as it deems necessary for the due supervision of the juvenile in conflict with law:</p>
+              <p>Provided that if at any time afterwards it appears to the Board on receiving a report from the probation officer otherwise, that the juvenile in conflict with law has not been of good behaviour during the period of supervision or that the fit institution under whose care the juvenile was placed is no longer able or willing to ensure the good behaviour and well-being of the juvenile or the juvenile has committed an offence for the second time it may, after making such inquiry as it deems fit, order the juvenile in conflict with law to e sent to a special home.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.4">
+            <num>(4)</num>
+            <content>
+              <p>The Board shall while making a supervision order under subsection (3), explain to the juvenile and the parent, guardian or other fit person or fit institution, as the case may be, under whose care the juvenile has been placed, the terms and conditions of the order shall forthwith furnish one copy of the supervision order to the juvenile, the parent, guardian or other fit person or fit institution, as the case may be, the sureties, if any, and the probation officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Order that may not be passed against juvenile</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything to the contrary contained in any other law for the time being in force, no juvenile in conflict with law shall be sentenced to dealt or imprisonment for any term which may extent to imprisonment for life or committed to prison in default of payment of fine or in default of furnishing security:</p>
+              <p>Provided that where a juvenile who has attained the age of sixteen years has committed an offence and the Board is satisfied that the offence committed is of so serious in nature or that his conduct and behaviour have been such that it would not be in his interest or in the interest of other juvenile in a special home to send him to such special home and that none of the other measures provided under the Act is suitable or sufficient, the Board may order the juvenile in conflict with law to be kept in such place of safety and in such manner as it thinks fit and shall report the case for the order of the Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of a report from a Board under sub-section (1) the Government may make such arrangement in respect of the juvenile as to deems proper and may order such juvenile to be kept under protective custody at such place and no such conditions as it thinks fit:</p>
+              <p>Provided, that the period of detention so ordered shall not exceed in any case the maximum period provided under section 16 of the Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Proceedings under Chapter VIII of the Code of Criminal Procedure not competent against juvenile</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Notwithstanding anything in the contrary contained in the Code of Criminal Procedure, Samvat 1989, no proceeding shall be instituted and no order shall be passed against the juvenile under Chapter VIII of the said Code.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>No joint proceeding of juvenile and person not a juvenile</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in section 239 of the Code of Criminal Procedure, Samvat 1989 or in any other law for the time being in force, no juvenile shall be charged with or tried for offence together with a person who is not a juvenile.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>If a juvenile is accused of an offence for which under section 239 of the Code of Criminal Procedure, Samvat 1989 or any other law for the time being in force, such juvenile and any person who is not a juvenile would, but for the prohibition contained in sub-section (1), have been charged and tried together, the Board taking cognizance of that offence shall direct separate trials of the juvenile and the other person.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Removal of disqualification attaching to conviction</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law, a juvenile who has committed an offence and has been dealt with under the provisions of the Act shall not suffer disqualification, if any, attaching to a conviction of an offence under such law,</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall make an order directing that the relevant records of such conviction shall be removed after the expiry of the period of appeal or a reasonable period as prescribed under the rules, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Special provision in respect of pending cases</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Act, all proceedings in respect of a juvenile pending in any court in any area on the date on which the Act comes into force in that area, shall be continues in that court as if the Act had not been passed and if the court finds that the juvenile has committed an offence, it shall record such finding and instead of passing any sentence in respect of the juvenile, forward the juvenile to the Board which shall pass order in respect of that juvenile in accordance with the provisions of the Act as if it had been satisfied on inquiry under the Act that a juvenile has committed the offence:</p>
+              <p>Provided that the Board may, for an adequate and special reason to be mentioned in the order, review the case and pass appropriate order in the interest of such juvenile.</p>
+              <p>Explanation: In all pending case including trial, revision, appeal or any other criminal proceedings in respect of a juvenile in conflict with law, in any court, the determination of juvenility of such a juvenile shall be in terms of clause (n) of section 2, even if the juvenile ceases to be so on or before the date of commencement of the Act and the provisions had been in force, for all purposes and at all material time when the alleged offence was committed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Prohibition of publication of name, etc., of juvenile in conflict with law or child in need of care and protection involved in any proceedings under the Act</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>No report in any newspapers, magazine, newssheet or visual media of any inquiry regarding a juvenile in conflict with law or a child in need of care and protection under the Act shall disclose the name, address or school or any other particulars calculated to lead to the identification of the juvenile or child nor shall any picture of any such juvenile or child be published:</p>
+              <p>Provided that for reasons to be recorded in writing, the authority holding the inquiry may permit such disclosure, if in its opinion such disclosure is in the interest of the juvenile or the child.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who contravenes the provisions of sub-section (1) shall be liable to a penalty which may extend to twenty-five thousand rupees.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Provision in respect of escaped juvenile</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Notwithstanding anything to the contrary contained in any other law for the time being in force, any police officer may take charge without warrant of a juvenile in conflict with law who has escaped from a special home or an observation home or from the care of a person under whom he was placed under the Act, and shall be sent back to the special home or the observation home or that person, as the case may be, and no proceeding shall be instituted in respect of the juvenile by reason of such escape, but the special home, or the observation home or the person may, after giving the information to the Board which passed the order on respect of the juvenile, take steps in respect of the juvenile as may be deemed necessary under the provisions of the Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Punishment for cruelty to juvenile or child</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Whoever, having the actual charge of, or control over, a juvenile or the child, assaults, abandons, exposes or willfully neglects the juvenile or causes or procures him to be assaulted, abandoned, exposed or neglected in a manner likely to cause such juvenile or the child unnecessary mental or physical suffering shall be punishable with imprisonment for a term which may extend to one year, or fine, or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Employment of juvenile or child for begging</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Whoever employs or uses any juvenile or the child for the purpose or causes any juvenile to beg shall be punishable with imprisonment for a term which may extent to three years and shall also be liable to fine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever, having the actual charge of, or control over, juvenile or the child abets the commission of the offence punishable under sub-section (1), shall be punishable with imprisonment for a term which may extend to one year and shall also be liable to fine.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Penalty for giving intoxicating liquor or narcotic drug or psychotropic substance to juvenile or child</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Whoever gives, or cause to be given, to any juvenile or the child any intoxicating liquor in a public place or any narcotic drug or psychotropic substance except upon the order of duly qualified medical practitioner or in case of sickness shall be punishable with imprisonment for a term which may extend to three years and shall be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Exploitation of juvenile or child employee</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>Whoever ostensibly procures a juvenile or the child for the purpose of any hazardous employment keeps him in bondage and withholds his earnings or uses such earning for his own purposes shall be punishable with imprisonment for a term which may extend to three years and shall be liable to fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Special Offences</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>The offences punishable under sections 24, 25, 26 and 27 shall be cognizable.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Alternative punishment</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>Where an act or omission constitutes an offence punishable under the Act and also under any other law for the time being in force in the State, then, notwithstanding anything contained in any law for the time being in force, the offender found guilty of such offences shall be liable to punishment only under such Act as provides for punishment which is greater in degree.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Child in need of care and protection</heading>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Child Welfare Committee</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government by within a period of one year from the date of commencement of the Act, by notification in the Government Gazette, constitute for every district or a group of districts or each division of the State, one or more Child Welfare Committees for exercising the powers and discharge the duties conferred on such Committees in relation to child in need of care and protection under the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>The Committee shall consist of a Chairperson and four other members as the Government may think fit to appoint, of whom at least one shall be a woman and another, an expert on matters concerning children.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>The qualifications of the Chairperson and the members, the tenure for which they may be appointed shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-30.4.list1">
+                <listIntroduction>The appointment of any member of the Committee may be terminated, after holding inquiry, by the Government, if-</listIntroduction>
+                <item id="section-30.4.list1.i">
+                  <num>(i)</num>
+                  <p>he has been found guilty of misuse of power vested under the Act;</p>
+                </item>
+                <item id="section-30.4.list1.ii">
+                  <num>(ii)</num>
+                  <p>he has been convicted of an offence involving moral turpitude, and such conviction has not been reversed or he has not been granted full pardon in respect of such offence;</p>
+                </item>
+                <item id="section-30.4.list1.iii">
+                  <num>(iii)</num>
+                  <p>he fails to attend the proceedings of the Committee for consecutive three months without any valid reason or he fails to attend less than three-fourth of the sittings in a years.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-30.5">
+            <num>(5)</num>
+            <content>
+              <p>The Committee shall function as a Bench of Magistrates and shall have the powers conferred by the Code of Criminal Procedure, Samvat, 1989 on a Judicial Magistrate of the First Class.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Procedure, etc., in relation to Committee</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The Committee shall meet at such times and shall observe such rule of procedure in regard to the transaction of business at its meetings, as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>A child in need of care and protection may be produced before an individual member of being placed in safe custody or otherwise when the Committee is not in session.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <p>In the event of any difference of opinion among the members of the Committee at the time of any interim decision, the opinion of the majority shall prevail but where there is no such majority the opinion of the Chairperson shall prevail.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (1), the Committee may, act, notwithstanding the absence of any member of the Committee, and no order made by the Committee shall be invalid by reason only of the absence of any member during any stage of the proceedings.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Powers of Committee</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <p>The Committee shall have the final authority to dispose of cases for the care, protection, treatment, development and rehabilitation of the children as well as to provide for their basic needs and protection of human rights.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a Committee has been constituted for any area, such Committee shall, notwithstanding anything contained in any other law for the time being in force but save as otherwise expressly provided in the Act, have the power to deal exclusively with all proceedings under the Act relating to children in need of care and protection.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Production before Committee</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-33.1.list1">
+                <listIntroduction>Any child in need of care and protection may be produced before the Committee by one of the following person:-</listIntroduction>
+                <item id="section-33.1.list1.i">
+                  <num>(i)</num>
+                  <p>any police officer or special juvenile police unit or a designated police officer;</p>
+                </item>
+                <item id="section-33.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>any public servant;</p>
+                </item>
+                <item id="section-33.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>a registered voluntary organisation or by such other voluntary organisation or an agency as may be recognized by the Government;</p>
+                </item>
+                <item id="section-33.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>any social worker or a public spirited citizen; or</p>
+                </item>
+                <item id="section-33.1.list1.v">
+                  <num>(v)</num>
+                  <p>by the child himself:</p>
+                </item>
+              </blockList>
+              <p>Provided that the child shall be produced before the Committee without any loss of time but within a period of twenty-four hours excluding the time necessary for the journey.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>The Government may make rules consistent with the Act to provide for the manner of making the report to the Committee and the manner of sending and entrusting the child to children's home pending the inquiry.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Inquiry</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>On receipt of a report under section 33, the Committee shall hold an inquiry in the prescribed manner and the Committee, on its own or on the report from any person or agency as mentioned in sub-section (1) of section 33, may pass an order to send the child to the children's home for speedy inquiry by a social worker or child welfare officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The inquiry under this section shall be completed within four months of the receipt of the order or within such shorter period as may be fixed by the Committee;</p>
+              <p>Provided that the time for the submission of the inquiry report may be extended by such period as the Committee may, having regarded to the circumstances and for the reason recorded in writing, determine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.3">
+            <num>(3)</num>
+            <content>
+              <p>The Government shall review the pendency of cases of the Committee at every six months, and shall direct the Committee to increase the frequency of its sitting or may cause the constitution of additional Committees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.4">
+            <num>(4)</num>
+            <content>
+              <p>After the completion of the inquiry, if the Committee is of the opinion that the said child has no family or ostensible support or is in continued need of care and protection, it may allow the child to remain in the children's home or shelter home till suitable rehabilitation is found for him or till he attains the age of eighteen years.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Children's homes</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may establish and maintain either by itself or in association with voluntary organisation, children's home, in every district or group of districts or each division of the State, and the case may be, for the reception of child in need of care and protection during the pendency of any inquiry and subsequently for their care, treatment, education, training, development and rehabilitation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>The Government may, by rules made under the Act, provide for the management of children's homes including the standards and the nature of service to be provided by them, and the circumstances under which, and the manner in which, the certification of a children's home or recognition to a voluntary organisation may be granted or withdrawn.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.3">
+            <num>(3)</num>
+            <content>
+              <p>Without prejudice to anything contained in any other law for the time being in force, all institutions, whether Government run or those run by voluntary organizations' for children in need of care and protection shall, within a period of six months from the date of commencement of the Act, be registered under the Act in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Inspection</heading>
+          <subsection id="section-36.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may appoint Inspection Committees for the children's homes (hereinafter referred to as the Inspection Committee) for the State or a Division or a District, as the case may be, for such period and for such purposes as may be prescribe.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.2">
+            <num>(2)</num>
+            <content>
+              <p>The Inspection Committee of the State or a District shall consist of such number of representatives from the Government, Committee, voluntary organizations' and such other medical experts and social workers as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Social auditing</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>The Government may monitor and evaluate the functioning of the children's homes at such period and through such persons and institutions as may be specified by the Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Shelter homes</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may recognise, reputed and capable voluntary organizations' and provide them assistance to set up and administer as many shelter homes for juveniles or children as may be required,</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>The shelter homes referred in sub-section (1) shall function as drop-in centers for the children in the need of urgent support who have been brought to such homes through such person as are referred to in sub-section (1) of the section 33.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.3">
+            <num>(3)</num>
+            <content>
+              <p>As far as possible, the shelter home shall have such facilities as may be prescribed by the rules.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Transfer</heading>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>If during the inquiry it if found that the child hails from the place outside the jurisdiction of the Committee, the Committee shall order the transfer of the child to the competent authority having jurisdiction over the place of residence of the child.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <p>Such juvenile or the child shall be escorted by the staff of the home in which he is lodged originally.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.3">
+            <num>(3)</num>
+            <content>
+              <p>The Government may make rules to provide for the travelling allowance to be paid to the child.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Restoration</heading>
+          <subsection id="section-40.1">
+            <num>(1)</num>
+            <content>
+              <p>Restoration of and protection to a child shall be the prime objective of any children's home or the shelter home.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.2">
+            <num>(2)</num>
+            <content>
+              <p>The children's home or a shelter home, as the case may be, shall take such steps as are considered necessary for the restoration of and protection to a child deprived of this family environment temporarily or permanently where such child is under the care and protection of a children's home or a shelter home, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.3">
+            <num>(3)</num>
+            <content>
+              <p>The Committed shall have the powers to restore any child in need of care and protection to his parent, guardian, fir person or fir institution, as the case may be, and give item suitable directions.</p>
+              <blockList id="section-40.3.list2">
+                <listIntroduction>Explanation: For the purpose of this section "restoration of and protection of a child" means restoration to-</listIntroduction>
+                <item id="section-40.3.list2.a">
+                  <num>(a)</num>
+                  <p>parents;</p>
+                </item>
+                <item id="section-40.3.list2.b">
+                  <num>(b)</num>
+                  <p>guardian;</p>
+                </item>
+                <item id="section-40.3.list2.c">
+                  <num>(c)</num>
+                  <p>fit person;</p>
+                </item>
+                <item id="section-40.3.list2.d">
+                  <num>(d)</num>
+                  <p>fit institution.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Rehabilitation and social reintegration</heading>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Process of rehabilitation and social reintegration</heading>
+          <paragraph id="section-41.paragraph-0">
+            <content>
+              <p>The rehabilitation and social reintegration of a child shall begin during the stay of the child in a children's home or special home and the rehabilitation and social reintegration of children shall be carried out alternatively by sponsorship and sending the child to an after-care organisation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Sponsorship</heading>
+          <subsection id="section-42.1">
+            <num>(1)</num>
+            <content>
+              <p>The Sponsorship programme may provide supplementary support to families, to children's homes and to special homes to meet medical, nutritional, educational and other needs of the children with a view to improving their quality of life.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.2">
+            <num>(2)</num>
+            <content>
+              <p>The Government may make rules for the purposes of carrying out various schemes of sponsorship of children, such as individual to individual sponsorship, group sponsorship or community sponsorship.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>After-care organisation</heading>
+          <paragraph id="section-43.paragraph-0">
+            <content>
+              <blockList id="section-43.paragraph-0.list1">
+                <listIntroduction>The Government may, by rules made under the Act, provide-</listIntroduction>
+                <item id="section-43.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>for the establishment or recognition of after-care organizations' and the functions that may be performed by them under the Act;</p>
+                </item>
+                <item id="section-43.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>for a scheme of after-care programme to de followed by such after-care organizations' for the purpose of taking care of juveniles or the children after they leave special home, children's homes and for the purpose of enabling them to lead an honest, industries and useful life;</p>
+                </item>
+                <item id="section-43.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>for the preparation or submission of a report by the probation officer or any other officer appointed by the Government in respect of each juvenile or the child prior to his discharge from a special home, children's home, regarding the necessity and nature of after-care, supervision thereof and for the submission of report by the probation officer or any other officer appointed for the purpose, on the progress of each juvenile or the child;</p>
+                </item>
+                <item id="section-43.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>for the standards and the nature of services to be maintained by such after-care organizations';</p>
+                </item>
+                <item id="section-43.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>for such other matters as may be necessary for the purpose of carrying out the scheme of after-care programme for the juvenile or the child:</p>
+                </item>
+              </blockList>
+              <p>Provided that any rule made under this section shall not provide for such juvenile or child to stay in the after-care organisation for more than three years:</p>
+              <p>Provided, further that a juvenile or child over seventeen years of age but less than eighteen years of age would stay in the after-care organisation till he attains the age of twenty years.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Linkages and co-ordination</heading>
+          <paragraph id="section-44.paragraph-0">
+            <content>
+              <p>The Government may make rules to ensure effective linkages between various governmental, nongovernmental, corporate and other community agencies for facilitating the rehabilitation and social reintegration of the child.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Attendance of parent or guardian of juvenile or child</heading>
+          <paragraph id="section-45.paragraph-0">
+            <content>
+              <p>Any competent authority before which a juvenile or the child is brought under any of the provisions of the Act, may, whenever it so thinks fit, require any parent or guardian having the actual charge of a control over the juvenile or the child to be present at any proceeding in respect of the juvenile or the child to be present at any proceeding in respect of the juvenile or the child.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Dispensing with attendance of juvenile or child</heading>
+          <paragraph id="section-46.paragraph-0">
+            <content>
+              <p>If, at any stage during the course of an inquiry, a competent authority is satisfied that the attendance of the juvenile or the child is not essential for the purpose of inquiry, the competent authority may dispense with his attendance and proceed with the inquiry in the absence of the juvenile or the child.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Committal to approved place of juvenile or child suffering from dangerous diseases and his future disposal</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>When a juvenile or the child who has been brought before a competent authority under the Act, is found to be suffering from a disease requiring prolonged medical treatment or physical or mental complaint that will respond to treatment;, the competent authority may send the juvenile or the child to any place recognized to be an approved place in accordance with the rules made under the Act for such period as it may think necessary for the required treatment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a juvenile or the child is found to be suffering from leprosy, sexually transmitted disease, Hepatitis B, open cases of Tuberculosis and such disease or is of unsound mind, he shall be dealt with separately through various specialized referral services or under the relevant laws as such.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Presumption and determination of age</heading>
+          <subsection id="section-48.1">
+            <num>(1)</num>
+            <content>
+              <p>Where it appears to a competent authority that person brought before it under any of the provisions of the Act (otherwise than for the purpose of giving evidence) is a juvenile or the child, the competent authority shall make due inquiry so as to the age of that person and for that purpose shall take such evidence as may be necessary (but not an affidavit) and shall record a finding whether the person is juvenile or the child or not, stating his age as nearly as may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-48.2">
+            <num>(2)</num>
+            <content>
+              <p>No order of a competent authority shall be deemed to have become invalid merely by any subsequent proof that the person in respect of whom the order has been made is not a juvenile or the child, and the age recorded by the competent authority to be the age of person so brought before it, shall for the purpose of the Act, be deemed to be the true age of that person.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Sending a juvenile or child outside jurisdiction</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <p>In the case of a juvenile or the child, whose ordinary place of residence lies outside the jurisdiction of a competent authority, before which he is brought, the competent authority may, if satisfied after due inquiry that it is expedient so to do, send the juvenile or the child back to a relative or other person who is fit and willing to receive him at his ordinary place of residence and exercise proper care and control over him, notwithstanding that such place of residence is outside the jurisdiction of the competent authority; and the competent authority exercising jurisdiction over the place to which the juvenile or the child is sent shall in respect of any matter arising subsequently have the same powers in relation to the juvenile or the child as if the original order had been passed by itself.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Reports to be treated as confidential</heading>
+          <paragraph id="section-50.paragraph-0">
+            <content>
+              <p>The report of the probation officer or social worker considered by the competent authority shall be treated as confidential:</p>
+              <p>Provided that the competent authority may, if it so thinks fit,, communicate the substance thereof to the justice or the child or his parent or guardian and may give such juvenile or the child, parent or guardian an opportunity of producing such evidence as may be relevant to the order stated in the report.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Appeals</heading>
+          <subsection id="section-51.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this section, any person aggrieved by any order made by a competent authority under the Act may, within thirty days from the date of such order, prefer an appeal to the Court of Session;</p>
+              <p>Provided, that the Court of Session may entertain the appeal after the expiry of said period of thirty days, if it is satisfies that the appellant was prevented by sufficient cause from filling the appeal in time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-51.2.list1">
+                <listIntroduction>No appeal shall lie from-</listIntroduction>
+                <item id="section-51.2.list1.a">
+                  <num>(a)</num>
+                  <p>any order of acquittal made by the Board in respect of a juvenile alleged to have committed an offence; or</p>
+                </item>
+                <item id="section-51.2.list1.b">
+                  <num>(b)</num>
+                  <p>any order made by a Committee is respect of a finding that a person is not a neglected juvenile.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-51.3">
+            <num>(3)</num>
+            <content>
+              <p>No second appeal shall lie from any order of the Court of Session passed in appeal under this section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Revision</heading>
+          <paragraph id="section-52.paragraph-0">
+            <content>
+              <p>The High Court may, at any time, either of its own motion or on an application received in this behalf, call for the record of any proceeding in which any competent authority or Court of Session has passed an order for the purpose of satisfying itself as to the legality or propriety of any such order and may pass such order in relation thereto as it thinks fit:</p>
+              <p>Provided that he High Court shall not pass an order under this section prejudicial to any person without giving him a reasonable opportunity of being heard.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Procedure in inquires, appeals and revision proceedings</heading>
+          <subsection id="section-53.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as otherwise expressly provided by the Act, a competent authority while holding any inquiry under any of the provisions of the Act, shall follow such procedure as may be prescribed and subject thereto, shall follow, as far as may be, the procedure laid down in the Code of Criminal Procedure, Samvat 1989 for trails in summons cases.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.2">
+            <num>(2)</num>
+            <content>
+              <p>. Save as otherwise expressly provided by or under the Act. The procedure to be followed in hearing appeals or revision proceedings under the Act shall be, as far as practicable, in accordance with the provision of the Code of Criminal Procedure, Samvat 1989.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Power to amend orders</heading>
+          <subsection id="section-54.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the provisions for appeal and revision under the Act, and competent authority may, or an application received in this behalf, amend any order as to be the institution to which a juvenile or the child is to be sent or as to the person under whose care or supervision a juvenile or the child is to be placed under the Act:</p>
+              <p>Provided, that there shall be at least two members and the parties or its defence during the course of hearing for passing an amendment in relation to any of its order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-54.2">
+            <num>(2)</num>
+            <content>
+              <p>Clerical mistake in orders passed by a competent authority or errors arising therein from any accidental slip or omission may, at any time, be corrected by the competent authority either on its own motion or on an application received in this behalf.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Power of competent authority to discharge and transfer juvenile or child</heading>
+          <paragraph id="section-55.paragraph-0">
+            <content>
+              <p>The competent authority may, notwithstanding anything contained in the Act, at any time, order a child in need of care and protection or a juvenile in conflict with law to be discharged or transferred from one children's home or special home to another, as the case may be, keeping in view the best interest of the child or the juvenile, and his natural place of stay, either absolutely or on such conditions as it may think fit to impose:</p>
+              <p>Provided that the total period of stay of the juvenile or the child in a children's home or a special home or a fit institution or under a fit person shall not be increased by such transfer.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-56">
+          <num>56.</num>
+          <heading>Transfer of juvenile or child as are mentally ill or addicted to alcohol or drugs</heading>
+          <subsection id="section-56.1">
+            <num>(1)</num>
+            <content>
+              <p>Where it appears to the competent authority that any juvenile or child kept in a special home or an observation home or a children's home or a shelter home or in an institution in pursuance of the Act, is a mentally ill person or addicted to alcohol or other drugs which lead to behavioural changes in a person, the competent authority may order his removal to a psychiatric hospital or psychiatric nursing home in accordance with the provisions of the Mental Health Act, 1987 (Central Act No. 14 of 1987) or the rule made there under.</p>
+            </content>
+          </subsection>
+          <subsection id="section-56.2">
+            <num>(2)</num>
+            <content>
+              <p>In case the juvenile or child had been removed to a psychiatric hospital or psychiatric nursing home under sub-section (1), the competent authority may, on the basis of the advice given in the certificate of discharge of the psychiatric hospital or psychiatric nursing home, order to remove such juvenile or child to an Integrated Rehabilitation Centre for Addicts or similar centres maintained by the State Government for mentally ill persons (including the persons addicted to any narcotic drug or psychotropic substance) and such removal shall be only for the period required for the inpatient treatment of such juvenile or child.</p>
+              <blockList id="section-56.2.list2">
+                <listIntroduction>Explanation: For the purposes of this sub-section,-</listIntroduction>
+                <item id="section-56.2.list2.a">
+                  <num>(a)</num>
+                  <p>"Integrated Rehabilitation Centre for Addicts" shall have the meaning assigned to it under the scheme called "Central Sector Scheme of Assistance for Prevention of Alcoholism and Substance (Drugs) Abuse and for Social Defence Services" made by the Government of India in the Ministry of Social Justice and Empowerment or any other corresponding scheme for the time being in force;</p>
+                </item>
+                <item id="section-56.2.list2.b">
+                  <num>(b)</num>
+                  <p>"mentally ill person" shall have the meaning assigned to it in clause (1) of section 2 of the Mental Health Act, 1987;</p>
+                </item>
+                <item id="section-56.2.list2.c">
+                  <num>(c)</num>
+                  <p>"Psychiatric hospital" or "psychiatric nursing home" shall have the meaning assigned to in the clause (q) of section 2 of the Mental Health Act, 1987.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-57">
+          <num>57.</num>
+          <heading>Release and absence of juvenile or child on placement</heading>
+          <subsection id="section-57.1">
+            <num>(1)</num>
+            <content>
+              <p>When a juvenile or the child is kept in a children's home or special home and on a report of a probation officer or social worker or of Government or a voluntary organisation, as the case may be, the competent authority may consider, the release of such juvenile or the child permitting him to live with his parent or guardian or under the supervision of any authorized person named in the order, willing to receive and take charge of the juvenile or the child to educate and train him for some useful trade or calling or to look after him for rehabilitation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-57.2">
+            <num>(2)</num>
+            <content>
+              <p>The competent authority may also permit leave of absence to any juvenile or the child, to allow him, on special occasions like examination, marriage or relatives, death of kith and kin or the accident or serious illness of parent or any emergency of like nature, to go on leave under supervision, for a period generally not exceeding seven days, excluding the time taken in journey.</p>
+            </content>
+          </subsection>
+          <subsection id="section-57.3">
+            <num>(3)</num>
+            <content>
+              <p>Where permission has been revoked or forfeited and the juvenile to which he was directed so to return, the Board may, if necessary, cause him to be taken charge of and to be taken back to the concerned home.</p>
+            </content>
+          </subsection>
+          <subsection id="section-57.4">
+            <num>(4)</num>
+            <content>
+              <p>The time during which a juvenile or the child is absent from a concerned home in pursuance of such permission granted under this section shall be deemed to be part of the time foe which he is liable to be kept in the special home:</p>
+              <p>Provided that when a juvenile has failed to return to the special home on the permission being revoked or forfeited, the time which lapses after his failure so to return shall be excluded in computing the time during which he is liable to be kept in the institution.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-58">
+          <num>58.</num>
+          <heading>Contribution by parents</heading>
+          <subsection id="section-58.1">
+            <num>(1)</num>
+            <content>
+              <p>The competent authority which makes an order for sending a juvenile or the child to a children's home or to a special home or placing the juvenile under the care of a fit person or fit institution may make an order requiring the parent or other person liable to maintain the juvenile or the child to contribute to his maintenance, if able to do so, in the prescribed manner according to income.</p>
+            </content>
+          </subsection>
+          <subsection id="section-58.2">
+            <num>(2)</num>
+            <content>
+              <p>The competent authority may direct, if necessary, the payment to be made to poor parent or guardian by the Superintendent or the Project Manager of the home to pay such expenses for the journey of the inmate or parent or guardian or both, form the home to his ordinary place of residence at the time of sending the juvenile as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-59">
+          <num>59.</num>
+          <heading>Fund</heading>
+          <subsection id="section-59.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may create a Fund under such name as it thinks fit for the welfare and rehabilitation of the juvenile or the child dealt with under the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.2">
+            <num>(2)</num>
+            <content>
+              <p>There shall be credited to the Fund such voluntary donations, contribution or subscriptions as may be made by any individual or organisation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.3">
+            <num>(3)</num>
+            <content>
+              <p>The fund created under sub-section (1) shall be administered by the advisory board in such manner and for such purposes as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-60">
+          <num>60.</num>
+          <heading>Advisory Board</heading>
+          <subsection id="section-60.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may constitute an Advisory Board to advice the Government on matters relating to the establishment and maintenance of the homes, mobilization of resources provision of facilities for education, training and rehabilitation of child in need of care and protection and juvenile in conflict with law and co-ordination among the various official and non-official agencies concerned.</p>
+            </content>
+          </subsection>
+          <subsection id="section-60.2">
+            <num>(2)</num>
+            <content>
+              <p>The Advisory Board shall consist of such persons as the Government may think fit and shall include eminent social workers, representatives of voluntary organizations' in the field of the child welfare, corporate sector, academicians, medical professionals and the representative of the Social Welfare Department of the Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-60.3">
+            <num>(3)</num>
+            <content>
+              <p>The District Level Inspection Committee constituted under section 36 of the Act shall also function as the District Advisory Board.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-61">
+          <num>61.</num>
+          <heading>Constitution of Child Protection Unit responsible for implementation of the Act</heading>
+          <paragraph id="section-61.paragraph-0">
+            <content>
+              <p>The Government shall constitute a Child Protection Unit for the State consisting of such officers and other employees as may be appointed by that Government, to take up matters relating to children in need of care and protection and juveniles in conflict with law with a view to ensure the implementation of the Act including the establishment and maintenance of homes, notification of competent authorities in relation to these children and their rehabilitation and co-ordination with various official and non-official agencies concerned.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-62">
+          <num>62.</num>
+          <heading>Special juvenile police unit</heading>
+          <subsection id="section-62.1">
+            <num>(1)</num>
+            <content>
+              <p>In order to enable the police officers who frequently or exclusively deal with juveniles or are primarily engaged in the prevention of juvenile crime or handling of the juveniles or children under the Act to perform their functions more effectively, they shall be specially instructed and trained.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.2">
+            <num>(2)</num>
+            <content>
+              <p>In every police station at least one officer with aptitude and appropriate training and orientation may be designated as the juvenile or the child welfare officer' who will handle the juvenile or the child in coordination with the police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.3">
+            <num>(3)</num>
+            <content>
+              <p>Special juvenile police unit, of which all police officers designated as above, to handle juveniles or children will be members, may be created in every district to co-ordinate and to upgrade the police treatment of the juveniles and the children.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-63">
+          <num>63.</num>
+          <heading>Juvenile in conflict with law undergoing sentence at commencement of the Act</heading>
+          <paragraph id="section-63.paragraph-0">
+            <content>
+              <p>The Government shall direct that a juvenile in conflict with law who is undergoing any sentence of imprisonment at the commencement of the Act, shall, in lieu of undergoing such sentence, be sent to a special home or kept in fit institution in such manner as the Government thinks fit for the remainder of the period of the sentence; and the provisions of the Act shall apply to the juvenile as if he had been ordered by the Board to be sent to such special home or institution or as the case may be, ordered to be kept under protective care under sub-section (2) of section 17 of the Act:</p>
+              <p>Provided that the Government, or as the case may be the Board, may, for any adequate and special reason to be recorded in writing, review the case of a juvenile in conflict with law undergoing a sentence of imprisonment, who has ceased to be so on or before the commencement of the Act. and pass appropriate order in the interest of such juvenile.</p>
+              <p>Explanation: In all cases where a juvenile in conflict with law is undergoing a sentence of imprisonment at any stage on the date of commencement of the Act, his case including the issue of juvenility, shall be deemed to be decided in terms of clause (m) of section 2 and other provisions contained in the Act and the rules made there under, irrespective of the fact that he ceases to be juvenile on or before such date and accordingly he shall be sent to the special home or a fit institution, as the case may be, for the remainder of the period of the sentence but such sentence shall not in any case exceed the maximum period provided in section 16 of the Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-64">
+          <num>64.</num>
+          <heading>Officers appointed under the Act to be public servants</heading>
+          <paragraph id="section-64.paragraph-0">
+            <content>
+              <p>Probation Officers and other officers appointed in pursuance of the Act shall be deemed to be public servants within the meaning of section 21 of the State Ranbir Public Code, Samvat 1989.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-65">
+          <num>65.</num>
+          <heading>Procedure in respect of bonds</heading>
+          <paragraph id="section-65.paragraph-0">
+            <content>
+              <p>Provisions of Chapter XLII of the Code of Criminal Procedure. Samvat 1989 shall, as far as may be, apply to bonds taken under the Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-66">
+          <num>66.</num>
+          <heading>Delegation of powers</heading>
+          <paragraph id="section-66.paragraph-0">
+            <content>
+              <p>The Government may by the general order, direct that any power exercisable by it under the Act shall, in such circumstances and under such conditions, if any, as may be prescribed in the order, be exercisable also by an officer subordinate to the Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-67">
+          <num>67.</num>
+          <heading>Protection of action taken in good faith</heading>
+          <paragraph id="section-67.paragraph-0">
+            <content>
+              <p>No suit or legal proceedings shall lie against the Government or voluntary organisation running the home or any officer and the staff appointed in pursuance of the Act in respect of anything which is in good faith done or intended to be done in pursuance of the Act or of any rules or order made there under.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-68">
+          <num>68.</num>
+          <heading>Power to make rules</heading>
+          <subsection id="section-68.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may, by notification in the Government Gazette, make rules to carry out the purposes of the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-68.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-68.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+                <item id="section-68.2.list1.i">
+                  <num>(i)</num>
+                  <p>the term of office of the members of the Board, and the manner in which such member may resign under sub-section (4) of section 4;</p>
+                </item>
+                <item id="section-68.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the time of the meetings of the Board and the rules of procedure in regard to the transaction of business at its meeting under sub-section (1) of section 5;</p>
+                </item>
+                <item id="section-68.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>the management of observation homes including the standards and various types of services to be provided by them and the circumstances in which and the manner in which, the certificate of the observation home may be granted or withdrawn and such other matters as are referred to in section 9;</p>
+                </item>
+                <item id="section-68.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>the management of special home including the standards and various types of services to be provided by them and the circumstances in which and the manner in which, the certification of the special home may be granted or withdrawn and such other matters as are referred to be section 10;</p>
+                </item>
+                <item id="section-68.2.list1.v">
+                  <num>(v)</num>
+                  <p>persons by whom any juvenile in conflict with law may be produced before the Board and the manner of sending such juvenile to an observation home under sub-section (2) of section 11;</p>
+                </item>
+                <item id="section-68.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>matters relating to removal of disqualifications attaching to conviction of a juvenile under section 20;</p>
+                </item>
+                <item id="section-68.2.list1.vii">
+                  <num>(vii)</num>
+                  <p>the qualifications of the Chairperson and members, and the tenure for which they may be appointed under sub-section (3) of section 30;</p>
+                </item>
+                <item id="section-68.2.list1.viii">
+                  <num>(viii)</num>
+                  <p>the time of the meetings of the Committee and the rules of procedure in regard the transaction of business at its meeting under sub-section (1) of section 31:</p>
+                </item>
+                <item id="section-68.2.list1.ix">
+                  <num>(ix)</num>
+                  <p>the manner of making the report to the police and to the Committee and the manner of sending and entrusting the child to children's home pending the inquiry under sub-section (2) of section 33;</p>
+                </item>
+                <item id="section-68.2.list1.x">
+                  <num>(x)</num>
+                  <p>the management of children's homes including the standards and nature of services to be provided by them, and the manner in which certification of a children's home or recognition to a voluntary organisation may be granted or withdrawn and the manner of registration of institutions under section 35;</p>
+                </item>
+                <item id="section-68.2.list1.xi">
+                  <num>(xi)</num>
+                  <p>appointment of Inspection Committee for children's homes, their tenure and purposes for which Inspection Committee may be appointed and such other matter as are referred to in section 36;</p>
+                </item>
+                <item id="section-68.2.list1.xii">
+                  <num>(xii)</num>
+                  <p>facilities to be provided by the shelter homes under sub-section (3) of section 38;</p>
+                </item>
+                <item id="section-68.2.list1.xiii">
+                  <num>(xiii)</num>
+                  <p>for carrying out various schemes of sponsorship of children under sub-section (2) of section 42;</p>
+                </item>
+                <item id="section-68.2.list1.xiv">
+                  <num>(xiv)</num>
+                  <p>matters relating to after-care organisation under section 43;</p>
+                </item>
+                <item id="section-68.2.list1.xv">
+                  <num>(xv)</num>
+                  <p>for ensuring effective linkages between various agencies for facilitating rehabilitation and social integration of the child under section 44;</p>
+                </item>
+                <item id="section-68.2.list1.xvi">
+                  <num>(xvi)</num>
+                  <p>the purposes and the manner in which the Fund shall be administered under sub-section (3) of section 59;</p>
+                </item>
+                <item id="section-68.2.list1.xvii">
+                  <num>(xvii)</num>
+                  <p>Any other matter which is required to be or may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-69">
+          <num>69.</num>
+          <heading>Repeal and savings</heading>
+          <subsection id="section-69.1">
+            <num>(1)</num>
+            <content>
+              <p>The Jammu and Kashmir Juvenile Justice Act, 1997 (Act No. VIII of 1997) is hereby repeated.</p>
+            </content>
+          </subsection>
+          <subsection id="section-69.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Act shall be deemed to have been done or taken under the corresponding provisions of the Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-70">
+          <num>70.</num>
+          <heading>Power to remove difficulties</heading>
+          <subsection id="section-70.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of the Act, the Government may by order, not inconsistent with the provisions of the Act, remove the difficulty:</p>
+              <p>Provided, that no such order shall be made after the expiry of the period of two years from the commencement of the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-70.2">
+            <num>(2)</num>
+            <content>
+              <p>Any order made under sub-section (1) shall be laid, as soon as may be after it is made, before each House of the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

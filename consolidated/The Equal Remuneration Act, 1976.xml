@@ -1,0 +1,581 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1976/25/main"/>
+          <FRBRuri value="/in-union/act/1976/25"/>
+          <FRBRalias value="The Equal Remuneration Act, 1976"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1976/25/eng@1976-02-11/main"/>
+          <FRBRuri value="/in-union/act/1976/25/eng@1976-02-11"/>
+          <FRBRdate date="1976-02-11" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1976/25/eng@1976-02-11/main"/>
+          <FRBRuri value="/in-union/act/1976/25/eng@1976-02-11"/>
+          <FRBRdate date="2017-04-05" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Equal Remuneration Act, 1976</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[11th February, 1976]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 25 of 1976</p>
+        <p>An Act to provide for the payment of equal remuneration to men and women workers and for the prevention of discrimination, on the ground of sex, against women in the matter of employment and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Twenty-seventh year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Equal Remuneration Act, 1976.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date*, not being later than three years from the passing of this Act, as the Central Government may, by notification, appoint and different dates may be appointed for different establishments or employments.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-2.paragraph-0.list1.a.list0">
+                    <listIntroduction>“appropriate Government” means,—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>in relation to any employment carried on by or under the authority of the Central Government or a railway administration, or in relation to a banking company, a mine, oilfield or major port or any corporation established by or under a Central Act, the Central Government, and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>in relation to any other employment, the State Government;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“commencement of this Act” means, in relation to an establishment or employment, the date on which this Act comes into force in respect of that establishment or employment;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“employer” has the meaning assigned to it in clause (f) of section 2 of the Payment of Gratuity Act, 1972 (39 of 1972);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“man” and “woman” means male and female human beings, respectively, of any age;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“notification” means a notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“remuneration” means the basic wage or salary, and any additional emoluments whatsoever payable, either in cash or in kind, to a person employed in respect of employment or work done in such employment, if the terms of the contract of employment, express or implied, were fulfilled;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“same work or work of a similar nature” means work in respect of which the skill, effort and responsibility required are the same, when performed under similar working conditions, by a man or a woman and the differences, if any, between the skill, effort and responsibility required of a man and those required of a woman are not of practical importance in relation to the terms and conditions of employment;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“worker” means a worker in any establishment or employment in respect of which this Act has come into force;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>words and expressions used in this Act and not defined but defined in the Industrial Disputes Act, 1947 (14 of 1947), shall have the meanings respectively assigned to them in that Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Act to have over riding effect.—</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law or in the terms of any award, agreement or contract of service, whether made before or after the commencement of this Act, or in any instrument having effect under any law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Payment of Remuneration at Equal Rates to Men and Women Workers and other Matters</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Duty of employer to pay equal remuneration to men and women workers for same work or work of a similar nature.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>No employer shall pay to any worker, employed by him in an establishment or employment, remuneration, whether payable in cash or in kind, at rates less favourable than those at which remuneration is paid by him to the workers of the opposite sex in such establishment or employment for performing the same work or work of a similar nature.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>No employer shall, for the purpose of complying with the provisions of sub-section (1), reduce the rate of remuneration of any worker.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>Where, in an establishment or employment, the rates of remuneration payable before the commencement of this Act for men and women workers for the same work or work of a similar nature are different only on the ground of sex, then the higher (in cases where there are only two rates), or, as the case may be, the highest (in cases where there are more than two rates), of such rates shall be the rate at which remuneration shall be payable, on and from such commencement to such men and women workers:</p>
+              <p>Provided that nothing in this sub-section shall be deemed to entitle a worker to the revision of the rate of remuneration payable to him or her with reference to the service rendered by him or her before the commencement of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>No discrimination to be made while recruiting men and women workers.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>On and from the commencement of this Act, no employer shall while making recruitment for the same work or work of a similar nature, or in any condition of service subsequent to recruitment such as promotions, training or transfer, make any discrimination against women except where the employment of women in such work is prohibited or restricted by or under any law for the time being in force:</p>
+              <p>Provided that the provisions of this section shall not affect any priority or reservation for Scheduled Castes or Scheduled Tribes, ex-servicemen, retrenched employees or any other class or category of persons in the matter of recruitment to the posts in an establishment or employment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Advisory Committee.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of providing increasing employment opportunities for women, the appropriate Government shall constitute one or more Advisory Committees to advise it with regard to the extent to which women may be employed in such establishments or employments as the Central Government may, by notification, specify in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Every Advisory Committee shall consist of not less than ten persons, to be nominated by the appropriate Government, of which one-half shall be women.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>In tendering its advice, the Advisory Committee shall have regard to the number of women employed in the concerned establishment or employment, the nature of work, hours of work, suitability of women for employment, as the case may be, the need for providing increasing employment opportunities for women, including part-time employment, and such other relevant factors as the Committee may think fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>The Advisory Committee shall regulate its own procedure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>The appropriate Government may, after considering the advice tendered to it by the Advisory Committee and after giving to the persons concerned in the establishment or employment an opportunity to make representations, issue such directions in respect of employment of women workers, as the appropriate Government may think fit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Power of appropriate Government to appoint authorities for hearing and deciding claims and complaints.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-7.1.list1">
+                <listIntroduction>The appropriate Government may, by notification, appoint such officers, not below the rank of a Labour Officer, as it thinks fit to be the authorities for the purpose of hearing and deciding—</listIntroduction>
+                <item id="section-7.1.list1.a">
+                  <num>(a)</num>
+                  <p>Complaints with regard to the contravention of any provision of this Act;</p>
+                </item>
+                <item id="section-7.1.list1.b">
+                  <num>(b)</num>
+                  <p>claims arising out of non-payment of wages at equal rates to men and women workers for the same work or work of a similar nature,</p>
+                </item>
+              </blockList>
+              <p>and may, by the same or subsequent notification, define the local limits within which each such authority shall exercise its jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>Every complaint or claim referred to in sub-section (1) shall be made in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>If any question arises as to whether two or more works are of the same nature or of a similar nature, it shall be decided by the authority appointed under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-7.4.list1">
+                <listIntroduction>Where a complaint or claim is made to the authority appointed under sub-section (1), it may, after giving the applicant and the employer an opportunity of being heard, and after such inquiry as it may consider necessary, direct,—</listIntroduction>
+                <item id="section-7.4.list1.i">
+                  <num>(i)</num>
+                  <p>in the case of a claim arising out of non-payment of wages at equal rates to men and women workers for the same work or work of a similar nature, that payment be made to the worker of the amount by which the wages payable to him exceed the amount actually paid;</p>
+                </item>
+                <item id="section-7.4.list1.ii">
+                  <num>(ii)</num>
+                  <p>in the case of complaint, that adequate steps be taken by the employer so as to ensure that there is no contravention of any provision of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.5">
+            <num>(5)</num>
+            <content>
+              <p>Every authority appointed under sub-section (1) shall have all the powers of a Civil Court under the Code of Civil Procedure, 1908 (5 of 1908), for the purpose of taking evidence and of enforcing the attendance of witnesses and compelling the production of documents, and every such authority shall be deemed to be a Civil Court for all the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.6">
+            <num>(6)</num>
+            <content>
+              <p>Any employer or worker aggrieved by any order made by an authority appointed under sub-section (1), on a complaint or claim may, within thirty days from the date of the order, prefer an appeal to such authority as the appropriate Government may, by notification, specify in this behalf, and that authority may, after hearing the appeal, confirm, modify or reverse the order appealed against and no further appeal shall lie against the order made by such authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.7">
+            <num>(7)</num>
+            <content>
+              <p>The authority referred to in sub-section (6) may, if it is satisfied that the appellant was prevented by sufficient cause from preferring the appeal within the period specified in sub-section (6), allow the appeal to be preferred within a further period of thirty days but not thereafter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.8">
+            <num>(8)</num>
+            <content>
+              <p>The provisions of sub-section (1) of section 33C of the Industrial Disputes Act, 1947 (14 of 1947), shall apply for the recovery of monies due from an employer arising out of the decision of an authority appointed under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Duty of employers to maintain registers.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>On and from the commencement of this Act, every employer shall maintain such registers and other documents in relation to the workers employed by him as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Inspectors.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>The appropriate Government may, by notification, appoint such persons as it may think fit to be Inspectors for the purpose of making an investigation as to whether the provisions of this Act, or the rules made thereunder, are being complied with by employers, and may define the local limits within which an Inspector may make such investigation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>Every Inspector shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-9.3.list1">
+                <listIntroduction>An Inspector may, at any place within the local limits of his jurisdiction,—</listIntroduction>
+                <item id="section-9.3.list1.a">
+                  <num>(a)</num>
+                  <p>enter, at any reasonable time, with such assistance as he thinks fit, any building, factory, premises or vessel;</p>
+                </item>
+                <item id="section-9.3.list1.b">
+                  <num>(b)</num>
+                  <p>require any employer to produce any register, muster-roll or other documents relating to the employment of workers, and examine such documents;</p>
+                </item>
+                <item id="section-9.3.list1.c">
+                  <num>(c)</num>
+                  <p>take, on the spot or otherwise, the evidence of any person for the purpose of ascertaining whether the provisions of this Act are being, or have been, complied with;</p>
+                </item>
+                <item id="section-9.3.list1.d">
+                  <num>(d)</num>
+                  <p>examine the employer, his agent or servant or any other person found in charge of the establishment or any premises connected therewith or any person whom the Inspector has reasonable cause to believe to be, or to have been a worker in the establishment;</p>
+                </item>
+                <item id="section-9.3.list1.e">
+                  <num>(e)</num>
+                  <p>make copies, or take extracts from, any register or other document maintained in relation to the establishment under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-9.4">
+            <num>(4)</num>
+            <content>
+              <p>Any person required by an Inspector to produce any register or other document or to give any information shall comply with such requisition.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Penalties.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-10.1.list1">
+                <listIntroduction>If after the commencement of this Act, any employer, being required by or under the Act, so to do—</listIntroduction>
+                <item id="section-10.1.list1.a">
+                  <num>(a)</num>
+                  <p>omits or fails to maintain any register or other document in relation to workers employed by him, or</p>
+                </item>
+                <item id="section-10.1.list1.b">
+                  <num>(b)</num>
+                  <p>omits or fails to produce any register, muster-roll or other document relating to the employment of workers, or</p>
+                </item>
+                <item id="section-10.1.list1.c">
+                  <num>(c)</num>
+                  <p>omits or refuses to give any evidence or prevents his agent, servant, or any other person in charge of the establishment, or any worker, from giving evidence, or</p>
+                </item>
+                <item id="section-10.1.list1.d">
+                  <num>(d)</num>
+                  <p>omits or refuses to give any information,</p>
+                </item>
+              </blockList>
+              <p>he shall be punishable</p>
+              <p>with simple imprisonment for a term which may extend to one month or with fine which may extend to ten thousand rupees or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-10.2.list1">
+                <listIntroduction>If, after the commencement of this Act, any employer—</listIntroduction>
+                <item id="section-10.2.list1.a">
+                  <num>(a)</num>
+                  <p>makes any recruitment in contravention of the provisions of this Act, or</p>
+                </item>
+                <item id="section-10.2.list1.b">
+                  <num>(b)</num>
+                  <p>makes any payment of remuneration at unequal rates to men and women workers, for the same work or work of a similar nature, or</p>
+                </item>
+                <item id="section-10.2.list1.c">
+                  <num>(c)</num>
+                  <p>makes any discrimination between men and women workers in contravention of the provisions of this Act, or</p>
+                </item>
+                <item id="section-10.2.list1.d">
+                  <num>(d)</num>
+                  <p>omits or fails to carry out any direction made by the appropriate Government under sub-section (5) of section 6,</p>
+                </item>
+              </blockList>
+              <p>he shall be punishable</p>
+              <p>with fine which shall not be less than ten thousand rupees but which may extend to twenty thousand rupees or with imprisonment for a term which shall be not less than three months but which may extend to one year or with both for the first offence, and with imprisonment which may extend to two years for the second and subsequent offences.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>If any person being required so to do, omits or refuses to produce to an Inspector any register or other document or to give any information, he shall be punishable with fine which may extend to five hundred rupees.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Offences by companies.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or, other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-11.2.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-11.2.list3.a">
+                  <num>(a)</num>
+                  <p>“company” means any body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-11.2.list3.b">
+                  <num>(b)</num>
+                  <p>“director”, in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Cognizance and trial of offences.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>No court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-12.2.list1">
+                <listIntroduction>No court shall take cognizance of an offence punishable under this Act except upon—</listIntroduction>
+                <item id="section-12.2.list1.a">
+                  <num>(a)</num>
+                  <p>its own knowledge or upon a complaint made by the appropriate Government or an officer authorised by it in this behalf, or</p>
+                </item>
+                <item id="section-12.2.list1.b">
+                  <num>(b)</num>
+                  <p>a complaint made by the person aggrieved by the offence or by any recognised welfare institution or organisation.</p>
+                </item>
+              </blockList>
+              <p>Explanation.— For the purposes of this sub-section “recognised welfare institution or organisation” means a social welfare institution or organisation recognised in this behalf by the Central or State Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules for carrying out the provisions of this Act.—</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-13.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-13.2.list1.a">
+                  <num>(a)</num>
+                  <p>the manner in which complaint or claim referred to in sub-section (1) of section 7 shall be made;</p>
+                </item>
+                <item id="section-13.2.list1.b">
+                  <num>(b)</num>
+                  <p>registers and other documents which an employer is required under section 8 to maintain in relation to the workers employed by him;</p>
+                </item>
+                <item id="section-13.2.list1.c">
+                  <num>(c)</num>
+                  <p>any other matter which is required to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Power of Central Government to give directions.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>The Central Government may give directions to a State Government as to the carrying into execution of this Act in the State.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Act not to apply in certain special cases.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <blockList id="section-15.paragraph-0.list1">
+                <listIntroduction>Nothing in this Act shall apply—</listIntroduction>
+                <item id="section-15.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to cases affecting the terms and conditions of a woman’s employment in complying with the requirements of any law giving special treatment to women, or</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-15.paragraph-0.list1.b.list0">
+                    <listIntroduction>to any special treatment accorded to women in connection with—</listIntroduction>
+                    <item id="section-15.paragraph-0.list1.b.list0.i">
+                      <num>(i)</num>
+                      <p>the birth or expected birth of a child, or</p>
+                    </item>
+                    <item id="section-15.paragraph-0.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>the terms and conditions relating to retirement, marriage or death or to any provision made in connection with the retirement, marriage or death.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Power to make declaration.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Where the appropriate Government is, on a consideration of all the circumstances of the case, satisfied that the differences in regard to the remuneration, or a particular species of remuneration, of men and women workers in any establishment or employment is based on a factor other than sex, it may, by notification, make a declaration to that effect, and any act of the employer attributable to such a difference shall not be deemed to be a contravention of any provision of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by notification, make any order, not inconsistent with the provisions of this Act, which appears to it to be necessary for the purpose of removing the difficulty:</p>
+              <p>Provided that every such order shall, as soon as may be after it is made, be laid before each House of Parliament.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Repeal and saving.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The Equal Remuneration Ordinance, 1975 is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the Ordinance so repealed (including any notification, nomination, appointment, order or direction made thereunder) shall be deemed to have been done or taken under the corresponding provisions of this Act as if this Act were in force when such thing was done or action was taken.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

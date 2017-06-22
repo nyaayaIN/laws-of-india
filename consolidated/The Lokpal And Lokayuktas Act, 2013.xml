@@ -1,0 +1,2172 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2014/1/main"/>
+          <FRBRuri value="/in-union/act/2014/1"/>
+          <FRBRalias value="The Lokpal And Lokayuktas Act, 2013"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2014/1/eng@2014-01-01/main"/>
+          <FRBRuri value="/in-union/act/2014/1/eng@2014-01-01"/>
+          <FRBRdate date="2014-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2014/1/eng@2014-01-01/main"/>
+          <FRBRuri value="/in-union/act/2014/1/eng@2014-01-01"/>
+          <FRBRdate date="2017-05-09" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Lokpal And Lokayuktas Act, 2013</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 1 OF 2014</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[1st. January, 2014.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to provide for the establishment of a body of Lokpal for the Union and Lokayukta for States to inquire into allegations of corruption against certain public functionaries and for matters connected therewith or incidental thereto.</p>
+        <p>WHEREAS the Constitution of India established a Democratic Republic to ensure justice for all; AND WHEREAS</p>
+        <p>India has ratified the United Nations Convention Against Corruption;</p>
+        <p>AND WHEREAS the Government's commitment to clean and responsive governance has to be reflected in effective bodies to contain and punish acts of corruption;</p>
+        <p>NOW, THEREFORE, it is expedient to enact a law, for more effective implementation of the said Convention and to provide for prompt and fair investigation and prosecution in cases of Corruption.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Sixty-fourth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <part id="part-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent, application and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Lokpal and Lokayuktas Act, 2013.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall apply to public servants in and outside India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.4">
+            <num>(4)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+      </part>
+      <part id="part-II">
+        <num>II</num>
+        <heading>Lokpal for the union</heading>
+      </part>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Definitions</heading>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>"bench" means a bench of the Lokpal;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>"Chairperson" means the Chairperson of the Lokpal;</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <blockList id="section-2.1.list1.c.list0">
+                    <listIntroduction>"competent authority", in relation to—</listIntroduction>
+                    <item id="section-2.1.list1.c.list0.i">
+                      <num>(i)</num>
+                      <blockList id="section-2.1.list1.c.list0.i.list1">
+                        <listIntroduction>the Prime Minister, means the House of the People;</listIntroduction>
+                        <item id="section-2.1.list1.c.list0.i.list1.A">
+                          <num>(A)</num>
+                          <p>in the case of a member of the Council of States, the Chairman of the Council; and</p>
+                        </item>
+                        <item id="section-2.1.list1.c.list0.i.list1.B">
+                          <num>(B)</num>
+                          <blockList id="section-2.1.list1.c.list0.i.list1.B.list0">
+                            <listIntroduction>in the case of a member of the House of the People, the Speaker of the House;</listIntroduction>
+                            <item id="section-2.1.list1.c.list0.i.list1.B.list0.iv">
+                              <num>(iv)</num>
+                              <p>an officer in the Ministry or Department of the Central Government, means the Minister in charge of the Ministry or Department under which the officer is serving;</p>
+                            </item>
+                            <item id="section-2.1.list1.c.list0.i.list1.B.list0.v">
+                              <num>(v)</num>
+                              <p>a chairperson or members of any body or Board or corporation or authority or company or society or autonomous body (by whatever name called) established or constituted under any Act of Parliament or wholly or partly financed by the Central Government or controlled by it, means the Minister in charge of the administrative Ministry of such body or Board or corporation or authority or company or society or autonomous body;</p>
+                            </item>
+                            <item id="section-2.1.list1.c.list0.i.list1.B.list0.vi">
+                              <num>(vi)</num>
+                              <p>an officer of any body or Board or corporation or authority or company or society or autonomous body (by whatever name called) established or constituted under any Act of Parliament or wholly or partly financed by the Central Government or controlled by it, means the head of such body or Board or corporation or authority or company or society or autonomous body;</p>
+                            </item>
+                            <item id="section-2.1.list1.c.list0.i.list1.B.list0.vii">
+                              <num>(vii)</num>
+                              <p>in any other case not falling under sub-clauses (i) to (vi) above, means such Department or authority as the Central Government may, by notification, specify:</p>
+                            </item>
+                            <item id="section-2.1.list1.c.list0.i.list1.B.list0.ii">
+                              <num>(ii)</num>
+                              <p>a member of the Council of Ministers, means the Prime Minister;</p>
+                            </item>
+                            <item id="section-2.1.list1.c.list0.i.list1.B.list0.iii">
+                              <num>(iii)</num>
+                              <p>a member of Parliament other than a Minister, means—</p>
+                            </item>
+                          </blockList>
+                        </item>
+                      </blockList>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-2.1.list3">
+                <listIntroduction>Provided that if any person referred to in sub-clause (v) or sub-clause (vi) is also a member of Parliament, then, the competent authority shall be—</listIntroduction>
+                <item id="section-2.1.list3.A">
+                  <num>(A)</num>
+                  <p>in case such member is a member of the Council of States, the Chairman of the Council; and</p>
+                </item>
+                <item id="section-2.1.list3.B">
+                  <num>(B)</num>
+                  <p>in case such member is a member of the House of the People, the Speaker of the House;</p>
+                </item>
+                <item id="section-2.1.list3.d">
+                  <num>(d)</num>
+                  <p>"Central Vigilance Commission" means the Central Vigilance Commission constituted under sub-section (1) of section 3 of the Central Vigilance Commission Act, 2003 (45 of 2003);</p>
+                </item>
+                <item id="section-2.1.list3.e">
+                  <num>(e)</num>
+                  <p>"complaint" means a complaint, made in such form as may be prescribed, alleging that a public servant has committed an offence punishable under the Prevention of Corruption Act, 1988 (49 of 1988);</p>
+                </item>
+                <item id="section-2.1.list3.f">
+                  <num>(f)</num>
+                  <p>"Delhi Special Police Establishment" means the Delhi Special Police Establishment constituted under sub-section (1) of section 2 of the Delhi Special Police Establishment Act, 1946 (25 of 1946);</p>
+                </item>
+                <item id="section-2.1.list3.g">
+                  <num>(g)</num>
+                  <p>"investigation" means an investigation as defined under clause (h) of section 2 of the Code of Criminal Procedure, 1973 (2 of 1974);</p>
+                </item>
+                <item id="section-2.1.list3.h">
+                  <num>(h)</num>
+                  <p>"Judicial Member" means a Judicial Member of the Lokpal;</p>
+                </item>
+                <item id="section-2.1.list3.i">
+                  <num>(i)</num>
+                  <p>"Lokpal" means the body established under section 3;</p>
+                </item>
+                <item id="section-2.1.list3.j">
+                  <num>(j)</num>
+                  <p>"Member" means a Member of the Lokpal;</p>
+                </item>
+                <item id="section-2.1.list3.k">
+                  <num>(k)</num>
+                  <p>"Minister" means a Union Minister but does not include the Prime Minister;</p>
+                </item>
+                <item id="section-2.1.list3.l">
+                  <num>(l)</num>
+                  <p>"notification" means notification published in the Official Gazette and the expression "notify" shall be construed accordingly;</p>
+                </item>
+                <item id="section-2.1.list3.m">
+                  <num>(m)</num>
+                  <p>"preliminary inquiry" means an inquiry conducted under this Act;</p>
+                </item>
+                <item id="section-2.1.list3.n">
+                  <num>(n)</num>
+                  <p>"prescribed" means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.1.list3.o">
+                  <num>(o)</num>
+                  <p>"public servant" means a person referred to in clauses (a) to (h) of sub-section (1) of section 14 but does not include a public servant in respect of whom the jurisdiction is exercisable by any court or other authority under the Army Act, 1950 (45 of 1950), the Air Force Act, 1950 (46 of 1950), the Navy Act, 1957 (62 of 1957) and the Coast Guard Act, 1978 (30 of 1978) or the procedure is applicable to such public servant under those Acts;</p>
+                </item>
+                <item id="section-2.1.list3.p">
+                  <num>(p)</num>
+                  <p>"regulations" means regulations made under this Act;</p>
+                </item>
+                <item id="section-2.1.list3.q">
+                  <num>(q)</num>
+                  <p>"rules" means rules made under this Act;</p>
+                </item>
+                <item id="section-2.1.list3.r">
+                  <num>(r)</num>
+                  <p>"Schedule" means a Schedule appended to this Act;</p>
+                </item>
+                <item id="section-2.1.list3.s">
+                  <num>(s)</num>
+                  <p>"Special Court" means the court of a Special Judge appointed under sub-section (1) of section 3 of the Prevention of Corruption Act, 1988 (49 of 1988).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>The words and expressions used herein and not defined in this Act but defined in the Prevention of Corruption Act, 1988 (49 of 1988), shall have the meanings respectively assigned to them in that Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.3">
+            <num>(3)</num>
+            <content>
+              <p>Any reference in this Act to any other Act or provision thereof which is not in force in any area to which this Act applies shall be construed to have a reference to the corresponding Act or provision thereof in force in such area.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Establishment of lokpal</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment of Lokpal.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>On and from the commencement of this Act, there shall be established, for the purpose of this Act, a body to be called the "Lokpal".</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-3.2.list1">
+                <listIntroduction>The Lokpal shall consist of—</listIntroduction>
+                <item id="section-3.2.list1.a">
+                  <num>(a)</num>
+                  <p>a Chairperson, who is or has been a Chief Justice of India or is or has been a Judge of the Supreme Court or an eminent person who fulfills the eligibility specified in clause (b) of sub-section (3); and</p>
+                </item>
+                <item id="section-3.2.list1.b">
+                  <num>(b)</num>
+                  <p>such number of Members, not exceeding eight out of whom fifty per cent. shall be Judicial Members:</p>
+                </item>
+              </blockList>
+              <p>Provided that not less than fifty per cent. of the Members of the Lokpal shall be from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities and women.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-3.3.list1">
+                <listIntroduction>A person shall be eligible to be appointed,—</listIntroduction>
+                <item id="section-3.3.list1.a">
+                  <num>(a)</num>
+                  <p>as a Judicial Member if he is or has been a Judge of the Supreme Court or is or has been a Chief Justice of a High Court;</p>
+                </item>
+                <item id="section-3.3.list1.b">
+                  <num>(b)</num>
+                  <p>as a Member other than a Judicial Member, if he is a person of impeccable integrity and outstanding ability having special knowledge and expertise of not less than twenty-five years in the matters relating to anti-corruption policy, public administration, vigilance, finance including insurance and banking, law and management.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-3.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-3.4.list1">
+                <listIntroduction>The Chairperson or a Member shall not be—</listIntroduction>
+                <item id="section-3.4.list1.i">
+                  <num>(i)</num>
+                  <p>a member of Parliament or a member of the Legislature of any State or Union territory;</p>
+                </item>
+                <item id="section-3.4.list1.ii">
+                  <num>(ii)</num>
+                  <p>a person convicted of any offence involving moral turptitude;</p>
+                </item>
+                <item id="section-3.4.list1.iii">
+                  <num>(iii)</num>
+                  <p>a person of less than forty-five years of age, on the date of assuming office as the Chairperson or Member, as the case may be;</p>
+                </item>
+                <item id="section-3.4.list1.iv">
+                  <num>(iv)</num>
+                  <p>a member of any Panchayat or Municipality;</p>
+                </item>
+                <item id="section-3.4.list1.v">
+                  <num>(v)</num>
+                  <p>a person who has been removed or dismissed from the service of the Union or a State,</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.4.list3">
+                <listIntroduction>and shall not hold any office of trust or profit (other than his office as the Chairperson or a Member) or be affiliated with any political party or carry on any business or practise any profession and, accordingly, before he enters upon his office, a person appointed as the Chairperson or a Member, as the case may be, shall, if—</listIntroduction>
+                <item id="section-3.4.list3.a">
+                  <num>(a)</num>
+                  <p>he holds any office of trust or profit, resign from such office; or</p>
+                </item>
+                <item id="section-3.4.list3.b">
+                  <num>(b)</num>
+                  <p>he is carrying on any business, sever his connection with the conduct and management of such business; or</p>
+                </item>
+                <item id="section-3.4.list3.c">
+                  <num>(c)</num>
+                  <p>he is practising any profession, cease to practise such profession.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Appointment of Chairperson and Members on recommendations of Selection Committee.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-4.1.list1">
+                <listIntroduction>The Chairperson and Members shall be appointed by the President after obtaining the recommendations of a Selection Committee consisting of—</listIntroduction>
+                <item id="section-4.1.list1.a">
+                  <num>(a)</num>
+                  <p>the Prime Minister—Chairperson;</p>
+                </item>
+                <item id="section-4.1.list1.b">
+                  <num>(b)</num>
+                  <p>the Speaker of the House of the People—Member;</p>
+                </item>
+                <item id="section-4.1.list1.c">
+                  <num>(c)</num>
+                  <p>the Leader of Opposition in the House of the People—Member;</p>
+                </item>
+                <item id="section-4.1.list1.d">
+                  <num>(d)</num>
+                  <p>the Chief Justice of India or a Judge of the Supreme Court nominated by him—Member;</p>
+                </item>
+                <item id="section-4.1.list1.e">
+                  <num>(e)</num>
+                  <p>one eminent jurist, as recommended by the Chairperson and Members referred to in clauses (a) to (d) above, to be nominated by the President—Member.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>No appointment of a Chairperson or a Member shall be invalid merely by reason of any vacancy in the Selection Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>The Selection Committee shall for the purposes of selecting the Chairperson and Members of the Lokpal and for preparing a panel of persons to be considered for appointment as such, constitute a Search Committee consisting of at least seven persons of standing and having special knowledge and expertise in the matters relating to anti-corruption policy, public administration, vigilance, policy making, finance including insurance and banking, law and management or in any other matter which, in the opinion of the Selection Committee, may be useful in making the selection of the Chairperson and Members of the Lokpal:</p>
+              <p>Provided that not less than fifty per cent. of the members of the Search Committee shall be from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities and women:</p>
+              <p>Provided further that the Selection Committee may also consider any person other than the persons recommended by the Search Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>The Selection Committee shall regulate its own procedure in a transparent manner for selecting the Chairperson and Members of the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>The term of the Search Committee referred to in sub-section (3), the fees and allowances payable to its members and the manner of selection of panel of names shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Filling of vacancies of Chairperson or Members.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>The President shall take or cause to be taken all necessary steps for the appointment of a new Chairperson and Members at least three months before the expiry of the term of the Chairperson or Member, as the case may be, in accordance with the procedure laid down in this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Term of office of Chairperson and Members.—</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>The Chairperson and every Member shall, on the recommendations of the Selection Committee, be appointed by the President by warrant under his hand and seal and hold office as such for a term of five years from the date on which he enters upon his office or until he attains the age of seventy years, whichever is earlier:</p>
+              <blockList id="section-6.paragraph-0.list2">
+                <listIntroduction>Provided that he may—</listIntroduction>
+                <item id="section-6.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>by writing under his hand addressed to the President, resign his office; or</p>
+                </item>
+                <item id="section-6.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>be removed from his office in the manner provided in section 37.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Salary, allowances and other conditions of service of Chairperson and Members.—</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <blockList id="section-7.paragraph-0.list1">
+                <listIntroduction>The salary, allowances and other conditions of service of—</listIntroduction>
+                <item id="section-7.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>the Chairperson shall be the same as those of the Chief Justice of India;</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>other Members shall be the same as those of a Judge of the Supreme Court:</p>
+                </item>
+              </blockList>
+              <blockList id="section-7.paragraph-0.list3">
+                <listIntroduction>Provided that if the Chairperson or a Member is, at the time of his appointment, in receipt of pension (other than disability pension) in respect of any previous service under the Government of India or under the Government of a State, his salary in respect of service as the Chairperson or, as the case may be, as a Member, be reduced—</listIntroduction>
+                <item id="section-7.paragraph-0.list3.a">
+                  <num>(a)</num>
+                  <p>by the amount of that pension; and</p>
+                </item>
+                <item id="section-7.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>if he has, before such appointment, received, in lieu of a portion of the pension due to him in respect of such previous service, the commuted value thereof, by the amount of that portion of the pension:</p>
+                </item>
+              </blockList>
+              <p>Provided further that the salary, allowances and pension payable to, and other conditions of service of, the Chairperson or a Member shall not be varied to his disadvantage after his appointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Restriction on employment by Chairperson and Members after ceasing to hold office.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-8.1.list1">
+                <listIntroduction>On ceasing to hold office, the Chairperson and every Member shall be ineligible for—</listIntroduction>
+                <item id="section-8.1.list1.i">
+                  <num>(i)</num>
+                  <p>reappointment as the Chairperson or a Member of the Lokpal;</p>
+                </item>
+                <item id="section-8.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>any diplomatic assignment, appointment as administrator of a Union territory and such other assignment or appointment which is required by law to be made by the President by warrant under his hand and seal;</p>
+                </item>
+                <item id="section-8.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>further employment to any other office of profit under the Government of India or the Government of a State;</p>
+                </item>
+                <item id="section-8.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>contesting any election of President or Vice-President or Member of either House of Parliament or Member of either House of a State Legislature or Municipality or Panchayat within a period of five years from the date of relinquishing the post.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), a Member shall be eligible to be appointed as a Chairperson, if his total tenure as Member and Chairperson does not exceed five years.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section, it is hereby clarified that where the Member is appointed as the Chairperson, his term of office shall not be more than five years in aggregate as the Member and the Chairperson.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Member to act as Chairperson or to discharge his functions in certain circumstances.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>In the event of occurrence of any vacancy in the office of the Chairperson by reason of his death, resignation or otherwise, the President may, by notification, authorise the senior-most Member to act as the Chairperson until the appointment of a new Chairperson to fill such vacancy.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>When the Chairperson is unable to discharge his functions owing to absence on leave or otherwise, the senior-most Member available, as the President may, by notification, authorise in this behalf, shall discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Secretary, other officers and staff of Lokpal.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be a Secretary to the Lokpal in the rank of Secretary to Government of India, who shall be appointed by the Chairperson from a panel of names sent by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>There shall be a Director of Inquiry and a Director of Prosecution not below the rank of Additional Secretary to the Government of India or equivalent, who shall be appointed by the Chairperson from a panel of names sent by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>The appointment of officers and other staff of the Lokpal shall be made by the Chairperson or such Member or officer of Lokpal as the Chairperson may direct:</p>
+              <p>Provided that the President may by rule require that the appointment in respect of any post or posts as may be specified in the rule, shall be made after consultation with the Union Public Service Commission.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to the provisions of any law made by Parliament, the conditions of service of Secretary and other officers and staff of the Lokpal shall be such as may be specified by regulations made by the Lokpal for the purpose:</p>
+              <p>Provided that the regulations made under this sub-section shall, so far as they relate to salaries, allowances, leave or pensions, require the approval of the President.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Inquiry wing</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Inquiry Wing.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, the Lokpal shall constitute an Inquiry Wing headed by the Director of Inquiry for the purpose of conducting preliminary inquiry into any offence alleged to have been committed by a public servant punishable under the Prevention of Corruption Act, 1988 (49 of 1988):</p>
+              <p>Provided that till such time the Inquiry Wing is constituted by the Lokpal, the Central Government shall make available such number of officers and other staff from its Ministries or Departments, as may be required by the Lokpal, for conducting preliminary inquiries under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>For the purposes of assisting the Lokpal in conducting a preliminary inquiry under this Act, the officers of the Inquiry Wing not below the rank of the Under Secretary to the Government of India, shall have the same powers as are conferred upon the Inquiry Wing of the Lokpal under section 27.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Prosecution wing</heading>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Prosecution Wing.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The Lokpal shall, by notification, constitute a Prosecution Wing headed by the Director of Prosecution for the purpose of prosecution of public servants in relation to any complaint by the Lokpal under this Act:</p>
+              <p>Provided that till such time the Prosecution Wing is constituted by the Lokpal, the Central Government shall make available such number of officers and other staff from its Ministries or Departments, as may be required by the Lokpal, for conducting prosecution under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The Director of Prosecution shall, after having been so directed by the Lokpal, file a case in accordance with the findings of investigation report, before the Special Court and take all necessary steps in respect of the prosecution of public servants in relation to any offence punishable under the Prevention of Corruption Act, 1988 (49 of 1988).</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>The case under sub-section (2), shall be deemed to be a report, filed on completion of investigation, referred to in section 173 of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Expenses of lokpal to be charged on consolidated fund of india</heading>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Expenses of Lokpal to be charged on Consolidated Fund of India.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The administrative expenses of the Lokpal, including all salaries, allowances and pensions payable to or in respect of the Chairperson, Members or Secretary or other officers or staff of the Lokpal, shall be charged upon the Consolidated Fund of India and any fees or other moneys taken by the Lokpal shall form part of that Fund.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Jurisdiction in respect of inquiry</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Jurisdiction of Lokpal to include Prime Minister, Ministers, members of Parliament, Groups A, B, C and D officers and officials of Central Government.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>Subject to the other provisions of this Act, the Lokpal shall inquire or cause an inquiry to be conducted into any matter involved in, or arising from, or connected with, any allegation of corruption made in a complaint in respect of the following, namely:—</listIntroduction>
+                <item id="section-14.1.list1.a">
+                  <num>(a)</num>
+                  <p>any person who is or has been a Prime Minister:</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.1.list3">
+                <listIntroduction>Provided that the Lokpal shall not inquire into any matter involved in, or arising from, or connected with, any such allegation of corruption against the Prime Minister,—</listIntroduction>
+                <item id="section-14.1.list3.i">
+                  <num>(i)</num>
+                  <p>in so far as it relates to international relations, external and internal security, public order, atomic energy and space;</p>
+                </item>
+                <item id="section-14.1.list3.ii">
+                  <num>(ii)</num>
+                  <p>unless a full bench of the Lokpal consisting of its Chairperson and all Members considers the initiation of inquiry and at least two-thirds of its Members approves of such inquiry:</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.1.list5">
+                <listIntroduction>Provided further that any such inquiry shall be held in camera and if the Lokpal comes to the conclusion that the complaint deserves to be dismissed, the records of the inquiry shall not be published or made available to anyone;</listIntroduction>
+                <item id="section-14.1.list5.b">
+                  <num>(b)</num>
+                  <p>any person who is or has been a Minister of the Union;</p>
+                </item>
+                <item id="section-14.1.list5.c">
+                  <num>(c)</num>
+                  <p>any person who is or has been a member of either House of Parliament;</p>
+                </item>
+                <item id="section-14.1.list5.d">
+                  <num>(d)</num>
+                  <p>any Group 'A' or Group 'B' officer or equivalent or above, from amongst the public servants defined in sub-clauses (i) and (ii) of clause (c) of section 2 of the Prevention of Corruption Act, 1988 (49 of 1988) when serving or who has served, in connection with the affairs of the Union;</p>
+                </item>
+                <item id="section-14.1.list5.e">
+                  <num>(e)</num>
+                  <p>any Group 'C' or Group 'D' official or equivalent, from amongst the public servants defined in sub-clauses (i) and (ii) of clause (c) of section 2 of the Prevention of Corruption Act, 1988 (49 of 1988) when serving or who has served in connection with the affairs of the Union subject to the provision of sub-section (1) of section 20;</p>
+                </item>
+                <item id="section-14.1.list5.f">
+                  <num>(f)</num>
+                  <p>any person who is or has been a chairperson or member or officer or employee in any body or Board or corporation or authority or company or society or trust or autonomous body (by whatever name called) established by an Act of Parliament or wholly or partly financed by the Central Government or controlled by it:</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.1.list7">
+                <listIntroduction>Provided that in respect of such officers referred to in clause (d) who have served in connection with the affairs of the Union or in any body or Board or corporation or authority or company or society or trust or autonomous body referred to in clause (e) but are working in connection with the affairs of the State or in any body or Board or corporation or authority or company or society or trust or autonomous body (by whatever name called) established by an Act of the State Legislature or wholly or partly financed by the State Government or controlled by it, the Lokpal and the officers of its Inquiry Wing or Prosecution Wing shall have jurisdiction under this Act in respect of such officers only after obtaining the consent of the concerned State Government;</listIntroduction>
+                <item id="section-14.1.list7.g">
+                  <num>(g)</num>
+                  <p>any person who is or has been a director, manager, secretary or other officer of every other society or association of persons or trust (whether registered under any law for the time being in force or not), by whatever name called, wholly or partly financed by the Government and the annual income of which exceeds such amount as the Central Government may, by notification, specify;</p>
+                </item>
+                <item id="section-14.1.list7.h">
+                  <num>(h)</num>
+                  <p>any person who is or has been a director, manager, secretary or other officer of every other society or association of persons or trust (whether registered under any law for the time being in force or not) in receipt of any donation from any foreign source under the Foreign Contribution (Regulation) Act, 2010 (42 of 2010) in excess of ten lakh rupees in a year or such higher amount as the Central Government may, by notification, specify.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—</p>
+              <p>For the purpose of clauses (f) and (g), it is hereby clarified that any entity or institution, by whatever name called, corporate, society, trust, association of persons, partnership, sole proprietorship, limited liability partnership (whether registered under any law for the time being in force or not), shall be the entities covered in those clauses:</p>
+              <p>Provided that any person referred to in this clause shall be deemed to be a public servant under clause (c) of section 2 of the Prevention of Corruption Act, 1988 (49 of 1988) and the provisions of that Act shall apply accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), the Lokpal shall not inquire into any matter involved in, or arising from, or connected with, any such allegation of corruption against any member of either House of Parliament in respect of anything said or a vote given by him in Parliament or any committee thereof covered under the provisions contained in clause (2) of article 105 of the Constitution.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>The Lokpal may inquire into any act or conduct of any person other than those referred to in sub-section (1), if such person is involved in the act of abetting, bribe giving or bribe taking or conspiracy relating to any allegation of corruption under the Prevention of Corruption Act, 1988 (49 of 1988) against a person referred to in sub-section (1):</p>
+              <p>Provided that no action under this section shall be taken in case of a person serving in connection with the affairs of a State, without the consent of the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.4">
+            <num>(4)</num>
+            <content>
+              <p>No matter in respect of which a complaint has been made to the Lokpal under this Act, shall be referred for inquiry under the Commissions of Inquiry Act, 1952 (60 of 1952).</p>
+              <p>Explanation.—</p>
+              <p>For the removal of doubts, it is hereby declared that a complaint under this Act shall only relate to a period during which the public servant was holding or serving in that capacity.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Matters pending before any court or committee or authority for inquiry not to be affected.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>In case any matter or proceeding related to allegation of corruption under the Prevention of Corruption Act, 1988 (49 of 1988) has been pending before any court or committee of either House of Parliament or before any other authority prior to commencement of this Act or prior to commencement of any inquiry after the commencement of this Act, such matter or proceeding shall be continued before such court, committee or authority.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Constitution of benches of Lokpal.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-16.1.list1">
+                <listIntroduction>Subject to the provisions of this Act,—</listIntroduction>
+                <item id="section-16.1.list1.a">
+                  <num>(a)</num>
+                  <p>the jurisdiction of the Lokpal may be exercised by benches thereof;</p>
+                </item>
+                <item id="section-16.1.list1.b">
+                  <num>(b)</num>
+                  <p>a bench may be constituted by the Chairperson with two or more Members as the Chairperson may deem fit;</p>
+                </item>
+                <item id="section-16.1.list1.c">
+                  <num>(c)</num>
+                  <p>every bench shall ordinarily consist of at least one Judicial Member;</p>
+                </item>
+                <item id="section-16.1.list1.d">
+                  <num>(d)</num>
+                  <p>where a bench consists of the Chairperson, such bench shall be presided over by the Chairperson;</p>
+                </item>
+                <item id="section-16.1.list1.e">
+                  <num>(e)</num>
+                  <p>where a bench consists of a Judicial Member, and a non-Judicial Member, not being the Chairperson, such bench shall be presided over by the Judicial Member;</p>
+                </item>
+                <item id="section-16.1.list1.f">
+                  <num>(f)</num>
+                  <p>the benches of the Lokpal shall ordinarily sit at New Delhi and at such other places as the Lokpal may, by regulations, specify.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The Lokpal shall notify the areas in relation to which each bench of the Lokpal may exercise jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (2), the Chairperson shall have the power to constitute or reconstitute benches from time to time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.4">
+            <num>(4)</num>
+            <content>
+              <p>If at any stage of the hearing of any case or matter it appears to the Chairperson or a Member that the case or matter is of such nature that it ought to be heard by a bench consisting of three or more Members, the case or matter may be transferred by the Chairperson or, as the case may be, referred to him for transfer, to such bench as the Chairperson may deem fit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Distribution of business amongst benches.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Where benches are constituted, the Chairperson may, from time to time, by notification, make provisions as to the distribution of the business of the Lokpal amongst the benches and also provide for the matters which may be dealt with by each bench.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power of Chairperson to transfer cases.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>On an application for transfer made by the complainant or the public servant, the Chairperson, after giving an opportunity of being heard to the complainant or the public servant, as the case may be, may transfer any case pending before one bench for disposal to any other bench.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Decision to be by majority.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>If the Members of a bench consisting of an even number of Members differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the Chairperson who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more of the other Members of the Lokpal and such point or points shall be decided according to the opinion of the majority of the Members of the Lokpal who have heard the case, including those who first heard it.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Procedure in respect of preliminary inquiry and investigation</heading>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Provisions relating to complaints and preliminary inquiry and investigation.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-20.1.list1">
+                <listIntroduction>The Lokpal on receipt of a complaint, if it decides to proceed further, may order—</listIntroduction>
+                <item id="section-20.1.list1.a">
+                  <num>(a)</num>
+                  <p>preliminary inquiry against any public servant by its Inquiry Wing or any agency (including the Delhi Special Police Establishment) to ascertain whether there exists a prima facie case for proceeding in the matter; or</p>
+                </item>
+                <item id="section-20.1.list1.b">
+                  <num>(b)</num>
+                  <p>investigation by any agency (including the Delhi Special Police Establishment) when there exists a prima facie case:</p>
+                </item>
+              </blockList>
+              <p>Provided that the Lokpal shall if it has decided to proceed with the preliminary inquiry, by a general or special order, refer the complaints or a category of complaints or a complaint received by it in respect of public servants belonging to Group A or Group B or Group C or Group D to the Central Vigilance</p>
+              <p>Commission constituted under sub-section (1) of section 3 of the Central Vigilance Commission Act, 2003 (45 of 2003):</p>
+              <p>Provided further that the Central Vigilance Commission in respect of complaints referred to it under the first proviso, after making preliminary inquiry in respect of public servants belonging to Group A and Group B, shall submit its report to the Lokpal in accordance with the provisions contained in sub-sections (2) and (4) and in case of public servants belonging to Group C and Group D, the Commission shall proceed in accordance with the provisions of the Central Vigilance Commission Act, 2003 (45 of 2003):</p>
+              <p>Provided also that before ordering an investigation under clause (b), the Lokpal shall call for the explanation of the public servant so as to determine whether there exists a prima facie case for investigation:</p>
+              <p>Provided also that the seeking of explanation from the public servant before an investigation shall not interfere with the search and seizure, if any, required to be undertaken by any agency (including the Delhi Special Police Establishment) under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>During the preliminary inquiry referred to in sub-section (1), the Inquiry Wing or any agency (including the Delhi Special Police Establishment) shall conduct a preliminary inquiry and on the basis of material, information and documents collected seek the comments on the allegations made in the complaint from the public servant and the competent authority and after obtaining the comments of the concerned public servant and the competent authority, submit, within sixty days from the date of receipt of the reference, a report to the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-20.3.list1">
+                <listIntroduction>A bench consisting of not less than three Members of the Lokpal shall consider every report received under sub-section (2) from the Inquiry Wing or any agency (including the Delhi Special Police Establishment), and after giving an opportunity of being heard to the public servant, decide whether there exists a prima facie case, and proceed with one or more of the following actions, namely:—</listIntroduction>
+                <item id="section-20.3.list1.a">
+                  <num>(a)</num>
+                  <p>investigation by any agency or the Delhi Special Police Establishment, as the case may be;</p>
+                </item>
+                <item id="section-20.3.list1.b">
+                  <num>(b)</num>
+                  <p>initiation of the departmental proceedings or any other appropriate action against the concerned public servants by the competent authority;</p>
+                </item>
+                <item id="section-20.3.list1.c">
+                  <num>(c)</num>
+                  <p>closure of the proceedings against the public servant and to proceed against the complainant under section 46.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-20.4">
+            <num>(4)</num>
+            <content>
+              <p>Every preliminary inquiry referred to in sub-section (1) shall ordinarily be completed within a period of ninety days and for reasons to be recorded in writing, within a further period of ninety days from the date of receipt of the complaint.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.5">
+            <num>(5)</num>
+            <content>
+              <p>In case the Lokpal decides to proceed to investigate into the complaint, it shall direct any agency (including the Delhi Special Police Establishment) to carry out the investigation as expeditiously as possible and complete the investigation within a period of six months from the date of its order:</p>
+              <p>Provided that the Lokpal may extend the said period by a further period not exceeding of six months at a time for the reasons to be recorded in writing.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.6">
+            <num>(6)</num>
+            <content>
+              <p>Notwithstanding anything contained in section 173 of the Code of Criminal Procedure, 1973 (2 of 1974), any agency (including the Delhi Special Police Establishment) shall, in respect of cases referred to it by the Lokpal, submit the investigation report under that section to the court having jurisdiction and forward a copy thereof to the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.7">
+            <num>(7)</num>
+            <content>
+              <blockList id="section-20.7.list1">
+                <listIntroduction>A bench consisting of not less than three Members of the Lokpal shall consider every report received by it under sub-section (6) from any agency (including the Delhi Special Police Establishment) and after obtaining the comments of the competent authority and the public servant may—</listIntroduction>
+                <item id="section-20.7.list1.a">
+                  <num>(a)</num>
+                  <p>grant sanction to its Prosecution Wing or investigating agency to file charge-sheet or direct the closure of report before the Special Court against the public servant;</p>
+                </item>
+                <item id="section-20.7.list1.b">
+                  <num>(b)</num>
+                  <p>direct the competent authority to initiate the departmental proceedings or any other appropriate action against the concerned public servant.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-20.8">
+            <num>(8)</num>
+            <content>
+              <p>The Lokpal may, after taking a decision under sub-section (7) on the filing of the charge-sheet, direct its Prosecution Wing or any investigating agency (including the Delhi Special Police</p>
+              <p>Establishment) to initiate prosecution in the Special Court in respect of the cases investigated by the agency.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.9">
+            <num>(9)</num>
+            <content>
+              <p>The Lokpal may, during the preliminary inquiry or the investigation, as the case may be, pass appropriate orders for the safe custody of the documents relevant to the preliminary inquiry or, as the case may be, investigation as it deems fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.10">
+            <num>(10)</num>
+            <content>
+              <p>The website of the Lokpal shall, from time to time and in such manner as may be specified by regulations, display to the public, the status of number of complaints pending before it or disposed of by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.11">
+            <num>(11)</num>
+            <content>
+              <p>The Lokpal may retain the original records and evidences which are likely to be required in the process of preliminary inquiry or investigation or conduct of a case by it or by the Special Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.12">
+            <num>(12)</num>
+            <content>
+              <p>Save as otherwise provided, the manner and procedure of conducting a preliminary inquiry or investigation (including such material and documents to be made available to the public servant) under this Act, shall be such as may be specified by regulations.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Persons likely to be prejudicially affected to be heard.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <blockList id="section-21.paragraph-0.list1">
+                <listIntroduction>If, at any stage of the proceeding, the Lokpal—</listIntroduction>
+                <item id="section-21.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>considers it necessary to inquire into the conduct of any person other than the accused; or</p>
+                </item>
+                <item id="section-21.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>is of opinion that the reputation of any person other than an accused is likely to be prejudicially affected by the preliminary inquiry,</p>
+                </item>
+              </blockList>
+              <p>the Lokpal shall give to that person a reasonable opportunity of being heard in the preliminary inquiry and to produce evidence in his defence, consistent with the principles of natural justice.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Lokpal may require any public servant or any other person to furnish information, etc.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>Subject to the provisions of this Act, for the purpose of any preliminary inquiry or investigation, the Lokpal or the investigating agency, as the case may be, may require any public servant or any other person who, in its opinion, is able to furnish information or produce documents relevant to such preliminary inquiry or investigation, to furnish any such information or produce any such document.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Power of Lokpal to grant sanction for initiating prosecution.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in section 197 of the Code of Criminal Procedure, 1973 (2 of 1974) or section 6A of the Delhi Special Police Establishment Act, 1946 (25 of 1946) or section 19 of the Prevention of Corruption Act, 1988 (49 of 1988), the Lokpal shall have the power to grant sanction for prosecution under clause (a) of sub-section (7) of section 20.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>No prosecution under sub-section (1) shall be initiated against any public servant accused of any offence alleged to have been committed by him while acting or purporting to act in the discharge of his official duty, and no court shall take cognizance of such offence except with the previous sanction of the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>Nothing contained in sub-sections (1) and (2) shall apply in respect of the persons holding office in pursuance of the provisions of the Constitution and in respect of which a procedure for removal of such person has been specified therein.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.4">
+            <num>(4)</num>
+            <content>
+              <p>The provisions contained in sub-sections (1), (2) and (3) shall be without prejudice to the generality of the provisions contained in article 311 and sub-clause (c) of clause (3) of article 320 of the Constitution.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Action on investigation against public servant being Prime Minister, Ministers or members of Parliament.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Where, after the conclusion of the investigation, the findings of the Lokpal disclose the commission of an offence under the Prevention of Corruption Act, 1988 (49 of 1988) by a public servant referred to in clause (a) or clause (b) or clause (c) of sub-section (1) of section 14, the Lokpal may file a case in the Special Court and shall send a copy of the report together with its findings to the competent authority.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>Powers of lokpal</heading>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Supervisory powers of Lokpal.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The Lokpal shall, notwithstanding anything contained in section 4 of the Delhi Special Police Establishment Act, 1946 (25 of 1946) and section 8 of the Central Vigilance Commission Act, 2003 (45 of 2003), have the powers of superintendence over, and to give direction to the Delhi Special Police Establishment in respect of the matters referred by the Lokpal for preliminary inquiry or investigation to the Delhi Special Police Establishment under this Act:</p>
+              <p>Provided that while exercising powers of superintendence or giving direction under this sub-section, the Lokpal shall not exercise powers in such a manner so as to require any agency (including the Delhi Special Police Establishment) to whom the investigation has been given, to investigate and dispose of any case in a particular manner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Vigilance Commission shall send a statement, at such interval as the Lokpal may direct, to the Lokpal in respect of action taken on complaints referred to it under the second proviso to sub-section (1) of section 20 and on receipt of such statement, the Lokpal may issue guidelines for effective and expeditious disposal of such cases.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>Any officer of the Delhi Special Police Establishment investigating a case referred to it by the Lokpal, shall not be transferred without the approval of the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.4">
+            <num>(4)</num>
+            <content>
+              <p>The Delhi Special Police Establishment may, with the consent of the Lokpal, appoint a panel of Advocates, other than the Government Advocates, for conducting the cases referred to it by the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.5">
+            <num>(5)</num>
+            <content>
+              <p>The Central Government may from time to time make available such funds as may be required by the Director of the Delhi Special Police Establishment for conducting effective investigation into the matters referred to it by the Lokpal and the Director shall be responsible for the expenditure incurred in conducting such investigation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Search and seizure.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>If the Lokpal has reason to believe that any document which, in its opinion, shall be useful for, or relevant to, any investigation under this Act, are secreted in any place, it may authorise any agency (including the Delhi Special Police Establishment) to whom the investigation has been given to search for and to seize such documents.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>If the Lokpal is satisfied that any document seized under sub-section (1) may be used as evidence for the purpose of any investigation under this Act and that it shall be necessary to retain the document in its custody or in the custody of such officer as may be authorised, it may so retain or direct such authorised officer to retain such document till the completion of such investigation:</p>
+              <p>Provided that where any document is required to be returned, the Lokpal or the authorised officer may return the same after retaining copies of such document duly authenticated.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Lokpal to have powers of civil court in certain cases.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-27.1.list1">
+                <listIntroduction>Subject to the provisions of this section, for the purpose of any preliminary inquiry, the Inquiry Wing of the Lokpal shall have all the powers of a civil court, under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit in respect of the following matters, namely:—</listIntroduction>
+                <item id="section-27.1.list1.i">
+                  <num>(i)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-27.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>requiring the discovery and production of any document;</p>
+                </item>
+                <item id="section-27.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-27.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>requisitioning any public record or copy thereof from any court or office;</p>
+                </item>
+                <item id="section-27.1.list1.v">
+                  <num>(v)</num>
+                  <p>issuing commissions for the examination of witnesses or documents:</p>
+                </item>
+              </blockList>
+              <blockList id="section-27.1.list3">
+                <listIntroduction>Provided that such commission, in case of a witness, shall be issued only where the witness, in the opinion of the Lokpal, is not in a position to attend the proceeding before the Lokpal; and</listIntroduction>
+                <item id="section-27.1.list3.vi">
+                  <num>(vi)</num>
+                  <p>such other matters as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Any proceeding before the Lokpal shall be deemed to be a judicial proceeding within the meaning of section 193 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Power of Lokpal to utilise services of officers of Central or State Government.—</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>The Lokpal may, for the purpose of conducting any preliminary inquiry or investigation, utilise the services of any officer or organisation or investigating agency of the Central Government or any State Government, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-28.2.list1">
+                <listIntroduction>For the purpose of preliminary inquiry or investigating into any matter pertaining to such inquiry or investigation, any officer or organisation or agency whose services are utilised under sub-section (1) may, subject to the superintendence and direction of the Lokpal,—</listIntroduction>
+                <item id="section-28.2.list1.a">
+                  <num>(a)</num>
+                  <p>summon and enforce the attendance of any person and examine him;</p>
+                </item>
+                <item id="section-28.2.list1.b">
+                  <num>(b)</num>
+                  <p>require the discovery and production of any document; and</p>
+                </item>
+                <item id="section-28.2.list1.c">
+                  <num>(c)</num>
+                  <p>requisition any public record or copy thereof from any office.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <p>The officer or organisation or agency whose services are utilised under sub-section (2) shall inquire or, as the case may be, investigate into any matter pertaining to the preliminary inquiry or investigation and submit a report thereon to the Lokpal within such period as may be specified by it in this behalf.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Provisional attachment of assets.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-29.1.list1">
+                <listIntroduction>Where the Lokpal or any officer authorised by it in this behalf, has reason to believe, the reason for such belief to be recorded in writing, on the basis of material in his possession, that—</listIntroduction>
+                <item id="section-29.1.list1.a">
+                  <num>(a)</num>
+                  <p>any person is in possession of any proceeds of corruption;</p>
+                </item>
+                <item id="section-29.1.list1.b">
+                  <num>(b)</num>
+                  <p>such person is accused of having committed an offence relating to corruption; and</p>
+                </item>
+                <item id="section-29.1.list1.c">
+                  <num>(c)</num>
+                  <p>such proceeds of offence are likely to be concealed, transferred or dealt with in any manner which may result in frustrating any proceedings relating to confiscation of such proceeds of offence,</p>
+                </item>
+              </blockList>
+              <p>the Lokpal or the authorised officer may, by order in writing, provisionally attach such property for a period not exceeding ninety days from the date of the order, in the manner provided in the Second Schedule to the Income-tax Act, 1961 (43 of 1961) and the Lokpal and the officer shall be deemed to be an officer under sub-rule (e) of rule 1 of that Schedule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>The Lokpal or the officer authorised in this behalf shall, immediately after attachment under sub-section (1), forward a copy of the order, along with the material in his possession, referred to in that sub-section, to the Special Court, in a sealed envelope, in the manner as may be prescribed and such Court may extend the order of attachment and keep such material for such period as the Court may deem fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.3">
+            <num>(3)</num>
+            <content>
+              <p>Every order of attachment made under sub-section (1) shall cease to have effect after the expiry of the period specified in that sub-section or after the expiry of the period as directed by the Special Court under sub-section (2).</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing in this section shall prevent the person interested in the enjoyment of the immovable property attached under sub-section (1) or sub-section (2), from such enjoyment.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this sub-section, "person interested", in relation to any immovable property, includes all persons claiming or entitled to claim any interest in the property.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Confirmation of attachment of assets.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The Lokpal, when it provisionally attaches any property under sub-section (1) of section 29 shall, within a period of thirty days of such attachment, direct its Prosecution Wing to file an application stating the facts of such attachment before the Special Court and make a prayer for confirmation of attachment of the property till completion of the proceedings against the public servant in the Special Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>The Special Court may, if it is of the opinion that the property provisionally attached had been acquired through corrupt means, make an order for confirmation of attachment of such property till the completion of the proceedings against the public servant in the Special Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>If the public servant is subsequently acquitted of the charges framed against him, the property, subject to the orders of the Special Court, shall be restored to the concerned public servant along with benefits from such property as might have accrued during the period of attachment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.4">
+            <num>(4)</num>
+            <content>
+              <p>If the public servant is subsequently convicted of the charges of corruption, the proceeds relatable to the offence under the Prevention of Corruption Act, 1988 (49 of 1988) shall be confiscated and vest in the Central Government free from any encumbrance or leasehold interest excluding any debt due to any bank or financial institution.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this sub-section, the expressions "bank", "debt" and "financial institution" shall have the meanings respectively assigned to them in clauses (d), (g) and (h) of section 2 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (51 of 1993).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Confiscation of assets, proceeds, receipts and benefits arisen or procured by means of corruption in special circumstances.—</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the provisions of sections 29 and 30, where the Special Court, on the basis of prima facie evidence, has reason to believe or is satisfied that the assets, proceeds, receipts and benefits, by whatever name called, have arisen or procured by means of corruption by the public servant, it may authorise the confiscation of such assets, proceeds, receipts and benefits till his acquittal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>Where an order of confiscation made under sub-section (1) is modified or annulled by the High Court or where the public servant is acquitted by the Special Court, the assets, proceeds, receipts and benefits, confiscated under sub-section (1) shall be returned to such public servant, and in case it is not possible for any reason to return the assets, proceeds, receipts and benefits, such public servant shall be paid the price thereof including the money so confiscated with interest at the rate of five per cent. per annum thereon calculated from the date of confiscation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Power of Lokpal to recommend transfer or suspension of public servant connected with allegation of corruption.—</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-32.1.list1">
+                <listIntroduction>Where the Lokpal, while making a preliminary inquiry into allegations of corruption, is prima facie satisfied, on the basis of evidence available,—</listIntroduction>
+                <item id="section-32.1.list1.i">
+                  <num>(i)</num>
+                  <p>that the continuance of the public servant referred to in clause (d) or clause (e) or clause (f) of sub-section (1) of section 14 in his post while conducting the preliminary inquiry is likely to affect such preliminary inquiry adversely; or</p>
+                </item>
+                <item id="section-32.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>such public servant is likely to destroy or in any way tamper with the evidence or influence witnesses,</p>
+                </item>
+              </blockList>
+              <p>then, the Lokpal may recommend to the Central Government for transfer or suspension of such public servant from the post held by him till such period as may be specified in the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government shall ordinarily accept the recommendation of the Lokpal made under sub-section (1), except for the reasons to be recorded in writing in a case where it is not feasible to do so for administrative reasons.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Power of Lokpal to give directions to prevent destruction of records during preliminary inquiry.—</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <blockList id="section-33.paragraph-0.list1">
+                <listIntroduction>The Lokpal may, in the discharge of its functions under this Act, issue appropriate directions to a public servant entrusted with the preparation or custody of any document or record—</listIntroduction>
+                <item id="section-33.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to protect such document or record from destruction or damage; or</p>
+                </item>
+                <item id="section-33.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to prevent the public servant from altering or secreting such document or record; or</p>
+                </item>
+                <item id="section-33.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to prevent the public servant from transferring or alienating any assets allegedly acquired by him through corrupt means.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Power to delegate.—</heading>
+          <paragraph id="section-34.paragraph-0">
+            <content>
+              <p>The Lokpal may, by general or special order in writing, and subject to such conditions and limitations as may be specified therein, direct that any administrative or financial power conferred on it may also be exercised or discharged by such of its Members or officers or employees as may be specified in the order.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IX">
+        <num>IX</num>
+        <heading>Special courts</heading>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Special Courts to be constituted by Central Government.—</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall constitute such number of Special Courts, as recommended by the Lokpal, to hear and decide the cases arising out of the Prevention of Corruption Act, 1988 (49 of 1988) or under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>The Special Courts constituted under sub-section (1) shall ensure completion of each trial within a period of one year from the date of filing of the case in the Court:</p>
+              <p>Provided that in case the trial cannot be completed within a period of one year, the Special Court shall record reasons therefore and complete the trial within a further period of not more than three months or such further periods not exceeding three months each, for reasons to be recorded in writing before the end of each such three months period, but not exceeding a total period of two years.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Letter of request to a contracting State in certain cases.—</heading>
+          <subsection id="section-36.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-36.1.list1">
+                <listIntroduction>Notwithstanding anything contained in this Act or the Code of Criminal Procedure, 1973 (2 of 1974) if, in the course of an preliminary inquiry or investigation into an offence or other proceeding under this Act, an application is made to a Special Court by an officer of the Lokpal authorised in this behalf that any evidence is required in connection with the preliminary inquiry or investigation into an offence or proceeding under this Act and he is of the opinion that such evidence may be available in any place in a contracting State, and the Special Court, on being satisfied that such evidence is required in connection with the preliminary inquiry or investigation into an offence or proceeding under this Act, may issue a letter of request to a court or an authority in the contracting State competent to deal with such request to—</listIntroduction>
+                <item id="section-36.1.list1.i">
+                  <num>(i)</num>
+                  <p>examine the facts and circumstances of the case;</p>
+                </item>
+                <item id="section-36.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>take such steps as the Special Court may specify in such letter of request; and</p>
+                </item>
+                <item id="section-36.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>forward all the evidence so taken or collected to the Special Court issuing such letter of request.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-36.2">
+            <num>(2)</num>
+            <content>
+              <p>The letter of request shall be transmitted in such manner as the Central Government may prescribe in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.3">
+            <num>(3)</num>
+            <content>
+              <p>Every statement recorded or document or thing received under sub-section (1) shall be deemed to be evidence collected during the course of the preliminary inquiry or investigation.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-X">
+        <num>X</num>
+        <heading>Complaints against chairperson, members and officials of lokpal</heading>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Removal and suspension of Chairperson and Members of Lokpal.—</heading>
+          <subsection id="section-37.1">
+            <num>(1)</num>
+            <content>
+              <p>The Lokpal shall not inquire into any complaint made against the Chairperson or any Member.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (4), the Chairperson or any Member shall be removed from his office by order of the President on grounds of misbehaviour after the Supreme Court, on a reference being made to it by the President on a petition signed by at least one hundred Members of Parliament has, on an inquiry held in accordance with the procedure prescribed in that behalf, reported that the Chairperson or such Member, as the case may be, ought to be removed on such ground.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.3">
+            <num>(3)</num>
+            <content>
+              <p>The President may suspend from office the Chairperson or any Member in respect of whom a reference has been made to the Supreme Court under sub-section (2), on receipt of the recommendation or interim order made by the Supreme Court in this regard until the President has passed orders on receipt of the final report of the Supreme Court on such reference.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-37.4.list1">
+                <listIntroduction>Notwithstanding anything contained in sub-section (2), the President may, by order, remove from the office, the Chairperson or any Member if the Chairperson or such Member, as the case may be,—</listIntroduction>
+                <item id="section-37.4.list1.a">
+                  <num>(a)</num>
+                  <p>is adjudged an insolvent; or</p>
+                </item>
+                <item id="section-37.4.list1.b">
+                  <num>(b)</num>
+                  <p>engages, during his term of office, in any paid employment outside the duties of his office; or</p>
+                </item>
+                <item id="section-37.4.list1.c">
+                  <num>(c)</num>
+                  <p>is, in the opinion of the President, unfit to continue in office by reason of infirmity of mind or body.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-37.5">
+            <num>(5)</num>
+            <content>
+              <p>If the Chairperson or any Member is, or becomes, in any way concerned or interested in any contract or agreement made by or on behalf of the Government of India or the Government of a State or participates in any way in the profit thereof or in any benefit or emolument arising therefrom otherwise than as a member and in common with the other members of an incorporated company, he shall, for the purposes of sub-section (2), be deemed to be guilty of misbehaviour.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Complaints against officials of Lokpal.—</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>Every complaint of allegation or wrongdoing made against any officer or employee or agency (including the Delhi Special Police Establishment), under or associated with the Lokpal for an offence punishable under the Prevention of Corruption Act, 1988 (49 of 1988) shall be dealt with in accordance with the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>The Lokpal shall complete the inquiry into the complaint or allegation made within a period of thirty days from the date of its receipt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-38.3.list1">
+                <listIntroduction>While making an inquiry into the complaint against any officer or employee of the Lokpal or agency engaged or associated with the Lokpal, if it is prima facie satisfied on the basis of evidence available, that—</listIntroduction>
+                <item id="section-38.3.list1.a">
+                  <num>(a)</num>
+                  <p>continuance of such officer or employee of the Lokpal or agency engaged or associated in his post while conducting the inquiry is likely to affect such inquiry adversely; or</p>
+                </item>
+                <item id="section-38.3.list1.b">
+                  <num>(b)</num>
+                  <p>an officer or employee of the Lokpal or agency engaged or associated is likely to destroy or in any way tamper with the evidence or influence witnesses,</p>
+                </item>
+              </blockList>
+              <p>then, the Lokpal may, by order, suspend such officer or employee of the Lokpal or divest such agency engaged or associated with the Lokpal of all powers and responsibilities hereto before exercised by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.4">
+            <num>(4)</num>
+            <content>
+              <p>On the completion of the inquiry, if the Lokpal is satisfied that there is prima facie evidence of the commission of an offence under the Prevention of Corruption Act, 1988 (49 of 1988) or of any wrongdoing, it shall, within a period of fifteen days of the completion of such inquiry, order to prosecute such officer or employee of the Lokpal or such officer, employee, agency engaged or associated with the Lokpal and initiate disciplinary proceedings against the official concerned:</p>
+              <p>Provided that no such order shall be passed without giving such officer or employee of the Lokpal, such officer, employee, agency engaged or associated, a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-XI">
+        <num>XI</num>
+        <heading>Assessment of loss and recovery thereof by special court</heading>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Assessment of loss and recovery thereof by Special Court.—</heading>
+          <paragraph id="section-39.paragraph-0">
+            <content>
+              <p>If any public servant is convicted of an offence under the Prevention of Corruption Act, 1988 (49 of 1988) by the special Court, notwithstanding and without prejudice to any law for the time being in force, it may make an assessment of loss, if any, caused to the public exchequer on account of the actions or decisions of such public servant not taken in good faith and for which he stands convicted, and may order recovery of such loss, if possible or quantifiable, from such public servant so convicted:</p>
+              <p>Provided that if the Special Court, for reasons to be recorded in writing, comes to the conclusion that the loss caused was pursuant to a conspiracy with the beneficiary or beneficiaries of actions or decisions of the public servant so convicted, then such loss may, if assessed and quantifiable under this section, also be recovered from such beneficiary or beneficiaries proportionately.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-XII">
+        <num>XII</num>
+        <heading>Finance, accounts and audit</heading>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Budget.—</heading>
+          <paragraph id="section-40.paragraph-0">
+            <content>
+              <p>The Lokpal shall prepare, in such form and at such time in each financial year as may be prescribed, its budget for the next financial year, showing the estimated receipts and expenditure of the Lokpal and forward the same to the Central Government for information.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Grants by Central Government.—</heading>
+          <paragraph id="section-41.paragraph-0">
+            <content>
+              <p>The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Lokpal grants of such sums of money as are required to be paid for the salaries and allowances payable to the Chairperson and Members and the administrative expenses, including the salaries and allowances and pension payable to or in respect of officers and other employees of the Lokpal.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Annual statement of accounts.—</heading>
+          <subsection id="section-42.1">
+            <num>(1)</num>
+            <content>
+              <p>The Lokpal shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of the Lokpal shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.3">
+            <num>(3)</num>
+            <content>
+              <p>The Comptroller and Auditor-General of India or any person appointed by him in connection with the audit of the accounts of the Lokpal under this Act shall have the same rights, privileges and authority in connection with such audit, as the Comptroller and Auditor-General of India generally has, in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.4">
+            <num>(4)</num>
+            <content>
+              <p>The accounts of the Lokpal, as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf, together with the audit report thereon, shall be forwarded annually to the Central Government and the Central Government shall cause the same to be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Furnishing of returns, etc., to Central Government.—</heading>
+          <paragraph id="section-43.paragraph-0">
+            <content>
+              <p>The Lokpal shall furnish to the Central Government, at such time and in such form and manner as may be prescribed or as the Central Government may request, such returns and statements and such particulars in regard to any matter under the jurisdiction of the Lokpal, as the Central Government may, from time to time, require.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-XIII">
+        <num>XIII</num>
+        <heading>Declaration of assets</heading>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Declaration of assets.—</heading>
+          <paragraph id="section-44.paragraph-0">
+            <content>
+              <p>On and from the date of commencement of this Act, every public servant shall make a declaration of his assets and liabilities in such form and manner as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Presumption as to acquisition of assets by corrupt means in certain cases.—</heading>
+          <paragraph id="section-45.paragraph-0">
+            <content>
+              <blockList id="section-45.paragraph-0.list1">
+                <listIntroduction>If any public servant wilfully or for reasons which are not justifiable, fails to—</listIntroduction>
+                <item id="section-45.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to declare his assets; or</p>
+                </item>
+                <item id="section-45.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>gives misleading information in respect of such assets and is found to be in possession of assets not disclosed or in respect of which misleading information was furnished,</p>
+                </item>
+              </blockList>
+              <p>then, such assets shall, unless otherwise proved, be presumed to belong to the public servant and shall be presumed to be assets acquired by corrupt means:</p>
+              <p>Provided that the competent authority may condone or exempt the public servant from furnishing information in respect of assets not exceeding such minimum value as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-XIV">
+        <num>XIV</num>
+        <heading>Offences and penalties</heading>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Prosecution for false complaint and payment of compensation, etc., to public servant.—</heading>
+          <subsection id="section-46.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in this Act, whoever makes any false and frivolous or vexatious complaint under this Act shall, on conviction, be punished with imprisonment for a term which may extend to one year and with fine which may extend to one lakh rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.2">
+            <num>(2)</num>
+            <content>
+              <p>No Court, except a Special Court, shall take cognizance of an offence under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.3">
+            <num>(3)</num>
+            <content>
+              <p>No Special Court shall take cognizance of an offence under sub-section (1) except on a complaint made by a person against whom the false, frivolous or vexatious complaint was made or by an officer authorised by the Lokpal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.4">
+            <num>(4)</num>
+            <content>
+              <p>The prosecution in relation to an offence under sub-section (1) shall be conducted by the public prosecutor and all expenses connected with such prosecution shall be borne by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.5">
+            <num>(5)</num>
+            <content>
+              <p>In case of conviction of a person being an individual or society or association of persons or trust (whether registered or not), for having made a false complaint under this Act, such person shall be liable to pay compensation to the public servant against whom he made the false complaint in addition to the legal expenses for contesting the case by such public servant, as the Special Court may determine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.6">
+            <num>(6)</num>
+            <content>
+              <p>Nothing contained in this section shall apply in case of complaints made in good faith.</p>
+              <p>Explanation.—</p>
+              <p>For the purpose of this sub-section, the expression “good faith” means any act believed or done by a person in good faith with due care, caution and sense of responsibility or by mistake of fact believing himself justified by law under section 79 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>False complaint made by society or association of persons or trust.—</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any offence under sub-section (1) of section 46 has been committed by any society or association of persons or trust (whether registered or not), every person who, at the time the offence was committed, was directly in charge of, and was responsible to, the society or association of persons or trust, for the conduct of the business or affairs or activities of the society or association of persons or trust as well as such society or association of persons or trust shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a society or association of persons or trust (whether registered or not) and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of such society or association of persons or trust, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-XV">
+        <num>XV</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Reports of Lokpal.—</heading>
+          <paragraph id="section-48.paragraph-0">
+            <content>
+              <p>It shall be the duty of the Lokpal to present annually to the President a report on the work done by the Lokpal and on receipt of such report the President shall cause a copy thereof together with a memorandum explaining, in respect of the cases, if any, where the advice of the Lokpal was not accepted, the reason for such non-acceptance to be laid before each House of Parliament.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Lokpal to function as appellate authority for appeals arising out of any other law for the time being in force.—</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <p>The Lokpal shall function as the final appellate authority in respect of appeals arising out of any other law for the time being in force providing for delivery of public services and redressal of public grievances by any public authority in cases where the decision contains findings of corruption under the Prevention of Corruption Act, 1988 (49 of 1988).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Protection of action taken in good faith by any public servant.—</heading>
+          <paragraph id="section-50.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings under this Act shall lie against any public servant, in respect of anything which is done in good faith or intended to be done in the discharge of his official functions or in exercise of his powers.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Protection of action taken in good faith by others.—</heading>
+          <paragraph id="section-51.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against the Lokpal or against any officer, employee, agency or any person, in respect of anything which is done in good faith or intended to be done under this Act or the rules or the regulations made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Members, officers and employees of Lokpal to be public servants.—</heading>
+          <paragraph id="section-52.paragraph-0">
+            <content>
+              <p>The Chairperson, Members, officers and other employees of the Lokpal shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Limitation to apply in certain cases.—</heading>
+          <paragraph id="section-53.paragraph-0">
+            <content>
+              <p>The Lokpal shall not inquire or investigate into any complaint, if the complaint is made after the expiry of a period of seven years from the date on which the offence mentioned in such complaint is alleged to have been committed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Bar of jurisdiction.—</heading>
+          <paragraph id="section-54.paragraph-0">
+            <content>
+              <p>No civil court shall have jurisdiction in respect of any matter which the Lokpal is empowered by or under this Act to determine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Legal assistance.—</heading>
+          <paragraph id="section-55.paragraph-0">
+            <content>
+              <p>The Lokpal shall provide to every person against whom a complaint has been made, before it, under this Act, legal assistance to defend his case before the Lokpal, if such assistance is requested for.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-56">
+          <num>56.</num>
+          <heading>Act to have overriding effect.—</heading>
+          <paragraph id="section-56.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act or in any instrument having effect by virtue of any enactment other than this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-57">
+          <num>57.</num>
+          <heading>Provisions of this Act to be in addition of other laws.—</heading>
+          <paragraph id="section-57.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not in derogation of, any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-58">
+          <num>58.</num>
+          <heading>Amendment of certain enactments.—</heading>
+          <paragraph id="section-58.paragraph-0">
+            <content>
+              <p>The enactments specified in the Schedule shall be amended in the manner specified therein.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-59">
+          <num>59.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-59.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-59.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-59.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form of complaint referred to in clause (e) of sub-section (1) of section 2;</p>
+                </item>
+                <item id="section-59.2.list1.b">
+                  <num>(b)</num>
+                  <p>the term of the Search Committee, the fee and allowances payable to its members and the manner of selection of panel of names under sub-section (5) of section 4;</p>
+                </item>
+                <item id="section-59.2.list1.c">
+                  <num>(c)</num>
+                  <p>the post or posts in respect of which the appointment shall be made after consultation with the Union Public Service Commission under the proviso to sub-section (3) of section 10;</p>
+                </item>
+                <item id="section-59.2.list1.d">
+                  <num>(d)</num>
+                  <p>other matters for which the Lokpal shall have the powers of a civil court under clause (vi) of sub-section (1) of section 27;</p>
+                </item>
+                <item id="section-59.2.list1.e">
+                  <num>(e)</num>
+                  <p>the manner of sending the order of attachment along with the material to the Special Court under sub-section (2) of section 29;</p>
+                </item>
+                <item id="section-59.2.list1.f">
+                  <num>(f)</num>
+                  <p>the manner of transmitting the letter of request under sub-section (2) of section 36;</p>
+                </item>
+                <item id="section-59.2.list1.g">
+                  <num>(g)</num>
+                  <p>the form and the time for preparing in each financial year the budget for the next financial year, showing the estimated receipts and expenditure of the Lokpal under section 40;</p>
+                </item>
+                <item id="section-59.2.list1.h">
+                  <num>(h)</num>
+                  <p>the form for maintaining the accounts and other relevant records and the form of annual statement of accounts under sub-section (1) of section 42;</p>
+                </item>
+                <item id="section-59.2.list1.i">
+                  <num>(i)</num>
+                  <p>the form and manner and the time for preparing the returns and statements along with particulars under section 43;</p>
+                </item>
+                <item id="section-59.2.list1.j">
+                  <num>(j)</num>
+                  <p>the form and the time for preparing an annual return giving a summary of its activities during the previous year under sub-section (5) of section 44;</p>
+                </item>
+                <item id="section-59.2.list1.k">
+                  <num>(k)</num>
+                  <p>the form and manner of declaration of assets and liabilities by public servants under section 44:</p>
+                </item>
+              </blockList>
+              <blockList id="section-59.2.list3">
+                <listIntroduction>Provided that the rules may be made under this clause retrospectively from the date on which the provisions of this Act came into force;</listIntroduction>
+                <item id="section-59.2.list3.l">
+                  <num>(l)</num>
+                  <p>the minimum value for which the competent authority may condone or exempt a public servant from furnishing information in respect of assets under the proviso to section 45;</p>
+                </item>
+                <item id="section-59.2.list3.m">
+                  <num>(m)</num>
+                  <p>any other matter which is to be or may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-60">
+          <num>60.</num>
+          <heading>Power of Lokpal to make regulations.—</heading>
+          <subsection id="section-60.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act and the rules made thereunder, the Lokpal may, by notification in the Official Gazette, make regulations to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-60.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-60.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-60.2.list1.a">
+                  <num>(a)</num>
+                  <p>the conditions of service of the secretary and other officers and staff of the Lokpal and the matters which in so far as they relate to salaries, allowances, leave or pensions, require the approval of the President under sub-section (4) of section 10;</p>
+                </item>
+                <item id="section-60.2.list1.b">
+                  <num>(b)</num>
+                  <p>the place of sittings of benches of the Lokpal under clause (f) of sub-section (1) of section 16;</p>
+                </item>
+                <item id="section-60.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner for displaying on the website of the Lokpal, the status of all complaints pending or disposed of along with records and evidence with reference thereto under sub-section (10) of section 20;</p>
+                </item>
+                <item id="section-60.2.list1.d">
+                  <num>(d)</num>
+                  <p>the manner and procedure of conducting preliminary inquiry or investigation under sub-section (11) of section 20;</p>
+                </item>
+                <item id="section-60.2.list1.e">
+                  <num>(e)</num>
+                  <p>any other matter which is required to be, or may be, specified under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-61">
+          <num>61.</num>
+          <heading>Laying of rules and regulations.—</heading>
+          <paragraph id="section-61.paragraph-0">
+            <content>
+              <p>Every rule and regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-62">
+          <num>62.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-62.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as appear to be necessary for removing the difficulty:</p>
+              <p>Provided that no such order shall be made under this section after the expiry of a period of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <part id="chapter-XV.part-III">
+          <num>III</num>
+          <heading>Establishment of the lokayukta</heading>
+          <section id="section-63">
+            <num>63.</num>
+            <heading>Establishment of Lokayukta.—</heading>
+            <paragraph id="section-63.paragraph-0">
+              <content>
+                <p>Every State shall establish a body to be known as the Lokayukta for the State, if not so established, constituted or appointed, by a law made by the State Legislature, to deal with complaints relating to corruption against certain public functionaries, within a period of one year from the date of commencement of this Act.</p>
+              </content>
+            </paragraph>
+          </section>
+        </part>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2014/1/theschedule"/>
+              <FRBRuri value="/in-union/act/2014/1"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2014/1/eng@2014-01-01/theschedule"/>
+              <FRBRuri value="/in-union/act/2014/1/eng@2014-01-01"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2014/1/eng@2014-01-01/theschedule"/>
+              <FRBRuri value="/in-union/act/2014/1/eng@2014-01-01"/>
+              <FRBRdate date="2017-05-09" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>See section 58</heading>
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <p>AMENDMENT TO CERTAIN ENACTMENTS</p>
+              </content>
+            </paragraph>
+            <part id="part-I">
+              <num>I</num>
+              <heading>Amendment to the Commissions of Inquiry act, 1952(60 OF 1952)</heading>
+              <paragraph id="part-I.paragraph-0">
+                <content>
+                  <p>Amendment of section 3.—</p>
+                  <p>In section 3, in sub-section (1), for the words “The appropriate Government may”, the words and figures “Save as otherwise provided in the Lokpal and Lokayuktas Act, 2013, the appropriate Government may” shall be substituted.</p>
+                </content>
+              </paragraph>
+            </part>
+            <part id="part-II">
+              <num>II</num>
+              <heading>Amendments to the Delhi Special Police Establishment Act, 1946 (25 OF 1946)</heading>
+              <subsection id="part-II.1">
+                <num>(1)</num>
+                <content>
+                  <p>Amendment of section 4A.—</p>
+                  <blockList id="part-II.1.list2">
+                    <listIntroduction>In section 4A,—</listIntroduction>
+                    <item id="part-II.1.list2.i">
+                      <num>(i)</num>
+                      <p>for sub-section (1), the following sub-section shall be substituted, namely:—</p>
+                    </item>
+                  </blockList>
+                  <blockList id="part-II.1.list4">
+                    <listIntroduction>“(1) The Central Government shall appoint the Director on the recommendation of the Committee consisting of—</listIntroduction>
+                    <item id="part-II.1.list4.a">
+                      <num>(a)</num>
+                      <p>the Prime Minister—Chairperson;</p>
+                    </item>
+                    <item id="part-II.1.list4.b">
+                      <num>(b)</num>
+                      <p>the Leader of Opposition in the House of the People—Member;</p>
+                    </item>
+                    <item id="part-II.1.list4.c">
+                      <num>(c)</num>
+                      <blockList id="part-II.1.list4.c.list0">
+                        <listIntroduction>the Chief Justice of India or Judge of the Supreme Court nominated by him—Member.”;</listIntroduction>
+                        <item id="part-II.1.list4.c.list0.ii">
+                          <num>(ii)</num>
+                          <p>sub-section (2) shall be omitted.</p>
+                        </item>
+                      </blockList>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-II.2">
+                <num>(2)</num>
+                <content>
+                  <p>Insertion of new section 4BA.—</p>
+                  <p>After section 4B, the following section shall be inserted, namely:—</p>
+                  <p>“4BA. Director of Prosecution.—</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.1">
+                <num>(1)</num>
+                <content>
+                  <p>There shall be a Directorate of Prosecution headed by a Director who shall be an officer not below the rank of Joint Secretary to the Government of India, for conducting prosecution of cases under this Act.</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.2">
+                <num>(2)</num>
+                <content>
+                  <p>The Director of Prosecution shall function under the overall supervision and control of the Director.</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.3">
+                <num>(3)</num>
+                <content>
+                  <p>The Central Government shall appoint the Director of Prosecution on the recommendation of the Central Vigilance Commission.</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.4">
+                <num>(4)</num>
+                <content>
+                  <p>The Director of Prosecution shall notwithstanding anything to the contrary contained in the rules relating to his conditions of service, continue to hold office for a period of not less than two years from the date on which he assumes office.”.</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.3">
+                <num>(3)</num>
+                <content>
+                  <p>Amendment of section 4C.—</p>
+                  <p>In section 4C, for sub-section (1), the following sub-section shall be substituted, namely:—</p>
+                  <blockList id="part-II.3.list3">
+                    <listIntroduction>“(1) The Central Government shall appoint officers to the posts of the level of Superintendent of Police and above except Director, and also recommend the extension or curtailment of the tenure of such officers in the Delhi Special Police Establishment, on the recommendation of a committee consisting of:—</listIntroduction>
+                    <item id="part-II.3.list3.a">
+                      <num>(a)</num>
+                      <p>the Central Vigilance Commissioner—Chairperson;</p>
+                    </item>
+                    <item id="part-II.3.list3.b">
+                      <num>(b)</num>
+                      <p>Vigilance Commissioners—Members;</p>
+                    </item>
+                    <item id="part-II.3.list3.c">
+                      <num>(c)</num>
+                      <p>Secretary to the Government of India in charge of the Ministry of Home—Member;</p>
+                    </item>
+                    <item id="part-II.3.list3.d">
+                      <num>(d)</num>
+                      <p>Secretary to the Government of India in charge of the Department of Personnel—Member:</p>
+                    </item>
+                  </blockList>
+                  <p>Provided that the Committee shall consult the Director before submitting its recommendation to the Central Government.".</p>
+                </content>
+              </subsection>
+            </part>
+            <part id="part-III">
+              <num>III</num>
+              <heading>Amendments to the Prevention of Corruption Act, 1988 (49 OF 1988)</heading>
+              <subsection id="part-III.1">
+                <num>(1)</num>
+                <content>
+                  <p>Amendment of sections 7, 8, 9 and 12.—</p>
+                  <blockList id="part-III.1.list2">
+                    <listIntroduction>In sections 7, 8, 9 and section 12,—</listIntroduction>
+                    <item id="part-III.1.list2.a">
+                      <num>(a)</num>
+                      <p>for the words “six months”, the words “three years” shall respectively be substituted;</p>
+                    </item>
+                    <item id="part-III.1.list2.b">
+                      <num>(b)</num>
+                      <p>for the words “five years”, the words “seven years” shall respectively be substituted.</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-III.2">
+                <num>(2)</num>
+                <content>
+                  <p>Amendment of section 13.—</p>
+                  <blockList id="part-III.2.list2">
+                    <listIntroduction>In section 13, in sub-section (2),—</listIntroduction>
+                    <item id="part-III.2.list2.a">
+                      <num>(a)</num>
+                      <p>for the words “one year”, the words “four years” shall be substituted;</p>
+                    </item>
+                    <item id="part-III.2.list2.b">
+                      <num>(b)</num>
+                      <p>for the words “seven years”, the words “ten years” shall be substituted.</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-III.3">
+                <num>(3)</num>
+                <content>
+                  <p>Amendment of section 14.—</p>
+                  <blockList id="part-III.3.list2">
+                    <listIntroduction>In section 14,—</listIntroduction>
+                    <item id="part-III.3.list2.a">
+                      <num>(a)</num>
+                      <p>for the words “two years”, the words “five years” shall be substituted;</p>
+                    </item>
+                    <item id="part-III.3.list2.b">
+                      <num>(b)</num>
+                      <p>for the words “seven years”, the words “ten years” shall be substituted.</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-III.4">
+                <num>(4)</num>
+                <content>
+                  <p>Amendment of section 15.—</p>
+                  <p>In section 15, for the words “which may extend to three years”, the words “which shall not be less than two years but which may extend to five years” shall be substituted.</p>
+                </content>
+              </subsection>
+              <subsection id="part-III.5">
+                <num>(5)</num>
+                <content>
+                  <p>Amendment of section 19.—</p>
+                  <p>In section 19, after the words “except with the previous sanction”, the words “save as otherwise provided in the Lokpal and Lokayuktas Act, 2013” shall be inserted.</p>
+                </content>
+              </subsection>
+            </part>
+            <part id="part-IV">
+              <num>IV</num>
+              <heading>Amendment to the Code of Criminal Procedure, 1973 (2 OF 1974)</heading>
+              <paragraph id="part-IV.paragraph-0">
+                <content>
+                  <p>Amendment of section 197.—</p>
+                  <p>In section 197, after the words “except with the previous sanction”, the words “save as otherwise provided in the Lokpal and Lokayuktas Act, 2013” shall be inserted.</p>
+                </content>
+              </paragraph>
+            </part>
+            <part id="part-V">
+              <num>V</num>
+              <heading>Amendments to the Central Vigilance Commission Act, 2003 (45 OF 2003)</heading>
+              <subsection id="part-V.1">
+                <num>(1)</num>
+                <content>
+                  <p>Amendment of section 2.—</p>
+                  <blockList id="part-V.1.list2">
+                    <listIntroduction>In section 2, after clause (d), the following clause shall be inserted, namely:—</listIntroduction>
+                    <item id="part-V.1.list2.da">
+                      <num>(da)</num>
+                      <p>“Lokpal” means the Lokpal established under sub-section (1) of section 3 of the Lokpal and Lokayuktas Act, 2013;‟.Amendment of section 8.—</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-V.2">
+                <num>(2)</num>
+                <content>
+                  <p>In section 8, in sub-section (2), after clause (b), the following clause shall be inserted, namely:—</p>
+                  <blockList id="part-V.2.list2">
+                    <listIntroduction>“(c) on a reference made by the Lokpal under proviso to sub-section (1) of section 20 of the Lokpal and Lokayuktas Act, 2013, the persons referred to in clause (d) of sub-section (1) shall also include—</listIntroduction>
+                    <item id="part-V.2.list2.i">
+                      <num>(i)</num>
+                      <p>members of Group B, Group C and Group D services of the Central Government;</p>
+                    </item>
+                    <item id="part-V.2.list2.ii">
+                      <num>(ii)</num>
+                      <p>such level of officials or staff of the corporations established by or under any Central Act, Government companies, societies and other local authorities, owned or controlled by the Central Government, as that Government may, by notification in the Official Gazette, specify in this behalf:</p>
+                    </item>
+                  </blockList>
+                  <p>Provided that till such time a notification is issued under this clause, all officials or staff of the said corporations, companies, societies and local authorities shall be deemed to be the persons referred in clause (d) of sub-section (1).".</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.3">
+                <num>(3)</num>
+                <content>
+                  <p>Insertion of new sections 8A and 8B.—</p>
+                  <p>After section 8, the following sections shall be inserted, namely:—</p>
+                  <p>“8A. Action on preliminary inquiry in relation to public servants.—</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.1">
+                <num>(1)</num>
+                <content>
+                  <blockList id="part-V.1.list1">
+                    <listIntroduction>Where, after the conclusion of the preliminary inquiry relating to corruption of public servants belonging to Group C and Group D officials of the Central Government, the findings of the Commission disclose, after giving an opportunity of being heard to the public servant, a prima facie violation of conduct rules relating to corruption under the Prevention of Corruption Act, 1988 (49 of 1988) by such public servant, the Commission shall proceed with one or more of the following actions, namely:—</listIntroduction>
+                    <item id="part-V.1.list1.a">
+                      <num>(a)</num>
+                      <p>cause an investigation by any agency or the Delhi Special Police Establishment, as the case may be;</p>
+                    </item>
+                    <item id="part-V.1.list1.b">
+                      <num>(b)</num>
+                      <p>initiation of the disciplinary proceedings or any other appropriate action against the concerned public servant by the competent authority;</p>
+                    </item>
+                    <item id="part-V.1.list1.c">
+                      <num>(c)</num>
+                      <p>closure of the proceedings against the public servant and to proceed against the complainant under section 46 of the Lokpal and Lokayuktas Act, 2013.</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-V.2">
+                <num>(2)</num>
+                <content>
+                  <p>Every preliminary inquiry referred to in sub-section (1) shall ordinarily be completed within a period of ninety days and for reasons to be recorded in writing, within a further period of ninety days from the date of receipt of the complaint."</p>
+                  <p>"8B. Action on investigation in relation to public servants.—</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.1">
+                <num>(1)</num>
+                <content>
+                  <p>In case the Commission decides to proceed to investigate into the complaint under clause (a) of sub-section (1) of section 8A, it shall direct any agency (including the Delhi Special Police Establishment) to carry out the investigation as expeditiously as possible and complete the investigation within a period of six months from the date of its order and submit the investigation report containing its findings to the Commission:</p>
+                  <p>Provided that the Commission may extend the said period by a further period of six months for the reasons to be recorded in writing.</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.2">
+                <num>(2)</num>
+                <content>
+                  <p>Notwithstanding anything contained in section 173 of the Code of Criminal Procedure, 1973 (2 of 1974), any agency (including the Delhi Special Police Establishment) shall, in respect of cases referred to it by the Commission, submit the investigation report to the Commission.</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.3">
+                <num>(3)</num>
+                <content>
+                  <blockList id="part-V.3.list1">
+                    <listIntroduction>The Commission shall consider every report received by it under sub-section (2) from any agency (including the Delhi Special Police Establishment) and may decide as to—</listIntroduction>
+                    <item id="part-V.3.list1.a">
+                      <num>(a)</num>
+                      <p>file charge-sheet or closure report before the Special Court against the public servant;</p>
+                    </item>
+                    <item id="part-V.3.list1.b">
+                      <num>(b)</num>
+                      <p>initiate the departmental proceedings or any other appropriate action against the concerned public servant by the competent authority."</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="part-V.4">
+                <num>(4)</num>
+                <content>
+                  <p>Insertion of new section 11A.—</p>
+                  <p>After section 11, the following section shall be inserted, namely:—</p>
+                  <p>“11A. Director of inquiry for making preliminary inquiry.—</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.1">
+                <num>(1)</num>
+                <content>
+                  <p>There shall be a Director of Inquiry, not below the rank of Joint Secretary to the Government of India, who shall be appointed by the Central Government for conducting preliminary inquiries referred to the Commission by the Lokpal.</p>
+                </content>
+              </subsection>
+              <subsection id="part-V.2">
+                <num>(2)</num>
+                <content>
+                  <p>The Central Government shall provide the Director of Inquiry such officers and employees as may be required for the discharge of his functions under this Act.”.</p>
+                </content>
+              </subsection>
+            </part>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

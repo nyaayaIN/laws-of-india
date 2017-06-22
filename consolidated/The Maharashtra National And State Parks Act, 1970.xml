@@ -1,0 +1,733 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/1971/23/main"/>
+          <FRBRuri value="/in-mah/act/1971/23"/>
+          <FRBRalias value="The Maharashtra National And State Parks Act, 1970"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/1971/23/eng@2017-03-10/main"/>
+          <FRBRuri value="/in-mah/act/1971/23/eng@2017-03-10"/>
+          <FRBRdate date="2017-03-10" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/1971/23/eng@2017-03-10/main"/>
+          <FRBRuri value="/in-mah/act/1971/23/eng@2017-03-10"/>
+          <FRBRdate date="2017-03-10" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Maharashtra National And State Parks Act, 1970</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act No. 23 of 1971</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[06th May, 1971]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to make a provision for National Parks and State Parks in the State of Maharashtra.</p>
+      <p>WHEREAS it is expedient to provide for the establishment, preservation, maintenance and development of National and State Parks in the State of Maharashtra in the interest of the characteristic natural features, flora and fauna thereof, and for promoting and regulating their enjoyment by the public, and for matters connected with the purposes aforesaid; It is hereby enacted in the Twenty-First year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Maharashtra National and State Parks Act, 1970.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of the State of Maharashtra.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>"Advisory Committee" means the Committee constituted under section 4:</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>"Animal" includes any mammal, bird, reptile, amphibian, fish and insect or other invertebrate;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>"by-laws" means the by-laws, made under section 6;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>"Competent Authority" means the officer appointed by the State Government as the competent authority under section 7;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>"Director" means the officer appointed by the State Government as the Director of National and State Parks, Maharashtra State, under section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>"Park" means a National Park or a State Park constituted or deemed to be constituted under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>"Park Officer" means any officer or servant appointed or authorised for the purposes of this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>"Prescribed" means prescribed by rule;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>"Rules" means the rules made under section 26;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>"Trap" includes any contrivance or device by means of which an animal can be captured or killed;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>"Weapon" includes any firearm or ammunition therefore, bow, arrow, spear or any other instrument or apparatus capable of propelling a projectile or capable of being propelled or used in such a manner that any animal can be killed or injured thereby.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Appointment of Director and other officers and servants.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this Act, the State Government may appoint the Chief Conservator of Forests Maharashtra State, or any other officer of the State Government to be the Director. The State Government, or any officer authorised by it in this behalf, may appoint such other officers and servants as may be necessary, with such designations and for such local areas or for the whole State, as it or he may specify in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>In the performance of his duties and exercise of his powers by or under this Act, the Director shall be subject to such general or special directions as the State Government may from time to time give. The other officers and servants shall be subordinate to the Director, and subordination of such persons amongst themselves shall be such as may be determined by the State Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Constitution of the Maharashtra National and State Parks Advisory Committee.</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>As soon as possible after the coming into force of this Act, the State Government shall constitute an Advisory Committee to be called "The Maharashtra National and State Parks Advisory Committee" consisting of the Minister for Forests as ex-officio Chairman, the Minister of State (if any), and the Deputy Minister, (if any) for Forests as ex-officio Vice-Chairman, and the Secretary to Government in the Forests Department, the Director, the person for the time being appointed Superintendent, Parks and Gardens; and ten other members nominated by the State Government in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>Any Park Officer designated in this behalf by the State Government shall be the Secretary of the Advisory Committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>The members (other than ex-officio members) shall ordinarily hold office for a period of three years, or such shorter period as may be specified by the State Government:</p>
+            <p>Provided that, the tenure of office of any member may be terminated by the State Government at any time, without assigning any reason therefore.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>The non-official members shall be entitled to receive such allowances in respect of expenses properly incurred in the performance of their duties as may be prescribed:</p>
+            <p>Provided that, if a member of the State Legislature is nominated as a member of the Advisory Committee, he shall not be entitled to receive any remuneration other than the travelling allowance, daily allowance or such other allowance which is paid to a member of the Advisory Committee for the purpose of meeting the personal expenditure incurred in attending the meeting of the Committee or in performing any other functions as such member.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Duties of Advisory Committee.</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <blockList id="section-5.paragraph-0.list1">
+              <listIntroduction>It shall be the duty of the Advisory Committee to advise the State Government-</listIntroduction>
+              <item id="section-5.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>in the selection of areas to be declared as National Parks or State Parks;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>in formulating the policy to be followed in the administration of National and State Parks;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>in the matter of framing rules under section 26;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>on any other matter connected with the National and State Parks, which may be referred to it by the State Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Procedure of Advisory Committee.</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Advisory Committee shall meet at least once a year at Bombay or such other place as the State Government may direct.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The procedure (including the quorum) shall be such as the Advisory Committee may, by bylaws made in this behalf, determine.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Notification regarding decision to declare any areas National or State Park.</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever on the advice of the Advisory Committee or otherwise, it appears to the State Government in respect of any area that by reason of its floral, faunal, scenic or other interest of natural beauty or its educational, scientific, archaeological, historical or geological association or importance, it is desirable to take measures for the purpose of preserving, protecting, developing or enhancing the natural beauty or importance of the area, and for providing facilities for the enjoyment thereof by persons resorting thereto, the State Government may, by notification in the Official Gazette, declare that it has been decided to constitute such area to be a National Park or a State Park, as the case may be.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-7.2.list1">
+              <listIntroduction>The notification shall-</listIntroduction>
+              <item id="section-7.2.list1.a">
+                <num>(a)</num>
+                <p>describe, as nearly as possible the situation and limits of the area; and</p>
+              </item>
+              <item id="section-7.2.list1.b">
+                <num>(b)</num>
+                <p>appoint an officer to be the competent authority, and direct him to inquire into and determine the existence, nature and extent of any rights alleged to exist in favour of any person in or over any land comprised within such limits, and to deal with the same as provided in this Act.</p>
+              </item>
+            </blockList>
+            <p>Explanation:- For the purposes of clause (a), it shall be sufficient to describe the limits of the area by roads, rivers, bridges or other well known or readily intelligible boundaries.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Bar of accrual of rights in area notified under section 7.</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <p>During the interval between, the publication of the notification under section 7 and the date specified in the proclamation under clause (c) of section 9, no right shall be acquired in or over any land comprised in the area notified, except by succession.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Proclamation by competent authority.</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <blockList id="section-9.paragraph-0.list1">
+              <listIntroduction>As soon as may be, after the publication of the notification under section 7, the competent authority shall publish in the manner prescribed in the local languages in every town and villages in the neighbourhood of the land comprised in the area, a proclamation-</listIntroduction>
+              <item id="section-9.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>specifying as nearly as possible the situation and limits of the proposed National Park or State Park;</p>
+              </item>
+              <item id="section-9.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>explaining the consequences, which as hereinafter provided; will ensue on the constitution of the National Park or the State Park;</p>
+              </item>
+              <item id="section-9.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>fixing a date not earlier than three months from the date of such proclamation, and requiring every person claiming any right mentioned in section 7 to present to him on or before the date so fixed a written notice specifying, or to appear before him and state, the nature of such right and the amount and particulars of the compensation (if any) claimed in respect thereof.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Inquiry by competent authority.</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>The competent authority shall take down in writing all statements made under section 9, and shall at some convenient place inquire into all claims duly preferred under that section, and the existence of any rights mentioned in section 7 and not claimed under section 9 so far as the same may be ascertainable from the records of Government and evidence of any person likely to be acquainted with the same.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Powers of competent authority.</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <blockList id="section-11.paragraph-0.list1">
+              <listIntroduction>For the purpose of such inquiry, the competent authority may exercise the following powers, that is to say-</listIntroduction>
+              <item id="section-11.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the power to enter, by himself or any officer authorised by him for the purpose upon any land, and to survey, demarcate and make a map of the same;</p>
+              </item>
+              <item id="section-11.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the power of a Civil Court in the trial of suits.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Existence of rights.</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>Rights in respect of which no claim has been preferred under section 9, and of the existence of which no knowledge has been acquired by inquiry under section 10, shall be extinguished, unless before the notification under section 14 is published, the person claiming them satisfies the competent authority that he had sufficient cause for not preferring such claim on or before the date fixed under section 9.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Power to acquire land over which right is claimed.</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>In the case of a claim to a right in or over any land, the competent authority shall pass an order admitting or rejecting the same in whole or in part.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-13.2.list1">
+              <listIntroduction>If such claim is admitted in whole or in part, the competent authority shall either-</listIntroduction>
+              <item id="section-13.2.list1.a">
+                <num>(a)</num>
+                <p>exclude such land from the limits of the proposed National Park or State Park, or</p>
+              </item>
+              <item id="section-13.2.list1.b">
+                <num>(b)</num>
+                <p>come to an arrangement with the owner thereof for the surrender of his rights, or</p>
+              </item>
+              <item id="section-13.2.list1.c">
+                <num>(c)</num>
+                <p>proceed to acquire such land in the manner provided by the Land Acquisition Act, 1894.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-13.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-13.3.list1">
+              <listIntroduction>For the purpose of so acquiring such land-</listIntroduction>
+              <item id="section-13.3.list1.a">
+                <num>(a)</num>
+                <p>the competent authority shall be deemed to be a Collector proceeding under the Land Acquisition Act, 1894;</p>
+              </item>
+              <item id="section-13.3.list1.b">
+                <num>(b)</num>
+                <p>the claimant shall be deemed to be a person interested and appearing before him in pursuance of a notice given under section 9 of that Act;</p>
+              </item>
+              <item id="section-13.3.list1.c">
+                <num>(c)</num>
+                <p>the provisions of the preceding sections of that Act shall be deemed to have been complied with;</p>
+              </item>
+              <item id="section-13.3.list1.d">
+                <num>(d)</num>
+                <p>the Collector, with the consent of the claimant, or the Court with the consent of both parties, may award compensation in land, or partly in land and partly in money;</p>
+              </item>
+              <item id="section-13.3.list1.e">
+                <num>(e)</num>
+                <p>in the case of the stoppage of a public way or a common pasture, the competent authority may, with the previous sanction of the State Government, provide for a substitute public way or common pasture, as far as may be practicable or convenient.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-13.4">
+          <num>(4)</num>
+          <content>
+            <p>The acquisition of any land or interest thereon under this Act shall be deemed to be acquisitioned for a public purpose within the meaning of the Land Acquisition Act, 1894.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Notification constituting National or State Park.</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-14.1.list1">
+              <listIntroduction>When the following events have occurred, namely:-</listIntroduction>
+              <item id="section-14.1.list1.a">
+                <num>(a)</num>
+                <p>the date fixed under section 9 has elapsed, and all claims (if any) made under that section have been disposed of by the competent authority;</p>
+              </item>
+              <item id="section-14.1.list1.b">
+                <num>(b)</num>
+                <p>if any such claims have been made, the period for appealing from the orders passed on such claims has elapsed, and all appeals (if any) presented within such period have been disposed of; and</p>
+              </item>
+              <item id="section-14.1.list1.c">
+                <num>(c)</num>
+                <p>all lands (if any) to be included in the proposed National or State Park, which the competent authority has, under section 13, elected to acquire under the Land Acquisition Act, 1894, have become vested in the Government under section 16 of that Act,</p>
+              </item>
+            </blockList>
+            <p>the State Government shall publish a notification in the Official Gazette, specifying definitely, according to boundary-marks erected or otherwise, the limits of the National or State Park, and declare the same to be constituted, a National Park or a State Park, as the case may be, from a date fixed by the notification. The notification shall also specify the name by which the Park shall be known. The State Government shall before the date fixed by such notification, cause a translation thereof into the local language to be published in every town and village in the neighbourhood of the Park.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government may by like notification constitute a National Park as a State Park and vice versa and change the name of any Park.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Power to declare area no longer National or State Park.</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, direct that, from a date fixed by such notification, any National or State Park or any portion thereof shall cease to be such Park or part thereof:</p>
+            <p>Provided that, no such notification shall be issued by the State Government, unless it has been laid in draft before each House of the State Legislature and has been approved by resolutions passed in both Houses, either with or without modifications, and upon approval, the notification shall be issued in such form in which it has been agreed to by both Houses.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Control of Parks constituted under the Act and functions and duties of the Director.</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <blockList id="section-16.paragraph-0.list1">
+              <listIntroduction>The Director shall be the authority to control, manage and maintain all National and State Parks constituted under this Act, and for that purpose, within the limits of any Park,-</listIntroduction>
+              <item id="section-16.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>may construct such roads, bridges, buildings, fences and barrier gates and carry out such other works as he may consider necessary for the purposes of such Park;</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>shall take such steps as will ensure the security of animal life in the park and the preservation of the Park and the animals therein in a natural state;</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>may permit the erection of buildings for the accommodation of the visitors or of shops or other undertakings, subject to such terms and conditions as he may impose to control and regulate such accommodation.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Restrictions on entry or residence in Parks.</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>No person shall enter or reside in a Park, except for the purposes of health, study or recreation or matters incidental thereto or transaction of any lawful business within the Park and otherwise than in accordance with the rules made in this behalf.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Acts prohibited in National or State Parks.</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <blockList id="section-18.paragraph-0.list1">
+              <listIntroduction>In any National Park or State Park constituted under this Act, no person shall,-</listIntroduction>
+              <item id="section-18.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>convey into the Park, or within its confines, be in possession of any weapon explosive, trap or poison except, with the permission of the Director;</p>
+              </item>
+              <item id="section-18.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>kill, injure, capture or disturb any animal or remove or destroy any egg nest of any bird, provided that the Director may permit killing of any animal which is a source of menace to human life or property;</p>
+              </item>
+              <item id="section-18.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>remove from the Park any wild life, whether alive or dead, or any part thereof or introduce any animal or wilfully allow any animal to enter into the Park, except with the permission of the Director;</p>
+              </item>
+              <item id="section-18.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>fell any trees within the Park or remove any plants there from, except with the permission of the Director;</p>
+              </item>
+              <item id="section-18.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>wilfully or negligently cause damage by fire or otherwise to the Park or any object therein.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Powers of entry, search and seizure.</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-19.1.list1">
+              <listIntroduction>The Director or any Park Officer authorised by him may, if he has reasonable grounds for believing that any person has committed an offence against this Act,-</listIntroduction>
+              <item id="section-19.1.list1.a">
+                <num>(a)</num>
+                <p>search such person while entering or seeking to enter, or being on or in or leaving a Park, enter and search any premises, vehicle, vessel, other conveyance, baggage or other articles used or brought in by such person, and may, for the purpose of the search, detain such person, vehicle, vessel, conveyance, baggage or articles:</p>
+              </item>
+            </blockList>
+            <blockList id="section-19.1.list3">
+              <listIntroduction>Provided that, no female shall be searched except by a female, with strict regard to decency;</listIntroduction>
+              <item id="section-19.1.list3.b">
+                <num>(b)</num>
+                <p>ask of such person all necessary questions and require such person to produce for inspection any animal, trap, weapon, tools or other articles in his possession or any permit or other document required to be obtained by him under this Act;</p>
+              </item>
+              <item id="section-19.1.list3.c">
+                <num>(c)</num>
+                <p>seize any article or document or other property used, kept or obtained in contravention of the provisions of this Act, and thereafter, unless the article or document or other property seized is released on execution of a bond or otherwise take all measures necessary for securing production thereof in a Court and for its safe custody pending such production.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>Every person when so required by the Director or authorised officer shall allow such search to be made, allow access to premises, etc., answer all questions to the best of his knowledge and belief and produce the documents and articles in his possession.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Power to arrest without warrant.</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>The Director or any Park Officer authorised by him may, without orders from a Magistrate and without a warrant, arrest any person against whom a reasonable suspicion exists of his having been concerned in any offence punishable under this Act and who being required to give his name and address refuses to do so, gives a name and address which the officer has reason to believe to be false or the officer has reason to believe that he will abscond or otherwise avoid the service of a summons.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>Every officer making an arrest under this section shall, produce the arrested person before the nearest Magistrate, within a period of 24 hours of such arrest excluding the time necessary for the journey from the place of arrest to the Court of the Magistrate.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Offences and penalties.</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>Whoever contravenes any provision of this Act, or of any rule made there under, or commits a breach of any of the conditions of any permit or permission granted there under, shall be guilty of an offence against this Act, and shall, on conviction, be punished with imprisonment or a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>When any person is convicted of an offence against this Act, the Court trying the offence may order that any trap, weapon, tools, animal, vehicle, vessel, other conveyance or articles used in the commission of the offence or in respect of which the offence has been committed, shall be forfeited to the State Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Offences under the Act to be cognizable.</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1898, all offences under this Act shall be cognizable.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Powers to compound offences.</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-23.1.list1">
+              <listIntroduction>The State Government may, by notification in the Official Gazette, empower the Director or any Park Officer not below such rank as may be prescribed,-</listIntroduction>
+              <item id="section-23.1.list1.a">
+                <num>(a)</num>
+                <p>to accept from any person against whom a reasonable suspicion exists that he has committed an offence under this Act, by way of composition of the offence, payment of a sum of money, not exceeding two thousand rupees, or at the discretion of the officer so empowered an undertaking in writing from such person to pay like sum within a specified period;</p>
+              </item>
+              <item id="section-23.1.list1.b">
+                <num>(b)</num>
+                <p>when any property has been seized under section 19, to release the same on payment of the value thereof as estimated by such officer, or at the discretion of such officer on accepting an undertaking in writing from the person concerned to pay the estimated value within a specified period.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>On payment of such sum of money or such value or both to such officer, or on acceptance of such undertaking by such officer, as the case may be, the suspected person, if in custody, shall be discharged, the property, if any seized shall be released and no further proceedings in respect of the offence shall be taken against such person:</p>
+            <p>Provided that, any sum payable under any such undertaking, if not paid when due, shall be recoverable as an arrear of land revenue.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Persons empowered under this Act to be Public servants.</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>All officers and persons empowered to exercise any powers or to perform any duties under this Act shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Protection of action taken in good faith.</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against any officer or person appointed, authorised or empowered under this Act or against Government for anything which is in good faith done or intended to be done under this Act or the rules made there under.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Rules.</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, and subject to the condition of previous publication, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-26.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+              <item id="section-26.2.list1.a">
+                <num>(a)</num>
+                <p>the allowances payable to non-official members of the Advisory Committee under sub-section (4) of section 4;</p>
+              </item>
+              <item id="section-26.2.list1.b">
+                <num>(b)</num>
+                <p>the manner of publication of the proclamation under section 9;</p>
+              </item>
+              <item id="section-26.2.list1.c">
+                <num>(c)</num>
+                <p>the purposes for which any Park may be used and the conditions subject to which any person may enter or reside or move in a Park and the period during which the Park or any portion thereof shall be open to the public;</p>
+              </item>
+              <item id="section-26.2.list1.d">
+                <num>(d)</num>
+                <p>the fees, if any, to be paid for entry into or for residing in a Park or for admission of any animals, vehicles, or other conveyances into the Park or for taking photographs within the Park or for any other purpose connected with the use of the Park or any portion thereof, or of any amenities provided therein;</p>
+              </item>
+              <item id="section-26.2.list1.e">
+                <num>(e)</num>
+                <p>the conditions subject to which, the services or attendance of any Park Officers may be obtained by any person, visiting a Park and the fees, if any, to be paid for obtaining such services or attendance,</p>
+              </item>
+              <item id="section-26.2.list1.f">
+                <num>(f)</num>
+                <p>the regulation of traffic and carriage of passengers in a Park, including the places through which persons, animals, vehicles and other conveyances may enter or leave the Park and the routes by which they may move or pass through the Park;</p>
+              </item>
+              <item id="section-26.2.list1.g">
+                <num>(g)</num>
+                <p>the preservation, control and management of the Park;</p>
+              </item>
+              <item id="section-26.2.list1.h">
+                <num>(h)</num>
+                <p>the protection of the flora and fauna and the property in the Park;</p>
+              </item>
+              <item id="section-26.2.list1.i">
+                <num>(i)</num>
+                <p>the protection from defacement by writing or otherwise of any tree, rock, fence, seat, road, bridge, signboard or other object in the Park;</p>
+              </item>
+              <item id="section-26.2.list1.j">
+                <num>(j)</num>
+                <p>the protection of animals, the disposal of noxious, predatory or superabundant animals and the taking of animals for scientific and propagation purposes;</p>
+              </item>
+              <item id="section-26.2.list1.k">
+                <num>(k)</num>
+                <p>the preservation of public health and the abatement and prevention of nuisances;</p>
+              </item>
+              <item id="section-26.2.list1.l">
+                <num>(l)</num>
+                <p>the prevention of any unauthorised exhibition, fixing, erection or retaining of any advertisement, board, hoarding or structure in the Park and the removal of such advertisement board, hoarding or structure;</p>
+              </item>
+              <item id="section-26.2.list1.m">
+                <num>(m)</num>
+                <p>the additional powers and duties of the Director and Park Officers in regard to maintenance and management of Parks;</p>
+              </item>
+              <item id="section-26.2.list1.n">
+                <num>(n)</num>
+                <p>the circumstances in which and the conditions subject to which any of the powers and duties of any of the officers under this Act may be delegated by the Director to any subordinate officer or servant;</p>
+              </item>
+              <item id="section-26.2.list1.o">
+                <num>(o)</num>
+                <p>any matter which is to be or may be prescribed under this Act;</p>
+              </item>
+              <item id="section-26.2.list1.p">
+                <num>(p)</num>
+                <p>any other matter for which in the opinion of the State Government provision is expedient or necessary to carry out the objects of the Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-26.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this Act shall be laid as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if, before expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall, from the date of publication of notification in the Official Gazette of such decision, have effect only in such modified form or be of no effect, as the case may be, so however that any such modification or annulment shall be without prejudice to the validity of anything previously done or omitted to be done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Repeals and Savings</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>On the commencement of this Act, the Bombay National Parks Act, 1950, and the Madhya Pradesh National Parks Act, 1955 shall stand repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27.2.list1">
+              <listIntroduction>Notwithstanding the repeal of the said laws by sub-section (1),-</listIntroduction>
+              <item id="section-27.2.list1.a">
+                <num>(a)</num>
+                <p>any area constituted or declared to be a National Park under either of the repealed laws shall be deemed to be constituted a National Park under this Act;</p>
+              </item>
+              <item id="section-27.2.list1.b">
+                <num>(b)</num>
+                <p>anything else done or any other action taken (including any appointment or application made, notification, order or direction issued, fee levied, proceeding taken or permission given) under either of the two laws so repealed and in force immediately before the commencement of this Act, shall in so far as it is not inconsistent with the provisions of this Act, and unless the State Government otherwise, directs, be deemed to have been made, issued, levied, taken or given under relevant provisions of this Act, and continue to be in force in the respective area accordingly, unless and until superseded by anything done or any action taken under this Act:</p>
+              </item>
+            </blockList>
+            <p>Provided that, no regulations, rules, by-laws, notifications or other instruments made under either of the repealed laws and in force immediately before the commencement of this Act shall be deemed to be inconsistent with the provisions of this Act by reason only of the fact that under this Act for that matter, it is permissible to make only rules or by-laws or notifications or other instruments, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Operation of certain other laws not barred.</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <p>Nothing in this Act shall affect or limit the operation of the Indian Forest Act, 1927, or the Bombay Wild Animals and Wild Birds Protection Act, 1951, in any area constituted or deemed to be constituted a National or State Park under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Act not applicable to ancient monuments, etc., national importance.</heading>
+        <paragraph id="section-29.paragraph-0">
+          <content>
+            <p>For the avoidance of doubt, it is hereby declared that nothing in this Act shall apply to any ancient and historical monuments, or archaeological sites or remains, declared by or under any law made by Parliament to be of national importance.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

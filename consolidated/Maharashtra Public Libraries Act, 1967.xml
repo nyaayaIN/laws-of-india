@@ -1,0 +1,710 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/1967/34/main"/>
+          <FRBRuri value="/in-mah/act/1967/34"/>
+          <FRBRalias value="Maharashtra Public Libraries Act, 1967"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/1967/34/eng@2017-03-27/main"/>
+          <FRBRuri value="/in-mah/act/1967/34/eng@2017-03-27"/>
+          <FRBRdate date="2017-03-27" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/1967/34/eng@2017-03-27/main"/>
+          <FRBRuri value="/in-mah/act/1967/34/eng@2017-03-27"/>
+          <FRBRdate date="2017-03-27" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Maharashtra Public Libraries Act, 1967</shortTitle>
+      </p>
+      <longTitle>
+        <p>Maharashtra Act No. XXXIV of 1967</p>
+        <p>An Act to provide for the establishment, maintenance, organisation and development of public libraries in the State of Maharashtra.</p>
+        <p>WHEREAS, it is expedient to provide for the establishment, maintenance, organisation and development of public libraries, in the State of Maharashtra and for purposes connected with the matters aforesaid; It is hereby enacted in the Eighteenth Year of the Republic of India as follows: —</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Maharashtra Public Libraries Act, 1967.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of the State of Maharashtra.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint in that behalf; and different dates may be appointed for bringing this Act into force in different areas of this State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires, —</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“book” includes every volume, part or division of a volume and pamphlet in any language, and every sheet of music, map, chart or plan separately printed or lithographed, newspapers, periodicals, paintings, films, slides, discs or tapes used for audio-visual information and such other materials;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Committee” means a Library Committee appointed under section 13;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“compensatory allowance” means the travelling allowance, the daily allowance or such other allowance which is paid to the members of the Council or Committee for the purpose of meeting the personal expenditure incurred by them in attending the meetings of such Council or Committee or in performing any other functions as such members for the purposes of this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“Council” means the State Library Council constituted under section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“Director” means the Director of Libraries appointed under section 8;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“district” means a revenue district;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“Division” means a revenue division specified under clause (i) of sub-section (1) of section 4 of the Maharashtra Land Revenue Code, 1966;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“municipal corporation” means a municipal corporation constituted under the Mumbai Municipal Corporation Act or the Bombay Provincial Municipal Corporations Act, 1949 or the City of Nagpur Corporation Act, 1948;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>“Municipal Council” means a Municipal Council constituted or deemed to be constituted under the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965;] (x) “prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.j">
+                <num>(j)</num>
+                <blockList id="section-2.paragraph-0.list1.j.list0">
+                  <listIntroduction>“public library” means, —</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.j.list0.i">
+                    <num>(i)</num>
+                    <p>a library established and maintained by the State Government for the use of the public;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.j.list0.ii">
+                    <num>(ii)</num>
+                    <p>a library recognised by the Director for the purposes of grant-in-aid from the Library Fund; and</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.j.list0.iii">
+                    <num>(iii)</num>
+                    <p>any other library which the State Government by notification in the Official Gazette declares to be a public library for the purposes of this Act;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>“year” means the financial year.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Constitution of State Library Council.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>As soon as may be, after the commencement of this Act, the State Government shall, by notification in the Official Gazette, constitute for the purposes of this Act a Council to be called the State Library Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-3.2.list1">
+              <listIntroduction>The Council shall consist of the following members, that is to say, –</listIntroduction>
+              <item id="section-3.2.list1.a">
+                <num>(a)</num>
+                <p>the Minister for Higher and Technical Education, who shall be ex-officio President of the Council;</p>
+              </item>
+              <item id="section-3.2.list1.b">
+                <num>(b)</num>
+                <p>the Minister of State for Higher and Technical Education, who shall be ex-officio Vice-President of the Council;</p>
+              </item>
+              <item id="section-3.2.list1.c">
+                <num>(c)</num>
+                <p>the Principal Secretary or Secretary to the Government of Maharashtra, Higher and Technical Education Department;</p>
+              </item>
+              <item id="section-3.2.list1.d">
+                <num>(d)</num>
+                <p>the Charity Commissioner or his nominee not below the rank of Assistant Charity Commissioner;</p>
+              </item>
+              <item id="section-3.2.list1.e">
+                <num>(e)</num>
+                <p>the Director of Higher Education, Maharashtra State for the time being in office;</p>
+              </item>
+              <item id="section-3.2.list1.f">
+                <num>(f)</num>
+                <p>two members of the Maharashtra Legislative Assembly nominated by the Speaker of the Maharashtra Legislative Assembly;</p>
+              </item>
+              <item id="section-3.2.list1.g">
+                <num>(g)</num>
+                <p>one member of the Maharashtra Legislative Council nominated by the Chairman of the Maharashtra Legislative Council;</p>
+              </item>
+              <item id="section-3.2.list1.h">
+                <num>(h)</num>
+                <p>one person nominated by the State Government to represent Municipal Corporations functioning in the State of Maharashtra;</p>
+              </item>
+              <item id="section-3.2.list1.i">
+                <num>(i)</num>
+                <p>one person nominated by the State Government to represent Municipal Councils functioning in each of the Divisions;</p>
+              </item>
+              <item id="section-3.2.list1.j">
+                <num>(j)</num>
+                <p>one member from each Division nominated by the State Government to represent the Zilla Parishads functioning in that Division;</p>
+              </item>
+              <item id="section-3.2.list1.k">
+                <num>(k)</num>
+                <p>the President of the body known as the Maharashtra Rajya Granthalaya Sangha;</p>
+              </item>
+              <item id="section-3.2.list1.l">
+                <num>(l)</num>
+                <p>one member nominated by the said Maharashtra Rajya Granthalaya Sangha from each Division to represent that Division;</p>
+              </item>
+              <item id="section-3.2.list1.m">
+                <num>(m)</num>
+                <p>the Chairman of the body known as the Sahitya Mahamandal, a Society registered under the Bombay Public Trusts Act, 1950;</p>
+              </item>
+              <item id="section-3.2.list1.n">
+                <num>(n)</num>
+                <p>four members nominated by the State Government from amongst persons who, in its opinion, have special knowledge or interest or practical experience in matters connected with library service;</p>
+              </item>
+              <item id="section-3.2.list1.o">
+                <num>(o)</num>
+                <p>the Director of Libraries who shall also be the Secretary of the Council.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>A person so elected under paragraphs (vi) and (vii) of sub-section (2) shall cease to be a member of the Council if he ceases to be a member of the Maharashtra Legislative Assembly or the Maharashtra Legislative Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Function of Council.</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>It shall be the function of the Council to advise the State Government on all matters connected with the administration of this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Term of office of and allowances to members of Council.</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>Save as otherwise provided in this Act, at the members of the Council, not being members ex-officio, shall hold office for a term of three years commencing on the date on which the first meeting of the Council is held after the nomination of the members under sub-section (2) of section 3.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>The members of the Council shall be entitled to such compensatory allowances and at such rates as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Casual vacancies in Council.</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <p>A vacancy in the office of a nominated or elected member of the Council occurring otherwise than by efflux of time shall be filled by nomination or election, as the case may be, and the person nominated or elected to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was nominated or elected.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Meetings of Council.</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council shall meet not less than twice in every year, on such dates and at such hours as may be fixed by the President; and six months shall not intervene between two successive meetings.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>The President of the Council may, whenever he thinks fit, and shall, upon the written request of not less than one-third of the total number of members of the Council, and on a date not later than thirty days after the receipt of such request, call a special meeting of the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>One-third of the total number of members of the Council shall form the quorum.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>The Council shall transact business in such manner and in accordance with such procedure as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Department of Libraries.</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this Act, a Department of Libraries shall be constituted by the State Government with a Director of Libraries as its head and with such other officers and servants as the State Government may think fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government shall appoint a whole-time officer having the prescribed qualifications to be the Director of Libraries.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Functions of Director.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the superintendence, direction and control of the State Government, the Director shall be responsible for the administration of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-9.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing provision, the Director shall—</listIntroduction>
+              <item id="section-9.2.list1.a">
+                <num>(a)</num>
+                <p>be responsible for the planning, maintenance, organisation and development of public libraries and public library system;</p>
+              </item>
+              <item id="section-9.2.list1.b">
+                <num>(b)</num>
+                <p>superintend and direct all matters relating to public libraries;</p>
+              </item>
+              <item id="section-9.2.list1.c">
+                <num>(c)</num>
+                <p>promote the establishment of public libraries to achieve the purposes of this Act;</p>
+              </item>
+              <item id="section-9.2.list1.d">
+                <num>(d)</num>
+                <p>recognise, in accordance with the rules made under this Act, public libraries and State, Divisional and other public library associations for the purposes of grant-in-aid from the Library Fund and sanction and disburse grants to them;</p>
+              </item>
+              <item id="section-9.2.list1.e">
+                <num>(e)</num>
+                <p>maintain accounts of the Library Fund and ensure its proper utilisation;</p>
+              </item>
+              <item id="section-9.2.list1.f">
+                <num>(f)</num>
+                <p>publish annually a bibliography of all the books published in the State;</p>
+              </item>
+              <item id="section-9.2.list1.g">
+                <num>(g)</num>
+                <p>submit to the State Government every year, a report on the working of public libraries under this Act;</p>
+              </item>
+              <item id="section-9.2.list1.h">
+                <num>(h)</num>
+                <p>collect and preserve old and rare books, periodicals, manuscripts and other documents of educative value in public libraries;</p>
+              </item>
+              <item id="section-9.2.list1.i">
+                <num>(i)</num>
+                <p>organise programme for training candidates in library science and conduct examinations for the candidates of recognised library training courses; and</p>
+              </item>
+              <item id="section-9.2.list1.j">
+                <num>(j)</num>
+                <p>exercise such other powers and perform such other duties as may be conferred or imposed on him by rules made under this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>State Library Service.</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall establish a Maharashtra State Library Service, and appoint persons thereto.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>The Maharashtra State Library Service shall consist of such classes and categories of posts as the State Government may from time to time determine. All members of the said service shall be Government servants and their recruitment and conditions of service shall be regulated by such rules as may be made by the State Government from time to time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>The salaries, allowances, gratuity, pension and other emoluments of the members of the Maharashtra State Library Service, shall be paid from the Consolidated Fund of the State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Establishment and maintenance of public libraries.</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may establish a State Central Library for the whole of the State, and a Divisional Library for every Division.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>Where in any local area, provision for library service to the public is not made to the satisfaction of the Director by any local authority, or any society registered under the Societies Registration Act, 1860 or any trust registered under the Bombay Public Trusts Act, 1950 or where the State Government is of the opinion that any such local authority, society or trust is not willing or is incompetent to provide library service to the public to the satisfaction of the Director in any local area, the State Government may establish a library for the use of the public in that area: Provided that, no such library shall be established without giving an opportunity to the local authority, society or, as the case may be, the trust to show cause why the State Government should not establish a library in the said local area.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>All libraries established under this section shall be maintained, organised and developed by the State Government through the Department of Libraries.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Functions of Public libraries.</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>The functions of the public libraries shall be such as may, on the advice of the Council, be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Constitution of Library Committees.</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>For every district, the State Government shall appoint a District Library Committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-13.2.list1">
+              <listIntroduction>The Committee shall consist of the following members, that is to say, ––</listIntroduction>
+              <item id="section-13.2.list1.a">
+                <num>(a)</num>
+                <p>The Chairman for the time being of the Education Committee of a Zilla Parishad functioning in the district, who shall be ex-officio President of the Committee;</p>
+              </item>
+              <item id="section-13.2.list1.b">
+                <num>(b)</num>
+                <p>the President of the District Library Association of the district (if any);</p>
+              </item>
+              <item id="section-13.2.list1.c">
+                <num>(c)</num>
+                <p>one of the Chairman of the Managing Committees of recognised public libraries functioning in each taluka of the district nominated by the State Government;</p>
+              </item>
+              <item id="section-13.2.list1.d">
+                <num>(d)</num>
+                <p>five persons nominated by the State Government, one of whom shall be a librarian possessing the prescribed qualifications and two shall be persons representing libraries in the areas within the limits of a 1 [Municipal Council] or municipal corporation in the district;</p>
+              </item>
+              <item id="section-13.2.list1.e">
+                <num>(e)</num>
+                <p>one of the Presidents of the municipalities in the district nominated by the State Government;</p>
+              </item>
+              <item id="section-13.2.list1.f">
+                <num>(f)</num>
+                <p>the Education Officer for the time being of the Zilla Parishad functioning in the district, who shall also be ex-officio Secretary of the Committee.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-13.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-13.3.list1">
+              <listIntroduction>The State Government shall appoint a Library Committee for Brihan Mumbai consisting of ––</listIntroduction>
+              <item id="section-13.3.list1.a">
+                <num>(a)</num>
+                <p>the Chairman for the time being of the Education Committee of the municipal corporation of Brihan Mumbai who shall be the ex-officio President of the Committee;</p>
+              </item>
+              <item id="section-13.3.list1.b">
+                <num>(b)</num>
+                <p>five persons nominated by the State Government one of whom shall be a librarian possessing the prescribed qualifications and two shall be persons representing libraries in Brihan Mumbai;</p>
+              </item>
+              <item id="section-13.3.list1.c">
+                <num>(c)</num>
+                <p>Education Officer for the time being of the municipal corporation of Brihan Mumbai;</p>
+              </item>
+              <item id="section-13.3.list1.d">
+                <num>(d)</num>
+                <p>Educational Inspector, Brihan Mumbai, who shall also be the ex-officio Secretary of the Committee.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Term of office of, and allowances to members of Committees.</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>Save as otherwise provided in this Act, the nominated members of the Committee shall hold office for a term of three years commencing on the date on which the first meeting of the Committee is held after their nomination.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>The members of the Committee shall entitle to such compensatory allowances and at such rates as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Casual vacancies in Committee.</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>A vacancy in the office of a nominated member of the Committee occurring otherwise than by efflux of time shall be filled by nomination and the person nominated to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was nominated.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Functions of Committee.</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <blockList id="section-16.paragraph-0.list0">
+              <item id="section-16.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>to advise the State Government on all matters relating to development of library service in the district or, as the case may be, Brihan Mumbai on proper lines;</p>
+              </item>
+              <item id="section-16.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>to ensure that the prescribed function of the public libraries are performed by them satisfactorily; and</p>
+              </item>
+              <item id="section-16.paragraph-0.list0.c">
+                <num>(c)</num>
+                <p>to perform such other duties as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Manner of transaction of business by Committee.</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>The Committee shall transact business in such manner, and in accordance with such procedure, as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Library Fund.</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall constitute a fund called the Library Fund.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-18.2.list1">
+              <listIntroduction>The Library Fund shall consist of—</listIntroduction>
+              <item id="section-18.2.list1.a">
+                <num>(a)</num>
+                <p>contribution made by the State Government under section 20;</p>
+              </item>
+              <item id="section-18.2.list1.b">
+                <num>(b)</num>
+                <p>any special grants given by the State Government under section 21;</p>
+              </item>
+              <item id="section-18.2.list1.c">
+                <num>(c)</num>
+                <p>any grants given by the Government of India to State Government for development of public libraries; and</p>
+              </item>
+              <item id="section-18.2.list1.d">
+                <num>(d)</num>
+                <p>any contributions or gifts made by the public for development of public libraries.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Application of Library Fund.</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>The moneys in the Library Fund shall be utilized by the State Government for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-19.2.list1">
+              <listIntroduction>Without prejudice to the generality of sub-section (1), the moneys in the Library Fund may be utilized by the State Government to defray expenditure on the following: —</listIntroduction>
+              <item id="section-19.2.list1.a">
+                <num>(a)</num>
+                <p>establishment, maintenance and development of public libraries;</p>
+              </item>
+              <item id="section-19.2.list1.b">
+                <num>(b)</num>
+                <p>compensatory allowances payable to members of the Council and of the Committee; /</p>
+              </item>
+              <item id="section-19.2.list1.c">
+                <num>(c)</num>
+                <p>grants-in-aid to public libraries and library associations recognised for the purpose by the Director of Libraries.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Contribution by State Government.</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>The State Government shall, after due appropriation made by law in this behalf, contribute to the Library Fund every year, a sum not less than twenty-five lakhs of rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Special grants by State Government.</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>The State Government may make special grants to the Library Fund.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Vesting of properties held for purpose of Government Public Libraries.</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>All property, movable and immovable, acquired or held for the purpose of any public library maintained by the State Government shall vest in the State Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Reports and returns</heading>
+        <paragraph id="section-23.paragraph-0">
+          <content>
+            <p>Every person who is in charge of the management of a public library shall submit such reports and returns and furnish such information as the Director may from time to time require, to the Director or any person authorised by him in this behalf.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Inspections of public libraries</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>The Director or any person authorised by him in this behalf shall have power to inspect any public library or any institution attached thereto for the purpose of satisfying himself that the provisions of this Act and the rules made thereunder are carried out.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Submission of annual report by Director</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>Within six months from the end of every year, the Director shall prepare an annual report on the progress made by public libraries in that year and submit it to the State Government together with such information and particulars as may be prescribed: Provided that, no such report shall be submitted to the State Government unless it is approved by the Council.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Rules.</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, and subject to the condition of previous publication, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-26.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely: —</listIntroduction>
+              <item id="section-26.2.list1.a">
+                <num>(a)</num>
+                <p>under sub-section (2) of section 5 and sub-section (2) of section 14, the compensatory allowances payable to members of the Council and of the Committees and the rates at which such allowances shall be payable;</p>
+              </item>
+              <item id="section-26.2.list1.b">
+                <num>(b)</num>
+                <p>under sub-section (4) of section 7 and section 17, the manner in which and the procedure in accordance with which the Council and a Committee shall transact their business;</p>
+              </item>
+              <item id="section-26.2.list1.c">
+                <num>(c)</num>
+                <p>under sub-section (2) of section 8, the qualifications required for being appointed as the Director;</p>
+              </item>
+              <item id="section-26.2.list1.d">
+                <num>(d)</num>
+                <p>under clause (d) of sub-section (2) of section 9, rules in accordance with which the Director shall recognize public libraries and State, Divisional and other public library associations for the purposes of grant-in-aid from the Library Fund;</p>
+              </item>
+              <item id="section-26.2.list1.e">
+                <num>(e)</num>
+                <p>under clause (i) of sub-section (2) of section 9, the other powers and duties which the Director may exercise or perform;</p>
+              </item>
+              <item id="section-26.2.list1.f">
+                <num>(f)</num>
+                <p>under sub-section (2) of section 10, the requirement and conditions of service of members of the Maharashtra State Library Service;</p>
+              </item>
+              <item id="section-26.2.list1.g">
+                <num>(g)</num>
+                <p>under section 12, the functions of public libraries;</p>
+              </item>
+              <item id="section-26.2.list1.h">
+                <num>(h)</num>
+                <p>under section 13, the qualifications of a librarian to be nominated on a Committee;</p>
+              </item>
+              <item id="section-26.2.list1.i">
+                <num>(i)</num>
+                <p>under section 25, the information and particulars to be submitted to the State Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-26.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section shall be laid as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if before the expiry of the session, in which, it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, and notify such decision in the Official Gazette, the rule shall, from the date of publication of such notification, have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done or omitted to be done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

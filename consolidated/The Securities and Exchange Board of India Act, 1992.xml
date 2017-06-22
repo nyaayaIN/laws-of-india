@@ -1,0 +1,2228 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1992/15/main"/>
+          <FRBRuri value="/in-union/act/1992/15"/>
+          <FRBRalias value="The Securities and Exchange Board of India Act, 1992"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1992/15/eng@1992-04-04/main"/>
+          <FRBRuri value="/in-union/act/1992/15/eng@1992-04-04"/>
+          <FRBRdate date="1992-04-04" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1992/15/eng@1992-04-04/main"/>
+          <FRBRuri value="/in-union/act/1992/15/eng@1992-04-04"/>
+          <FRBRdate date="2016-11-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Securities And Exchange Board Of India Act, 1992</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[4th April, 1992]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 15 OF 1992</p>
+        <p>An Act to provide for the establishment of a Board to protect the interests of investors in securities and to promote the development of, and to regulate, the securities market and for matters connected therewith or incidental thereto</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Forty-third Year of the Republic of India as follows :</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Securities and Exchange Board of India Act, 1992.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall be deemed to have come into force on the 30th day of January, 1992.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>"Board" means the Securities and Exchange Board of India established under section 3;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>"Chairman" means the Chairman of the Board;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.1.list3">
+                <listIntroduction>( ba) "collective investment scheme" means any scheme or arrangement which satisfies the conditions specified in section 11AA;</listIntroduction>
+                <item id="section-2.1.list3.c">
+                  <num>(c)</num>
+                  <p>"existing Securities and Exchange Board" means the Securities and Exchange Board of India constituted under the Resolution of the Government of India in the Department of Economic Affairs No. 1(44) SE/86, dated the 12th day of April, 1988;</p>
+                </item>
+                <item id="section-2.1.list3.d">
+                  <num>(d)</num>
+                  <p>"Fund" means the Fund constituted under section 14;</p>
+                </item>
+                <item id="section-2.1.list3.e">
+                  <num>(e)</num>
+                  <p>"member" means a member of the Board and includes the Chairman;</p>
+                </item>
+                <item id="section-2.1.list3.f">
+                  <num>(f)</num>
+                  <p>"notification" means a notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.1.list3.g">
+                  <num>(g)</num>
+                  <p>"prescribed" means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.1.list3.h">
+                  <num>(h)</num>
+                  <p>"regulations" means the regulations made by the Board under this Act;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.1.list5">
+                <listIntroduction>( ha) "Reserve Bank" means the Reserve Bank of India constituted under section 3 of theReserve Bank of India Act, 1934 (2 of 1934);</listIntroduction>
+                <item id="section-2.1.list5.i">
+                  <num>(i)</num>
+                  <p>"securities" has the meaning assigned to it in section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Words and expressions used and not defined in this Act but defined in the Securities Contracts (Regulation) Act, 1956 (42 of 1956) or the Depositories Act, 1996, shall have the meanings respectively assigned to them in that Act</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Establishment of the Securities and Exchange Board of India</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment and incorporation of Board.</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>With effect from such date as the Central Government may, by notification, appoint, there shall be established, for the purposes of this Act, a Board by the name of the Securities and Exchange Board of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract, and shall, by the said name, sue or be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The head office of the Board shall be at Bombay.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.4">
+            <num>(4)</num>
+            <content>
+              <p>The Board may establish offices at other places in India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Management of the Board.</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-4.1.list1">
+                <listIntroduction>The Board shall consist of the following members, namely:—</listIntroduction>
+                <item id="section-4.1.list1.a">
+                  <num>(a)</num>
+                  <p>a Chairman;</p>
+                </item>
+                <item id="section-4.1.list1.b">
+                  <num>(b)</num>
+                  <p>two members from amongst the officials of the Ministry of the Central Government dealing with Finance and administration of the Companies Act, 1956 (1 of 1956);</p>
+                </item>
+                <item id="section-4.1.list1.c">
+                  <num>(c)</num>
+                  <p>one member from amongst the officials of the Reserve Bank;</p>
+                </item>
+                <item id="section-4.1.list1.d">
+                  <num>(d)</num>
+                  <p>five other members of whom at least three shall be the whole-time members, to beappointed by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The general superintendence, direction and management of the affairs of the Board shall vest in a Board of members, which may exercise all powers and do all acts and things which may be exercised or done by the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>Save as otherwise determined by regulations, the Chairman shall also have powers of general superintendence and direction of the affairs of the Board and may also exercise all powers and do all acts and things which may be exercised or done by that Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>The Chairman and members referred to in clauses (a) and (d) of sub-section (1) shall be appointed by the Central Government and the members referred to in clauses (b) and (c) of that sub-section shall be nominated by the Central Government and the Reserve Bank respectively.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>The Chairman and the other members referred to in clauses (a) and (d) of sub-section (1) shall be persons of ability, integrity and standing who have shown capacity in dealing with problems relating to securities market or have special knowledge or experience of law, finance, economics, accountancy, administration or in any other discipline which, in the opinion of the Central Government, shall be useful to the Board.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Term of office and conditions of service of Chairman and members of the Board.</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The term of office and other conditions of service of the Chairman and the members referred to in clause (d) of sub-section (1) of section 4 shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), the Central Government shall have the right to terminate the services of the Chairman or a member appointed under clause (d) of sub-section (1) of section 4, at any time before the expiry of the period prescribed under sub-section (1), by giving him notice of not less than three months in writing or three months‘ salary and allowances in lieu thereof, and the Chairman or a member, as the case may be, shall also have the right to relinquish his office, at any time before the expiry of the period prescribed under sub-section (1), by giving to the Central Government notice of not less than three months in writing.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Removal of member from office.</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <blockList id="section-6.paragraph-0.list1">
+                <listIntroduction>The Central Government shall remove a member from office if he—</listIntroduction>
+                <item id="section-6.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>is, or at any time has been, adjudicated as insolvent;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>is of unsound mind and stands so declared by a competent court;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>has been convicted of an offence which, in the opinion of the Central Government, involves a moral turpitude;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>has, in the opinion of the Central Government, so abused his position as to render his continuation in office detrimental to the public interest :</p>
+                </item>
+              </blockList>
+              <p>Provided that no member shall be removed under this clause unless he has been given a reasonable opportunity of being heard in the matter.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Meetings.</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall meet at such times and places, and shall observe such rules of procedure in regard to the transaction of business at its meetings (including quorum at such meetings) as may be provided by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman or, if for any reason, he is unable to attend a meeting of the Board, any other member chosen by the members present from amongst themselves at the meeting shall preside at the meeting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>All questions which come up before any meeting of the Board shall be decided by a majority votes of the members present and voting, and, in the event of an equality of votes, the Chairman, or in his absence, the person presiding, shall have a second or casting vote.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7A">
+          <num>7A.</num>
+          <heading>Member not to participate in meetings in certain cases.</heading>
+          <paragraph id="section-7A.paragraph-0">
+            <content>
+              <p>Any member, who is a director of a company and who as such director has any direct or indirect pecuniary interest in any matter coming up for consideration at a meeting of the Board, shall, as soon as possible after relevant circumstances have come to his knowledge, disclose the nature of his interest at such meeting and such disclosure shall be recorded in the proceedings of the Board, and the member shall not take any part in any deliberation or decision of the Board with respect to that matter.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings of Board.</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <blockList id="section-8.paragraph-0.list1">
+                <listIntroduction>No act or proceeding of the Board shall be invalid merely by reason of—</listIntroduction>
+                <item id="section-8.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of, the Board; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person acting as a member of the Board; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Board not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Officers and employees of the Board.</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board may appoint such other officers and employees as it considers necessary for the efficient discharge of its functions under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>The term and other conditions of service of officers and employees of the Board appointed under sub-section (1) shall be such as may be determined by regulations.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Transfer of Assets, Liabilities, etc., of the Existing Securities and Exchange Board to the Board</heading>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Transfer of assets, liabilities, etc., of existing Securities and Exchange Board to the Board.</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-10.1.list1">
+                <listIntroduction>On and from the date of establishment of the Board,—</listIntroduction>
+                <item id="section-10.1.list1.a">
+                  <num>(a)</num>
+                  <p>any reference to the existing Securities and Exchange Board in any law other than this Act or in any contract or other instrument shall be deemed as a reference to the Board;</p>
+                </item>
+                <item id="section-10.1.list1.b">
+                  <num>(b)</num>
+                  <p>all properties and assets, movable and immovable, of, or belonging to, the existing Securities and Exchange Board, shall vest in the Board;</p>
+                </item>
+                <item id="section-10.1.list1.c">
+                  <num>(c)</num>
+                  <p>all rights and liabilities of the existing Securities and Exchange Board shall be transferred to, and be the rights and liabilities of, the Board;</p>
+                </item>
+                <item id="section-10.1.list1.d">
+                  <num>(d)</num>
+                  <p>without prejudice to the provisions of clause (c), all debts, obligations and liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for the existing Securities and Exchange Board immediately before that date, for or in connection with the purpose of the said existing Board shall be deemed to have been incurred, entered into, or engaged to be done by, with or for, the Board;</p>
+                </item>
+                <item id="section-10.1.list1.e">
+                  <num>(e)</num>
+                  <p>all sums of money due to the existing Securities and Exchange Board immediately before that date shall be deemed to be due to the Board;</p>
+                </item>
+                <item id="section-10.1.list1.f">
+                  <num>(f)</num>
+                  <p>all suits and other legal proceedings instituted or which could have been instituted by or against the existing Securities and Exchange Board immediately before that date may be continued or may be instituted by or against the Board; and</p>
+                </item>
+                <item id="section-10.1.list1.g">
+                  <num>(g)</num>
+                  <p>every employee holding any office under the existing Securities and Exchange Board immediately before that date shall hold his office in the Board by the same tenure and upon the same terms and conditions of service as respects remuneration, leave, provident fund, retirement and other terminal benefits as he would have held such office if the Board had not been established and shall continue to do so as an employee of the Board or until the expiry of the period of six months from that date if such employee opts not to be the employee of the Board within such period.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947), or in any other law for the time being in force, absorption of any employee by the Board in its regular service under this section shall not entitle such employee to any compensation under that Act or other law and no such claim shall be entertained by any court, tribunal or other authority.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Powers and Functions of the Board</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Functions of Board.</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act, it shall be the duty of the Board to protect the interests of investors in securities and to promote the development of, and to regulate the securities market, by such measures as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-11.2.list1">
+                <listIntroduction>Without prejudice to the generality of the foregoing provisions, the measures referred to therein may provide for—</listIntroduction>
+                <item id="section-11.2.list1.a">
+                  <num>(a)</num>
+                  <p>regulating the business in stock exchanges and any other securities markets;</p>
+                </item>
+                <item id="section-11.2.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-11.2.list1.b.list0">
+                    <listIntroduction>registering and regulating the working of stock brokers, sub-brokers, share transfer agents, bankers to an issue, trustees of trust deeds, registrars to an issue, merchant bankers, underwriters, portfolio managers, investment advisers and such other intermediaries who may be associated with securities markets in any manner;</listIntroduction>
+                    <item id="section-11.2.list1.b.list0.ba">
+                      <num>(ba)</num>
+                      <p>registering and regulating the working of the depositories, participants, custodians of securities, foreign institutional investors, credit rating agencies and such other intermediaries as the Board may, by notification, specify in this behalf;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-11.2.list1.c">
+                  <num>(c)</num>
+                  <p>registering and regulating the working of venture capital funds and collective investment schemes, including mutual funds;</p>
+                </item>
+                <item id="section-11.2.list1.d">
+                  <num>(d)</num>
+                  <p>promoting and regulating self-regulatory organisations;</p>
+                </item>
+                <item id="section-11.2.list1.e">
+                  <num>(e)</num>
+                  <p>prohibiting fraudulent and unfair trade practices relating to securities markets;</p>
+                </item>
+                <item id="section-11.2.list1.f">
+                  <num>(f)</num>
+                  <p>promoting investors‘ education and training of intermediaries of securities markets;</p>
+                </item>
+                <item id="section-11.2.list1.g">
+                  <num>(g)</num>
+                  <p>prohibiting insider trading in securities;</p>
+                </item>
+                <item id="section-11.2.list1.h">
+                  <num>(h)</num>
+                  <p>regulating substantial acquisition of shares and take over of companies;</p>
+                </item>
+                <item id="section-11.2.list1.i">
+                  <num>(i)</num>
+                  <blockList id="section-11.2.list1.i.list1">
+                    <listIntroduction>calling for information from, undertaking inspection, conducting inquiries and audits of the stock exchanges, mutual funds, other persons associated with the securities market, intermediaries and self-regulatory organisations in the securities market;</listIntroduction>
+                    <item id="section-11.2.list1.i.list1.ia">
+                      <num>(ia)</num>
+                      <p>calling for information and records from any person including any bank or any other authority or board or corporation established or constituted by or under any Central or State Act which, in the opinion of the Board, shall be relevant to any investigation or inquiry by the Board in respect of any transaction in securities;</p>
+                    </item>
+                    <item id="section-11.2.list1.i.list1.ib">
+                      <num>(ib)</num>
+                      <p>calling for information from, or furnishing information to, other authorities, whether in India or outside India, having functions similar to those of the Board, in the matters relating to the prevention or detection of violations in respect of securities laws, subject to the provisions of other laws for the time being in force in this regard:Provided that the Board, for the purpose of furnishing any information to any authority outside India, may enter into an arrangement or agreement or understanding with such authority with the prior approval of the Central Government;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-11.2.list1.j">
+                  <num>(j)</num>
+                  <p>performing such functions and exercising such powers under the provisions of * * * the Securities Contracts (Regulation) Act, 1956 (42 of 1956), as may be delegated to it by the Central Government;</p>
+                </item>
+                <item id="section-11.2.list1.k">
+                  <num>(k)</num>
+                  <p>levying fees or other charges for carrying out the purposes of this section;</p>
+                </item>
+                <item id="section-11.2.list1.l">
+                  <num>(l)</num>
+                  <blockList id="section-11.2.list1.l.list2">
+                    <listIntroduction>conducting research for the above purposes;</listIntroduction>
+                    <item id="section-11.2.list1.l.list2.la">
+                      <num>(la)</num>
+                      <p>calling from or furnishing to any such agencies, as may be specified by the Board, such information as may be considered necessary by it for the efficient discharge of its functions;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-11.2.list1.m">
+                  <num>(m)</num>
+                  <p>performing such other functions as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11.2A">
+            <num>(2A)</num>
+            <content>
+              <p>Without prejudice to the provisions contained in sub-section (2), the Board may take measures to undertake inspection of any book, or register, or other document or record of any listed public company or a public company (not being intermediaries referred to in section 12) which intends to get its securities listed on any recognised stock exchange where the Board has reasonable grounds to believe that such company has been indulging in insider trading or fraudulent and unfair trade practices relating to securities market.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-11.3.list1">
+                <listIntroduction>Notwithstanding anything contained in any other law for the time being in force while exercising the powers under clause (i) or clause (ia) of sub-section (2) or sub- section (2A), the Board shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely :—</listIntroduction>
+                <item id="section-11.3.list1.i">
+                  <num>(i)</num>
+                  <p>the discovery and production of books of account and other documents, at such place and such time as may be specified by the Board;</p>
+                </item>
+                <item id="section-11.3.list1.ii">
+                  <num>(ii)</num>
+                  <p>summoning and enforcing the attendance of persons and examining them on oath;</p>
+                </item>
+                <item id="section-11.3.list1.iii">
+                  <num>(iii)</num>
+                  <p>inspection of any books, registers and other documents of any person referred to in section 12, at any place;</p>
+                </item>
+                <item id="section-11.3.list1.iv">
+                  <num>(iv)</num>
+                  <p>inspection of any book, or register, or other document or record of the company referred to in sub-section (2A);</p>
+                </item>
+                <item id="section-11.3.list1.v">
+                  <num>(v)</num>
+                  <p>issuing commissions for the examination of witnesses or documents.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-11.4.list1">
+                <listIntroduction>Without prejudice to the provisions contained in sub-sections (1), (2), (2A) and (3) and section 11B, the Board may, by an order, for reasons to be recorded in writing, in the interests of investors or securities market, take any of the following measures, either pending investigation or inquiry or on completion of such investigation or inquiry, namely:—</listIntroduction>
+                <item id="section-11.4.list1.a">
+                  <num>(a)</num>
+                  <p>suspend the trading of any security in a recognised stock exchange;</p>
+                </item>
+                <item id="section-11.4.list1.b">
+                  <num>(b)</num>
+                  <p>restrain persons from accessing the securities market and prohibit any person associated with securities market to buy, sell or deal in securities;</p>
+                </item>
+                <item id="section-11.4.list1.c">
+                  <num>(c)</num>
+                  <p>suspend any office-bearer of any stock exchange or self-regulatory organisation from holding such position;</p>
+                </item>
+                <item id="section-11.4.list1.d">
+                  <num>(d)</num>
+                  <p>impound and retain the proceeds or securities in respect of any transaction which is under investigation;</p>
+                </item>
+                <item id="section-11.4.list1.e">
+                  <num>(e)</num>
+                  <p>attach, after passing of an order on an application made for approval by the Judicial Magistrate of the first class having jurisdiction, for a period not exceeding one month, one or more bank account or accounts of any intermediary or any person associated with the securities market in any manner involved in violation of any of the provisions of this Act, or the rules or the regulations made thereunder :</p>
+                </item>
+              </blockList>
+              <blockList id="section-11.4.list3">
+                <listIntroduction>Provided that only the bank account or accounts or any transaction entered therein, so far as it relates to the proceeds actually involved in violation of any of the provisions of this Act, or the rules or the regulations made thereunder shall be allowed to be attached;</listIntroduction>
+                <item id="section-11.4.list3.f">
+                  <num>(f)</num>
+                  <p>direct any intermediary or any person associated with the securities market in any manner not to dispose of or alienate an asset forming part of any transaction which is under investigation :</p>
+                </item>
+              </blockList>
+              <p>Provided that the Board may, without prejudice to the provisions contained in sub-section (2) or sub-section (2A), take any of the measures specified in clause (d) or clause (e) or clause (f), in respect of any listed public company or a public company (not being intermediaries referred to in section 12) which intends to get its securities listed on any recognised stock exchange where the Board has reasonable grounds to believe that such company has been indulging in insider trading or fraudulent and unfair trade practices relating to securities market :</p>
+              <p>Provided further that the Board shall, either before or after passing such orders, give an opportunity of hearing to such intermediaries or persons concerned.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>The amount disgorged, pursuant to a direction issued, under section 11B of this Act or section 12A of the Securities Contracts (Regulation) Act, 1956 or section 19 of the Depositories Act, 1996, as the case may be, shall be credited to the Investor Protection and Education Fund established by the Board and such amount shall be utilised by the Board in accordance with the regulations made under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11A">
+          <num>11A.</num>
+          <heading>Board to regulate or prohibit issue of prospectus, offer document or advertisement soliciting money for issue of securities.</heading>
+          <subsection id="section-11A.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-11A.1.list1">
+                <listIntroduction>Without prejudice to the provisions of the Companies Act, 1956 (1 of 1956), the Board may, for the protection of investors,—</listIntroduction>
+                <item id="section-11A.1.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-11A.1.list1.a.list0">
+                    <listIntroduction>specify, by regulations—</listIntroduction>
+                    <item id="section-11A.1.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>the matters relating to issue of capital, transfer of securities and other matters incidental thereto; and</p>
+                    </item>
+                    <item id="section-11A.1.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>the manner in which such matters shall be disclosed by the companies;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-11A.1.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-11A.1.list1.b.list1">
+                    <listIntroduction>by general or special orders—</listIntroduction>
+                    <item id="section-11A.1.list1.b.list1.i">
+                      <num>(i)</num>
+                      <p>prohibit any company from issuing prospectus, any offer document, or advertisement soliciting money from the public for the issue of securities;</p>
+                    </item>
+                    <item id="section-11A.1.list1.b.list1.ii">
+                      <num>(ii)</num>
+                      <p>specify the conditions subject to which the prospectus, such offer document or advertisement, if not prohibited, may be issued.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11A.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the provisions of section 21 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956), the Board may specify the requirements for listing and transfer of securities and other matters incidental thereto.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11AA">
+          <num>11AA.</num>
+          <heading>Collective investment scheme.</heading>
+          <subsection id="section-11AA.1">
+            <num>(1)</num>
+            <content>
+              <p>Any scheme or arrangement which satisfies the conditions referred to in sub-section (2) or sub-section (2A) shall be a collective investment scheme:</p>
+              <p>Provided that any pooling of funds under any scheme or arrangement, which is not registered with the Board or is not covered under sub-section (3), involving a corpus amount of one hundred crore rupees or more shall be deemed to be a collective investment scheme.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11AA.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-11AA.2.list1">
+                <listIntroduction>Any scheme or arrangement made or offered by any person under which,—</listIntroduction>
+                <item id="section-11AA.2.list1.i">
+                  <num>(i)</num>
+                  <p>the contributions, or payments made by the investors, by whatever name called, are pooled and utilized for the purposes of the scheme or arrangement;</p>
+                </item>
+                <item id="section-11AA.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the contributions or payments are made to such scheme or arrangement by the investors with a view to receive profits, income, produce or property, whether movable or immovable, from such scheme or arrangement;</p>
+                </item>
+                <item id="section-11AA.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>the property, contribution or investment forming part of scheme or arrangement, whether identifiable or not, is managed on behalf of the investors;</p>
+                </item>
+                <item id="section-11AA.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>the investors do not have day-to-day control over the management and operation of the scheme or arrangement.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11AA.2A">
+            <num>(2A)</num>
+            <content>
+              <blockList id="section-11AA.2A.list1">
+                <listIntroduction>Any scheme or arrangement made or offered by any person satisfying the conditions as may be specified in accordance with the regulations made under this Act.(3) Notwithstanding anything contained in sub-section (2) or sub-section (2A), any scheme or arrangement—</listIntroduction>
+                <item id="section-11AA.2A.list1.i">
+                  <num>(i)</num>
+                  <p>made or offered by a co-operative society registered under the Co-operative Societies Act, 1912 (2 of 1912) or a society being a society registered or deemed to be registered under any law relating to co-operative societies for the time being in force in any State;</p>
+                </item>
+                <item id="section-11AA.2A.list1.ii">
+                  <num>(ii)</num>
+                  <p>under which deposits are accepted by non-banking financial companies as defined in clause (f) of section 45-I of the Reserve Bank of India Act, 1934 (2 of 1934);</p>
+                </item>
+                <item id="section-11AA.2A.list1.iii">
+                  <num>(iii)</num>
+                  <p>being a contract of insurance to which the Insurance Act, 1938 (4 of 1938), applies;</p>
+                </item>
+                <item id="section-11AA.2A.list1.iv">
+                  <num>(iv)</num>
+                  <p>providing for any Scheme, Pension Scheme or the Insurance Scheme framed under the Employees Provident Fund and Miscellaneous Provisions Act, 1952 (19 of 1952);</p>
+                </item>
+                <item id="section-11AA.2A.list1.v">
+                  <num>(v)</num>
+                  <p>under which deposits are accepted under section 58A of the Companies Act, 1956 (1 of 1956);</p>
+                </item>
+                <item id="section-11AA.2A.list1.vi">
+                  <num>(vi)</num>
+                  <p>under which deposits are accepted by a company declared as a Nidhi or a mutual benefit society under section 620A of the Companies Act, 1956 (1 of 1956);</p>
+                </item>
+                <item id="section-11AA.2A.list1.vii">
+                  <num>(vii)</num>
+                  <p>falling within the meaning of Chit business as defined in clause (d) of section 2 of the Chit Fund Act, 1982 (40 of 1982);</p>
+                </item>
+                <item id="section-11AA.2A.list1.viii">
+                  <num>(viii)</num>
+                  <p>under which contributions made are in the nature of subscription to a mutual fund;</p>
+                </item>
+                <item id="section-11AA.2A.list1.ix">
+                  <num>(ix)</num>
+                  <p>such other scheme or arrangement which the Central Government may, in consultation with the Board, notify,</p>
+                </item>
+              </blockList>
+              <p>shall not be a collective investment scheme.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11B">
+          <num>11B.</num>
+          <heading>Power to issue directions.</heading>
+          <paragraph id="section-11B.paragraph-0">
+            <content>
+              <blockList id="section-11B.paragraph-0.list1">
+                <listIntroduction>Save as otherwise provided in section 11, if after making or causing to be made an enquiry, the Board is satisfied that it is necessary,—</listIntroduction>
+                <item id="section-11B.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>in the interest of investors, or orderly development of securities market; or</p>
+                </item>
+                <item id="section-11B.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>to prevent the affairs of any intermediary or other persons referred to in section 12 being conducted in a manner detrimental to the interest of investors or securities market; or</p>
+                </item>
+                <item id="section-11B.paragraph-0.list1.iii">
+                  <num>(iii)</num>
+                  <p>to secure the proper management of any such intermediary or person,</p>
+                </item>
+              </blockList>
+              <blockList id="section-11B.paragraph-0.list3">
+                <listIntroduction>it may issue such directions,—</listIntroduction>
+                <item id="section-11B.paragraph-0.list3.a">
+                  <num>(a)</num>
+                  <p>to any person or class of persons referred to in section 12, or associated with the securities market; or</p>
+                </item>
+                <item id="section-11B.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>to any company in respect of matters specified in section 11A, as may be appropriate in the interests of investors in securities and the securities market.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—For the removal of doubts, it is hereby declared that the power to issue directions under this section shall include and always be deemed to have been included the power to direct any person, who made profit or averted loss by indulging in any transaction or activity in contravention of the provisions of this Act or regulations made thereunder, to disgorge an amount equivalent to the wrongful gain made or loss averted by such contravention.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11C">
+          <num>11C.</num>
+          <heading>Investigation.</heading>
+          <subsection id="section-11C.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-11C.1.list1">
+                <listIntroduction>Where the Board has reasonable ground to believe that—</listIntroduction>
+                <item id="section-11C.1.list1.a">
+                  <num>(a)</num>
+                  <p>the transactions in securities are being dealt with in a manner detrimental to the investors or the securities market; or</p>
+                </item>
+                <item id="section-11C.1.list1.b">
+                  <num>(b)</num>
+                  <p>any intermediary or any person associated with the securities market has violated any of the provisions of this Act or the rules or the regulations made or directions issued by the Board thereunder,</p>
+                </item>
+              </blockList>
+              <p>it may, at any time by order in writing, direct any person (hereafter in this section referred to as the Investigating Authority) specified in the order to investigate the affairs of such intermediary or persons associated with the securities market and to report thereon to the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the provisions of sections 235 to 241 of the Companies Act, 1956 (1 of 1956), it shall be the duty of every manager, managing director, officer and other employee of the company and every intermediary referred to in section 12 or every person associated with the securities market to preserve and to produce to the Investigating Authority or any person authorised by it in this behalf, all the books, registers, other documents and record of, or relating to, the company or, as the case may be, of or relating to, the intermediary or such person, which are in their custody or power.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.3">
+            <num>(3)</num>
+            <content>
+              <p>The Investigating Authority may require any intermediary or any person associated with securities market in any manner to furnish such information to, or produce such books, or registers, or other documents, or record before him or any person authorised by it in this behalf as it may consider necessary if the furnishing of such information or the production of such books, or registers, or other documents, or record is relevant or necessary for the purposes of its investigation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.4">
+            <num>(4)</num>
+            <content>
+              <p>The Investigating Authority may keep in its custody any books, registers, other documents and record produced under sub-section (2) or sub-section (3) for six months and thereafter shall return the same to any intermediary or any person associated with securities market by whom or on whose behalf the books, registers, other documents and record are produced :</p>
+              <p>Provided that the Investigating Authority may call for any book, register, other document and record if they are needed again :</p>
+              <p>Provided further that if the person on whose behalf the books, registers, other documents and record are produced requires certified copies of the books, registers, other documents and record produced before the Investigating Authority, it shall give certified copies of such books, registers, other documents and record to such person or on whose behalf the books, registers, other documents and record were produced.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.5">
+            <num>(5)</num>
+            <content>
+              <p>Any person, directed to make an investigation under sub-section (1), may examine on oath, any manager, managing director, officer and other employee of any intermediary or any person associated with securities market in any manner, in relation to the affairs of his business and may administer an oath accordingly and for that purpose may require any of those persons to appear before it personally.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.6">
+            <num>(6)</num>
+            <content>
+              <blockList id="section-11C.6.list1">
+                <listIntroduction>If any person fails without reasonable cause or refuses—</listIntroduction>
+                <item id="section-11C.6.list1.a">
+                  <num>(a)</num>
+                  <p>to produce to the Investigating Authority or any person authorised by it in this behalf any book, register, other document and record which is his duty under sub-section (2) or sub-section (3) to produce; or</p>
+                </item>
+                <item id="section-11C.6.list1.b">
+                  <num>(b)</num>
+                  <p>to furnish any information which is his duty under sub-section (3) to furnish; or</p>
+                </item>
+                <item id="section-11C.6.list1.c">
+                  <num>(c)</num>
+                  <p>to appear before the Investigating Authority personally when required to do so under sub-section (5) or to answer any question which is put to him by the Investigating Authority in pursuance of that sub-section; or</p>
+                </item>
+                <item id="section-11C.6.list1.d">
+                  <num>(d)</num>
+                  <p>to sign the notes of any examination referred to in sub-section (7),</p>
+                </item>
+              </blockList>
+              <p>he shall be punishable with imprisonment for a term which may extend to one year, or with fine, which may extend to one crore rupees, or with both, and also with a further fine which may extend to five lakh rupees for every day after the first during which the failure or refusal continues.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.7">
+            <num>(7)</num>
+            <content>
+              <p>Notes of any examination under sub-section (5) shall be taken down in writing and shall be read over to, or by, and signed by, the person examined, and may thereafter be used in evidence against him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.8">
+            <num>(8)</num>
+            <content>
+              <p>Where in the course of investigation, the Investigating Authority has reasonable ground to believe that the books, registers, other documents and record of, or relating to, any intermediary or any person associated with securities market in any manner, may be destroyed, mutilated, altered, falsified or secreted, the Investigating Authority may make an application to the Magistrate or Judge of such designated court in Mumbai, as may be notified by the Central Government for an order for the seizure of such books, registers, other documents and record. (8A) The authorised officer may requisition the services of any police officer or any officer of the Central Government, or of both, to assist him for all or any of the purposes specified in sub¬section (8) and it shall be the duty of every such officer to comply with such requisition.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.9">
+            <num>(9)</num>
+            <content>
+              <blockList id="section-11C.9.list1">
+                <listIntroduction>After considering the application and hearing the Investigating Authority, if necessary, the Magistrate or Judge of the Designated Court may, by order, authorise the Investigating Authority –</listIntroduction>
+                <item id="section-11C.9.list1.a">
+                  <num>(a)</num>
+                  <p>to enter, with such assistance, as may be required, the place or places where such books, registers, other documents and record are kept;</p>
+                </item>
+                <item id="section-11C.9.list1.b">
+                  <num>(b)</num>
+                  <p>to search that place or those places in the manner specified in the order; and</p>
+                </item>
+              </blockList>
+              <p>(c ) to seize books, registers, other documents and record, it considers necessary for the purposes of the investigation:</p>
+              <p>Provided that the Magistrate or Judge of the Designated Court shall not authorise seizure of books, registers, other documents and record, of any listed public company or a public company (not being the intermediaries specified under section 12) which intends to get its securities listed on any recognised stock exchange unless such company indulges in insider trading or market manipulation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11C.10">
+            <num>(10)</num>
+            <content>
+              <p>The Investigating Authority shall keep in its custody the books, registers, other documents and record seized under this section for such period not later than the conclusion of the investigation as it considers necessary and thereafter shall return the same to the company or the other body corporate, or, as the case may be, to the managing director or the manager or any other person, from whose custody or power they were seized and inform the Magistrate or Judge of the Designated Court of such return:</p>
+              <p>Provided that the Investigating Authority may, before returning such books, registers, other documents and record as aforesaid, place identification marks on them or any part thereof. (11) Save as otherwise provided in this section, every search or seizure made under this section shall be carried out in accordance with the provisions of the Code of Criminal Procedure, 1973 (2 of 1974) relating to searches or seizures made under that Code.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11D">
+          <num>11D.</num>
+          <heading>Cease and desist proceedings.</heading>
+          <paragraph id="section-11D.paragraph-0">
+            <content>
+              <p>If the Board finds, after causing an inquiry to be made, that any person has violated, or is likely to violate, any provisions of this Act, or any rules or regulations made thereunder, it may pass an order requiring such person to cease and desist from committing or causing such violation:</p>
+              <p>Provided that the Board shall not pass such order in respect of any listed public company or a public company (other than the intermediaries specified under section 12) which intends to get its securities listed on any recognised stock exchange unless the Board has reasonable grounds to believe that such company has indulged in insider trading or market manipulation.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Registration Certificate</heading>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Registration of stock brokers, sub-brokers, share transfer agents, etc.</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>No stock broker, sub-broker, share transfer agent, banker to an issue, trustee of trust deed, registrar to an issue, merchant banker, underwriter, portfolio manager, investment adviser and such other intermediary who may be associated with securities market shall buy, sell or deal in securities except under, and in accordance with, the conditions of a certificate of registration obtained from the Board in accordance with the regulations made under this Act:</p>
+              <p>Provided that a person buying or selling securities or otherwise dealing with the securities market as a stock broker, sub-broker, share transfer agent, banker to an issue, trustee of trust deed, registrar to an issue, merchant banker, underwriter, portfolio manager, investment adviser and such other intermediary who may be associated with securities market immediately before the establishment of the Board for which no registration certificate was necessary prior to such establishment, may continue to do so for a period of three months from such establishment or, if he has made an application for such registration within the said period of three months, till the disposal of such application:</p>
+              <p>Provided further that any certificate of registration, obtained immediately before the commencement of the Securities Laws (Amendment) Act, 1995, shall be deemed to have been obtained from the Board in accordance with the regulations providing for such registration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.1A">
+            <num>(1A)</num>
+            <content>
+              <p>No depository, participant, custodian of securities, foreign institutional investor, credit rating agency, or any other intermediary associated with the securities market as the Board may by notification in this behalf specify, shall buy or sell or deal in securities except under and in accordance with the conditions of a certificate of registration obtained from the Board in accordance with the regulations made under this Act:</p>
+              <p>Provided that a person buying or selling securities or otherwise dealing with the securities market as a depository, participant, custodian of securities, foreign institutional investor or credit rating agency immediately before the commencement of the Securities Laws (Amendment) Act, 1995, for which no certificate of registration was required prior to such commencement, may continue to buy or sell securities or otherwise deal with the securities market until such time regulations are made under clause (d) of sub-section (2) of section 30.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.1B">
+            <num>(1B)</num>
+            <content>
+              <p>No person shall sponsor or cause to be sponsored or carry on or caused to be carried on any venture capital funds or collective investment schemes including mutual funds, unless he obtains a certificate of registration from the Board in accordance with the regulations:</p>
+              <p>Provided that any person sponsoring or causing to be sponsored, carrying or causing to be carried on any venture capital funds or collective investment schemes operating in the securities market immediately before the commencement of the Securities Laws (Amendment) Act, 1995, for which no certificate of registration was required prior to such commencement, may continue to operate till such time regulations are made under clause (d) of sub-section (2) of section 30.</p>
+              <p>Explanation- For the removal of doubts, it is hereby declared that, for purposes of this section, a collective investment scheme or mutual fund shall not include any unit linked insurance policy or scrips or any such instrument or unit, by whatever name called, which provides a component of investment besides the component of insurance issued by an insurer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>Every application for registration shall be in such manner and on payment of such fees as may be determined by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>The Board may, by order, suspend or cancel a certificate of registration in such manner as may be determined by regulations:</p>
+              <p>Provided that no order under this sub-section shall be made unless the person concerned has been given a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VA">
+        <num>VA</num>
+        <heading>Prohibition of Manipulative and Deceptive Devices, Insider Trading and Substantial Acquisition of Securities or Control</heading>
+        <section id="section-12A">
+          <num>12A.</num>
+          <heading>Prohibition of manipulative and deceptive devices, insider trading and substantial acquisition of securities or control.</heading>
+          <paragraph id="section-12A.paragraph-0">
+            <content>
+              <blockList id="section-12A.paragraph-0.list1">
+                <listIntroduction>No person shall directly or indirectly—</listIntroduction>
+                <item id="section-12A.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>use or employ, in connection with the issue, purchase or sale of any securities listed or proposed to be listed on a recognized stock exchange, any manipulative or deceptive device or contrivance in contravention of the provisions of this Act or the rules or the regulations made thereunder;</p>
+                </item>
+                <item id="section-12A.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>employ any device, scheme or artifice to defraud in connection with issue or dealing in securities which are listed or proposed to be listed on a recognised stock exchange;</p>
+                </item>
+                <item id="section-12A.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>engage in any act, practice, course of business which operates or would operate as fraud or deceit upon any person, in connection with the issue, dealing in securities which are listed or proposed to be listed on a recognised stock exchange, in contravention of the provisions of this Act or the rules or the regulations made thereunder;</p>
+                </item>
+                <item id="section-12A.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>engage in insider trading;</p>
+                </item>
+                <item id="section-12A.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>deal in securities while in possession of material or non-public information or communicate such material or non-public information to any other person, in a manner which is in contravention of the provisions of this Act or the rules or the regulations made thereunder;</p>
+                </item>
+                <item id="section-12A.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>acquire control of any company or securities more than the percentage of equity share capital of a company whose securities are listed or proposed to be listed on a recognised stock exchange in contravention of the regulations made under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Finance, Accounts and Audit</heading>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Grants by the Central Government.</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Board grants of such sums of money as that Government may think fit for being utilized for the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Fund.</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>There shall be constituted a Fund to be called the Securities and Exchange Board of India General Fund and there shall be credited thereto—</listIntroduction>
+                <item id="section-14.1.list1.a">
+                  <num>(a)</num>
+                  <p>all grants, fees and charges received by the Board under this Act;</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.1.list3">
+                <listIntroduction>* * *</listIntroduction>
+                <item id="section-14.1.list3.aa">
+                  <num>(aa)</num>
+                  <p>* * *</p>
+                </item>
+                <item id="section-14.1.list3.b">
+                  <num>(b)</num>
+                  <p>all sums received by the Board from such other sources as may be decided upon by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-14.2.list1">
+                <listIntroduction>The Fund shall be applied for meeting—</listIntroduction>
+                <item id="section-14.2.list1.a">
+                  <num>(a)</num>
+                  <p>the salaries, allowances and other remuneration of the members, officers and other employees of the Board;</p>
+                </item>
+                <item id="section-14.2.list1.b">
+                  <num>(b)</num>
+                  <p>the expenses of the Board in the discharge of its functions under section 11;</p>
+                </item>
+                <item id="section-14.2.list1.c">
+                  <num>(c)</num>
+                  <p>the expenses on objects and for purposes authorised by this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Accounts and audit.</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of the Board shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Board to the Comptroller and Auditor-General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>The Comptroller and Auditor-General of India and any other person appointed by him in connection with the audit of the accounts of the Board shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.4">
+            <num>(4)</num>
+            <content>
+              <p>The accounts of the Board as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIA">
+        <num>VIA</num>
+        <heading>Penalties and Adjudication</heading>
+        <section id="section-15A">
+          <num>15A.</num>
+          <heading>Penalty for failure to furnish information, return, etc.</heading>
+          <paragraph id="section-15A.paragraph-0">
+            <content>
+              <blockList id="section-15A.paragraph-0.list1">
+                <listIntroduction>If any person, who is required under this Act or any rules or regulations made thereunder,—</listIntroduction>
+                <item id="section-15A.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to furnish any document, return or report to the Board, fails to furnish the same, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15A.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to file any return or furnish any information, books or other documents within the time specified therefor in the regulations, fails to file return or furnish the same within the time specified therefor in the regulations, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15A.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to maintain books of account or records, fails to maintain the same, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15B">
+          <num>15B.</num>
+          <heading>Penalty for failure by any person to enter into agreement with clients.</heading>
+          <paragraph id="section-15B.paragraph-0">
+            <content>
+              <p>If any person, who is registered as an intermediary and is required under this Act or any rules or regulations made thereunder to enter into an agreement with his client, fails to enter into such agreement, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15C">
+          <num>15C.</num>
+          <heading>Penalty for failure to redress investors’ grievances.</heading>
+          <paragraph id="section-15C.paragraph-0">
+            <content>
+              <p>If any listed company or any person who is registered as an intermediary, after having been called upon by the Board in writing, to redress the grievances of investors, fails to redress such grievances within the time specified by the Board, such company or intermediary shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15D">
+          <num>15D.</num>
+          <heading>Penalty for certain defaults in case of mutual funds.</heading>
+          <paragraph id="section-15D.paragraph-0">
+            <content>
+              <blockList id="section-15D.paragraph-0.list1">
+                <listIntroduction>If any person, who is—</listIntroduction>
+                <item id="section-15D.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>required under this Act or any rules or regulations made thereunder to obtain a certificate of registration from the Board for sponsoring or carrying on any collective investment scheme, including mutual funds, sponsors or carries on any collective investment scheme, including mutual funds, without obtaining such certificate of registration, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which he sponsors or carries on any such collective investment scheme including mutual funds subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15D.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>registered with the Board as a collective investment scheme, including mutual funds, for sponsoring or carrying on any investment scheme, fails to comply with the terms and conditions of certificate of registration, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15D.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>registered with the Board as a collective investment scheme, including mutual funds, fails to make an application for listing of its schemes as provided for in the regulations governing such listing, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15D.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>registered as a collective investment scheme, including mutual funds, fails to despatch unit certificates of any scheme in the manner provided in the regulation governing such despatch, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15D.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>registered as a collective investment scheme, including mutual funds, fails to refund the application monies paid by the investors within the period specified in the regulations, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15D.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>registered as a collective investment scheme, including mutual funds, fails to invest money collected by such collective investment schemes in the manner or within the period specified in the regulations, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15E">
+          <num>15E.</num>
+          <heading>Penalty for failure to observe rules and regulations by an asset management company.</heading>
+          <paragraph id="section-15E.paragraph-0">
+            <content>
+              <p>Where any asset management company of a mutual fund registered under this Act, fails to comply with any of the regulations providing for restrictions on the activities of the asset management companies, such asset management company shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15F">
+          <num>15F.</num>
+          <heading>Penalty for default in case of stock brokers.</heading>
+          <paragraph id="section-15F.paragraph-0">
+            <content>
+              <blockList id="section-15F.paragraph-0.list1">
+                <listIntroduction>If any person, who is registered as a stock broker under this Act,—</listIntroduction>
+                <item id="section-15F.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>fails to issue contract notes in the form and manner specified by the stock exchange of which such broker is a member, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to for which the contract note was required to be issued by that broker;</p>
+                </item>
+                <item id="section-15F.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>fails to deliver any security or fails to make payment of the amount due to the investor in the manner within the period specified in the regulations, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which he sponsors or carries on any such collective investment scheme including mutual funds subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-15F.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>charges an amount of brokerage which is in excess of the brokerage specified in the regulations, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to five times the amount of brokerage charged in excess of the specified brokerage, whichever is higher.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15G">
+          <num>15G.</num>
+          <heading>Penalty for insider trading.</heading>
+          <paragraph id="section-15G.paragraph-0">
+            <content>
+              <blockList id="section-15G.paragraph-0.list1">
+                <listIntroduction>If any insider who,—</listIntroduction>
+                <item id="section-15G.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>either on his own behalf or on behalf of any other person, deals in securities of a body corporate listed on any stock exchange on the basis of any unpublished price-sensitive information; or</p>
+                </item>
+                <item id="section-15G.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>communicates any unpublished price-sensitive information to any person, with or without his request for such information except as required in the ordinary course of business or under any law; or</p>
+                </item>
+                <item id="section-15G.paragraph-0.list1.iii">
+                  <num>(iii)</num>
+                  <p>counsels, or procures for any other person to deal in any securities of any body corporate on the basis of unpublished price-sensitive information,</p>
+                </item>
+              </blockList>
+              <p>shall be liable to a penalty which shall not be less than ten lakh rupees but which may extend to twenty-five crore rupees or three times the amount of profits made out of insider trading, whichever is higher.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15H">
+          <num>15H.</num>
+          <heading>Penalty for non-disclosure of acquisition of shares and takeovers.</heading>
+          <paragraph id="section-15H.paragraph-0">
+            <content>
+              <blockList id="section-15H.paragraph-0.list1">
+                <listIntroduction>If any person, who is required under this Act or any rules or regulations made thereunder, fails to,—</listIntroduction>
+                <item id="section-15H.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>disclose the aggregate of his shareholding in the body corporate before he acquires any shares of that body corporate; or</p>
+                </item>
+                <item id="section-15H.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>make a public announcement to acquire shares at a minimum price; or</p>
+                </item>
+                <item id="section-15H.paragraph-0.list1.iii">
+                  <num>(iii)</num>
+                  <p>make a public offer by sending letter of offer to the shareholders of the concerned company; or(iv) make payment of consideration to the shareholders who sold their shares pursuant to letter of offer,</p>
+                </item>
+              </blockList>
+              <p>he shall be liable to a penalty which shall not be less than ten lakh rupees but which may extend to twenty-five crore rupees or three times the amount of profits made out of such failure, whichever is higher.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15HA">
+          <num>15HA.</num>
+          <heading>Penalty for fraudulent and unfair trade practices.</heading>
+          <paragraph id="section-15HA.paragraph-0">
+            <content>
+              <p>If any person indulges in fraudulent and unfair trade practices relating to securities, he shall be liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty-five crore rupees or three times the amount of profits made out of such practices, whichever is higher.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15HB">
+          <num>15HB.</num>
+          <heading>Penalty for contravention where no separate penalty has been provided.</heading>
+          <paragraph id="section-15HB.paragraph-0">
+            <content>
+              <p>Whoever fails to comply with any provision of this Act, the rules or the regulations made or directions issued by the Board thereunder for which no separate penalty has been provided, shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15I">
+          <num>15I.</num>
+          <heading>Power to adjudicate.</heading>
+          <subsection id="section-15I.1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of adjudging under sections 15A, 15B, 15C, 15D, 15E, 15F, 15G ,15H, 15HA and 15HB, the Board shall appoint any officer not below the rank of a Division Chief to be an adjudicating officer for holding an inquiry in the prescribed manner after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any penalty.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15I.2">
+            <num>(2)</num>
+            <content>
+              <p>While holding an inquiry the adjudicating officer shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any document which in the opinion of the adjudicating officer, may be useful for or relevant to the subject-matter of the inquiry and if, on such inquiry, he is satisfied that the person has failed to comply with the provisions of any of the sections specified in sub¬section (1), he may impose such penalty as he thinks fit in accordance with the provisions of any of those sections.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15I.3">
+            <num>(3)</num>
+            <content>
+              <p>The Board may call for and examine the record of any proceedings under this section and if it considers that the order passed by the adjudicating officer is erroneous to the extent it is not in the interests of the securities market, it may, after making or causing to be made such inquiry as it deems necessary, pass an order enhancing the quantum of penalty, if the circumstances of the case so justify:</p>
+              <p>Provided that no such order shall be passed unless the person concerned has been given an opportunity of being heard in the matter:</p>
+              <p>Provided further that nothing contained in this sub-section shall be applicable after an expiry of a period of three months from the date of the order passed by the adjudicating officer or disposal of the appeal under section 15T, whichever is earlier.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15J">
+          <num>15J.</num>
+          <heading>Factors to be taken into account by the adjudicating officer.</heading>
+          <paragraph id="section-15J.paragraph-0">
+            <content>
+              <blockList id="section-15J.paragraph-0.list1">
+                <listIntroduction>While adjudging quantum of penalty under section 15-I, the adjudicating officer shall have due regard to the following factors, namely :—</listIntroduction>
+                <item id="section-15J.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default;</p>
+                </item>
+                <item id="section-15J.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the amount of loss caused to an investor or group of investors as a result of the default;</p>
+                </item>
+                <item id="section-15J.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the repetitive nature of the default.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15JA">
+          <num>15JA.</num>
+          <heading>Crediting sums realised by way of penalties to Consolidated Fund of India.</heading>
+          <paragraph id="section-15JA.paragraph-0">
+            <content>
+              <p>All sums realised by way of penalties under this Act shall be credited to the Consolidated Fund of India.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15JB">
+          <num>15JB.</num>
+          <heading>Settlement of administrative and civil proceedings.</heading>
+          <subsection id="section-15JB.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, any person, against whom any proceedings have been initiated or may be initiated under section 11, section 11B, section 11D, sub-section (3) of section 12 or section 15-I, may file an application in writing to the Board proposing for settlement of the proceedings initiated or to be initiated for the alleged defaults.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15JB.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board may, after taking into consideration the nature, gravity and impact of defaults, agree to the proposal for settlement, on payment of such sum by the defaulter or on such other terms as may be determined by the Board in accordance with the regulations made under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15JB.3">
+            <num>(3)</num>
+            <content>
+              <p>The settlement proceedings under this section shall be conducted in accordance with the procedure specified in the regulations made under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15JB.4">
+            <num>(4)</num>
+            <content>
+              <p>No appeal shall lie under section 15T against any order passed by the Board or adjudicating officer, as the case may be, under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIB">
+        <num>VIB</num>
+        <heading>Establishment, Jurisdiction, Authority and Procedure of Appellate Tribunal</heading>
+        <section id="section-15K">
+          <num>15K.</num>
+          <heading>Establishment of Securities Appellate Tribunals.</heading>
+          <subsection id="section-15K.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall by notification, establish one or more Appellate Tribunals to be known as the Securities Appellate Tribunal to exercise the jurisdiction, powers and authority conferred on such Tribunal by or under this Act or any other law for the time being in force.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15K.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government shall also specify in the notification referred to in sub-section (1) the matters and places in relation to which the Securities Appellate Tribunal may exercise jurisdiction.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15L">
+          <num>15L.</num>
+          <heading>Composition of Securities Appellate Tribunal.</heading>
+          <paragraph id="section-15L.paragraph-0">
+            <content>
+              <p>A Securities Appellate Tribunal shall consist of a Presiding Officer and two other members, to be appointed, by notification, by the Central Government:</p>
+              <p>Provided that the Securities Appellate Tribunal, consisting of one person only, established before the commencement of the Securities and Exchange Board of India (Amendment) Act, 2002, shall continue to exercise the jurisdiction, powers and authority conferred on it by or under this Act or any other law for the time being in force till two other Members are appointed under this section.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15M">
+          <num>15M.</num>
+          <heading>Qualification for appointment as Presiding Officer or Member of Securities Appellate Tribunal.</heading>
+          <subsection id="section-15M.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-15M.1.list1">
+                <listIntroduction>A person shall not be qualified for appointment as the Presiding Officer of the Securities Appellate Tribunal unless he-</listIntroduction>
+                <item id="section-15M.1.list1.a">
+                  <num>(a)</num>
+                  <p>is a sitting or retired Judge of the Supreme Court or a sitting or retired Chief Justice of a High Court; or</p>
+                </item>
+                <item id="section-15M.1.list1.b">
+                  <num>(b)</num>
+                  <p>is a sitting or retired Judge of a High Court who has completed not less than seven years of service as a Judge in a High Court.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15M.1A">
+            <num>(1A)</num>
+            <content>
+              <p>The Presiding Officer of the Securities Appellate Tribunal shall be appointed by the Central Government in consultation with the Chief Justice of India or his nominee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15M.2">
+            <num>(2)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as member of a Securities Appellate Tribunal unless he is a person of ability, integrity and standing who has shown capacity in dealing with problems relating to securities market and has qualification and experience of corporate law, securities laws, finance, economics or accountancy:</p>
+              <p>Provided that a member of the Board or any person holding a post at senior management level equivalent to Executive Director in the Board shall not be appointed as Presiding Officer or Member of a Securities Appellate Tribunal during his service or tenure as such with the Board or within two years from the date on which he ceases to hold office as such in the Board.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15N">
+          <num>15N.</num>
+          <heading>Tenure of office of Presiding Officer and other Members of Securities Appellate Tribunal.</heading>
+          <paragraph id="section-15N.paragraph-0">
+            <content>
+              <p>The Presiding Officer and every other Member of a Securities Appellate Tribunal shall hold office for a term of five years from the date on which he enters upon his office and shall be eligible for re-appointment:</p>
+              <p>Provided that no person shall hold office as the Presiding Officer of the Securities Appellate Tribunal after he has attained the age of sixty-eight years:</p>
+              <p>Provided further that no person shall hold office as a Member of the Securities Appellate Tribunal after he has attained the age of sixty-two years.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15O">
+          <num>15O.</num>
+          <heading>Salary and allowances and other terms and conditions of service of Presiding Officers.</heading>
+          <paragraph id="section-15O.paragraph-0">
+            <content>
+              <p>The salary and allowances payable to and the other terms and conditions of service including pension, gratuity and other retirement benefits of the Presiding Officer and other Members of a Securities Appellate Tribunal shall be such as may be prescribed:</p>
+              <p>Provided that neither the salary and allowances nor the other terms and conditions of service of the Presiding Officer and other Members of a Securities Appellate Tribunal shall be varied to their disadvantage after appointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15P">
+          <num>15P.</num>
+          <heading>Filling up of vacancies.</heading>
+          <paragraph id="section-15P.paragraph-0">
+            <content>
+              <p>If, for reason other than temporary absence, any vacancy occurs in the office of the Presiding Officer or any other Member of a Securities Appellate Tribunal, then the Central Government shall appoint another person in accordance with the provisions of this Act to fill the vacancy and the proceedings may be continued before the Securities Appellate Tribunal from the stage at which the vacancy is filled.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15Q">
+          <num>15Q.</num>
+          <heading>Resignation and removal.</heading>
+          <subsection id="section-15Q.1">
+            <num>(1)</num>
+            <content>
+              <p>The Presiding Officer or any other Member of a Securities Appellate Tribunal may, by notice in writing under his hand addressed to the Central Government, resign his office:</p>
+              <p>Provided that the Presiding Officer or any other Member shall, unless he is permitted by the Central Government to relinquish his office sooner, continue to hold office, until the expiry of three months from the date of receipt of such notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is the earliest.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15Q.2">
+            <num>(2)</num>
+            <content>
+              <p>The Presiding Officer or any other Member of a Securities Appellate Tribunal shall not be removed from his office except by an order by the Central Government on the ground of</p>
+              <p>proved misbehaviour or incapacity after an inquiry made by a Judge of the Supreme Court, in which the Presiding Officer or any other Member concerned has been informed of the charges against him and given a reasonable opportunity of being heard in respect of these charges.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15Q.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may, by rules, regulate the procedure for the investigation of misbehaviour or incapacity of the Presiding Officer or any other Member.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15R">
+          <num>15R.</num>
+          <heading>Orders constituting Appellate Tribunal to be final and not to invalidate its proceedings.</heading>
+          <paragraph id="section-15R.paragraph-0">
+            <content>
+              <p>No order of the Central Government appointing any person as the Presiding Officer or a Member of a Securities Appellate Tribunal shall be called in question in any manner, and no act or proceeding before a Securities Appellate Tribunal shall be called in question in any manner on the ground merely of any defect in the constitution of a Securities Appellate Tribunal.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15S">
+          <num>15S.</num>
+          <heading>Staff of the Securities Appellate Tribunal.</heading>
+          <subsection id="section-15S.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall provide the Securities Appellate Tribunal with such officers and employees as that Government may think fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15S.2">
+            <num>(2)</num>
+            <content>
+              <p>The officers and employees of the Securities Appellate Tribunal shall discharge their functions under general superintendence of the Presiding Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15S.3">
+            <num>(3)</num>
+            <content>
+              <p>The salaries and allowances and other conditions of service of the officers and employees of the Securities Appellate Tribunal shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15T">
+          <num>15T.</num>
+          <heading>Appeal to the Securities Appellate Tribunal.</heading>
+          <subsection id="section-15T.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-15T.1.list1">
+                <listIntroduction>Save as provided in sub-section (2), any person aggrieved,—</listIntroduction>
+                <item id="section-15T.1.list1.a">
+                  <num>(a)</num>
+                  <p>by an order of the Board made, on and after the commencement of the Securities Laws (Second Amendment) Act, 1999, under this Act, or the rules or regulations made thereunder; or</p>
+                </item>
+                <item id="section-15T.1.list1.b">
+                  <num>(b)</num>
+                  <p>by an order made by an adjudicating officer under this Act,</p>
+                </item>
+              </blockList>
+              <p>may prefer an appeal to a Securities Appellate Tribunal having jurisdiction in the matter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15T.2">
+            <num>(2)</num>
+            <content>
+              <p>********</p>
+            </content>
+          </subsection>
+          <subsection id="section-15T.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order made by the Board or the Adjudicating Officer, as the case may be, is received by him and it shall be in such form and be accompanied by such fee as may be prescribed :</p>
+              <p>Provided that the Securities Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15T.4">
+            <num>(4)</num>
+            <content>
+              <p>On receipt of an appeal under sub-section (1), the Securities Appellate Tribunal may, after giving the parties to the appeal, an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15T.5">
+            <num>(5)</num>
+            <content>
+              <p>The Securities Appellate Tribunal shall send a copy of every order made by it to the Board, the parties to the appeal and to the concerned Adjudicating Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15T.6">
+            <num>(6)</num>
+            <content>
+              <p>The appeal filed before the Securities Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15U">
+          <num>15U.</num>
+          <heading>Procedure and powers of the Securities Appellate Tribunal.</heading>
+          <subsection id="section-15U.1">
+            <num>(1)</num>
+            <content>
+              <p>The Securities Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, and of any rules, the Securities Appellate Tribunal shall have powers to regulate their own procedure including the places at which they shall have their sittings.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15U.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-15U.2.list1">
+                <listIntroduction>The Securities Appellate Tribunal shall have, for the purposes of discharging their functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely :—</listIntroduction>
+                <item id="section-15U.2.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-15U.2.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of documents;</p>
+                </item>
+                <item id="section-15U.2.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-15U.2.list1.d">
+                  <num>(d)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-15U.2.list1.e">
+                  <num>(e)</num>
+                  <p>reviewing its decisions;</p>
+                </item>
+                <item id="section-15U.2.list1.f">
+                  <num>(f)</num>
+                  <p>dismissing an application for default or deciding it ex parte ;</p>
+                </item>
+                <item id="section-15U.2.list1.g">
+                  <num>(g)</num>
+                  <p>setting aside any order of dismissal of any application for default or any order passed by it ex parte ;</p>
+                </item>
+                <item id="section-15U.2.list1.h">
+                  <num>(h)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15U.3">
+            <num>(3)</num>
+            <content>
+              <p>Every proceeding before the Securities Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196 of the Indian Penal Code (45 of 1860), and the Securities Appellate Tribunal shall be deemed to be a civil court for all the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15V">
+          <num>15V.</num>
+          <heading>Right to legal representation.</heading>
+          <paragraph id="section-15V.paragraph-0">
+            <content>
+              <p>The appellant may either appear in person or authorise one or more chartered accountants or company secretaries or cost accountants or legal practitioners or any of its officers to present his or its case before the Securities Appellate Tribunal.</p>
+              <blockList id="section-15V.paragraph-0.list2">
+                <listIntroduction>Explanation.—For the purposes of this section,—</listIntroduction>
+                <item id="section-15V.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>"chartered accountant" means a chartered accountant as defined in clause (b) of sub-section (1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+                </item>
+                <item id="section-15V.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>"company secretary" means a company secretary as defined in clause (c) of sub-section (1) of section 2 of the Company Secretaries Act, 1980 (56 of 1980) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+                </item>
+                <item id="section-15V.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>"cost accountant" means a cost accountant as defined in clause (b) of sub-section (1) of section 2 of the Cost and Works Accountants Act, 1959 (23 of 1959) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+                </item>
+                <item id="section-15V.paragraph-0.list2.d">
+                  <num>(d)</num>
+                  <p>"legal practitioner" means an advocate, vakil or any attorney of any High Court, and includes a pleader in practice.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15W">
+          <num>15W.</num>
+          <heading>Limitation.</heading>
+          <paragraph id="section-15W.paragraph-0">
+            <content>
+              <p>The provisions of the Limitation Act, 1963 (36 of 1963), shall, as far as may be, apply to an appeal made to a Securities Appellate Tribunal.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15X">
+          <num>15X.</num>
+          <heading>Presiding Officer, Members and staff of Securities Appellate Tribunals to be public servants.</heading>
+          <paragraph id="section-15X.paragraph-0">
+            <content>
+              <p>The Presiding Officer, Members and other officers and employees of a Securities Appellate Tribunal shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15Y">
+          <num>15Y.</num>
+          <heading>Civil Court not to have jurisdiction.</heading>
+          <paragraph id="section-15Y.paragraph-0">
+            <content>
+              <p>No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which an adjudicating officer appointed under this Act or a Securities Appellate Tribunal constituted under this Act is empowered by or under this Act to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15Z">
+          <num>15Z.</num>
+          <heading>Appeal to Supreme Court.</heading>
+          <paragraph id="section-15Z.paragraph-0">
+            <content>
+              <p>Any person aggrieved by any decision or order of the Securities Appellate Tribunal may file an appeal to the Supreme Court within sixty days from the date of communication of the decision or order of the Securities Appellate Tribunal to him on any question of law arising out of such order :</p>
+              <p>Provided that the Supreme Court may, if it is satisfied that the applicant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding sixty days.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Power of Central Government to issue directions.</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the foregoing provisions of this Act or the Depositories Act, 1996, the Board shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy as the Central Government may give in writing to it from time to time :</p>
+              <p>Provided that the Board shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The decision of the Central Government whether a question is one of policy or not shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Power of Central Government to supersede the Board.</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-17.1.list1">
+                <listIntroduction>If at any time the Central Government is of opinion—</listIntroduction>
+                <item id="section-17.1.list1.a">
+                  <num>(a)</num>
+                  <p>that on account of grave emergency, the Board is unable to discharge the functions and duties imposed on it by or under the provisions of this Act; or</p>
+                </item>
+                <item id="section-17.1.list1.b">
+                  <num>(b)</num>
+                  <p>that the Board has persistently made default in complying with any direction issued by the Central Government under this Act or in the discharge of the functions and duties imposed on it by or under the provisions of this Act and as a result of such default the financial position of the Board or the administration of the Board has deteriorated; or</p>
+                </item>
+                <item id="section-17.1.list1.c">
+                  <num>(c)</num>
+                  <p>that circumstances exist which render it necessary in the public interest so to do,</p>
+                </item>
+              </blockList>
+              <p>the Central Government may, by notification, supersede the Board for such period, not exceeding six months, as may be specified in the notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-17.2.list1">
+                <listIntroduction>Upon the publication of a notification under sub-section (1) superseding the Board,—</listIntroduction>
+                <item id="section-17.2.list1.a">
+                  <num>(a)</num>
+                  <p>all the members shall, as from the date of supersession, vacate their offices as such;</p>
+                </item>
+                <item id="section-17.2.list1.b">
+                  <num>(b)</num>
+                  <p>all the powers, functions and duties which may, by or under the provisions of this Act, be exercised or discharged by or on behalf of the Board, shall until the Board is reconstituted under sub-section (3), be exercised and discharged by such person or persons as the Central Government may direct; and</p>
+                </item>
+                <item id="section-17.2.list1.c">
+                  <num>(c)</num>
+                  <p>all property owned or controlled by the Board shall, until the Board is reconstituted under sub-section (3), vest in the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <p>On the expiration of the period of supersession specified in the notification issued under sub-section (1), the Central Government may reconstitute the Board by a fresh appointment and in such case any person or persons who vacated their offices under clause (a) of sub-section (2), shall not be deemed disqualified for appointment :</p>
+              <p>Provided that the Central Government may, at any time, before the expiration of the period of supersession, take action under this sub-section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government shall cause a notification issued under sub-section (1) and a full report of any action taken under this section and the circumstances leading to such action to be laid before each House of Parliament at the earliest.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Returns and reports.</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall furnish to the Central Government at such time and in such form and manner as may be prescribed or as the Central Government may direct, such returns and statements and such particulars in regard to any proposed or existing programme for the promotion and development of the securities market, as the Central Government may, from time to time, require.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the provisions of sub-section (1), the Board shall, within ninety days after the end of each financial year, submit to the Central Government a report in such form, as may be prescribed, giving a true and full account of its activities, policy and programmes during the previous financial year.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <p>A copy of the report received under sub-section (2) shall be laid, as soon as may be after it is received, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Delegation.</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The Board may, by general or special order in writing delegate to any member, officer of the Board or any other person subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act (except the powers under section 29) as it may deem necessary.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Appeals.</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person aggrieved by an order of the Board made , before the commencement of the Securities Laws (Second Amendment) Act, 1999, under this Act, or the rules or regulations made thereunder may prefer an appeal to the Central Government within such time as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>No appeal shall be admitted if it is preferred after the expiry of the period prescribed therefor:</p>
+              <p>Provided that an appeal may be admitted after the expiry of the period prescribed therefor if the appellant satisfies the Central Government that he had sufficient cause for not preferring the appeal within the prescribed period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal made under this section shall be made in such form and shall be accompanied by a copy of the order appealed against and by such fees as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.4">
+            <num>(4)</num>
+            <content>
+              <p>The procedure for disposing of an appeal shall be such as may be prescribed:</p>
+              <p>Provided that before disposing of an appeal, the appellant shall be given a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20A">
+          <num>20A.</num>
+          <heading>Bar of jurisdiction..</heading>
+          <paragraph id="section-20A.paragraph-0">
+            <content>
+              <p>No order passed by the Board or the Adjudicating Officer under this Act shall be appealable except as provided in section 15T or section 20 and no civil court shall have jurisdiction in respect of any matter which the Board or the Adjudicating Officer is empowered by, or under, this Act to pass any order and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any order passed by the Board or the Adjudicating Officer by, or under, this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Savings.</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Nothing in this Act shall exempt any person from any suit or other proceedings which might, apart from this Act, be brought against him.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Members, officers and employees of the Board to be public servants</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>All members, officers and other employees of the Board shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Protection of action taken in good faith.</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against the Central Government or Board or any officer of the Central Government or any member, officer or other employee of the Board for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Offences.</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to any award of penalty by the adjudicating officer under this Act, if any person contravenes or attempts to contravene or abets the contravention of the provisions of this Act or of any rules or regulations made thereunder, he shall be punishable with imprisonment for a term which may extend to ten years, or with fine, which may extend to twenty-five crore rupees or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>If any person fails to pay the penalty imposed by the adjudicating officer or fails to comply with any of his directions or orders, he shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to ten years, or with fine, which may extend to twenty-five crore rupees or with both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24A">
+          <num>24A.</num>
+          <heading>Composition of certain offences.</heading>
+          <paragraph id="section-24A.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under this Act, not being an offence punishable with imprisonment only, or with imprisonment and also with fine, may either before or after the institution of any proceeding, be compounded by a Securities Appellate Tribunal or a court before which such proceedings are pending.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24B">
+          <num>24B.</num>
+          <heading>Power to grant immunity.</heading>
+          <subsection id="section-24B.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, on recommendation by the Board, if the Central Government is satisfied, that any person, who is alleged to have violated any of the provisions of this Act or the rules or the regulations made thereunder, has made a full and true disclosure in respect of the alleged violation, grant to such person, subject to such conditions as it may think fit to impose, immunity from prosecution for any offence under this Act, or the rules or the regulations made thereunder or also from the imposition of any penalty under this Act with respect to the alleged violation:</p>
+              <p>Provided that no such immunity shall be granted by the Central Government in cases where the proceedings for the prosecution for any such offence have been instituted before the date of receipt of application for grant of such immunity:</p>
+              <p>Provided further that recommendation of the Board under this sub-section shall not be binding upon the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24B.2">
+            <num>(2)</num>
+            <content>
+              <p>An immunity granted to a person under sub-section (1) may, at any time, be withdrawn by the Central Government, if it is satisfied that such person had, in the course of the proceedings, not complied with the condition on which the immunity was granted or had given false evidence, and thereupon such person may be tried for the offence with respect to which the immunity was granted or for any other offence of which he appears to have been guilty in connection with the contravention and shall also become liable to the imposition of any penalty under this Act to which such person would have been liable, had not such immunity been granted.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Exemption from tax on wealth and income.</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <blockList id="section-25.paragraph-0.list1">
+                <listIntroduction>Notwithstanding anything contained in the Wealth-tax Act, 1957 (27 of 1957), the Income-tax Act, 1961 (43 of 1961) or any other enactment for the time being in force relating to tax on wealth, income, profits or gains—</listIntroduction>
+                <item id="section-25.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the Board;</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the existing Securities and Exchange Board from the date of its constitution to the date of establishment of the Board,</p>
+                </item>
+              </blockList>
+              <p>shall not be liable to pay wealth-tax, income-tax or any other tax in respect of their wealth, income, profits or gains derived.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Cognizance of offences by courts.</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>No court shall take cognizance of any offence punishable under this Act or any rules or regulations made thereunder, save on a complaint made by the Board * * *.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>*****</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26A">
+          <num>26A.</num>
+          <heading>Establishment of Special Courts.</heading>
+          <subsection id="section-26A.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, for the purpose of providing speedy trial of offences under this Act, by notification, establish or designate as many Special Courts as may be necessary.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26A.2">
+            <num>(2)</num>
+            <content>
+              <p>A Special Court shall consist of a single judge who shall be appointed by the Central Government with the concurrence of the Chief Justice of the High Court within whose jurisdiction the judge to be appointed is working.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26A.3">
+            <num>(3)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as a judge of a Special Court unless he is, immediately before such appointment, holding the office of a Sessions Judge or an Additional Sessions Judge, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26B">
+          <num>26B.</num>
+          <heading>Offences triable by Special Courts.</heading>
+          <paragraph id="section-26B.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973, all offences under this Act committed prior to the date of commencement of the Securities Laws (Amendment) Act, 2014 or on or after the date of such commencement, shall be taken cognizance of and tried by the Special Court established for the area in which the offence is committed or where there are more Special Courts than one for such area, by such one of them as may be specified in this behalf by the High Court concerned.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26C">
+          <num>26C.</num>
+          <heading>Appeal and revision.</heading>
+          <paragraph id="section-26C.paragraph-0">
+            <content>
+              <p>The High Court may exercise, so far as may be applicable, all the powers conferred by Chapters XXIX and XXX of the Code of Criminal Procedure, 1973 on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26D">
+          <num>26D.</num>
+          <heading>Application of Code to proceedings before Special Court.</heading>
+          <subsection id="section-26D.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Session and the person conducting prosecution before a Special Court shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26D.2">
+            <num>(2)</num>
+            <content>
+              <p>The person conducting prosecution referred to in sub-section (1) should have been in practice as an advocate for not less than seven years or should have held a post, for a period of not less than seven years, under the Union or a State, requiring special knowledge of law.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26E">
+          <num>26E.</num>
+          <heading>Transitional provisions.</heading>
+          <paragraph id="section-26E.paragraph-0">
+            <content>
+              <p>Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be taken cognizance of and tried by a Court of Session exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973:</p>
+              <p>Provided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code of Criminal Procedure, 1973 to transfer any case or class of cases taken cognizance by a Court of Session under this section.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Offences by companies.</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <blockList id="section-27.2.list2">
+                <listIntroduction>Explanation : For the purposes of this section,—</listIntroduction>
+                <item id="section-27.2.list2.a">
+                  <num>(a)</num>
+                  <p>"company" means any body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-27.2.list2.b">
+                  <num>(b)</num>
+                  <p>"director", in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Power to exempt.</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>***</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28A">
+          <num>28A.</num>
+          <heading>Recovery of amounts.</heading>
+          <subsection id="section-28A.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-28A.1.list1">
+                <listIntroduction>If a person fails to pay the penalty imposed by the adjudicating officer or fails to comply with any direction of the Board for refund of monies or fails to comply with a direction of disgorgement order issued under section 11B or fails to pay any fees due to the Board, the Recovery Officer may draw up under his signature a statement in the specified form specifying the amount due from the person (such statement being hereafter in this Chapter referred to as certificate) and shall proceed to recover from such person the amount specified in the certificate by one or more of the following modes, namely:—</listIntroduction>
+                <item id="section-28A.1.list1.a">
+                  <num>(a)</num>
+                  <p>attachment and sale of the person's movable property;</p>
+                </item>
+                <item id="section-28A.1.list1.b">
+                  <num>(b)</num>
+                  <p>attachment of the person's bank accounts;</p>
+                </item>
+                <item id="section-28A.1.list1.c">
+                  <num>(c)</num>
+                  <p>attachment and sale of the person's immovable property;</p>
+                </item>
+                <item id="section-28A.1.list1.d">
+                  <num>(d)</num>
+                  <p>arrest of the person and his detention in prison;</p>
+                </item>
+                <item id="section-28A.1.list1.e">
+                  <num>(e)</num>
+                  <p>appointing a receiver for the management of the person's movable and immovable properties,</p>
+                </item>
+              </blockList>
+              <p>and for this purpose, the provisions of sections 220 to 227, 228A, 229, 232, the Second and Third Schedules to the Income-tax Act, 1961 and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time, in so far as may be, apply with necessary modifications as if the said provisions and the rules made thereunder were the provisions of this Act and referred to the amount due under this Act instead of to income-tax under the Income-tax Act, 1961.</p>
+              <p>Explanation 1.— For the purposes of this sub-section, the person's movable or immovable property or monies held in bank accounts shall include any property or monies held in bank accounts which has been transferred directly or indirectly on or after the date when the amount specified in certificate had become due, by the person to his spouse or minor child or son's wife or son's minor child, otherwise than for adequate consideration, and which is held by, or stands in the name of, any of the persons aforesaid; and so far as the movable or immovable property or monies held in bank accounts so transferred to his minor child or his son's minor child is concerned, it shall, even after the date of attainment of majority by such minor child or son's minor child, as the case may be, continue to be included in the person's movable or immovable property or monies held in bank accounts for recovering any amount due from the person under this Act.</p>
+              <p>Explanation 2.— Any reference under the provisions of the Second and Third Schedules to the Income-tax Act, 1961 and the Income-tax (Certificate Proceedings) Rules, 1962 to the assessee shall be construed as a reference to the person specified in the certificate.</p>
+              <p>Explanation 3.— Any reference to appeal in Chapter XVIID and the Second Schedule to the Income-tax Act, 1961, shall be construed as a reference to appeal before the Securities Appellate Tribunal under section 15T of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28A.2">
+            <num>(2)</num>
+            <content>
+              <p>The Recovery Officer shall be empowered to seek the assistance of the local district administration while exercising the powers under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-28A.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, the recovery of amounts by a Recovery Officer under sub-section (1), pursuant to non-compliance with any direction issued by the Board under section 11B, shall have precedence over any other claim against such person.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28A.4">
+            <num>(4)</num>
+            <content>
+              <p>For the purposes of sub-sections (1), (2) and (3), the expression ‗‗Recovery Officer“ means any officer of the Board who may be authorised, by general or special order in writing, to exercise the powers of a Recovery Officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Power to make rules.</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules for carrying out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-29.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely :—</listIntroduction>
+                <item id="section-29.2.list1.a">
+                  <num>(a)</num>
+                  <p>the term of office and other conditions of service of the Chairman and the members under sub-section (1) of section 5;</p>
+                </item>
+                <item id="section-29.2.list1.b">
+                  <num>(b)</num>
+                  <p>the additional functions that may be performed by the Board under section 11;</p>
+                </item>
+                <item id="section-29.2.list1.c">
+                  <num>(c)</num>
+                  <p>* * *</p>
+                </item>
+                <item id="section-29.2.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-29.2.list1.d.list0">
+                    <listIntroduction>the manner in which the accounts of the Board shall be maintained under section 15;</listIntroduction>
+                    <item id="section-29.2.list1.d.list0.da">
+                      <num>(da)</num>
+                      <p>the manner of inquiry under sub-section (1) of section 15-I;</p>
+                    </item>
+                    <item id="section-29.2.list1.d.list0.db">
+                      <num>(db)</num>
+                      <p>the salaries and allowances and other terms and conditions of service of the Presiding Officers, Members and other officers and employees of the Securities Appellate Tribunal under section 15-O and sub-section (3) of section 15S;</p>
+                    </item>
+                    <item id="section-29.2.list1.d.list0.dc">
+                      <num>(dc)</num>
+                      <p>the procedure for the investigation of misbehaviour or incapacity of the Presiding Officers, or other Members of the Securities Appellate Tribunal under sub-section (3) of section 15Q;</p>
+                    </item>
+                    <item id="section-29.2.list1.d.list0.dd">
+                      <num>(dd)</num>
+                      <p>the form in which an appeal may be filed before the Securities Appellate Tribunal under section 15T and the fees payable in respect of such appeal;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-29.2.list1.d">
+                  <num>(d)</num>
+                  <p>the form and the manner in which returns and report to be made to the Central Government under section 18;</p>
+                </item>
+                <item id="section-29.2.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which is to be, or may be, prescribed, or in respect of which provision is to be, or may be, made by rules.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Power to make regulations.</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board may, *** by notification, make regulations consistent with this Act and the rules made thereunder to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-30.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely :—</listIntroduction>
+                <item id="section-30.2.list1.a">
+                  <num>(a)</num>
+                  <p>the times and places of meetings of the Board and the procedure to be followed at such meetings under sub-section (1) of section 7 including quorum necessary for the transaction of business;</p>
+                </item>
+                <item id="section-30.2.list1.b">
+                  <num>(b)</num>
+                  <p>the terms and other conditions of service of officers and employees of the Board under sub-section (2) of section 9;</p>
+                </item>
+                <item id="section-30.2.list1.c">
+                  <num>(c)</num>
+                  <blockList id="section-30.2.list1.c.list0">
+                    <listIntroduction>the matters relating to issue of capital, transfer of securities and other matters incidental thereto and the manner in which such matters shall be disclosed by the companies under section 11A;</listIntroduction>
+                    <item id="section-30.2.list1.c.list0.ca">
+                      <num>(ca)</num>
+                      <p>the utilisation of the amount credited under sub-section (5) of section 11;</p>
+                    </item>
+                    <item id="section-30.2.list1.c.list0.cb">
+                      <num>(cb)</num>
+                      <p>the fulfilment of other conditions relating to collective investment scheme under sub¬section (2A) of section 11AA;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-30.2.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-30.2.list1.d.list1">
+                    <listIntroduction>the conditions subject to which certificate of registration is to be issued, the amount of fee to be paid for certificate of registration and the manner of suspension or cancellation of certificate of registration under section 12.</listIntroduction>
+                    <item id="section-30.2.list1.d.list1.da">
+                      <num>(da)</num>
+                      <p>the terms determined by the Board for settlement of proceedings under sub-section (2) and the procedure for conducting of settlement proceedings under sub-section (3) of section 15JB;</p>
+                    </item>
+                    <item id="section-30.2.list1.d.list1.db">
+                      <num>(db)</num>
+                      <p>any other matter which is required to be, or may be, specified by regulations or in respect of which provision is to be made by regulations.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Rules and regulations to be laid before Parliament.</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <p>Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Application of other laws not barred.</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Amendment of certain enactments.</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <p>***</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Power to remove difficulties.</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty :</p>
+              <p>Provided that no order shall be made under this section after the expiry of five years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34A">
+          <num>34A.</num>
+          <heading>Validation of certain acts.</heading>
+          <paragraph id="section-34A.paragraph-0">
+            <content>
+              <p>Any act or thing done or purporting to have been done under the principal Act, in respect of calling for information from, or furnishing information to, other authorities, whether in India or outside India, having functions similar to those of the Board and in respect of settlement of administrative and civil proceedings, shall, for all purposes, be deemed to be valid and effective as if the amendments made to the principal Act had been in force at all material times.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Repeal and Saving</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>The Securities and Exchange Board of India Ordinance, 1992 (Ord. 5 of 1992), is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1992/15/schedules"/>
+              <FRBRuri value="/in-union/act/1992/15"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1992/15/eng@1992-04-04/schedules"/>
+              <FRBRuri value="/in-union/act/1992/15/eng@1992-04-04"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1992/15/eng@1992-04-04/schedules"/>
+              <FRBRuri value="/in-union/act/1992/15/eng@1992-04-04"/>
+              <FRBRdate date="2016-10-26" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>(See section 33)</heading>
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <p>***</p>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

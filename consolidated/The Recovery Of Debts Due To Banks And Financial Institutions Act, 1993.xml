@@ -1,0 +1,1190 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1993/51/main"/>
+          <FRBRuri value="/in-union/act/1993/51"/>
+          <FRBRalias value="The Recovery Of Debts Due To Banks And Financial Institutions Act, 1993"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1993/51/eng@1993-08-27/main"/>
+          <FRBRuri value="/in-union/act/1993/51/eng@1993-08-27"/>
+          <FRBRdate date="1993-08-27" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1993/51/eng@1993-08-27/main"/>
+          <FRBRuri value="/in-union/act/1993/51/eng@1993-08-27"/>
+          <FRBRdate date="2017-06-07" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Recovery Of Debts Due To Banks And Financial Institutions Act, 1993</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 51 OF 1993</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[27th August, 1993.]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for the establishment of Tribunals for expeditious adjudication and recovery of debts due to banks and financial institutions and for matters connected therewith or incidental thereto. BE it enacted by Parliament in the Forty-fourth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent, commencement and application.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Recovery of Debts Due to Banks and Financial Institutions Act, 1993.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall be deemed to have come into force on the 24th day of June, 1993.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.4">
+            <num>(4)</num>
+            <content>
+              <p>The provisions of this Act shall not apply where the amount of debt due to any bank or financial institution or to a consortium of banks or financial institutions is less than ten lakh rupees or such other amount, being not less than one lakh rupees, as the Central Government may, by notification, specify.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“Appellate Tribunal” means an Appellate Tribunal established under sub-section (1) of section 8;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“application” means an application made to a Tribunal under section 19;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“appointed day”, in relation to a Tribunal or an Appellate Tribunal, means the date on which such Tribunal is established under sub-section (1) of section 3 or, as the case may be, sub-section (1) of section 8;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-2.paragraph-0.list1.d.list0">
+                    <listIntroduction>“bank” means—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.d.list0.i">
+                      <num>(i)</num>
+                      <p>banking company;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>a corresponding new bank;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.iii">
+                      <num>(iii)</num>
+                      <p>State Bank of India;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.iv">
+                      <num>(iv)</num>
+                      <p>a subsidiary bank; or</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.v">
+                      <num>(v)</num>
+                      <p>a Regional Rural Bank;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.vi">
+                      <num>(vi)</num>
+                      <p>a multi-State co-operative bank;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“banking company” shall have the meaning assigned to it in clause (c) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.ea">
+                  <num>(ea)</num>
+                  <p>“Chairperson” means a Chairperson of an Appellate Tribunal appointed under section 9;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“corresponding new bank” shall have the meaning assigned to it in clause (da) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“debt” means any liability (inclusive of interest) which is claimed as due from any person by a bank or a financial institution or by a consortium of banks or financial institutions during the course of any business activity undertaken by the bank or the financial institution or the consortium under any law for the time being in force, in cash or otherwise, whether secured or unsecured, or assigned, or whether payable under a decree or order of any civil court or any arbitration award or otherwise or under a mortgage and subsisting on, and legally recoverable on, the date of the application;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“financial institution” means—</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <blockList id="section-2.paragraph-0.list1.i.list1">
+                    <listIntroduction>a public financial institution within the meaning of section 4A of the Companies Act, 1956 (1 of 1956);</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.i.list1.ia">
+                      <num>(ia)</num>
+                      <blockList id="section-2.paragraph-0.list1.i.list1.ia.list2">
+                        <listIntroduction>the securitisation company or reconstruction company which has obtained a certificate of registration under sub-section (4) of section 3 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002);</listIntroduction>
+                        <item id="section-2.paragraph-0.list1.i.list1.ia.list2.i">
+                          <num>(i)</num>
+                          <p>“notification” means a notification published in the Official Gazette;</p>
+                        </item>
+                        <item id="section-2.paragraph-0.list1.i.list1.ia.list2.ii">
+                          <num>(ii)</num>
+                          <p>such other institution as the Central Government may, having regard to its business activity and the area of its operation in India by notification, specify;</p>
+                        </item>
+                      </blockList>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.ja">
+                  <num>(ja)</num>
+                  <p>“Presiding Officer” means the Presiding Officer of the Debts Recovery Tribunal appointed under sub-section (1) of section 4;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“Recovery Officer” means a Recovery Officer appointed by the Central Government for each Tribunal under sub-section (1) of section 7;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“Regional Rural Bank” means a Regional Rural Bank established under section 3 of the Regional Rural Banks Act, 1976 (21 of 1976);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“State Bank of India” means the State Bank of India constituted under section 3 of the State Bank of India Act, 1955 (23 of 1955);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>“subsidiary bank” shall have the meaning assigned to it in clause (k) of section 2 of the State Bank of India (Subsidiary Banks) Act, 1959 (38 of 1959);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>“Tribunal” means the Tribunal established under sub-section (1) of section 3.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Establishment of tribunal and appellate tribunal</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment of Tribunal.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, by notification, establish one or more Tribunals, to be known as the Debts Recovery Tribunal, to exercise the jurisdiction, powers and authority conferred on such Tribunal by or under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government shall also specify, in the notification referred to in sub-section (1), the areas within which the Tribunal may exercise jurisdiction for entertaining and deciding the applications filed before it.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Composition of Tribunal.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>A Tribunal shall consist of one person only (hereinafter referred to as the Presiding Officer) to be appointed by notification, by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), the Central Government may authorise the Presiding Officer of one Tribunal to discharge also the functions of the Presiding Officer of another Tribunal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Qualifications for appointment as Presiding Officer.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>A person shall not be qualified for appointment as the Presiding Officer of a Tribunal unless he is, or has been, or is qualified to be, a District Judge.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Term of office.—</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>The Presiding Officer of a Tribunal shall hold office for a term of five years from the date on which he enters upon his office or until he attains the age of sixty-two years, whichever is earlier.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Staff of Tribunal.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall provide the Tribunal with one or more Recovery Officers and such other officers and employees as that Government may think fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The Recovery Officers and other officers and employees of a Tribunal shall discharge their functions under the general superintendence of the Presiding Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The salaries and allowances and other conditions of service of the Recovery Officers and other officers and employees of a Tribunal shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Establishment of Appellate Tribunal.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, by notification, establish one or more Appellate Tribunals, to be known as the Debts Recovery Appellate Tribunal, to exercise the jurisdiction, powers and authority conferred on such Tribunal by or under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government shall also specify in the notification, referred to in sub-section (1) the Tribunals in relation to which the Appellate Tribunal may exercise jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-sections (1) and (2), the Central Government may authorise the Chairperson of one Appellate Tribunal to discharge also the functions of the Chairperson of other Appellate Tribunal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Composition of Appellate Tribunal.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>An Appellate Tribunal shall consist of one person only (hereinafter referred to as the Chairperson of the Appellate Tribunal) to be appointed, by notification, by the Central Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Qualifications for appointment as Chairperson of the Appellate Tribunal.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <blockList id="section-10.paragraph-0.list1">
+                <listIntroduction>A person shall not be qualified for appointment as the Chairperson of an Appellate Tribunal unless he—</listIntroduction>
+                <item id="section-10.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>is, or has been, or is qualified to be, a Judge of a High Court; or</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>has been a member of the Indian Legal Service and has held a post in Grade I of that service for at least three years; or</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>has held office as the Presiding Officer of a Tribunal for at least three years.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Term of office.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>The Chairperson of an Appellate Tribunal shall hold office for a term of five years from the date on which he enters upon his office or until he attains the age of sixty-five years, whichever is earlier.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Staff of the Appellate Tribunal.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The provisions of section 7 (except those relating to Recovery Officer) shall, so far as may be, apply to an Appellate Tribunal as they apply to a Tribunal and accordingly references in that section to “Tribunal” shall be construed as references to “Appellate Tribunal” and references to “Recovery Officer” shall be deemed to have been omitted.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Salary and allowances and other terms and conditions of service of Presiding Officers.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The salary and allowances payable to, and the other terms and conditions of service (including pension, gratuity and other retirement benefits) of, the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal shall be such as may be prescribed:</p>
+              <p>Provided that neither the salary and allowances nor the other terms and conditions of service of the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal shall be varied to his disadvantage after appointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Filling up of vacancies.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>If, for any reason other than temporary absence, any vacancy occurs in the office of the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal, then the Central Government shall appoint another person in accordance with the provisions of this Act to fill the vacancy and the proceedings may be continued before the Tribunal or the Appellate Tribunal from the stage at which the vacancy is filled.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Resignation and removal.—</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal may, by notice in writing under his hand addressed to the Central Government, resign his office:</p>
+              <p>Provided that the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal shall, shall, unless he is permitted by the Central Government to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of such notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is the earliest.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-15.2.list1">
+                <listIntroduction>The Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal shall not be removed from his office except by an order made by the Central Government on the ground of proved misbehaviour or incapacity after inquiry,—</listIntroduction>
+                <item id="section-15.2.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of the Presiding Officer of a Tribunal, made by a Judge of a High Court;</p>
+                </item>
+                <item id="section-15.2.list1.b">
+                  <num>(b)</num>
+                  <p>in the case of the Chairperson of an Appellate Tribunal, made by a Judge of the Supreme Court,</p>
+                </item>
+              </blockList>
+              <p>in which the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal has been informed of the charges against him and given a reasonable opportunity of being heard in respect of these charges:</p>
+              <p>Provided that the Central Government, during the pendency of the inquiry against the Presiding Officer or a Chairperson, as the case may be, may, after consulting the Chairperson of the Selection Committee constituted for selection of Presiding Officer or Chairperson, pass an order suspending the Presiding Officer or the Chairperson, if it is satisfied that he should cease to discharge his functions as a Presiding Officer or Chairperson, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may, by rules, regulate the procedure for the investigation of misbehaviour or incapacity of the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Orders constituting Tribunal or an Appellate Tribunal to be final and not to invalidate its proceedings.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>No order of the Central Government appointing any person as the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal shall be called in question in any manner, and no act or proceeding before a Tribunal or an Appellate Tribunal shall be called in question in any manner on the ground merely of any defect in the constitution of a Tribunal or an Appellate Tribunal.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Jurisdiction, powers and authority of tribunals</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Jurisdiction, powers and authority of Tribunals.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>A Tribunal shall exercise, on and from the appointed day, the jurisdiction, powers and authority to entertain and decide applications from the banks and financial institutions for recovery of debts due to such banks and financial institutions.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>An Appellate Tribunal shall exercise, on and from the appointed day, the jurisdiction, powers and authority to entertain appeals against any order made, or deemed to have been made, by a Tribunal under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17A">
+          <num>17A.</num>
+          <heading>Power of Chairperson of Appellate Tribunal.—</heading>
+          <subsection id="section-17A.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairperson of an Appellate Tribunal shall exercise general power of superintendence and control over the Tribunals under his jurisdiction including the power of appraising the work and recording the annual confidential reports of Presiding Officers.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17A.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson of an Appellate Tribunal having jurisdiction over the Tribunals may, on the application of any of the parties or on his own motion after notice to the parties and after hearing them, transfer any case from one Tribunal for disposal to any other Tribunal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Bar of jurisdiction.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>On and from the appointed day, no court or other authority shall have, or be entitled to exercise, any jurisdiction, powers or authority (except the Supreme Court, and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) in relation to the matters specified in section 17:</p>
+              <p>Provided that any proceedings in relation to the recovery of debts due to any multi-State co-operative bank pending before the date of commencement of the Enforcement of Security Interest and Recovery of Debts Laws (Amendment) Act, 2012 (1 of 2013) under the Multi-State Co-operative Societies Act, 2002 (39 of 2002) shall be continued and nothing contained in this section shall, after such commencement, apply to such proceedings.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Procedure of tribunals</heading>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Application to the Tribunal.—</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-19.1.list1">
+                <listIntroduction>Where a bank or a financial institution has to recover any debt from any person, it may make an application to the Tribunal within the local limits of whose jurisdiction—</listIntroduction>
+                <item id="section-19.1.list1.a">
+                  <num>(a)</num>
+                  <p>the defendant, or each of the defendants where there are more than one, at the time of making the application, actually and voluntarily resides, or carries on business, or personally works for gain; or</p>
+                </item>
+                <item id="section-19.1.list1.b">
+                  <num>(b)</num>
+                  <p>any of the defendants, where there are more than one, at the time of making the application, actually and voluntarily resides, or carries on business, or personally works for gain; or</p>
+                </item>
+                <item id="section-19.1.list1.c">
+                  <num>(c)</num>
+                  <p>the cause of action, wholly or in part, arises:</p>
+                </item>
+              </blockList>
+              <p>Provided that the bank or financial institution may, with the permission of the Debts Recovery Tribunal, on an application made by it, withdraw the application, whether made before or after the Enforcement of Security Interest and Recovery of Debts Laws (Amendment) Act, 2004 (30 of 2004) for the purpose of taking action under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002), if no such action had been taken earlier under that Act:</p>
+              <p>Provided further that any application made under the first proviso for seeking permission from the Debts Recovery Tribunal to withdraw the application made under sub-section (1) shall be dealt with by it as expeditiously as possible and disposed of within thirty days from the date of such application:</p>
+              <p>Provided also that in case the Debts Recovery Tribunal refuses to grant permission for withdrawal of the application filed under this sub-section, it shall pass such orders after recording the reasons therefor.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.1A">
+            <num>(1A)</num>
+            <content>
+              <p>Every bank being, multi-State co-operative bank referred to in sub-clause (vi) of clause (d) of section 2, may, at its option, opt to initiate proceedings under the Multi-State Co-operative Societies Act, 2002 (39 of 2002) to recover debts, whether due before or after the date of commencement of the Enforcement of the Security Interest and Recovery of Debts Laws (Amendment) Act, 2012 (1 of 2013) from any person instead of making an application under this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.1B">
+            <num>(1B)</num>
+            <content>
+              <p>In case, a bank being, multi-State co-operative bank referred to in sub-clause (vi) of clause (d) of section 2 has filed an application under this Chapter and subsequently opts to withdraw the application for the purpose of initiating proceeding under the Multi-State Co-operative Societies Act, 2002 (39 of 2002) to recover debts, it may do so with the permission of the Tribunal and every such application seeking permission from the Tribunal to withdraw the application made under sub-section (1A) shall be dealt with by it as expeditiously as possible and disposed of within thirty days from the date of such application:</p>
+              <p>Provided that in case the Tribunal refuses to grant permission for withdrawal of the application filed under this sub-section, it shall pass such orders after recording the reasons therefor.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a bank or a financial institution, which has to recover its debt from any person, has filed an application to the Tribunal under sub-section (1) and against the same person another bank or financial institution also has claim to recover its debt, then, the later bank or financial institution may join the applicant bank or financial institution at any stage of the proceedings, before the final order is passed, by making an application to that Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>Every application under sub-section (1) or sub-section (2) shall be in such form and accompanied by such documents or other evidence and by such fee as may be prescribed:</p>
+              <p>Provided that the fee may be prescribed having regard to the amount of debt to be recovered:</p>
+              <p>Provided further that nothing contained in this sub-section relating to fee shall apply to cases transferred to the Tribunal under sub-section (1) of section 31.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3A">
+            <num>(3A)</num>
+            <content>
+              <p>If any application filed before the Tribunal for recovery of any debt is settled prior to the commencement of the hearing before that Tribunal or at any stage of the proceedings before the final order is passed, the applicant may be granted refund to the fees paid by him at such rates as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>On receipt of the application under sub-section (1) or sub-section (2), the Tribunal shall issue summons requiring the defendant to show cause within thirty days of the service of summons as to why the relief prayed for should not be granted.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.5">
+            <num>(5)</num>
+            <content>
+              <p>The defendant shall, within a period of thirty days from the date of service of summons, present a written statement of this defence:</p>
+              <p>Provided that where the defendant fails to file the written statement within the said period of thirty days, the Presiding Officer may, in exceptional cases and in special circumstances to be recorded in writing, allow not more than two extensions to the defendant to file the written statement.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.5A">
+            <num>(5A)</num>
+            <content>
+              <p>After hearing of the application has commenced, it shall be continued from day-to-day until the hearing is concluded:</p>
+              <p>Provided that the Tribunal may grant adjournments if sufficient cause is shown, but no such adjournment shall be granted more than three times to a party and where there are three or more parties, the total number of such adjournments shall not exceed six:</p>
+              <p>Provided further that, the Presiding Officer may grant such adjournments on imposing such costs as may be considered necessary.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.6">
+            <num>(6)</num>
+            <content>
+              <p>Where the defendant claims to set-off against the applicant’s demand any ascertained sum of money legally recoverable by him from such applicant, the defendant may, at the first hearing of the application, but not afterwards unless permitted by the Tribunal, present a written statement containing the particulars of the debt sought to be set-off.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.7">
+            <num>(7)</num>
+            <content>
+              <p>The written statement shall have the same effect as a plaint in a cross-suit so as to enable the Tribunal to pass a final order in respect both of the original claim and of the set-off.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.8">
+            <num>(8)</num>
+            <content>
+              <p>A defendant in an application may, in addition to his right of pleading a set-off under sub-section (6), set up, by way of counter-claim against the claim of the applicant, any right or claim in respect of a cause of action accruing to the defendant against the applicant either before or after the filing of the application but before the defendant has delivered his defence or before the time limited for delivering his defence has expired, whether such counter-claim is in the nature of a claim for damages or not.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.9">
+            <num>(9)</num>
+            <content>
+              <p>A counter-claim under sub-section (8) shall have the same effect as a cross-suit so as to enable the Tribunal to pass a final order on the same application, both on the original claim and on the counter-claim.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.10">
+            <num>(10)</num>
+            <content>
+              <p>The applicant shall be at liberty to file a written statement in answer to the counter-claim of the defendant within such period as may be fixed by the Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.11">
+            <num>(11)</num>
+            <content>
+              <p>Where a defendant sets up a counter-claim and the applicant contends that the claim thereby raised ought not be disposed of by way of counter-claim but in an independent action, the applicant may, at any time before issues are settled in relation to the counter-claim, apply to the Tribunal for an order that such counter-claim may be excluded, and the Tribunal may, on the hearing of such application make such order as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.12">
+            <num>(12)</num>
+            <content>
+              <p>The Tribunal may make an interim order (whether by way of injunction or stay or attachment) against the defendant to debar him from transferring, alienating or otherwise dealing with, or disposing of, any property and assets belonging to him without the prior permission of the Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.13">
+            <num>(13)</num>
+            <content>
+              <blockList id="section-19.13.list0">
+                <item id="section-19.13.list0.A">
+                  <num>(A)</num>
+                  <p>Where, at any stage of the proceedings, the Tribunal is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay or frustrate the execution of any order for the recovery of debt that may be passed against him,—</p>
+                </item>
+                <item id="section-19.13.list0.i">
+                  <num>(i)</num>
+                  <p>is about to dispose of the whole or any part of his property; or</p>
+                </item>
+                <item id="section-19.13.list0.ii">
+                  <num>(ii)</num>
+                  <p>is about to remove the whole or any part of his property from the local limits of the jurisdiction of the Tribunal; or</p>
+                </item>
+                <item id="section-19.13.list0.iii">
+                  <num>(iii)</num>
+                  <p>is likely to cause any damage or mischief to the property or affect its value by misuse or creating third party interest,</p>
+                </item>
+              </blockList>
+              <blockList id="section-19.13.list2">
+                <listIntroduction>the Tribunal may direct the defendant, within a time to be fixed by it, either to furnish security, in such sum as may be specified in the order, to produce and place at the disposal of the Tribunal, when required, the said property or the value of the same, or such portion thereof as may be sufficient to satisfy the certificate for the recovery of the debt, or to appear and show cause why he should not furnish security.</listIntroduction>
+                <item id="section-19.13.list2.B">
+                  <num>(B)</num>
+                  <p>Where the defendant fails to show cause why he should not furnish security, or fails to furnish the security required, within the time fixed by the Tribunal, the Tribunal may order the attachment of the whole or such portion of the properties claimed by the applicant as the properties secured in his favour or otherwise owned by the defendant as appears sufficient to satisfy any certificate for the recovery of debt.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.14">
+            <num>(14)</num>
+            <content>
+              <p>The applicant shall, unless the Tribunal otherwise directs, specify the property required to be attached and the estimated value thereof.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.15">
+            <num>(15)</num>
+            <content>
+              <p>The Tribunal may also in the order direct the conditional attachment of the whole or any portion of the property specified under sub-section (14).</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.16">
+            <num>(16)</num>
+            <content>
+              <p>If an order of attachment is made without complying with the provisions of sub-section (13), such attachment shall be void.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.17">
+            <num>(17)</num>
+            <content>
+              <p>In the case of disobedience of an order made by the Tribunal under sub-sections (12), (13) and (18) or breach of any of the terms on which the order was made, the Tribunal may order the properties of the person guilty of such disobedience or breach to be attached and may also order such person to be detained in the civil prison for a term not exceeding three months, unless in the meantime the Tribunal directs his release.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.18">
+            <num>(18)</num>
+            <content>
+              <blockList id="section-19.18.list1">
+                <listIntroduction>Where it appears to the Tribunal to be just and convenient, the Tribunal may, by order—</listIntroduction>
+                <item id="section-19.18.list1.a">
+                  <num>(a)</num>
+                  <p>appoint a receiver of any property, whether before or after grant of certificate for recovery of debt;</p>
+                </item>
+                <item id="section-19.18.list1.b">
+                  <num>(b)</num>
+                  <p>remove any person from the possession or custody of the property;</p>
+                </item>
+                <item id="section-19.18.list1.c">
+                  <num>(c)</num>
+                  <p>commit the same to the possession, custody or management of the receiver;</p>
+                </item>
+                <item id="section-19.18.list1.d">
+                  <num>(d)</num>
+                  <p>confer upon the receiver all such powers, as to bringing and defending suits in the courts or filing and defending applications before the Tribunal and for the realisation, management, protection, preservation and improvement of the property, the collection of the rents and profits thereof, the application and disposal of such rents and profits, and the execution of documents as the owner himself has, or such of those powers as the Tribunal thinks fit; and</p>
+                </item>
+                <item id="section-19.18.list1.e">
+                  <num>(e)</num>
+                  <p>appoint a Commissioner for preparation of an inventory of the properties of the defendant or for the sale thereof.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.19">
+            <num>(19)</num>
+            <content>
+              <p>Where a certificate of recovery is issued against a company registered under the Companies Act, 1956 (1 of 1956) the Tribunal may order the sale proceeds of such company to be distributed among its secured creditors in accordance with the provisions of section 529A of the Companies Act, 1956 and to pay the surplus, if any, to the company.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.20">
+            <num>(20)</num>
+            <content>
+              <p>The Tribunal may, after giving the applicant and the defendant an opportunity of being heard, pass such interim or final order, including the order for payment of interest from the date on or before which payment of the amount is found due up to the date of realisation or actual payment, on the application as it thinks fit to meet the ends of justice.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.20A">
+            <num>(20A)</num>
+            <content>
+              <p>Where it is proved to the satisfaction of the Tribunal that the claim of the applicant has been adjusted wholly or in part by any lawful agreement or compromise in writing and signed by the parties or where the defendant has repaid or agreed to repay the claim of the applicant, the Tribunal shall pass orders recording such agreement, compromise or satisfaction of the claim.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.21">
+            <num>(21)</num>
+            <content>
+              <p>The Tribunal shall send a copy of every order passed by it to the applicant and the defendant.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.22">
+            <num>(22)</num>
+            <content>
+              <p>The Presiding Officer shall issue a certificate under his signature on the basis of the order of the Tribunal to the Recovery Officer for recovery of the amount of debt specified in the certificate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.23">
+            <num>(23)</num>
+            <content>
+              <p>Where the Tribunal, which has issued a certificate of recovery, is satisfied that the property is situated within the local limits of the jurisdiction of two or more Tribunals, it may send the copies of the certificate of recovery for execution to such other Tribunals where the property is situated:</p>
+              <p>Provided that in a case where the Tribunal to which the certificate of recovery is sent for execution finds that it has no jurisdiction to comply with the certificate of recovery, it shall return the same to the Tribunal which has issued it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.24">
+            <num>(24)</num>
+            <content>
+              <p>The application made to the Tribunal under sub-section (1) or sub-section (2) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the application finally within one hundred and eighty days from the date of receipt of the application.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.25">
+            <num>(25)</num>
+            <content>
+              <p>The Tribunal may made such orders and give such directions as may be necessary or expedient to give effect to its orders or to prevent abuse of its process or to secure the ends of justice.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Appeal to the Appellate Tribunal.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as provided in sub-section (2), any person aggrieved by an order made, or deemed to have been made, by a Tribunal under this Act, may prefer an appeal to an Appellate Tribunal having jurisdiction in the matter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>No appeal shall lie to the Appellate Tribunal from an order made by a Tribunal with the consent of the parties.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order made, or deemed to have been made, by the Tribunal is received by him and it shall be in such form and be accompanied by such fee as may be prescribed:</p>
+              <p>Provided that the Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.4">
+            <num>(4)</num>
+            <content>
+              <p>On receipt of an appeal under sub-section (1), the Appellate Tribunal may, after giving the parties to the appeal, an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.5">
+            <num>(5)</num>
+            <content>
+              <p>The Appellate Tribunal shall send a copy of every order made by it to the parties to the appeal and to the concerned Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.6">
+            <num>(6)</num>
+            <content>
+              <p>The appeal filed before the Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Deposit of amount of debt due, on filing appeal.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Where an appeal is preferred by any person from whom the amount of debt is due to a bank or a financial institution or a consortium of banks or financial institutions, such appeal shall not be entertained by the Appellate Tribunal unless such person has deposited with the Appellate Tribunal seventy-five per cent. of the amount of debt so due from him as determined by the Tribunal under section 19:</p>
+              <p>Provided that the Appellate Tribunal may, for reasons to be recorded in writing, waive or reduce the amount to be deposited under this section.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Procedure and powers of the Tribunal and the Appellate Tribunal.—</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The Tribunal and the Appellate Tribunal shall not be bound the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act and of any rules, the Tribunal and the Appellate Tribunal shall have powers to regulate their own procedure including the places at which they shall have their sittings.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-22.2.list1">
+                <listIntroduction>The Tribunal and the Appellate Tribunal shall have, for the purposes of discharging their functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:—</listIntroduction>
+                <item id="section-22.2.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-22.2.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of documents;</p>
+                </item>
+                <item id="section-22.2.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-22.2.list1.d">
+                  <num>(d)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-22.2.list1.e">
+                  <num>(e)</num>
+                  <p>reviewing its decisions;</p>
+                </item>
+                <item id="section-22.2.list1.f">
+                  <num>(f)</num>
+                  <p>dismissing an application for default or deciding it ex parte;</p>
+                </item>
+                <item id="section-22.2.list1.g">
+                  <num>(g)</num>
+                  <p>setting aside any order of dismissal of any application for default or any order passed by it ex parte;</p>
+                </item>
+                <item id="section-22.2.list1.h">
+                  <num>(h)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>Any proceeding before the Tribunal or the Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196, of the Indian Penal Code (45 of 1860) and the Tribunal or the Appellate Tribunal shall be deemed to be a civil court for all the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Right to legal representation and Presenting Officers.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>A bank or a financial institution making an application to a Tribunal or an appeal to an Appellate Tribunal may authorise one or more legal practitioners or any of its officers to act as Presenting Officers and every person so authorised by it may present its case before the Tribunal or the Appellate Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>The defendant may either appear in person or authorise one or more legal practitioners or any of his or its officers to present his or its case before the Tribunal or the Appellate Tribunal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Limitation.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>The provisions of the Limitation Act, 1963 (36 of 1963), shall, as far as may be, apply to an application made to a Tribunal.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Recovery of debt determined by tribunal</heading>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Modes of recovery of debts.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <blockList id="section-25.paragraph-0.list1">
+                <listIntroduction>The Recovery Officer shall, on receipt of the copy of the certificate under sub-section (7) of section 19, proceed to recover the amount of debt specified in the certificate by one or more of the following modes, namely:—</listIntroduction>
+                <item id="section-25.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>attachment and sale of the movable or immovable property of the defendant;</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>arrest of the defendant and his detention in prison;</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>appointing a receiver for the management of the movable or immovable properties of the defendant.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Validity of certificate and amendment thereof.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>It shall not be open to the defendant to dispute before the Recovery Officer the correctness of the amount specified in the certificate, and no objection to the certificate on any other ground shall also be entertained by the Recovery Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding the issue of a certificate to a Recovery Officer, the Presiding Officer shall have power to withdraw the certificate or correct any clerical or arithmetical mistake in the certificate by sending intimation to the Recovery Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <p>The Presiding Officer shall intimate to the Recovery Officer any order withdrawing or canceling a certificate or any correction made by him under sub-section (2).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Stay of proceedings under certificate and amendment or withdrawal thereof.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding that a certificate has been issued to the Recovery Officer for the recovery of any amount, the Presiding Officer may grant time for the payment of the amount, and thereupon the Recovery Officer shall stay the proceedings until the expiry of the time so granted.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a certificate for the recovery of amount has been issued, the Presiding Officer shall keep the Recovery Officer informed of any amount paid or time granted for payment, subsequent to the issue of such certificate to the Recovery Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the order giving rise to a demand of amount for recovery of debt has been modified in appeal, and, as a consequence thereof the demand is reduced, the Presiding Officer shall stay the recovery of such part of the amount of the certificate as pertains to the said reduction for the period for which the appeal remains pending.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.4">
+            <num>(4)</num>
+            <content>
+              <p>Where a certificate for the recovery of debt has been received by the Recovery Officer and subsequently the amount of the outstanding demands is reduced or enhanced as a result of an appeal, the Presiding Officer shall, when the order which was the subject matter of such appeal has become final and conclusive, amend the certificate or withdraw it, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Other modes of recovery.—</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a certificate has been issued to the Recovery Officer under sub-section (7) of section 19, the Recovery Officer may, without prejudice to the modes of recovery specified in section 25, recover the amount of debt by any one or more of the modes provided under this section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>If any amount is due from any person to the defendant, the Recovery Officer may require such person to deduct from the said amount, the amount of debt due from the defendant under this Act and such person shall comply with any such requisition and shall pay the sum so deducted to the credit of the Recovery Officer:</p>
+              <p>Provided that nothing in this sub-section shall apply to any part of the amount exempt from attachment in execution of a decree of a civil court under section 60 of the Code of Civil Procedure, 1908 (5 of 1908).</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-28.3.list0">
+                <item id="section-28.3.list0.i">
+                  <num>(i)</num>
+                  <p>The Recovery Officer may, at any time or from time to time, by notice in writing, require any person from whom money is due or may become due to the defendant or to any person who holds or may subsequently hold money for or on account of the defendant, to pay to the Recovery Officer either forthwith upon the money becoming due or being held or within the time specified in the notice (not being before the money becomes due or is held) so much of the money as is sufficient to pay the amount of debt due from the defendant or the whole of the money when it is equal to or less than that amount.</p>
+                </item>
+                <item id="section-28.3.list0.ii">
+                  <num>(ii)</num>
+                  <p>A notice under this sub-section may be issued to any person who holds or may subsequently hold any money for or on account of the defendant jointly with any other person and for the purposes of this sub-section, the shares of the joint holders in such amount shall be presumed, until the contrary is proved, to be equal.</p>
+                </item>
+                <item id="section-28.3.list0.iii">
+                  <num>(iii)</num>
+                  <p>A copy of the notice shall be forwarded to the defendant at his last address known to the Recovery Officer and in the case of a joint account to all the joint holders at their last addresses known to the Recovery Officer.</p>
+                </item>
+                <item id="section-28.3.list0.iv">
+                  <num>(iv)</num>
+                  <p>Save as otherwise provided in this sub-section, every person to whom a notice is issued under the sub-section shall be bound to comply with such notice, and, in particular, where any such notice is issued to a post office, bank, financial institution, or an insurer, it shall not be necessary for any pass book, deposit receipt, policy or any other document to be produced for the purpose of any entry, endorsement or the like to be made before the payment is made notwithstanding any rule, practice or requirement to the contrary.</p>
+                </item>
+                <item id="section-28.3.list0.v">
+                  <num>(v)</num>
+                  <p>Any claim respecting any property in relation to which a notice under this sub-section has been issued arising after the date of the notice shall be void as against any demand contained in the notice.</p>
+                </item>
+                <item id="section-28.3.list0.vi">
+                  <num>(vi)</num>
+                  <p>Where a person to whom a notice under this sub-section is sent objects to it by a statement on oath that the sum demanded or the part thereof is not due to the defendant or that he does not hold any money for or on account of the defendant, then, nothing contained in this sub-section shall be deemed to require such person to pay any such sum or part thereof, as the case may be, but if it is discovered that such statement was false in any material particular, such person shall be personally liable to the Recovery Officer to the extent of his own liability to the defendant on the date of the notice, or to the extent of the defendant’s liability for any sum due under this Act, whichever is less.</p>
+                </item>
+                <item id="section-28.3.list0.vii">
+                  <num>(vii)</num>
+                  <p>The Recovery Officer may, at any time or from time to time, amend or revoke any notice under this sub-section or extend the time for making any payment in pursuance of such notice.</p>
+                </item>
+                <item id="section-28.3.list0.viii">
+                  <num>(viii)</num>
+                  <p>The Recovery Officer shall grant a receipt for any amount paid in compliance with a notice issued under this sub-section, and the person so paying shall be fully discharged from his liability to the defendant to the extent of the amount so paid.</p>
+                </item>
+                <item id="section-28.3.list0.ix">
+                  <num>(ix)</num>
+                  <p>Any person discharging any liability to the defendant after the receipt of a notice under this sub-section shall be personally liable to the Recovery Officer to the extent of his own liability to the defendant so discharged or to the extent of the defendant’s liability for any debt due under this Act, whichever is less.</p>
+                </item>
+                <item id="section-28.3.list0.x">
+                  <num>(x)</num>
+                  <p>If the person to whom a notice under this sub-section is sent fails to make payment in pursuance thereof to the Recovery Officer, he shall be deemed to be a defendant in default in respect of the amount specified in the notice and further proceedings may be taken against him for the realisation of the amount as if it were a debt due from him, in the manner provided in sections 25, 26 and 27 and the notice shall have the same effect as an attachment of a debt by the Recovery Officer in exercise of his powers under section 25.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-28.4">
+            <num>(4)</num>
+            <content>
+              <p>The Recovery Officer may apply to the court in whose custody there is money belonging to the defendant for payment to him of the entire amount of such money, or if it is more than the amount of debt due, an amount sufficient to discharge the amount of debt so due.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.4A">
+            <num>(4A)</num>
+            <content>
+              <p>The Recovery Officer may, by order, at any stage of the execution of the certificate of recovery, require any person, and in case of a company, any of its officers against whom or which the certificate of recovery is issued, to declare on affidavit the particulars of his or its assets.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.5">
+            <num>(5)</num>
+            <content>
+              <p>The Recovery Officer may recover any amount of debt due from the defendant by distraint and sale of his movable property in the manner laid down in the Third Schedule to the Income-Tax Act, 1961 (43 of 1961).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Application of certain provisions of Income-tax Act.—</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>The provisions of the Second and Third Schedules to the Income-tax Act, 1961 (43 of 1961) and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time shall, as far as possible, apply with necessary modifications as if the said provisions and the rules referred to the amount of debt due under this Act instead of to the Income-tax:</p>
+              <p>Provided that any reference under the said provisions and the rules to the “assessee” shall be construed as a reference to the defendant under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Appeal against the order of Recovery Officer.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in section 29, any person aggrieved by an order of the Recovery Officer made under this Act may, within thirty days from the date on which a copy of the order is issued to him, prefer an appeal to the Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of an appeal under sub-section (1), the Tribunal may, after giving an opportunity to the appellant to be heard, and after making such inquiry as it deems fit, confirm, modify or set aside the order made by the Recovery Officer in exercise of his powers under sections 25 to 28 (both inclusive).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>MISCELLANEOUS 31. Transfer of pending cases.—</heading>
+        <subsection id="chapter-VI.1">
+          <num>(1)</num>
+          <content>
+            <p>Every suit or other proceeding pending before any court immediately before the date of establishment of a Tribunal under this Act, being a suit or proceeding the cause of action whereon it is based is such that it would have been, if it had arisen after such establishment, within the jurisdiction of such Tribunal, shall stand transferred on that date to such Tribunal:</p>
+            <p>Provided that nothing in this sub-section shall apply to any appeal pending as aforesaid before any court:</p>
+            <p>Provided further that any recovery proceedings in relation to the recovery of debts due to any multi-State co-operative bank pending before the date of commencement of the Enforcement of Security Interest and Recovery of Debts Laws (Amendment) Act, 2012 (1 of 2013) under the Multi-State Co-operative Societies Act, 2002 (39 of 2002), shall be continued and nothing contained in this section shall apply to such proceedings.</p>
+          </content>
+        </subsection>
+        <subsection id="chapter-VI.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="chapter-VI.2.list1">
+              <listIntroduction>Where any suit or other proceeding stands transferred from any court to a Tribunal under sub-section (1),—</listIntroduction>
+              <item id="chapter-VI.2.list1.a">
+                <num>(a)</num>
+                <p>the court shall, as soon as may be after such transfer, forward the records of such suit or other proceeding to the Tribunal; and</p>
+              </item>
+              <item id="chapter-VI.2.list1.b">
+                <num>(b)</num>
+                <p>the Tribunal may, on receipt of such records, proceed to deal with such suit or other proceeding, so far as may be, in the same manner as in the case of an application made under section 19 from the stage which was reached before such transfer or from any earlier stage as the Tribunal may deed fit.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <section id="section-31A">
+          <num>31A.</num>
+          <heading>Power of Tribunal to issue certificate of recovery in case of decree or order.—</heading>
+          <subsection id="section-31A.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a decree or order was passed by any court before the commencement of the Recovery of Debts Due to Banks and Financial Institutions (Amendment) Act, 2000 (1 of 2000) and has not yet been executed, then, the decree-holder may apply to the Tribunal to pass an order for recovery of the amount.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31A.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of an application under sub-section (1), the Tribunal may issue a certificate for recovery to a Recovery Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31A.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of a certificate under sub-section (2), the Recovery Officer shall proceed to recover the amount as if it was a certificate in respect of a debt recoverable under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Chairperson, Presiding Officer and staff of Appellate Tribunal and Tribunal to be public servants.—</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>The Chairperson of an Appellate Tribunal, the Presiding Officer of a Tribunal, the Recovery Officer and other officers and employees of an Appellate Tribunal and a Tribunal shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against the Central Government or against the Presiding Officer of a Tribunal or the Chairperson of an Appellate Tribunal or against the Recovery Officer for anything which is in good faith done or intended to be done in pursuance of this Act or any rule or order made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Act to have overriding effect.—</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as provided under sub-section (2), the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of this Act or the rules made thereunder shall be in addition to, and not in derogation of, the Industrial Finance Corporation Act, 1948 (15 of 1948), the State Financial Corporations Act, 1951 (63 of 1951), the Unit Trust of India Act, 1963 (52 of 1963), the Industrial Reconstruction Bank of India Act, 1984 (62 of 1984), the Sick Industrial Companies (Special Provisions) Act, 1985 (1 of 1986) and the Small Industries Development Bank of India Act, 1989 (39 of 1989).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no such order shall be made after the expiry of the period of three years from the date of commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-36.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-36.2.list1">
+                <listIntroduction>Without prejudice to the generality of the foregoing powers, such rules may, provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-36.2.list1.a">
+                  <num>(a)</num>
+                  <p>the salaries and allowances and other terms and conditions of service of the Chairpersons, the Presiding Officers, Recovery Officers and other officers and employees of the Tribunal and the Appellate Tribunal under sections 7, 12 and 13;</p>
+                </item>
+                <item id="section-36.2.list1.b">
+                  <num>(b)</num>
+                  <p>The procedure for the investigation of misbehaviour or incapacity of the Chairpersons of Appellate Tribunals and the Presiding Officers of the Tribunals, under sub-section (3) of section 15;</p>
+                </item>
+                <item id="section-36.2.list1.c">
+                  <num>(c)</num>
+                  <p>The form in which an application may be made under section 19, the documents and other evidence by which such application shall be accompanied and the fees payable in respect of the filing of such application;</p>
+                </item>
+                <item id="section-36.2.list1.cc">
+                  <num>(cc)</num>
+                  <p>the rate of fee to be refunded to the applicant under sub-section (3A) of section 19 of the Act.</p>
+                </item>
+                <item id="section-36.2.list1.d">
+                  <num>(d)</num>
+                  <p>the form in which an appeal may be filed before the Appellate Tribunal under section 20 and the fees payable in respect of such appeal;</p>
+                </item>
+                <item id="section-36.2.list1.e">
+                  <num>(e)</num>
+                  <p>any other matter which is required to be, or may be, prescribed. (3) Every notification issued under sub-section (4) of section 1, section 3 and section 8 and every rule made by the Central Government under this Act, shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or rule or both Houses agree that the notification or rule should not be issued or made, the notification or rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or rule. 37. Repeal and saving.—</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-36.1">
+            <num>(1)</num>
+            <content>
+              <p>The Recovery of Debts Due to Banks and Financial Institutions Ordinance, 1993 (Ord. 25 of 1993) is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Ordinance, shall be deemed to have been done or taken under the corresponding provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

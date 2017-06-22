@@ -1,0 +1,2226 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1956/42/main"/>
+          <FRBRuri value="/in-union/act/1956/42"/>
+          <FRBRalias value="﻿The Securities Contracts (Regulation) Act, 1956"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1956/42/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1956/42/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1956/42/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1956/42/eng@1980-01-01"/>
+          <FRBRdate date="2016-10-27" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Securities Contracts (Regulation) Act, 1956</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[4th. September, 1956]</docDate>
+      </p>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Seventh Year of the Republic of India as follows:</p>
+        </formula>
+      </preamble>
+      <longTitle>
+        <p>Act No. 42. of 1956.</p>
+        <p>An Act to prevent undesirable transactions in securities by regulating the business of dealing therein, by providing for certain other matters connected therewith.</p>
+        <p>PRELIMINARY</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Securities Contracts (Regulation) Act, 1956.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            <p>Definitions.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“contract” means a contract for or relating to the purchase or sale of securities;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.aa">
+                <num>(aa)</num>
+                <blockList id="section-2.paragraph-0.list1.aa.list0">
+                  <listIntroduction>“corporatisation” means the succession of a recognised stock exchange, being a body of individuals or a society registered under the Societies Registration Act, 1860 (21 of 1860), by another stock exchange, being a company incorporated for the purpose of assisting, regulating or controlling the business of buying, selling or dealing in securities carried on by such individuals or society;</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.aa.list0.ab">
+                    <num>(ab)</num>
+                    <p>“demutualisation” means the segregation of ownership and management from the trading rights of the members of a recognised stock exchange in accordance with a scheme approved by the Securities and Exchange Board of India;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.aa.list0.ac">
+                    <num>(ac)</num>
+                    <blockList id="section-2.paragraph-0.list1.aa.list0.ac.list0">
+                      <listIntroduction>“derivative” includes—</listIntroduction>
+                      <item id="section-2.paragraph-0.list1.aa.list0.ac.list0.A">
+                        <num>(A)</num>
+                        <p>a security derived from a debt instrument, share, loan, whether secured or unsecured, risk instrument or contract for differences or any other form of security;</p>
+                      </item>
+                      <item id="section-2.paragraph-0.list1.aa.list0.ac.list0.B">
+                        <num>(B)</num>
+                        <p>a contract which derives its value from the prices, or index of prices, of underlying securities;</p>
+                      </item>
+                      <item id="section-2.paragraph-0.list1.aa.list0.ac.list0.C">
+                        <num>(C)</num>
+                        <p>commodity derivatives; and</p>
+                      </item>
+                      <item id="section-2.paragraph-0.list1.aa.list0.ac.list0.D">
+                        <num>(D)</num>
+                        <p>such other instruments as may be declared by the Central Government to be derivatives;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Government security” means a security created and issued, whether before or after the commencement of this Act, by the Central Government or a State Government for the purpose of raising a public loan and having one of the forms specified in clause (2) of section 2 of the Public Debt Act, 1944 (18 of 1944);</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.bb">
+                <num>(bb)</num>
+                <blockList id="section-2.paragraph-0.list1.bb.list1">
+                  <listIntroduction>"goods" mean every kind of movable property other than actionable claims, money and securities;</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.bb.list1.bc">
+                    <num>(bc)</num>
+                    <blockList id="section-2.paragraph-0.list1.bb.list1.bc.list2">
+                      <listIntroduction>"commodity derivative" means a contract —</listIntroduction>
+                      <item id="section-2.paragraph-0.list1.bb.list1.bc.list2.i">
+                        <num>(i)</num>
+                        <p>for the delivery of such goods, as may be notified by the Central Government in the Official Gazette, and which is not a ready delivery contract; or</p>
+                      </item>
+                      <item id="section-2.paragraph-0.list1.bb.list1.bc.list2.ii">
+                        <num>(ii)</num>
+                        <p>for differences, which derives its value from prices or indices of prices of such underlying goods or activities, services, rights, interests and events, as may be notified by the Central Government, in consultation with the Board, but does not include securities as referred to in sub-clauses (A) and (B) of clause (ac);</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“member” means a member of a recognised stock exchange;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.ca">
+                <num>(ca)</num>
+                <p>"non-transferable specific delivery contract" means a specific delivery contract, the rights or liabilities under which or under any delivery order, railway receipt, bill of lading, warehouse receipt or any other documents of title relating thereto are not transferable;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“option in securities” means a contract for the purchase or sale of a right to buy or sell, or a right to buy and sell, securities in future, and includes a teji, a mandi, a teji mandi, a galli, a put, a call or a put and call in securities;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.ea">
+                <num>(ea)</num>
+                <p>"ready delivery contract" means a contract which provides for the delivery of goods and the payment of a price therefor, either immediately, or within such period not exceeding eleven days after the date of the contract and subject to such conditions as the Central Government may, by notification in the Official Gazette, specify in respect of any goods, the period under such contract not being capable of extension by the mutual consent of the parties thereto or otherwise:</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list3">
+              <listIntroduction>Provided that where any such contract is performed either wholly or in part:</listIntroduction>
+              <item id="section-2.paragraph-0.list3.I">
+                <num>(I)</num>
+                <p>by realisation of any sum of money being the difference between the contract rate and the settlement rate or clearing rate or the rate of any offsetting contract; or</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.II">
+                <num>(II)</num>
+                <p>by any other means whatsoever, and as a result of which the actual tendering of the goods covered by the contract or payment of the full price therefor is dispensed with, then such contract shall not be deemed to be a ready delivery contract;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.f">
+                <num>(f)</num>
+                <p>“recognised stock exchange” means a stock exchange which is for the time being recognised by the Central Government under section 4;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.g">
+                <num>(g)</num>
+                <p>“rules”, with reference to the rules relating in general to the constitution and management of a stock exchange, includes, in the case of a stock exchange which is an incorporated association, its memorandum and articles of association;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.ga">
+                <num>(ga)</num>
+                <p>“scheme” means a scheme for corporatisation or demutualisation of a recognised stock exchange which may provide for—</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>the issue of shares for a lawful consideration and provision of trading rights in lieu of membership cards of members of a recognised stock exchange;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.ii">
+                <num>(ii)</num>
+                <p>the restrictions on voting rights;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.iii">
+                <num>(iii)</num>
+                <p>the transfer of property, business, assets, rights, liabilities, recognitions, contracts of the recognised stock exchange, legal proceedings by, or against, the recognised stock exchange, whether in the name of the recognised stock exchange or any trustee or otherwise and any permission given to, or by, the recognised stock exchange;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.iv">
+                <num>(iv)</num>
+                <p>the transfer of employees of a recognised stock exchange to another recognised stock exchange;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.v">
+                <num>(v)</num>
+                <p>any other matter required for the purpose of, or in connection with, the corporatisation or demutualisation, as the case may be, of the recognised stock exchange;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.gb">
+                <num>(gb)</num>
+                <p>“Securities Appellate Tribunal” means a Securities Appellate Tribunal established under sub-section (1) of section 15K of the Securities and Exchange Board of India Act, 1992 (15 of 1992);</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.h">
+                <num>(h)</num>
+                <p>“securities”— include</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>shares, scrips, stocks, bonds, debentures, debenture stock or other marketable securities of a like nature in or of any incorporated company or other body corporate;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.ia">
+                <num>(ia)</num>
+                <p>derivative;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.ib">
+                <num>(ib)</num>
+                <p>units or any other instrument issued by any collective investment scheme to the investors in such schemes;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.ic">
+                <num>(ic)</num>
+                <p>security receipt as defined in clause (zg) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.id">
+                <num>(id)</num>
+                <p>units or any other such instrument issued to the investors under any mutual fund scheme;</p>
+              </item>
+            </blockList>
+            <p>Explanation.—</p>
+            <blockList id="section-2.paragraph-0.list6">
+              <listIntroduction>For the removal of doubts, it is hereby declared that "securities" shall not include any unit linked insurance policy or scrips or any such instrument or unit, by whatever name called, which provides a combined benefit risk on the life of the persons and investment by such persons and issued by an insurer referred to in clause (9) of section 2 of the Insurance Act, 1938 (4 of 1938);</listIntroduction>
+              <item id="section-2.paragraph-0.list6.ie">
+                <num>(ie)</num>
+                <p>any certificate or instrument (by whatever name called), issued to an investor by any issuer being a special purpose distinct entity which possesses any debt or receivable, including mortgage debt, assigned to such entity, and acknowledging beneficial interest of such investor in such debt or receivable, including mortgage debt, as the case may be;</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.ii">
+                <num>(ii)</num>
+                <p>Government securities;</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.iia">
+                <num>(iia)</num>
+                <p>such other instruments as may be declaredby the Central Government to be securities; and</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.iii">
+                <num>(iii)</num>
+                <blockList id="section-2.paragraph-0.list6.iii.list0">
+                  <listIntroduction>rights or interest in securities;</listIntroduction>
+                  <item id="section-2.paragraph-0.list6.iii.list0.ha">
+                    <num>(ha)</num>
+                    <blockList id="section-2.paragraph-0.list6.iii.list0.ha.list1">
+                      <listIntroduction>"specific delivery contract" means a commodity derivative which provides for the actual delivery of specific qualities or types of goods during a specified future period at a price fixed thereby or to be fixed in the manner thereby agreed and in which the names of both the buyer and the seller are mentioned;</listIntroduction>
+                      <item id="section-2.paragraph-0.list6.iii.list0.ha.list1.i">
+                        <num>(i)</num>
+                        <p>“spot delivery contract” means a contract which provides for,</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list6.a">
+                <num>(a)</num>
+                <p>actual delivery of securities and the payment of a price therefor either on the same day as the date of the contract or on the next day, the actual period taken for the despatch of the securities or the remittance of money therefor through the post being excluded from the computation of the period aforesaid if the parties to the contract do not reside in the same town or locality;</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.b">
+                <num>(b)</num>
+                <p>transfer of the securities by the depository from the account of a beneficial owner to the account of another beneficial owner when such securities are dealt with by a depository;</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.j">
+                <num>(j)</num>
+                <p>“stock exchange” means -</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.a">
+                <num>(a)</num>
+                <p>any body of individuals, whether incorporated or not, constituted before corporatisation and demutualisation under sections 4A and 4B, or</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.b">
+                <num>(b)</num>
+                <p>a body corporate incorporated under the Companies Act, 1956 (1 of 1956) whether under a scheme of corporatisation and demutualisation or otherwise, for the purpose of assisting, regulating or controlling the business of buying, selling or dealing in securities.</p>
+              </item>
+              <item id="section-2.paragraph-0.list6.k">
+                <num>(k)</num>
+                <p>"transferable specific delivery contract" means a specific delivery contract which is not a non-transferable specific delivery contract and which is subject to such conditions relating to its transferability as the Central Government may by notification in the Official Gazette, specify in this behalf.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2A">
+        <num>2A.</num>
+        <heading>Interpretation of certain words and expressions.</heading>
+        <paragraph id="section-2A.paragraph-0">
+          <content>
+            <p>Words and expressions used herein and not defined in this Act but defined in the Companies Act, 1956 (1 of 1956) or the Securities and Exchange Board of India Act, 1992 (15 of 1992) or the Depositories Act, 1996 (22 of 1996) shall have the same meanings respectively assigned to them in those Acts.</p>
+            <p>RECOGNISED STOCK EXCHANGES</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Application for recognition of stock exchanges.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>Any stock exchange, which is desirous of being recognised for the purposes of this Act, may make an application in the prescribed manner to the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-3.2.list1">
+              <listIntroduction>Every application under sub-section (1) shall contain such particulars as may be prescribed, and shall be accompanied by a copy of the bye-laws of the stock exchange for the regulation and control of contracts and also a copy of the rules relating in general to the constitution of the stock exchange and in particular, to—</listIntroduction>
+              <item id="section-3.2.list1.a">
+                <num>(a)</num>
+                <p>the governing body of such stock exchange, its constitution and powers of management and the manner in which its business is to be transacted;</p>
+              </item>
+              <item id="section-3.2.list1.b">
+                <num>(b)</num>
+                <p>the powers and duties of the office bearers of the stock exchange;</p>
+              </item>
+              <item id="section-3.2.list1.c">
+                <num>(c)</num>
+                <p>the admission into the stock exchange of various classes of members, the qualifications for membership, and the exclusion, suspension, expulsion and re-admission of members therefrom or thereinto;</p>
+              </item>
+              <item id="section-3.2.list1.d">
+                <num>(d)</num>
+                <p>the procedure for the registration of partnerships as members of the stock exchange in cases where the rules provide for such membership; and the nomination and appointment of authorised representatives and clerks.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Grant of recognition to stock exchanges.</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list1">
+              <listIntroduction>If the Central Government is satisfied, after making such inquiry as may be necessary in this behalf and after obtaining such further information, if any, as it may require,—</listIntroduction>
+              <item id="section-4.1.list1.a">
+                <num>(a)</num>
+                <p>that the rules and bye-laws of a stock exchange applying for registration are in conformity with such conditions as may be prescribed with a view to ensure fair dealing and to protect investors;</p>
+              </item>
+              <item id="section-4.1.list1.b">
+                <num>(b)</num>
+                <p>that the stock exchange is willing to comply with any other conditions (including conditions as to the number of members) which the Central Government, after consultation with the governing body of the stock exchange and having regard to the area served by the stock exchange and its standing and the nature of the securities dealt with by it, may impose for the purpose of carrying out the objects of this Act; and</p>
+              </item>
+              <item id="section-4.1.list1.c">
+                <num>(c)</num>
+                <p>that it would be in the interest of the trade and also in the public interest to grant recognition to the stock exchange;</p>
+              </item>
+            </blockList>
+            <p>it may grant recognition to the stock exchange subject to the conditions imposed upon it as aforesaid and in such form as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-4.2.list1">
+              <listIntroduction>The conditions which the Central Government may prescribe under clause (a) of sub-section (1) for the grant of recognition to the stock exchanges may include, among other matters, conditions relating to,—</listIntroduction>
+              <item id="section-4.2.list1.i">
+                <num>(i)</num>
+                <p>the qualifications for membership of stock exchanges;</p>
+              </item>
+              <item id="section-4.2.list1.ii">
+                <num>(ii)</num>
+                <p>the manner in which contracts shall be entered into and enforced as between members;</p>
+              </item>
+              <item id="section-4.2.list1.iii">
+                <num>(iii)</num>
+                <blockList id="section-4.2.list1.iii.list0">
+                  <listIntroduction>the representation of the Central Government on each of the stock exchange by such number of persons not exceeding three as the Central Government may nominate in this behalf; and</listIntroduction>
+                  <item id="section-4.2.list1.iii.list0.iv">
+                    <num>(iv)</num>
+                    <p>the maintenance of accounts of members and their audit by chartered accountants whenever such audit is required by the Central Government.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>Every grant of recognition to a stock exchange under this section shall be published in the Gazette of India and also in the Official Gazette of the State in which the</p>
+            <p>principal office as of the stock exchange is situate, and such recognition shall have effect as from the date of its publication in the Gazette of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>No application for the grant of recognition shall be refused except after giving an opportunity to the stock exchange concerned to be heard in the matter; and the</p>
+            <p>reasons for such refusal shall be communicated to the stock exchange in writing.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.5">
+          <num>(5)</num>
+          <content>
+            <p>No rules of a recognised stock exchange relating to any of the matters specified in sub-section (2) of section 3 shall be amended except with the approval of the Central Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4A">
+        <num>4A.</num>
+        <heading>Corporatisation and demutualisation of stock exchanges.</heading>
+        <paragraph id="section-4A.paragraph-0">
+          <content>
+            <p>On and from the appointed date, all recognised stock exchanges (if not corporatised and demutualised before the appointed date) shall be corporatised and demutualised in accordance with the provisions contained in section 4B :</p>
+            <p>Provided that the Securities and Exchange Board of India may, if it is satisfied that any recognised stock exchange was prevented by sufficient cause from being corporatised and demutualised on or after the appointed date, specify another appointed date in respect of that recognised stock exchange and such recognised stock exchange may continue as such before such appointed date.</p>
+            <p>Explanation.—</p>
+            <p>For the purposes of this section, “appointed date” means the date which the Securities and Exchange Board of India may, by notification in the Official Gazette, appoint and different appointed dates may be appointed for different recognised stock exchanges.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4B">
+        <num>4B.</num>
+        <heading>Procedure for corporatisation and demutualisation.</heading>
+        <subsection id="section-4B.1">
+          <num>(1)</num>
+          <content>
+            <p>All recognised stock exchanges referred to in section 4A shall, within such time as may be specified by the Securities and Exchange Board of India, submit a scheme for corporatisation and demutualisation for its approval :</p>
+            <p>Provided that the Securities and Exchange Board of India, may, by notification in the Official Gazette, specify name of the recognised stock exchange, which had already been corporatised and demutualised, and such stock exchange shall not be required to submit the scheme under this section.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4B.2">
+          <num>(2)</num>
+          <content>
+            <p>On receipt of the scheme referred to in sub-section (1), the Securities and Exchange Board of India may, after making such enquiry as may be necessary in this behalf and</p>
+            <p>obtaining such further information, if any, as it may require and if it is satisfied that it would be in the interest of the trade and also in the public interest, approve the scheme with or without modification.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4B.3">
+          <num>(3)</num>
+          <content>
+            <p>No scheme under sub-section (2) shall be approved by the Securities and Exchange Board of India if the issue of shares for a lawful consideration or provision of trading rights in lieu of membership card of the members of a recognised stock exchange or payment of dividends to members have been proposed out of any reserves or assets of that stock exchange.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4B.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-4B.4.list1">
+              <listIntroduction>Where the scheme is approved under sub-section (2), the scheme so approved shall be published immediately by—</listIntroduction>
+              <item id="section-4B.4.list1.a">
+                <num>(a)</num>
+                <p>the Securities and Exchange Board of India in the Official Gazette;</p>
+              </item>
+              <item id="section-4B.4.list1.b">
+                <num>(b)</num>
+                <p>the recognised stock exchange in such two daily newspapers circulating in India, as may be specified by the Securities and Exchange Board of India,</p>
+              </item>
+            </blockList>
+            <p>and upon such publication, notwithstanding anything to the contrary contained in this Act or any other law for the time being in force or any agreement, award, judgment, decree or other instrument for the time being in force, the scheme shall have effect and be binding on all persons and authorities including all members, creditors, depositors and employees of the recognised stock exchange and on all persons having any contract, right, power, obligation or liability with, against, over, to, or in connection with, the recognised stock exchange or its members.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4B.5">
+          <num>(5)</num>
+          <content>
+            <p>Where the Securities and Exchange Board of India is satisfied that it would not be in the interest of the trade and also in the public interest to approve the scheme under sub-section (2), it may, by an order, reject the scheme and such order of rejection shall be published by it in the Official Gazette:</p>
+            <p>Provided that the Securities and Exchange Board of India shall give a reasonable opportunity of being heard to all the persons concerned and the recognised stock exchange concerned before passing an order rejecting the scheme.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4B.6">
+          <num>(6)</num>
+          <content>
+            <blockList id="section-4B.6.list1">
+              <listIntroduction>The Securities and Exchange Board of India may, while approving the scheme under sub-section (2), by an order in writing, restrict—</listIntroduction>
+              <item id="section-4B.6.list1.a">
+                <num>(a)</num>
+                <p>the voting rights of the shareholders who are also stock brokers of the reognised stock exchange;</p>
+              </item>
+              <item id="section-4B.6.list1.b">
+                <num>(b)</num>
+                <p>the right of shareholders or a stock broker of the recognised stock exchange to appoint the representatives on the governing board of the stock exchange;</p>
+              </item>
+              <item id="section-4B.6.list1.c">
+                <num>(c)</num>
+                <p>the maximum number of representatives of the stock brokers of the recognised stock exchange to be appointed on the governing board of the recognised stock exchange, which shall not exceed one-fourth of the total strength of the governing board.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4B.7">
+          <num>(7)</num>
+          <content>
+            <p>The order made under sub-section (6) shall be published in the Official Gazette and on the publication thereof, the order shall, notwithstanding anything to the contrary contained in the Companies Act, 1956 (1 of 1956), or any other law for the time being in force, have full effect.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4B.8">
+          <num>(8)</num>
+          <content>
+            <p>Every recognised stock exchange, in respect of which the scheme for corporatisation or demutualisation has been approved under sub-section (2), shall, either by fresh issue of equity shares to the public or in any other manner as may be specified by the regulations made by the Securities and Exchange Board of India, ensure that at least fifty-one per cent of its equity share capital is held, within twelve months from the date of publication of the order under sub-section (7), by the public other than shareholders having trading rights :</p>
+            <p>Provided that the Securities and Exchange Board of India may, on sufficient cause being shown to it and in the public interest, extend the said period by another twelve months.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Withdrawal of recognition.</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>If the Central Government is of opinion that the recognition granted to a stock exchange under the provisions of this Act should, in the interest of the trade or in the public interest, be withdrawn, the Central Government may serve on the governing body of the stock exchange a written notice that the Central Government is considering the withdrawal of the recognition for the reasons stated in the notice and after giving an opportunity to the governing body to be heard in the matter, the Central Government may withdraw, by notification in the Official Gazette, the recognition granted to the stock exchange :</p>
+            <p>Provided that no such withdrawal shall affect the validity of any contract entered into or made before the date of the notification, and the Central Government may, after consultation with the stock exchange, make such provision as it deems fit in the notification of withdrawal or in any subsequent notification similarly published for the due performance of any contracts outstanding on that date.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the recognised stock exchange has not been corporatised or demutualised or it fails to submit the scheme referred to in sub-section (1) of section 4B within the specified time therefor or the scheme has been rejected by the Securities and Exchange Board of India under sub-section (5) of section 4B, the recognition granted to such stock exchange under section 4, shall, notwithstanding anything to the contrary contained in this Act, stand withdrawn and the Central Government shall publish, by notification in the Official Gazette, such withdrawal of recognition:</p>
+            <p>Provided that no such withdrawal shall affect the validity of any contract entered into or made before the date of the notification, and the Securities and Exchange Board of India may, after consultation with the stock exchange, make such provisions as it deems fit in the order rejecting the scheme published in the Official Gazette under sub-section (5) of section 4B.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Power of Central Government to call for periodical returns or direct inquiries to be made.</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Every recognised stock exchange shall furnish to the Securities and Exchange Board of India such periodical returns relating to its affairs as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Every recognised stock exchange and every member thereof shall maintain and preserve for such periods not exceeding five years such books of account, and other documents as the Central Government, after consultation with the stock exchange concerned, may prescribe in the interest of the trade or in the public interest, and such books of account, and other documents shall be subject to inspection at all reasonable times by the Securities and Exchange Board of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-6.3.list1">
+              <listIntroduction>Without prejudice to the provisions contained in sub-sections (1) and (2), the Securities and Exchange Board of India, if it is satisfied that it is in the interest of the trade or in the public interest so to do, may, by order in writing,—</listIntroduction>
+              <item id="section-6.3.list1.a">
+                <num>(a)</num>
+                <p>call upon a recognised stock exchange or any member thereof to furnish in writing such information or explanation relating to the affairs of the stock exchange or of the member in relation to the stock exchange as the Securities and Exchange Board of India may require; or</p>
+              </item>
+              <item id="section-6.3.list1.b">
+                <num>(b)</num>
+                <p>appoint one or more persons to make an inquiry in the prescribed manner in relation to the affairs of the governing body of a stock exchange or the affairs of any of the members of the stock exchange in relation to the stock exchange and submit a report of the result of such inquiry to the Securities and Exchange Board of India within such time as may be specified in the order or, in the case of an inquiry in relation to the affairs of any of the members of a stock exchange, direct the governing body to make the inquiry and submit its report to the Securities and Exchange Board of India.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-6.4.list1">
+              <listIntroduction>Where an inquiry in relation to the affairs of a recognised stock exchange or the affairs of any of its members in relation to the stock exchange has been undertaken under sub-section (3),—</listIntroduction>
+              <item id="section-6.4.list1.a">
+                <num>(a)</num>
+                <p>every director, manager, secretary or other officer of such stock exchange;</p>
+              </item>
+              <item id="section-6.4.list1.b">
+                <num>(b)</num>
+                <p>every member of such stock exchange;</p>
+              </item>
+              <item id="section-6.4.list1.c">
+                <num>(c)</num>
+                <p>if the member of the stock exchange is a firm, every partner, manager, secretary or other officer of the firm; and</p>
+              </item>
+              <item id="section-6.4.list1.d">
+                <num>(d)</num>
+                <p>every other person or body of persons who has had dealings in the course of business with any of the persons mentioned in clauses (a), (b) and (c), whether directly or indirectly;</p>
+              </item>
+            </blockList>
+            <p>shall be bound to produce before the authority making the inquiry all such books of account, and other documents in his custody or power relating to or having a bearing on the subject-matter of such inquiry and also to furnish the authorities within such time as may be specified with any such statement or information relating thereto as may be required of him.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Annual reports to be furnished to Central Government by stock exchanges.</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <p>Every recognised stock exchange shall furnish the Central Government with a copy of the annual report, and such annual report shall contain such particulars as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7A">
+        <num>7A.</num>
+        <heading>Power of recognised stock exchange to make rules restricting voting rights, etc.</heading>
+        <subsection id="section-7A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-7A.1.list1">
+              <listIntroduction>A recognised stock exchange may make rules or amend any rules made by it to provide for all or any of the following matters, namely :—</listIntroduction>
+              <item id="section-7A.1.list1.a">
+                <num>(a)</num>
+                <p>the restriction of voting rights to members only in respect of any matter placed before the stock exchange at any meeting;</p>
+              </item>
+              <item id="section-7A.1.list1.b">
+                <num>(b)</num>
+                <p>the regulation of voting rights in respect of any matter placed before the stock exchange at any meeting so that each member may be entitled to have one vote only, irrespective of his share of the paid-up equity capital of the stock exchange;</p>
+              </item>
+              <item id="section-7A.1.list1.c">
+                <num>(c)</num>
+                <p>the restriction on the right of a member to appoint another person as his proxy to attend and vote at a meeting of the stock exchange;</p>
+              </item>
+              <item id="section-7A.1.list1.d">
+                <num>(d)</num>
+                <p>such incidental, consequential and supplementary matters as may be necessary to give effect to any of the matters specified in clauses (a), (b) and (c).</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7A.2">
+          <num>(2)</num>
+          <content>
+            <p>No rules of a recognised stock exchange made or amended in relation to any matter referred to in clauses (a) to (d) of sub-section (1) shall have effect until they have been approved by the Central Government and published by that Government in the Official Gazette and, in approving the rules so made or amended, the Central Government may make such modifications therein as it thinks fit, and on such publication, the rules as approved by the Central Government shall be deemed to have been validly made, notwithstanding anything to the contrary contained in the Companies Act, 1956 (1 of 1956).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Power of Central Government to direct rules to be made or to make rules.</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>Where, after consultation with the governing bodies of stock exchanges generally or with the governing body of any stock exchange in particular, the Central Government is of opinion that it is necessary or expedient so to do, it may, by order in writing together with a statement of the reasons therefor, direct recognised stock exchanges generally or any recognised stock exchange in particular, as the case may be, to make any rules or to amend any rules already made in respect of all or any of the matters specified in sub-section (2) of section 3 within a period of two months from the date of the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>If any recognised stock exchange fails or neglects to comply with any order made under sub-section (1) within the period specified therein, the Central Government may make the rules for, or amend the rules made by, the recognised stock exchange, either in the form proposed in the order or with such modifications thereof as may be agreed to between the stock exchange and the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>Where in pursuance of this section any rules have been made or amended, the rules so made or amended shall be published in the Gazette of India and also in the Official Gazette or Gazettes of the State or States in which the principal office or offices of the recognised stock exchange or exchanges is or are situate, and, on the publication thereof in the Gazette of India, the rules so made or amended shall, notwithstanding anything to the contrary contained in the Companies Act, 1956 (1 of 1956), or in any other law for the time being in force, have effect as if they had been made or amended by the recognised stock exchange or stock exchanges, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8A">
+        <num>8A.</num>
+        <heading>Clearing corporation.</heading>
+        <subsection id="section-8A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-8A.1.list1">
+              <listIntroduction>A recognised stock exchange may, with the prior approval of the Securities and Exchange Board of India, transfer the duties and functions of a clearing house to a clearing corporation, being a company incorporated under the Companies Act, 1956 (1 of 1956), for the purpose of—</listIntroduction>
+              <item id="section-8A.1.list1.a">
+                <num>(a)</num>
+                <p>the periodical settlement of contracts and differences thereunder;</p>
+              </item>
+              <item id="section-8A.1.list1.b">
+                <num>(b)</num>
+                <p>the delivery of, and payment for, securities;</p>
+              </item>
+              <item id="section-8A.1.list1.c">
+                <num>(c)</num>
+                <p>any other matter incidental to, or connected with, such transfer.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-8A.2">
+          <num>(2)</num>
+          <content>
+            <p>Every clearing corporation shall, for the purpose of transfer of the duties and functions of a clearing house to a clearing corporation referred to in sub-section (1), make bye-laws and submit the same to the Securities and Exchange Board of India for its approval.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8A.3">
+          <num>(3)</num>
+          <content>
+            <p>The Securities and Exchange Board of India may, on being satisfied that it is in the interest of the trade and also in the public interest to transfer the duties and functions of a clearing house to a clearing corporation, grant approval to the bye-laws submitted to it under sub-section (2) and approve the transfer of the duties and functions of a clearing house to a clearing corporation referred to in sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-8A.4">
+          <num>(4)</num>
+          <content>
+            <p>The provisions of sections 4, 5, 6, 7, 8, 9, 10, 11 and 12 shall, as far as may be, apply to a clearing corporation referred to in sub-section (1) as they apply in relation to a recognised stock exchange.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Power of recognised stock exchanges to make bye-laws.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Any recognised stock exchange may, subject to the previous approval of the Securities and Exchange Board of India, make bye-laws for the regulation and control of contracts.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-9.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such bye-laws may provide for :</listIntroduction>
+              <item id="section-9.2.list1.a">
+                <num>(a)</num>
+                <p>the opening and closing of markets and the regulation of the hours of trade;</p>
+              </item>
+              <item id="section-9.2.list1.b">
+                <num>(b)</num>
+                <p>a clearing house for the periodical settlement of contracts and differences thereunder, the delivery of and payment for securities, the passing on of delivery orders and the regulation and maintenance of such clearing house;</p>
+              </item>
+              <item id="section-9.2.list1.c">
+                <num>(c)</num>
+                <blockList id="section-9.2.list1.c.list0">
+                  <listIntroduction>the submission to the Securities and Exchange Board of India by the clearing house as soon as may be after each periodical settlement of all or any of the following particulars as the Securities and Exchange Board of India may, from time to time, require, namely:—</listIntroduction>
+                  <item id="section-9.2.list1.c.list0.i">
+                    <num>(i)</num>
+                    <p>the total number of each category of security carried over from one settlement period to another;</p>
+                  </item>
+                  <item id="section-9.2.list1.c.list0.ii">
+                    <num>(ii)</num>
+                    <p>the total number of each category of security, contracts in respect of which have been squared up during the course of each settlement period;</p>
+                  </item>
+                  <item id="section-9.2.list1.c.list0.iii">
+                    <num>(iii)</num>
+                    <p>the total number of each category of security actually delivered at each clearing;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-9.2.list1.d">
+                <num>(d)</num>
+                <p>the publication by the clearing house of all or any of the particulars submitted to the Securities and Exchange Board of India under clause (c) subject to the directions, if any, issued by the Securities and Exchange Board of India in this behalf;</p>
+              </item>
+              <item id="section-9.2.list1.e">
+                <num>(e)</num>
+                <p>the regulation or prohibition of blank transfers;</p>
+              </item>
+              <item id="section-9.2.list1.f">
+                <num>(f)</num>
+                <p>the number and classes of contracts in respect of which settlements shall be made or differences paid through the clearing house;</p>
+              </item>
+              <item id="section-9.2.list1.g">
+                <num>(g)</num>
+                <p>the regulation, or prohibition of budlas or carry-over facilities;</p>
+              </item>
+              <item id="section-9.2.list1.h">
+                <num>(h)</num>
+                <p>the fixing, altering or postponing of days for settlements;</p>
+              </item>
+              <item id="section-9.2.list1.i">
+                <num>(i)</num>
+                <p>the determination and declaration of market rates, including the opening, closing highest and lowest rates for securities;</p>
+              </item>
+              <item id="section-9.2.list1.j">
+                <num>(j)</num>
+                <p>the terms, conditions and incidents of contracts, including the prescription of margin requirements, if any, and conditions relating thereto, and the forms of contracts in writing;</p>
+              </item>
+              <item id="section-9.2.list1.k">
+                <num>(k)</num>
+                <p>the regulation of the entering into, making, performance, rescission and termination, of contracts, including contracts between members or between a member and his constituent or between a member and a person who is not a member, and the consequences of default or insolvency on the part of a seller or buyer or intermediary, the consequences of a breach or omission by a seller or buyer, and the responsibility of members who are not parties to such contracts;</p>
+              </item>
+              <item id="section-9.2.list1.l">
+                <num>(l)</num>
+                <p>the regulation of taravani business including the placing of limitations thereon;</p>
+              </item>
+              <item id="section-9.2.list1.m">
+                <num>(m)</num>
+                <p>the listing of securities on the stock exchange, the inclusion of any security for the purpose of dealings and the suspension or withdrawal of any such securities, and the suspension or prohibition of trading in any specified securities;</p>
+              </item>
+              <item id="section-9.2.list1.n">
+                <num>(n)</num>
+                <p>the method and procedure for the settlement of claims or disputes, including settlement by arbitration;</p>
+              </item>
+              <item id="section-9.2.list1.o">
+                <num>(o)</num>
+                <p>the levy and recovery of fees, fines and penalties;</p>
+              </item>
+              <item id="section-9.2.list1.p">
+                <num>(p)</num>
+                <p>the regulation of the course of business between parties to contracts in any capacity;</p>
+              </item>
+              <item id="section-9.2.list1.q">
+                <num>(q)</num>
+                <p>the fixing of a scale of brokerage and other charges;</p>
+              </item>
+              <item id="section-9.2.list1.r">
+                <num>(r)</num>
+                <p>the making, comparing, settling and closing of bargains;</p>
+              </item>
+              <item id="section-9.2.list1.s">
+                <num>(s)</num>
+                <p>the emergencies in trade which may arise, whether as a result of pool or syndicated operations or cornering or otherwise, and the exercise of powers in such emergencies, including the power to fix maximum and minimum prices for securities;</p>
+              </item>
+              <item id="section-9.2.list1.t">
+                <num>(t)</num>
+                <p>the regulation of dealings by members for their own account;</p>
+              </item>
+              <item id="section-9.2.list1.u">
+                <num>(u)</num>
+                <p>the separation of the functions of jobbers and brokers;</p>
+              </item>
+              <item id="section-9.2.list1.v">
+                <num>(v)</num>
+                <p>the limitations on the volume of trade done by any individual member in exceptional circumstances;</p>
+              </item>
+              <item id="section-9.2.list1.w">
+                <num>(w)</num>
+                <p>the obligation of members to supply such information or explanation and to produce such documents relating to the business as the governing body may require.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-9.3.list1">
+              <listIntroduction>The bye-laws made under this section may—</listIntroduction>
+              <item id="section-9.3.list1.a">
+                <num>(a)</num>
+                <p>specify the bye-laws the contravention of which shall make a contract entered into otherwise than in accordance with the bye-laws void under sub-section (1) of section 14;</p>
+              </item>
+              <item id="section-9.3.list1.b">
+                <num>(b)</num>
+                <blockList id="section-9.3.list1.b.list0">
+                  <listIntroduction>provide that the contravention of any of the bye-laws shall render the member concerned liable to one or more of the following punishments, namely:—</listIntroduction>
+                  <item id="section-9.3.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>fine,</p>
+                  </item>
+                  <item id="section-9.3.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>expulsion from membership,</p>
+                  </item>
+                  <item id="section-9.3.list1.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>suspension from membership for a specified period,</p>
+                  </item>
+                  <item id="section-9.3.list1.b.list0.iv">
+                    <num>(iv)</num>
+                    <p>any other penalty of a like nature not involving the payment of money.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-9.4">
+          <num>(4)</num>
+          <content>
+            <p>Any bye-laws made under this section shall be subject to such conditions in regard to previous publication as may be prescribed, and, when approved by the</p>
+            <p>Securities and Exchange Board of India, shall be published in the Gazette of India and also in the Official Gazette of the State in which the principal office of the recognised stock exchange is situate, and shall have effect as from the date of its publication in the Gazette of India:</p>
+            <p>Provided that if the Securities and Exchange Board of India is satisfied in any case that in the interest of the trade or in the public interest any bye-law should be made immediately, it may, by order in writing specifying the reasons therefor, dispense with the condition of previous publication.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Power of Securities and Exchange Board of India to make or amend bye-laws of recognised stock exchanges.</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>The Securities and Exchange Board of India may, either on a request in writing received by it in this behalf from the governing body of a recognised stock exchange or on its own motion, if it is satisfied after consultation with the governing body of the stock exchange that it is necessary or expedient so to do and after recording its reasons for so doing, make bye-laws for all or any of the matters specified in section 9 or amend any bye-laws made by such stock exchange under that section.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>Where in pursuance of this section any bye-laws have been made or amended the bye-laws so made or amended shall be published in the Gazette of India and also in the Official Gazette of the State in which the principal office of the recognised stock exchange is situate, and on the publication thereof in the Gazette of India, the bye-laws so made or amended shall have effect as if they had been made or amended by the recognised stock exchange concerned.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in this section, where the governing body of a recognised stock exchange objects to any bye-laws made or amended under this section by the Securities and Exchange Board of India on its own motion, it may, within two months of the publication thereof in the Gazette of India under subsection (2), apply to the Securities and Exchange Board of India for revision thereof, and the Securities and Exchange Board of India may, after giving an opportunity to the governing body of the stock exchange to be heard in the matter, revise the bye-laws so made or amended, anywhere any bye-laws so made or amended are revised as a result of any action taken under this sub-section, the bye-laws so revised shall be published and shall become effective as provided in subsection (2).</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>The making or the amendment or revision of any bye-laws under this section shall in all cases be subject to the condition of previous publication :</p>
+            <p>Provided that if the Securities and Exchange Board of India is satisfied in any case that in the interest of the trade or in the public interest any bye-laws should be made, amended or revised immediately, it may, by order in writing specifying the reasons therefor, dispense with the condition of previous publication.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Power of Central Government to supersede governing body of a recognised stock exchange.</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>Without prejudice to any other powers vested in the Central Government under this Act, where the Central Government is of opinion that the governing body of any recognised stock exchange should be superseded, then, notwithstanding anything contained in any other law for the time being in force, in the Central Government may serve on the governing body a written notice that the Central Government is considering the supersession of the governing body for the reasons specified in the notice and after giving an opportunity to the governing body to be heard in the matter, it may, by notification in the Official Gazette, declare the governing body of such stock exchange to be superseded, and may appoint any person or persons to exercise and perform all the powers and duties of the governing body, and, where more persons than one are appointed, may appoint one of such persons to be the chairman and another to be the vice-chairman thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-11.2.list1">
+              <listIntroduction>On the publication of a notification in the Official Gazette under sub-section (1), the following consequences shall ensue, namely:—</listIntroduction>
+              <item id="section-11.2.list1.a">
+                <num>(a)</num>
+                <p>the members of the governing body which has been superseded shall, as from the date of the notification of supersession, cease to hold office as such members;</p>
+              </item>
+              <item id="section-11.2.list1.b">
+                <num>(b)</num>
+                <p>the person or persons appointed under sub-section (1) may exercise and perform all the powers and duties of the governing body which has been superseded;</p>
+              </item>
+              <item id="section-11.2.list1.c">
+                <num>(c)</num>
+                <p>all such property of the recognised stock exchange as the person or persons appointed under sub-section (1) may, by order in writing, specify in this behalf as being necessary for the purpose of enabling him or them to carry on the business of the stock exchange, shall vest in such person or persons.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything to the contrary contained in any law or the rules or bye-laws of the recognised stock exchange the governing body of which is superseded under sub-section (1), the person or persons appointed under that subsection shall hold office for such period as may be specified in the notification published under that sub-section and the Central Government may from time to time, by like notification, vary such period.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.4">
+          <num>(4)</num>
+          <content>
+            <p>The Central Government may at any time before the determination of the period of office of any person or persons appointed under this section call upon the recognised stock exchange to re-constitute the governing body in accordance with its rules and on such re-constitution all the property of the recognised stock exchange which has vested in, or was in the possession of, the person or persons appointed</p>
+            <p>under sub-section (1), shall re-vest or vest, as the case may be, in the governing body so re-constituted:</p>
+            <p>Provided that until a governing body is so re-constituted, the person or persons appointed under sub-section (1) shall continue to exercise and perform their powers and duties.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Power to suspend business of recognised stock exchanges.</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>If in the opinion of the Central Government an emergency has arisen and for the purpose of meeting the emergency the Central Government considers it expedient so to do, it may, by notification in the Official Gazette, for reasons to be set out therein, direct a recognised stock exchange to suspend such of its business for such period not exceeding seven days and subject to such conditions as may be specified in the notification, and, if, in the opinion of the Central Government, the interest of the trade or the public interest requires that the period should be extended, may, by like notification extend the said period from time to time :</p>
+            <p>Provided that where the period of suspension is to be extended beyond the first period, no notification extending the period of suspension shall be issued unless the governing body of the recognised stock exchange has been given an opportunity of being heard in the matter.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12A">
+        <num>12A.</num>
+        <heading>Power to issue directions.</heading>
+        <paragraph id="section-12A.paragraph-0">
+          <content>
+            <blockList id="section-12A.paragraph-0.list1">
+              <listIntroduction>If, after making or causing to be made an inquiry, the Securities and Exchange Board of India is satisfied that it is necessary—</listIntroduction>
+              <item id="section-12A.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>in the interest of investors, or orderly development of securities market; or</p>
+              </item>
+              <item id="section-12A.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>to prevent the affairs of any recognised stock exchange or clearing corporation, or such other agency or person, providing trading or clearing or settlement facility in respect of securities, being conducted in a manner detrimental to the interests of investors or securities market; or</p>
+              </item>
+              <item id="section-12A.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>to secure the proper management of any such stock exchange or clearing corporation or agency or person, referred to in clause (b),</p>
+              </item>
+            </blockList>
+            <blockList id="section-12A.paragraph-0.list3">
+              <listIntroduction>it may issue such directions,—</listIntroduction>
+              <item id="section-12A.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>to any stock exchange or clearing corporation or agency or person referred to in clause (b) or any person or class of persons associated with the securities market; or</p>
+              </item>
+              <item id="section-12A.paragraph-0.list3.ii">
+                <num>(ii)</num>
+                <p>to any company whose securities are listed or proposed to be listed in a recognised stock exchange,</p>
+              </item>
+            </blockList>
+            <p>as may be appropriate in the interests of investors in securities and the securities market.</p>
+            <p>Explanation. — For the removal of doubts, it is hereby declared that power to issue directions under this section shall include and always be deemed to have been included the power to direct any person, who made profit or averted loss by indulging in any transaction or activity in contravention of the provisions of this Act or regulations made thereunder, to disgorge an amount equivalent to the wrongful gain made or loss averted by such contravention.</p>
+            <p>CONTRACTS AND OPTIONS IN SECURITIES</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Contracts in notified areas illegal in certain circumstances.</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>If the Central Government is satisfied, having regard to the nature or the volume of transactions in securities in any State or States or area that it is necessary so to do, it may, by notification in the Official Gazette, declared this section to apply to such State or States or area, and thereupon every contract in such State or States or area which is entered into after the date of the notification otherwise than between members of a recognised stock exchange or recognised stock exchanges in such State or States or area or through or with such member shall be illegal :</p>
+            <blockList id="section-13.paragraph-0.list2">
+              <listIntroduction>Provided that any contract entered into between members of two or more recognised stock exchanges in such State or States or area, shall—</listIntroduction>
+              <item id="section-13.paragraph-0.list2.i">
+                <num>(i)</num>
+                <p>be subject to such terms and conditions as may be stipulated by the respective stock exchanges with prior approval of Securities and Exchange Board of India;</p>
+              </item>
+              <item id="section-13.paragraph-0.list2.ii">
+                <num>(ii)</num>
+                <p>require prior permission from the respective stock exchanges if so stipulated by the stock exchanges with prior approval of Securities and Exchange Board of India.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13A">
+        <num>13A.</num>
+        <heading>Additional trading floor.</heading>
+        <paragraph id="section-13A.paragraph-0">
+          <content>
+            <p>A stock exchange may establish additional trading floor with the prior approval of the Securities and Exchange Board of India in accordance with the terms and conditions stipulated by the said Board.</p>
+            <p>Explanation: For the purposes of this section, “additional trading floor” means a trading ring or trading facility offered by a recognised stock exchange outside its area of operation to enable the investors to buy and sell securities through such trading floor under the regulatory framework of that stock exchange.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Contracts in notified areas to be void in certain circumstances.</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-14.1.list1">
+              <listIntroduction>Any contract entered into in any State or area specified in the notification under section 13 which is in contravention of any of the bye-laws specified in that behalf under clause (a) of sub-section (3) of section 9 shall be void:</listIntroduction>
+              <item id="section-14.1.list1.i">
+                <num>(i)</num>
+                <p>as respects the rights of any member of the recognised stock exchange who has entered into such contract in contravention of any such bye-law, and also</p>
+              </item>
+              <item id="section-14.1.list1.ii">
+                <num>(ii)</num>
+                <p>as respects the rights of any other person who has knowingly participated in the transaction entailing such contravention.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing in sub-section (1) shall be construed to affect the right of any person other than a member of the recognised stock exchange to enforce any such contract or to recover any sum under or in respect of such contract if such person had no knowledge that the transaction was in contravention of any of the bye-laws specified in clause (a) of sub-section (3) of section 9.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Members may not act as principals in certain circumstances.</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>No member of a recognised stock exchange shall in respect of any securities enter into any contract as a principal with any person other than a member of a recognised stock exchange, unless he has secured the consent or authority of such person and discloses in the note, memorandum or agreement of sale or purchase that he is acting as a principal:</p>
+            <p>Provided that where the member has secured the consent or authority of such person otherwise than in writing he shall secure written confirmation by such person or such consent or authority within three days from the date of the contract:</p>
+            <p>Provided further that no such written consent or authority of such person shall be necessary for closing out any outstanding contract entered into by such person in accordance with the bye-laws, if the member discloses in the note, memorandum or agreement of sale or purchase in respect of such closing out that he is acting as a principal.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Power to prohibit contracts in certain cases. 76</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <p>If the Central Government is of opinion that it is necessary to prevent undesirable speculation in specified securities in any State or area, it may, by notification in the Official Gazette, declare that no person in the State or area specified in the notification shall, save with the permission of the Central Government, enter into any contract for the sale or purchase of any security specified in the notification except to the extent and in the manner, if any, specified therein.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <p>All contracts in contravention of the provisions of sub-section (1) entered into after the date of notification issued thereunder shall be illegal.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Licensing of dealers in securities in certain areas.</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (3) and to the other provisions contained in this Act, no person shall carry on or purport to carry on, whether on his own behalf or on behalf of any other person, the business of dealing in securities in any State or area to which section 13 has not been declared to apply and to which the Central Government may, by notification in the Official Gazette, declare this section to apply, except under the authority of a licence granted by the Securities and Exchange Board of India in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>No notification under sub-section (1) shall be issued with respect to any State or area unless the Central Government is satisfied, having regard to the manner in which securities are being dealt with in such State or area, that it is desirable or expedient in the interest of the trade or in the public interest that such dealings should be regulated by a system of licensing.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>The restrictions imposed by sub-section (1) in relation to dealings in securities shall not apply to the doing of anything by or on behalf of a member of any recognised stock exchange.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17A">
+        <num>17A.</num>
+        <heading>Public issue and listing of securities referred to in sub-clause (ie) of clause (h) of section 2.</heading>
+        <subsection id="section-17A.1">
+          <num>(1)</num>
+          <content>
+            <p>Without prejudice to the provisions contained in this Act or any other law for the time being in force, no securities of the nature referred to in sub-clause (ie) of clause (h) of section 2 shall be offered to the public or listed on any recognised stock exchange unless the issuer fulfils such eligibility criteria and complies with such other</p>
+            <p>requirements as may be specified by regulations made by the Securities and Exchange Board of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17A.2">
+          <num>(2)</num>
+          <content>
+            <p>Every issuer referred to in sub-clause (ie) of clause (h) of section 2 intending to offer the certificates or instruments referred therein to the public shall make an application, before issuing the offer document to the public, to one or more recognised stock exchanges for permission for such certificates or instruments to be listed on the stock exchange or each such stock exchange.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17A.3">
+          <num>(3)</num>
+          <content>
+            <p>Where the permission applied for under sub-section (2) for listing has not been granted or refused by the recognised stock exchanges or any of them, the issuer shall forthwith repay all moneys, if any, received from applicants in pursuance of the offer document, and if any such money is not repaid within eight days after the issuer becomes liable to repay it, the issuer and every director or trustee thereof, as the case may be, who is in default shall, on and from the expiry of the eighth day, be jointly and severally liable to repay that money with interest at the rate of fifteen per cent per annum.</p>
+            <p>Explanation.—</p>
+            <p>In reckoning the eighth day after another day, any intervening day which is a public holiday under the Negotiable Instruments Act, 1881 (26 of 1881), shall be disregarded, and if the eighth day (as so reckoned) is itself such a public holiday, there shall for the said purposes be substituted the first day thereafter which is not a holiday.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17A.4">
+          <num>(4)</num>
+          <content>
+            <p>All the provisions of this Act relating to listing of securities of a public company on a recognised stock exchange shall, mutatis mutandis, apply to the listing of the securities of the nature referred to in sub-clause (ie) of clause (h) of section 2 by the issuer, being a special purpose distinct entity.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Exclusion of spot delivery contracts from sections 13, 14, 15 and 17.</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>Nothing contained in sections 13, 14, 15 and 17 shall apply to spot delivery contracts.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), if the Central Government is of opinion that in the interest of the trade or in the public interest it is expedient to regulate and control the business of dealing in spot delivery contracts also in any State or area (whether section 13 has been declared to apply to that State or area or not), it may, by notification in the Official Gazette, declare that the provisions of section 17 shall also apply to such State or area in respect of spot delivery contracts generally or in respect of spot delivery contracts for the sale or purchase of such securities as may be specified in the notification, and may also specify the manner in which, and the extent to which, the provisions of that section shall so apply.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18A">
+        <num>18A.</num>
+        <heading>Contracts in derivative.</heading>
+        <paragraph id="section-18A.paragraph-0">
+          <content>
+            <blockList id="section-18A.paragraph-0.list1">
+              <listIntroduction>Notwithstanding anything contained in any other law for the time being in force, contracts in derivative shall be legal and valid if such contracts are—</listIntroduction>
+              <item id="section-18A.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>traded on a recognised stock exchange;</p>
+              </item>
+              <item id="section-18A.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>settled on the clearing house of the recognised stock exchange; or in accordance with the rules and bye-laws of such stock exchange.</p>
+              </item>
+              <item id="section-18A.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>between such parties and on such terms as the Central Government may, by notification in the Official Gazette, specify,</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Stock exchanges other than recognised stock exchanges prohibited.</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>No person shall, except with the permission of the Central Government, organise or assist in organising or be a member of any stock exchange (other than a recognised stock exchange) for the purpose of assisting in, entering into or performing any contracts in securities.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>This section shall come into force in any State or area on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Prohibition of options in securities.</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>LISTING OF SECURITIES</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Conditions for listing.</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>Where securities are listed on the application of any person in any recognised stock exchange, such person shall comply with the conditions of the listing agreement with that stock exchange.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21A">
+        <num>21A.</num>
+        <heading>Delisting of securities.</heading>
+        <subsection id="section-21A.1">
+          <num>(1)</num>
+          <content>
+            <p>A recognised stock exchange may delist the securities, after recording the reasons therefor, from any recognised stock exchange on any of the ground or grounds as may be prescribed under this Act :</p>
+            <p>Provided that the securities of a company shall not be delisted unless the company concerned has been given a reasonable opportunity of being heard.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21A.2">
+          <num>(2)</num>
+          <content>
+            <p>A listed company or an aggrieved investor may file an appeal before the Securities Appellate Tribunal against the decision of the recognised stock exchange delisting the securities within fifteen days from the date of the decision of the recognised stock exchange delisting the securities and the provisions of sections 22B to 22E of this Act, shall apply, as far as may be, to such appeals:</p>
+            <p>Provided that the Securities Appellate Tribunal may, if it is satisfied that the company was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding one month.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Right of appeal against refusal of stock exchanges to list securities of public companies.</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <blockList id="section-22.paragraph-0.list1">
+              <listIntroduction>Where a recognised stock exchange acting in pursuance of any power given to it by its bye-laws, refuses to list the securities of any public company or collective investment scheme, the company or scheme shall be entitled to be furnished with reasons for such refusal, and may,—</listIntroduction>
+              <item id="section-22.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>within fifteen days from the date on which the reasons for such refusal are furnished to it, or</p>
+              </item>
+              <item id="section-22.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>where the stock exchange has omitted or failed to dispose of, within the time specified in sub-section (1) of section 73 of the Companies Act, 1956 (1 of 1956) (hereafter in this section referred to as the “specified time”), the application for permission for the shares or debentures to be dealt with on the stock exchange, within fifteen days from the date of expiry of the specified time or within such further period, not exceeding one month, as the Central Government may, on sufficient cause being shown, allow,</p>
+              </item>
+            </blockList>
+            <blockList id="section-22.paragraph-0.list3">
+              <listIntroduction>appeal to the Central Government against such refusal, omission or failure, as the case may be, and thereupon the Central Government may, after giving the stock exchange an opportunity of being heard,—</listIntroduction>
+              <item id="section-22.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>vary or set aside the decision of the stock exchange, or</p>
+              </item>
+              <item id="section-22.paragraph-0.list3.ii">
+                <num>(ii)</num>
+                <p>where the stock exchange has omitted or failed to dispose of the application within the specified time, grant or refuse the permission,</p>
+              </item>
+            </blockList>
+            <p>and where the Central Government sets aside the decision of the recognised stock exchange or grants the permission, the stock exchange shall act in conformity with the orders of the Central Government:</p>
+            <p>Provided that no appeal shall be preferred against refusal, omission or failure, as the case may be, under this section on and after the commencement of the Securities Laws (Second Amendment) Act, 1999.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22A">
+        <num>22A.</num>
+        <heading>Right of appeal to Securities Appellate Tribunal against refusal of stock exchange to list securities of public companies.</heading>
+        <subsection id="section-22A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-22A.1.list1">
+              <listIntroduction>Where a recognised stock exchange, acting in pursuance of any power given to it by its bye-laws, refuses to list the securities of any company, the company shall be entitled to be furnished with reasons for such refusal, and may,—</listIntroduction>
+              <item id="section-22A.1.list1.a">
+                <num>(a)</num>
+                <p>within fifteen days from the date on which the reasons for such refusal are furnished to it, or</p>
+              </item>
+              <item id="section-22A.1.list1.b">
+                <num>(b)</num>
+                <p>where the stock exchange has omitted or failed to dispose of, within the time specified in sub-section (1A) of section 73 of the Companies Act, 1956 (1 of 1956), (hereafter in this section referred to as the “specified time”), the application for permission or for the shares or debentures to be dealt with on the stock exchange, within fifteen days from the date of expiry of the specified time or within such further period, not exceeding one month, as the Securities Appellate Tribunal may, on sufficient cause being shown, allow,</p>
+              </item>
+            </blockList>
+            <blockList id="section-22A.1.list3">
+              <listIntroduction>appeal to the Securities Appellate Tribunal having jurisdiction in the matter against such refusal, omission or failure, as the case may be, and thereupon the Securities Appellate Tribunal may, after giving the stock exchange, an opportunity of being heard,—</listIntroduction>
+              <item id="section-22A.1.list3.i">
+                <num>(i)</num>
+                <p>vary or set aside the decision of the stock exchange; or</p>
+              </item>
+              <item id="section-22A.1.list3.ii">
+                <num>(ii)</num>
+                <p>where the stock exchange has omitted or failed to dispose of the application within the specified time, grant or refuse the permission,</p>
+              </item>
+            </blockList>
+            <p>and where the Securities Appellate Tribunal sets aside the decision of the recognised stock exchange or grants the permission, the stock exchange shall act in conformity with the orders of the Securities Appellate Tribunal.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22A.2">
+          <num>(2)</num>
+          <content>
+            <p>Every appeal under sub-section (1) shall be in such form and be accompanied by such fee as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22A.3">
+          <num>(3)</num>
+          <content>
+            <p>The Securities Appellate Tribunal shall send a copy of every order made by it to the Board and parties to the appeal.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22A.4">
+          <num>(4)</num>
+          <content>
+            <p>The appeal filed before the Securities Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22B">
+        <num>22B.</num>
+        <heading>Procedure and powers of Securities Appellate Tribunal.</heading>
+        <subsection id="section-22B.1">
+          <num>(1)</num>
+          <content>
+            <p>The Securities Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act and of any rules, the Securities Appellate Tribunal shall have powers to regulate their own procedure including the places at which they shall have their sittings.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22B.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-22B.2.list1">
+              <listIntroduction>The Securities Appellate Tribunal shall have, for the purpose of discharging their functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely :—</listIntroduction>
+              <item id="section-22B.2.list1.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of any person and examining him on oath ;</p>
+              </item>
+              <item id="section-22B.2.list1.b">
+                <num>(b)</num>
+                <p>requiring the discovery and production of documents;</p>
+              </item>
+              <item id="section-22B.2.list1.c">
+                <num>(c)</num>
+                <p>receiving evidence on affidavits;</p>
+              </item>
+              <item id="section-22B.2.list1.d">
+                <num>(d)</num>
+                <p>issuing commissions for the examination of witnesses or documents;</p>
+              </item>
+              <item id="section-22B.2.list1.e">
+                <num>(e)</num>
+                <p>reviewing its decisions;</p>
+              </item>
+              <item id="section-22B.2.list1.f">
+                <num>(f)</num>
+                <p>dismissing an application for default or deciding it ex parte;</p>
+              </item>
+              <item id="section-22B.2.list1.g">
+                <num>(g)</num>
+                <p>setting aside any order of dismissal of any application for default or any order passed by it ex parte; and</p>
+              </item>
+              <item id="section-22B.2.list1.h">
+                <num>(h)</num>
+                <p>any other matter which may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-22B.3">
+          <num>(3)</num>
+          <content>
+            <p>Every proceeding before the Securities Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196 of the Indian Penal Code (45 of 1860) and the Securities Appellate Tribunal shall be deemed to be a civil court for all the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22C">
+        <num>22C.</num>
+        <heading>Right to legal representation.</heading>
+        <paragraph id="section-22C.paragraph-0">
+          <content>
+            <p>The appellant may either appear in person or authorise one or more chartered accountants or company secretaries or cost accountants or legal practitioners or any of its officers to present his or its case before the Securities Appellate Tribunal.</p>
+            <p>Explanation.—</p>
+            <blockList id="section-22C.paragraph-0.list3">
+              <listIntroduction>For the purposes of this section,—</listIntroduction>
+              <item id="section-22C.paragraph-0.list3.a">
+                <num>(a)</num>
+                <p>“chartered accountant” means a chartered accountant as defined in clause b)of sub-section (1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+              </item>
+              <item id="section-22C.paragraph-0.list3.b">
+                <num>(b)</num>
+                <p>“company secretary” means a company secretary as defined in clause (c) of subsection (1) of section 2 of the Company Secretaries Act, 1980 (56 of 1980) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+              </item>
+              <item id="section-22C.paragraph-0.list3.c">
+                <num>(c)</num>
+                <p>“cost accountant” means a cost accountant as defined in clause (b)of sub section (1) of section 2 of the Cost and Works Accountants Act, 1959 (23 of 1959) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+              </item>
+              <item id="section-22C.paragraph-0.list3.d">
+                <num>(d)</num>
+                <p>“legal practitioner” means an advocate, vakil or an attorney of any High Court, and includes a pleader in practice.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22D">
+        <num>22D.</num>
+        <heading>Limitation.</heading>
+        <paragraph id="section-22D.paragraph-0">
+          <content>
+            <p>The provisions of the Limitation Act, 1963 (36 of 1963) shall, as far as may be, apply to an appeal made to a Securities Appellate Tribunal.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22E">
+        <num>22E.</num>
+        <heading>Civil court not to have jurisdiction.</heading>
+        <paragraph id="section-22E.paragraph-0">
+          <content>
+            <p>No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which a Securities Appellate Tribunal is empowered by or under this Act to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22F">
+        <num>22F.</num>
+        <heading>Appeal to Supreme Court.</heading>
+        <paragraph id="section-22F.paragraph-0">
+          <content>
+            <p>Any person aggrieved by any decision or order of the Securities Appellate Tribunal may file an appeal to the Supreme Court within sixty days from the date of communication of the decision or order of the Securities Appellate Tribunal to him on any question of law arising out of such order:</p>
+            <p>Provided that the Supreme Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding sixty days.</p>
+            <p>PENALTIES AND PROCEDURE</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Penalties.</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-23.1.list1">
+              <listIntroduction>Any person who</listIntroduction>
+              <item id="section-23.1.list1.a">
+                <num>(a)</num>
+                <p>without reasonable excuse (the burden of proving which shall be on him) fails to comply with any requisition made under sub-section (4) of section 6; or</p>
+              </item>
+              <item id="section-23.1.list1.b">
+                <num>(b)</num>
+                <p>enters into any contract in contravention of any of the provisions contained in section 13 or section 16; or</p>
+              </item>
+              <item id="section-23.1.list1.c">
+                <num>(c)</num>
+                <p>contravenes the provisions contained in section 17 or section 17A, or section 19; or</p>
+              </item>
+              <item id="section-23.1.list1.d">
+                <num>(d)</num>
+                <p>enters into any contract in derivative in contravention of section 18A or the rules made under section 30;</p>
+              </item>
+              <item id="section-23.1.list1.e">
+                <num>(e)</num>
+                <p>owns or keeps a place other than that of a recognised stock exchange which is used for the purpose of entering into or performing any contracts in contravention of any of the provisions of this Act and knowingly permits such place to be used for such purposes; or</p>
+              </item>
+              <item id="section-23.1.list1.f">
+                <num>(f)</num>
+                <p>manages, controls, or assists in keeping any place other than that of a recognised stock exchange which is used for the purpose of entering into or performing any contracts in contravention of any of the provisions of this Act or at which contracts are recorded or adjusted or rights or liabilities arising out of contracts are adjusted, regulated or enforced in any manner whatsoever; or</p>
+              </item>
+              <item id="section-23.1.list1.g">
+                <num>(g)</num>
+                <p>not being a member of a recognised stock exchange or his agent authorised as such under the rules or bye-laws of such stock exchange or not being a dealer in securities licensed under section 17 wilfully represents to or induces any person to believe that contracts can be entered into or performed under this Act through him; or</p>
+              </item>
+              <item id="section-23.1.list1.h">
+                <num>(h)</num>
+                <p>not being a member of a recognised stock exchange or his agent authorised as such under the rules or bye-laws of such stock exchange or not being a dealer in securities licensed under section 17, canvasses, advertises or touts in any manner either for himself or on behalf of any other persons for any business connected with contracts in contravention of any of the provisions of this Act; or</p>
+              </item>
+              <item id="section-23.1.list1.i">
+                <num>(i)</num>
+                <p>joins, gathers or assists in gathering at any place other than the place of business specified in the bye-laws of a recognised stock exchange any person or persons for making bids or offers or for entering into or performing any contracts in contravention of any of the provisions of this Act;</p>
+              </item>
+            </blockList>
+            <p>shall, without prejudice to any award of penalty by the Adjudicating Officer under this Act, on conviction, be punishable with imprisonment for a term which may extend to ten years or with fine, which may extend to twenty-five crore rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person who enters into any contract in contravention of the provisions contained in section 15 or who fails to comply with the provisions of section 21 or section 21A or with the orders of or section 22 or with the orders of the Securities Appellate Tribunal shall, without prejudice to any award of penalty by the Adjudicating Officer under this Act, on conviction, be punishable with imprisonment for a term which may extend to ten years or with fine, which may extend to twenty-five crore rupees, or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23A">
+        <num>23A.</num>
+        <heading>Penalty for failure to furnish information, return, etc.</heading>
+        <paragraph id="section-23A.paragraph-0">
+          <content>
+            <blockList id="section-23A.paragraph-0.list1">
+              <listIntroduction>Any person, who is required under this Act or any rules made thereunder,—</listIntroduction>
+              <item id="section-23A.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to furnish any information, document, books, returns or report to a recognised stock exchange, fails to furnish the same within the time specified therefor in the listing agreement or conditions or bye-laws of the recognised stock exchange, shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees for each such failure;</p>
+              </item>
+              <item id="section-23A.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>to maintain books of account or records, as per the listing agreement or conditions, or bye-laws of a recognised stock exchange, fails to maintain the same, shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23B">
+        <num>23B.</num>
+        <heading>Penalty for failure by any person to enter into an agreement with clients.</heading>
+        <paragraph id="section-23B.paragraph-0">
+          <content>
+            <p>If any person, who is required under this Act or any bye-laws of a recognised stock exchange made thereunder, to enter into an agreement with his client, fails to enter into such an agreement, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees for every such failure.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23C">
+        <num>23C.</num>
+        <heading>Penalty for failure to redress investors’ grievances.</heading>
+        <paragraph id="section-23C.paragraph-0">
+          <content>
+            <p>If any stock broker or sub-broker or a company whose securities are listed or proposed to be listed in a recognised stock exchange, after having been called upon by the Securities and Exchange Board of India or a recognised stock exchange in writing, to redress the grievances of the investors, fails to redress such grievances within the time stipulated by the Securities and Exchange Board of India or a recognised stock exchange, he or it shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23D">
+        <num>23D.</num>
+        <heading>Penalty for failure to segregate securities or moneys of client or clients.</heading>
+        <paragraph id="section-23D.paragraph-0">
+          <content>
+            <p>If any person, who is registered under section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992) as a stock broker or sub-broker, fails to segregate securities or moneys of the client or clients or uses the securities or moneys of a client or</p>
+            <p>clients for self or for any other client, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one crore rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23E">
+        <num>23E.</num>
+        <heading>Penalty for failure to comply with provision of listing conditions or delisting conditions or grounds.</heading>
+        <paragraph id="section-23E.paragraph-0">
+          <content>
+            <p>If a company or any person managing collective investment scheme or mutual fund, fails to comply with the listing conditions or delisting conditions or grounds or commits a breach thereof, it or he shall be liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty-five crore rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23F">
+        <num>23F.</num>
+        <heading>Penalty for excess dematerialisation or delivery of unlisted securities.</heading>
+        <paragraph id="section-23F.paragraph-0">
+          <content>
+            <p>If any issuer dematerialises securities more than the issued securities of a company or delivers in the stock exchanges the securities which are not listed in the recognised stock exchange or delivers securities where no trading permission has been given by the recognised stock exchange, he shall be liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty-five crore rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23G">
+        <num>23G.</num>
+        <heading>Penalty for failure to furnish periodical returns, etc.</heading>
+        <paragraph id="section-23G.paragraph-0">
+          <content>
+            <p>If a recognised stock exchange fails or neglects to furnish periodical returns to the Securities and Exchange Board of India or fails or neglects to make or amend its rules or bye-laws as directed by the Securities and Exchange Board of India or fails to comply with directions issued by the Securities and Exchange Board of India, such recognised stock exchange shall be liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty-five crore rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23H">
+        <num>23H.</num>
+        <heading>Penalty for contravention where no separate penalty has been provided.</heading>
+        <paragraph id="section-23H.paragraph-0">
+          <content>
+            <p>Whoever fails to comply with any provision of this Act, the rules or articles or bye- laws or the regulations of the recognised stock exchange or directions issued by the Securities and Exchange Board of India for which no separate penalty has been provided, shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one crore rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23I">
+        <num>23I.</num>
+        <heading>Power to adjudicate.</heading>
+        <subsection id="section-23I.1">
+          <num>(1)</num>
+          <content>
+            <p>For the purpose of adjudging under sections 23A, 23B, 23C, 23D, 23E, 23F, 23G and 23H, the Securities and Exchange Board of India shall appoint any officer not below the rank of a Division Chief of the Securities and Exchange Board of India to be an adjudicating officer for holding an inquiry in the prescribed manner after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any penalty.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23I.2">
+          <num>(2)</num>
+          <content>
+            <p>While holding an inquiry, the adjudicating officer shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any document, which in the opinion of the adjudicating officer, may be useful for or relevant to the subject-matter of the inquiry and if, on such inquiry, he is satisfied that the person has failed to comply with the provisions of any of the sections specified in sub-section (1), he may impose such penalty as he thinks fit in accordance with the provisions of any of those sections.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23I.3">
+          <num>(3)</num>
+          <content>
+            <p>The Board may call for and examine the record of any proceedings under this section and if it considers that the order passed by the adjudicating officer is erroneous to the extent it is not in the interests of the securities market, it may, after making or causing to be made such inquiry as it deems necessary, pass an order enhancing the quantum of penalty, if the circumstances of the case so justify:</p>
+            <p>Provided that no such order shall be passed unless the person concerned has been given an opportunity of being heard in the matter:</p>
+            <p>Provided further that nothing contained in this sub-section shall be applicable after an expiry of a period of three months from the date of the order passed by the adjudicating officer or disposal of the appeal under section 23L, whichever is earlier.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23J">
+        <num>23J.</num>
+        <heading>Factors to be taken into account by adjudicating officer.</heading>
+        <paragraph id="section-23J.paragraph-0">
+          <content>
+            <blockList id="section-23J.paragraph-0.list1">
+              <listIntroduction>While adjudging the quantum of penalty under section 23-I, the adjudicating officer shall have due regard to the following factors, namely:—</listIntroduction>
+              <item id="section-23J.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default;</p>
+              </item>
+              <item id="section-23J.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the amount of loss caused to an investor or group of investors as a result of the default;</p>
+              </item>
+              <item id="section-23J.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>the repetitive nature of the default.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23JA">
+        <num>23JA.</num>
+        <heading>Settlement of administrative and civil proceedings.</heading>
+        <subsection id="section-23JA.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in any other law for the time being in force, any person, against whom any proceedings have been initiated or may be initiated under section 12A or section 23-I, may file an application in writing to the Board proposing for settlement of the proceedings initiated or to be initiated for the alleged defaults.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23JA.2">
+          <num>(2)</num>
+          <content>
+            <p>The Board may, after taking into consideration the nature, gravity and impact of defaults, agree to the proposal for settlement, on payment of such sum by the defaulter or on such other terms as may be determined by the Board in accordance with the regulations made under the Securities and Exchange Board of India Act, 1992.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23JA.3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of settlement under this section, the procedure as specified by the Board under the Securities and Exchange Board of India Act, 1992 shall apply.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23JA.4">
+          <num>(4)</num>
+          <content>
+            <p>No appeal shall lie under section 23L against any order passed by the Board or the adjudicating officer, as the case may be, under this section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23JB">
+        <num>23JB.</num>
+        <heading>Recovery of amounts.</heading>
+        <subsection id="section-23JB.1">
+          <num>(1)</num>
+          <content>
+            <p>If a person fails to pay the penalty imposed by the adjudicating officer or fails to comply with a direction of disgorgement order issued under section 12A or fails to pay any fees due to the Board, the Recovery Officer may draw up under his signature a statement in the specified form specifying the amount due from the person (such statement being hereafter in this Chapter referred to as certificate) and shall</p>
+            <blockList id="section-23JB.1.list2">
+              <listIntroduction>proceed to recover from such person the amount specified in the certificate by one or more of the following modes, namely:—</listIntroduction>
+              <item id="section-23JB.1.list2.a">
+                <num>(a)</num>
+                <p>attachment and sale of the person's movable property;</p>
+              </item>
+              <item id="section-23JB.1.list2.b">
+                <num>(b)</num>
+                <p>attachment of the person's bank accounts;</p>
+              </item>
+              <item id="section-23JB.1.list2.c">
+                <num>(c)</num>
+                <p>attachment and sale of the person's immovable property;</p>
+              </item>
+              <item id="section-23JB.1.list2.d">
+                <num>(d)</num>
+                <p>arrest of the person and his detention in prison;</p>
+              </item>
+              <item id="section-23JB.1.list2.e">
+                <num>(e)</num>
+                <p>appointing a receiver for the management of the person's movable and immovable properties,</p>
+              </item>
+            </blockList>
+            <p>and for this purpose, the provisions of sections 220 to 227, 228A, 229, 232, the Second and Third Schedules to the Income-tax Act, 1961 and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time, in so far as may be, apply with necessary modifications as if the said provisions and the rules thereunder were the provisions of this Act and referred to the amount due under this Act instead of to income-tax under the Income-tax Act, 1961.</p>
+            <p>Explanation 1.—</p>
+            <p>For the purposes of this sub-section, the person's movable or immovable property or monies held in bank accounts shall include any property or monies held in bank accounts which has been transferred, directly or indirectly on or after the date when the amount specified in certificate had become due, by the person to his spouse or minor child or son's wife or son's minor child, otherwise than for adequate consideration, and which is held by, or stands in the name of, any of the persons aforesaid; and so far as the movable or immovable property or monies held in bank accounts so transferred to his minor child or his son's minor child is concerned, it shall, even after the date of attainment of majority by such minor child or son's minor child, as the case may be, continue to be included in the person's movable or immovable property or monies held in bank accounts for recovering any amount due from the person under this Act.</p>
+            <p>Explanation 2. — Any reference under the provisions of the Second and Third Schedules to the Income-tax Act, 1961 and the Income-tax (Certificate Proceedings) Rules, 1962 to the assessee shall be construed as a reference to the person specified in the certificate.</p>
+            <p>Explanation 3.—</p>
+            <p>Any reference to appeal in Chapter XVIID and the Second Schedule to the Income-tax Act, 1961, shall be construed as a reference to appeal before the Securities Appellate Tribunal under section 23L of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23JB.2">
+          <num>(2)</num>
+          <content>
+            <p>The Recovery Officer shall be empowered to seek the assistance of the local district administration while exercising the powers under sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-23JB.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in any other law for the time being in force, the recovery of amounts by a Recovery Officer under sub-section (1), pursuant to non-compliance with any direction issued by the Board under section 12A, shall have precedence over any other claim against such person.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23JB.4">
+          <num>(4)</num>
+          <content>
+            <p>For the purposes of sub-sections (1), (2) and (3), the expression “Recovery Officer” means any officer of the Board who may be authorised, by general or special order in writing to exercise the powers of a Recovery Officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23K">
+        <num>23K.</num>
+        <heading>Crediting sums realised by way of penalties to Consolidated Fund of India.</heading>
+        <paragraph id="section-23K.paragraph-0">
+          <content>
+            <p>All sums realised by way of penalties under this Act shall be credited to the Consolidated Fund of India.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23L">
+        <num>23L.</num>
+        <heading>Appeal to Securities Appellate Tribunal.</heading>
+        <subsection id="section-23L.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person aggrieved, by the order or decision of the recognized stock exchange or the adjudicating officer or any order made by the Securities and</p>
+            <p>Exchange Board of India under or sub-section (3) of section 23-I, may prefer an appeal before the Securities Appellate Tribunal and the provisions of sections 22B, 22C, 22D and 22E of this Act, shall apply, as far as may be, to such appeals.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23L.2">
+          <num>(2)</num>
+          <content>
+            <p>Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order or decision is received by the appellant and it shall be in such form and be accompanied by such fee as may be prescribed:</p>
+            <p>Provided that the Securities Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23L.3">
+          <num>(3)</num>
+          <content>
+            <p>On receipt of an appeal under sub-section (1), the Securities Appellate Tribunal may, after giving the parties to the appeal, an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23L.4">
+          <num>(4)</num>
+          <content>
+            <p>The Securities Appellate Tribunal shall send a copy of every order made by it to the parties to the appeal and to the concerned adjudicating officer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23L.5">
+          <num>(5)</num>
+          <content>
+            <p>The appeal filed before the Securities Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23M">
+        <num>23M.</num>
+        <heading>Offences.</heading>
+        <subsection id="section-23M.1">
+          <num>(1)</num>
+          <content>
+            <p>Without prejudice to any award of penalty by the adjudicating officer under this Act, if any person contravenes or attempts to contravene or abets the contravention of the provisions of this Act or of any rules or regulations or bye-laws</p>
+            <p>made thereunder, for which no punishment is provided elsewhere in this Act, he shall be punishable with imprisonment for a term which may extend to ten years, or with fine, which may extend to twenty-five crore rupees or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23M.2">
+          <num>(2)</num>
+          <content>
+            <p>If any person fails to pay the penalty imposed by the adjudicating officer or fails to comply with any of his directions or orders, he shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to ten years, or with fine, which may extend to twenty-five crore rupees, or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23N">
+        <num>23N.</num>
+        <heading>Composition of certain offences.</heading>
+        <paragraph id="section-23N.paragraph-0">
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under this Act, not being an offence punishable with imprisonment only, or with imprisonment and also with fine, may either before or after the institution of any proceeding, be compounded by a Securities Appellate Tribunal or a court before which such proceedings are pending.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23O">
+        <num>23O.</num>
+        <heading>Power to grant immunity.</heading>
+        <subsection id="section-23O.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, on recommendation by the Securities and Exchange Board of India, if the Central Government is satisfied, that any person, who is alleged to have violated any of the provisions of this Act or the rules or the regulations made thereunder, has made a full and true disclosure in respect of alleged violation, grant to such person, subject to such conditions as it may think fit to impose, immunity from prosecution for any offence under this Act, or the rules or the regulations made thereunder or also from the imposition of any penalty under this Act with respect to the alleged violation:</p>
+            <p>Provided that no such immunity shall be granted by the Central Government in cases where the proceedings for the prosecution for any such offence have been instituted before the date of receipt of application for grant of such immunity:</p>
+            <p>Provided further that the recommendation of the Securities and Exchange Board of India under this sub-section shall not be binding upon the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23O.2">
+          <num>(2)</num>
+          <content>
+            <p>An immunity granted to a person under sub-section (1) may, at any time, be withdrawn by the Central Government, if it is satisfied that such person had, in the course of the proceedings, not complied with the condition on which the immunity was granted or had given false evidence, and thereupon such person may be tried for the offence with respect to which the immunity was granted or for any other offence of which he appears to have been guilty in connection with the contravention and shall also become liable to the imposition of any penalty under this Act to which such person would have been liable, had not such immunity been granted.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Offences by companies.</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an offence has been committed by a company, every person who, at the time when the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence, and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any gross negligence on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer of the company, shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <p>Explanation.—</p>
+            <blockList id="section-24.2.list3">
+              <listIntroduction>For the purpose of this section,—</listIntroduction>
+              <item id="section-24.2.list3.a">
+                <num>(a)</num>
+                <p>“company” means any body corporate and includes a firm or other association of individuals, and</p>
+              </item>
+              <item id="section-24.2.list3.b">
+                <num>(b)</num>
+                <blockList id="section-24.2.list3.b.list0">
+                  <listIntroduction>“director”, in relation to -</listIntroduction>
+                  <item id="section-24.2.list3.b.list0.i">
+                    <num>(i)</num>
+                    <p>a firm, means a partner in the firm;</p>
+                  </item>
+                  <item id="section-24.2.list3.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>any association of persons or a body of individuals, means any member controlling the affairs thereof.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-24.3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions of this section shall be in addition to, and not in derogation of, the provisions of section 22A.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Certain offences to be cognizable.</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (5 of 1898), any offence punishable under section 23 shall be deemed to be a cognizable offence within the meaning of that Code.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Cognizance of offences by courts.</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>No court shall take cognizance of any offence punishable under this Act or any rules or regulations or bye-laws made thereunder, save on a complaint made by the Central Government or State Government or the Securities and Exchange Board of India or a recognised stock exchange or by any person.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>***</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26A">
+        <num>26A.</num>
+        <heading>Establishment of Special Courts.</heading>
+        <subsection id="section-26A.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, for the purpose of providing speedy trial of offences under this Act, by notification, establish or designate as many Special Courts as may be necessary.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26A.2">
+          <num>(2)</num>
+          <content>
+            <p>A Special Court shall consist of a single judge who shall be appointed by the Central Government with the concurrence of the Chief Justice of the High Court within whose jurisdiction the judge to be appointed is working.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26A.3">
+          <num>(3)</num>
+          <content>
+            <p>A person shall not be qualified for appointment as a judge of a Special Court unless he is, immediately before such appointment, holding the office of a Sessions Judge or an Additional Sessions Judge, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26B">
+        <num>26B.</num>
+        <heading>Offences triable by Special Courts.</heading>
+        <paragraph id="section-26B.paragraph-0">
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973, all offences under this Act committed prior to the date of commencement of the Securities Laws (Amendment) Act, 2014 or on or after the date of such commencement, shall be taken cognizance of and tried by the Special Court established for the area in which the offence is committed or where there are more Special Courts than one for such area, by such one of them as may be specified in this behalf by the High Court concerned.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26C">
+        <num>26C.</num>
+        <heading>Appeal and Revision.</heading>
+        <paragraph id="section-26C.paragraph-0">
+          <content>
+            <p>The High Court may exercise, so far as may be applicable, all the powers conferred by Chapters XXIX and XXX of the Code of Criminal Procedure, 1973 on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26D">
+        <num>26D.</num>
+        <heading>Application of Code to proceedings before Special Court.</heading>
+        <subsection id="section-26D.1">
+          <num>(1)</num>
+          <content>
+            <p>Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Session and the person conducting prosecution before a Special Court shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26D.2">
+          <num>(2)</num>
+          <content>
+            <p>The person conducting prosecution referred to in sub-section (1) should have been in practice as an Advocate for not less than seven years or should have held a post, for a period of not less than seven years, under the Union or a State, requiring special knowledge of law.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26E">
+        <num>26E.</num>
+        <heading>Transitional provisions.</heading>
+        <paragraph id="section-26E.paragraph-0">
+          <content>
+            <p>Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be taken cognizance of and tried by a Court of Session exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973:</p>
+            <p>Provided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code to transfer any case or class of cases taken cognizance by a Court of Session under this section.</p>
+            <p>MISCELLANEOUS</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Title to dividends.</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>It shall be lawful for the holder of any security whose name appears on the books of the company issuing the said security to receive and retain any dividend declared by the company in respect thereof for any year, notwithstanding that the said security has already been transferred by him for consideration, unless the transferee who claims the dividend from the transferor has lodged the security and all other documents relating to the transfer which may be required by the company with the company for being registered in his name within fifteen days of the date on which the dividend became due.</p>
+            <p>Explanation.—</p>
+            <blockList id="section-27.1.list3">
+              <listIntroduction>The period specified in this section shall be extended—</listIntroduction>
+              <item id="section-27.1.list3.i">
+                <num>(i)</num>
+                <p>in case of death of the transferee, by the actual period taken by his legal representative to establish his claim to the dividend;</p>
+              </item>
+              <item id="section-27.1.list3.ii">
+                <num>(ii)</num>
+                <p>in case of loss of the transfer deed by theft or any other cause beyond the control of the transferee, by the actual period taken for the replacement thereof; and</p>
+              </item>
+              <item id="section-27.1.list3.iii">
+                <num>(iii)</num>
+                <p>in case of delay in the lodging of any security and other documents relating to the transfer due to causes connected with the post, by the actual period of the delay.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27.2.list1">
+              <listIntroduction>Nothing contained in sub-section (1) shall affect—</listIntroduction>
+              <item id="section-27.2.list1.a">
+                <num>(a)</num>
+                <p>the right of a company to pay any dividend which has become due to any person whose name is for the time being registered in the books of the company as the holder of the security in respect of which the dividend has become due; or</p>
+              </item>
+              <item id="section-27.2.list1.b">
+                <num>(b)</num>
+                <p>the right of the transferee of any security to enforce against the transferor or any other person his rights, if any, in relation to the transfer in any case where the company has refused to register the transfer of the security in the name of the transferee.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27A">
+        <num>27A.</num>
+        <heading>Right to receive income from collective investment scheme.</heading>
+        <subsection id="section-27A.1">
+          <num>(1)</num>
+          <content>
+            <p>It shall be lawful for the holder of any securities, being units or other instruments issued by the collective investment scheme, whose name appears on the books of the collective investment scheme issuing the said security to receive and retain any income in respect of units or other instruments issued by the collective investment scheme declared by the collective investment scheme in respect thereof for any year, notwithstanding that the said security, being units or other instruments issued by the collective investment scheme, has already been transferred by him for consideration, unless the transferee who claims the income in respect of units or other instruments issued by the collective investment scheme from the transfer or has lodged the security and all other documents relating to the transfer which may be required by the collective investment scheme with the collective investment scheme for being registered in his name within fifteen days of the date on which the income in respect of units or other instruments issued by the collective investment scheme became due.</p>
+            <p>Explanation.—</p>
+            <blockList id="section-27A.1.list3">
+              <listIntroduction>The period specified in this section shall be extended—</listIntroduction>
+              <item id="section-27A.1.list3.i">
+                <num>(i)</num>
+                <p>in case of death of the transferee, by the actual period taken by his legal representative to establish his claim to the income in respect of units or other instrument issued by the collective investment scheme;</p>
+              </item>
+              <item id="section-27A.1.list3.ii">
+                <num>(ii)</num>
+                <p>in case of loss of the transfer deed by theft or any other cause beyond the control of the transferee, by the actual period taken for the replacement thereof; and</p>
+              </item>
+              <item id="section-27A.1.list3.iii">
+                <num>(iii)</num>
+                <p>in case of delay in the lodging of any security, being units or other instruments issued by the collective investment scheme, and other documents relating to the transfer due to causes connected with the post, by the actual period of the delay.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-27A.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27A.2.list1">
+              <listIntroduction>Nothing contained in sub-section (1) shall affect—</listIntroduction>
+              <item id="section-27A.2.list1.a">
+                <num>(a)</num>
+                <p>the right of a collective investment scheme to pay any income from units or other instruments issued by the collective investment scheme which has become due to any person whose name is for the time being registered in the books of the collective investment scheme as the holder of the security being units or other instruments issued by the collective investment scheme in respect of which the income in respect of units or other instruments issued by the collective scheme has become due; or</p>
+              </item>
+              <item id="section-27A.2.list1.b">
+                <num>(b)</num>
+                <p>the right of transferee of any security, being units or other instruments issued by the collective investment scheme, to enforce against the transferor or any other person his rights, if any, in relation to the transfer in any case where the company has refused to register the transfer of the security being units or other instruments issued by the collective investment scheme in the name of the transferee.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27B">
+        <num>27B.</num>
+        <heading>Right to receive income from mutual fund.</heading>
+        <subsection id="section-27B.1">
+          <num>(1)</num>
+          <content>
+            <p>It shall be lawful for the holder of any securities, being units or other instruments issued by any mutual fund, whose name appears on the books of the mutual fund issuing the said security to receive and retain any income in respect of units or other instruments issued by the mutual fund declared by the mutual fund in respect thereof for any year, notwithstanding that the said security, being units or other instruments issued by the mutual fund, has already been transferred by him for consideration, unless the transferee who claims the income in respect of units or other instruments issued by the mutual fund from the transferor has lodged the security and all other documents relating to the transfer which may be required by the mutual fund with the mutual fund for being registered in his name within fifteen days of the date on which the income in respect of units or other instruments issued by the mutual fund became due.</p>
+            <p>Explanation.—</p>
+            <blockList id="section-27B.1.list3">
+              <listIntroduction>The period specified in this section shall be extended—</listIntroduction>
+              <item id="section-27B.1.list3.i">
+                <num>(i)</num>
+                <p>in case of death of the transferee, by the actual period taken by his legal representative to establish his claim to the income in respect of units or other instrument issued by the mutual fund;</p>
+              </item>
+              <item id="section-27B.1.list3.ii">
+                <num>(ii)</num>
+                <p>in case of loss of the transfer deed by theft or any other cause beyond the control of transferee, by the actual period taken for the replacement thereof; and</p>
+              </item>
+              <item id="section-27B.1.list3.iii">
+                <num>(iii)</num>
+                <p>in case of delay in the lodging of any security, being units or other instruments issued by the mutual fund, and other documents relating to the transfer due to causes connected with the post, by the actual period of the delay.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-27B.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27B.2.list1">
+              <listIntroduction>Nothing contained in sub-section (1) shall affect—</listIntroduction>
+              <item id="section-27B.2.list1.a">
+                <num>(a)</num>
+                <p>the right of a mutual fund to pay any income from units or other instruments issued by the mutual fund which has become due to any person, whose name is for the time being registered in the books of the mutual fund as the holder of the security being units or other instruments issued by the mutual fund in respect of which the income in respect of units or other instruments issued by the mutual fund has become due; or</p>
+              </item>
+              <item id="section-27B.2.list1.b">
+                <num>(b)</num>
+                <p>the right of transferee of any security, being units or other instruments issued by the mutual fund, to enforce against the transferor or any other person, his rights, if any, in relation to the transfer in any case where the mutual fund has refused to register the transfer of the security being units or other instruments issued by the mutual fund in the name of the transferee.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Act not to apply in certain cases.</heading>
+        <subsection id="section-28.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-28.1.list1">
+              <listIntroduction>The provisions of this Act shall not apply to—</listIntroduction>
+              <item id="section-28.1.list1.a">
+                <num>(a)</num>
+                <p>the Government, the Reserve Bank of India, any local authority or any corporation set up by a special law or any person who has effected any transaction with or through the agency of any such authority as is referred to in this clause;</p>
+              </item>
+              <item id="section-28.1.list1.b">
+                <num>(b)</num>
+                <p>any convertible bond or share warrant or any option or right in relation thereto, in so far as it entitles the person in whose favour any of the foregoing has been issued to obtain at his option from the company or other body corporate, issuing the same or from any of its shareholders or duly appointed agents‟ shares of the company or other body corporate, whether by conversion of the bond or warrant or otherwise, on the basis of the price agreed upon when the same was issued.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-28.2">
+          <num>(2)</num>
+          <content>
+            <p>Without prejudice to the provisions contained in sub-section (1), if the Central Governmentis satisfied that in the interests of trade and commerce or the economic</p>
+            <p>development of the country it is necessary or expedient so to do, it may, by notification in the Official Gazette, specify any class of contracts as contracts to which this Act or any provision contained therein shall not apply, and also the conditions, limitations or restrictions, if any, subject to which it shall not so apply.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Protection of action taken in good faith.</heading>
+        <paragraph id="section-29.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding whatsoever shall lie in any court against the governing body or any member, office bearer or servant of any recognised stock exchange or against any person or persons appointed under subsection (1) of section 11 for anything which is in good faith done or intended to be done in pursuance of this Act or of any rules or bye-laws made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29A">
+        <num>29A.</num>
+        <heading>Power to delegate.</heading>
+        <paragraph id="section-29A.paragraph-0">
+          <content>
+            <p>The Central Government may, by order published in the Official Gazette, direct that the powers (except the power under section 30) exercisable by it under any provision of this Act shall, in relation to such matters and subject to such conditions, if any, as may be specified in the order, be exercisable also by the Securities and Exchange Board of India or the Reserve Bank of India constituted under section 3 of the Reserve Bank of India Act, 1934 (2 of 1934).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Power to make rules.</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules for the purpose of carrying into effect the objects of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-30.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for,—</listIntroduction>
+              <item id="section-30.2.list1.a">
+                <num>(a)</num>
+                <p>the manner in which applications may be made, the particulars which they should contain and the levy of a fee in respect of such applications;</p>
+              </item>
+              <item id="section-30.2.list1.b">
+                <num>(b)</num>
+                <p>the manner in which any inquiry for the purpose of recognising any stock exchange may be made, the conditions which may be imposed for the grant of such recognition, including conditions as to the admission of members if the stock exchange concerned is to be the only recognised stock exchange in the area; and the form in which such recognition shall be granted;</p>
+              </item>
+              <item id="section-30.2.list1.c">
+                <num>(c)</num>
+                <p>the particulars which should be contained in the periodical returns and annual reports to be furnished to the Central Government;</p>
+              </item>
+              <item id="section-30.2.list1.d">
+                <num>(d)</num>
+                <p>the documents which should be maintained and preserved under section 6 and the periods for which they should be preserved;</p>
+              </item>
+              <item id="section-30.2.list1.e">
+                <num>(e)</num>
+                <p>the manner in which any inquiry by the governing body of a stock exchange shall be made under section 6;</p>
+              </item>
+              <item id="section-30.2.list1.f">
+                <num>(f)</num>
+                <p>the manner in which the bye-laws to be made or amended under this Act shall before being so made or amended be published for criticism;</p>
+              </item>
+              <item id="section-30.2.list1.g">
+                <num>(g)</num>
+                <p>the manner in which applications may be made by dealers in securities for licences under section 17, the fee payable in respect thereof and the period of such licences, the conditions subject to which licences may be granted, including conditions relating to the forms which may be used in making contracts, the documents to be maintained by licensed dealers and the furnishing of periodical information to such authority as may be specified and the revocation of licences for breach of conditions;</p>
+              </item>
+              <item id="section-30.2.list1.h">
+                <num>(h)</num>
+                <blockList id="section-30.2.list1.h.list0">
+                  <listIntroduction>the requirements which shall be complied with—</listIntroduction>
+                  <item id="section-30.2.list1.h.list0.A">
+                    <num>(A)</num>
+                    <p>by public companies for the purpose of getting their securities listed on any stock exchange;</p>
+                  </item>
+                  <item id="section-30.2.list1.h.list0.B">
+                    <num>(B)</num>
+                    <p>by collective investment scheme for the purpose of getting their units listed on any stock exchange;</p>
+                  </item>
+                  <item id="section-30.2.list1.h.list0.ha">
+                    <num>(ha)</num>
+                    <blockList id="section-30.2.list1.h.list0.ha.list0">
+                      <listIntroduction>the grounds on which the securities of a company may be delisted from any recognised stock exchange under sub-section (1) of section 21A;</listIntroduction>
+                      <item id="section-30.2.list1.h.list0.ha.list0.hb">
+                        <num>(hb)</num>
+                        <p>the form in which an appeal may be filed before the Securities Appellate Tribunal under sub-section (2) of section 21A and the fees payable in respect of such appeal;</p>
+                      </item>
+                      <item id="section-30.2.list1.h.list0.ha.list0.hc">
+                        <num>(hc)</num>
+                        <p>the form in which an appeal may be filed before the Securities Appellate Tribunal under section 22A and the fees payable in respect of such appeal;</p>
+                      </item>
+                      <item id="section-30.2.list1.h.list0.ha.list0.hd">
+                        <num>(hd)</num>
+                        <p>the manner of inquiry under sub-section (1) of section 23-I;</p>
+                      </item>
+                      <item id="section-30.2.list1.h.list0.ha.list0.he">
+                        <num>(he)</num>
+                        <p>the form in which an appeal may be filed before the Securities Appellate Tribunal under section 23L and the fees payable in respect of such appeal;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item id="section-30.2.list1.h.list0.i">
+                    <num>(i)</num>
+                    <p>any other matter which is to be or may be prescribed.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-30.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30A">
+        <num>30A.</num>
+        <heading>Special Provisions related to commodity derivatives.</heading>
+        <subsection id="section-30A.1">
+          <num>(1)</num>
+          <content>
+            <p>Nothing contained in this Act shall apply to non-transferable specific delivery contracts:</p>
+            <p>Provided that no person shall organise or assist in organising or be a member of any association in any area to which the provisions of section 13 have been made applicable (other than a stock exchange) which provides facilities for the performance of any non-transferable specific delivery contract by any party thereto without having to make or receive actual delivery to or from the other party to the contract or to or from any other party named in the contract.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30A.2">
+          <num>(2)</num>
+          <content>
+            <p>Where in respect of any area, the provisions of section 13 have been made applicable in relation to commodity derivatives for the sale or purchase of any goods or class of goods, the Central Government may, by notification, declare that in the said area or any part thereof as may be specified in the notification all or any of the provisions of this Act shall not apply to transferable specific delivery contracts for the sale or purchase of the said goods or class of goods either generally, or to any class of such contracts in particular.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30A.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), if the Central Government is of the opinion that in the interest of the trade or in the public interest it is expedient</p>
+            <p>to regulate and control non-transferable specific delivery contracts in any area, it may, by notification in the Official Gazette, declare that all or any of the provisions of this Act shall apply to such class or classes of non-transferable specific delivery contracts in such area in respect of such goods or class of goods as may be specified in the notification, and may also specify the manner in which and the extent to which all or any of the said provisions shall so apply.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Power of Securities and Exchange Board of India to make regulations.</heading>
+        <subsection id="section-31.1">
+          <num>(1)</num>
+          <content>
+            <p>Without prejudice to the provisions contained in section 30 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), the Securities and Exchange Board of India may, by notification in the Official Gazette, make regulations consistent with the provisions of this Act and the rules made thereunder to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-31.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-31.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-31.2.list1.a">
+                <num>(a)</num>
+                <p>the manner, in which at least fifty-one per cent of equity share capital of a recognised stock exchange is held within twelve months from the date of publication of the order under sub-section (7) of section 4B by the public other than the shareholders having trading rights under sub-section (8) of that section;</p>
+              </item>
+              <item id="section-31.2.list1.b">
+                <num>(b)</num>
+                <p>the eligibility criteria and other requirements under section 17A.</p>
+              </item>
+              <item id="section-31.2.list1.c">
+                <num>(c)</num>
+                <p>the terms determined by the Board for settlement of proceedings under subsection (2) of section 23JA;</p>
+              </item>
+              <item id="section-31.2.list1.d">
+                <num>(d)</num>
+                <p>any other matter which is required to be, or may be, specified by regulations or in respect of which provision is to be made by regulations.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-31.3">
+          <num>(3)</num>
+          <content>
+            <p>Every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Validation of certain acts.</heading>
+        <paragraph id="section-32.paragraph-0">
+          <content>
+            <p>Any act or thing done or purporting to have been done under the principal Act, in respect of settlement of administrative and civil proceedings, shall, for all purposes, be deemed to be valid and effective as if the amendments made to the principal Act had been in force at all material times.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

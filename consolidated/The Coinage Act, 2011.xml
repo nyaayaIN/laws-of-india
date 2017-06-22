@@ -1,0 +1,736 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2011/11/main"/>
+          <FRBRuri value="/in-union/act/2011/11"/>
+          <FRBRalias value="The Coinage Act, 2011"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2011/11/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2011/11/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2011/11/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2011/11/eng@2017-01-25"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Coinage Act, 2011</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 11 OF 2011</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[1st September, 2011.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to consolidate the laws relating to coinage and the Mints, the protection of coinage and to provide for the prohibition of melting or destruction of coins and prohibit the making or the possession thereof for issue and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Sixty-second Year of the Republic of India as follows:—</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Coinage Act, 2011.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“coin” means any coin which is made of any metal or any other material stamped by the Government or any other authority empowered by the Government in this behalf and which is a legal tender including commemorative coin and Government of India one rupee note.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—</p>
+              <blockList id="section-2.paragraph-0.list4">
+                <listIntroduction>For the removal of doubts, it is hereby clarified that a “coin” does not include the credit card, debit card, postal order and e-money issued by any bank, post office or financial institution;</listIntroduction>
+                <item id="section-2.paragraph-0.list4.b">
+                  <num>(b)</num>
+                  <p>“commemorative coin” means any coin stamped by the Government or any other authority empowered by the Government in this behalf to commemorate any specific occasion or event and expressed in Indian currency;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.c">
+                  <num>(c)</num>
+                  <p>“deface” means any type of clipping, filing, stamping, or such other alteration of the surface or shape of a coin as is readily distinguishable from the effects or reasonable wear;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.d">
+                  <num>(d)</num>
+                  <p>“Government” means the Central Government;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.e">
+                  <num>(e)</num>
+                  <p>“issue” means to put a coin into circulation for use as money;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.f">
+                  <num>(f)</num>
+                  <p>“metal” means any metal, base metal, alloy, gold, silver or any other material which may be prescribed by the Government for the purpose of any coin;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.g">
+                  <num>(g)</num>
+                  <p>“Mint” means the Security Printing and Minting Corporation of India Limited formed and incorporated under the Companies Act, 1956 (1 of 1956) or any other organisation established by or under the authority of the Government to make a coin by stamping metal;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.h">
+                  <num>(h)</num>
+                  <p>“notification” means notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.i">
+                  <num>(i)</num>
+                  <p>“per cent.” means the percentage of metals prescribed for any coin;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.j">
+                  <num>(j)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.k">
+                  <num>(k)</num>
+                  <p>“remedy” means variation from the standard weight and fineness;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.l">
+                  <num>(l)</num>
+                  <p>“standard weight” means the weight prescribed for any coin.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Establishment of mints</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Power to establish and abolish Mints.—</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <blockList id="section-3.paragraph-0.list1">
+                <listIntroduction>The Government may, by notification,—</listIntroduction>
+                <item id="section-3.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>establish a Mint at any place which may be managed by it or by any other person, which may be authorised for this purpose:</p>
+                </item>
+              </blockList>
+              <p>Provided that the Mints established before the commencement of this Act shall be deemed to have been established by the Government under this section:</p>
+              <blockList id="section-3.paragraph-0.list4">
+                <listIntroduction>Provided further that where the Government is of the opinion that it is necessary or expedient in the public interest so to do, it may authorise the minting of coins by any organisation or Government of any foreign country, within or beyond the limits of India and acquire such coins either by way of import or otherwise for issue under its authority;</listIntroduction>
+                <item id="section-3.paragraph-0.list4.b">
+                  <num>(b)</num>
+                  <p>abolish any Mint.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Coinage</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Denominations, dimensions, designs and composition of coins.—</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <p>Coins may be minted at the Mints or at any other place authorised under the proviso to section 3 of such denominations not higher than one thousand rupees and of such dimensions and designs and containing such metals or mixed metals of such composition or any other material as may be prescribed by the Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Standard weight and remedy.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>The standard weight of the coin of any denomination, minted under the provisions of section 4, and the remedy allowed in making of such coins, shall be such as may be prescribed in this behalf by the Government from time to time.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Coin when a legal tender.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-6.1.list1">
+                <listIntroduction>The coins issued under the authority of section 4 shall be a legal tender in payment or on account, in case of—</listIntroduction>
+                <item id="section-6.1.list1.a">
+                  <num>(a)</num>
+                  <p>a coin of any denomination not lower than one rupee, for any sum not exceeding one thousand rupees;</p>
+                </item>
+                <item id="section-6.1.list1.b">
+                  <num>(b)</num>
+                  <p>a half-rupee coin, for any sum not exceeding ten rupees;</p>
+                </item>
+                <item id="section-6.1.list1.c">
+                  <num>(c)</num>
+                  <p>any other coin, for any sum not exceeding one rupee:</p>
+                </item>
+              </blockList>
+              <p>Provided that the coin has not been defaced and has not lost weight so as to be less than such weight as may be prescribed in its case.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-6.2.list1">
+                <listIntroduction>All new coins in the naya paisa series, designated as such under the notification of the Government of India in the Ministry of Finance, Department of Economic Affairs, Number S.R.O. 1120, dated the 11th May, 1956 issued prior to the commencement of the Indian Coinage (Amendment) Act, 1964 (17 of 1964), shall continue to be a legal tender in payment or on account, in case of,—</listIntroduction>
+                <item id="section-6.2.list1.a">
+                  <num>(a)</num>
+                  <p>a half-rupee or fifty naye paise coin, for any sum not exceeding ten rupees;</p>
+                </item>
+                <item id="section-6.2.list1.b">
+                  <num>(b)</num>
+                  <p>any other coin, for any sum not exceeding one rupee.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Decimal system of coinage.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The rupee shall be divided into one hundred units and any such unit may be designated by the Government, by notification, under such name as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>All references in any enactment or in any notification, rule or order under any enactment or in any contract, deed or other instrument to any value expressed in annas, paisa and pies shall be construed as references to that value expressed in units referred to in sub-section (1) converted thereto at the rate of sixteen anna, sixty-four paise or one hundred and ninety-two pies to one hundred units referred to in sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>All references in any enactment or in any notification, rule or order under any enactment or in any contract, deed or other instrument to any value in naya paisa or naye paise shall be construed as references to that value expressed respectively in units referred to in sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Power to call in coin.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in section 6, the Government may, by notification, call in with effect from such date as may be specified in the notification, any coin, of whatever date or denomination and on and from the date so specified, such coin shall cease to be a legal tender, save to such extent as may be specified in the notification.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Diminished, defaced and counterfeit coins</heading>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Power to certain persons to cut, diminished or defaced coins.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-9.1.list1">
+                <listIntroduction>Where any coin which has been minted and issued by or under the authority of the Government is tendered to any person authorised by it to act under this section, and such person has reason to believe that the coin—</listIntroduction>
+                <item id="section-9.1.list1.a">
+                  <num>(a)</num>
+                  <p>has been diminished in weight so as to be more than such per cent. below standard weight as provided in section 5; or</p>
+                </item>
+                <item id="section-9.1.list1.b">
+                  <num>(b)</num>
+                  <p>has been defaced,</p>
+                </item>
+              </blockList>
+              <p>he shall, by himself or through another person, cut or break the coin.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>A person cutting or breaking coin under the provisions of clause (a) of sub-section (1) shall receive and pay for the coin at its face value.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-9.3.list1">
+                <listIntroduction>A person cutting or breaking coin under the provisions of clause (b) of sub-section (1) shall observe the following procedure, namely:—</listIntroduction>
+                <item id="section-9.3.list1.a">
+                  <num>(a)</num>
+                  <p>if such person has reason to believe, that the coin has been fraudulently defaced, he shall return the pieces to the person tendering the coin, who shall bear the loss caused by such cutting or breaking;</p>
+                </item>
+                <item id="section-9.3.list1.b">
+                  <num>(b)</num>
+                  <p>if such person has reason to believe, that the coin has not been fraudulently defaced, he shall receive and pay for the coin at its face value.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Power to certain persons to cut counterfeit coins.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>Where any coin minted or issued by or under the authority of the Government is tendered to any person authorised by the Government under section 9 and such person has reason to believe that the coin is counterfeit, he shall by himself or through another person cut or break the coin, and the tenderer shall bear the loss caused by such cutting or breaking.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power of Mint to delegate its functions.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>The Mint may in writing authorise any other organisation of the Government to melt withdrawn coins or take any help of such organisation for the said purpose.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section “organisation” means any Government industrial unit or public sector undertaking possessing melting facilities.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Offences and penalties</heading>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Prohibition of making or melting or destruction of coins.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-12.1.list1">
+                <listIntroduction>No person shall—</listIntroduction>
+                <item id="section-12.1.list1.i">
+                  <num>(i)</num>
+                  <p>use any metal piece as coin whether stamped or unstamped, intended to be used as money except by the authority of the Government, or</p>
+                </item>
+                <item id="section-12.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>melt or destroy any coin, or</p>
+                </item>
+                <item id="section-12.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>use coin other than as a medium of exchange, or</p>
+                </item>
+                <item id="section-12.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>have in his possession, custody or control,—</p>
+                </item>
+                <item id="section-12.1.list1.a">
+                  <num>(a)</num>
+                  <p>any melted coin, whether in the molten state or in a solid state, or</p>
+                </item>
+                <item id="section-12.1.list1.b">
+                  <num>(b)</num>
+                  <p>any coin in a destroyed or mutilated state, or</p>
+                </item>
+                <item id="section-12.1.list1.c">
+                  <num>(c)</num>
+                  <p>coins substantially in excess of his reasonable requirements for the purpose of selling such coins for value other than their face value or for melting or for destroying or for disposing these coins other than as a medium of exchange.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—</p>
+              <blockList id="section-12.1.list4">
+                <listIntroduction>For the purposes of determining the reasonable requirements of coins of a person, due regard shall be had to—</listIntroduction>
+                <item id="section-12.1.list4.i">
+                  <num>(i)</num>
+                  <p>his total daily requirements of coins;</p>
+                </item>
+                <item id="section-12.1.list4.ii">
+                  <num>(ii)</num>
+                  <p>the nature of his business, occupation or profession;</p>
+                </item>
+                <item id="section-12.1.list4.iii">
+                  <num>(iii)</num>
+                  <p>the mode of his acquisition of coins; and</p>
+                </item>
+                <item id="section-12.1.list4.iv">
+                  <num>(iv)</num>
+                  <p>the manner in which, and the place at which, such coins are being possessed, held or controlled by him.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever is found to be in possession of any metal or material which contains alloys in the same proportions in which they have been used in the manufacture of any coin shall be presumed, until the contrary is proved, to have contravened the provisions of sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-12.3.list1">
+                <listIntroduction>Nothing in this section shall apply—</listIntroduction>
+                <item id="section-12.3.list1.i">
+                  <num>(i)</num>
+                  <p>to any person who is found in possession of any metal or scraps or scissel, etc., of non-recyclable coinage metal, which he may so possess as a result of valid disposal by auctions by a Mint;</p>
+                </item>
+                <item id="section-12.3.list1.ii">
+                  <num>(ii)</num>
+                  <p>to the Mint, Reserve Bank of India and its authorised agents, and suppliers of coins or coin blanks to the extent of orders placed by or under the authority of the Government until their supply or completion of orders placed by the Government;</p>
+                </item>
+                <item id="section-12.3.list1.iii">
+                  <num>(iii)</num>
+                  <p>to any prospective supplier who intends to supply coin or coin blanks as samples against a valid tender documents purchased by him provided that quantity is in reasonable agreement with quantity of samples to be supplied.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Penalty for contravention of section 12.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>Whoever contravenes any provisions of section 12 shall be punishable with imprisonment which may extend to seven years and with fine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Prohibition and penalty for unlawful making, issue or possession of pieces of metal to be used as money.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>No person shall—</listIntroduction>
+                <item id="section-14.1.list1.a">
+                  <num>(a)</num>
+                  <p>make or issue or attempt to issue any metal piece except as provided under section 4 for the purpose of coin;</p>
+                </item>
+                <item id="section-14.1.list1.b">
+                  <num>(b)</num>
+                  <p>possess, custody or control of any metal piece with the intent to issue the piece for use as money for a medium of exchange.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever contravenes the provisions of sub-section (1) shall be punishable with imprisonment which may extend to one year or with fine or with both:</p>
+              <p>Provided that if any person convicted under this section is again convicted, he shall be punishable with imprisonment which may extend to three years or with fine or with both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Prohibition and penalty for bringing metal piece for use as coin.—</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>No person shall bring by sea or by land or by air into India of any piece of metal to be used as coin except with the authority or permission of the Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever contravenes the provisions of sub-section (1) shall be punishable with imprisonment which may extend to seven years and with fine.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Offences by companies.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of its business, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any person liable to any punishment, if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding, anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary or other officer, such director, manager, secretary or other officer of the company shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-16.2.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-16.2.list3.a">
+                  <num>(a)</num>
+                  <p>“company” means any body corporate and includes a firm, society or other association of individuals; and</p>
+                </item>
+                <item id="section-16.2.list3.b">
+                  <num>(b)</num>
+                  <blockList id="section-16.2.list3.b.list0">
+                    <listIntroduction>“director”, in relation to—</listIntroduction>
+                    <item id="section-16.2.list3.b.list0.i">
+                      <num>(i)</num>
+                      <p>a firm, means a partner or proprietor of the firm;</p>
+                    </item>
+                    <item id="section-16.2.list3.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>a society or other association of individuals, means the person who is entrusted, under the rules of the society or other association, with the management of the affairs of the society or other association of the individuals, as the case may be.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Forfeiture.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Any coin or metal in relation to which any offence under this Act has been committed shall be forfeited to the Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Probation of Offenders Act, 1958 not to apply to offences under this Act.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Nothing in the Probation of Offenders Act, 1958 (20 of 1958) shall apply to offences under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Offences to be cognizable, bailable and non-compoundable.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), offences under this Act shall be cognizable and bailable, but shall not be compoundable.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Amendment of Act 2 of 1934.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <blockList id="section-20.paragraph-0.list1">
+                <listIntroduction>In the Reserve Bank of India Act, 1934,—</listIntroduction>
+                <item id="section-20.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>in section 2, in clause (d), for the words and figures the Indian Coinage Act, 1906 (3 of 1906), the words and figures the Coinage Act, 2011shall be substituted;</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>in section 39, for the words and figures "the Indian Coinage Act, 1906 (3 of 1906)", at both the places where they occur, the words and figures "the Coinage Act, 2011" shall be substituted.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Offences may be tried summarily.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in section 260 of the Code of Criminal Procedure, 1973 (2 of 1974), offences under this Act may be tried summarily by a Judicial Magistrate of the first class or a Metropolitan Magistrate.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>No suit or other legal proceedings shall lie against any person in respect of anything which is in good faith done, or intended to be done, under or in pursuance of the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act as may appear it to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no such order shall be made under this section after the expiry of five years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may, by notification, make rules to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-24.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-24.2.list1.a">
+                  <num>(a)</num>
+                  <p>the use of metal for the purpose of making any coin under clause (f) of section 2;</p>
+                </item>
+                <item id="section-24.2.list1.b">
+                  <num>(b)</num>
+                  <p>the per cent. of metals for any coin under clause (i) of section 2;</p>
+                </item>
+                <item id="section-24.2.list1.c">
+                  <num>(c)</num>
+                  <p>the standard weight for any coin under clause (l) of section 2;</p>
+                </item>
+                <item id="section-24.2.list1.d">
+                  <num>(d)</num>
+                  <p>the dimensions, designs, metals, mixed metals or their composition, for coins under section 4;</p>
+                </item>
+                <item id="section-24.2.list1.e">
+                  <num>(e)</num>
+                  <p>the standard weight of coins and the remedy allowed in making such coins under section 5.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Rules to be laid before Parliament.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Saving of making other coins at Mints.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Nothing in this Act shall be deemed to prohibit or restrict the making at any Mint in India of coins intended for issue as money by the foreign Government of any territories beyond the limits of India.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Repeal and savings.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-27.1.list1">
+                <listIntroduction>The following enactments are hereby repealed—</listIntroduction>
+                <item id="section-27.1.list1.a">
+                  <num>(a)</num>
+                  <p>the Metal Tokens Act, 1889 (1 of 1889);</p>
+                </item>
+                <item id="section-27.1.list1.b">
+                  <num>(b)</num>
+                  <p>the Coinage Act, 1906 (3 of 1906);</p>
+                </item>
+                <item id="section-27.1.list1.c">
+                  <num>(c)</num>
+                  <p>the Bronze Coin (Legal Tender) Act, 1918 (22 of 1918);</p>
+                </item>
+                <item id="section-27.1.list1.d">
+                  <num>(d)</num>
+                  <p>the Currency Ordinance, 1940 (Ord. IV of 1940);</p>
+                </item>
+                <item id="section-27.1.list1.e">
+                  <num>(e)</num>
+                  <p>the Small Coins (Offences) Act, 1971 (52 of 1971).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-27.2.list1">
+                <listIntroduction>The repeal by this Act of the enactments and Ordinance specified in sub-section (1) shall not—</listIntroduction>
+                <item id="section-27.2.list1.a">
+                  <num>(a)</num>
+                  <p>affect any other enactment in which the repealed enactment or Ordinance has been applied, incorporated or referred to;</p>
+                </item>
+                <item id="section-27.2.list1.b">
+                  <num>(b)</num>
+                  <p>affect the validity, invalidity, effect or consequences of anything already done or suffered, or any right, title, obligation or liability already acquired, accrued or incurred or any remedy or proceeding in respect thereof, or any release or discharge of or from any debt, penalty, obligation, liability, claim or demand, or any indemnity already granted, or the proof of any past act or thing;</p>
+                </item>
+                <item id="section-27.2.list1.c">
+                  <num>(c)</num>
+                  <p>affect any principle or rule of law, or established jurisdiction, form or course of pleading, practice or procedure, or existing usage, custom, privilege, restriction, exemption, office or appointment, notwithstanding that the same respectively may have been in any manner affirmed or recognised or derived by, in or from any enactment or Ordinance hereby repealed;</p>
+                </item>
+                <item id="section-27.2.list1.d">
+                  <num>(d)</num>
+                  <p>revive or restore any jurisdiction, office, custom, liability, right, title, privilege, restriction, exemption, usage, practice, procedure or other matter or thing not now existing or in force.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>The mention of particular matters in sub-section (1) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act, 1897 (10 of 1897), with regard to the effect of repeals.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Continuance of existing coins.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <blockList id="section-28.paragraph-0.list1">
+                <listIntroduction>Notwithstanding the repeal of the enactments and the Ordinance specified in sub-section (1) of section 27,—</listIntroduction>
+                <item id="section-28.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>all coins issued under the said enactments; and</p>
+                </item>
+                <item id="section-28.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>Government of India one rupee note issued under the Currency Ordinance, 1940 (Ord. IV of 1940),</p>
+                </item>
+              </blockList>
+              <p>which are legal tender immediately before the commencement of the Coinage Act, 2011 shall be deemed to be the coin and continue to be legal tender in payment or on account under the corresponding provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

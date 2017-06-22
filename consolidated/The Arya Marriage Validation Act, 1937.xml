@@ -1,0 +1,77 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1937/19/main"/>
+          <FRBRuri value="/in-union/act/1937/19"/>
+          <FRBRalias value="The Arya Marriage Validation Act, 1937"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1937/19/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1937/19/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1937/19/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1937/19/eng@1980-01-01"/>
+          <FRBRdate date="2016-12-18" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Arya Marriage Validation Act, 1937</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act No. 19 of 1937]</p>
+        <p>[As on 1957]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[14th April, 1937]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to recognise and remove doubts as to the validity of inter-marriages current among Arya Samajists.</p>
+      <p>WHEREAS it is expedient to recognise and place beyond doubt the validity of inter-marriages of a class of Hindus known as Arya Samajists; it is hereby enacted as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Arya Marriage Validation Act, 1937.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except the territories which immediately before the 1st November, 1956, were comprised in part B States and applies also to citizens of India wherever they may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Marriage between Arya Samajists not to be invalid.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>Notwithstanding any law, usage or custom to the contrary no marriage contracted whether before or after the commencement of this Act between two persons being at the time of the marriage Arya Samajists shall be invalid or shall be deemed ever to have been invalid by reason only of the fact that the parties at any time belonged to different castes or different sub-castes of Hindus or that either or both of the parties at any time belonged to a religion other than Hinduism.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

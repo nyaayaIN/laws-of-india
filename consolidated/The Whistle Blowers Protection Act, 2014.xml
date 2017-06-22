@@ -1,0 +1,903 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2014/17/main"/>
+          <FRBRuri value="/in-union/act/2014/17"/>
+          <FRBRalias value="The Whistle Blowers Protection Act, 2014"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2014/17/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2014/17/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2014/17/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2014/17/eng@2017-01-25"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Whistle Blowers Protection Act, 2014</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 17 OF 2014</docNumber>
+      </p>
+    </preface>
+    <body>
+      <section id="section-9th">
+        <num>9th.</num>
+        <heading>May, 2014.</heading>
+        <paragraph id="section-9th.paragraph-0">
+          <content>
+            <p>An Act to establish a mechanism to receive complaints relating to disclosure on any allegation of corruption or wilful misuse of power or wilful misuse of discretion against any public servant and to inquire or cause an inquiry into such disclosure and to provide adequate safeguards against victimisation of the person making such complaint and for matters connected therewith and incidental thereto.</p>
+            <p>BE it enacted by Parliament in the Sixty-fifth Year of the Republic of India as follows:—</p>
+          </content>
+        </paragraph>
+      </section>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Whistle Blowers Protection Act, 2014 .</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different provisions of this Act and any reference in any provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Provisions of this Act not to apply to Special Protection Group.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall not apply to the armed forces of the Union, being the Special Protection Group constituted under the Special Protection Group Act, 1988 (34 of 1988).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <blockList id="section-3.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-3.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“Central Vigilance Commission” means the Commission constituted under sub-section (1) of section 3 of the Central Vigilance Commission Act, 2003 (45 of 2003);</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-3.paragraph-0.list1.b.list0">
+                    <listIntroduction>“Competent Authority” means—</listIntroduction>
+                    <item id="section-3.paragraph-0.list1.b.list0.i">
+                      <num>(i)</num>
+                      <blockList id="section-3.paragraph-0.list1.b.list0.i.list1">
+                        <listIntroduction>in relation to a Member of the Union Council of Ministers, the Prime Minister;</listIntroduction>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.A">
+                          <num>(A)</num>
+                          <p>any Judge (except a Judge of the Supreme Court or of a High Court) including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.B">
+                          <num>(B)</num>
+                          <p>any person authorised by a court of justice to perform any duty, in connection with the administration of justice, including a liquidator, receiver or commissioner appointed by such court; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.C">
+                          <num>(C)</num>
+                          <blockList id="section-3.paragraph-0.list1.b.list0.i.list1.C.list0">
+                            <listIntroduction>any arbitrator or other person to whom any cause or matter has been referred for decision or report by a court of justice or by a competent public authority, the High Court;</listIntroduction>
+                            <item id="section-3.paragraph-0.list1.b.list0.i.list1.C.list0.vi">
+                              <num>(vi)</num>
+                              <p>in relation to—</p>
+                            </item>
+                          </blockList>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.A">
+                          <num>(A)</num>
+                          <p>any person in the service or pay of the Central Government or remunerated by the Central Government by way of fees or commission for the performance of any public duty except Ministers, Members of Parliament and members or persons referred to in clause (a) or clause (b) or clause (c) or clause (d) of article 33 of the Constitution, or in the service or pay of a society or local authority or any corporation established by or under any Central Act, or an authority or a body owned or controlled or aided by the Central Government or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956), owned or controlled by the Central Government; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.B">
+                          <num>(B)</num>
+                          <p>any person who holds an office by virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election in relation to elections to Parliament or a State Legislature; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.C">
+                          <num>(C)</num>
+                          <p>any person who holds an office by virtue of which he is authorised or required to perform any public duty (except Ministers and Members of Parliament); or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.D">
+                          <num>(D)</num>
+                          <p>any person who is the president, secretary or other office-bearer of a registered co-operative society engaged in agriculture, industry, trade or banking, receiving or having received any financial aid from the Central Government or from any corporation established by or under a Central Act, or any authority or body or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956) owned or controlled or aided by the Government; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.E">
+                          <num>(E)</num>
+                          <p>any person who is a chairman, member or employee of any Central Service Commission or Board, by whatever name called, or a member of any selection committee appointed by such Commission or Board for the conduct of any examination or making any selection on behalf of such Commission or Board; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.F">
+                          <num>(F)</num>
+                          <p>any person who is a Vice-Chancellor or member of any governing body, professor, associate professor, assistant professor, reader, lecturer or any other teacher or employee, by whatever designation called, of any University established by a Central Act or established or controlled or funded by the Central Government or any person whose services have been availed of by such University or any such other public authority in connection with holding or conducting examinations; or</p>
+                        </item>
+                        <item id="section-3.paragraph-0.list1.b.list0.i.list1.G">
+                          <num>(G)</num>
+                          <p>any person who is an office-bearer or an employee of an educational, scientific, social, cultural or other institution, in whatever manner established, receiving or having received any financial assistance from the Central Government or any local or other public authority,</p>
+                        </item>
+                      </blockList>
+                    </item>
+                    <item id="section-3.paragraph-0.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>in relation to a Member of Parliament, other than a Minister, the Chairman of the Council of States if such Member is a Member of the Council of States or the Speaker of the House of the People if such Member is a Member of the House of the People, as the case may be;</p>
+                    </item>
+                    <item id="section-3.paragraph-0.list1.b.list0.iii">
+                      <num>(iii)</num>
+                      <p>in relation to a Member of the Council of Ministers in a State or Union territory, the Chief Minister of the State or Union territory, as the case may be;</p>
+                    </item>
+                    <item id="section-3.paragraph-0.list1.b.list0.iv">
+                      <num>(iv)</num>
+                      <p>in relation to a Member of Legislative Council or Legislative Assembly of a State or Union territory, other than a Minister, the Chairman of the Legislative Council if such Member is a Member of the Council or the Speaker of the Legislative Assembly if such Member is a Member of the Assembly, as the case may be;</p>
+                    </item>
+                    <item id="section-3.paragraph-0.list1.b.list0.v">
+                      <num>(v)</num>
+                      <p>in relation to—</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-3.paragraph-0.list3">
+                <listIntroduction>the Central Vigilance Commission or any other authority, as the Central Government may, by notification in the Official Gazette, specify in this behalf under this Act.</listIntroduction>
+                <item id="section-3.paragraph-0.list3.vii">
+                  <num>(vii)</num>
+                  <p>in relation to—</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.A">
+                  <num>(A)</num>
+                  <p>any person in the service or pay of the State Government or remunerated by the State Government by way of fees or commission, for the performance of any public duty except Ministers, Members of Legislative Council or Legislative Assembly of the State, or in the service or pay of a society or local authority or any corporation established by or under a Provincial or State Act, or an authority or a body owned or controlled or aided by the State Government or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956), owned or controlled by the State Government; or</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.B">
+                  <num>(B)</num>
+                  <p>any person who holds an office by virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election in relation to municipality or Panchayats or other local body in the State; or</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.C">
+                  <num>(C)</num>
+                  <p>any person who holds an office by virtue of which he is authorised or required to perform any public duty in relation to the affairs of the State Government (except Ministers and Members of Legislative Council or Legislative Assembly of the State); or</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.D">
+                  <num>(D)</num>
+                  <p>any person who is the president, secretary or other office-bearer of a registered co­operative society engaged in agriculture, industry, trade or banking, receiving or having received any financial aid from the State Government or from any corporation established by or under a Provincial or State Act, or any authority or body or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956) owned or controlled or aided by the State Government; or</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.E">
+                  <num>(E)</num>
+                  <p>any person who is a chairman, member or employee of any State Service Commission or Board, by whatever name called, or a member of any selection committee appointed by such Commission or Board for the conduct of any examination or making any selection on behalf of such Commission or Board; or</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.F">
+                  <num>(F)</num>
+                  <p>any person who is a Vice-Chancellor or member of any governing body, professor, associate professor, assistant professor, reader, lecturer or any other teacher or employee, by whatever designation called, of any University established by a Provincial or State Act or established or controlled or funded by the State Government and any person whose services have been availed of by such University or any such other public authority in connection with holding or conducting examinations; or</p>
+                </item>
+                <item id="section-3.paragraph-0.list3.G">
+                  <num>(G)</num>
+                  <p>any person who is an office-bearer or an employee of an educational, scientific, social, cultural or other institution, in whatever manner established, receiving or having received any financial assistance from the State Government or any local or other public authority,</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.paragraph-0.list5">
+                <listIntroduction>the State Vigilance Commission, if any, or any officer of the State Government or any other authority, as the State Government may, by notification in the Official Gazette, specify in this behalf under this Act;</listIntroduction>
+                <item id="section-3.paragraph-0.list5.viii">
+                  <num>(viii)</num>
+                  <p>in relation to members or persons referred to in clause (a) or clause (b) or clause (c) or clause (d) of article 33 of the Constitution, any authority or authorities as the Central Government or the State Government, as the case may be, having jurisdiction in respect thereof, may, by notification in the Official Gazette, specify in this behalf under this Act;</p>
+                </item>
+                <item id="section-3.paragraph-0.list5.c">
+                  <num>(c)</num>
+                  <p>“complainant” means any person who makes a complaint relating to disclosure under this Act;</p>
+                </item>
+                <item id="section-3.paragraph-0.list5.d">
+                  <num>(d)</num>
+                  <p>“disclosure” means a complaint relating to,—</p>
+                </item>
+                <item id="section-3.paragraph-0.list5.i">
+                  <num>(i)</num>
+                  <p>an attempt to commit or commission of an offence under the Prevention of Corruption Act, 1988(49 of 1988);</p>
+                </item>
+                <item id="section-3.paragraph-0.list5.ii">
+                  <num>(ii)</num>
+                  <p>wilful misuse of power or wilful misuse of discretion by virtue of which demonstrable loss is caused to the Government or demonstrable wrongful gain accrues to the public servant or to any third party;</p>
+                </item>
+                <item id="section-3.paragraph-0.list5.iii">
+                  <num>(iii)</num>
+                  <p>attempt to commit or commission of a criminal offence by a public servant,</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.paragraph-0.list7">
+                <listIntroduction>made in writing or by electronic mail or electronic mail message, against the public servant and includes public interest disclosure referred to in sub-section (2) of section 4;</listIntroduction>
+                <item id="section-3.paragraph-0.list7.e">
+                  <num>(e)</num>
+                  <p>“electronic mail” or “electronic mail message” means a message or information created or transmitted or received on any computer, computer system, computer resource or communication device including attachments in text, image, audio, video and any other electronic record, which may be transmitted with the message;</p>
+                </item>
+                <item id="section-3.paragraph-0.list7.f">
+                  <num>(f)</num>
+                  <p>“Government company” means a company referred to in section 617 of the Companies Act, 1956(1 of 1956);</p>
+                </item>
+                <item id="section-3.paragraph-0.list7.g">
+                  <num>(g)</num>
+                  <p>“notification” means a notification published in the Gazette of India or, as the case may be, the Official Gazette of a State;</p>
+                </item>
+                <item id="section-3.paragraph-0.list7.h">
+                  <num>(h)</num>
+                  <p>“public authority” means any authority, body or institution falling within the jurisdiction of the Competent Authority;</p>
+                </item>
+                <item id="section-3.paragraph-0.list7.i">
+                  <num>(i)</num>
+                  <p>“public servant” shall have the same meaning as assigned to it in clause (c) of section 2 of the Prevention of Corruption Act, 1988 (49 of 1988) but shall not include a Judge of the Supreme Court or a Judge of a High Court;</p>
+                </item>
+                <item id="section-3.paragraph-0.list7.j">
+                  <num>(j)</num>
+                  <p>“prescribed” means prescribed by rules made by the Central Government and the State Government, as the case may be, under this Act;</p>
+                </item>
+                <item id="section-3.paragraph-0.list7.k">
+                  <num>(k)</num>
+                  <p>“regulations” means the regulations made by the Competent Authority under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Public interest disclosure</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Requirement of public interest disclosure.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the provisions of the Official Secrets Act, 1923 (19 of 1923), any public servant or any other person including any non-governmental organisation, may make a public interest disclosure before the Competent Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Any disclosure made under this Act shall be treated as public interest disclosure for the purposes of this Act and shall be made before the Competent Authority and the complaint making the disclosure shall, on behalf of the Competent Authority, be received by such authority as may be specified by regulations made by the Competent Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>Every disclosure shall be made in good faith and the person making disclosure shall make a personal declaration stating that he reasonably believes that the information disclosed by him and allegation contained therein is substantially true.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>Every disclosure shall be made in writing or by electronic mail or electronic mail message in accordance with the procedure as may be prescribed and contain full particular sand be accompanied by supporting documents, or other materials, if any.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>The Competent Authority may, if it deems fit, call for further information or particulars from the person making the disclosure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.6">
+            <num>(6)</num>
+            <content>
+              <p>No action shall be taken on public interest disclosure by the Competent Authority if the disclosure does not indicate the identity of the complainant or public servant making public interest disclosure or the identity of the complainant or public servant is found incorrect or false.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Inquiry in relation to public interest disclosure</heading>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Powers and functions of Competent Authority on receipt of public interest disclosure.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-5.1.list1">
+                <listIntroduction>Subject to the provisions of this Act, the Competent Authority shall, on receipt of a public interest disclosure under section 4,—</listIntroduction>
+                <item id="section-5.1.list1.a">
+                  <num>(a)</num>
+                  <p>ascertain from the complainant or the public servant whether he was the person or the public servant who made the disclosure or not;</p>
+                </item>
+                <item id="section-5.1.list1.b">
+                  <num>(b)</num>
+                  <p>conceal the identity of the complainant unless the complainant himself has revealed his identity to any other office or authority while making public interest disclosure or in his complaint or otherwise.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The Competent Authority shall, upon receipt of the complaint and concealing the identity of the complainant, or the public servant in the first instance, make discreet inquiry, in such manner and within such time as may be prescribed, to ascertain whether there is any basis for proceeding further to investigate the disclosure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>If the Competent Authority, either as a result of the discreet inquiry, or on the basis of the disclosure itself without any inquiry, is of the opinion that the disclosure requires to be investigated, it shall seek comments or explanation or report from the Head of the Department of the organisation or authority, board or corporation concerned or office concerned within such time as may be specified by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>While seeking comments or explanations or report referred to in sub-section (3), the Competent Authority shall not reveal the identity of the complainant or the public servant and direct the Head of the Department of the organisation concerned or office concerned not to reveal the identity of the complainant or public servant:</p>
+              <p>Provided that if the Competent Authority is of the opinion that it has, for the purpose of seeking comments or explanation or report from them under sub-section (3) on the public disclosure, become necessary to reveal the identity of the complainant or public servant to the Head of the Department of the</p>
+              <p>organisation or authority, board or corporation concerned or office concerned, the Competent Authority may, with the prior written consent of the complainant or public servant, reveal the identity of the complainant or public servant to such Head of the Department of the organisation or authority, board or corporation concerned or office concerned for the said purpose:</p>
+              <p>Provided further that in case the complainant or public servant does not agree to his name being revealed to the Head of the Department, in that case, the complainant or public servant, as the case may be, shall provide all documentary evidence in support of his complaint to the Competent Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.5">
+            <num>(5)</num>
+            <content>
+              <p>The Head of the organisation or office concerned shall not directly or indirectly reveal the identity of the complainant or public servant who made the disclosure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.6">
+            <num>(6)</num>
+            <content>
+              <blockList id="section-5.6.list1">
+                <listIntroduction>The Competent Authority, if after conducting an inquiry, is of the opinion that—</listIntroduction>
+                <item id="section-5.6.list1.a">
+                  <num>(a)</num>
+                  <p>the facts and allegations contained in the disclosure are frivolous or vexatious; or</p>
+                </item>
+                <item id="section-5.6.list1.b">
+                  <num>(b)</num>
+                  <p>there are no sufficient grounds for proceeding with the inquiry,</p>
+                </item>
+              </blockList>
+              <p>it shall close the matter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.7">
+            <num>(7)</num>
+            <content>
+              <blockList id="section-5.7.list1">
+                <listIntroduction>After receipt of the comments or explanations or report referred to in sub-section (3), if the Competent Authority is of the opinion that such comments or explanations or report reveals either wilful misuse of power or wilful misuse of discretion or substantiates allegations of corruption, it shall recommend to the public authority to take any one or more of the following measures, namely:—</listIntroduction>
+                <item id="section-5.7.list1.i">
+                  <num>(i)</num>
+                  <p>initiating proceedings against the concerned public servant;</p>
+                </item>
+                <item id="section-5.7.list1.ii">
+                  <num>(ii)</num>
+                  <p>taking appropriate administrative steps for redressing the loss caused to the Government as a result of the corrupt practice or misuse of office or misuse of discretion, as the case may be;</p>
+                </item>
+                <item id="section-5.7.list1.iii">
+                  <num>(iii)</num>
+                  <p>recommend to the appropriate authority or agency for initiation of criminal proceedings under the relevant laws for the time being in force, if so warranted by the facts and circumstances of the case;</p>
+                </item>
+                <item id="section-5.7.list1.iv">
+                  <num>(iv)</num>
+                  <p>recommend for taking of corrective measures;</p>
+                </item>
+                <item id="section-5.7.list1.v">
+                  <num>(v)</num>
+                  <p>take any other measures not falling under clauses (i) to (iv) which may be necessary for the purpose of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.8">
+            <num>(8)</num>
+            <content>
+              <p>The public authority to whom a recommendation is made under sub-section (7) shall take a decision on such recommendation within three months of receipt of such recommendation, or within such extended period not exceeding three months, as the Competent Authority may allow on a request made by the public authority:</p>
+              <p>Provided that in case the public authority does not agree with the recommendation of the Competent Authority, it shall record the reasons for such disagreement.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.9">
+            <num>(9)</num>
+            <content>
+              <p>The Competent Authority shall, after making an inquiry, inform the complainant or public servant about the action taken on the complaint and the final outcome thereof:</p>
+              <p>Provided that in a case where, after making an inquiry, the Competent Authority decides to close the case, it shall, before passing the order for closure of the case, provide an opportunity of being heard to the complainant, if the complainant so desires.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Matters not to be inquired by Competent Authority.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>If any matter specified or an issue raised in a disclosure has been determined by a Court or Tribunal authorised to determine the issue, after consideration of the matters specified or issue raised in the disclosure, the Competent Authority shall not take notice of the disclosure to the extent that the disclosure seeks to reopen such issue.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-6.2.list1">
+                <listIntroduction>The Competent Authority shall not entertain or inquire into any disclosure—</listIntroduction>
+                <item id="section-6.2.list1.a">
+                  <num>(a)</num>
+                  <p>in respect of which a formal and public inquiry has been ordered under the Public Servants (Inquiries) Act, 1850 (37 of 1850); or</p>
+                </item>
+                <item id="section-6.2.list1.b">
+                  <num>(b)</num>
+                  <p>in respect of a matter which has been referred for inquiry under the Commissions of Inquiry Act, 1952 (60 of 1952).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>The Competent Authority shall not investigate, any disclosure involving an allegation, if the complaint is made after the expiry of seven years from the date on which the action complained against is alleged to have taken place.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing in this Act shall be construed as empowering the Competent Authority to question, in any inquiry under this Act, any bona fide action or bona fide discretion (including administrative or statutory discretion) exercised in discharge of duty by the employee.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Powers of competent authority</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Powers of Competent Authority.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the powers conferred upon the Competent Authority under any other law for the time being in force, the Competent Authority, may require, for the purpose of any inquiry any public servant or any other person who in its opinion shall be able to furnish information or produce documents relevant to the inquiry or assist in the inquiry, to furnish any such information or produce any such document as may be necessary for the said purpose.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-7.2.list1">
+                <listIntroduction>For the purpose of any such inquiry (including the preliminary inquiry), the Competent Authority shall have all the powers of a Civil Court while trying a suit under the Code of Civil Procedure, 1908(5 of 1908), in respect of the following matters, namely:—</listIntroduction>
+                <item id="section-7.2.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-7.2.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of any document;</p>
+                </item>
+                <item id="section-7.2.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-7.2.list1.d">
+                  <num>(d)</num>
+                  <p>requisitioning any public record or copy thereof from any court or office;</p>
+                </item>
+                <item id="section-7.2.list1.e">
+                  <num>(e)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-7.2.list1.f">
+                  <num>(f)</num>
+                  <p>such other matters as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The Competent Authority shall be deemed to be a Civil Court for the purpose of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974), and every proceeding before the Competent Authority shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 and for the purposes of section 196 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to the provisions of section 8, no obligation to maintain secrecy or other restriction upon the disclosure of information obtained by or furnished to the Government or any public servant, whether imposed by the Official Secrets Act, 1923 (19 of 1923) or any other law for the time being in force, shall be claimed by any public servant in the proceedings before the Competent Authority or any person or agency authorised by it in writing and the Government or any public servant shall not be entitled in relation to any such inquiry, to any such privilege in respect of the production of document or the giving of evidence as is allowed by any enactment or by any rules made thereunder:</p>
+              <p>Provided that the Competent Authority, while exercising such powers of the Civil Court, shall take steps as necessary to ensure that the identity of the person making complaint has not been revealed or compromised.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Certain matters exempt from disclosure.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-8.1.list1">
+                <listIntroduction>No person shall be required or be authorised by virtue of provisions contained in this Act to furnish any such information or answer any such question or produce any document or information or render any other assistance in the inquiry under this Act if such question or document or information is likely to prejudicially affect the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign State, public order, decency or morality or in relation to contempt of court, defamation or incitement to an offence,—</listIntroduction>
+                <item id="section-8.1.list1.a">
+                  <num>(a)</num>
+                  <p>as might involve the disclosure of proceedings of the Cabinet of the Union Government or any Committee of the Cabinet;</p>
+                </item>
+                <item id="section-8.1.list1.b">
+                  <num>(b)</num>
+                  <p>as might involve the disclosure of proceedings of the Cabinet of the State Government or any Committee of that Cabinet,</p>
+                </item>
+              </blockList>
+              <p>and for the purpose of this sub-section, a certificate issued by the Secretary to the Government of India or the Secretary to the State Government, as the case may be, or, any authority so authorised by the Central</p>
+              <p>or State Government certifying that any information, answer or portion of a document is of the nature specified in clause (a) or clause (b), shall be binding and conclusive.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (1), no person shall be compelled for the purposes of inquiry under this Act to give any evidence or produce any document which he could not be compelled to give or produce in proceedings before a court.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Superintendence of Competent Authority over appropriate machinery.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>Every public authority shall, for the purposes of dealing or inquiry into the disclosures sent to it under sub-section (3) of section 5, create an appropriate machinery for the said purpose.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>The Competent Authority shall exercise superintendence over the working of machinery created under sub-section (1) for the purposes of dealing or inquiry into the disclosures and give such directions for its proper functioning, from time to time, as it may consider necessary.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Competent Authority to take assistance of police authorities, etc., in certain cases.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>For the purpose of making discreet inquiry or obtaining information from the organisation concerned, the Competent Authority shall be authorised to take assistance of the Delhi Special Police Establishment or the police authorities, or any other authority as may be considered necessary, to render all assistance to complete the inquiry within the prescribed time pursuant to the disclosure received by the Competent Authority.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Protection to the persons making disclosure</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Safeguards against victimisation.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall ensure that no person or a public servant who has made a disclosure under this Act is victimised by initiation of any proceedings or otherwise merely on the ground that such person or a public servant had made a disclosure or rendered assistance in inquiry under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>If any person is being victimised or likely to be victimised on the ground that he had filed a complaint or made disclosure or rendered assistance in inquiry under this Act, he may file an application before the Competent Authority seeking redress in the matter, and such authority shall take such action, as deemed fit and may give suitable directions to the concerned public servant or the public authority, as the case may be, to protect such person from being victimised or avoid his victimisation:</p>
+              <p>Provided that the Competent Authority shall, before giving any such direction to the public authority or public servant, give an opportunity of hearing to the complainant and the public authority or public servant, as the case may be:</p>
+              <p>Provided further that in any such hearing, the burden of proof that the alleged action on the part of the public authority is not victimisation, shall lie on the public authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>Every direction given under sub-section (2) by the Competent Authority shall be binding upon the public servant or the public authority against whom the allegation of victimisation has been proved.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, the power to give directions under sub-section (2), in relation to a public servant, shall include the power to direct the restoration of the public servant making the disclosure, to the status quo ante.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>Any person who wilfully does not comply with the direction of the Competent Authority under sub-section (2), shall be liable to a penalty which may extend up to thirty thousand rupees.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Protection of witnesses and other persons.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>If the Competent Authority either on the application of the complainant, or witnesses, or on the basis of information gathered, is of the opinion that either the complainant or public servant or the witnesses or any person rendering assistance for inquiry under this Act need protection, the Competent Authority shall issue appropriate directions to the concerned Government authorities (including police) which shall take necessary steps, through its agencies, to protect such complainant or public servant or persons concerned.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Protection of identity of complainant.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The Competent Authority shall, notwithstanding any law for the time being in force, conceal, as required under this Act, the identity of the complainant and the documents or information furnished by him, for the purposes of enquiry under this Act, unless so decided otherwise by the Competent Authority itself or it became necessary to reveal or produce the same by virtue of the order of the court.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Power to pass interim orders.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>The Competent Authority, at any time after the making of disclosure by the complainant or public servant, if it is of the opinion that any corrupt practice required to be stopped during the continuation of any inquiry for the said purpose may pass such interim orders as it may deem fit, to prevent the immediate stoppage of such practice.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Offences and penalties</heading>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Penalty for furnishing incomplete or incorrect or misleading comments or explanation or report.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <blockList id="section-15.paragraph-0.list1">
+                <listIntroduction>Where the Competent Authority, at the time of examining the report or explanations or report referred to in sub-section (3) of section 5 on the complaint submitted by organisation or official concerned, is of the opinion that the organisation or official concerned, without any reasonable cause, has not furnished the report within the specified time or mala fidely refused to submit the report or knowingly given incomplete, incorrect or misleading or false report or destroyed record or information which was the subject of the disclosure or obstructed in any manner in furnishing the report, it shall impose—</listIntroduction>
+                <item id="section-15.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>where the organisation or official concerned, without any reasonable cause, has not furnished the report within the specified time or mala fidely refused to submit the report, a penalty which may extend to two hundred fifty rupees for each day till report is furnished, so, however, the total amount of such penalty shall not exceed fifty thousand rupees;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>where the organisation or official concerned, has knowingly given incomplete, incorrect or misleading or false report or destroyed record or information which was the subject of the disclosure or obstructed in any manner the furnishing of the report, a penalty which may extend to fifty thousand rupees:</p>
+                </item>
+              </blockList>
+              <p>Provided that no penalty shall be imposed against any person unless he has been given an opportunity of being heard.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Penalty for revealing identity of complainant.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Any person, who negligently or mala fidely reveals the identity of a complainant shall, without prejudice to the other provisions of this Act, be punishable with imprisonment for a term which may extend up to three years and also to fine which may extend up to fifty thousand rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Punishment for false or frivolous disclosure.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Any person who makes any disclosure mala fidely and knowingly that it was incorrect or false or misleading shall be punishable with imprisonment for a term which may extend up to two years and also to fine which may extend up to thirty thousand rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Punishment to Head of Department in certain cases.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by any Department of Government, the Head of the Department shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a Department of Government and it is proved that the offence has been committed with the consent or connivance of, or is attributable, such officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Offences by companies.—</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he has exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-19.2.list3">
+                <listIntroduction>for the purposes of this section,—</listIntroduction>
+                <item id="section-19.2.list3.a">
+                  <num>(a)</num>
+                  <p>“Company” means anybody corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-19.2.list3.b">
+                  <num>(b)</num>
+                  <p>“director”, in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Appeal to High Court.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Any person aggrieved by any order of the Competent Authority relating to imposition of penalty under section 14 or section 15 or section 16 may prefer an appeal to the High Court within a period of sixty days from the date of the order appealed against:</p>
+              <p>Provided that the High Court may entertain the appeal after the expiry of the said period of sixty days, if it is satisfied that the appellant was prevented by sufficient cause from preferring the appeal in time.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section, the “High Court” means the High Court within whose jurisdiction the cause of action arose.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Bar of jurisdiction.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>No Civil Court shall have jurisdiction in respect of any matter which the Competent Authority is empowered by or under this Act to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Court to take cognizance.—</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>No court shall take cognizance of any offence punishable under this Act or the rules or regulations made thereunder, save on a complaint made by the Competent Authority or any officer or person authorised by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>No court inferior to that of a Chief Metropolitan Magistrate or a Chief Judicial Magistrate shall try any offence punishable under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Report on disclosures.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>The Competent Authority shall prepare a consolidated annual report of the performance of its activities in such form as may be prescribed and forward it to the Central Government or State Government, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of the annual report under sub-section (1), the Central Government or State Government, as the case may be, shall cause a copy thereof to be laid before each House of Parliament, or the State Legislature, as the case may be:</p>
+              <p>Provided that where any other law for the time being in force provides preparing of such annual report by the Competent Authority, then the said annual report shall contain a separate part on the performance of activities under this Act by the Competent Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against the Competent Authority or against any officer, employees, agency or person acting on its behalf, in respect of anything which is in good faith done or intended to be done under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power of Central Government to make rules.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules for the purpose of carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-25.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-25.2.list1.a">
+                  <num>(a)</num>
+                  <p>the procedure for disclosure by writing or appropriate electronic means under sub-section (4) of section 4;</p>
+                </item>
+                <item id="section-25.2.list1.b">
+                  <num>(b)</num>
+                  <p>the manner in which and the time within which the discreet inquiry shall be made by the Competent Authority under sub-section (2) of section 5;</p>
+                </item>
+                <item id="section-25.2.list1.c">
+                  <num>(c)</num>
+                  <p>the additional matter in respect of which the Competent Authority may exercise the powers of a Civil Court under clause (f) of sub-section (2) of section 7;</p>
+                </item>
+                <item id="section-25.2.list1.d">
+                  <num>(d)</num>
+                  <p>the form of annual report under sub-section (1) of section 23;</p>
+                </item>
+                <item id="section-25.2.list1.e">
+                  <num>(e)</num>
+                  <p>any other matter which is required to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power of State Government to make rules.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>The State Government may, by notification in the Official Gazette, make rules for the purpose of carrying out the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Power to make regulations.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>The Competent Authority may, with the previous approval of the Central Government or the State Government, as the case may be, by notification in the Official Gazette, make regulations not inconsistent with the provisions of the Act and the rules made thereunder to provide for all matters for which provision is expedient for the purposes of giving effect to the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Notification and rules to be laid before Parliament.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>Every notification issued and every rule made by the Central Government and every regulation made by the Competent Authority under this Act shall be laid, as soon as may be after it is issued or made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or the rule or the regulation, or both Houses agree that the notification or the rule or the regulation should not be made, the notification or the rule or the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Notification issued and rules made by State Government to be laid before State Legislature.—</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>Every notification issued by a State Government and every rule made by a State Government and every regulation made by the Competent Authority under this Act shall be laid, as soon as may be after it is issued, before the State Legislature.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of the Act, the Central Government may, by order, not inconsistent with the provisions of this Act, remove the difficulty:</p>
+              <p>Provided that no such order shall be made after the expiry of a period of three years from the date of the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Repeal and savings.—</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government of India, Ministry of Personnel, Public Grievances and Pensions (Department of Personnel and Training) Resolution No. 371/12/2002-AVD-III dated the 21st April, 2004 as amended vide Resolution of even number, dated the 29th April, 2004 is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Resolution be deemed to have been done or taken under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

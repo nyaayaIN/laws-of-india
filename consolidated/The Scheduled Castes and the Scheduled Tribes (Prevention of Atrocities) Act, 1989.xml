@@ -1,0 +1,1359 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1989/33/main"/>
+          <FRBRuri value="/in-union/act/1989/33"/>
+          <FRBRalias value="The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1989/33/eng@1989-09-11/main"/>
+          <FRBRuri value="/in-union/act/1989/33/eng@1989-09-11"/>
+          <FRBRdate date="1989-09-11" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1989/33/eng@1989-09-11/main"/>
+          <FRBRuri value="/in-union/act/1989/33/eng@1989-09-11"/>
+          <FRBRdate date="2016-10-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Scheduled Castes And The Scheduled Tribes (Prevention Of Atrocities) Act, 1989</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[11th September, 1989]</docDate>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 33 OF 1989</docNumber>
+      </p>
+      <longTitle>
+        <p>An Act to prevent the commission of offences of atrocities against the members of the Scheduled Castes and the Scheduled Tribes, to provide for Special Courts and the Exclusive Special Courts for the trial of such offences and for the relief and rehabilitation of the victims of such offences and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Fortieth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu &amp; Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>"atrocity" means an offence punishable under section 3;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>"Code" means the Code of Criminal Procedure, 1973 (2 of 1974);</p>
+                </item>
+              </blockList>
+              <p>( bb) "dependent" means the spouse, children, parents, brother and sister of the victim, who are dependent wholly or mainly on such victim for his support and maintenance;</p>
+              <blockList id="section-2.1.list4">
+                <listIntroduction>( bc) "economic boycott" means–</listIntroduction>
+                <item id="section-2.1.list4.i">
+                  <num>(i)</num>
+                  <p>a refusal to deal with, work for hire or do business with other person; or</p>
+                </item>
+                <item id="section-2.1.list4.ii">
+                  <num>(ii)</num>
+                  <p>to deny opportunities including access to services or contractual opportunities for rendering service for consideration; or</p>
+                </item>
+                <item id="section-2.1.list4.iii">
+                  <num>(iii)</num>
+                  <p>to refuse to do anything on the terms on which things would be commonly done in the ordinary course of business; or</p>
+                </item>
+                <item id="section-2.1.list4.iv">
+                  <num>(iv)</num>
+                  <p>to abstain from the professional or business relations that one would maintain with other person;</p>
+                </item>
+              </blockList>
+              <p>( bd) "Exclusive Special Court" means the Exclusive Special Court established under sub-section (1) of section 14 exclusively to try the offences under this Act;</p>
+              <p>( be) "forest rights" shall have the meaning assigned to it in sub-section (1) of section 3 of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (2 of 2007);</p>
+              <p>( bf) "manual scavenger" shall have the meaning assigned to it in clause (g) of sub-section (1) of section 2 of the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 (25 of 2013);</p>
+              <blockList id="section-2.1.list9">
+                <listIntroduction>( bg) "public servant" means a public servant as defined under section 21 of the Indian Penal Code (45 of 1860), as well as any other person deemed to be a public servant under any other law for the time being in force and includes any person acting in his official capacity under the Central Government or the State Government, as the case may be;</listIntroduction>
+                <item id="section-2.1.list9.c">
+                  <num>(c)</num>
+                  <p>"Scheduled Castes and Scheduled Tribes" shall have the meanings assigned to them respectively under clause (24) and clause (25) of article 366 of the Constitution;</p>
+                </item>
+                <item id="section-2.1.list9.d">
+                  <num>(d)</num>
+                  <p>"Special Court" means a Court of Session specified as a Special Court in section 14;</p>
+                </item>
+                <item id="section-2.1.list9.e">
+                  <num>(e)</num>
+                  <p>"Special Public Prosecutor" means a Public Prosecutor specified as a Special Public Prosecutor or an advocate referred to in section 15;</p>
+                </item>
+                <item id="section-2.1.list9.ea">
+                  <num>(ea)</num>
+                  <blockList id="section-2.1.list9.ea.list0">
+                    <listIntroduction>"Schedule" means the Schedule appended to this Act;</listIntroduction>
+                    <item id="section-2.1.list9.ea.list0.eb">
+                      <num>(eb)</num>
+                      <p>"social boycott" means a refusal to permit a person to render to other person or receive from him any customary service or to abstain from social relations that one would maintain with other person or to isolate him from others;</p>
+                    </item>
+                    <item id="section-2.1.list9.ea.list0.ec">
+                      <num>(ec)</num>
+                      <p>"victim" means any individual who falls within the definition of the "Scheduled Castes and Scheduled Tribes" under clause (c) of sub-section (1) of section 2, and who has suffered or experienced physical, mental, psychological, emotional or monetary harm or harm to his property as a result of the commission of any offence under this Act and includes his relatives, legal guardian and legal heirs;</p>
+                    </item>
+                    <item id="section-2.1.list9.ea.list0.ed">
+                      <num>(ed)</num>
+                      <p>"witness" means any person who is acquainted with the facts and circumstances, or is in possession of any information or has knowledge necessary for the purpose of investigation, inquiry or trial of any crime involving an offence under this Act, and who is or may be required to give information or make a statement or produce any document during investigation, inquiry or trial of such case and includes a victim of such offence;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.1.list9.f">
+                  <num>(f)</num>
+                  <p>the words and expressions used but not defined in this Act and defined in the Indian Penal Code (45 of 1860), the Indian Evidence Act, 1872 (1 of 1872) or the Code of Criminal Procedure, 1973 (2 of 1974), as the case may be, shall be deemed to have the meanings respectively assigned to them in those enactments.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Any reference in this Act to any enactment or any provision thereof shall, in relation to an area in which such enactment or such provision is not in force, be construed as a reference to the corresponding law, if any, in force in that area.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Offences of Atrocities</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Punishments for offences of atrocities.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-3.1.list1">
+                <listIntroduction>Whoever, not being a member of a Scheduled Caste or a Scheduled Tribe,—</listIntroduction>
+                <item id="section-3.1.list1.a">
+                  <num>(a)</num>
+                  <p>puts any inedible or obnoxious substance into the mouth of a member of a Scheduled Caste or a Scheduled Tribe or forces such member to drink or eat such inedible or obnoxious substance;</p>
+                </item>
+                <item id="section-3.1.list1.b">
+                  <num>(b)</num>
+                  <p>dumps excreta, sewage, carcasses or any other obnoxious substance in premises, or at the entrance of the premises, occupied by a member of a Scheduled Caste or a Scheduled Tribe;</p>
+                </item>
+                <item id="section-3.1.list1.c">
+                  <num>(c)</num>
+                  <p>with intent to cause injury, insult or annoyance to any member of a Scheduled Caste or a Scheduled Tribe, dumps excreta, waste matter, carcasses or any other obnoxious substance in his neighbourhood;</p>
+                </item>
+                <item id="section-3.1.list1.d">
+                  <num>(d)</num>
+                  <p>garlands with footwear or parades naked or semi-naked a member of a Scheduled Caste or a Scheduled Tribe</p>
+                </item>
+                <item id="section-3.1.list1.e">
+                  <num>(e)</num>
+                  <p>forcibly commits on a member of a Scheduled Caste or a Scheduled Tribe any act, such as removing clothes from the person, forcible tonsuring of head, removing moustaches, painting face or body or any other similar act, which is derogatory to human dignity;</p>
+                </item>
+                <item id="section-3.1.list1.f">
+                  <num>(f)</num>
+                  <p>wrongfully occupies or cultivates any land, owned by, or in the possession of or allotted to, or notified by any competent authority to be allotted to, a member of a Scheduled Caste or a Scheduled Tribe, or gets such land transferred;</p>
+                </item>
+                <item id="section-3.1.list1.g">
+                  <num>(g)</num>
+                  <p>wrongfully dispossesses a member of a Scheduled Caste or a Scheduled Tribe from his land or premises or interferes with the enjoyment of his rights, including forest rights, over any land or premises or water or irrigation facilities or destroys the crops or takes away the produce therefrom.</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.1.list3">
+                <listIntroduction>Explanation.––For the purposes of clause (f) and this clause, the expression "wrongfully" includes—</listIntroduction>
+                <item id="section-3.1.list3.A">
+                  <num>(A)</num>
+                  <p>against the person‘s will;</p>
+                </item>
+                <item id="section-3.1.list3.B">
+                  <num>(B)</num>
+                  <p>without the person‘s consent;</p>
+                </item>
+                <item id="section-3.1.list3.C">
+                  <num>(C)</num>
+                  <p>with the person‘s consent, where such consent has been obtained by putting the person, or any other person in whom the person is interested in fear of death or of hurt; or</p>
+                </item>
+                <item id="section-3.1.list3.D">
+                  <num>(D)</num>
+                  <p>fabricating records of such land;</p>
+                </item>
+                <item id="section-3.1.list3.h">
+                  <num>(h)</num>
+                  <p>makes a member of a Scheduled Caste or a Scheduled Tribe to do "begar" or other forms of forced or bonded labour other than any compulsory service for public purposes imposed by the Government;</p>
+                </item>
+                <item id="section-3.1.list3.i">
+                  <num>(i)</num>
+                  <p>compels a member of a Scheduled Caste or a Scheduled Tribe to dispose or carry human or animal carcasses, or to dig graves;</p>
+                </item>
+                <item id="section-3.1.list3.j">
+                  <num>(j)</num>
+                  <p>makes a member of a Scheduled Caste or a Scheduled Tribe to do manual scavenging or employs or permits the employment of such member for such purpose;</p>
+                </item>
+                <item id="section-3.1.list3.k">
+                  <num>(k)</num>
+                  <p>performs, or promotes dedicating a Scheduled Caste or a Scheduled Tribe woman to a deity, idol, object of worship, temple, or other religious institution as a devadasi or any other similar practice or permits aforementioned acts;</p>
+                </item>
+                <item id="section-3.1.list3.l">
+                  <num>(l)</num>
+                  <p>forces or intimidates or prevents a member of a Scheduled Caste or a Scheduled Tribe—</p>
+                </item>
+                <item id="section-3.1.list3.A">
+                  <num>(A)</num>
+                  <p>not to vote or to vote for a particular candidate or to vote in a manner other than that provided by law;</p>
+                </item>
+                <item id="section-3.1.list3.B">
+                  <num>(B)</num>
+                  <p>not to file a nomination as a candidate or to withdraw such nomination; or</p>
+                </item>
+                <item id="section-3.1.list3.C">
+                  <num>(C)</num>
+                  <p>not to propose or second the nomination of a member of a Scheduled Caste or a Scheduled Tribe as a candidate in any election;</p>
+                </item>
+                <item id="section-3.1.list3.m">
+                  <num>(m)</num>
+                  <p>forces or intimidates or obstructs a member of a Scheduled Caste or a Scheduled Tribe, who is a member or a Chairperson or a holder of any other office of a Panchayat under Part IX of the Constitution or a Municipality under Part IXA of the Constitution, from performing their normal duties and functions;</p>
+                </item>
+                <item id="section-3.1.list3.n">
+                  <num>(n)</num>
+                  <p>after the poll, causes hurt or grievous hurt or assault or imposes or threatens to impose social or economic boycott upon a member of a Scheduled Caste or a Scheduled Tribe or prevents from availing benefits of any public service which is due to him;</p>
+                </item>
+                <item id="section-3.1.list3.o">
+                  <num>(o)</num>
+                  <p>commits any offence under this Act against a member of a Scheduled Caste or a Scheduled Tribe for having voted or not having voted for a particular candidate or for having voted in a manner provided by law;</p>
+                </item>
+                <item id="section-3.1.list3.p">
+                  <num>(p)</num>
+                  <p>institutes false, malicious or vexatious suit or criminal or other legal proceedings against a member of a Scheduled Caste or a Scheduled Tribe;</p>
+                </item>
+                <item id="section-3.1.list3.q">
+                  <num>(q)</num>
+                  <p>gives any false or frivolous information to any public servant and thereby causes such public servant to use his lawful power to the injury or annoyance of a member of a Scheduled Caste or a Scheduled Tribe;</p>
+                </item>
+                <item id="section-3.1.list3.r">
+                  <num>(r)</num>
+                  <p>intentionally insults or intimidates with intent to humiliate a member of a Scheduled Caste or a Scheduled Tribe in any place within public view;</p>
+                </item>
+                <item id="section-3.1.list3.s">
+                  <num>(s)</num>
+                  <p>abuses any member of a Scheduled Caste or a Scheduled Tribe by caste name in any place within public view;</p>
+                </item>
+                <item id="section-3.1.list3.t">
+                  <num>(t)</num>
+                  <p>destroys, damages or defiles any object generally known to be held sacred or in high esteem by members of the Scheduled Castes or the Scheduled Tribes.</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.1.list5">
+                <listIntroduction>Explanation.––For the purposes of this clause, the expression "object" means and includes statue, photograph and portrait;</listIntroduction>
+                <item id="section-3.1.list5.u">
+                  <num>(u)</num>
+                  <p>by words either written or spoken or by signs or by visible representation or otherwise promotes or attempts to promote feelings of enmity, hatred or ill-will against members of the Scheduled Castes or the Scheduled Tribes;</p>
+                </item>
+                <item id="section-3.1.list5.v">
+                  <num>(v)</num>
+                  <p>by words either written or spoken or by any other means disrespects any late person held in high esteem by members of the Scheduled Castes or the Scheduled Tribes;</p>
+                </item>
+                <item id="section-3.1.list5.w">
+                  <num>(w)</num>
+                  <blockList id="section-3.1.list5.w.list0">
+                    <listIntroduction>- (i) intentionally touches a woman belonging to a Scheduled Caste or a Scheduled Tribe, knowing that she belongs to a Scheduled Caste or a Scheduled Tribe, when such act of touching is of a sexual nature and is without the recipient‘s consent;</listIntroduction>
+                    <item id="section-3.1.list5.w.list0.ii">
+                      <num>(ii)</num>
+                      <p>uses words, acts or gestures of a sexual nature towards a woman belonging to a Scheduled Caste or a Scheduled Tribe, knowing that she belongs to a Scheduled Caste or a Scheduled Tribe.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <p>Explanation.––For the purposes of sub-clause (i), the expression "consent" means an unequivocal voluntary agreement when the person by words, gestures, or any form of non-verbal communication, communicates willingness to participate in the specific act:</p>
+              <p>Provided that a woman belonging to a Scheduled Caste or a Scheduled Tribe who does not offer physical resistance to any act of a sexual nature is not by reason only of that fact, is to be regarded as consenting to the sexual activity:</p>
+              <blockList id="section-3.1.list9">
+                <listIntroduction>Provided further that a woman‘s sexual history, including with the offender shall not imply consent or mitigate the offence;</listIntroduction>
+                <item id="section-3.1.list9.x">
+                  <num>(x)</num>
+                  <p>corrupts or fouls the water of any spring, reservoir or any other source ordinarily used by members of the Scheduled Castes or the Scheduled Tribes so as to render it less fit for the purpose for which it is ordinarily used;</p>
+                </item>
+                <item id="section-3.1.list9.y">
+                  <num>(y)</num>
+                  <p>denies a member of a Scheduled Caste or a Scheduled Tribe any customary right of passage to a place of public resort or obstructs such member so as to prevent him from using or having access to a place of public resort to which other members of public or any other section thereof have a right to use or access to;</p>
+                </item>
+                <item id="section-3.1.list9.z">
+                  <num>(z)</num>
+                  <p>forces or causes a member of a Scheduled Caste or a Scheduled Tribe to leave his house, village or other place of residence:</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.1.list11">
+                <listIntroduction>Provided that nothing contained in this clause shall apply to any action taken in discharge of a public duty;</listIntroduction>
+                <item id="section-3.1.list11.za">
+                  <num>(za)</num>
+                  <blockList id="section-3.1.list11.za.list0">
+                    <listIntroduction>obstructs or prevents a member of a Scheduled Caste or a Scheduled Tribe in any manner with regard to—</listIntroduction>
+                    <item id="section-3.1.list11.za.list0.A">
+                      <num>(A)</num>
+                      <p>using common property resources of an area, or burial or cremation ground equally with others or using any river, stream, spring, well, tank, cistern, water-tap or other watering place, or any bathing ghat, any public conveyance, any road, or passage;</p>
+                    </item>
+                    <item id="section-3.1.list11.za.list0.B">
+                      <num>(B)</num>
+                      <p>mounting or riding bicycles or motor cycles or wearing footwear or new clothes in public places or taking out wedding procession, or mounting a horse or any other vehicle during wedding processions;</p>
+                    </item>
+                    <item id="section-3.1.list11.za.list0.C">
+                      <num>(C)</num>
+                      <p>entering any place of worship which is open to the public or other persons professing the same religion or taking part in, or taking out, any religious, social or cultural processions including jatras;</p>
+                    </item>
+                    <item id="section-3.1.list11.za.list0.D">
+                      <num>(D)</num>
+                      <p>entering any educational institution, hospital, dispensary, primary health centre, shop or place of public entertainment or any other public place; or using any utensils or articles meant for public use in any place open to the public; or</p>
+                    </item>
+                    <item id="section-3.1.list11.za.list0.E">
+                      <num>(E)</num>
+                      <p>practicing any profession or the carrying on of any occupation, trade or business or employment in any job which other members of the public, or any section thereof, have a right to use or have access to;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-3.1.list11.zb">
+                  <num>(zb)</num>
+                  <p>causes physical harm or mental agony of a member of a Scheduled Caste or a Scheduled Tribe on the allegation of practicing witchcraft or being a witch; or</p>
+                </item>
+                <item id="section-3.1.list11.zc">
+                  <num>(zc)</num>
+                  <p>imposes or threatens a social or economic boycott of any person or a family or a group belonging to a Scheduled Caste or a Scheduled Tribe,</p>
+                </item>
+              </blockList>
+              <p>shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-3.2.list1">
+                <listIntroduction>Whoever, not being a member of a Scheduled Caste or a Scheduled Tribe,—</listIntroduction>
+                <item id="section-3.2.list1.i">
+                  <num>(i)</num>
+                  <p>gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any member of a Scheduled Caste or a Scheduled Tribe to be convicted of an offence which is capital by the law for the time being in force shall be punished with imprisonment for life and with fine; and if an innocent member of a Scheduled Caste or a Scheduled Tribe be convicted and executed in consequence of such false or fabricated evidence, the person who gives or fabricates such false evidence, shall be punished with death;</p>
+                </item>
+                <item id="section-3.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any member of a Scheduled Caste or a Scheduled Tribe to be convicted of an offence which is not capital but punishable with imprisonment for a term of seven years or upwards, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to seven years or upwards and with fine;</p>
+                </item>
+                <item id="section-3.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>commits mischief by fire or any explosive substance intending to cause or knowing it to be likely that he will thereby cause damage to any property belonging to a member of a Scheduled Caste or a Scheduled Tribe, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to seven years and with fine;</p>
+                </item>
+                <item id="section-3.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>commits mischief by fire or any explosive substance intending to cause or knowing it to be likely that he will thereby cause destruction of any building which is ordinarily used as a place of worship or as a place for human dwelling or as a place for custody of the property by a member of a Scheduled Caste or a Scheduled Tribe, shall be punishable with imprisonment for life and with fine;</p>
+                </item>
+                <item id="section-3.2.list1.v">
+                  <num>(v)</num>
+                  <p>commits any offence under the Indian Penal Code (45 of 1860) punishable with imprisonment for a term of ten years or more against a person or property knowing that such person is a member of a Scheduled Caste or a Scheduled Tribe or such property belongs to such member, shall be punishable with imprisonment for life and with fine;</p>
+                </item>
+                <item id="section-3.2.list1.va">
+                  <num>(va)</num>
+                  <blockList id="section-3.2.list1.va.list0">
+                    <listIntroduction>commits any offence specified in the Schedule, against a person or property, knowing that such person is a member of a Scheduled Caste or a Scheduled Tribe or such property belongs to such member, shall be punishable with such punishment as specified under the Indian Penal Code (45 of 1860) for such offences and shall also be liable to fine;</listIntroduction>
+                    <item id="section-3.2.list1.va.list0.vi">
+                      <num>(vi)</num>
+                      <p>knowingly or having reason to believe that an offence has been committed under this Chapter, causes any evidence of the commission of that offence to disappear with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false, shall be punishable with the punishment provided for that offence; or</p>
+                    </item>
+                    <item id="section-3.2.list1.va.list0.vii">
+                      <num>(vii)</num>
+                      <p>being a public servant, commits any offence under this section, shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to the punishment provided for that offence.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Punishment for neglect of duties.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Whoever, being a public servant but not being a member of a Scheduled Caste or a Scheduled Tribe, wilfully neglects his duties required to be performed by him under this Act and the rules made thereunder, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to one year.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-4.2.list1">
+                <listIntroduction>The duties of public servant referred to in sub-section (1) shall include––</listIntroduction>
+                <item id="section-4.2.list1.a">
+                  <num>(a)</num>
+                  <p>to read out to an informant the information given orally, and reduced to writing by the officer in charge of the police station, before taking the signature of the informant;</p>
+                </item>
+                <item id="section-4.2.list1.b">
+                  <num>(b)</num>
+                  <p>to register a complaint or a First Information Report under this Act and other relevant provisions and to register it under appropriate sections of this Act;</p>
+                </item>
+                <item id="section-4.2.list1.c">
+                  <num>(c)</num>
+                  <p>to furnish a copy of the information so recorded forthwith to the informant;</p>
+                </item>
+                <item id="section-4.2.list1.d">
+                  <num>(d)</num>
+                  <p>to record the statement of the victims or witnesses;</p>
+                </item>
+                <item id="section-4.2.list1.e">
+                  <num>(e)</num>
+                  <p>to conduct the investigation and file charge sheet in the Special Court or the Exclusive Special Court within a period of sixty days, and to explain the delay if any, in writing;</p>
+                </item>
+                <item id="section-4.2.list1.f">
+                  <num>(f)</num>
+                  <p>to correctly prepare, frame and translate any document or electronic record;</p>
+                </item>
+                <item id="section-4.2.list1.g">
+                  <num>(g)</num>
+                  <p>to perform any other duty specified in this Act or the rules made thereunder:</p>
+                </item>
+              </blockList>
+              <p>Provided that the charges in this regard against the public servant shall be booked on the recommendation of an administrative enquiry.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>The cognizance in respect of any dereliction of duty referred to in sub-section (2) by a public servant shall be taken by the Special Court or the Exclusive Special Court and shall give direction for penal proceedings against such public servant.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Enhanced punishment on subsequent conviction.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Whoever, having already been convicted of an offence under this Chapter is convicted for the second offence or any offence subsequent to the second offence, shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to the punishment provided for that offence.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Application of certain provisions of the Indian Penal Code.—</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>Subject to the other provisions of this Act, the provisions of section 34, Chapter III, Chapter IV, Chapter V, Chapter VA, section 149 and Chapter XXIII of the Indian Penal Code (45 of 1860), shall, so far as may be, apply for the purposes of this Act as they apply for the purposes of the Indian Penal Code.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Forfeiture of property of certain persons.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a person has been convicted of any offence punishable under this Chapter, the Special Court may, in addition to awarding any punishment, by order in writing, declare that any property, movable or immovable or both, belonging to the person, which has been used for the commission of that offence, shall stand forfeited to Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any person is accused of any offence under this Chapter, it shall be open to the Special Court trying him to pass an order that all or any of the properties, movable or immovable or both, belonging to him, shall, during the period of such trial, be attached, and where such trial ends in conviction, the property so attached shall be liable to forfeiture to the extent it is required for the purpose of realisation of any fine imposed under this Chapter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Presumption as to offences.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <blockList id="section-8.paragraph-0.list1">
+                <listIntroduction>In a prosecution for an offence under this Chapter, if it is proved that—</listIntroduction>
+                <item id="section-8.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the accused rendered any financial assistance in relation to the offences committed by a person accused of, or reasonably suspected of, committing, an offence under this Chapter, the Special Court shall presume, unless the contrary is proved, that such person had abetted the offence;</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>a group of persons committed an offence under this Chapter and if it is proved that the offence committed was a sequel to any existing dispute regarding land or any other matter, it shall be presumed that the offence was committed in furtherance of the common intention or in prosecution of the common object;</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the accused was having personal knowledge of the victim or his family, the Court shall presume that the accused was aware of the caste or tribal identity of the victim, unless the contrary is proved.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Conferment of powers.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-9.1.list1">
+                <listIntroduction>Notwithstanding anything contained in the Code or in any other provision of this Act, the State Government may, if it considers it necessary or expedient so to do,—</listIntroduction>
+                <item id="section-9.1.list1.a">
+                  <num>(a)</num>
+                  <p>for the prevention of and for coping with any offence under this Act, or</p>
+                </item>
+                <item id="section-9.1.list1.b">
+                  <num>(b)</num>
+                  <p>for any case or class or group of cases under this Act,</p>
+                </item>
+              </blockList>
+              <p>in any district or part thereof, confer, by notification in the Official Gazette, on any officer of the State Government, the powers exercisable by a police officer under the Code in such district or part thereof or, as the case may be, for such case or class or group of cases, and in particular, the powers of arrest, investigation and prosecution of persons before any Special Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>All officers of police and all other officers of Government shall assist the officer referred to in sub-section (1) in the execution of the provisions of this Act or any rule, scheme or order made thereunder.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The provisions of the Code shall, so far as may be, apply to the exercise of the powers by an officer under sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Externment</heading>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Removal of person likely to commit offence.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Special Court is satisfied, upon a complaint or a police report that a person is likely to commit an offence under Chapter II of this Act in any area included in 'Scheduled Areas‘ or 'Tribal Areas‘, as referred to in article 244 of the Constitution, or any area identified under the provisions of clause (vii) of sub-section (2) of section 21, it may, by order in writing, direct such person to remove himself beyond the limits of such area, by such route and within such time as may be specified in the order, and not to return to that area from which he was directed to remove himself for such period, not exceeding three years, as may be specified in the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The Special Court shall, along with the order under sub-section (1), communicate to the person directed under that sub-section the grounds on which such order has been made.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>The Special Court may revoke or modify the order made under sub-section (1), for the reasons to be recorded in writing, on the representation made by the person against whom such order has been made or by any other person on his behalf within thirty days from the date of the order.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Procedure on failure of person to remove himself from area and enter thereon after removal.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-11.1.list1">
+                <listIntroduction>If a person to whom a direction has been issued under section 10 to remove himself from any area—</listIntroduction>
+                <item id="section-11.1.list1.a">
+                  <num>(a)</num>
+                  <p>fails to remove himself as directed; or</p>
+                </item>
+                <item id="section-11.1.list1.b">
+                  <num>(b)</num>
+                  <p>having so removed himself enters such area within the period specified in the order,</p>
+                </item>
+              </blockList>
+              <p>otherwise than with the permission in writing of the Special Court under sub-section (2), the Special Court may cause him to be arrested and removed in police custody to such place outside such area as the Special Court may specify.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The Special Court may, by order in writing, permit any person in respect of whom an order under section 10 has been made, to return to the area from which he was directed to remove himself for such temporary period and subject to such conditions as may be specified in such order and may require him to execute a bond with or without surety for the due observation of the conditions imposed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>The Special Court may at any time revoke any such permission.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>Any person who, with such permission, returns to the area from which he was directed to remove himself shall observe the conditions imposed, and at the expiry of the temporary period for which he was permitted to return, or on the revocation of such permission before the expiry of such temporary period, shall remove himself outside such area and shall not return thereto within the unexpired portion specified under section 10 without a fresh permission.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>If a person fails to observe any of the conditions imposed or to remove himself accordingly or having so removed himself enters or returns to such area without fresh permission the Special Court may cause him to be arrested and removed in police custody to such place outside such area as the Special Court may specify.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Taking measurements and photographs, etc., of persons against whom order under section 10 is made.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>Every person against whom an order has been made under section 10 shall, if so required by the Special Court, allow his measurements and photographs to be taken by a police officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>If any person referred to in sub-section (1), when required to allow his measurements or photographs to be taken, resists or refuses to allow the taking of such measurements or photographs, it shall be lawful to use all necessary means to secure the taking thereof.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>Resistance to or refusal to allow the taking of measurements or photographs under sub-section (2) shall be deemed to be an offence under section 186 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.4">
+            <num>(4)</num>
+            <content>
+              <p>Where an order under section 10 is revoked, all measurements and photographs (including negatives) taken under sub-section (2) shall be destroyed or made over to the person against whom such order is made.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Penalty for non compliance of order under section 10.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>Any person contravening an order of the Special Court made under section 10 shall be punishable with imprisonment for a term which may extend to one year and with fine.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Special Courts</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Special Court and Exclusive Special Court.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of providing for speedy trial, the State Government shall, with the concurrence of the Chief Justice of the High Court, by notification in the Official Gazette, establish an Exclusive Special Court for one or more Districts:</p>
+              <p>Provided that in Districts where less number of cases under this Act is recorded, the State Government shall, with the concurrence of the Chief Justice of the High Court, by notification in the Official Gazette, specify for such Districts, the Court of Session to be a Special Court to try the offences under this Act:</p>
+              <p>Provided further that the Courts so established or specified shall have power to directly take cognizance of offences under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall be the duty of the State Government to establish adequate number of Courts to ensure that cases under this Act are disposed of within a period of two months, as far as possible.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>In every trial in the Special Court or the Exclusive Special Court, the proceedings shall be continued from day-to-day until all the witnesses in attendance have been examined, unless the Special Court or the Exclusive Special Court finds the adjournment of the same beyond the following day to be necessary for reasons to be recorded in writing:</p>
+              <p>Provided that when the trial relates to an offence under this Act, the trial shall, as far as possible, be completed within a period of two months from the date of filing of the charge sheet.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14A">
+          <num>14A.</num>
+          <heading>Appeals.—</heading>
+          <subsection id="section-14A.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure,1973 (2 of 1974), an appeal shall lie, from any judgment, sentence or order, not being an interlocutory order, of a Special Court or an Exclusive Special Court, to the High Court both on facts and on law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14A.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (3) of section 378 of the Code of Criminal Procedure, 1973 (2 of 1974), an appeal shall lie to the High Court against an order of the Special Court or the Exclusive Special Court granting or refusing bail.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14A.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, every appeal under this section shall be preferred within a period of ninety days from the date of the judgment, sentence or order appealed from:</p>
+              <p>Provided that the High Court may entertain an appeal after the expiry of the said period of ninety days if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the period of ninety days:</p>
+              <p>Provided further that no appeal shall be entertained after the expiry of the period of one hundred and eighty days.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14A.4">
+            <num>(4)</num>
+            <content>
+              <p>Every appeal preferred under sub-section (1) shall, as far as possible, be disposed of within a period of three months from the date of admission of the appeal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Special Public Prosecutor and Exclusive Public Prosecutor.—</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>For every Special Court, the State Government shall, by notification in the Official Gazette, specify a Public Prosecutor or appoint an advocate who has been in practice as an advocate for not less than seven years, as a Special Public Prosecutor for the purpose of conducting cases in that Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>For every Exclusive Special Court, the State Government shall, by notification in the Official Gazette, specify an Exclusive Special Public Prosecutor or appoint an advocate who has been in practice as an advocate for not less than seven years, as an Exclusive Special Public Prosecutor for the purpose of conducting cases in that Court.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IVA">
+        <num>IVA</num>
+        <heading>Rights of Victims and Witnesses</heading>
+        <section id="section-15A">
+          <num>15A.</num>
+          <heading>Rights of victims and witnesses.—</heading>
+          <subsection id="section-15A.1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be the duty and responsibility of the State to make arrangements for the protection of victims, their dependents, and witnesses against any kind of intimidation or coercion or inducement or violence or threats of violence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.2">
+            <num>(2)</num>
+            <content>
+              <p>A victim shall be treated with fairness, respect and dignity and with due regard to any special need that arises because of the victim‘s age or gender or educational disadvantage or poverty.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.3">
+            <num>(3)</num>
+            <content>
+              <p>A victim or his dependent shall have the right to reasonable, accurate, and timely notice of any Court proceeding including any bail proceeding and the Special Public Prosecutor or the State Government shall inform the victim about any proceedings under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.4">
+            <num>(4)</num>
+            <content>
+              <p>A victim or his dependent shall have the right to apply to the Special Court or the Exclusive Special Court, as the case may be, to summon parties for production of any documents or material, witnesses or examine the persons present.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.5">
+            <num>(5)</num>
+            <content>
+              <p>A victim or his dependent shall be entitled to be heard at any proceeding under this Act in respect of bail, discharge, release, parole, conviction or sentence of an accused or any connected proceedings or arguments and file written submission on conviction, acquittal or sentencing.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.6">
+            <num>(6)</num>
+            <content>
+              <blockList id="section-15A.6.list1">
+                <listIntroduction>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the Special Court or the Exclusive Special Court trying a case under this Act shall provide to a victim, his dependent, informant or witnesses––</listIntroduction>
+                <item id="section-15A.6.list1.a">
+                  <num>(a)</num>
+                  <p>the complete protection to secure the ends of justice;</p>
+                </item>
+                <item id="section-15A.6.list1.b">
+                  <num>(b)</num>
+                  <p>the travelling and maintenance expenses during investigation, inquiry and trial;</p>
+                </item>
+                <item id="section-15A.6.list1.c">
+                  <num>(c)</num>
+                  <p>the social-economic rehabilitation during investigation, inquiry and trial; and</p>
+                </item>
+                <item id="section-15A.6.list1.d">
+                  <num>(d)</num>
+                  <p>relocation.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15A.7">
+            <num>(7)</num>
+            <content>
+              <p>The State shall inform the concerned Special Court or the Exclusive Special Court about the protection provided to any victim or his dependent, informant or witnesses and such Court shall periodically review the protection being offered and pass appropriate orders.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.8">
+            <num>(8)</num>
+            <content>
+              <blockList id="section-15A.8.list1">
+                <listIntroduction>Without prejudice to the generality of the provisions of sub-section (6), the concerned Special Court or the Exclusive Special Court may, on an application made by a victim or his dependent, informant or witness in any proceedings before it or by the Special Public Prosecutor in relation to such victim, informant or witness or on its own motion, take such measures including––</listIntroduction>
+                <item id="section-15A.8.list1.a">
+                  <num>(a)</num>
+                  <p>concealing the names and addresses of the witnesses in its orders or judgments or in any records of the case accessible to the public;</p>
+                </item>
+                <item id="section-15A.8.list1.b">
+                  <num>(b)</num>
+                  <p>issuing directions for non-disclosure of the identity and addresses of the witnesses;</p>
+                </item>
+                <item id="section-15A.8.list1.c">
+                  <num>(c)</num>
+                  <p>take immediate action in respect of any complaint relating to harassment of a victim, informant or witness and on the same day, if necessary, pass appropriate orders for protection:</p>
+                </item>
+              </blockList>
+              <p>Provided that inquiry or investigation into the complaint received under clause (c) shall be tried separately from the main case by such Court and concluded within a period of two months from the date of receipt of the complaint:</p>
+              <p>Provided further that where the complaint under clause (c) is against any public servant, the Court shall restrain such public servant from interfering with the victim, informant or witness, as the case may be, in any matter related or unrelated to the pending case, except with the permission of the Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.9">
+            <num>(9)</num>
+            <content>
+              <p>It shall be the duty of the Investigating Officer and the Station House Officer to record the complaint of victim, informant or witnesses against any kind of intimidation, coercion or inducement or violence or threats of violence, whether given orally or in writing, and a photocopy of the First Information Report shall be immediately given to them at free of cost.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.10">
+            <num>(10)</num>
+            <content>
+              <p>All proceedings relating to offences under this Act shall be video recorded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15A.11">
+            <num>(11)</num>
+            <content>
+              <blockList id="section-15A.11.list1">
+                <listIntroduction>It shall be the duty of the concerned State to specify an appropriate scheme to ensure implementation of the following rights and entitlements of victims and witnesses in accessing justice so as––</listIntroduction>
+                <item id="section-15A.11.list1.a">
+                  <num>(a)</num>
+                  <p>to provide a copy of the recorded First Information Report at free of cost;</p>
+                </item>
+                <item id="section-15A.11.list1.b">
+                  <num>(b)</num>
+                  <p>to provide immediate relief in cash or in kind to atrocity victims or their dependents;</p>
+                </item>
+                <item id="section-15A.11.list1.c">
+                  <num>(c)</num>
+                  <p>to provide necessary protection to the atrocity victims or their dependents, and witnesses;</p>
+                </item>
+                <item id="section-15A.11.list1.d">
+                  <num>(d)</num>
+                  <p>to provide relief in respect of death or injury or damage to property;</p>
+                </item>
+                <item id="section-15A.11.list1.e">
+                  <num>(e)</num>
+                  <p>to arrange food or water or clothing or shelter or medical aid or transport facilities or daily allowances to victims;</p>
+                </item>
+                <item id="section-15A.11.list1.f">
+                  <num>(f)</num>
+                  <p>to provide the maintenance expenses to the atrocity victims and their dependents;</p>
+                </item>
+                <item id="section-15A.11.list1.g">
+                  <num>(g)</num>
+                  <p>to provide the information about the rights of atrocity victims at the time of making complaints and registering the First Information Report;</p>
+                </item>
+                <item id="section-15A.11.list1.h">
+                  <num>(h)</num>
+                  <p>to provide the protection to atrocity victims or their dependents and witnesses from intimidation and harassment;</p>
+                </item>
+                <item id="section-15A.11.list1.i">
+                  <num>(i)</num>
+                  <p>to provide the information to atrocity victims or their dependents or associated organisations or individuals, on the status of investigation and charge sheet and to provide copy of the charge sheet at free of cost;</p>
+                </item>
+                <item id="section-15A.11.list1.j">
+                  <num>(j)</num>
+                  <p>to take necessary precautions at the time of medical examination;</p>
+                </item>
+                <item id="section-15A.11.list1.k">
+                  <num>(k)</num>
+                  <p>to provide information to atrocity victims or their dependents or associated organisations or individuals, regarding the relief amount;</p>
+                </item>
+                <item id="section-15A.11.list1.l">
+                  <num>(l)</num>
+                  <p>to provide information to atrocity victims or their dependents or associated organisations or individuals, in advance about the dates and place of investigation and trial;</p>
+                </item>
+                <item id="section-15A.11.list1.m">
+                  <num>(m)</num>
+                  <p>to give adequate briefing on the case and preparation for trial to atrocity victims or their dependents or associated organisations or individuals and to provide the legal aid for the said purpose;</p>
+                </item>
+                <item id="section-15A.11.list1.n">
+                  <num>(n)</num>
+                  <p>to execute the rights of atrocity victims or their dependents or associated organisations or individuals at every stage of the proceedings under this Act and to provide the necessary assistance for the execution of the rights.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15A.12">
+            <num>(12)</num>
+            <content>
+              <p>It shall be the right of the atrocity victims or their dependents, to take assistance from the Non-Government Organisations, social workers or advocates.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Power of State Government to impose collective fine.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>The provisions of section 10A of the Protection of Civil Rights Act, 1955 (22 of 1955) shall, so far as may be, apply for the purposes of imposition and realisation of collective fine and for all other matters connected therewith under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Preventive action to be taken by the law and order machinery.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>A District Magistrate or a Sub-divisional Magistrate or any other Executive Magistrate or any police officer not below the rank of a Deputy Superintendent of Police may, on receiving information and after such inquiry as he may think necessary, has reason to believe that a person or a group of persons not belonging to the Scheduled Castes or the Scheduled Tribes, residing in or frequenting any place within the local limits of his jurisdiction is likely to commit an offence or has threatened to commit any offence under this Act and is of the opinion that there is sufficient ground for proceeding, declare such an area to be an area prone to atrocities and take necessary action for keeping the peace and good behaviour and maintenance of public order and tranquillity and may take preventive action.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of Chapters VIII, X and XI of the Code shall, so far as may be, apply for the purposes of sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <p>The State Government may, by notification in the Official Gazette, make one or more schemes specifying the manner in which the officers referred to in sub-section (1) shall take appropriate action specified in such scheme or schemes to prevent atrocities and to restore the feeling of security amongst the members of the Scheduled Castes and the Scheduled Tribes.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Section 438 of the Code not to apply to persons committing an offence under the Act.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Nothing in section 438 of the Code shall apply in relation to any case involving the arrest of any person on an accusation of having committed an offence under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Section 360 of the Code or the provisions of the Probation of Offenders Act not to apply to persons guilty of an offence under the Act.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The provisions of section 360 of the Code and the provisions of the Probation of Offenders Act, 1958 (20 of 1958) shall not apply to any person above the age of eighteen years who is found guilty of having committed an offence under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Act to override other laws.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Save as otherwise provided in this Act, the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any custom or usage or any instrument having effect by virtue of any such law.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Duty of Government to ensure effective implementation of the Act.—</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to such rules as the Central Government may make in this behalf, the State Government shall take such measures as may be necessary for the effective implementation of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-21.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing provisions, such measures may include,—</listIntroduction>
+                <item id="section-21.2.list1.i">
+                  <num>(i)</num>
+                  <p>the provision for adequate facilities, including legal aid, to the persons subjected to atrocities to enable them to avail themselves of justice;</p>
+                </item>
+                <item id="section-21.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the provision for travelling and maintenance expenses to witnesses, including the victims of atrocities, during investigation and trial of offences under this Act;</p>
+                </item>
+                <item id="section-21.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>the provision for the economic and social rehabilitation of the victims of the atrocities;</p>
+                </item>
+                <item id="section-21.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>the appointment of officers for initiating or exercising supervision over prosecutions for the contravention of the provisions of this Act;</p>
+                </item>
+                <item id="section-21.2.list1.v">
+                  <num>(v)</num>
+                  <p>the setting up of committees at such appropriate levels as the State Government may think fit to assist that Government in formulation or implementation of such measures;</p>
+                </item>
+                <item id="section-21.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>provision for a periodic survey of the working of the provisions of this Act with a view to suggesting measures for the better implementation of the provision of this Act;</p>
+                </item>
+                <item id="section-21.2.list1.vii">
+                  <num>(vii)</num>
+                  <p>the identification of the areas where the members of the Scheduled Castes and the Scheduled Tribes are likely to be subjected to atrocities and adoption of such measures so as to ensure safety for such members.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-21.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government shall take such steps as may be necessary to co-ordinate the measures taken by the State Governments under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government shall, every year, place on the table of each House of Parliament a report on the measures taken by itself and by the State Governments in pursuance of the provisions of this section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against the Central Government or against the State Government or any officer or authority of Government or any other person for anything which is in good faith done or intended to be done under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1989/33/schedules"/>
+              <FRBRuri value="/in-union/act/1989/33"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1989/33/eng@1989-09-11/schedules"/>
+              <FRBRuri value="/in-union/act/1989/33/eng@1989-09-11"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1989/33/eng@1989-09-11/schedules"/>
+              <FRBRuri value="/in-union/act/1989/33/eng@1989-09-11"/>
+              <FRBRdate date="2016-10-28" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>[See section 3(2)(va)]</heading>
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <table id="theschedule.paragraph-0.table0">
+                  <tr>
+                    <th>
+                      <p>Section under the Indian Penal Code</p>
+                    </th>
+                    <th>
+                      <p>Name of offence and punishment</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>120A</p>
+                    </td>
+                    <td>
+                      <p>Definition of criminal conspiracy.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>120B</p>
+                    </td>
+                    <td>
+                      <p>Punishment of criminal conspiracy.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>141</p>
+                    </td>
+                    <td>
+                      <p>Unlawful assembly.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>142</p>
+                    </td>
+                    <td>
+                      <p>Being member of unlawful assembly.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>143</p>
+                    </td>
+                    <td>
+                      <p>Punishment for unlawful assembly.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>144</p>
+                    </td>
+                    <td>
+                      <p>Joining unlawful assembly armed with deadly weapon.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>145</p>
+                    </td>
+                    <td>
+                      <p>Joining or continuing in unlawful assembly, knowing it has been commanded to disperse.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>146</p>
+                    </td>
+                    <td>
+                      <p>Rioting.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>147</p>
+                    </td>
+                    <td>
+                      <p>Punishment for rioting.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>148</p>
+                    </td>
+                    <td>
+                      <p>Rioting, armed with deadly weapon.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>217</p>
+                    </td>
+                    <td>
+                      <p>Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>319</p>
+                    </td>
+                    <td>
+                      <p>Hurt.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>320</p>
+                    </td>
+                    <td>
+                      <p>Grievous hurt.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>323</p>
+                    </td>
+                    <td>
+                      <p>Punishment for voluntarily causing hurt.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>324</p>
+                    </td>
+                    <td>
+                      <p>Voluntarily causing hurt by dangerous weapons or means.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>325</p>
+                    </td>
+                    <td>
+                      <p>Punishment for voluntarily causing grievous hurt.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>326B</p>
+                    </td>
+                    <td>
+                      <p>Voluntarily throwing or attempting to throw acid.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>332</p>
+                    </td>
+                    <td>
+                      <p>Voluntarily causing hurt to deter public servant from his duty.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>341</p>
+                    </td>
+                    <td>
+                      <p>Punishment for wrongful restraint.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>354</p>
+                    </td>
+                    <td>
+                      <p>Assault or criminal force to woman with intent to outrage her modesty.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>354A</p>
+                    </td>
+                    <td>
+                      <p>Sexual harassment and punishment for sexual harassment.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>354B</p>
+                    </td>
+                    <td>
+                      <p>Assault or use of criminal force to woman with intent to disrobe.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>354C</p>
+                    </td>
+                    <td>
+                      <p>Voyeurism.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>354D</p>
+                    </td>
+                    <td>
+                      <p>Stalking.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>359</p>
+                    </td>
+                    <td>
+                      <p>Kidnapping.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>363</p>
+                    </td>
+                    <td>
+                      <p>Punishment for kidnapping.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>365</p>
+                    </td>
+                    <td>
+                      <p>Kidnapping or abducting with intent secretly and wrongfully to confine person.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>376B</p>
+                    </td>
+                    <td>
+                      <p>Sexual intercourse by husband upon his wife during separation.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>376C</p>
+                    </td>
+                    <td>
+                      <p>Sexual intercourse by a person in authority.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>447</p>
+                    </td>
+                    <td>
+                      <p>Punishment for criminal trespass.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>506</p>
+                    </td>
+                    <td>
+                      <p>Punishment for criminal intimidation.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>509</p>
+                    </td>
+                    <td>
+                      <p>Word, gesture or act intended to insult the modesty of a woman.</p>
+                    </td>
+                  </tr>
+                </table>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

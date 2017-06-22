@@ -1,0 +1,503 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1969/01/main"/>
+          <FRBRuri value="/in-kar/act/1969/01"/>
+          <FRBRalias value="The Karnataka Agricultural Pests And Diseases Act, 1968"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1969/01/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/1969/01/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1969/01/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/1969/01/eng@1980-01-01"/>
+          <FRBRdate date="2017-03-16" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Agricultural Pests And Diseases Act, 1968</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act No. 1 of 1969</p>
+        <p>An Act to prevent the introduction, spread or reappearance of pests, plant diseases and noxious weeds injurious to crops, plants or trees in the State of Karnataka.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>WHEREAS it is expedient to take measures to prevent the introduction, spread or reappearance of pests, plant diseases and noxious weeds injurious to crops, plants, trees or water supply or obstruction to water-ways within the State of Karnataka and to make provision for other matters connected therewith;</p>
+      <p>BE it enacted by the Karnataka State Legislature in the nineteenth year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Karnataka Agricultural Pests and Diseases Act, 1968.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of the State of Karnataka.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>In this Act, unless the context otherwise requires,-</p>
+          </content>
+        </paragraph>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>"affected area" means any area declared by notification under section 3 to be an affected area;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>"Director of Agriculture" means any officer appointed by the State Government to be the Director of Agriculture and includes the Director of Horticulture and every person who for the time being performs the duties of the office of the Director of Agriculture or Director of Horticulture, as the case may be;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.3">
+          <num>(3)</num>
+          <content>
+            <p>"Deputy Director of Agriculture" means the officer appointed by the State Government to be the Deputy Director of Agriculture of a District or the District Horticultural Officer, and every person who for the time being performs the duties of the Deputy Director of Agriculture or the District Horticultural Officer, as the case may be;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.4">
+          <num>(4)</num>
+          <content>
+            <p>"Inspecting Officer" means an officer appointed under section 17;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.5">
+          <num>(5)</num>
+          <content>
+            <p>"notification" means a notification published in the official Gazette;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.6">
+          <num>(6)</num>
+          <content>
+            <p>"notified area" means the area in respect of which a notification is issued under section 3;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.7">
+          <num>(7)</num>
+          <content>
+            <p>"noxious weed" means any weed declared by notification under section 3 to be a noxious weed;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.8">
+          <num>(8)</num>
+          <content>
+            <p>"occupier" means the person having for the time being the right of occupation of any land, premises or water, or his authorised agent or any person in actual occupation of the land, premises or water, and includes a local authority having such right of occupation or in such actual occupation;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.9">
+          <num>(9)</num>
+          <content>
+            <p>"parasite" means any plant or animal carrying on its existence wholly or in part on any agricultural crop, plant, tree, bush or herb, declared by notification under section 3 to be a parasite;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.10">
+          <num>(10)</num>
+          <content>
+            <p>"pest" means any insect, or vertebrate or invertebrate animal, which has been declared by a notification under section 3 to be a pest;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.11">
+          <num>(11)</num>
+          <content>
+            <p>"plant" includes all horticultural or agricultural crops, trees, bushes or herbs, and includes the fruits, leaves, trunk, roots, bark or cutting or any part thereof but does not include the seed:</p>
+            <p>Provided that the State Government may, by notification, direct the seed of any particular plant shall be deemed to be a plant;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.12">
+          <num>(12)</num>
+          <content>
+            <p>"plant disease" means any fungoid, bacterial virus, vegetable organism, parasitical or other disease declared by notification under section 3 to be a plant disease;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.13">
+          <num>(13)</num>
+          <content>
+            <p>"prescribed" means prescribed by rules made under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Notification by the State Government of areas affected by pests, plant diseases or noxious weeds.-</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list1">
+              <listIntroduction>Where it appears to the State Government that any disease, pest, parasite or weed is injurious to plants in any area and that it is necessary to take measures to eradicate such disease, parasite, pest or weed, or to prevent its introduction, spread or re-appearance, the State Government may, by notification, declare such area to be an affected area for such period as may be specified in such notification; and with reference to such area the State Government may by such notification also,-</listIntroduction>
+              <item id="section-3.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>declare any disease, parasite, pest or weed to be a plant disease, parasite, pest or noxious weed for purposes of this Act;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>prohibit or restrict the movement or removal of any plant, soil or manure from one place to another or prescribe such other preventive or remedial measures as may be necessary in respect of such pest, disease or weed;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>direct that such preventive or remedial measures as may be specified shall be carried out to eradicate, destroy or prevent the introduction, spread or reappearance of any noxious weed, parasite, pest, or plant disease; and</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>prohibit the plantation or growing of any plant within such area as may be specified, which is likely to be injurious to the other crops in the area so specified.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Power to issue directions.-</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list1">
+              <listIntroduction>On the issue of a notification under section 3, the Deputy Director of Agriculture may, by notice,-</listIntroduction>
+              <item id="section-4.1.list1.i">
+                <num>(i)</num>
+                <p>direct every occupier within the affected area to carry out such preventive or remedial measures (including the removal or destruction of plants which are infested or likely to be infested) as he may specify in the notice, to eradicate, destroy or prevent the introduction, spread or reappearance of any plant disease, pest, parasite or noxious weed;</p>
+              </item>
+              <item id="section-4.1.list1.ii">
+                <num>(ii)</num>
+                <p>call upon any male person, not being below the age of eighteen years and residing within the said area, to render such assistance as may be specified in the notice in carrying out the measures referred to in clause (i):</p>
+              </item>
+            </blockList>
+            <blockList id="section-4.1.list3">
+              <listIntroduction>Provided that,-</listIntroduction>
+              <item id="section-4.1.list3.a">
+                <num>(a)</num>
+                <p>no person who is not an occupier shall be called upon to render whole time service for a period exceeding seven days at a time and there shall be an interval of not less than ninety days before any such person is called upon to render whole time service after having already rendered such service, and</p>
+              </item>
+              <item id="section-4.1.list3.b">
+                <num>(b)</num>
+                <blockList id="section-4.1.list3.b.list0">
+                  <listIntroduction>no person who is, by reason of old age, physical disability or any other reasonable cause, incapable of rendering assistance, or who lives at a distance of more than eight kilometers from the place where his presence is required for the purpose of rendering assistance, shall be called upon to render such assistance; and</listIntroduction>
+                  <item id="section-4.1.list3.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>specify the area within which and the period during which the measures referred to in clause (i) are to be carried out.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall not be necessary to notify every occupier under clause (i) of sub-section (1) or every other person whose assistance is required under clause (ii) of the said subsection, and a proclamation in this behalf made by beat of drum or other customary mode in the area, village or locality, shall be deemed sufficient notice to all affected persons residing in that area, village or locality.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Duties of occupier on the issue of notice under section 4.-</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <blockList id="section-5.paragraph-0.list1">
+              <listIntroduction>On the issue of a notice under section 4,-</listIntroduction>
+              <item id="section-5.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>it shall be the duty of every occupier within the affected area to carry out the preventive or remedial measures specified in such notice; and</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>it shall be the duty of every male person residing within the said area to render assistance in such manner as has been specified in the notice.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Power to enter upon land or premises.-</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <blockList id="section-6.paragraph-0.list1">
+              <listIntroduction>An Inspecting Officer may after giving due notice to the occupier or other person in charge, enter upon any land, water, or premises within the notified area for the purpose of ascertaining, whether,-</listIntroduction>
+              <item id="section-6.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>any noxious weed, parasite, pest or plant disease exists on such land, water or premises; and</p>
+              </item>
+              <item id="section-6.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>the preventive or remedial measures directed to be carried out, have been carried out.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Procedure where measures prescribed to eradicate pests or plant diseases include removal or destruction of plants.-</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <p>Where the preventive or remedial measures directed to be carried out by a notification under section 3 include the removal or destruction of any plant in order to eradicate or prevent the introduction or reappearance of any pest or plant diseases any occupier who fails to remove or destroy such plant on or before the date specified in such notification shall be deemed to have committed an offence under this Act, and the removal or destruction of such plant may be carried out by the Inspecting Officer or under his supervision.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Notice to occupier to take remedial or preventive action.-</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>Where on inspection of any land, water or premises, an Inspecting Officer finds that the preventive or remedial measures specified under section 3 have not been carried out as directed, the Inspecting Officer may, subject to any general or special order of the prescribed officer, call upon the occupier, by notice in writing, to carry out, the preventive or remedial measures directed to be carried out, within such time as may be specified in such notice.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The occupier may within seven days of the service upon him of such notice, prefer an appeal to the prescribed officer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>On receipt of an appeal under sub-section (2), the prescribed officer shall, after giving the appellant an opportunity of being heard, pass such order thereon as he thinks fit, and where by virtue of such order, the appellant has to carry out preventive or remedial measures, the time within which such measures shall be carried out, shall also be specified in the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.4">
+          <num>(4)</num>
+          <content>
+            <p>An order passed under sub-section (3) shall be final and conclusive and shall not be called in question in any court of law.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Occupier failing to comply with the notice served on him commits an offence.-</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>If any occupier upon whom notice has been served under section 8 fails to comply with the notice within the time specified by the Inspecting Officer, or, in cases where an appeal has been preferred, and the appellate order requires him to carry out preventive or remedial measures within a specified time, fails to carry out such measures within such time, he shall be deemed to have committed an offence under this Act and the preventive or remedial measures directed to be carried out, may be carried out by the Inspecting Officer or under his supervision.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Recovery of costs.-</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>The costs of any preventive or remedial measures carried out under section 7 or section 9 by the Inspecting Officer or under his supervision, shall be recoverable from the occupier as arrears of land revenue.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Appeal against costs.-</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-11.1.list1">
+              <listIntroduction>Any occupier referred to in section 10 may within thirty days from the date of the first demand of such costs, prefer an appeal to the prescribed officer on the grounds that,-</listIntroduction>
+              <item id="section-11.1.list1.i">
+                <num>(i)</num>
+                <p>the costs include charges for items other than the cost of labour, material or use of implements;</p>
+              </item>
+              <item id="section-11.1.list1.ii">
+                <num>(ii)</num>
+                <p>the charges for labour, material or use of implements are unreasonably high, or more than the expenditure actually incurred.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>On receipt of the appeal under sub-section (1), the prescribed officer shall, after giving the occupier an opportunity of being heard, pass such order thereon as he thinks fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>An order passed under sub-section (2), shall be final and conclusive and shall not be called in question in any court of law.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Obligation of village officers to report on insect pests, plant diseases or noxious weeds.-</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>Every village officer of a village adjoining a notified area within the limits of which a pest, disease or weed similar to the insect pest, plant disease or noxious weed within the notified area appears, shall report the same to such officers as the State Government may from time to time specify in this behalf.</p>
+            <p>Explanation.- For purposes of this section, "village officer" includes the Village Accountant, the Village Panchayat Secretary and the Gramasevak.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Penalties.-</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>Whoever contravenes any prohibition, restriction or direction contained in a notification issued under section 3 shall, on conviction, be punished with fine which may extend to fifty rupees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <p>Any occupier who is deemed to have committed an offence under this Act under section 7 or section 9, shall on conviction, be punished with fine which may extend to fifty rupees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.3">
+          <num>(3)</num>
+          <content>
+            <p>Whoever commits a breach of the provisions of any rule made under section 20 shall, on conviction, be punished with fine which may extend to fifty rupees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-13.4.list1">
+              <listIntroduction>Whoever voluntarily obstructs or offers any resistance to or impedes or otherwise interferes with,-</listIntroduction>
+              <item id="section-13.4.list1.i">
+                <num>(i)</num>
+                <p>any officer or person exercising any powers or performing any duties conferred or imposed on him by or in pursuance of the provisions of this Act or otherwise discharging any functions in connection with preventive or remedial measures taken or to be taken under the provisions of this Act or any orders or directions made or given thereunder ; or</p>
+              </item>
+              <item id="section-13.4.list1.ii">
+                <num>(ii)</num>
+                <p>any person, who is carrying out the orders or directions of any such officer or person as aforesaid or who is otherwise acting in accordance with his duty in pursuance of this Act or any orders, or directions made or given thereunder,</p>
+              </item>
+            </blockList>
+            <p>shall, on conviction, be punished with fine which may extend to five hundred rupees.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Cognizance of offences.-</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>No court shall take cognizance of any offence punishable under this Act save on a complaint made by or under the authority of the Deputy Director of Agriculture.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Offences by companies.-</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <p>If the person committing an offence under this Act is a Company, every person who, at the time the offence was committed was in charge of, and was responsible to, the Company for the conduct of business of the Company, as well as the Company shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that, nothing contained in this sub-section shall render any such person liable to such punishment if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of or is attributable to any negligence on the part of, any director, manager, secretary or other officer of the Company, such director, manager, secretary or other officer, shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <blockList id="section-15.2.list2">
+              <listIntroduction>Explanation.- For the purposes of this section,-</listIntroduction>
+              <item id="section-15.2.list2.a">
+                <num>(a)</num>
+                <p>"company" means a body corporate and includes a firm or other association of individuals;</p>
+              </item>
+              <item id="section-15.2.list2.b">
+                <num>(b)</num>
+                <p>"director" in relation to a firm, means a partner in the firm.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Protection of action taken under this Act.-</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against the State Government or any officer in respect of anything done or intended to be done in good faith under this Act, or for any damage caused by any action taken in good faith in carrying out the provisions of this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Appointment of Inspecting Officers.-</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>The State Government may from time to time by notification, appoint Inspecting Officers for the purpose of exercising the powers and discharging the duties of an Inspecting Officer under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Delegation of powers.-</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>The State Government may, by notification, delegate all or any of its powers under this Act, except those conferred by sections 18 and 19 to the Director of Agriculture or any other officer or to any local authority subject to such restrictions and conditions as may be specified in such notification:</p>
+            <p>Provided that the delegation of powers under section 3 shall not be made to any officer or authority other than the Director of Agriculture.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Directions by State Government.-</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>The State Government may, by general or special orders, direct that the powers conferred on the officers by or under this Act, shall be exercised by such officers in such areas or in respect of such crops, as may be specified in such orders.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Power to make rules.-</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may after previous publication, by notification, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>Every rule made under this Act, shall be laid as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if before the expiry of the session in which it is so laid or the successive sessions aforesaid, both Houses agree in, making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Repeal and savings.-</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>The Bombay Agricultural Pests and Diseases Act, 1947 (Bombay Act 43 of 1947), the Coorg Agricultural Pests and Diseases Act, 1933 (Coorg Act 2 of 1933), The Hyderabad Agricultural Pests and Diseases Regulation, 1352F, the Madras Agricultural Pests and Diseases Act, 1919 (Madras Act 3 of 1919) and the Mysore Destructive Insects and Pests Act, 1917 (Mysore Act 6 of 1917) as in force in the different areas of the State of Karnataka are hereby repealed:</p>
+            <p>Provided that section 6 of the Karnataka General Clauses Act, 1899 (Karnataka Act 3 of 1899) shall be applicable to such repeal and sections 8 and 24 of the said Act shall be applicable as if the said Acts had been repealed and re-enacted by this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

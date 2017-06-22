@@ -1,0 +1,794 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/1981/54/main"/>
+          <FRBRuri value="/in-mah/act/1981/54"/>
+          <FRBRalias value="The Maharashtra Marine Fishing Regulation Act, 1981"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/1981/54/eng@2017-03-10/main"/>
+          <FRBRuri value="/in-mah/act/1981/54/eng@2017-03-10"/>
+          <FRBRdate date="2017-03-10" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/1981/54/eng@2017-03-10/main"/>
+          <FRBRuri value="/in-mah/act/1981/54/eng@2017-03-10"/>
+          <FRBRdate date="2017-03-10" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Maharashtra Marine Fishing Regulation Act, 1981</shortTitle>
+      </p>
+      <longTitle>
+        <p>(ACT NO. 54 of 1981)</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[23rd September, 1981]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for the regulation of fishing by fishing vessels in the sea along the coast line of the State of Maharashtra.</p>
+      <p>WHEREAS it is expedient to provide for the regulation of fishing by fishing vessels in the sea along the coast line of the State of Maharashtra and for matters connected therewith or incidental thereto; It is hereby enacted in the Thirty-second Year of the Republic of India as follows :-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Maharashtra Marine Fishing Regulation Act, 1981.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Maharashtra (including the territorial waters).</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“Adjudicating Officer” means the Tehsildar having jurisdiction, and includes any other officer of the Revenue Department, not below the rank of Tehsildar, authorised by the State Government, by notification in the Official Gazette, to exercise the powers conferred on, and discharge the duties imposed upon, an Adjudicating Officer by this Act, in such area as may be specified by the notification;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“Appellate Board” means an Appellate Board constituted under section 18;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“Enforcement Officer” means the Assistant Fisheries Development Officer having jurisdiction, and includes any other Officer of the Directorate of Fisheries, not below the rank of Assistant Fisheries Development Officer, authorised by the State Government, by notification in the Official Gazette, to exercise the powers conferred on, and discharge the duties imposed upon, an Enforcement Officer by this Act, in such area as may be specified in the notification;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-2.paragraph-0.list1.d.list0">
+                    <listIntroduction>“fishing vessel” means a boat or ship, whether or not fitted with mechanical means of propulsion, which is engaged in sea fishing for profit, and includes—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.d.list0.i">
+                      <num>(i)</num>
+                      <p>a country craft, and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>a canoe, engaged in sea fishing for profit;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“Licensing Officer” means the Assistant Fisheries Development Officer having jurisdiction, and includes any other officer of the Directorate of Fisheries, not below the rank of Assistant Fisheries Development Officer, authorised by the State Government, by notification in the Official Gazette, to exercise the powers conferred on, and discharge the duties imposed upon, a Licensing Officer by this Act, in such area as may be specified in the notification;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“Port” means the space within such limits as may, from time to time, be defined by the State Government, by notification in the Official Gazette, for the purpose of this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“Prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“Registered fishing vessel” means a fishing vessel registered under section 9;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <blockList id="section-2.paragraph-0.list1.i.list1">
+                    <listIntroduction>"Registration Officer" means the Assistant Commissioner of Fisheries and includes any other Officer authorised by the State Government by notification in the Official Gazette, to exercise the powers conferred on, and discharge the duties imposed upon, a Registration Officer by this Act, in such area as may be specified in the notification;</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.i.list1.J">
+                      <num>(J)</num>
+                      <p>“specified area” means such area in the sea along the entire coast line of the State, but not beyond territorial waters, as may be specified by the State Government, by notification in the Official Gazette;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“State” means the State of Maharashtra, and includes the territorial waters along the entire coast line of that State.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Constitution of Advisory Committees.</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may by order constitute an Advisory Committee for each coastal District, with the District Magistrate as the Chairman and the Assistant Director of Fisheries of the District as the member-secretary, with representatives of the State Port Department and the Police Department as members. The Chairman shall co-opt representatives of other Government Departments and of the fishermen and the trade as he may deem fit. The Committee shall recommend to the State Government the regulations to be enforced under Chapter II.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-3.2.list1">
+                <listIntroduction>The Committee shall advise the State Government on the following issues which may come up for consideration while enforcing the Act:-</listIntroduction>
+                <item id="section-3.2.list1.i">
+                  <num>(i)</num>
+                  <p>reservation of specified areas of the sea for fishing by vessels of a specified type;</p>
+                </item>
+                <item id="section-3.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>prohibition of vessels of specified type or specified types from fishing in any specified area;</p>
+                </item>
+                <item id="section-3.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>laying down maximum number of fishing vessels of specified type to be allowed for fishing in specified areas;</p>
+                </item>
+                <item id="section-3.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>laying down the maximum number of fishing vessels of specified types to be registered in each of the ports in the District;</p>
+                </item>
+                <item id="section-3.2.list1.v">
+                  <num>(v)</num>
+                  <p>regulation or prohibition to catch specified species of fish in any specified area;</p>
+                </item>
+                <item id="section-3.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>regulation or prohibition of specified fishing gear in specified areas;</p>
+                </item>
+                <item id="section-3.2.list1.vii">
+                  <num>(vii)</num>
+                  <p>prescribe timings for fishing operations where necessary;</p>
+                </item>
+                <item id="section-3.2.list1.viii">
+                  <num>(viii)</num>
+                  <p>any other matter which would facilitate effective enforcement of the provisions of the Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Regulation of Fishing</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Power to regulate, restrict or prohibit certain fishing activities within specified area.</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, having regard to the matters referred to in sub-section</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-4.2.list1">
+                <listIntroduction>, and after consultation with the Advisory Committee, by order notified in the Official Gazette, regulate, restrict or prohibit,-</listIntroduction>
+                <item id="section-4.2.list1.a">
+                  <num>(a)</num>
+                  <p>the fishing in any specified area by such class or classes of fishing vessels as may be specified; or</p>
+                </item>
+                <item id="section-4.2.list1.b">
+                  <num>(b)</num>
+                  <p>the number of fishing vessels which may be used for fishing in any specified area; or</p>
+                </item>
+                <item id="section-4.2.list1.c">
+                  <num>(c)</num>
+                  <p>the catching in any specified area of such species offish and for such period as may be specified in the orders; or</p>
+                </item>
+                <item id="section-4.2.list1.d">
+                  <num>(d)</num>
+                  <p>the use of such fishing gear in any specified area as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-4.2.list1">
+                <listIntroduction>In making an order under sub-section (1), the State Government shall have regard to the following matters, namely: -</listIntroduction>
+                <item id="section-4.2.list1.a">
+                  <num>(a)</num>
+                  <p>the need to protect the interests of different sections of persons engaged in fishing, particularly those engaged in fishing using traditional fishing craft such as country craft or canoe;</p>
+                </item>
+                <item id="section-4.2.list1.b">
+                  <num>(b)</num>
+                  <p>the need to conserve fish and to regulate fishing on a scientific basis;</p>
+                </item>
+                <item id="section-4.2.list1.c">
+                  <num>(c)</num>
+                  <p>the need to maintain law and order in the sea;</p>
+                </item>
+                <item id="section-4.2.list1.d">
+                  <num>(d)</num>
+                  <p>any other matter that may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Prohibition of use of fishing vessels in contravention of any order made under section 4.</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>No owner or master of a fishing vessel shall use, or cause or allow to be used, such fishing vessel for fishing in any manner which contravenes an order made under section 4:</p>
+              <p>Provided that, nothing in such order shall be construed as preventing the passage of any fishing vessel from, or to, the shore, through ‘any specified area to, or from any area other than specified area, for the purpose of fishing in such other area or for any other purpose:</p>
+              <p>Provided further that, the passing of such fishing vessel through any specified area shall not in any manner cause any damage to any fishing nets or tackles belonging to any person who engages in fishing in the specified area by using any traditional fishing craft such as country craft or canoe.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Licensing of fishing vessels.</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>The owner of a fishing vessel may make an application to the Licensing Officer for the grant of a licence for using such fishing vessel for fishing in any specified area.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Every application under sub-section (1) shall be in such form, contain such particulars, and be accompanied by such fees, as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>The Licensing Officer may after making such inquiry as he deems fit and having regard to the matters referred to in sub-section (4), either grant or refuse to grant, to the owner of the fishing vessel, a licence for using such fishing vessel for fishing in the specified area or specified areas mentioned in such licence :</p>
+              <p>Provided that, before making any order refusing to grant a licence, the Licensing Officer shall give a reasonable opportunity of being heard to the applicant.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-6.4.list1">
+                <listIntroduction>In granting or refusing licence under sub-section (3), the Licensing Officer shall have regard to the following matters, namely:-</listIntroduction>
+                <item id="section-6.4.list1.a">
+                  <num>(a)</num>
+                  <p>whether the fishing vessel is a registered fishing vessel;</p>
+                </item>
+                <item id="section-6.4.list1.b">
+                  <num>(b)</num>
+                  <p>the condition of the fishing vessel, including the accessories and fishing gear with which it is fitted;</p>
+                </item>
+                <item id="section-6.4.list1.c">
+                  <num>(c)</num>
+                  <p>any order made under section 4;</p>
+                </item>
+                <item id="section-6.4.list1.d">
+                  <num>(d)</num>
+                  <p>any other matter that may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>A licence granted under this section shall be in such form and subject to such conditions, including conditions as to payment of such fees and furnishing such security for the due performance of the conditions, as may be prescribed:</p>
+              <p>Provided that, different fees, and different amounts by way of security, may be prescribed in respect of licences for different classes of fishing vessels.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.6">
+            <num>(6)</num>
+            <content>
+              <p>A licence granted under this section shall be valid for a period of three years which may be renewed for similar period from time to time.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Prohibition of using fishing vessels which are not licensed.</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>No persons shall, after the commencement of this Act, carry on fishing in any specified area using a fishing vessel which is not licensed under section 6:</p>
+              <p>Provided that, nothing in this section shall apply to any fishing vessel, which was being used for fishing immediately before the commencement of this Act, for a period of six months from such commencement, or such longer period as the State Government may, by notification in the Official Gazette, specify.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Cancellation, suspension and amendment of licences</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-8.1.list1">
+                <listIntroduction>If the Licensing Officer is satisfied, either on a reference made to him in this behalf or otherwise, that -</listIntroduction>
+                <item id="section-8.1.list1.a">
+                  <num>(a)</num>
+                  <p>a licence granted under section 6 has been obtained by misrepresentation as to an essential fact, or</p>
+                </item>
+                <item id="section-8.1.list1.b">
+                  <num>(b)</num>
+                  <p>the holder of licence has, without reasonable cause, failed to comply with the conditions subject to which the licence has been granted or has contravened any of the provisions of this Act or any order or rule made there under, then, without prejudice to any other penalty to which the holder of the licence may be liable under this Act, the Licensing Officer may, after giving the holder of the licence a reasonable opportunity of showing cause, suspend or cancel the licence or forfeit the whole or any part of the security, if any, furnished for the performance of the conditions, subject to which the licence has been granted.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to any rules that may be made in this behalf, the Licensing Officer may also vary or amend a licence granted under section 6, after recording the reasons therefore.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Registration of vessels.</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>The owner of every vessel used or intended to be used for purpose of fishing and kept in the State shall register such vessel under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-9.2.list1">
+                <listIntroduction>Every application for registration of such vessel shall be made by the owner thereof to the Registration Officer in such form, and shall be accompanied by such fees, as may be prescribed -</listIntroduction>
+                <item id="section-9.2.list1.a">
+                  <num>(a)</num>
+                  <p>before the expiration of one month from the date on which he first became the owner of such vessel; or</p>
+                </item>
+                <item id="section-9.2.list1.b">
+                  <num>(b)</num>
+                  <p>before the expiration of three months from the commencement of this Act; whichever is later:</p>
+                </item>
+              </blockList>
+              <p>Provided that, the Registration Officer may, for sufficient reason to be recorded in writing, extend the time limit for registration by such period as he thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The Registration Officer shall issue to the owner of the vessel registered by him a certificate of registration in the prescribed form and shall enter in a register to be kept by him, in such form as may be prescribed, the particulars of such certificate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.4">
+            <num>(4)</num>
+            <content>
+              <p>Registration once made shall continue to be in force until it is cancelled by the Registration Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.5">
+            <num>(5)</num>
+            <content>
+              <p>Every vessel registered under this section shall carry a registration mark, assigned to it by the Registration Officer, displayed in the prescribed manner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.6">
+            <num>(6)</num>
+            <content>
+              <p>No vessel, other than a registered fishing vessel, shall be entitled to a licence under section 6.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Information to be given to Registration Officer about movement of fishing vessel and his permission to be obtained.</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Every owner of the fishing vessel shall declare his base port in the application for registration of the vessel.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>After registration of the vessel at a specified port, the owner of the vessel shall operate the vessel only from that port.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>In case the owner of the vessel intends to operate the vessel from a port other than the port specified in the registration certificate, he shall apply in writing to the Registration Officer indicating clearly the name of the port and the period for which the vessel will operate from that port. He shall shift the base of operation only after obtaining permission in writing from the Registration Officer. The Registration Officer reserves the right to refuse permission or even to cancel the permission granted, after giving one month’s notice and after giving reasonable opportunity to show cause to the owner. The owner of the vessel to whom permission granted is cancelled shall shift his vessel from the temporary port within 24 hours after receipt of such order cancelling the permission.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Returns to be made by owners of registered fishing vessels.</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Every owner of a registered fishing vessel shall furnish to the Registration Officer at the prescribed time and in the prescribed manner such returns as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The Registration Officer may inspect any registered fishing vessel at any time to verify the accuracy of any return made under this section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Finality of orders under sections 6, 8 and 9.</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>Every decision of the Licensing Officer or the Registration Officer under section 6, section 8 or section 9, granting or refusing to grant licence for a fishing vessel or suspending, cancelling, varying or amending such licence or registration or cancellation of registration of a vessel, as the case may be, shall, subject to any right of appeal under section 13, be final.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Appeals against orders refusing grant of licence or registration, etc.</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person aggrieved by an order of the Licensing Officer refusing to grant licence for fishing vessel or suspending, cancelling or varying or amending such licence or of the Registration Officer refusing to register a vessel or cancelling the registration of such vessel may, within thirty days from the date on which the order is communicated to him, prefer an appeal to the Appellate Authority, i.e. the Commissioner of Fisheries, Government of Maharashtra:</p>
+              <p>Provided that, the Appellate Authority may entertain the appeal after the expiry of the said period of thirty days if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of an appeal under sub-section (1), the Appellate Authority shall after giving the appellant a reasonable opportunity of being heard, pass such orders thereon as it deems fit as expeditiously as possible.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>Every order passed by the Appellate Authority under this section shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Penalties</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Power to enter and search fishing vessel.</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>Any Enforcement Officer may, if he has reason to believe that any fishing vessel is being, or has been, used in contravention of any of the provisions of this Act, or of any order or rule made there under or of any of the conditions of the licence, enter and search such vessel and impound such vessel and seize and fish found in it.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Disposal of seized fish.</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The Enforcement Officer referred to in section 14 shall keep the fishing vessel, impounded in such place and in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>In the absence of suitable facilities for the storage of the fish seized, the Enforcement Officer may, if he is of the opinion that the disposal of such fish is necessary, dispose of such fish and deposit the proceeds thereon in the prescribed manner in the office of the Adjudicating Officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Adjudication.</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any Enforcement Officer has reason to believe that any fishing vessel is being, or has been, used in contravention of any of the provisions of this Act, or any order or rule made there under or of any of the conditions of the licence, he shall make a report thereof to the Adjudicating Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The Adjudicating Officer shall hold an inquiry into the matters mentioned in the report, in the prescribed manner after giving all the parties concerned a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Imposition of penalty.</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-17.1.list1">
+                <listIntroduction>The Adjudicating Officer shall, after the inquiry is held under section 16, decide whether any person has used or caused or allowed to be used, any fishing vessel in contravention of any of the provisions of this Act or of any order or rule made there under or of any of the conditions of the licence. When such person is found guilty by the Adjudicating Officer, the Adjudicating Officer may, by order in writing impose on such person a penalty of an amount not exceeding -</listIntroduction>
+                <item id="section-17.1.list1.a">
+                  <num>(a)</num>
+                  <p>five thousand rupees, if the value of the fish involved is one thousand rupees or less;</p>
+                </item>
+                <item id="section-17.1.list1.b">
+                  <num>(b)</num>
+                  <p>five times the value of the fish, if the value of the fish involved is more than one thousand rupees;</p>
+                </item>
+                <item id="section-17.1.list1.c">
+                  <num>(c)</num>
+                  <p>five thousand rupees, in any other case, including a case where there has been no catch of fish, as may be adjudged by the Adjudicating Officer.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The amount of any penalty imposed under sub-section (1) shall be recoverable as an arrear of land revenue.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-17.3.list1">
+                <listIntroduction>In addition to any penalty that may be imposed under sub-section (1), the Adjudicating Officer may direct that -</listIntroduction>
+                <item id="section-17.3.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-17.3.list1.a.list0">
+                    <listIntroduction>the registration certificate of the fishing vessel which has been used, or caused or allowed to be used, in the manner referred to in sub-section (1) or the licence, any condition of which has been contravened, shall be -</listIntroduction>
+                    <item id="section-17.3.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>cancelled or revoked, as the case may be; or</p>
+                    </item>
+                    <item id="section-17.3.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>suspended for such period as the Adjudicating Officer deems fit; or</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-17.3.list1.b">
+                  <num>(b)</num>
+                  <p>the fishing vessel or fish that may have been impounded or seized as the case may be, under section 14 shall be forfeited to the State Government:</p>
+                </item>
+              </blockList>
+              <p>Provided that, no fishing vessel shall be forfeited under clause (b), if the Adjudicating Officer, after hearing the owner of such vessel or any person claiming any right thereto, is satisfied that the owner or such person had exercised due care for the prevention of the commission of such default.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Constitution of Appellate Board and appeals to Appellate Board.</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>In each District, the District Magistrate shall constitute the Appellate Board for the whole District.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may, whenever necessary, by notification in the Official Gazette, constitute one or more Appellate Board or Boards consisting of one member, for such area in the District as may be specified in the notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <p>Any person aggrieved by an order of the Adjudicating Officer may, within thirty days from the date on which the order is made, prefer an appeal to the Appellate Board, having jurisdiction to hear such appeal:</p>
+              <p>Provided that, the Appellate Board may entertain any appeal after the expiry of the said period of thirty days, but not after the expiry of sixty days from the date aforesaid, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.4">
+            <num>(4)</num>
+            <content>
+              <p>No appeal under this section shall be entertained by the Appellate Board, unless the appellant has, at the time of filing the appeal, deposited the amount of penalty payable under the order appealed against:</p>
+              <p>Provided that, on an application made by the appellant in this behalf, the Appellate Board may, if it is of the opinion that the deposit to be made under this sub-section will cause undue hardship to the appellant, by order in writing, dispense with such deposit, either unconditionally or subject to such conditions as it may deem fit to impose.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.5">
+            <num>(5)</num>
+            <content>
+              <blockList id="section-18.5.list1">
+                <listIntroduction>On receipt of an appeal under sub-section (4), the Appellate Board may, after holding such inquiry as it deems fit, and after giving the parties concerned a reasonable opportunity of being heard, confirm, modify or set aside the order appealed against and the decision of the Appellate Board shall be final; and</listIntroduction>
+                <item id="section-18.5.list1.a">
+                  <num>(a)</num>
+                  <p>if the sum deposited by way of penalty under sub-section (4) exceeds the penalty directed to be paid by the Appellate Board, the excess amount, or</p>
+                </item>
+                <item id="section-18.5.list1.b">
+                  <num>(b)</num>
+                  <p>if the Appellate Board sets aside the order imposing penalty, the whole of the sum deposited by way of penalty, shall be refunded to the appellant.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Revision by Appellate Board.</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The Appellate Board may call for an examination of the records of any order passed by an Adjudicating Officer under section 17 and against which no appeal has been preferred under section 18, for the purpose of satisfying itself as to the legality or propriety of such order or as to the regularity of the procedure and pass such order with respect thereto as it may think fit:</p>
+              <p>Provided that, no such order shall be made except after giving the person affected a reasonable opportunity of being heard in the matter.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Power of Adjudicating Officer and the Appellate Board in relation to holding inquiry under this Act.</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-20.1.list1">
+                <listIntroduction>The Adjudicating Officer and the Appellate Board shall, while holding an inquiry, have all the powers of a Civil Court under the Code of Civil Procedure, 1908, while trying a suit, in respect of the following matters, namely:-</listIntroduction>
+                <item id="section-20.1.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of witnesses and examining them on oath;</p>
+                </item>
+                <item id="section-20.1.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of any document;</p>
+                </item>
+                <item id="section-20.1.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-20.1.list1.d">
+                  <num>(d)</num>
+                  <p>requisitioning any public record or copy thereof from any Court or office;</p>
+                </item>
+                <item id="section-20.1.list1.e">
+                  <num>(e)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-20.1.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>The Adjudicating Officer or the Appellate Board shall, while exercising any power under this Act, be deemed to be a Civil Court for the purpose of sections 345 and 346 of the Code of Criminal Procedure, 1973.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>General provision for punishment of offences.</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Whoever contravenes any of the provisions of this Act or any order or rule made there under or any of the conditions of the licence, shall, without prejudice to any other action which may be taken against him under this Act, on conviction, be punished with fine, which may extend to one thousand rupees, and with further fine which may extend to fifty rupees for every day on which such contravention continues after the first conviction.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Offences by companies.</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that, nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company, and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any Director, Manager, Secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <blockList id="section-22.2.list2">
+                <listIntroduction>Explanation:- For the purposes of this section -</listIntroduction>
+                <item id="section-22.2.list2.a">
+                  <num>(a)</num>
+                  <p>“Company” means anybody corporate, and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-22.2.list2.b">
+                  <num>(b)</num>
+                  <p>“Director” in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Exemptions.</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>Nothing contained in this Act shall apply to survey vessels belonging to the Central Government or any State Government or any Public Undertakings.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>If the State Government is of the opinion that, having regard to the purposes of this Act, it would not be in the public interest to apply all or any of the provisions of this Act, to any class or classes of fishing vessels used for fishing in any specified area or specified areas, it may by notification in the Official Gazette, exempt, subject to such conditions as it may think fit to impose, such class or classes of fishing vessels used for fishing in such specified area or specified areas, and for such period or periods, as it may specify in the notification, from the operation of all or any of the provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Protection of action taken in good faith</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against the Government or any officer or authority for anything which is in good faith done or intended to be done in pursuance of this Act or any order or rule made there under.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>No suit or other legal proceeding shall lie against the Government or any officer or authority for any damage caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance of this Act or any order or rule made there under.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power to make rules.</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The power to make rules under this Act shall be exercisable by the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to any power to make rules contained elsewhere in this Act, the State Government may make rules consistent with this Act to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>All rules made under this Act shall be subject to the condition of previous publication.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.4">
+            <num>(4)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of the State Legislature, while it is in session, for a total period of thirty days, which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, and notify such decision in the Official Gazette, the rule shall, from the date of publication of such notification, have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Saving.</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Nothing in this Act shall apply to fishing and fisheries beyond territorial waters.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

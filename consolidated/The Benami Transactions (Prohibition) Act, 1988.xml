@@ -1,0 +1,2225 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1988/45/main"/>
+          <FRBRuri value="/in-union/act/1988/45"/>
+          <FRBRalias value="The Benami Transactions (Prohibition) Act, 1988"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1988/45/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1988/45/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1988/45/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1988/45/eng@1980-01-01"/>
+          <FRBRdate date="2017-05-09" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Benami Transactions (Prohibition) Act, 1988</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[5th September, 1988]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 45 of 1988</p>
+        <p>An Act to prohibit benami transactions and the right to recover property held benami for matters connected there with or incidental thereto.</p>
+        <p>be it enacted by Parliament in the Thirty-ninth Year of the Republic of India as follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>PRELIMINARY</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the 2Prohibition of Benami Property Transactions Act, 1988 (45 of 1988).</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>The provisions of sections 3, 5 and 8 shall come into force at once, and the remaining provisions of this Act shall be deemed to have come into force on the 19th day of May, 1988.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <p>In this Act, unless the context otherwise requires,-</p>
+            </content>
+          </paragraph>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <p>"Adjudicating Authority" means the Adjudicating Authority appointed under section 7;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>"Administrator" means an Income-tax Officer as defined in clause (25) of section 2 of the Income-tax Act, 1961 (43 of 1961);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.3">
+            <num>(3)</num>
+            <content>
+              <p>"Appellate Tribunal" means the Appellate Tribunal established under section 30;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.4">
+            <num>(4)</num>
+            <content>
+              <p>"Approving Authority" means an Additional Commissioner or a Joint Commissioner as defined in clauses (1C) and (28C) respectively of section 2 of the Income-tax Act, 1961 (43 of 1961);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.5">
+            <num>(5)</num>
+            <content>
+              <p>"attachment" means the prohibition of transfer, conversion, disposition or movement of property, by an order issued under this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.6">
+            <num>(6)</num>
+            <content>
+              <p>"authority" means an authority referred to in sub-section (1) of section 18;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.7">
+            <num>(7)</num>
+            <content>
+              <p>"banking company" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949), applies and includes any bank or banking institution referred to in section 51 of that Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.8">
+            <num>(8)</num>
+            <content>
+              <p>"benami property" means any property which is the subject matter of a benami transaction and also includes the proceeds from such property;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.9">
+            <num>(9)</num>
+            <content>
+              <blockList id="section-2.9.list1">
+                <listIntroduction>"benami transaction" means,-</listIntroduction>
+                <item id="section-2.9.list1.A">
+                  <num>(A)</num>
+                  <p>a transaction or an arrangement-</p>
+                </item>
+                <item id="section-2.9.list1.a">
+                  <num>(a)</num>
+                  <p>where a property is transferred to, or is held by, a person, and the consideration for such property has been provided, or paid by, another person; and</p>
+                </item>
+                <item id="section-2.9.list1.b">
+                  <num>(b)</num>
+                  <p>the property is held for the immediate or future benefit, direct or indirect, of the person who has provided the consideration,</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.9.list3">
+                <listIntroduction>except when the property is held by-</listIntroduction>
+                <item id="section-2.9.list3.i">
+                  <num>(i)</num>
+                  <p>a Karta, or a member of a Hindu undivided family, as the case may be, and the property is held for his benefit or benefit of other members in the family and the consideration for such property has been provided or paid out of the known sources of the Hindu undivided family;</p>
+                </item>
+                <item id="section-2.9.list3.ii">
+                  <num>(ii)</num>
+                  <p>a person standing in a fiduciary capacity for the benefit of another person towards whom he stands in such capacity and includes a trustee, executor, partner, director of a company, a depository or a participant as an agent of a depository under the Depositories Act, 1996 (22 of 1996) and any other person as may be notified by the Central Government for this purpose;</p>
+                </item>
+                <item id="section-2.9.list3.iii">
+                  <num>(iii)</num>
+                  <p>any person being an individual in the name of his spouse or in the name of any child of such individual and the consideration for such</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.9.list5">
+                <listIntroduction>property has been provided or paid out of the known sources of the individual;</listIntroduction>
+                <item id="section-2.9.list5.iv">
+                  <num>(iv)</num>
+                  <blockList id="section-2.9.list5.iv.list0">
+                    <listIntroduction>any person in the name of his brother or sister or lineal ascendant or descendant, where the names of brother or sister or lineal ascendant or descendant and the individual appear as joint-owners in any document, and the consideration for such property has been provided or paid out of the known sources of the individual; or</listIntroduction>
+                    <item id="section-2.9.list5.iv.list0.B">
+                      <num>(B)</num>
+                      <p>a transaction or an arrangement in respect of a property carried out or made in a fictitious name; or</p>
+                    </item>
+                    <item id="section-2.9.list5.iv.list0.C">
+                      <num>(C)</num>
+                      <p>a transaction or an arrangement in respect of a property where the owner of the property is not aware of, or, denies knowledge of, such ownership;</p>
+                    </item>
+                    <item id="section-2.9.list5.iv.list0.D">
+                      <num>(D)</num>
+                      <p>a transaction or an arrangement in respect of a property where the person providing the consideration is not traceable or is fictitious;</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-2.9.list7">
+                <listIntroduction>Explanation.-For the removal of doubts, it is hereby declared that benami transaction shall not include any transaction involving the allowing of possession of any property to be taken or retained in part performance of a contract referred to in section 53A of the Transfer of Property Act, 1882 (4 of 1882), if, under any law for the time being in force,-</listIntroduction>
+                <item id="section-2.9.list7.i">
+                  <num>(i)</num>
+                  <p>consideration for such property has been provided by the person to whom possession of property has been allowed but the person who has granted possession thereof continues to hold ownership of such property;</p>
+                </item>
+                <item id="section-2.9.list7.ii">
+                  <num>(ii)</num>
+                  <p>stamp duty on such transaction or arrangement has been paid; and</p>
+                </item>
+                <item id="section-2.9.list7.iii">
+                  <num>(iii)</num>
+                  <p>the contract has been registered.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.10">
+            <num>(10)</num>
+            <content>
+              <p>"benamidar" means a person or a fictitious person, as the case may be, in whose name the benami property is transferred or held and includes a person who lends his name;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.11">
+            <num>(11)</num>
+            <content>
+              <p>"Bench" means a Bench of the Adjudicating Authority or the Appellate Tribunal, as the case may be;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.12">
+            <num>(12)</num>
+            <content>
+              <p>"beneficial owner" means a person, whether his identity is known or not, for whose benefit the benami property is held by a benamidar;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.13">
+            <num>(13)</num>
+            <content>
+              <p>"Board" means the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.14">
+            <num>(14)</num>
+            <content>
+              <p>"director" shall have the same meaning as assigned to it in clause (34) of section 2 of the Companies Act, 2013 (18 of 2013);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.15">
+            <num>(15)</num>
+            <content>
+              <p>"executor" shall have the same meaning as assigned to it in clause (c) of section 2 of the Indian Succession Act, 1925 (39 of 1925);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.16">
+            <num>(16)</num>
+            <content>
+              <blockList id="section-2.16.list1">
+                <listIntroduction>"fair market value", in relation to a property, means-</listIntroduction>
+                <item id="section-2.16.list1.i">
+                  <num>(i)</num>
+                  <p>the price that the property would ordinarily fetch on sale in the open market on the date of the transaction; and</p>
+                </item>
+                <item id="section-2.16.list1.ii">
+                  <num>(ii)</num>
+                  <p>where the price referred to in sub-clause (i) is not ascertainable, such price as may be determined in accordance with such manner as may be prescribed;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.17">
+            <num>(17)</num>
+            <content>
+              <p>"firm" shall have the same meaning as assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932) and shall include a limited liability partnership as defined in the Limited Liability Partnership Act, 2008 (6 of 2009);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.18">
+            <num>(18)</num>
+            <content>
+              <blockList id="section-2.18.list1">
+                <listIntroduction>"High Court" means-</listIntroduction>
+                <item id="section-2.18.list1.i">
+                  <num>(i)</num>
+                  <p>the High Court within the jurisdiction of which the aggrieved party ordinarily resides or carries on business or personally works for gain; and</p>
+                </item>
+                <item id="section-2.18.list1.ii">
+                  <num>(ii)</num>
+                  <p>where the Government is the aggrieved party, the High Court within the jurisdiction of which the respondent, or in a case where there are more than one respondent, any of the respondents, ordinarily resides or carries on business or personally works for gain;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.19">
+            <num>(19)</num>
+            <content>
+              <p>"Initiating Officer" means an Assistant Commissioner or a Deputy Commissioner as defined in clauses (9A) and (19A) respectively of section 2 of the Income-tax Act, 1961 (43 of 1961);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.20">
+            <num>(20)</num>
+            <content>
+              <p>"Member" means the Chairperson or the Member of the Adjudicating Authority or the Appellate Tribunal, as the case may be;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.21">
+            <num>(21)</num>
+            <content>
+              <p>"notification" means a notification published in the Official Gazette and the expression "notified" shall be construed accordingly;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.22">
+            <num>(22)</num>
+            <content>
+              <blockList id="section-2.22.list1">
+                <listIntroduction>"partner" shall have the same meaning as assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932), and shall include,-</listIntroduction>
+                <item id="section-2.22.list1.a">
+                  <num>(a)</num>
+                  <p>any person who, being a minor, has been admitted to the benefits of partnership; and</p>
+                </item>
+                <item id="section-2.22.list1.b">
+                  <num>(b)</num>
+                  <p>a partner of a limited liability partnership formed and registered under the Limited Liability Partnership Act, 2008(6 of 2009);</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.23">
+            <num>(23)</num>
+            <content>
+              <p>"partnership" shall have the same meaning as assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932), and shall include a limited liability partnership formed and registered under the Limited Liability Partnership Act, 2008 (6 of 2009);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.24">
+            <num>(24)</num>
+            <content>
+              <blockList id="section-2.24.list1">
+                <listIntroduction>"person" shall include-</listIntroduction>
+                <item id="section-2.24.list1.i">
+                  <num>(i)</num>
+                  <p>an individual;</p>
+                </item>
+                <item id="section-2.24.list1.ii">
+                  <num>(ii)</num>
+                  <p>a Hindu undivided family;</p>
+                </item>
+                <item id="section-2.24.list1.iii">
+                  <num>(iii)</num>
+                  <p>a company;</p>
+                </item>
+                <item id="section-2.24.list1.iv">
+                  <num>(iv)</num>
+                  <p>a firm;</p>
+                </item>
+                <item id="section-2.24.list1.v">
+                  <num>(v)</num>
+                  <p>an association of persons or a body of individuals, whether incorporated or not;</p>
+                </item>
+                <item id="section-2.24.list1.vi">
+                  <num>(vi)</num>
+                  <p>every artificial juridical person, not falling under sub-clauses (i) to (v);</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.25">
+            <num>(25)</num>
+            <content>
+              <p>"prescribed" means prescribed by rules made under this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.26">
+            <num>(26)</num>
+            <content>
+              <p>"property" means assets of any kind, whether movable or immovable, tangible or intangible, corporeal or incorporeal and includes any right or interest or legal documents or instruments evidencing title to or interest in the property and where the property is capable of conversion into some other form, then the property in the converted form and also includes the proceeds from the property;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.27">
+            <num>(27)</num>
+            <content>
+              <p>"public financial institution" shall have the same meaning as assigned to it in clause (72) of section 2 of the Companies Act, 2013 (18 of 2013);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.28">
+            <num>(28)</num>
+            <content>
+              <p>"Special Court" means a Court of Session designated as Special Court under sub-section (1) of section 50;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.29">
+            <num>(29)</num>
+            <content>
+              <p>"transfer" includes sale, purchase or any other form of transfer of right, title, possession or lien;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.30">
+            <num>(30)</num>
+            <content>
+              <p>"trustee" means the trustee as defined in the section 3 of the Indian Trusts Act, 1882 (2 of 1882);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.31">
+            <num>(31)</num>
+            <content>
+              <p>words and expressions used herein and not defined in this Act but defined in the Indian Trusts Act, 1882 (2 of 1882), the Indian Succession Act, 1925 (39 of 1925), the Indian Partnership Act, 1932 (9 of 1932), the Income-tax Act, 1961 (43 of 1961), the Depositories Act, 1996 (22 of 1996), the Prevention of Money-Laundering Act, 2002 (15 of 2003), the Limited Liability Partnership Act, 2008 (6 of 2009) and the Companies Act, 2013 (18 of 2013), shall have the same meanings respectively assigned to them in those Acts.'</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Prohibition of benami transactions</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Prohibition of benami transactions</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>No person shall enter into any benami transaction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever enters into any benami transaction shall be punishable with imprisonment for a term which may extend to three years or with fine or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>Whoever enters into any benami transaction on and after the date of commencement of the Benami Transactions (Prohibition) Amendment Act, 2016, shall, notwithstanding anything contained in sub-section (2), be punishable in accordance with the provisions contained in Chapter VII.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Prohibition of the right to recover property held benami</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>No suit, claim or action to enforce any right in respect of any property held benami against the person in whose name the property is held or against any other person shall lie by or on behalf of a person claiming to be the real owner of such property.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>No defence based on any right in respect of any property held benami, whether against the person in whose name the property is held or against any other person, shall be allowed in any suit, claim or action by or on behalf of a person claiming to be the real owner of such property.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Property held benami liable to confiscation.</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Any property, which is subject matter of benami transaction, shall be liable to be confiscated by the Central Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Prohibition on re-transfer of property by benamidar.</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>No person, being a benamidar shall re-transfer the benami property held by him to the beneficial owner or any other person acting on his behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any property is re-transferred in contravention of the provisions of sub-section (1), the transaction of such property shall be deemed to be null and void.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>The provisions of sub-sections (1) and (2) shall not apply to a transfer made in accordance with the provisions of section 190 of the Finance Act, 2016 (28 of 2016).".</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Authorities</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Adjudicating Authority</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>The Central Government shall, by notification, appoint one or more Adjudicating Authorities to exercise jurisdiction, powers and authority conferred by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Composition of Authority</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>An Adjudicating Authority shall consist of a Chairperson and at least two other Members.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Qualifications for appointment of Chairperson and Members</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-9.1.list1">
+                <listIntroduction>A person shall not be qualified for appointment as the Chairperson or a Member of the Adjudicating Authority unless he,-</listIntroduction>
+                <item id="section-9.1.list1.a">
+                  <num>(a)</num>
+                  <p>has been a member of the Indian Revenue Service and has held the post of Commissioner of Income-tax or equivalent post in that Service; or</p>
+                </item>
+                <item id="section-9.1.list1.b">
+                  <num>(b)</num>
+                  <p>has been a member of the Indian Legal Service and has held the post of Joint Secretary or equivalent post in that Service.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson and other Members of the Adjudicating Authority shall be appointed by the Central Government in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government shall appoint the seniormost Member to be the Chairperson of the Adjudicating Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Constitution of Benches of Adjudicating Authority</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-10.1.list1">
+                <listIntroduction>Subject to the provisions of this Act,-</listIntroduction>
+                <item id="section-10.1.list1.a">
+                  <num>(a)</num>
+                  <p>the jurisdiction of the Adjudicating Authority may be exercised by Benches thereof;</p>
+                </item>
+                <item id="section-10.1.list1.b">
+                  <num>(b)</num>
+                  <p>a Bench may be constituted by the Chairperson of the Adjudicating Authority with two Members, as the Chairperson may deem fit;</p>
+                </item>
+                <item id="section-10.1.list1.c">
+                  <num>(c)</num>
+                  <p>the Benches of the Adjudicating Authority shall ordinarily sit in the National Capital Territory of Delhi and at such other places as the Central Government may, in consultation with the Chairperson, by notification, specify;</p>
+                </item>
+                <item id="section-10.1.list1.d">
+                  <num>(d)</num>
+                  <p>the Central Government shall, by notification, specify the areas in relation to which each Bench of the Adjudicating Authority may exercise jurisdiction.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), the Chairperson may transfer a Member from one Bench to another Bench.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power of Adjudicating Authority to regulate its own procedure</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>The Adjudicating Authority shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Authority shall have powers to regulate its own procedure.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Term of office of Chairperson and Members of Adjudicating Authority</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The Chairperson and Members of the Adjudicating Authority shall hold office for a term not exceeding five years from the date on which they enter upon their office, or until they attain the age of sixty-two years, whichever is earlier and shall not be eligible for reappointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Terms and conditions of services of Chairperson and Members of Adjudicating Authority</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>The salary and allowances payable to, and the other terms and conditions of service of the Chairperson and other Members of the Adjudicating Authority shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>Any vacancy caused to the office of the Chairperson or any other Member shall be filled up within a period of three months from the date on which such vacancy occurs.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Removal of Chairperson and Members of Adjudicating Authority</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>The Central Government may, by order, remove from office, the Chairperson or other Members of the Adjudicating Authority, if the Chairperson or such other Member, as the case may be,-</listIntroduction>
+                <item id="section-14.1.list1.a">
+                  <num>(a)</num>
+                  <p>has been adjudged as an insolvent; or</p>
+                </item>
+                <item id="section-14.1.list1.b">
+                  <num>(b)</num>
+                  <p>has been convicted of an offence, involving moral turpitude; or</p>
+                </item>
+                <item id="section-14.1.list1.c">
+                  <num>(c)</num>
+                  <p>has become physically or mentally incapable of acting as a Member; or</p>
+                </item>
+                <item id="section-14.1.list1.d">
+                  <num>(d)</num>
+                  <p>has acquired such financial or other interest as is likely to affect prejudicially his functions; or</p>
+                </item>
+                <item id="section-14.1.list1.e">
+                  <num>(e)</num>
+                  <p>has so abused his position as to render his continuance in office is prejudicial to the public interest.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>No Chairperson or Member shall be removed from his office under clause (d) or clause (e) of sub-section (1) unless he has been given a reasonable opportunity of being heard in the matter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Member to act as Chairperson in certain circumstances</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>In the event of the occurrence of any vacancy in the office of the Chairperson by reason of his death, resignation or otherwise, the senior most Member shall act as the Chairperson of the Adjudicating Authority until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>When the Chairperson is unable to discharge his functions owing to absence, illness or any other cause, the senior most Member shall discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings of Adjudicating Authority</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <blockList id="section-16.paragraph-0.list1">
+                <listIntroduction>No act or proceeding of the Adjudicating Authority shall be invalid merely by reason of-</listIntroduction>
+                <item id="section-16.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of the Authority; or</p>
+                </item>
+                <item id="section-16.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person acting as a Member of the Authority; or</p>
+                </item>
+                <item id="section-16.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Authority not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Officers and employees of Adjudicating Authority</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall provide each Adjudicating Authority with such officers and employees as that Government may think fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The officers and employees of the Adjudicating Authority shall discharge their functions under the general superintendence of the Chairperson of the Adjudicating Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Authorities and jurisdiction</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-18.1.list1">
+                <listIntroduction>The following shall be the authorities for the purposes of this Act, namely:-</listIntroduction>
+                <item id="section-18.1.list1.a">
+                  <num>(a)</num>
+                  <p>the Initiating Officer;</p>
+                </item>
+                <item id="section-18.1.list1.b">
+                  <num>(b)</num>
+                  <p>the Approving Authority;</p>
+                </item>
+                <item id="section-18.1.list1.c">
+                  <num>(c)</num>
+                  <p>the Administrator; and</p>
+                </item>
+                <item id="section-18.1.list1.d">
+                  <num>(d)</num>
+                  <p>the Adjudicating Authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The authorities shall exercise all or any of the powers and perform all or any of the functions conferred on, or, assigned, as the case may be, to it under this Act or in accordance with such rules as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Powers of authorities</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-19.1.list1">
+                <listIntroduction>The authorities shall, for the purposes of this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit in respect of the following matters, namely:-</listIntroduction>
+                <item id="section-19.1.list1.a">
+                  <num>(a)</num>
+                  <p>discovery and inspection;</p>
+                </item>
+                <item id="section-19.1.list1.b">
+                  <num>(b)</num>
+                  <p>enforcing the attendance of any person, including any official of a banking company or a public financial institution or any other intermediary or reporting entity, and examining him on oath;</p>
+                </item>
+                <item id="section-19.1.list1.c">
+                  <num>(c)</num>
+                  <p>compelling the production of books of account and other documents;</p>
+                </item>
+                <item id="section-19.1.list1.d">
+                  <num>(d)</num>
+                  <p>issuing commissions;</p>
+                </item>
+                <item id="section-19.1.list1.e">
+                  <num>(e)</num>
+                  <p>receiving evidence on affidavits; and</p>
+                </item>
+                <item id="section-19.1.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>All the persons summoned under sub-section (1) shall be bound to attend in person or through authorised agents, as any authority under this Act may direct, and shall be bound to state the truth upon any subject respecting which they are examined or make statements, and produce such documents as may be required.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>Every proceeding under sub-section (1) or sub-section (2) shall be deemed to be a judicial proceeding within the meaning of section 193 and section 228 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>For the purposes of this Act, any authority under this Act may requisition the service of any police officer or of any officer of the Central Government or State Government or of both to assist him for all or any of the purposes specified in sub-section (1), and it shall be the duty of every such officer to comply with the requisition or direction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.5">
+            <num>(5)</num>
+            <content>
+              <p>For the purposes of this section, "reporting entity" means any intermediary or any authority or of the Central or the State Government or any other person as may be notified in this behalf.</p>
+              <p>Explanation.-For the purposes of sub-section (5), "intermediary" shall have the same meaning as assigned to it in clause (n) of sub-section (1) of section 2 of the Prevention of Money-Laundering Act, 2002 (15 of 2003).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Certain officers to assist in inquiry, etc.</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <blockList id="section-20.paragraph-0.list1">
+                <listIntroduction>The following officers shall assist the authorities in the enforcement of this Act, namely:-</listIntroduction>
+                <item id="section-20.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>income-tax authorities appointed under sub-section (1) of section 117 of the Income- tax Act, 1961 (43 of 1961);</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>officers of the Customs and Central Excise Departments;</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>officers appointed under sub-section (1) of section 5 of the Narcotic Drugs and Psychotropic Substances Act, 1985 (61 of 1985);</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>officers of the stock exchange recognised under section 4 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>officers of the Reserve Bank of India constituted under sub-section (1) of section 3 of the Reserve Bank of India Act, 1934 (2 of 1934);</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>police;</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>officers of enforcement appointed under sub-section (1) of section 36 of the Foreign Exchange Management Act, 1999 (40 of 1999);</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>officers of the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>officers of any other body corporate constituted or established under a Central or a State Act; and</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>such other officers of the Central Government, State Government, local authorities or banking companies as the Central Government may, by notification, specify, in this behalf.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Power to call for information</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>The Initiating Officer or the Approving Authority or the Adjudicating Authority shall have power to require any officer of the Central Government or State Government or a local body or any person or officer who is responsible for registering and maintaining books of account or other documents containing a record of any transaction relating to any property or any other person to furnish any information in relation to any person, point or matter as in his opinion shall be useful for or relevant for the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to sub-section (1), every officer or person referred to in sub-section (1) shall furnish such information to any authority under this Act in such form and manner as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Power of authority to impound documents</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any books of account or other documents are produced before the authority in any proceedings under this Act and the authority in this behalf has reason to believe that any of the books of account or other documents are required to be impounded and retained for any inquiry under this Act, it may impound and retain the books of account or other documents for a period not exceeding three months from the date of order of attachment made by the Adjudicating Authority under sub-section (3) of section 26:</p>
+              <p>Provided that the period for retention of the books of account or other documents may be extended beyond a period exceeding three months from the date of order of attachment made by the Adjudicating Authority under sub-section (3) of section 26 where the authority records in writing the reasons for extending the same.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the authority impounding and retaining the books of account or other documents, under sub-section (1) is the Initiating Officer, he shall obtain approval of the Approving Authority within a period of fifteen days from the date of initial impounding and seek further approval of the Approving Authority for extending the period of initial retention, before the expiry of the period of initial retention, if so required.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>The period of retention of the books of account or other documents under sub-section (1) shall in no case exceed a period of thirty days from the date of conclusion of all the proceedings under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.4">
+            <num>(4)</num>
+            <content>
+              <p>The person, from whom the books of account or other documents were impounded under sub-section (1), shall be entitled to obtain copies thereof.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.5">
+            <num>(5)</num>
+            <content>
+              <p>On the expiry of the period specified under sub-section (1), the books of account or other documents shall be returned to the person from whom such books of account or other documents were impounded unless the Approving Authority or the Adjudicating Authority permits their release to any other person.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Power of authority to conduct inquiry, etc</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>The Initiating Officer, after obtaining prior approval of the Approving Authority, shall have power to conduct or cause to be conducted any inquiry or investigation in respect of any person, place, property, assets, documents, books of account or other documents, in respect of any other relevant matters under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Attachment, adjudication and confiscation</heading>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Notice and attachment of property involved in benami transaction</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Initiating Officer, on the basis of material in his possession, has reason to believe that any person is a benamidar in respect of a property, he may, after recording reasons in writing, issue a notice to the person to show cause within such time as may be specified in the notice why the property should not be treated as benami property.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a notice under sub-section (1) specifies any property as being held by a benamidar referred to in that sub-section, a copy of the notice shall also be issued to the beneficial owner if his identity is known.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the Initiating Officer is of the opinion that the person in possession of the property held benami may alienate the property during the period specified in the notice, he may, with the previous approval of the Approving Authority, by order in writing, attach provisionally the property in the manner as may be prescribed, for a period not exceeding ninety days from the date of issue of notice under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-24.4.list1">
+                <listIntroduction>The Initiating Officer, after making such inquires and calling for such reports or evidence as he deems fit and taking into account all relevant materials, shall, within a period of ninety days from the date of issue of notice under sub-section (1),-</listIntroduction>
+                <item id="section-24.4.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-24.4.list1.a.list0">
+                    <listIntroduction>where the provisional attachment has been made under sub-section (3), -</listIntroduction>
+                    <item id="section-24.4.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>pass an order continuing the provisional attachment of the property with the prior approval of the Approving Authority, till the passing of the order by the Adjudicating Authority under sub-section (3) of section 26; or</p>
+                    </item>
+                    <item id="section-24.4.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>revoke the provisional attachment of the property with the prior approval of the Approving Authority;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-24.4.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-24.4.list1.b.list1">
+                    <listIntroduction>where provisional attachment has not been made under sub-section (3),-</listIntroduction>
+                    <item id="section-24.4.list1.b.list1.i">
+                      <num>(i)</num>
+                      <p>pass an order provisionally attaching the property with the prior approval of the Approving Authority, till the passing of the order by the Adjudicating Authority under sub-section (3) of section 26; or</p>
+                    </item>
+                    <item id="section-24.4.list1.b.list1.ii">
+                      <num>(ii)</num>
+                      <p>decide not to attach the property as specified in the notice, with the prior approval of the Approving Authority.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-24.5">
+            <num>(5)</num>
+            <content>
+              <p>Where the Initiating Officer passes an order continuing the provisional attachment of the property under sub-clause (i) of clause (a) of sub-section (4) or passes an order provisionally attaching the property under sub-clause (i) of clause (b) of that sub-section, he shall, within fifteen days from the date of the attachment, draw up a statement of the case and refer it to the Adjudicating Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Manner of service of notice</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>A notice under sub-section (1) of section 24 may be served on the person named therein either by post or as if it were a summons issued by a Court under the Code of Civil Procedure, 1908 (5 of 1908).</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-25.2.list1">
+                <listIntroduction>Any notice referred to in sub-section (1) may be addressed-</listIntroduction>
+                <item id="section-25.2.list1.i">
+                  <num>(i)</num>
+                  <p>in case of an individual, to such individual;</p>
+                </item>
+                <item id="section-25.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>in the case of a firm, to the managing partner or the manager of the firm;</p>
+                </item>
+                <item id="section-25.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>in the case of a Hindu undivided family, to Karta or any member of such family;</p>
+                </item>
+                <item id="section-25.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>in the case of a company, to the principal officer thereof;</p>
+                </item>
+                <item id="section-25.2.list1.v">
+                  <num>(v)</num>
+                  <p>in the case of any other association or body of individuals, to the principal officer or any member thereof;</p>
+                </item>
+                <item id="section-25.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>in the case of any other person (not being an individual), to the person who manages or controls his affairs.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Adjudication of benami property</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-26.1.list1">
+                <listIntroduction>On receipt of a reference under sub-section (5) of section 24, the Adjudicating Authority shall issue notice, to furnish such documents, particulars or evidence as is considered necessary on a date to be specified therein, on the following persons, namely:-</listIntroduction>
+                <item id="section-26.1.list1.a">
+                  <num>(a)</num>
+                  <p>the person specified as a benamidar therein;</p>
+                </item>
+                <item id="section-26.1.list1.b">
+                  <num>(b)</num>
+                  <p>any person referred to as the beneficial owner therein or identified as such;</p>
+                </item>
+                <item id="section-26.1.list1.c">
+                  <num>(c)</num>
+                  <p>any interested party, including a banking company;</p>
+                </item>
+                <item id="section-26.1.list1.d">
+                  <num>(d)</num>
+                  <p>any person who has made a claim in respect of the property:</p>
+                </item>
+              </blockList>
+              <p>Provided that the Adjudicating Authority shall issue notice within a period of thirty days from the date on which a reference has been received:</p>
+              <p>Provided further that the notice shall provide a period of not less than thirty days to the person to whom the notice is issued to furnish the information sought.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the property is held jointly by more than one person, the Adjudicating Authority shall make all endeavours to serve notice to all persons holding the property:</p>
+              <p>Provided that where the notice is served on anyone of the persons, the service of notice shall not be invalid on the ground that the said notice was not served to all the persons holding the property.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-26.3.list1">
+                <listIntroduction>The Adjudicating Authority shall, after-</listIntroduction>
+                <item id="section-26.3.list1.a">
+                  <num>(a)</num>
+                  <p>considering the reply, if any, to the notice issued under sub-section (1);</p>
+                </item>
+                <item id="section-26.3.list1.b">
+                  <num>(b)</num>
+                  <p>making or causing to be made such inquiries and calling for such reports or evidence as it deems fit; and</p>
+                </item>
+                <item id="section-26.3.list1.c">
+                  <num>(c)</num>
+                  <p>taking into account all relevant materials,</p>
+                </item>
+              </blockList>
+              <blockList id="section-26.3.list3">
+                <listIntroduction>provide an opportunity of being heard to the person specified as a benamidar therein, the Initiating Officer, and any other person who claims to be the owner of the property, and, thereafter, pass an order-</listIntroduction>
+                <item id="section-26.3.list3.i">
+                  <num>(i)</num>
+                  <p>holding the property not to be a benami property and revoking the attachment order; or</p>
+                </item>
+                <item id="section-26.3.list3.ii">
+                  <num>(ii)</num>
+                  <p>holding the property to be a benami property and confirming the attachment order, in all other cases.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-26.4">
+            <num>(4)</num>
+            <content>
+              <p>Where the Adjudicating Authority is satisfied that some part of the properties in respect of which reference has been made to him is benami property, but is not able to specifically identify such part, he shall record a finding to the best of his judgment as to which part of the properties is held benami.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.5">
+            <num>(5)</num>
+            <content>
+              <p>Where in the course of proceedings before it, the Adjudicating Authority has reason to believe that a property, other than a property referred to it by the Initiating Officer is benami property, it shall provisionally attach the property and the property shall be deemed to be a property referred to it on the date of receipt of the reference under sub-section (5) of section 24.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.6">
+            <num>(6)</num>
+            <content>
+              <p>The Adjudicating Authority may, at any stage of the proceedings, either on the application of any party, or suo motu, strike out the name of any party improperly joined or add the name of any person whose presence before the Adjudicating Authority may be necessary to enable him to adjudicate upon and settle all the questions involved in the reference.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.7">
+            <num>(7)</num>
+            <content>
+              <p>No order under sub-section (3) shall be passed after the expiry of one year from the end of the month in which the reference under sub-section (5) of section 24 was received.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.8">
+            <num>(8)</num>
+            <content>
+              <p>The benamidar or any other person who claims to be the owner of the property may either appear in person or take the assistance of an authorised representative of his choice to present his case.</p>
+              <blockList id="section-26.8.list2">
+                <listIntroduction>Explanation.-For the purposes of sub-section (8), authorised representative means a person authorised in writing, being-</listIntroduction>
+                <item id="section-26.8.list2.i">
+                  <num>(i)</num>
+                  <p>a person related to the benamidar or such other person in any manner, or a person regularly employed by the benamidar or such other person as the case may be; or</p>
+                </item>
+                <item id="section-26.8.list2.ii">
+                  <num>(ii)</num>
+                  <p>any officer of a scheduled bank with which the benamidar or such other person maintains an account or has other regular dealings; or</p>
+                </item>
+                <item id="section-26.8.list2.iii">
+                  <num>(iii)</num>
+                  <p>any legal practitioner who is entitled to practice in any civil court in India; or</p>
+                </item>
+                <item id="section-26.8.list2.iv">
+                  <num>(iv)</num>
+                  <p>any person who has passed any accountancy examination recognised in this behalf by the Board; or</p>
+                </item>
+                <item id="section-26.8.list2.v">
+                  <num>(v)</num>
+                  <p>any person who has acquired such educational qualifications as the Board may prescribe for this purpose.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Confiscation and vesting of benami property</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an order is passed in respect of any property under sub-section (3) of section 26 holding such property to be a benami property, the Adjudicating Authority shall, after giving an opportunity of being heard to the person concerned, make an order confiscating the property held to be a benami property:</p>
+              <p>Provided that where an appeal has been filed against the order of the Adjudicating Authority, the confiscation of property shall be made subject to the order passed by the Appellate Tribunal under section 46:</p>
+              <p>Provided further that the confiscation of the property shall be made in accordance with such procedure as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in sub-section (1) shall apply to a property held or acquired by a person from the benamidar for adequate consideration, prior to the issue of notice under sub-section (1) of section 24 without his having knowledge of the benami transaction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>Where an order of confiscation has been made under sub-section (1), all the rights and title in such property shall vest absolutely in the Central Government free of all encumbrances and no compensation shall be payable in respect of such confiscation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.4">
+            <num>(4)</num>
+            <content>
+              <p>Any right of any third person created in such property with a view to defeat the purposes of this Act shall be null and void.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.5">
+            <num>(5)</num>
+            <content>
+              <p>Where no order of confiscation is made upon the proceedings under this Act attaining finality, no claim shall lie against the Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Management of properties confiscated</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>The Administrator shall have the power to receive and manage the property, in relation to which an order of confiscation under sub-section (1) of section 27 has been made, in such manner and subject to such conditions, as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government may, by order published in the Official Gazette, notify as many of its officers as it thinks fit, to perform the functions of Administrators.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <p>The Administrator shall also take such measures, as the Central Government may direct, to dispose of the property which is vested in the Central Government under sub-section (3) of section 27, in such manner and subject to such conditions as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Possession of the property</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an order of confiscation in respect of a property under sub-section (1) of section 27, has been made, the Administrator shall proceed to take the possession of the property.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-29.2.list1">
+                <listIntroduction>The Administrator shall,-</listIntroduction>
+                <item id="section-29.2.list1.a">
+                  <num>(a)</num>
+                  <p>by notice in writing, order within seven days of the date of the service of notice to any person, who may be in possession of the benami property, to surrender or deliver possession thereof to the Administrator or any other person duly authorised in writing by him in this behalf;</p>
+                </item>
+                <item id="section-29.2.list1.b">
+                  <num>(b)</num>
+                  <p>in the event of non-compliance of the order referred to in clause (a), or if in his opinion, taking over of immediate possession is warranted, for the purpose of forcibly taking over possession, requisition the service of any police officer to assist him and it shall be the duty of the officer to comply with the requisition.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Appellate tribunal</heading>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Establishment of Appellate Tribunal</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>The Central Government shall, by notification, establish an Appellate Tribunal to hear appeals against the orders of the Adjudicating Authority under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Composition, etc., of Appellate Tribunal</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The Appellate Tribunal shall consist of a Chairperson and at least two other Members of which one shall be a Judicial Member and other shall be an Administrative Member.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-31.2.list1">
+                <listIntroduction>Subject to the provisions of this Act,-</listIntroduction>
+                <item id="section-31.2.list1.a">
+                  <num>(a)</num>
+                  <p>the jurisdiction of the Appellate Tribunal may be exercised by Benches thereof;</p>
+                </item>
+                <item id="section-31.2.list1.b">
+                  <num>(b)</num>
+                  <p>a Bench may be constituted by the Chairperson with two Members as the Chairperson may deem fit;</p>
+                </item>
+                <item id="section-31.2.list1.c">
+                  <num>(c)</num>
+                  <p>the Benches of the Appellate Tribunal shall ordinarily sit in the National Capital Territory of Delhi and at such other places as the Central Government may, in consultation with the Chairperson, by notification, specify;</p>
+                </item>
+                <item id="section-31.2.list1.d">
+                  <num>(d)</num>
+                  <p>the Central Government shall, by notification, specify the areas in relation to which each Bench of the Appellate Tribunal may exercise its jurisdiction.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (2), the Chairperson may transfer a Member from one Bench to another Bench.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Qualifications for appointment of Chairperson and Members of Appellate Tribunal</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as Chairperson of the Appellate Tribunal unless he is a sitting or retired Judge of a High Court, who has completed not less than five years' of service.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-32.2.list1">
+                <listIntroduction>A person shall not be qualified for appointment as a Member unless he-</listIntroduction>
+                <item id="section-32.2.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of a Judicial Member, has been a Member of the Indian Legal Service and has held the post of Additional Secretary or equivalent post in that Service;</p>
+                </item>
+                <item id="section-32.2.list1.b">
+                  <num>(b)</num>
+                  <p>in the case of an Administrative Member, has been a Member of the Indian Revenue Service and has held the post of Chief Commissioner of Income-tax or equivalent post in that Service.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-32.3">
+            <num>(3)</num>
+            <content>
+              <p>No sitting Judge of a High Court shall be appointed under this section except after consultation with the Chief Justice of the High Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.4">
+            <num>(4)</num>
+            <content>
+              <p>The Chairperson or a Member holding a post as such in any other Tribunal, established under any law for the time being in force, in addition to his being the Chairperson or a Member of that Tribunal, may be appointed as the Chairperson or a Member, as the case may be, of the Appellate Tribunal under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Terms and conditions of services of Chairperson and Members of Appellate Tribunal</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>The salary and allowances payable to, and the other terms and conditions of service of the Chairperson and other Members shall be such as may be prescribed and shall not be varied to their disadvantage during their tenure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>Any vacancy caused to the office of the Chairperson or any other Member shall be filled up within a period of three months from the date on which such vacancy occurs.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Term of office of Chairperson and Members</heading>
+          <paragraph id="section-34.paragraph-0">
+            <content>
+              <p>The Chairperson and Members of the Appellate Tribunal shall hold office for a term not exceeding five years from the date on which they enter upon their office, or until they attain the age of sixty-five years, whichever is earlier and shall not be eligible for reappointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Removal of Chairperson and Member from office in certain circumstances</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-35.1.list1">
+                <listIntroduction>The Central Government may, in consultation with the Chief Justice of High Court, remove from office of the Chairperson or any Member, who-</listIntroduction>
+                <item id="section-35.1.list1.a">
+                  <num>(a)</num>
+                  <p>has been adjudged as an insolvent; or</p>
+                </item>
+                <item id="section-35.1.list1.b">
+                  <num>(b)</num>
+                  <p>has been convicted of an offence which, in the opinion of the Central Government involves moral turpitude; or</p>
+                </item>
+                <item id="section-35.1.list1.c">
+                  <num>(c)</num>
+                  <p>has become physically or mentally incapable; or</p>
+                </item>
+                <item id="section-35.1.list1.d">
+                  <num>(d)</num>
+                  <p>has acquired such financial or other interest as is likely to affect prejudicially his functions; or</p>
+                </item>
+                <item id="section-35.1.list1.e">
+                  <num>(e)</num>
+                  <p>has so abused his position as to render his continuance in office prejudicial to the public interest.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson or Judicial Member shall not be removed from his office except by an order made by the Central Government after an inquiry made by Chief Justice of the High Court in which the Chairperson or Judicial Member has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may suspend from office the Chairperson or Judicial Member in respect of whom a reference of conducting an inquiry has been made to the Chief Justice of the High Court under sub-section (2), until the Central Government passes an order on receipt of the report of inquiry made by Chief Justice of the High Court on the reference.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government may regulate the procedure for inquiry referred to in sub-section (2) in the manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.5">
+            <num>(5)</num>
+            <content>
+              <p>The Administrative Member may be removed from his office by an order of the Central Government on the grounds specified in sub-section (1) and in accordance with the procedure notified by the Central Government:</p>
+              <p>Provided that the Administrative Member shall not be removed unless he has been given an opportunity of being heard in the matter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings of Appellate Tribunal</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <blockList id="section-36.paragraph-0.list1">
+                <listIntroduction>No act or proceeding of the Appellate Tribunal shall be invalid merely by reason of-</listIntroduction>
+                <item id="section-36.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of the Tribunal; or</p>
+                </item>
+                <item id="section-36.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person acting as a Member of the Tribunal; or</p>
+                </item>
+                <item id="section-36.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Tribunal not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Resignation and removal</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>The Chairperson or any other Member may, by notice in writing under his hand addressed to the Central Government, resign his office:</p>
+              <p>Provided that the Chairperson or any other Member shall, unless he is permitted by the Central Government to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of the notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is earlier.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Member to act as Chairperson in certain circumstances</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>In the event of the occurrence of any vacancy in the office of the Chairperson of the Appellate Tribunal by reason of his death, resignation or otherwise, the senior-most Member shall act as the Chairperson until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>When the Chairperson is unable to discharge his functions owing to absence, illness or any other cause, the senior-most Member shall discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Staff of Appellate Tribunal</heading>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall provide the Appellate Tribunal with such officers and employees as it may thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <p>The officers and employees of the Appellate Tribunal shall discharge their functions under the general superintendence of the Chairperson.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.3">
+            <num>(3)</num>
+            <content>
+              <p>The salaries and allowances and other conditions of service of the officers and employees of the Appellate Tribunal shall be such, as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Procedure and powers of Appellate Tribunal</heading>
+          <subsection id="section-40.1">
+            <num>(1)</num>
+            <content>
+              <p>The Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Appellate Tribunal shall have powers to regulate its own procedure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-40.2.list1">
+                <listIntroduction>The Appellate Tribunal shall, for the purposes of discharging its functions under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit, in respect of the following matters, namely:-</listIntroduction>
+                <item id="section-40.2.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-40.2.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of documents;</p>
+                </item>
+                <item id="section-40.2.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-40.2.list1.d">
+                  <num>(d)</num>
+                  <p>subject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872 (1 of 1872), requisitioning any public record or document or copy of such record or document from any office;</p>
+                </item>
+                <item id="section-40.2.list1.e">
+                  <num>(e)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-40.2.list1.f">
+                  <num>(f)</num>
+                  <p>reviewing its decisions;</p>
+                </item>
+                <item id="section-40.2.list1.g">
+                  <num>(g)</num>
+                  <p>dismissing a representation for default or deciding it ex parte;</p>
+                </item>
+                <item id="section-40.2.list1.h">
+                  <num>(h)</num>
+                  <p>setting aside any order of dismissal of any representation for default or any order passed by it ex parte; and</p>
+                </item>
+                <item id="section-40.2.list1.i">
+                  <num>(i)</num>
+                  <p>any other matter, which may be, prescribed by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-40.3">
+            <num>(3)</num>
+            <content>
+              <p>An order made by the Appellate Tribunal under this Act shall be executable by it as a decree of civil court and, for this purpose, the Appellate Tribunal shall have all the powers of a civil court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (3), the Appellate Tribunal may transmit any order made by it to a civil court having jurisdiction and the civil court shall execute the order as if it were a decree made by that court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.5">
+            <num>(5)</num>
+            <content>
+              <p>All proceedings before the Appellate Tribunal shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Appellate Tribunal shall be deemed to be a civil court for the purposes of sections 345 and 346 of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Distribution of business amongst Benches of Appellate Tribunal</heading>
+          <paragraph id="section-41.paragraph-0">
+            <content>
+              <p>Where any Benches are constituted, the Chairperson may, from time to time, by notification, make provision as to the distribution of the business of the Appellate Tribunal amongst the Benches and also provide for the matters which may be dealt with by each Bench.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Power of Chairperson of Appellate Tribunal to transfer cases</heading>
+          <paragraph id="section-42.paragraph-0">
+            <content>
+              <p>On the application of any of the parties and notice to the parties, and after hearing them, or on his own motion without any notice, the Chairperson of the Appellate Tribunal may transfer any case pending before one Bench, for disposal, to any other Bench.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-143">
+          <num>143.</num>
+          <heading>Decision to be by majority</heading>
+          <paragraph id="section-143.paragraph-0">
+            <content>
+              <p>If the Members of a Bench consisting of two Members differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the Chairperson of the Appellate Tribunal who shall either hear the point or points himself or refer the case for hearing on the point or points by one or more of the other Members and the point or points shall be decided according to the opinion of the majority of the Members of the Appellate Tribunal who have heard the case, including those who first heard it.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Members, etc., to be public servants</heading>
+          <paragraph id="section-44.paragraph-0">
+            <content>
+              <p>The Chairperson, Members and other officers and employees of the Appellate Tribunal, the Adjudicating Authority, Approving Authority, Initiating Officer, Administrator and the officers subordinate to all of them shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Bar of jurisdiction of civil courts</heading>
+          <paragraph id="section-45.paragraph-0">
+            <content>
+              <p>No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which any of the authorities, an Adjudicating Authority or the Appellate Tribunal is empowered by or under this Act to determine, and no injunction shall be granted by any court or other forum in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Appeals to Appellate Tribunal</heading>
+          <subsection id="section-46.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person, including the Initiating Officer, aggrieved by an order of the Adjudicating Authority may prefer an appeal in such form and along with such fees, as may be prescribed, to the Appellate Tribunal against the order passed by the Adjudicating Authority under sub-section (3) of section 26, within a period of forty-five days from the date of the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.2">
+            <num>(2)</num>
+            <content>
+              <p>The Appellate Tribunal may entertain any appeal after the said period of forty-five days, if it is satisfied that the appellant was prevented, by sufficient cause, from filing the appeal in time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of an appeal under sub-section (1), the Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-46.4.list1">
+                <listIntroduction>An Appellate Tribunal while deciding the appeal shall have the power-</listIntroduction>
+                <item id="section-46.4.list1.a">
+                  <num>(a)</num>
+                  <p>to determine a case finally, where the evidence on record is sufficient;</p>
+                </item>
+                <item id="section-46.4.list1.b">
+                  <num>(b)</num>
+                  <p>to take additional evidence or to require any evidence to be taken by the Adjudicating Authority, where the Adjudicating Authority has refused to admit evidence, which ought to have been admitted;</p>
+                </item>
+                <item id="section-46.4.list1.c">
+                  <num>(c)</num>
+                  <p>to require any document to be produced or any witness to be examined for the purposes of proceeding before it;</p>
+                </item>
+                <item id="section-46.4.list1.d">
+                  <num>(d)</num>
+                  <p>to frame issues which appear to the Appellate Tribunal essential for adjudication of the case and refer them to the Adjudicating Authority for determination;</p>
+                </item>
+                <item id="section-46.4.list1.e">
+                  <num>(e)</num>
+                  <p>to pass final order and affirm, vary or reverse an order of adjudication passed by the Adjudicating Authority and pass such other order or orders as may be necessary to meet the ends of justice.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-46.5">
+            <num>(5)</num>
+            <content>
+              <p>The Appellate Tribunal, as far as possible, may hear and finally decide the appeal within a period of one year from the last date of the month in which the appeal is filed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Rectification of mistakes</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>The Appellate Tribunal or the Adjudicating Authority may, in order to rectify any mistake apparent on the face of the record, amend any order made by it under section 26 and section 46 respectively, within a period of one year from the end of the month in which the order was passed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <p>No amendment shall be made under sub-section (1), if the amendment is likely to affect any person prejudicially, unless he has been given notice of intention to do so and has been given an opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Right to representation</heading>
+          <subsection id="section-48.1">
+            <num>(1)</num>
+            <content>
+              <p>A person preferring an appeal to the Appellate Tribunal under this Act may either appear in person or take the assistance of an authorised representative of his choice to present his case before the Appellate Tribunal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-48.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government may authorise one or more of its officers to act as presenting officers on its behalf, and every person so authorised may present the case with respect to any appeal before the Appellate Tribunal.</p>
+              <blockList id="section-48.2.list2">
+                <listIntroduction>Explanation.-For the purposes of this section, "authorised representative" means a person authorised by the appellant in writing to appear on his behalf, being-</listIntroduction>
+                <item id="section-48.2.list2.i">
+                  <num>(i)</num>
+                  <p>a person related to the appellant in any manner, or a person regularly employed by the appellant; or</p>
+                </item>
+                <item id="section-48.2.list2.ii">
+                  <num>(ii)</num>
+                  <p>any officer of a scheduled bank with which the appellant maintains an account or has other regular dealings; or</p>
+                </item>
+                <item id="section-48.2.list2.iii">
+                  <num>(iii)</num>
+                  <p>any legal practitioner who is entitled to practice in any civil court in India; or</p>
+                </item>
+                <item id="section-48.2.list2.iv">
+                  <num>(iv)</num>
+                  <p>any person who has passed any accountancy examination recognised in this behalf by the Board; or</p>
+                </item>
+                <item id="section-48.2.list2.v">
+                  <num>(v)</num>
+                  <p>any person who has acquired such educational qualifications as the Board may prescribe for this purpose.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Appeal to High Court</heading>
+          <subsection id="section-49.1">
+            <num>(1)</num>
+            <content>
+              <p>Any party aggrieved by any decision or order of the Appellate Tribunal may file an appeal to the High Court within a period of sixty days from the date of communication of the decision or order of the Appellate Tribunal to him on any question of law arising out of such order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-49.2">
+            <num>(2)</num>
+            <content>
+              <p>The High Court may entertain any appeal after the said period of sixty days, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the period specified in sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-49.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the High Court is satisfied that a substantial question of law is involved in any case, it shall formulate that question.</p>
+            </content>
+          </subsection>
+          <subsection id="section-49.4">
+            <num>(4)</num>
+            <content>
+              <p>The appeal shall be heard only on the question so formulated, and the respondents shall, at the hearing of the appeal, be allowed to argue that the case does not involve such question.</p>
+            </content>
+          </subsection>
+          <subsection id="section-49.5">
+            <num>(5)</num>
+            <content>
+              <p>Nothing in this sub-section shall be deemed to take away or abridge the power of the court to hear, for reasons to be recorded, the appeal on any other substantial question of law not formulated by it, if it is satisfied that the case involves such question.</p>
+            </content>
+          </subsection>
+          <subsection id="section-49.6">
+            <num>(6)</num>
+            <content>
+              <p>The High Court shall decide the question of law so formulated and deliver the judgment thereon containing the grounds on which any decision is founded and may award any cost as it deems fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-49.7">
+            <num>(7)</num>
+            <content>
+              <blockList id="section-49.7.list1">
+                <listIntroduction>The High Court may determine any issue which-</listIntroduction>
+                <item id="section-49.7.list1.a">
+                  <num>(a)</num>
+                  <p>has not been determined by the Appellate Tribunal; or</p>
+                </item>
+                <item id="section-49.7.list1.b">
+                  <num>(b)</num>
+                  <p>has been wrongly determined by the Appellate Tribunal, by reason of a decision on such question of law as is referred to in sub-section (1).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-49.8">
+            <num>(8)</num>
+            <content>
+              <p>Save as otherwise provided in this Act, the provisions of the Code of Civil Procedure, 1908 (5 of 1908), relating to appeals to the High Court shall, as far as may be, apply in the case of appeals under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Special Courts</heading>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Special Courts</heading>
+          <subsection id="section-50.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government, in consultation with the Chief Justice of the High Court, shall, for trial of an offence punishable under this Act, by notification, designate one or more Courts of Session as Special Court or Special Courts for such area or areas or for such case or class or group of cases as may be specified in the notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-50.2">
+            <num>(2)</num>
+            <content>
+              <p>While trying an offence under this Act, a Special Court shall also try an offence other than an offence referred to in sub-section (1), with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial.</p>
+            </content>
+          </subsection>
+          <subsection id="section-50.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-50.3.list1">
+                <listIntroduction>The Special Court shall not take cognizance of any offence punishable under this Act except upon a complaint in writing made by-</listIntroduction>
+                <item id="section-50.3.list1.i">
+                  <num>(i)</num>
+                  <p>the authority; or</p>
+                </item>
+                <item id="section-50.3.list1.ii">
+                  <num>(ii)</num>
+                  <p>any officer of the Central Government or State Government authorised in writing by that Government by a general or special order made in this behalf.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-50.4">
+            <num>(4)</num>
+            <content>
+              <p>Every trial under this section shall be conducted as expeditiously as possible and every endeavour shall be made by the Special Court to conclude the trial within six months from the date of filing of the complaint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Application of Code of Criminal Procedure, 1973 to proceedings before Special Court</heading>
+          <subsection id="section-51.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall apply to the proceedings before a Special Court and the persons conducting the prosecution before the Special Court, shall be deemed to be Public Prosecutors:</p>
+              <p>Provided that the Central Government may also appoint for any case or class or group of cases, a Special Public Prosecutor.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.2">
+            <num>(2)</num>
+            <content>
+              <p>A person shall not be qualified to be appointed as a Public Prosecutor or a Special Public Prosecutor under this section unless, the Public Prosecutor has been in practice as an advocate for not less than seven years, and the Special Public Prosecutor has been in practice as an advocate for not less than ten years in any court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.3">
+            <num>(3)</num>
+            <content>
+              <p>Every person appointed as a Public Prosecutor or a Special Public Prosecutor under this section shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973 (2 of 1974) and the provisions of that Code shall have effect accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Appeal and revision</heading>
+          <paragraph id="section-52.paragraph-0">
+            <content>
+              <p>The High Court may exercise, so far as may be applicable, all the powers conferred by Chapter XXIX or Chapter XXX of the Code of Criminal Procedure, 1973 (2 of 1974), on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Offences and Prosecution</heading>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Penalty for benami transaction</heading>
+          <subsection id="section-53.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any person enters into a benami transaction in order to defeat the provisions of any law or to avoid payment of statutory dues or to avoid payment to creditors, the beneficial owner, benamidar and any other person who abets or induces any person to enter into the benami transaction, shall be guilty of the offence of benami transaction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever is found guilty of the offence of benami transaction referred to in sub-section (1) shall be punishable with rigorous imprisonment for a term which shall not be less than one year, but which may extend to seven years and shall also be liable to fine which may extend to twenty-five per cent. of the fair market value of the property.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Penalty for false information</heading>
+          <paragraph id="section-54.paragraph-0">
+            <content>
+              <p>Any person who is required to furnish information under this Act knowingly gives false information to any authority or furnishes any false document in any proceeding under this Act, shall be punishable with rigorous imprisonment for a term which shall not be less than six months but which may extend to five years and shall also be liable to fine which may extend to ten per cent. of the fair market value of the property.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Previous sanction</heading>
+          <paragraph id="section-55.paragraph-0">
+            <content>
+              <p>No prosecution shall be instituted against any person in respect of any offence under sections 3, 53 or section 54 without the previous sanction of the Board.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-56">
+          <num>56.</num>
+          <heading>Repeal of provisions of certain Acts</heading>
+          <subsection id="section-56.1">
+            <num>(1)</num>
+            <content>
+              <p>Sections 81, 82 and 94 of the Indian Trusts Act, 1882 (2 of 1882), section 66 of the Code of Civil Procedure, 1908 (5 of 1908) and section 281A of the Income-tax Act, 1961 (43 of 1961), are hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-56.2">
+            <num>(2)</num>
+            <content>
+              <p>For the removal of doubts, it is hereby declared that nothing in sub-section (1) shall affect the continued operation of section 281A of the Income-tax Act, 1961 (43 of 1961) in the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-57">
+          <num>57.</num>
+          <heading>Certain transfers to be null and void</heading>
+          <paragraph id="section-57.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Transfer of the Property Act, 1882 (4 of 1882) or any other law for the time being in force, where, after the issue of a notice under section 24, any property referred to in the said notice is transferred by any mode whatsoever, the transfer shall, for the purposes of the proceedings under this Act, be ignored and if the property is subsequently confiscated by the Central Government under section 27, then, the transfer of the property shall be deemed to be null and void.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-58">
+          <num>58.</num>
+          <heading>Exemption</heading>
+          <subsection id="section-58.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, exempt any property relating to charitable or religious trusts from the operation of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-58.2">
+            <num>(2)</num>
+            <content>
+              <p>Every notification issued under sub-section (1) shall be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-59">
+          <num>59.</num>
+          <heading>Power of Central Government to issue directions, etc</heading>
+          <subsection id="section-59.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, from time to time, issue such orders, instructions or directions to the authorities or require any person to furnish information as it may deem fit for the proper administration of this Act and such authorities and all other persons employed in execution of this Act shall observe and follow the orders, instructions and directions of the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-59.2.list1">
+                <listIntroduction>In issuing the directions or orders referred to in sub-section (1), the Central Government may have regard to anyone or more of the following criteria, namely:-</listIntroduction>
+                <item id="section-59.2.list1.a">
+                  <num>(a)</num>
+                  <p>territorial area;</p>
+                </item>
+                <item id="section-59.2.list1.b">
+                  <num>(b)</num>
+                  <p>classes of persons;</p>
+                </item>
+                <item id="section-59.2.list1.c">
+                  <num>(c)</num>
+                  <p>classes of cases; and</p>
+                </item>
+                <item id="section-59.2.list1.d">
+                  <num>(d)</num>
+                  <p>any other criterion that may be specified by the Central Government in this behalf.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-59.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-59.3.list1">
+                <listIntroduction>No orders, instructions or directions under sub-section (1) shall be issued so as to-</listIntroduction>
+                <item id="section-59.3.list1.a">
+                  <num>(a)</num>
+                  <p>require any authority to decide a particular case in a particular manner; or</p>
+                </item>
+                <item id="section-59.3.list1.b">
+                  <num>(b)</num>
+                  <p>interfere with the discretion of the Adjudicating Authority in the discharge of its functions.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-60">
+          <num>60.</num>
+          <heading>Application of other laws not barred</heading>
+          <paragraph id="section-60.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not, save as hereinafter expressly provided, in derogation of any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-61">
+          <num>61.</num>
+          <heading>Offences to be non-cognizable</heading>
+          <paragraph id="section-61.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), an offence under this Act shall be non-cognizable.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-62">
+          <num>62.</num>
+          <heading>Offences by companies</heading>
+          <subsection id="section-62.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a person committing contravention of any of the provisions of this Act or of any rule, direction or order made there under is a company, every person who, at the time the contravention was committed, was in charge of, and was responsible to, the company, for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in sub-section (1), shall render any person liable to punishment if he proves that the contravention took place without his knowledge.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where a contravention of any of the provisions of this Act or of any rule, direction or order made thereunder has been committed by a company and it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, the director, manager, secretary or other officer shall also be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.</p>
+              <blockList id="section-62.3.list2">
+                <listIntroduction>Explanation.-For the purposes of this section,-</listIntroduction>
+                <item id="section-62.3.list2.a">
+                  <num>(a)</num>
+                  <blockList id="section-62.3.list2.a.list0">
+                    <listIntroduction>"company" means a body corporate, and includes-</listIntroduction>
+                    <item id="section-62.3.list2.a.list0.i">
+                      <num>(i)</num>
+                      <p>a firm; and</p>
+                    </item>
+                    <item id="section-62.3.list2.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>an association of persons or a body of individuals whether incorporated or not; and</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-62.3.list2.b">
+                  <num>(b)</num>
+                  <blockList id="section-62.3.list2.b.list1">
+                    <listIntroduction>"director", in relation to-</listIntroduction>
+                    <item id="section-62.3.list2.b.list1.i">
+                      <num>(i)</num>
+                      <p>a firm, means a partner in the firm;</p>
+                    </item>
+                    <item id="section-62.3.list2.b.list1.ii">
+                      <num>(ii)</num>
+                      <p>any association of persons or a body of individuals, means any member controlling the affairs thereof.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-63">
+          <num>63.</num>
+          <heading>Notice, etc., not to be invalid on certain grounds</heading>
+          <paragraph id="section-63.paragraph-0">
+            <content>
+              <p>No notice, summons, order, document or other proceeding, furnished or made or issued or taken or purported to have been furnished or made or issued or taken in pursuance of any of the provisions of this Act shall be invalid, or shall be deemed to be invalid merely by reason of any mistake, defect or omission in the notice, summons, order, document or other proceeding if the notice, summons, order, document or other proceeding is in substance and effect in conformity with or according to the intent and purpose of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-64">
+          <num>64.</num>
+          <heading>Protection of action taken in good faith</heading>
+          <paragraph id="section-64.paragraph-0">
+            <content>
+              <p>No prosecution, suit or other proceeding shall lie against the Government or any officer of the Government or the Appellate Tribunal or the Adjudicating Authority established under this Act, for anything done or intended to be done in good faith under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-65">
+          <num>65.</num>
+          <heading>Transfer of pending cases</heading>
+          <subsection id="section-65.1">
+            <num>(1)</num>
+            <content>
+              <p>Every suit or proceeding in respect of a benami transaction pending in any Court (other than a High Court) or Tribunal or before any forum on the date of the commencement of this Act shall stand transferred to the Adjudicating Authority or the Appellate Tribunal, as the case may be, having jurisdiction in the matter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-65.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-65.2.list1">
+                <listIntroduction>Where any suit, or other proceeding stands transferred to the Adjudicating Authority or the Appellate Tribunal under sub-section (1),-</listIntroduction>
+                <item id="section-65.2.list1.a">
+                  <num>(a)</num>
+                  <p>the court, Tribunal or other forum shall, as soon as may be, after the transfer, forward the records of the suit, or other proceeding to the Adjudicating Authority or the Appellate Tribunal, as the case may be;</p>
+                </item>
+                <item id="section-65.2.list1.b">
+                  <num>(b)</num>
+                  <p>the Adjudicating Authority may, on receipt of the records, proceed to deal with the suit, or other proceeding, so far as may be, in the same manner as in the case of a reference made under sub-section (5) of section 24, from the stage which was reached before the transfer or from any earlier stage or de novo as the Adjudicating Authority may deem fit.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-66">
+          <num>66.</num>
+          <heading>Proceedings, etc., against legal representative</heading>
+          <subsection id="section-66.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a person dies during the course of any proceeding under this Act, any proceeding taken against the deceased before his death shall be deemed to have been taken against the legal representative and may be continued against the legal representative from the stage at which it stood on the date of the death of the deceased.</p>
+            </content>
+          </subsection>
+          <subsection id="section-66.2">
+            <num>(2)</num>
+            <content>
+              <p>Any proceeding which could have been taken against the deceased if he had survived may be taken against the legal representative and all the provisions of this Act, except sub-section (2) of section 3 and the provisions of Chapter VII, shall apply accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-66.3">
+            <num>(3)</num>
+            <content>
+              <p>Where any property of a person has been held benami under sub-section (3) of section 26, then, it shall be lawful for the legal representative of the person to prefer an appeal to the Appellate Tribunal, in place of the person and the provisions of section 46 shall, so far as may be, apply, or continue to apply, to the appeal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-67">
+          <num>67.</num>
+          <heading>Act to have overriding effect</heading>
+          <paragraph id="section-67.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-68">
+          <num>68.</num>
+          <heading>Power to make rules</heading>
+          <subsection id="section-68.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-68.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-68.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+                <item id="section-68.2.list1.a">
+                  <num>(a)</num>
+                  <p>manner of ascertaining the fair market value under clause 16 of section 2;</p>
+                </item>
+                <item id="section-68.2.list1.b">
+                  <num>(b)</num>
+                  <p>the manner of appointing the Chairperson and the Member of the Adjudicating Authorities under sub-section (2) of section 9;</p>
+                </item>
+                <item id="section-68.2.list1.c">
+                  <num>(c)</num>
+                  <p>the salaries and allowances payable to the Chairperson and the Members of the Adjudicating Authority under sub-section (1) of section 13;</p>
+                </item>
+                <item id="section-68.2.list1.d">
+                  <num>(d)</num>
+                  <p>the powers and functions of the authorities under sub-section (2) of section 18;</p>
+                </item>
+                <item id="section-68.2.list1.e">
+                  <num>(e)</num>
+                  <p>other powers of the authorities under clause (f) of sub-section (1) of section 19;</p>
+                </item>
+                <item id="section-68.2.list1.f">
+                  <num>(f)</num>
+                  <p>the form and manner of furnishing any information to the authority under sub-section (2) of section 21;</p>
+                </item>
+                <item id="section-68.2.list1.g">
+                  <num>(g)</num>
+                  <p>the manner of provisional attachment of property under sub-section (3) of section 24;</p>
+                </item>
+                <item id="section-68.2.list1.h">
+                  <num>(h)</num>
+                  <p>the procedure for confiscation of benami property under the second proviso to sub-section (1) of section 27;</p>
+                </item>
+                <item id="section-68.2.list1.i">
+                  <num>(i)</num>
+                  <p>the manner and conditions to receive and manage the property under sub-section (1) of section 28;</p>
+                </item>
+                <item id="section-68.2.list1.j">
+                  <num>(j)</num>
+                  <p>the manner and conditions of disposal of property vested in the Central Government under sub-section (3) of section 28;</p>
+                </item>
+                <item id="section-68.2.list1.k">
+                  <num>(k)</num>
+                  <p>the salaries and allowances payable to and the other terms and conditions of service of the Chairperson and other Members of the Appellate Tribunal under sub-section (1) of section 33;</p>
+                </item>
+                <item id="section-68.2.list1.l">
+                  <num>(l)</num>
+                  <p>the manner of prescribing procedure for removal of Chairperson or Member under sub-section (4) of section 35;</p>
+                </item>
+                <item id="section-68.2.list1.m">
+                  <num>(m)</num>
+                  <p>the salaries and allowances payable to and the other terms and conditions of service of the officers and employees of the Appellate Tribunal under sub-section (3) of section 39;</p>
+                </item>
+                <item id="section-68.2.list1.n">
+                  <num>(n)</num>
+                  <p>any power of the Appellate Tribunal under clause (i) of sub-section (2) of section 40;</p>
+                </item>
+                <item id="section-68.2.list1.o">
+                  <num>(o)</num>
+                  <p>the form in which appeal shall be filed and the fee for filing the appeal under sub-section (1) of section 46;</p>
+                </item>
+                <item id="section-68.2.list1.p">
+                  <num>(p)</num>
+                  <p>any other matter which is to be, or may be, prescribed, or in respect of which provision is to be made, by rules.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-69">
+          <num>69.</num>
+          <heading>Laying of rules and notifications before Parliament</heading>
+          <paragraph id="section-69.paragraph-0">
+            <content>
+              <p>Every rule made and notification issued under this Act shall be laid, as soon as may be after it is made or issued, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rules or notifications, as the case may be, both Houses agree that the rules or notifications, as the case may be, should not be made or issued, the rule or notification, as the case may be, shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification, as the case may be.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-70">
+          <num>70.</num>
+          <heading>Power to remove difficulties</heading>
+          <subsection id="section-70.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty.</p>
+            </content>
+          </subsection>
+          <subsection id="section-70.2">
+            <num>(2)</num>
+            <content>
+              <p>No order shall be made under this section after the expiry of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-70.3">
+            <num>(3)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-71">
+          <num>71.</num>
+          <heading>Transitional provision</heading>
+          <paragraph id="section-71.paragraph-0">
+            <content>
+              <p>The Central Government may, by notification, provide that until the Adjudicating Authorities are appointed and the Appellate Tribunal is established under this Act, the Adjudicating Authority appointed under sub-section (1) of section 6 of the Money-Laundering Act, 2002 (15 of 2003) and the Appellate Tribunal established under section 25 of that Act may discharge the functions of the Adjudicating Authority and Appellate Tribunal, respectively, under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-72">
+          <num>72.</num>
+          <heading>Repeal and saving</heading>
+          <subsection id="section-72.1">
+            <num>(1)</num>
+            <content>
+              <p>The Benami Transactions (Prohibition of the Right to Recover Property) Ordinance, 1988 (Ordinance 2 of 1988), is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-72.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

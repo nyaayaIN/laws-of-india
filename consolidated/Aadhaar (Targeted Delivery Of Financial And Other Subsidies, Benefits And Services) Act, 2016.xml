@@ -1,0 +1,1607 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2016/18/main"/>
+          <FRBRuri value="/in-union/act/2016/18"/>
+          <FRBRalias value="Aadhaar (Targeted Delivery Of Financial And Other Subsidies, Benefits And Services) Act, 2016"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2016/18/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/2016/18/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2016/18/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/2016/18/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Aadhaar (Targeted Delivery Of Financial And Other Subsidies, Benefits And Services) Act, 2016</shortTitle>
+      </p>
+    </preface>
+    <preamble>
+      <p>A Bill to provide for, as a good governance, efficient, transparent, and targeted delivery of subsidies, benefits and services, the expenditure for which is incurred from the Consolidated Fund of India, to individuals residing in India through assigning of unique identity numbers to such individuals and for matters connected therewith or incidental thereto.</p>
+      <p>Be it enacted by Parliament in the Sixty-seventh Year of the Republic of India as follows:--</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.--</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall extend to the whole of India except the State of Jammu and Kashmir and save as otherwise provided in this Act, it shall also apply to any offence or contravention there under committed outside India by any person.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint; and different dates may, be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.--</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,--</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>"Aadhaar number" means an identification number issued to an individual under sub-section (3) of section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>"Aadhaar number holder" means an individual who has been issued an Aadhaar number under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"authentication" means the process by which the Aadhaar number alongwith demographic information or biometric information of an individual is submitted to the Central Identities Data Repository for its verification and such Repository verifies the correctness, or the lack thereof, on the basis of information available with it;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>"authentication record" means the record of the time of authentication and identity of the requesting entity and the response provided by the Authority thereto;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>"Authority" means the Unique Identification Authority of India established under sub-section (1) of section 11;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>"benefit" means any advantage, gift, reward, relief, or payment, in cash or kind, provided to an individual or a group of individuals and includes such other benefits as may be notified by the Central Government;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>"biometric information" means photograph, finger print, Iris scan, or such other biological attributes of an individual as may be specified by regulations;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>"Central Identities Data Repository" means a centralised database in one or more locations containing all Aadhaar numbers issued to Aadhaar number holders along with the corresponding demographic information and biometric information of such individuals and other information related thereto;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>"Chairperson" means the Chairperson of the Authority appointed under section 12;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>"core biometric information" means finger print, Iris scan, or such other biological attribute of an individual as may be specified by regulations;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>"demographic information" includes information relating to the name, date of birth, address and other relevant information of an individual, as may be specified by regulations for the purpose of issuing an Aadhaar number, but shall not include race, religion, caste, tribe, ethnicity, language, records of entitlement, income or medical history;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>"enrolling agency" means an agency appointed by the Authority or a Registrar, as the case may be, for collecting demographic and biometric information of individuals under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>"enrolment" means the process, as may be specified by regulations, to collect demographic and biometric information from individuals by the enrolling agencies for the purpose of issuing Aadhaar numbers to such individuals under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>"identity information" in respect of an individual, includes his Aadhaar number, his biometric information and his demographic information;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>"Member" includes the Chairperson and Member of the Authority appointed under section 12;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.p">
+                  <num>(p)</num>
+                  <p>"notification" means a notification published in the Official Gazette and the expression "notified" with its cognate meanings and grammatical variations shall be construed accordingly;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.q">
+                  <num>(q)</num>
+                  <p>"prescribed" means prescribed by rules made by the Central Government under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.r">
+                  <num>(r)</num>
+                  <p>"records of entitlement" means records of benefits, subsidies or services provided to, or availed by, any individual under any programme;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.s">
+                  <num>(s)</num>
+                  <p>"Registrar" means any entity authorised or recognised by the Authority for the purpose of enrolling individuals under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.t">
+                  <num>(t)</num>
+                  <p>"regulations" means the regulations made by the Authority under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.u">
+                  <num>(u)</num>
+                  <p>"requesting entity" means an agency or person that submits the Aadhaar number, and demographic information or biometric information, of an individual to the Central Identities Data Repository for authentication;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.v">
+                  <num>(v)</num>
+                  <p>"resident" means an individual who has resided in India for a period or periods amounting in all to one hundred and eighty-two days or more in the twelve months immediately preceding the date of application for enrolment;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.w">
+                  <num>(w)</num>
+                  <p>"service" means any provision, facility, utility or any other assistance provided in any form to an individual or a group of individuals and includes such other services as may be notified by the Central Government;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.x">
+                  <num>(x)</num>
+                  <p>"subsidy" means any form of aid, support, grant, subvention, or appropriation, in cash or kind, to an individual or a group of individuals and includes such other subsidies as may be notified by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Enrolment</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Aadhaar number.--</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>Every resident shall be entitled to obtain an Aadhaar number by submitting his demographic information and biometric information by undergoing the process of enrolment:</p>
+              <p>Provided that the Central Government may, from time to time, notify such other category of individuals who may be entitled to obtain an Aadhaar number.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-3.2.list1">
+                <listIntroduction>The enrolling agency shall, at the time of enrolment, inform the individual undergoing enrolment of the following details in such manner as may be specified by regulations, namely:--</listIntroduction>
+                <item id="section-3.2.list1.a">
+                  <num>(a)</num>
+                  <p>the manner in which the information shall be used;</p>
+                </item>
+                <item id="section-3.2.list1.b">
+                  <num>(b)</num>
+                  <p>the nature of recipients with whom the information is intended to be shared during authentication; and</p>
+                </item>
+                <item id="section-3.2.list1.c">
+                  <num>(c)</num>
+                  <p>the existence of a right to access information, the procedure for making requests for such access, and details of the person or department in-charge to whom such requests can be made.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of the demographic information and biometric information under sub-section (1), the Authority shall, after verifying the information, in such manner as may be specified by regulations, issue an Aadhaar number to such individual.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Properties of Aadhaar number.--</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>An Aadhaar number, issued to an individual shall not be re-assigned to any other individual.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>An Aadhaar number shall be a random number and bear no relation to the attributes or identity of the Aadhaar number holder.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>An Aadhaar number, in physical or electronic form subject to authentication and other conditions, as may be specified by regulations, may be accepted as proof of identity of the Aadhaar number holder for any purpose.</p>
+              <p>Explanation.--For the purposes of this sub-section, the expression "electronic form" shall have the same meaning as assigned to it in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Special measures for issuance of Aadhaar number to certain category of persons.--</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>The Authority shall take special measures to issue Aadhaar number to women, children, senior citizens, persons with disability, unskilled and unorganised workers, nomadic tribes or to such other persons who do not have any permanent dwelling house and such other categories of individuals as may be specified by regulations.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Update of certain information.--</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>The Authority may require Aadhaar number holders to update their demographic information and biometric information, from time to time, in such manner as may be specified by regulations, so as to ensure continued accuracy of their information in the Central Identities Data Repository.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Authentication</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Proof of Aadhaar number necessary for receipt of certain subsidies, benefits and services, etc.--</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>The Central Government or, as the case may be, the State Government may, for the purpose of establishing identity of an individual as a condition for receipt of a subsidy, benefit or service for which the expenditure is incurred from, or the receipt therefrom forms part of, the Consolidated Fund of India, require that such individual undergo authentication, or furnish proof of possession of Aadhaar number or in the case of an individual to whom no Aadhaar number has been assigned, such individual makes an application for enrolment:</p>
+              <p>Provided that if an Aadhaar number is not assigned to an individual, the individual shall be offered alternate and viable means of identification for delivery of the subsidy, benefit or service.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Authentication of Aadhaar number.--</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall perform authentication of the Aadhaar number of an Aadhaar number holder submitted by any requesting entity, in relation to his biometric information or demographic information, subject to such conditions and on payment of such fees and in such manner as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-8.2.list1">
+                <listIntroduction>A requesting entity shall--</listIntroduction>
+                <item id="section-8.2.list1.a">
+                  <num>(a)</num>
+                  <p>unless otherwise provided in this Act, obtain the consent of an individual before collecting his identity information for the purposes of authentication in such manner as may be specified by regulations; and</p>
+                </item>
+                <item id="section-8.2.list1.b">
+                  <num>(b)</num>
+                  <p>ensure that the identity information of an individual is only used for submission to the Central Identities Data Repository for authentication.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-8.3.list1">
+                <listIntroduction>A requesting entity shall inform, in such manner as may be specified by regulations, the individual submitting his identity information for authentication, the following details with respect to authentication, namely:--</listIntroduction>
+                <item id="section-8.3.list1.a">
+                  <num>(a)</num>
+                  <p>the nature of information that may be shared upon authentication;</p>
+                </item>
+                <item id="section-8.3.list1.b">
+                  <num>(b)</num>
+                  <p>the uses to which the information received during authentication may be put by the requesting entity; and</p>
+                </item>
+                <item id="section-8.3.list1.c">
+                  <num>(c)</num>
+                  <p>alternatives to submission of identity information to the requesting entity.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-8.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority shall respond to an authentication query with a positive, negative or any other appropriate response sharing such identity information excluding any core biometric information.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Aadhaar number not evidence of citizenship or domicile, etc.--</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The Aadhaar number or the authentication thereof shall not, by itself, confer any right of, or be proof of, citizenship or domicile in respect of an Aadhaar number holder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Central Identities Data Repository.--</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>The Authority may engage one or more entities to establish and maintain the Central Identities Data Repository and to perform any other functions as may be specified by regulations.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Unique identification authority of india</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Establishment of Authority.--</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, by notification, establish an Authority to be known as the Unique Identification Authority of India to be responsible for the processes of enrolment and authentication and perform such other functions assigned to it under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract, and shall, by the said name, sue or be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>The head office of the Authority shall be in New Delhi.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority may, with the prior approval of the Central Government, establish its offices at other places in India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Composition of Authority.--</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The Authority shall consist of a Chairperson, appointed on part-time or full-time basis, two part-time Members, and the chief executive officer who shall be Member-Secretary of the Authority, to be appointed by the Central Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Qualifications for appointment of Chairperson and Members of Authority.--</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The Chairperson and Members of the Authority shall be persons of ability and integrity having experience and knowledge of at least ten years in matters relating to technology, governance, law, development, economics, finance, management, public affairs or administration.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Term of office and other conditions of service of Chairperson and Members.--</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairperson and the Members appointed under this Act shall hold office for a term of three years from the date on which they assume office and shall be eligible for re-appointment:</p>
+              <p>Provided that no person shall hold office as the Chairperson or Member after he has attained the age of sixty-five years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson and every Member shall, before entering office, make and subscribe to, an oath of office and of secrecy, in such form and in such manner and before such Authority as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-14.3.list1">
+                <listIntroduction>Notwithstanding anything contained in sub-section (1), the Chairperson or Member may--</listIntroduction>
+                <item id="section-14.3.list1.a">
+                  <num>(a)</num>
+                  <p>relinquish his office, by giving in writing to the Central Government, a notice of not less than thirty days; or</p>
+                </item>
+                <item id="section-14.3.list1.b">
+                  <num>(b)</num>
+                  <p>be removed from his office in accordance with the provisions of section 15.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.4">
+            <num>(4)</num>
+            <content>
+              <p>The salaries and allowances payable to, and the other terms and conditions of service of, the Chairperson and allowances or remuneration payable to part-time Members shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Removal of Chairperson and Members.--</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-15.1.list1">
+                <listIntroduction>The Central Government may remove from office, the Chairperson, or a Member, who--</listIntroduction>
+                <item id="section-15.1.list1.a">
+                  <num>(a)</num>
+                  <p>is, or at any time has been adjudged as insolvent;</p>
+                </item>
+                <item id="section-15.1.list1.b">
+                  <num>(b)</num>
+                  <p>has become physically or mentally incapable of acting as the Chairperson or, as the case may be, a Member;</p>
+                </item>
+                <item id="section-15.1.list1.c">
+                  <num>(c)</num>
+                  <p>has been convicted of an offence which, in the opinion of the Central Government, involves moral turpitude;</p>
+                </item>
+                <item id="section-15.1.list1.d">
+                  <num>(d)</num>
+                  <p>has acquired such financial or other interest as is likely to affect prejudicially his functions as the Chairperson or, as the case may be, a Member; or</p>
+                </item>
+                <item id="section-15.1.list1.e">
+                  <num>(e)</num>
+                  <p>has, in the opinion of the Central Government, so abused his position as to render his continuance in office detrimental to the public interest.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson or a Member shall not be removed under clause (b), clause (d) or clause (e) of sub-section (1) unless he has been given a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Restrictions on Chairperson or Members on employment after cessation of office.--</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <blockList id="section-16.paragraph-0.list1">
+                <listIntroduction>The Chairperson or a Member on ceasing to hold office for any reason, shall not, without previous approval of the Central Government,--</listIntroduction>
+                <item id="section-16.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>accept any employment in, or be connected with the management of any organisation, company or any other entity which has been associated with any work done or contracted out by the Authority, whether directly or indirectly, during his tenure as Chairperson or Member, as the case may be, for a period of three years from the date on which he ceases to hold office:</p>
+                </item>
+              </blockList>
+              <blockList id="section-16.paragraph-0.list3">
+                <listIntroduction>Provided that nothing contained in this clause shall apply to any employment under the Central Government or a State Government or local authority or in any statutory authority or any corporation established by or under any Central, State or provincial Act or a Government Company, as defined in clause (45) of section 2 of the Companies Act, 2013 (18 of 2013);</listIntroduction>
+                <item id="section-16.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>act, for or on behalf of any person or organisation in connection with any specific proceeding or transaction or negotiation or a case to which the Authority is a party and with respect to which the Chairperson or such Member had, before cessation of office, acted for or provided advice to, the Authority;</p>
+                </item>
+                <item id="section-16.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>give advice to any person using information which was obtained in his capacity as the Chairperson or a Member and being unavailable to or not being able to be made available to the public; or</p>
+                </item>
+                <item id="section-16.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>enter, for a period of three years from his last day in office, into a contract of service with, accept an appointment to a board of directors of, or accept an offer of employment with, an entity with which he had direct and significant official dealings during his term of office.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Functions of Chairperson.--</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>The Chairperson shall preside over the meetings of the Authority, and without prejudice to any provision of this Act, exercise and discharge such other powers and functions of the Authority as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Chief executive officer.--</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be a chief executive officer of the Authority, not below the rank of Additional Secretary to the Government of India, to be appointed by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-18.2.list1">
+                <listIntroduction>The chief executive officer shall be the legal representative of the Authority and shall be responsible for--</listIntroduction>
+                <item id="section-18.2.list1.a">
+                  <num>(a)</num>
+                  <p>the day-to-day administration of the Authority;</p>
+                </item>
+                <item id="section-18.2.list1.b">
+                  <num>(b)</num>
+                  <p>implementing the work programmes and decisions adopted by the Authority;</p>
+                </item>
+                <item id="section-18.2.list1.c">
+                  <num>(c)</num>
+                  <p>drawing up of proposal for the Authority's decisions and work programmes;</p>
+                </item>
+                <item id="section-18.2.list1.d">
+                  <num>(d)</num>
+                  <p>the preparation of the statement of revenue and expenditure and the execution of the budget of the Authority; and</p>
+                </item>
+                <item id="section-18.2.list1.e">
+                  <num>(e)</num>
+                  <p>performing such other functions, or exercising such other powers, as may be specified by regulations.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-18.3.list1">
+                <listIntroduction>Every year, the chief executive officer shall submit to the Authority for approval--</listIntroduction>
+                <item id="section-18.3.list1.a">
+                  <num>(a)</num>
+                  <p>a general report covering all the activities of the Authority in the previous year;</p>
+                </item>
+                <item id="section-18.3.list1.b">
+                  <num>(b)</num>
+                  <p>programmes of work;</p>
+                </item>
+                <item id="section-18.3.list1.c">
+                  <num>(c)</num>
+                  <p>the annual accounts for the previous year; and</p>
+                </item>
+                <item id="section-18.3.list1.d">
+                  <num>(d)</num>
+                  <p>the budget for the coming year.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-18.4">
+            <num>(4)</num>
+            <content>
+              <p>The chief executive officer shall have administrative control over the officers and other employees of the Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Meetings of Authority.--</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at its meetings, including quorum at such meetings, as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson, or, if for any reason, he is unable to attend a meeting of the Authority, the senior most Member shall preside over the meetings of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>All questions which come up before any meeting of the Authority shall be decided by a majority of votes by the Members present and voting and in the event of an equality of votes, the Chairperson or in his absence the presiding Member shall have a casting vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>All decisions of the Authority shall be signed by the Chairperson or any other Member or the Member-Secretary authorised by the Authority in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.5">
+            <num>(5)</num>
+            <content>
+              <p>If any Member, who is a director of a company and who as such director, has any direct or indirect pecuniary interest in any manner coming up for consideration at a meeting of the Authority, he shall, as soon as possible after relevant circumstances have come to his knowledge, disclose the nature of his interest at such meeting and such disclosure shall be recorded in the proceedings of the Authority, and the Member shall not take part in any deliberation or decision of the Authority with respect to that matter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings of Authority.--</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <blockList id="section-20.paragraph-0.list1">
+                <listIntroduction>No act or proceeding of the Authority shall be invalid merely by reason of--</listIntroduction>
+                <item id="section-20.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of, the Authority;</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person as Chairperson or Member of the Authority; or</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Authority not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Vacancies etc., not to invalidate proceedings of authority.--</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, with the approval of the Central Government, determine the number, nature and categories of other officers and employees required by the Authority in the discharge of its functions.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>The salaries and allowances payable to, and the other terms and conditions of service of, the chief executive officer and other officers and other employees of the Authority shall be such as may be specified by regulations with the approval of the Central Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Transfer of assets, liabilities of Authority.--</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <blockList id="section-22.paragraph-0.list1">
+                <listIntroduction>On and from the establishment of the Authority--</listIntroduction>
+                <item id="section-22.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>all the assets and liabilities of the Unique Identification Authority of India, established vide notification of the Government of India in the Planning Commission number A-43011/02/2009-Admin. I, dated the 28th January, 2009, shall stand transferred to, and vested in, the Authority.</p>
+                </item>
+              </blockList>
+              <blockList id="section-22.paragraph-0.list3">
+                <listIntroduction>Explanation.--The assets of such Unique Identification Authority of India shall be deemed to include all rights and powers, and all properties, whether movable or immovable, including, in particular, cash balances, deposits and all other interests and rights in, or arising out of, such properties as may be in the possession of such Unique Identification Authority of India and all books of account and other documents relating to the same; and liabilities shall be deemed to include all debts, liabilities and obligations of whatever kind;</listIntroduction>
+                <item id="section-22.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>without prejudice to the provisions of clause (a), all data and information collected during enrolment, all details of authentication performed, debts, obligations and liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for such Unique Identification Authority of India immediately before that day, for or in connection with the purpose of the said Unique Identification Authority of India, shall be deemed to have been incurred, entered into or engaged to be done by, with or for, the Authority;</p>
+                </item>
+                <item id="section-22.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>all sums of money due to the said Unique Identification Authority of India immediately before that day shall be deemed to be due to the Authority; and</p>
+                </item>
+                <item id="section-22.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>all suits and other legal proceedings instituted or which could have been instituted by or against such Unique Identification Authority of India immediately before that day may be continued or may be instituted by or against the Authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Powers and functions of Authority.--</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall develop the policy, procedure and systems for issuing Aadhaar numbers to individuals and perform authentication thereof under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-23.2.list1">
+                <listIntroduction>Without prejudice to sub-section (1), the powers and functions of the Authority, inter alia, include--</listIntroduction>
+                <item id="section-23.2.list1.a">
+                  <num>(a)</num>
+                  <p>specifying, by regulations, demographic information and biometric information required for enrolment and the processes for collection and verification thereof;</p>
+                </item>
+                <item id="section-23.2.list1.b">
+                  <num>(b)</num>
+                  <p>collecting demographic information and biometric information from any individual seeking an Aadhaar number in such manner as may be specified by regulations;</p>
+                </item>
+                <item id="section-23.2.list1.c">
+                  <num>(c)</num>
+                  <p>appointing of one or more entities to operate the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-23.2.list1.d">
+                  <num>(d)</num>
+                  <p>generating and assigning Aadhaar numbers to individuals;</p>
+                </item>
+                <item id="section-23.2.list1.e">
+                  <num>(e)</num>
+                  <p>performing authentication of Aadhaar numbers;</p>
+                </item>
+                <item id="section-23.2.list1.f">
+                  <num>(f)</num>
+                  <p>maintaining and updating the information of individuals in the Central Identities Data Repository in such manner as may be specified by regulations;</p>
+                </item>
+                <item id="section-23.2.list1.g">
+                  <num>(g)</num>
+                  <p>omitting and deactivating of an Aadhaar number and information relating thereto in such manner as may be specified by regulations;</p>
+                </item>
+                <item id="section-23.2.list1.h">
+                  <num>(h)</num>
+                  <p>specifying the manner of use of Aadhaar numbers for the purposes of providing or availing of various subsidies, benefits, services and other purposes for which Aadhaar numbers may be used;</p>
+                </item>
+                <item id="section-23.2.list1.i">
+                  <num>(i)</num>
+                  <p>specifying, by regulations, the terms and conditions for appointment of Registrars, enrolling agencies and service providers and revocation of appointments thereof;</p>
+                </item>
+                <item id="section-23.2.list1.j">
+                  <num>(j)</num>
+                  <p>establishing, operating and maintaining of the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-23.2.list1.k">
+                  <num>(k)</num>
+                  <p>sharing, in such manner as may be specified by regulations, the information of Aadhaar number holders, subject to the provisions of this Act;</p>
+                </item>
+                <item id="section-23.2.list1.l">
+                  <num>(l)</num>
+                  <p>calling for information and records, conducting inspections, inquiries and audit of the operations for the purposes of this Act of the Central Identities Data Repository, Registrars, enrolling agencies and other agencies appointed under this Act;</p>
+                </item>
+                <item id="section-23.2.list1.m">
+                  <num>(m)</num>
+                  <p>specifying, by regulations, various processes relating to data management, security protocols and other technology safeguards under this Act;</p>
+                </item>
+                <item id="section-23.2.list1.n">
+                  <num>(n)</num>
+                  <p>specifying, by regulations, the conditions and procedures for issuance of new Aadhaar number to existing Aadhaar number holder;</p>
+                </item>
+                <item id="section-23.2.list1.o">
+                  <num>(o)</num>
+                  <p>levying and collecting the fees or authorising the Registrars, enrolling agencies or other service providers to collect such fees for the services provided by them under this Act in such manner as may be specified by regulations;</p>
+                </item>
+                <item id="section-23.2.list1.p">
+                  <num>(p)</num>
+                  <p>appointing such committees as may be necessary to assist the Authority in discharge of its functions for the purposes of this Act;</p>
+                </item>
+                <item id="section-23.2.list1.q">
+                  <num>(q)</num>
+                  <p>promoting research and development for advancement in biometrics and related areas, including usage of Aadhaar numbers through appropriate mechanisms;</p>
+                </item>
+                <item id="section-23.2.list1.r">
+                  <num>(r)</num>
+                  <p>evolving of, and specifying, by regulations, policies and practices for Registrars, enrolling agencies and other service providers;</p>
+                </item>
+                <item id="section-23.2.list1.s">
+                  <num>(s)</num>
+                  <p>setting up facilitation centres and grievance redressal mechanism for redressal of grievances of individuals, Registrars, enrolling agencies and other service providers;</p>
+                </item>
+                <item id="section-23.2.list1.t">
+                  <num>(t)</num>
+                  <p>such other powers and functions as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-23.3.list1">
+                <listIntroduction>The Authority may,--</listIntroduction>
+                <item id="section-23.3.list1.a">
+                  <num>(a)</num>
+                  <p>enter into Memorandum of Understanding or agreement, as the case may be, with the Central Government or State Governments or Union territories or other agencies for the purpose of performing any of the functions in relation to collecting, storing, securing or processing of information or delivery of Aadhaar numbers to individuals or performing authentication;</p>
+                </item>
+                <item id="section-23.3.list1.b">
+                  <num>(b)</num>
+                  <p>by notification, appoint such number of Registrars, engage and authorise such agencies to collect, store, secure, process information or do authentication or perform such other functions in relation thereto, as may be necessary for the purposes of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-23.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority may engage such consultants, advisors and other persons as may be required for efficient discharge of its functions under this Act on such allowances or remuneration and terms and conditions as may be specified by contract.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Grants, accounts and audit and annual report</heading>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Grants by Central Government.--</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Authority, grants of such sums of money as the Central Government may think fit for being utilised for the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Other fees and revenues.--</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>The fees or revenue collected by the Authority shall be credited to the Consolidated Fund of India.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Accounts and audit.--</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of the Authority shall be audited annually by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Authority to the Comptroller and Auditor-General.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <p>The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit the accounts of the Authority under this Act shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts, and in particular, shall have the right to demand production of books, accounts, connected vouchers and other documents and papers, and to inspect any of the offices of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.4">
+            <num>(4)</num>
+            <content>
+              <p>The accounts of the Authority, as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf, together with the audit report thereon shall be forwarded annually to the Central Government by the Authority and the Central Government shall cause the audit report to be laid, as soon as may be after it is received, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Returns and annual report, etc.--</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall furnish to the Central Government at such time and in such form and manner as may be prescribed or as the Central Government may direct, such returns and statements and particulars in regard to any matter under the jurisdiction of the Authority, as the Central Government may from time to time require.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-27.2.list1">
+                <listIntroduction>The Authority shall prepare, once in every year, and in such form and manner and at such time as may be prescribed, an annual report giving--</listIntroduction>
+                <item id="section-27.2.list1.a">
+                  <num>(a)</num>
+                  <p>a description of all the activities of the Authority for the previous years;</p>
+                </item>
+                <item id="section-27.2.list1.b">
+                  <num>(b)</num>
+                  <p>the annual accounts for the previous year; and</p>
+                </item>
+                <item id="section-27.2.list1.c">
+                  <num>(c)</num>
+                  <p>the programmes of work for coming year.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>A copy of the report received under sub-section (2) shall be laid by the Central Government, as soon as may be after it is received, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Protection of information</heading>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Security and confidentiality of information.--</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall ensure the security of identity information and authentication records of individuals.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the provisions of this Act, the Authority shall ensure confidentiality of identity information and authentication records of individuals.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <p>The Authority shall take all necessary measures to ensure that the information in the possession or control of the Authority, including information stored in the Central Identities Data Repository, is secured and protected against access, use or disclosure not permitted under this Act or regulations made thereunder, and against accidental or intentional destruction, loss or damage.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-28.4.list1">
+                <listIntroduction>Without prejudice to sub-sections (1) and (2), the Authority shall--</listIntroduction>
+                <item id="section-28.4.list1.a">
+                  <num>(a)</num>
+                  <p>adopt and implement appropriate technical and organisational security measures;</p>
+                </item>
+                <item id="section-28.4.list1.b">
+                  <num>(b)</num>
+                  <p>ensure that the agencies, consultants, advisors or other persons appointed or engaged for performing any function of the Authority under this Act, have in place appropriate technical and organisational security measures for the information; and</p>
+                </item>
+                <item id="section-28.4.list1.c">
+                  <num>(c)</num>
+                  <p>ensure that the agreements or arrangements entered into with such agencies, consultants, advisors or other persons, impose obligations equivalent to those imposed on the Authority under this Act, and require such agencies, consultants, advisors and other persons to act only on instructions from the Authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-28.5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, and save as otherwise provided in this Act, the Authority or any of its officers or other employees or any agency that maintains the Central Identities Data Repository shall not, whether during his service or thereafter, reveal any information stored in the Central Identities Data Repository or authentication record to anyone:</p>
+              <p>Provided that an Aadhaar number holder may request the Authority to provide access to his identity information excluding his core biometric information in such manner as may be specified by regulations.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Restriction on sharing information.--</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-29.1.list1">
+                <listIntroduction>No core biometric information, collected or created under this Act, shall be--</listIntroduction>
+                <item id="section-29.1.list1.a">
+                  <num>(a)</num>
+                  <p>shared with anyone for any reason whatsoever; or</p>
+                </item>
+                <item id="section-29.1.list1.b">
+                  <num>(b)</num>
+                  <p>used for any purpose other than generation of Aadhaar numbers and authentication under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>The identity information, other than core biometric information, collected or created under this Act may be shared only in accordance with the provisions of this Act and in such manner as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-29.3.list1">
+                <listIntroduction>No identity information available with a requesting entity shall be--</listIntroduction>
+                <item id="section-29.3.list1.a">
+                  <num>(a)</num>
+                  <p>used for any purpose, other than that specified to the individual at the time of submitting any identity information for authentication; or</p>
+                </item>
+                <item id="section-29.3.list1.b">
+                  <num>(b)</num>
+                  <p>disclosed further, except with the prior consent of the individual to whom such information relates.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-29.4">
+            <num>(4)</num>
+            <content>
+              <p>No Aadhaar number or core biometric information collected or created under this Act in respect of an Aadhaar number holder shall be published, displayed or posted publicly, except for the purposes as may be specified by regulations.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Biometric information deemed to be sensitive personal information.--</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>The biometric information collected and stored in electronic form, in accordance with this Act and regulations made thereunder, shall be deemed to be "electronic record" and "sensitive personal data or information", and the provisions contained in the Information Technology Act, 2000 (21 of 2000) and the rules made thereunder shall apply to such information, in addition to, and to the extent not in derogation of the provisions of this Act.</p>
+              <blockList id="section-30.paragraph-0.list2">
+                <listIntroduction>Explanation.--For the purposes of this section, the expressions--</listIntroduction>
+                <item id="section-30.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>"electronic form" shall have the same meaning as assigned to it in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000);</p>
+                </item>
+                <item id="section-30.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>"electronic record" shall have the same meaning as assigned to it in clause (t) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000);</p>
+                </item>
+                <item id="section-30.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>"sensitive personal data or information" shall have the same meaning as assigned to it in clause (iii) of the Explanation to section 43A of the Information Technology Act, 2000 (21 of 2000).</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Alteration of demographic information or biometric information.--</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>In case any demographic information of an Aadhaar number holder is found incorrect or changes subsequently, the Aadhaar number holder shall request the Authority to alter such demographic information in his record in the Central Identities Data Repository in such manner as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>In case any biometric information of Aadhaar number holder is lost or changes subsequently for any reason, the Aadhaar number holder shall request the Authority to make necessary alteration in his record in the Central Identities Data Repository in such manner as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of any request under sub-section (1) or sub-section (2), the Authority may, if it is satisfied, make such alteration as may be required in the record relating to such Aadhaar number holder and intimate such alteration to the concerned Aadhaar number holder.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.4">
+            <num>(4)</num>
+            <content>
+              <p>No identity information in the Central Identities Data Repository shall be altered except in the manner provided in this Act or regulations made in this behalf.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Access to own information and records of requests for authentication.--</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall maintain authentication records in such manner and for such period as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <p>Every Aadhaar number holder shall be entitled to obtain his authentication record in such manner as may be specified by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.3">
+            <num>(3)</num>
+            <content>
+              <p>The Authority shall not, either by itself or through any entity under its control, collect, keep or maintain any information about the purpose of authentication.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Disclosure of information in certain cases.--</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>Nothing contained in sub-section (2) or sub-section (5) of section 28 or sub-section (2) of section 29 shall apply in respect of any disclosure of information, including identity information or authentication records, made pursuant to an order of a court not inferior to that of a District Judge:</p>
+              <p>Provided that no order by the court under this sub-section shall be made without giving an opportunity of hearing to the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in sub-section (2) or sub-section (5) of section 28 and clause (b) of sub-section (1), sub-section (2) or sub-section (3) of section 29 shall apply in respect of any disclosure of information, including identity information or authentication records, made in the interest of national security in pursuance of a direction of an officer not below the rank of Joint Secretary to the Government of India specially authorised in this behalf by an order of the Central Government:</p>
+              <p>Provided that every direction issued under this sub-section, shall be reviewed by an Oversight Committee consisting of the Cabinet Secretary and the Secretaries to the Government of India in the Department of Legal Affairs and the Department of Electronics and Information Technology, before it takes effect:</p>
+              <p>Provided further that any direction issued under this sub-section shall be valid for a period of three months from the date of its issue, which may be extended for a further period of three months after the review by the Oversight Committee.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Offences and penalties</heading>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Penalty for impersonation at time of enrolment.--</heading>
+          <paragraph id="section-34.paragraph-0">
+            <content>
+              <p>Whoever impersonates or attempts to impersonate another person, whether dead or alive, real or imaginary, by providing any false demographic information or biometric information, shall be punishable with imprisonment for a term which may extend to three years or with a fine which may extend to ten thousand rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Penalty for impersonation of Aadhaar number holder by changing demographic information or biometric information.--</heading>
+          <paragraph id="section-35.paragraph-0">
+            <content>
+              <p>Whoever, with the intention of causing harm or mischief to an Aadhaar number holder, or with the intention of appropriating the identity of an Aadhaar number holder changes or attempts to change any demographic information or biometric information of an Aadhaar number holder by impersonating or attempting to impersonate another person, dead or alive, real or imaginary, shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to a fine which may extend to ten thousand rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Penalty for impersonation.--</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>Whoever, not being authorised to collect identity information under the provisions of this Act, by words, conduct or demeanour pretends that he is authorised to do so, shall be punishable with imprisonment for a term which may extend to three years or with a fine which may extend to ten thousand rupees or, in the case of a company, with a fine which may extend to one lakh rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Penalty for disclosing identity information.--</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>Whoever, intentionally discloses, transmits, copies or otherwise disseminates any identity information collected in the course of enrolment or authentication to any person not authorised under this Act or regulations made thereunder or in contravention of any agreement or arrangement entered into pursuant to the provisions of this Act, shall be punishable with imprisonment for a term which may extend to three years or with a fine which may extend to ten thousand rupees or, in the case of a company, with a fine which may extend to one lakh rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Penalty for unauthorised access to the Central Identities Data Repository.--</heading>
+          <paragraph id="section-38.paragraph-0">
+            <content>
+              <blockList id="section-38.paragraph-0.list1">
+                <listIntroduction>Whoever, not being authorised by the Authority, intentionally, --</listIntroduction>
+                <item id="section-38.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>accesses or secures access to the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>downloads, copies or extracts any data from the Central Identities Data Repository or stored in any removable storage medium;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>introduces or causes to be introduced any virus or other computer contaminant in the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>damages or causes to be damaged the data in the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>disrupts or causes disruption of the access to the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>denies or causes a denial of access to any person who is authorised to access the Central Identities Data Repository;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>reveals any information in contravention of sub-section (5) of section 28, or shares, uses or displays information in contravention of section 29 or assists any person in any of the aforementioned acts;</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>destroys, deletes or alters any information stored in any removable storage media or in the Central Identities Data Repository or diminishes its value or utility or affects it injuriously by any means; or</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>steals, conceals, destroys or alters or causes any person to steal, conceal, destroy or alter any computer source code used by the Authority with an intention to cause damage, shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to a fine which shall not be less than ten lakh rupees.</p>
+                </item>
+              </blockList>
+              <p>Explanation.--For the purposes of this section, the expressions "computer contaminant", "computer virus" and "damage" shall have the meanings respectively assigned to them in the Explanation to section 43 of the Information Technology Act, 2000 (21 of 2000), and the expression "computer source code" shall have the meaning assigned to it in the Explanation to section 65 of the said Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Penalty for tampering with data in Central Identities Data Repository.--</heading>
+          <paragraph id="section-39.paragraph-0">
+            <content>
+              <p>Whoever, not being authorised by the Authority, uses or tampers with the data in the Central Identities Data Repository or in any removable storage medium with the intent of modifying information relating to Aadhaar number holder or discovering any information thereof, shall be punishable with imprisonment for a term which may extend to three years and shall also be liable to a fine which may extend to ten thousand rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Penalty for unauthorised use by requesting entity.--</heading>
+          <paragraph id="section-40.paragraph-0">
+            <content>
+              <p>Whoever, being a requesting entity, uses the identity information of an individual in contravention of sub-section (3) of section 8, shall be punishable with imprisonment which may extend to three years or with a fine which may extend to ten thousand rupees or, in the case of a company, with a fine which may extend to one lakh rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Penalty for non-compliance with intimation requirements.--</heading>
+          <paragraph id="section-41.paragraph-0">
+            <content>
+              <p>Whoever, being an enrolling agency or a requesting entity, fails to comply with the requirements of sub-section (2) of section 3 or sub-section (3) of section 8, shall be punishable with imprisonment which may extend to one year or with a fine which may extend to ten thousand rupees or, in the case of a company, with a fine which may extend to one lakh rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>General penalty.--</heading>
+          <paragraph id="section-42.paragraph-0">
+            <content>
+              <p>Whoever commits an offence under this Act or any rules or regulations made thereunder for which no specific penalty is provided elsewhere than this section, shall be punishable with imprisonment for a term which may extend to one year or with a fine which may extend to twenty-five thousand rupees or, in the case of a company, with a fine which may extend to one lakh rupees, or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Offences by companies.--</heading>
+          <subsection id="section-43.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <blockList id="section-43.2.list2">
+                <listIntroduction>Explanation.--For the purposes of this section--</listIntroduction>
+                <item id="section-43.2.list2.a">
+                  <num>(a)</num>
+                  <p>"company" means any body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-43.2.list2.b">
+                  <num>(b)</num>
+                  <p>"director", in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Act to apply for offence or contravention committed outside India.--</heading>
+          <subsection id="section-44.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to any offence or contravention committed outside India by any person, irrespective of his nationality.</p>
+            </content>
+          </subsection>
+          <subsection id="section-44.2">
+            <num>(2)</num>
+            <content>
+              <p>For the purposes of sub-section (1), the provisions of this Act shall apply to any offence or contravention committed outside India by any person, if the act or conduct constituting the offence or contravention involves any data in the Central Identities Data Repository.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Power to investigate offences.--</heading>
+          <paragraph id="section-45.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), a police officer not below the rank of Inspector of Police shall investigate any offence under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Penalties not to interfere with other punishments.--</heading>
+          <paragraph id="section-46.paragraph-0">
+            <content>
+              <p>No penalty imposed under this Act shall prevent the imposition of any other penalty or punishment under any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Cognizance of offences.--</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>No court shall take cognizance of any offence punishable under this Act, save on a complaint made by the Authority or any officer or person authorised by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <p>No court inferior to that of a Chief Metropolitan Magistrate or a Chief Judicial Magistrate shall try any offence punishable under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Power of Central Government to supersede Authority.--</heading>
+          <subsection id="section-48.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-48.1.list1">
+                <listIntroduction>If, at any time, the Central Government is of the opinion,--</listIntroduction>
+                <item id="section-48.1.list1.a">
+                  <num>(a)</num>
+                  <p>that, on account of circumstances beyond the control of the Authority, it is unable to discharge the functions or perform the duties imposed on it by or under the provisions of this Act; or</p>
+                </item>
+                <item id="section-48.1.list1.b">
+                  <num>(b)</num>
+                  <p>that the Authority has persistently defaulted in complying with any direction given by the Central Government under this Act or in the discharge of the functions or performance of the duties imposed on it by or under the provisions of this Act and as a result of such default the financial position of the Authority or the administration of the Authority has suffered; or</p>
+                </item>
+                <item id="section-48.1.list1.c">
+                  <num>(c)</num>
+                  <p>that a public emergency exists, the Central Government may, by notification, supersede the Authority for such period, not exceeding six months, as may be specified in the notification and appoint a person or persons as the President may direct to exercise powers and discharge functions under this Act:</p>
+                </item>
+              </blockList>
+              <p>Provided that before issuing any such notification, the Central Government shall give a reasonable opportunity to the Authority to make representations against the proposed supersession and shall consider the representations, if any, of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-48.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-48.2.list1">
+                <listIntroduction>Upon the publication of a notification under sub-section (1), superseding the Authority,--</listIntroduction>
+                <item id="section-48.2.list1.a">
+                  <num>(a)</num>
+                  <p>the Chairperson and other Members shall, as from the date of supersession, vacate their offices as such;</p>
+                </item>
+                <item id="section-48.2.list1.b">
+                  <num>(b)</num>
+                  <p>all the powers, functions and duties which may, by or under the provisions of this Act, be exercised or discharged by or on behalf of the Authority shall, until the Authority is reconstituted under sub-section (3), be exercised and discharged by the person or persons referred to in sub-section (1); and</p>
+                </item>
+                <item id="section-48.2.list1.c">
+                  <num>(c)</num>
+                  <p>all properties owned or controlled by the Authority shall, until the Authority is reconstituted under sub-section (3), vest in the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-48.3">
+            <num>(3)</num>
+            <content>
+              <p>On or before the expiration of the period of supersession specified in the notification issued under sub-section (1), the Central Government shall reconstitute the Authority by a fresh appointment of its Chairperson and other Members and in such case any person who had vacated his office under clause (a) of sub-section (2) shall not be deemed to be disqualified for reappointment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-48.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government shall cause a copy of the notification issued under sub-section (1) and a full report of any action taken under this section and the circumstances leading to such action to be laid before each House of Parliament at the earliest.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Members, officers, etc., to be public servants.--</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <p>The Chairperson, Members, officers and other employees of the Authority shall be deemed, while acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Power of Central Government to issue directions.--</heading>
+          <subsection id="section-50.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the foregoing provisions of this Act, the Authority shall, in exercise of its powers or the performance of its functions under this Act be bound by such directions on questions of policy, as the Central Government may give, in writing to it, from time to time:</p>
+              <p>Provided that the Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section:</p>
+              <p>Provided further that nothing in this section shall empower the Central Government to issue directions pertaining to technical or administrative matters undertaken by the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-50.2">
+            <num>(2)</num>
+            <content>
+              <p>The decision of the Central Government, whether a question is one of policy or not, shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Delegation.--</heading>
+          <paragraph id="section-51.paragraph-0">
+            <content>
+              <p>The Authority may, by general or special order in writing, delegate to any Member, officer of the Authority or any other person, subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act (except the power under section 54) as it may deem necessary.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Protection of action taken in good faith.--</heading>
+          <paragraph id="section-52.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against the Central Government or the Authority or the Chairperson or any Member or any officer, or other employees of the Authority for anything which is in good faith done or intended to be done under this Act or the rule or regulation made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Power of Central Government to make rules.--</heading>
+          <subsection id="section-53.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-53.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:--</listIntroduction>
+                <item id="section-53.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form and manner in which and the authority before whom the oath of office and of secrecy is to be subscribed by the Chairperson and Members under sub-section (2) of section 14;</p>
+                </item>
+                <item id="section-53.2.list1.b">
+                  <num>(b)</num>
+                  <p>the salary and allowances payable to, and other terms and conditions of service of, the Chairperson and the allowances or remuneration payable to Members of the Authority under sub-section (4) of section 14;</p>
+                </item>
+                <item id="section-53.2.list1.c">
+                  <num>(c)</num>
+                  <p>the other powers and functions of the Chairperson of the Authority under section 17;</p>
+                </item>
+                <item id="section-53.2.list1.d">
+                  <num>(d)</num>
+                  <p>the other powers and functions of the Authority under clause (t) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-53.2.list1.e">
+                  <num>(e)</num>
+                  <p>the form of annual statement of accounts to be prepared by Authority under sub-section (1) of section 26;</p>
+                </item>
+                <item id="section-53.2.list1.f">
+                  <num>(f)</num>
+                  <p>the form and the manner in which and the time within which returns and statements and particulars are to be furnished under sub-section (1) of section 27;</p>
+                </item>
+                <item id="section-53.2.list1.g">
+                  <num>(g)</num>
+                  <p>the form and the manner and the time at which the Authority shall furnish annual report under sub-section (2) of section 27;</p>
+                </item>
+                <item id="section-53.2.list1.h">
+                  <num>(h)</num>
+                  <p>any other matter which is required to be, or may be, prescribed, or in respect of which provision is to be or may be made by rules.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Power of Authority to make regulations.--</heading>
+          <subsection id="section-54.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, by notification, make regulations consistent with this Act and the rules made thereunder, for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-54.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-54.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:--</listIntroduction>
+                <item id="section-54.2.list1.a">
+                  <num>(a)</num>
+                  <p>the biometric information under clause (g) and the demographic information under clause (k), and the process of collecting demographic information and biometric information from the individuals by enrolling agencies under clause (m) of section 2;</p>
+                </item>
+                <item id="section-54.2.list1.b">
+                  <num>(b)</num>
+                  <p>the manner of verifying the demographic information and biometric information for issue of Aadhaar number under sub-section (3) of section 3;</p>
+                </item>
+                <item id="section-54.2.list1.c">
+                  <num>(c)</num>
+                  <p>the conditions for accepting an Aadhaar number as proof of identity of the Aadhaar number holder under sub-section (3) of section 4;</p>
+                </item>
+                <item id="section-54.2.list1.d">
+                  <num>(d)</num>
+                  <p>the other categories of individuals under section 5 for whom the Authority shall take special measures for allotment of Aadhaar number;</p>
+                </item>
+                <item id="section-54.2.list1.e">
+                  <num>(e)</num>
+                  <p>the manner of updating biometric information and demographic information under section 6;</p>
+                </item>
+                <item id="section-54.2.list1.f">
+                  <num>(f)</num>
+                  <p>the procedure for authentication of the Aadhaar number under section 8;</p>
+                </item>
+                <item id="section-54.2.list1.g">
+                  <num>(g)</num>
+                  <p>the other functions to be performed by the Central Identities Data Repository under section 10;</p>
+                </item>
+                <item id="section-54.2.list1.h">
+                  <num>(h)</num>
+                  <p>the time and places of meetings of the Authority and the procedure for transaction of business to be followed by it, including the quorum, under sub-section (1) of section 19;</p>
+                </item>
+                <item id="section-54.2.list1.i">
+                  <num>(i)</num>
+                  <p>the salary and allowances payable to, and other terms and conditions of service of, the chief executive officer, officers and other employees of the Authority under sub-section (2) of section 21;</p>
+                </item>
+                <item id="section-54.2.list1.j">
+                  <num>(j)</num>
+                  <p>the demographic information and biometric information under clause (a) and the manner of their collection under clause (b) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.k">
+                  <num>(k)</num>
+                  <p>the manner of maintaining and updating the information of individuals in the Central Identities Data Repository under clause (f) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.l">
+                  <num>(l)</num>
+                  <p>the manner of omitting and deactivating an Aadhaar number and information relating thereto under clause (g) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.m">
+                  <num>(m)</num>
+                  <p>the manner of use of Aadhaar numbers for the purposes of providing or availing of various subsidies, benefits, services and other purposes for which Aadhaar numbers may be used under clause (h) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.n">
+                  <num>(n)</num>
+                  <p>the terms and conditions for appointment of Registrars, enrolling agencies and other service providers and the revocation of appointments thereof under clause (i) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.o">
+                  <num>(o)</num>
+                  <p>the manner of sharing information of Aadhaar number holder under clause (k) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.p">
+                  <num>(p)</num>
+                  <p>various processes relating to data management, security protocol and other technology safeguards under clause (m) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.q">
+                  <num>(q)</num>
+                  <p>the procedure for issuance of new Aadhaar number to existing Aadhaar number holder under clause (n) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.r">
+                  <num>(r)</num>
+                  <p>manner of authorising Registrars, enrolling agencies or other service providers to collect such fees for services provided by them under clause (o) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.s">
+                  <num>(s)</num>
+                  <p>policies and practices to be followed by the Registrar, enrolling agencies and other service providers under clause (r) of sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-54.2.list1.t">
+                  <num>(t)</num>
+                  <p>the manner of accessing the identity information by the Aadhaar number holder under the proviso to sub-section (5) of section 28;</p>
+                </item>
+                <item id="section-54.2.list1.u">
+                  <num>(u)</num>
+                  <p>the manner of sharing the identity information, other than core biometric information, collected or created under this Act under sub-section (2) of section 29;</p>
+                </item>
+                <item id="section-54.2.list1.v">
+                  <num>(v)</num>
+                  <p>the manner of alteration of demographic information under sub-section (1) and biometric information under sub-section (2) of section 31;</p>
+                </item>
+                <item id="section-54.2.list1.w">
+                  <num>(w)</num>
+                  <p>the manner of and the time for maintaining the request for authentication and the response thereon under sub-section (1), and the manner of obtaining, by the Aadhaar number holder, the authentication records under sub-section (2) of section 32;</p>
+                </item>
+                <item id="section-54.2.list1.x">
+                  <num>(x)</num>
+                  <p>any other matter which is required to be, or may be, specified, or in respect of which provision is to be or may be made by regulations.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Laying of rules and regulations before Parliament.--</heading>
+          <paragraph id="section-55.paragraph-0">
+            <content>
+              <p>Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both the Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-56">
+          <num>56.</num>
+          <heading>Application of other laws not barred.--</heading>
+          <paragraph id="section-56.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not in derogation of, any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-57">
+          <num>57.</num>
+          <heading>Act not to prevent use of Aadhaar number for other purposes under law.--</heading>
+          <paragraph id="section-57.paragraph-0">
+            <content>
+              <p>Nothing contained in this Act shall prevent the use of Aadhaar number for establishing the identity of an individual for any purpose, whether by the State or any body corporate or person, pursuant to any law, for the time being in force, or any contract to this effect:</p>
+              <p>Provided that the use of Aadhaar number under this section shall be subject to the procedure and obligations under section 8 and Chapter VI.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-58">
+          <num>58.</num>
+          <heading>Power to remove difficulties.--</heading>
+          <subsection id="section-58.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:</p>
+              <p>Provided that no such order shall be made under this section after the expiry of three years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-58.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-59">
+          <num>59.</num>
+          <heading>Savings.--</heading>
+          <paragraph id="section-59.paragraph-0">
+            <content>
+              <p>Anything done or any action taken by the Central Government under the Resolution of the Government of India, Planning Commission bearing notification number A-43011/02/2009-Admin. I, dated the 28th January, 2009, or by the Department of Electronics and Information Technology under the Cabinet Secretariat Notification bearing notification number S.O. 2492(E), dated the 12th September, 2015, as the case may be, shall be deemed to have been validly done or taken under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

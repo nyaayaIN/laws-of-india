@@ -1,0 +1,1855 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2009/27/main"/>
+          <FRBRuri value="/in-union/act/2009/27"/>
+          <FRBRalias value="The Prevention And Control Of Infectious And Contagious Diseases In Animals Act, 2009"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2009/27/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2009/27/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2009/27/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2009/27/eng@2017-01-25"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Prevention And Control Of Infectious And Contagious Diseases In Animals Act, 2009</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 27 OF 2009</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[20th March, 2009.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to provide for the prevention, control and eradication of infectious and contagious diseases affecting animals, for prevention of outbreak or spreading of such diseases from one State to another, and to meet the international obligations of India for facilitating import and export of animals and animal products and for matters connected therewith or incidental thereto.</p>
+        <p>WHEREAS economic losses due to infectious and contagious diseases of animals are enormous in the country with some of these diseases constituting a serious threat to the public;</p>
+        <p>AND WHEREAS many of such animal diseases can be largely prevented by judicious implementation of vaccination programmes or by taking other appropriate and timely measures on scientific lines;</p>
+        <p>AND WHEREAS such measures are necessary to facilitate the import and export of animals and animal products and to keep in tune with international practices;</p>
+        <p>AND WHEREAS it has been realised that the prevention, control and eradication of infectious and contagious diseases of animals from India has to be tackled on a national basis so as to avoid adverse impact of such diseases on the economy of the country and for this purpose harmonise the control procedures and to prevent inter-State transmission of animal diseases;</p>
+        <p>AND WHEREAS the national level handling has to be done with the active involvement of the State Governments, particularly in regard to the precautionary measures required to be taken within their jurisdiction in respect of certain infectious and contagious diseases and the regulation of movement of animals outside their respective areas by timely adoption of appropriate measures;</p>
+        <p>AND WHEREAS India is a Member Country of the Office International Des Epizooties, Paris and it is necessary to implement the general obligations, decisions and recommendations of the said Organisation and abide by the International Animal Health Code stipulated by the said Organisation;</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Sixtieth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Prevention and Control of Infectious and Contagious Diseases in Animals Bill, 2009.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification, appoint; and different dates may be appointed for different States or for different areas therein as well as for different provisions of this Act, and any reference in any such provision of this Act to the commencement of this Act shall be construed in relation to any State or area or provision as a reference to the coming into force of this Act or, as the case may be, of that provision, in such State or area.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-2.paragraph-0.list1.a.list0">
+                    <listIntroduction>“animal” means,—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>cattle, buffalo, sheep, goat, yak, mithun;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>dog, cat, pig, horse, camel, ass, mule, poultry, bees; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>any other animal or bird as the Central Government may, by notification, specify;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“Check Post” means any place established as such by the Director to carry out checking of animals for the purpose of this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“Competent Officer” means any person or officer of the Government notified as a Competent Officer under section 17;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“compulsory vaccination” means vaccination of any animal against any scheduled disease in respect of which vaccination is made mandatory under the provisions of this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“controlled area” means any local area which has been declared as such by the State Government under sub-section (1) of section 6;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“defective vaccine” means any vaccine which is expired, breach in seal, contaminated, improperly stored, unlabelled or with mutilated label;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“Director”, in relation to a State, means any officer in charge of the Department of Animal Husbandry or Veterinary Services, or both, notified by the State Government as such for the purpose of this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“free area” means any controlled area which has been declared as such under sub-section (5) of section 6;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“infected animal” means an animal which is infected with any scheduled disease;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“infected area” means an area declared as such under section 20;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“notification” means notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“publication” includes propagation of information through the media or newspaper or any other mass media and the means of local communication such as declaration in loud voice and by beating drums in the area;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>“Quarantine Camp” means any place declared to carry out quarantine of animals and birds for the purpose of this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>“scheduled disease” means any disease included in the Schedule;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.p">
+                  <num>(p)</num>
+                  <p>“Veterinarian” means a person having a recognised veterinary qualification who, under the law for the time being in force, is allowed to treat animal diseases;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.q">
+                  <num>(q)</num>
+                  <p>“Veterinary Officer” means any officer, appointed as such by the State Government under clause (b) of section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.r">
+                  <num>(r)</num>
+                  <p>“Village Officer”, in relation to a village, means any person who is authorised or designated as such in accordance with the qualifications prescribed by the State Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Control of scheduled diseases</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Appointment of Veterinary Officers.—</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <blockList id="section-3.paragraph-0.list1">
+                <listIntroduction>The State Government may, by notification, appoint—</listIntroduction>
+                <item id="section-3.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>such number of persons, as it deems proper, to be Veterinarians to undertake inspection and specifying the local limits of their respective jurisdiction; and</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>such number of Veterinarians, as it deems proper, to be Veterinary Officers, who shall exercise their powers and discharge their duties within the local limits of their jurisdiction as may be specified in the said notification.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Reporting scheduled diseases obligatory.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Every owner, or any other person, non-governmental organisation, public bodies or the village panchayat, in charge of any animal which he or it has reason to believe to be infective of a scheduled disease shall report the fact to the Village Officer or village panchayat in-charge, who may report the same in writing to the nearest available Veterinarian.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The Village Officer shall visit the area falling within his jurisdiction for reporting any outbreak of the disease.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>Every Veterinarian shall, on receipt of a report under sub-section (1), or otherwise, if he has reason to believe that any animal is infected with a scheduled disease, report the matter to the Veterinary Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>Where in any State there is any occurrence of scheduled disease in relation to any animal, the Director shall send an intimation to the Directors of the States which are in the immediate neighbourhood of the place where there is such occurrence, for taking appropriate preventive measures against the spread of the disease.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Duty to segregate infected animals.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>Every owner or person in charge of an animal, which he has reason to believe is infective of a scheduled disease, shall segregate such animal and have it kept in a place away from all other animals which are healthy, and take all possible steps to prevent the infected animal from coming in contact with any other animal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The owner or other person in charge of, or having control over, the animal referred to in sub-section (1) shall confine that animal and prevent it from grazing in a common place or to drink water from any common source including a vessel, pond, lake or river.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>All other infected animals shall be segregated by the Municipality, Panchayat or other local administration.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Notification of controlled areas and free areas.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, with the object of preventing, controlling or eradicating any scheduled disease, by notification, declare any area to be a controlled area in respect of any scheduled disease affecting any species of animal and any other species that may be susceptible to the disease specified in the said notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government shall also cause the substance of the notification issued under sub-section (1) to be published in a local newspaper in the vernacular language and by declaration in loud voice and by beating drums in the area.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>Where a notification has been issued under sub-section (1), all animals of the species in the controlled area shall be subjected to compulsory vaccination against that disease, and be subjected to such other measures against the disease, in such manner and within such time as the State Government, may, by public notice, direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>The State Government shall make available necessary vaccine and it shall be obligatory on the part of every owner, or the person in charge of an animal which is required to be vaccinated under sub-section (3), to get the animal compulsorily vaccinated.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>Where the State Government is satisfied, on a report received from the Director or otherwise, that, in any controlled area, any of the scheduled diseases affecting any species of animal is no longer prevalent, it may, by notification, declare the area to be a free area in respect of that disease in relation to the particular species of animal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.6">
+            <num>(6)</num>
+            <content>
+              <p>Where a notification has been issued under sub-section (5), no animal of the species or of any other susceptible species with regard to which it is a free area shall be allowed to enter the free area unless duly immunized by vaccination against that particular disease.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Prohibition of movement of animals from controlled area.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a notification has been issued under sub-section (1) of section 6 declaring any area as a controlled area in relation to any disease affecting any species of animals, no animal belonging to that species shall be moved from the place where it is kept.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The Director may, for the purpose of control, prevention or eradication of any scheduled disease, in respect of any area, by order published in the Official Gazette, prohibit the movement of all animals belonging to any species specified therein, from the place where it is kept, to any other place.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-7.3.list1">
+                <listIntroduction>Nothing contained in sub-sections (1) and (2) shall be deemed to prohibit—</listIntroduction>
+                <item id="section-7.3.list1.a">
+                  <num>(a)</num>
+                  <p>the movement of any animal referred to therein, from the place where it is kept, to the nearest place where it can be got vaccinated, so long as the animal is being moved for the purpose of its immunization by vaccination; or</p>
+                </item>
+                <item id="section-7.3.list1.b">
+                  <num>(b)</num>
+                  <p>the movement of any such animal, so long as it is accompanied by a valid certificate of vaccination to indicate that the animal is duly immunized against the particular disease and it bears proper mark of such vaccination.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Vaccination, marking and issue of vaccination certificate.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>The vaccine to an animal may be administered by any person competent under the law for the time being in force to administer it, and issue a certificate of administration of vaccination.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any animal has been vaccinated for any scheduled disease in compliance with the provisions of sub-section (1), the person vaccinating the animal shall cause to put a mark by branding, tattooing or ear tagging, or in such other manner as the Director may, by general or special order, direct and the same shall, unless otherwise specified by the Director, shall not be removed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>The authority issuing a certificate of vaccination shall specify the date of vaccination, dates of manufacture and expiry of the vaccine and the date up to which the vaccination of the animal with the particular vaccine shall be valid.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Contents of vaccination certificate.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>Every vaccination certificate issued under this Act shall be in such form and shall contain such particulars as may be prescribed by the Central Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Entry and exit of animals into controlled area and free area.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any area has been declared as a controlled area under sub-section (1) of section 6 in respect of any disease affecting any species of animals, no animal belonging to that species shall be taken out of, or brought into that area save as provided in section 16.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The Director may, by notice duly published in the Official Gazette and at least in one daily local newspaper in vernacular language, extend the prohibition contained in sub-section (1) to any other species of animals, if animals belonging to that species are also likely to be infected with that disease.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>No carrier of goods or animal shall carry any animal from or out of a controlled area, free area or infected area by land, sea or air unless he complies with the provisions of section 16.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing contained in sub-sections (1) to (3) shall apply to the carriage by railway of any animal referred to in those sub-sections through any area which, for the time being, is declared as a controlled area or infected area so long as the animal is not unloaded (for whatsoever purpose or duration) in any place within that area:</p>
+              <p>Provided that the State Government may, by notification, declare that any species of animal so carried through any local area within the State shall be duly immunized against such scheduled disease, in such manner and within such time as may be specified in that notification and a certificate of vaccination shall be a pre-requisite for the transportation of the animals by the railways through that area:</p>
+              <p>Provided further that, where any notification as referred to in the first proviso has been issued, it shall be incumbent on the State Government to intimate that fact to the concerned railway authorities so as to enable them to satisfy themselves about the immunization of the animal before transporting it through the local area of the State.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Precautionary measures in relation to controlled areas.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <blockList id="section-11.paragraph-0.list1">
+                <listIntroduction>No person shall take out of the controlled area—</listIntroduction>
+                <item id="section-11.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any animal, alive or dead, which is infected with, or reasonably suspected to have been infected with, any scheduled disease notified under sub-section (1) of section 6;</p>
+                </item>
+                <item id="section-11.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any kind of fodder, bedding or other material which has come into contact with any animal infected with such disease or could, in any manner, carry the infection of the notified disease; or</p>
+                </item>
+                <item id="section-11.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the carcass, skin or any other part or product of such animal.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Prohibition of markets, fairs, exhibition, etc., in the controlled areas.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>No person, organisation or institution shall hold any animal market, animal fair, animal exhibition and carry on any other activity which involves grouping or gathering of any species of animals within a controlled area:</p>
+              <p>Provided that the Competent Officer may, suo motu or on application made to him in this behalf, relax the prohibition in relation to any species of animals, in a case where animals belonging to that species are not susceptible to the scheduled disease and are incapable of carrying it, if he is satisfied that in the public interest it is necessary to accord such relaxation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Prohibition of bringing of infected animals into market and other places.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>No person shall bring or attempt to bring into market, fair, exhibition or other congregation of animals or to any public place, any animal which is known to be infected with a scheduled disease.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Check Posts and Quarantine Camps.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>The Director may establish as many Quarantine Camps and Check Posts within the State as may be required—</listIntroduction>
+                <item id="section-14.1.list1.a">
+                  <num>(a)</num>
+                  <p>for the detention of animals suffering from any scheduled disease or of animals which have come into contact with or have been kept in the proximity of any such infected animal;</p>
+                </item>
+                <item id="section-14.1.list1.b">
+                  <num>(b)</num>
+                  <p>for ensuring the prevention of entry into or exit from any controlled area or infected area or free area, of any animal belonging to the species of animals in respect of which a notification, issued under sub-section (1) of section 6, or an order issued under sub-section (2) of section 7, is in force.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Any animal which is required to be detained, inspected, vaccinated, or marked, may be kept in the Quarantine Camp for such period as the Competent Officer may direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>Every animal detained at a Quarantine Camp shall be under the custody of the person in charge of the camp, and shall be vaccinated and marked.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.4">
+            <num>(4)</num>
+            <content>
+              <p>The officer in charge of the Quarantine Camp shall, at the time of release of an animal from the station, grant a permit, in such form as may be prescribed by the State Government, to the person taking charge of the animal, and every such person shall be bound to produce the permit whenever required to do so by any Competent Officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Inspection and detention of animals at Check Posts and Quarantine Camps.—</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>Every person in charge of any Check Post or Quarantine Camp shall inspect any animal stopped at the Check Post, or detained therein or at the Quarantine Camp.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The manner of inspection and the period of detention of the animal at the Check Post or at the Quarantine Camp for the purpose of inspection or for the administration of compulsory vaccination, the marking of animals and the form and manner in which permit for entry in respect of any animal may be issued, shall be such as may be prescribed by the State Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Entry and exit of vaccinated animals into controlled and free areas.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in section 10, an animal belonging to the species of animals in respect of which an area has been declared as a controlled or free area in relation to any scheduled disease, which has been duly vaccinated against that disease, shall be allowed to enter into or be taken out of the controlled area or free area, or to be taken out of any other place on the production of a certificate to the effect that vaccine against that disease has been administered and a period of not less than twenty-one days has elapsed thereafter.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Appointment of Competent Officers.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>The State Government may, for the proper implementation of the provisions of this Act, by notification, authorise any person to exercise any power or discharge any duty as a Competent Officer, under this Act, who shall exercise such powers and such duties within the local limits of his jurisdiction as may be specified in the notification.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Cleaning and disinfection of carriers.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>Every common carrier whether a vessel or vehicle shall be cleaned and disinfected immediately before and after the transportation of any animal in that vessel or vehicle, and so also any other place where the animal has been kept in transit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any area has been declared as a controlled area or free area in respect of any scheduled disease affecting any species of animal, the Director may, by an order duly published in the Official Gazette and in a local newspaper in the vernacular language, direct the owner of every vehicle in which any animal belonging to that species is carried, to have the vehicle properly cleaned and disinfected.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Powers of entry and inspection.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Any Veterinary Officer or other Competent Officer may enter upon and inspect any land or building or place, vessel or vehicle, for the purpose of ensuring compliance of the provisions of this Act or the rules or orders made thereunder, by the persons responsible for such compliance.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Infected areas</heading>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Declaration of infected areas.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>If the Veterinary Officer, upon receipt of a report from a Veterinarian or otherwise, is satisfied that, in any place or premises falling within his jurisdiction, an animal has been infected with any scheduled disease, or that an animal, which he has reason to believe has been so infected, is kept, may, by notification and publication in at least one local newspaper in the vernacular language and by declaration in loud voice and by beating drums, declare such area as he may deem fit (including the place or premises aforesaid) to be an infected area.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Effect of declaration of infected areas.—</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an area has been declared as an infected area under section 20, all provisions of this Act which are applicable in relation to a controlled area shall mutatis mutandis apply thereto as if for the words “controlled area”, the words “infected area” have been substituted.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-21.2.list1">
+                <listIntroduction>Without prejudice to the generality of the provisions contained in sub-section (1), the following further provisions shall apply in relation to an infected area, namely:—</listIntroduction>
+                <item id="section-21.2.list1.a">
+                  <num>(a)</num>
+                  <p>in respect of every animal in that area which is infected or reasonably believed to be infected, with any scheduled disease, the owner or other person in charge of the animal, shall forthwith get it treated by a Veterinarian;</p>
+                </item>
+                <item id="section-21.2.list1.b">
+                  <num>(b)</num>
+                  <p>all articles, which are likely to have come into contact with any animal referred to in clause (a), shall be treated or disposed off in such a manner as the Veterinarian may direct;</p>
+                </item>
+                <item id="section-21.2.list1.c">
+                  <num>(c)</num>
+                  <p>every Veterinarian shall, for the purpose of inspection, have the power to enter any place or premises where any animal is kept or is likely to be kept;</p>
+                </item>
+                <item id="section-21.2.list1.d">
+                  <num>(d)</num>
+                  <p>the owner or any other person in charge of the animal referred to in clause (a) shall keep the animal in isolation forthwith, and also take such other measures as may be necessary for the prevention, treatment and control of the disease as the Veterinarian may direct.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Denotification of infected area.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>If the Veterinary Officer, after such enquiry as he may deem fit, is satisfied that there is no longer the threat or danger of any animal being infected with the scheduled disease in any infected area, by notification and publication in a local newspaper in vernacular language, declare that the area is no longer an infected area as aforesaid, whereupon all the restrictions referred to in section 21 shall cease to apply.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Infected animals</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Segregation, examination and treatment of infected animals.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-23.1.list1">
+                <listIntroduction>Where the Veterinarian has, on receipt of a report or otherwise, reason to believe that any animal is infected with a scheduled disease, he may, by order in writing, direct the owner or any other person in charge of such animal—</listIntroduction>
+                <item id="section-23.1.list1.a">
+                  <num>(a)</num>
+                  <p>to keep it segregated from other apparently healthy animals; or</p>
+                </item>
+                <item id="section-23.1.list1.b">
+                  <num>(b)</num>
+                  <p>to subject it to such treatment as may be required under the circumstances.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any action has been taken in pursuance of sub-section (1), the Veterinarian shall forthwith give a detailed report of the incidence of the disease to the Veterinary Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of a report from the Veterinarian, the Veterinary Officer shall, as soon as possible, examine that animal as well as any other animal which could have come in contact with it, and for that purpose, submit the animal to such test and medical examination as may be required under the circumstances.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.4">
+            <num>(4)</num>
+            <content>
+              <p>If, after such test and examination, the Veterinary Officer is of the opinion that an animal is not infected with any of the scheduled diseases, he shall issue a certificate in writing that the animal is not infected with any such disease.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Drawing samples from animals.—</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Veterinary Officer considers it necessary for the purpose of ascertaining whether the animal which is suspected to have been infected with any scheduled disease or susceptible to such infection is actually infected, or for the purpose of ascertaining the nature of the scheduled disease with which an animal is infected, he may draw such samples, as may be required, from the animal for the purpose of carrying out such investigations as he may deem necessary under the circumstances.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>The Veterinary Officer or any other Competent Officer shall draw samples from any animal for the purposes of ascertaining whether the animal has been vaccinated against any disease, or whether the vaccination of the animal has been effective in conferring it immunity and have the samples examined, in such manner as he may deem necessary.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Resort to euthanasia for infected animals.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>If the Veterinary Officer deems it necessary that an animal, which is infected with a scheduled disease, euthanasia has to be resorted to, for preventing the spread of the disease to other animals in the area or to protect public health if the disease is of zoonotic importance, he may, notwithstanding anything contained in any other law for the time being in force, by an order in writing, direct euthanasia of the animal and the carcass disposed of immediately to his satisfaction.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Disposal of carcass.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Every person in possession of carcass (or any part thereof) of any animal, which, at the time of its death, was infected with any scheduled disease or was suspected to have been infected, shall dispose it of in such manner as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Powers of Veterinary Officer and Veterinarian to hold post-mortem examination.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Veterinary Officer or any Veterinarian has reason to believe that the death of an animal has been caused by an infection of any scheduled disease, he may make or cause to be made a post-mortem examination of the animal and for that purpose he may cause the carcass of any such animal to be exhumed where required followed by proper disposal after necessary examination and post-mortem.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Every examination and post-mortem referred to in sub-section (1) shall be conducted in such manner, and the report of post-mortem shall be in such form, as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Seizure and removal of certain animals.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>Where any animal which is infected or suspected to have been infected is found without any person claiming to be its owner, or where a valid order or direction given in relation to any such animal is not promptly complied with by the owner or other person in control of the animal, it shall be open to the Veterinary Officer or any other Competent Officer, to seize the animal and remove it to a place of isolation or segregation, as he may deem proper.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Enforcement and penalties</heading>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Enforcement of orders and recovery of expenses.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-29.1.list1">
+                <listIntroduction>Where by any rule, notification, notice, requisition, order or direction made under this Act, any person is required to take any measure or to do anything—</listIntroduction>
+                <item id="section-29.1.list1.a">
+                  <num>(a)</num>
+                  <p>in respect of any animal, carcass of any animal or other thing in his custody or charge, the same shall be promptly complied with by that person;</p>
+                </item>
+                <item id="section-29.1.list1.b">
+                  <num>(b)</num>
+                  <p>in case of any stray or ownerless animal, carcass of such animal or parts thereof, the same shall be promptly complied with by the municipality or Panchayat, as the case may be, at its cost.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>If the measures as referred to in sub-section (1) are not taken within such time as may be allowed for the purpose, the authority issuing the notice, requisition, order or direction, may cause the measures to be taken at the cost of the person or municipality or Panchayat, as the case may be, who or which was required to take the measures.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.3">
+            <num>(3)</num>
+            <content>
+              <p>The costs of any measures taken under sub-section (2), shall be recoverable from the person or the municipality or Panchayat, as the case may be, concerned in the manner provided by the Code of Criminal Procedure, 1973 (2 of 1974) for the recovery of fines imposed by a Court, as if such costs were a fine imposed by a Court.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Village Officers, etc., to assist.—</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <blockList id="section-30.paragraph-0.list1">
+                <listIntroduction>All Municipal, Panchayat or Village Officers and all officers of the rural and dairy development, revenue, agriculture, animal husbandry and veterinary departments of the State Government, shall be bound—</listIntroduction>
+                <item id="section-30.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to give immediate information to the Veterinary Officer and to the Veterinarian having jurisdiction in the area regarding the prevalence of a scheduled disease amongst any animal or species of animals, in the area;</p>
+                </item>
+                <item id="section-30.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to take all necessary measures to prevent the outbreak or spread of any scheduled disease; and</p>
+                </item>
+                <item id="section-30.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to assist the Veterinary Officer and the Veterinarian in the discharge of their duties or in the exercise of their powers under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Penalty for issuing vaccination certificate without authority or administering defective vaccine.—</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <blockList id="section-31.paragraph-0.list1">
+                <listIntroduction>If any person issues a vaccination certificate,—</listIntroduction>
+                <item id="section-31.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>without authority or competence in that behalf, or</p>
+                </item>
+                <item id="section-31.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>after administering the vaccine which is known to be defective in any manner,</p>
+                </item>
+              </blockList>
+              <p>he shall be guilty of an offence punishable with a fine of five thousand rupees or in case of non-payment of fine with imprisonment which may extend to one month, and in the case of any subsequent offence, with fine of ten thousand rupees or with imprisonment which may extend to three months.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Penalties.—</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>Any person who contravenes the provisions of this Act or obstructs the Competent Officer in performing his duties shall be guilty of an offence punishable with fine which may extend to one thousand rupees, and in case of failure to pay the penalty with imprisonment for a term which may extend to one month; and in the case of any subsequent offence (whether under the same provision or any other provision of this Act except in case of sections 31 and 33) with a fine of two thousand rupees, or with imprisonment for a term which may extend to two months in case of non-payment of the penalty.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Penalty for placing infected animal or carcass in river, etc.—</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <p>Whoever places or causes or permits to be placed in any river, lake, canal or any other water body, the carcass or any part of the carcass of any animal which at the time of its death was known to be infected, shall be guilty of an offence and, on conviction, be punished, in the case of a first offence with fine of two thousand rupees or with imprisonment of one month in case of non-payment of fine and in the case of subsequent conviction with a fine of five thousand rupees or imprisonment for a term which may extend to three months or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Offences by companies.—</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-34.2.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-34.2.list3.a">
+                  <num>(a)</num>
+                  <p>“company” means any body corporate and includes a co-operative society registered or deemed to be registered under any law for the time being in force, a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-34.2.list3.b">
+                  <num>(b)</num>
+                  <p>“director”, in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Precautionary measures on causative organism, etc.</heading>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Prevention of escape of causative organism.—</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-35.1.list1">
+                <listIntroduction>In every institution, laboratory or clinic, engaged in the manufacture, testing or research, related to vaccines, sera, diagnostics or chemotherapeutic drugs and aimed at the prevention or treatment of any scheduled disease, adequate precautionary measures shall be taken—</listIntroduction>
+                <item id="section-35.1.list1.a">
+                  <num>(a)</num>
+                  <p>to ensure that the causative organism of any scheduled disease does not escape or otherwise get released;</p>
+                </item>
+                <item id="section-35.1.list1.b">
+                  <num>(b)</num>
+                  <p>to guard against any such escape or release; and</p>
+                </item>
+                <item id="section-35.1.list1.c">
+                  <num>(c)</num>
+                  <p>to warn and to protect everyone concerned in the event of any escape.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-35.2.list1">
+                <listIntroduction>Notwithstanding anything contained in any other law for the time being in force, every animal—</listIntroduction>
+                <item id="section-35.2.list1.a">
+                  <num>(a)</num>
+                  <p>used for the manufacture, testing or research as referred to sub-section (1), or</p>
+                </item>
+                <item id="section-35.2.list1.b">
+                  <num>(b)</num>
+                  <p>which is likely to carry or transmit any scheduled disease,</p>
+                </item>
+              </blockList>
+              <p>shall be promptly administered euthanasia and disposed of by the person in charge of or having control of the institution, laboratory or clinic, as the case may be, referred to in that sub-section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.3">
+            <num>(3)</num>
+            <content>
+              <p>Every person who is in charge of or having control of an institution, laboratory or clinic referred to in sub-section (1) comply with the provisions of sub-section (1) and sub-section (2); and in the event of non-compliance he shall be guilty of an offence punishable with fine which may extend to twenty thousand rupees or imprisonment for a term which may extend to six months or with both, and in case the establishment is in commercial manufacturing of vaccines or medicine, a temporary suspension of licence up to a period of one year may also be imposed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Power to delegate.—</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>The State Government may, by notification, delegate to any officer or authority subordinate to it, all or any of the powers conferred on it by or under this Act, except the powers to make rules under sub-section (2) of section 42.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Officers and authorities to function subject to Government control.—</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>All officers and authorities under this Act shall exercise their powers and discharge their duties conferred or imposed on them by or under this Act, in accordance with such orders, not inconsistent with the provisions of this Act, as the Central Government or the State Government may, from time to time, make.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Power to amend the Schedule.—</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, add to, or omit from the Schedule any animal disease and the said disease shall, as from the date of the notification, be deemed to have been added to, or omitted from, the Schedule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>Every notification issued under sub-section (1) shall, as soon as may be after it is issued, be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Power to issue directions.—</heading>
+          <paragraph id="section-39.paragraph-0">
+            <content>
+              <p>The Central Government may, with the object of prevention, control and eradication of any infectious or contagious disease of animals, issue such directions to the State Government or other authorities under this Act, from time to time, including directions for furnishing such returns and statistics on scheduled diseases, and vaccination, as it may deem fit and every such direction shall be complied with.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Certain persons to be public servants.—</heading>
+          <paragraph id="section-40.paragraph-0">
+            <content>
+              <p>Every Competent Officer, Director and Veterinary Officer, while exercising any power or performing any duty under this Act, shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-41.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no such order shall be made after the expiry of a period of two years from the date of commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-41.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Power of Central Government to make rules.—</heading>
+          <subsection id="section-42.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, subject to the condition of previous publication, by notification, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-42.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-42.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form of vaccination certificate and the particulars which such certificate shall contain, under section 9;</p>
+                </item>
+                <item id="section-42.2.list1.b">
+                  <num>(b)</num>
+                  <p>the manner of disposal of carcass, under section 26;</p>
+                </item>
+                <item id="section-42.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner of conducting examination and post-mortem under sub-section (1) and the form of report of post-mortem under sub-section (2) of section 27;</p>
+                </item>
+                <item id="section-42.2.list1.d">
+                  <num>(d)</num>
+                  <p>any other matter which may be prescribed or in respect of which rules are required to be made by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Power of State Government to make rules.—</heading>
+          <subsection id="section-43.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification and with the prior approval of the Central Government, make rules for carrying out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-43.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-43.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form of permit to be granted by the officer in charge of a Quarantine Camp, under sub-section (4) of section 14;</p>
+                </item>
+                <item id="section-43.2.list1.b">
+                  <num>(b)</num>
+                  <p>the manner of inspection and the period of detention of an animal at a Check Post or at a Quarantine Camp for the administration of compulsory vaccination and marking of animals and the form and manner of issue of entry permit, under sub-section (2) of section 15;</p>
+                </item>
+                <item id="section-43.2.list1.c">
+                  <num>(c)</num>
+                  <p>any other matter in respect of which rule is to be or may be made by the State Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Laying of rules.—</heading>
+          <subsection id="section-44.1">
+            <num>(1)</num>
+            <content>
+              <p>Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may</p>
+              <p>be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-44.2">
+            <num>(2)</num>
+            <content>
+              <p>Every rule made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Repeal and savings.—</heading>
+          <paragraph id="section-45.paragraph-0">
+            <content>
+              <blockList id="section-45.paragraph-0.list1">
+                <listIntroduction>On the commencement of this Act—</listIntroduction>
+                <item id="section-45.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>The Glanders and Farcy Act, 1899 (13 of 1899);</p>
+                </item>
+                <item id="section-45.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>The Dourine Act, 1910 (5 of 1910); and</p>
+                </item>
+                <item id="section-45.paragraph-0.list1.iii">
+                  <num>(iii)</num>
+                  <p>any other corresponding law of any State, so far as it is inconsistent with the provisions of this Act,</p>
+                </item>
+              </blockList>
+              <p>shall stand repealed:</p>
+              <blockList id="section-45.paragraph-0.list4">
+                <listIntroduction>Provided that nothing contained in this section shall—</listIntroduction>
+                <item id="section-45.paragraph-0.list4.a">
+                  <num>(a)</num>
+                  <p>affect the previous operation of any such provision of law or anything duly done or suffered thereunder;</p>
+                </item>
+                <item id="section-45.paragraph-0.list4.b">
+                  <num>(b)</num>
+                  <p>affect any right, privilege, obligation or liability acquired, accrued or incurred under any such provision of law;</p>
+                </item>
+                <item id="section-45.paragraph-0.list4.c">
+                  <num>(c)</num>
+                  <p>affect any penalty, forfeiture or punishment incurred in respect of any offence committed against any such provision of law; or</p>
+                </item>
+                <item id="section-45.paragraph-0.list4.d">
+                  <num>(d)</num>
+                  <p>affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid; and every such investigation, legal proceeding or remedy may be continued, instituted or enforced, and any such penalty, forfeiture and punishment may be imposed, as if the aforesaid provisions of law had continued:</p>
+                </item>
+              </blockList>
+              <p>Provided further that, anything done or any action taken under any such provision of law, including any notification, order, notice or receipt issued or declaration made, shall in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done, taken, issued or made under the corresponding provisions of this Act, and shall continue in force accordingly, unless and until superseded by anything done or any action taken under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2009/27/schedules"/>
+              <FRBRuri value="/in-union/act/2009/27"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2009/27/eng@2017-01-25/schedules"/>
+              <FRBRuri value="/in-union/act/2009/27/eng@2017-01-25"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2009/27/eng@2017-01-25/schedules"/>
+              <FRBRuri value="/in-union/act/2009/27/eng@2017-01-25"/>
+              <FRBRdate date="2016-09-28" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>[See sections 2 (o) and 38]</heading>
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <blockList id="theschedule.paragraph-0.list0">
+                  <item id="theschedule.paragraph-0.list0.a">
+                    <num>(a)</num>
+                    <p>Multiple species diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </paragraph>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Anthrax.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Aujeszky's disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Bluetongue.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Brucellosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Crimean Congo haemorrhagic fever.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Echinococcosis/hydatidosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Foot and mouth disesase.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Heartwater.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Japanese encephalitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.10">
+              <num>(10)</num>
+              <content>
+                <p>Leptospirosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.11">
+              <num>(11)</num>
+              <content>
+                <p>New world screwworm (Cochliomyia hominivorax).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.12">
+              <num>(12)</num>
+              <content>
+                <p>Old world screwworm (Chrysomya bezziana).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.13">
+              <num>(13)</num>
+              <content>
+                <p>Paratuberculosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.14">
+              <num>(14)</num>
+              <content>
+                <p>Q fever.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.15">
+              <num>(15)</num>
+              <content>
+                <p>Rabies.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.16">
+              <num>(16)</num>
+              <content>
+                <p>Rift Valley fever.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.17">
+              <num>(17)</num>
+              <content>
+                <p>Rinderpest.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.18">
+              <num>(18)</num>
+              <content>
+                <p>Trichinellosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.19">
+              <num>(19)</num>
+              <content>
+                <p>Tularemia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.20">
+              <num>(20)</num>
+              <content>
+                <p>Vesicular stomatitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.21">
+              <num>(21)</num>
+              <content>
+                <blockList id="theschedule.21.list1">
+                  <listIntroduction>West Nile fever.</listIntroduction>
+                  <item id="theschedule.21.list1.b">
+                    <num>(b)</num>
+                    <p>Cattle diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Bovine anaplasmosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Bovine babesiosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Bovine genital campylobacteriosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Bovine spongiform encephalopathy.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Bovine tuberculosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Bovine viral diarrhoea.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Contagious bovine pleuropneumonia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Enzootic bovine leucosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Haemorrhagic septicaemia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.10">
+              <num>(10)</num>
+              <content>
+                <p>Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.11">
+              <num>(11)</num>
+              <content>
+                <p>Lumpy skin disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.12">
+              <num>(12)</num>
+              <content>
+                <p>Malignant catarrhal fever.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.13">
+              <num>(13)</num>
+              <content>
+                <p>Theileriosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.14">
+              <num>(14)</num>
+              <content>
+                <p>Trichomonosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.15">
+              <num>(15)</num>
+              <content>
+                <blockList id="theschedule.15.list1">
+                  <listIntroduction>Trypanosomosis.</listIntroduction>
+                  <item id="theschedule.15.list1.c">
+                    <num>(c)</num>
+                    <p>Sheep and goat diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Caprine arthritis/encephalitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Contagious agalactia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Contagious caprine pleuropneumonia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Enzootic abortion of ewes (ovine chlamydiosis).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Maedi-visna.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Nairobi sheep disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Ovine epididymitis (Brucella ovis).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Peste des petits ruminants.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Salmonellosis (S. abortusovis).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.10">
+              <num>(10)</num>
+              <content>
+                <p>Scrapie.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.11">
+              <num>(11)</num>
+              <content>
+                <blockList id="theschedule.11.list1">
+                  <listIntroduction>Sheep pox and goat pox.</listIntroduction>
+                  <item id="theschedule.11.list1.d">
+                    <num>(d)</num>
+                    <p>Equine diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>African horse sickness.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Contagious equine metritis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Dourine.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Equine encephalomyelitis (Eastern).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Equine encephalomyelitis (Western).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Equine infectious anaemia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Equine Influenza.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Equine piroplasmosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Equine rhinopneumonitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.10">
+              <num>(10)</num>
+              <content>
+                <p>Equine viral arteritis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.11">
+              <num>(11)</num>
+              <content>
+                <p>Glanders.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.12">
+              <num>(12)</num>
+              <content>
+                <p>Surra (Trypanosoma evansi).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.13">
+              <num>(13)</num>
+              <content>
+                <blockList id="theschedule.13.list1">
+                  <listIntroduction>Venezuelan equine encephalomyelitis.</listIntroduction>
+                  <item id="theschedule.13.list1.e">
+                    <num>(e)</num>
+                    <p>Swine diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>African swine fever.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Classical swine fever.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Nipah virus encephalitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Porcine cysticercosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Porcine reproductive and respiratory syndrome.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Swine vesicular disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <blockList id="theschedule.7.list1">
+                  <listIntroduction>Transmissible gastroenteritis.</listIntroduction>
+                  <item id="theschedule.7.list1.f">
+                    <num>(f)</num>
+                    <p>Avian diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Avian chlamydiosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Avian infectious bronchitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Avian infectious laryngotracheitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Avian mycoplasmosis (M. gallisepticum).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Avian mycoplasmosis (M. synoviae).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Duck virus hepatitis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Fowl cholera.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Fowl typhoid.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Highly pathogenic avian influenza and low pathogenic avian influenza in poultry.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.10">
+              <num>(10)</num>
+              <content>
+                <p>Infectious bursal disease (Gumboro disease).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.11">
+              <num>(11)</num>
+              <content>
+                <p>Marek's disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.12">
+              <num>(12)</num>
+              <content>
+                <p>Newcastle disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.13">
+              <num>(13)</num>
+              <content>
+                <p>Pullorum disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.14">
+              <num>(14)</num>
+              <content>
+                <blockList id="theschedule.14.list1">
+                  <listIntroduction>Turkey rhinotracheitis.</listIntroduction>
+                  <item id="theschedule.14.list1.g">
+                    <num>(g)</num>
+                    <p>Lagomorph diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Myxomatosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <blockList id="theschedule.2.list1">
+                  <listIntroduction>Rabbit haemorrhagic disease.</listIntroduction>
+                  <item id="theschedule.2.list1.h">
+                    <num>(h)</num>
+                    <p>Bee diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Acarapisosis of honey bees.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>American foulbrood of honey bees.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>European foulbrood of honey bees.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Small hive bettle infestation (Aethina tumida).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Tropilaelaps infestation of honey bees.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <blockList id="theschedule.6.list1">
+                  <listIntroduction>Varroosis of honey bees.</listIntroduction>
+                  <item id="theschedule.6.list1.i">
+                    <num>(i)</num>
+                    <p>Fish diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Epizootic haematopoietic necrosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Infectious haematopoietic necrosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Spring viraemia of carp.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Viral haemorrhagic septicaemia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Infectious pancreatic necrosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Infectious salmon anaemia.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Epizootic ulcerative syndrome.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Bacterial kidney disease (Renibacterium salmoninarum).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Gyrodactylosis (Gyrodactylus salaris).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.10">
+              <num>(10)</num>
+              <content>
+                <blockList id="theschedule.10.list1">
+                  <listIntroduction>Red sea bream iridoviral disease.</listIntroduction>
+                  <item id="theschedule.10.list1.j">
+                    <num>(j)</num>
+                    <p>Mollusc diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Infection with Bonamia ostreae.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Infection with Bonamia exitiosa.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Infection with Marteilia refringens.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Infection with Mikrocytos mackini.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Infection with Perkinsus marinus.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Infection with Perkinsus olseni.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <blockList id="theschedule.7.list1">
+                  <listIntroduction>Infection with Xenohaliotis californiensis.</listIntroduction>
+                  <item id="theschedule.7.list1.k">
+                    <num>(k)</num>
+                    <p>Crustacean diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Taura syndrome.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>White spot disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Yellowhead disease.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Tetrahedral baculovirosis (Baculovirus penaei).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Spherical baculovirosis (Penaeus monodon-type baculovirus).</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Infectious hypodermal and haematopoietic necrosis.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <blockList id="theschedule.7.list1">
+                  <listIntroduction>Crayfish plague (Aphanomyces astaci).</listIntroduction>
+                  <item id="theschedule.7.list1.l">
+                    <num>(l)</num>
+                    <p>Other diseases</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Camelpox.</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Leishmaniosis.</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>
