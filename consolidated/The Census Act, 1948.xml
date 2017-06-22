@@ -1,0 +1,594 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1948/37/main"/>
+          <FRBRuri value="/in-union/act/1948/37"/>
+          <FRBRalias value="The Census Act, 1948"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1948/37/eng@1948-09-03/main"/>
+          <FRBRuri value="/in-union/act/1948/37/eng@1948-09-03"/>
+          <FRBRdate date="1948-09-03" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1948/37/eng@1948-09-03/main"/>
+          <FRBRuri value="/in-union/act/1948/37/eng@1948-09-03"/>
+          <FRBRdate date="2017-04-11" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Census Act, 1948</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act No. 37 of 1948]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[3rd September, 1948]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for certain matters in connection with the taking of census.</p>
+      <p>WHEREAS it is expedient to provide for the taking of census in India or any part thereof whenever necessary or desirable and to provide for certain matters in connection with the taking of such census.</p>
+      <p>It is hereby enacted as follows: -</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Census Act, 1948.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India .</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,--</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>"premises" means any land. Building or part of a building and includes a hut, shed or other structure or any part thereof;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>"prescribed" means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>"vehicle" means any vehicle used or capable of being used for the purpose of road transport, whether propelled by mechanical power or otherwise.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2A">
+        <num>2A.</num>
+        <heading>Rule of construction respecting enactments not extending to Jammu and Kashmir</heading>
+        <paragraph id="section-2A.paragraph-0">
+          <content>
+            <p>Any reference in this Act to the Indian Penal Code (45 of 1860), the Indian Evidence Act, 1872 (1 of 1872) or the Code of Criminal Procedure, 1973 (2 of 1974), shall, in relation to the State of Jammu and Kashmir, be construed as a reference to the corresponding enactment in force in that State.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Central Government to take census</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, declare its intention of taking a census in the whole or any part of the territories to which this Act extends, whenever it may consider it necessary or desirable so to do, and there upon the census shall be taken.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Appointment of census staff</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may appoint a Census Commissioner to supervise the taking of the census throughout the area in which the census is intended to be taken and Directors of Census Operations to supervise the taking of the census within the several States.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government may appoint persons as census-officers with such designations as that Government may deem necessary to take, or aid in or supervise the taking of, the census within any specified local area and such persons, when so appointed, shall be bound to serve accordingly.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>A declaration in writing, signed by any authority authorised by the State Government in this behalf, that any person has been duly appointed a census-officer for any local area shall be conclusive proof of such appointment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>The State Government may delegate to such authority as it thinks fit the power of appointing census-officers conferred by sub-section (2).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4A">
+        <num>4A.</num>
+        <heading>Staff of Every Local authority to he made available for taking census</heading>
+        <paragraph id="section-4A.paragraph-0">
+          <content>
+            <p>Every local authority in a State shall, when so directed by a written order by the Central Government or by an authority appointed by that Government in this behalf, make available to any Director of Census Operations such staff as may be necessary for the performance of any duties in connection with the taking of census.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Status of census authorities as public servants</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <p>The Census Commissioner, all Directors of Census Operations and all census-officers shall be deemed to be public servants within the meaning of the Indian Penal Code.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Discharge of duties of census-officers in certain cases</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-6.1.list1">
+              <listIntroduction>Where the District Magistrate, or such authority as the State Government may appoint in this behalf, by a written order so directs--</listIntroduction>
+              <item id="section-6.1.list1.a">
+                <num>(a)</num>
+                <p>every officer in command of any body of men belonging to the naval, military, or air forces, or of any vessel of war, of India,</p>
+              </item>
+              <item id="section-6.1.list1.b">
+                <num>(b)</num>
+                <p>Every person (except a pilot or harbour-master) having charge or control of 9 vessel,</p>
+              </item>
+              <item id="section-6.1.list1.c">
+                <num>(c)</num>
+                <p>Every person in charge of a lunatic asylum, hospital, workhouse, prison, reformatory or lock-up or of any public, charitable, religious or educational institution,</p>
+              </item>
+              <item id="section-6.1.list1.d">
+                <num>(d)</num>
+                <p>Every keeper, secretary or manager of any sarai, hotel, boarding-house, lodging-house, immigration depot or club,</p>
+              </item>
+              <item id="section-6.1.list1.e">
+                <num>(e)</num>
+                <p>Every manager or officer of a railway or any commercial or industrial establishment, and</p>
+              </item>
+              <item id="section-6.1.list1.f">
+                <num>(f)</num>
+                <p>Every occupant of immovable property wherein at the time of the taking of the census persons are living shall perform such of the duties of a census-officer in relation to the persons who at the time of the taking of the census are under his command or charge, or are inmates of his house, or are present on or in such immovable property or are employed under him as may be specified in the order.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>All the provisions of this Act relating to census-officers shall apply, so far as may be, to all persons while performing such duties under this section, and any person refusing or neglecting to perform any duty which under this section he is directed to perform shall be deemed to have committed an offence under section 187 of the Indian Penal Code.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Power to call upon certain persons to give assistance</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <blockList id="section-7.paragraph-0.list1">
+              <listIntroduction>The District Magistrate, as such authority as the State Government may appoint in this behalf for any local area, may, by written order which shall have effect throughout the extent of his district or of such local area, as the case may be, call upon--</listIntroduction>
+              <item id="section-7.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>all owners and occupiers of land, tenure-holders, and farmers and assignees of land revenue, or their agents.</p>
+              </item>
+              <item id="section-7.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>all members of the district, municipal, panchayat and other local authorities and officers and servants of such authorities, and</p>
+              </item>
+              <item id="section-7.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>all officers and members of staff of any factory, firm or establishment,</p>
+              </item>
+            </blockList>
+            <p>to give such assistance as shall be specified in the order towards the taking of a census of the persons who are, at the time of the taking of the census, on the lands of such owners, occupiers, tenure-holders, farmers and assignees, or in the premises of factories, firms and other establishments, or within the areas for which such local authorities are established, as the case may be, and the persons to whom an order under this section is directed shall be bound to obey it and shall, while acting in pursuance of such order, be deemed to be public servants within the meaning of the Indian Penal Code.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7A">
+        <num>7A.</num>
+        <heading>Requisitioning premises, of vehicles, etc. for taking of a census</heading>
+        <subsection id="section-7A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-7A.1.list1">
+              <listIntroduction>If it appears to the Central Government that, in connection with taking of a census,--</listIntroduction>
+              <item id="section-7A.1.list1.a">
+                <num>(a)</num>
+                <p>Any premises are needed or are likely to be needed, or</p>
+              </item>
+              <item id="section-7A.1.list1.b">
+                <num>(b)</num>
+                <p>Any vehicle, vessel or animal is needed or is likely to be needed, that Government may by order in writing requisition such premises or vehicle, vessel or animal, as the case may be, and make such further orders as may appear to it to be necessary or expedient in connection with the requisitioning.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7A.2">
+          <num>(2)</num>
+          <content>
+            <p>The requisition shall be effected by an order in writing addressed to the person deemed by the Central Government to be the owner or person in possession of the property, and such order shall be served in the prescribed manner on the person to whom it is addressed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7A.3">
+          <num>(3)</num>
+          <content>
+            <p>Whenever any property is requisitioned under sub-section (1), the period of such requisition shall not extend beyond the period for which such property is required for any of the purposes mentioned in that sub-section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7B">
+        <num>7B.</num>
+        <heading>Payment of compensation</heading>
+        <subsection id="section-7B.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-7B.1.list1">
+              <listIntroduction>Whenever in pursuance of Section 7A the Central Government requisitions any premises, there shall be paid to the persons interested compensation the amount of which shall be determined by taking into consideration the following, namely:--</listIntroduction>
+              <item id="section-7B.1.list1.i">
+                <num>(i)</num>
+                <p>The rent payable in respect of the premises or if no rent is so payable, the rent payable for similar premises in the locality:</p>
+              </item>
+              <item id="section-7B.1.list1.ii">
+                <num>(ii)</num>
+                <p>If in consequence of the requisition of the premises the person interested is compelled to change his residence or place of business, the reasonable expenses (if any) incidental to such change: Provided that where any person interested being aggrieved by the amount of compensation so determined makes an application within the prescribed time to the Central Government for referring the matter to an arbitrator, the amount of compensation to be paid shall be such as the arbitrator appointed in this behalf by the Central Government may determine : Provided further that where there is any dispute as to the title to receive the compensation or as to the apportionment of the amount of compensation, it shall be referred by the Central Government to an arbitrator appointed in this behalf by that Government for determination, and shall be determined in accordance with the decision of such arbitrator. Explanation.-In this sub-section, the expression "person interested" means the person who was in actual possession of the premises requisitioned under Section 7A immediately before the requisition, or where no person was in such actual possession, the owner of such premises.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7B.2">
+          <num>(2)</num>
+          <content>
+            <p>Whenever in pursuance of Section 7A of the Central Government requisitions any vehicle, vessel or animal, there shall be paid to the owner thereof compensation the amount of which shall be determined by the Central Government on the basis of the fares or rates prevailing in the locality for the hire of such vehicle, vessel or animal :</p>
+            <p>PROVIDED that where the owner of such vehicle, vessel or animal being aggrieved by the amount of compensation so determined makes an application within the prescribed time to the Central Government for referring the matter to an arbitrator, the amount of compensation to be paid shall be such as the arbitrator appointed in this behalf by the Central Government may determine:</p>
+            <p>PROVIDED FURTHER that where immediately before the requisitioning the vehicle or vessel was by virtue of a hire-purchase agreement in the possession of a person other than the owner, the amount determined under this sub-section as the total compensation payable in respect of the requisition shall be apportioned between that person and the owner in such manner as they may agree upon, and in default of agreement, in such manner as an arbitrator appointed by the Central Government in this behalf may decide.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7C">
+        <num>7C.</num>
+        <heading>Power to obtain information</heading>
+        <paragraph id="section-7C.paragraph-0">
+          <content>
+            <p>The Central Government may, with a view to requisitioning any property under Section 7A or determining the compensation payable under Section 7B, by order, require any person to furnish to such authority as may be specified in the order such information in his possession relating to such property as may be so specified.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7D">
+        <num>7D.</num>
+        <heading>Power of entry into and inspection of premises, etc</heading>
+        <paragraph id="section-7D.paragraph-0">
+          <content>
+            <p>Any person authorised in this behalf by the Central Government may enter into any premises and inspect such premises and any vehicle, vessel or animal therein for the purpose of determining whether, and if so in what manner, an order under Section 7A should be made in relation to such premises, vehicle, vessel or animal or with a view to securing compliance with any order made under that section.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7E">
+        <num>7E.</num>
+        <heading>Eviction from requisitioned premises</heading>
+        <subsection id="section-7E.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person remaining in possession of any requisitioned premises in contravention of any order made under Section 7A may be summarily evicted from the premises by any officer empowered by the Central Government in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7E.2">
+          <num>(2)</num>
+          <content>
+            <p>Any officer so empowered may, after giving to any woman not appearing in public, reasonable warning and facility to withdraw, remove or open any lock or bolt or break open any door of any building or do any other act necessary for effecting such eviction.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7F">
+        <num>7F.</num>
+        <heading>Release of premises from requisition</heading>
+        <subsection id="section-7F.1">
+          <num>(1)</num>
+          <content>
+            <p>When any premises requisitioned under Section 7A are to be released from requisition, the possession thereof shall be delivered to the person from whom possession was taken at the time when the premises were requisitioned, or if there were no such person, to the person deemed by the Central Government to be the owner of such premises, and such delivery of possession shall be a full discharge of the Central Government from all liabilities in respect of such delivery, but shall not prejudice any rights in respect of the premises which any other person may be entitled by due process of law to enforce against the person to whom possession of the premises is so delivered.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7F.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the person to whom possession of any premises requisitioned under Section 7A is to be given under sub-section (1) cannot be found or is not readily ascertainable or has no agent or any other person empowered to accept delivery on his behalf, the Central Government shall cause a notice declaring that such premises are released from requisition to be affixed on some conspicuous part of such premises and publish the notice in the Official Gazette.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7F.3">
+          <num>(3)</num>
+          <content>
+            <p>When a notice referred to in sub-section (2) is published in the Official requisition on and from the date of such publication and be deemed to have been delivered to the person entitled to possession thereof, and the Central Government shall not be liable for any compensation or other claim in respect of such premises for any period after the said date.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7G">
+        <num>7G.</num>
+        <heading>Delegation of functions of the Central Government with regard to requisitioning</heading>
+        <paragraph id="section-7G.paragraph-0">
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, direct that any powers conferred or any duty imposed on that Government by any of the provisions of Sections 7A to 7F shall, under such conditions, if any, as may be specified in the direction, be exercised or discharged by such officer as may be specified.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7H">
+        <num>7H.</num>
+        <heading>Penalty for contravention of any order regarding requisitioning.</heading>
+        <paragraph id="section-7H.paragraph-0">
+          <content>
+            <p>If any person contravenes any order made under Section 7A or Section 7C, he shall be punishable with imprisonment for a term which may extend to one year or with fine or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Asking of questions and obligation to answer</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>A census officer may ask all such questions of all persons within the limits of the local area for which he is appointed as, by instructions issued in this behalf by theCentral Government and published in the Official Gazette, he may be directed to ask.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>Every person of whom any question is asked under sub-section (1) shall be legally bound to answer such question to the best of his knowledge or belief:</p>
+            <p>Provided that no person shall be bound to state the name of any female member of his household, and no woman shall be bound to stale the name of her husband or deceased husband or of any other person whose name she is forbidden by custom to mention.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Occupier to permit access and affixing of numbers</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>Every person occupying any house, enclosure, vessel or other place shall allow census-officers such access thereto as they may require for the purposes of the census and as, having regard to the customs of the country, may be reasonable, and shall allow them to paint on or affix to, the place such letters, marks or numbers as may be necessary for the purposes of the census.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Occupier or manager to fill up schedule</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to such orders as the Census Commissioner may issue in this behalf, a census-officer may, within the local area for which he is appointed, leave or cause to be left a schedule at any dwelling-house or with the manager or any officer of any commercial or industrial establishment, for the purpose of its being filled up by the occupiers of such house or of any specified part thereof or by such manager or officer with such particulars as the Census Commissioner may direct regarding the inmates of such house or part 'thereof, or the persons employed under such manager or officer, as the case may be, at the time of the taking of the census.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>When such schedule has been so left, the said occupier, manager or officer, as the case may be, shall fill it up or cause it to be filled up to the best of' his knowledge or belief so far as regards the inmates of such house or part thereof or the persons employed under him, as the case may be, at the time aforesaid, and shall sign his name thereto and, when so required, shall deliver the schedule so filled up and signed to the census-officer or to such person as the census-officer may direct.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Penalties</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-11.1.list0">
+              <item id="section-11.1.list0.a">
+                <num>(a)</num>
+                <p>any census-officer or any person lawfully required to give assistance towards the taking of census who refuses to perform any duty imposed upon him by this Act or any rule made there under, or any person who binders or obstructs another person in performing any such duty, or</p>
+              </item>
+              <item id="section-11.1.list0.aa">
+                <num>(aa)</num>
+                <p>any census-officer or any person lawfully required to give assistance towards the taking of a census who neglects to use reasonable diligence in performing any duty imposed upon him or in obeying any order issued to him in accordance with this Act or any rule made there under, or any person who binders or obstructs another person in performing any such duty or obeying any such order, or:</p>
+              </item>
+              <item id="section-11.1.list0.b">
+                <num>(b)</num>
+                <p>any census-officer who intentionally puts any offensive or improper question or knowingly makes any false return or, without the previous sanction of the Central Government or the State Government, discloses any information which he has received by means of, or for the purposes of, a census return, or</p>
+              </item>
+              <item id="section-11.1.list0.c">
+                <num>(c)</num>
+                <p>Any sorter, compiler or other member of the census staff who removes, secrets, damages or destroys any census document or deals with any census document in a manner likely to falsify or impair the tabulations of census results, or</p>
+              </item>
+              <item id="section-11.1.list0.ca">
+                <num>(ca)</num>
+                <p>any local authority which fails to comply with an order made under Section 4A or:</p>
+              </item>
+              <item id="section-11.1.list0.d">
+                <num>(d)</num>
+                <p>Any person who intentionally gives a false answer to, or refuses to answer to the best of his knowledge or belief, any question asked of him by a census-officer which he is legally bound by Section 8 to answer, or</p>
+              </item>
+              <item id="section-11.1.list0.e">
+                <num>(e)</num>
+                <p>Any person occupying any house, enclosure, vessel or other place who refuses to allow a census-officer such reasonable access thereto as he is required by Sec. 9 to allow, or</p>
+              </item>
+              <item id="section-11.1.list0.f">
+                <num>(f)</num>
+                <p>Any person who removes, obliterates, alters, or damages any letters, marks or numbers which have been painted or affixed for the purposes of the census, or</p>
+              </item>
+              <item id="section-11.1.list0.g">
+                <num>(g)</num>
+                <p>Any person Who, having been required under Section 10-to fill up a schedule, knowingly and without sufficient cause fails to comply with the provisions of that section, or makes any false return there under, or</p>
+              </item>
+              <item id="section-11.1.list0.h">
+                <num>(h)</num>
+                <p>any person who trespasses into a census office, shall be punishable with fine which may extend to one thousand rupees and in case of a conviction under part(a), (b) or (c) shall also be punishable with imprisonment which may extend to three years</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>Whoever abets any offence under sub-section (1) shall be punishable with fine which may extend.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Sanction required for prosecutions</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <blockList id="section-12.paragraph-0.list1">
+              <listIntroduction>Without prejudice to the provisions of Section 197 of the Code of Criminal Procedure, 1973 (2 of 1974), no prosecution under this Act shall be instituted except with the previous sanction, --</listIntroduction>
+              <item id="section-12.paragraph-0.list1.a">
+                <num>(a)</num>
+                <blockList id="section-12.paragraph-0.list1.a.list0">
+                  <listIntroduction>In the case of a person who is employed or was at the time of commission of the alleged offence employed--</listIntroduction>
+                  <item id="section-12.paragraph-0.list1.a.list0.i">
+                    <num>(i)</num>
+                    <p>in a company, as defined in Section 3 of the Companies Act, 1956 (1 of 1956), in which not less than fifty-one per cent of the paid-up capital is held by the Central Government or any company which is a subsidiary thereof within the meaning of that Act, or</p>
+                  </item>
+                  <item id="section-12.paragraph-0.list1.a.list0.ii">
+                    <num>(ii)</num>
+                    <p>By a corporation or a local authority established by or under a Central Act which is owned or controlled by the Central Government, of the Central Government or of an authority authorised in this behalf by that Government; and</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-12.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>In the case of a person other than referred to in clause (a) of the State Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Operation of other laws not barred</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Nothing in this Act shall be deemed to prevent any person from being prosecuted under any other law for any act or omission which constitutes an offence under this Act;</p>
+            <p>PROVIDED that no such prosecution shall be instituted except with the previous sanction referred to in section 12.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13A">
+        <num>13A.</num>
+        <heading>Certain offences to be cognizable and triable summarily</heading>
+        <subsection id="section-13A.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure. 1973 (2 of 1974), no police officer or court shall take cognizance of any offence under part (a), (b) or (c) of sub-section (1) of Section 11, except upon information received from or on a complaint made by, as the case may be, the Director of Census Operations or any officer authorised by him in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure 1973 (2 of 1974), every offence punishable under part (a), (b) or (c) of sub-section (1) of Section 11 may be tried summarily.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Jurisdiction</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>No Court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try, whether under this Act or under any other law, any act or omission which constitutes an offence under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Records of census not open to inspection nor admissible in evidence</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>No person shall have a right to inspect any book, register or record made by a census-officer in the discharge of his duty as such, or any schedule delivered under section 10 and notwithstanding anything to the contrary in the Indian Evidence Act, 1872, no entry in any such book, register, record or schedule shall be admissible as evidence in any civil proceeding whatsoever or in any criminal proceeding other than a prosecution under this Act or any other law for any act or omission which constitutes an offence under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15A">
+        <num>15A.</num>
+        <heading>Protection of service interests of members of census staff</heading>
+        <paragraph id="section-15A.paragraph-0">
+          <content>
+            <p>No member of the census staff shall suffer any disability in service by reason of his being on census duty and the period spent by him on such census duty shall be deemed to be the duty under his lending employer and any duty performed under this Act shall not in any manner affect the right of promotion or other advancement in his original service.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15B">
+        <num>15B.</num>
+        <heading>Protection of action taken in good faith</heading>
+        <paragraph id="section-15B.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the Census Commissioner or any Director of Census Operations or any census-officer or any member of the census staff for anything which is in good faith done or intended to be done under this Act or the rules made there under.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Temporary suspension of other laws as to mode of taking census in municipalities</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>Notwithstanding anything in any enactment or rule with respect to the mode in which a census is to be taken in any municipality, the municipal authority, in consultation with the Director of Census Operation or with such other authority as the State Government may authorise in this behalf, shall, at the time appointed for the taking of any census cause the census of the municipality to be taken wholly or in part by any method authorised by or under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Grant of statistical abstracts</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>Subject to the provisions of Section 15, the Census Commissioner or any Director of Census Operations may. If he so thinks fit, at the request and cost (to be determined by him) of any local authority or person, cause abstracts to be prepared and supplied containing any such statistical information as can be derived from the census returns for lndia or any State, as the case may be, being information which is not contained in any published report and which in his opinion it is reasonable for that authority or person to require.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17A">
+        <num>17A.</num>
+        <heading>Power to extend the provisions of Act to other operations</heading>
+        <paragraph id="section-17A.paragraph-0">
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, extend the provisions of this Act, with such restrictions and modifications as it thinks fit, toper-tests, pilot studies, census of houses which precede the population count and post enumeration check and evaluation studies or statistical surveys or any other operation as may be deemed necessary for the purpose of census.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power to make rules</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government by notification in the Official Gazette, Act may make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>In particular, and without prejudice to the generality of the foregoing power, the Central Government may make rules providing for the appointment of census-officers and of persons to perform any of the duties of census officers or to give assistance towards the taking of a census, and for the general instructions to be issued to such officers and persons and providing for the manner of service of orders regarding requisitioning of premises, or vehicle; vessel or animal and the time within which the application may be made to it by any interested person aggrieved by the amount of compensation determined under Section 7B for referring the matter to an arbitrator.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

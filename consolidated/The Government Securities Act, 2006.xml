@@ -1,0 +1,941 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2006/38/main"/>
+          <FRBRuri value="/in-union/act/2006/38"/>
+          <FRBRalias value="The Government Securities Act, 2006"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2006/38/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/2006/38/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2006/38/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/2006/38/eng@1980-01-01"/>
+          <FRBRdate date="2017-06-08" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Government Securities Act, 2006</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[30th August, 2006.]</docDate>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 38 OF 2006</docNumber>
+      </p>
+      <longTitle>
+        <p>An Act to consolidate and amend the law relating to Government securities and its management by the Reserve Bank of India and for matters connected therewith or incidental thereto.</p>
+        <p>WHEREAS it is expedient to consolidate and amend the law relating to Government securities and its management by the Reserve Bank of India;</p>
+        <p>AND WHEREAS Parliament has no power to make laws for the States with respect to any of the matters aforesaid except as provided in articles 249 and 250 of the Constitution;</p>
+        <p>AND WHEREAS in pursuance of clause (1) of article 252 of the Constitution, resolutions have been passed by the Houses of the Legislatures of all the States, except the Legislature of the State of Jammu and Kashmir, to the effect that the matters aforesaid should be regulated in those States by Parliament by law;</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Fifty-seventh Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, application and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Government Securities Act, 2006.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>This Act applies to Government securities created and issued whether before or after the commencement of this Act by the Central Government or a State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It applies in the first instance to whole of the States, except the State of Jammu and Kashmir, and to all the Union territories and it shall also apply to the State of Jammu and Kashmir which adopts this Act by resolution passed in that behalf under clause (1) of Article 252 of the Constitution.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.4">
+          <num>(4)</num>
+          <content>
+            <p>It shall come into force in all the States, except the State of Jammu and Kashmir, and in the Union territories on such date 1 as the Central Government may, by notification in the Official Gazette, appoint and in the State of Jammu and Kashmir which adopts this Act under clause (1) of Article 252 of the Constitution, on the date of such adoption; and any reference in this Act to the commencement of this Act shall, in relation to any State or Union territory, means the date on which this Act, comes into force in such State or Union territory.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“agent” means a scheduled bank within the meaning of clause (e) of section 2 of the Reserve Bank of India Act, 1934 (2 of 1934), or any other person specified as such;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Bank” means the Reserve Bank of India constituted under section 3 of the Reserve Bank of India Act, 1934 (2 of 1934);</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“bond ledger account” means an account with the Bank or an agent in which the Government securities are held in a dematerialised form at the credit of the holder;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“constituents’ subsidiary general ledger account” means a subsidiary general ledger account opened and maintained with the Bank by an agent on behalf of the constituents of such agent;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“Government”, in relation to any Government security, means the Central or State Government issuing the security;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“Government security” means a security created and issued by the Government for the purpose of raising a public loan or for any other purpose as may be notified by the Government in the Official Gazette and having one of the forms mentioned in section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“prescribed” means prescribed by regulations made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“promissory note” includes a treasury bill;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>“specified” means specified by the Bank in the Official Gazette.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Forms of Government securities.</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list1">
+              <listIntroduction>A Government security may, subject to such terms and conditions as may be specified, be in such forms as may be prescribed or in one of the following forms, namely:-</listIntroduction>
+              <item id="section-3.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>a Government promissory note payable to or to the order of a certain person; or</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>a bearer bond payable to bearer; or</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.iii">
+                <num>(iii)</num>
+                <p>a stock; or</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.iv">
+                <num>(iv)</num>
+                <p>a bond held in a bond ledger account.</p>
+              </item>
+            </blockList>
+            <blockList id="section-3.paragraph-0.list3">
+              <listIntroduction>Explanation.−For the purpose of this section, “stock” means a Government security,−</listIntroduction>
+              <item id="section-3.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>registered in the books of the Bank for which a stock certificate is issued; or</p>
+              </item>
+              <item id="section-3.paragraph-0.list3.ii">
+                <num>(ii)</num>
+                <p>held at the credit of the holder in the subsidiary general ledger account including the constituents subsidiary general ledger account maintained in the books of the Bank,</p>
+              </item>
+            </blockList>
+            <p>and transferable by registration in the books of the Bank.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Subsidiary general ledger account.−</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>A subsidiary general ledger account including a constituents' subsidiary general ledger account and a bond ledger account may be opened and maintained by the Bank subject to such conditions and restrictions as may be specified and in such form and on payment of such fee as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Benami Transactions (Prohibition) Act, 1988 (45 of 1988), or any other law for the time being in force, the Government securities may be held on behalf of a constituent in a constituents' subsidiary general ledger account under sub-section (1) and the holder of such account shall be deemed to be the holder of the securities held in that account:</p>
+            <p>Provided that the constituent as a beneficial owner of the Government security shall be entitled to claim from the holder all the benefits and be subjected to all the liabilities in respect of the Government securities held in the constituents' subsidiary general ledger account.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>The holder of a constituents' subsidiary general ledger account shall maintain such records and adopt such procedure for safeguarding the interests of the constituents as may be specified.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Transfer of Government securities.−</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>No transfer of a Government security shall be valid if it does not purport to convey the full title to the security.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>The transfer of the Government securities shall be made in such form and in such manner as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>Any document relating to a Government security or any endorsement on a promissory note issued by the Government may, on the demand of a person who for any reason is unable to write, shall be executed on his behalf in such manner as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.4">
+          <num>(4)</num>
+          <content>
+            <p>Nothing in this section shall affect any order made by the Bank under this Act, or any order made by a Court upon the Bank.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Holding of Government securities by holders of public offices.−</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>In the case of any public office to which the Government may, by notification in the Official Gazette, declare this sub-section to apply, a Government security may be held in the name of the office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>When a Government security is so held, it shall be deemed to be transferred without any or further endorsement or transfer deed from each holder of the office to the succeeding holder of the office on and from the date on which the latter takes charge of the office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>When the holder of the office transfers to a party not being his successor in office where a Government security so held, the transfer shall be made by the signature of the holder of the office and the name of the office in the manner laid down in section 5.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>Where the holder of the office is temporarily absent for more than a fortnight from his office for any reason, he may authorise in writing such other person, who would be incharge of this office during the period of such absence, to effect transfer of the Government securities.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <p>This section applies as well to an office of which there are two or more joint holders as to an office of which there is a single holder.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Recognition of title to Government security of deceased sole holder or joint holders.−</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sub-sections (2) and (3), if on the death of a sole holder or death of all the joint holders of a Government security there is no nomination in force, the executors or administrators of the deceased sole holder or all the deceased joint holders, as the case may be, or the holder of a succession certificate issued under Part X of the Indian Succession Act, 1925 (39 of 1925) shall be the only person who may be recognised by the Bank as having any title to the Government security.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing contained in this section shall bar the recognition by the Bank of any person as having a title to a Government security on the basis of a decree, order or direction passed by a competent court declaring the person as having title to the Government security or appointing a receiver to take possession of a security or on the basis of a certificate issued or order passed by any other authority who might have been empowered under any statute to confer on any such person a title to the Government security or on the basis of such other documents as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in this section or in any other law for the time being in force, where the outstanding value of Government security held by a deceased sole holder or deceased joint holders, as the case may be, does not exceed an amount of rupees one lakh or such higher amount not exceeding rupees one crore as may be fixed by the Central Government by notification in the Official Gazette from time to time, the Bank may recognize a person as having title to such Government security of the deceased sole holder or deceased joint holders in such manner and subject to such conditions as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Right of survivors of joint holders or several payees.−</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <blockList id="section-8.paragraph-0.list1">
+              <listIntroduction>Notwithstanding anything contained in section 45 of the Indian Contract Act, 1872 (9 of 1872) and subject to the provisions of sections 7 and 10,−</listIntroduction>
+              <item id="section-8.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>when a Government security is held by two or more persons jointly, and either or any of them dies, the title to the Government security shall vest in the survivor or survivors of those persons; and</p>
+              </item>
+              <item id="section-8.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>when a Government security is payable to two or more persons severally and either or any of them dies, the Government security shall be payable to the survivor or survivors of those persons or to the representative of the deceased or to any one of them:</p>
+              </item>
+            </blockList>
+            <p>Provided that nothing contained in this section shall affect any claim which any representative of a deceased joint holder or deceased holders of a Government security or a surviving joint holder or holders of a Government security, as the case may be, may have against the survivor or survivors or representatives under or in respect of any Government security to which this section applies.</p>
+            <p>Explanation.− For the purposes of this section, a body incorporated or deemed to be incorporated under the Companies Act, 1956 (1 of 1956), or the Co-operative Societies Act, 1912 (2 of 1912), or any other enactment for the time being in force relating to the incorporation of associations of individuals, shall be deemed to die when it is dissolved.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Nomination by holders of Government securities.−</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-9.1.list1">
+              <listIntroduction>Notwithstanding anything contained in sections 7 and 8 or any other law for the time being in force, except the provisions of sub-section (2),−</listIntroduction>
+              <item id="section-9.1.list1.a">
+                <num>(a)</num>
+                <p>where a Government security other than in the form of promissory note or bearer bond is held by a person in his name or jointly with any other name or names, as the case may be, the sole holder or all the joint holders of the Government security together may nominate one or more persons in such form and in such manner as may be prescribed, who in the event of the death of the sole holder or the death of all the joint holders, as the case may be, would become entitled to the Government security and to payment thereon to the exclusion of all other persons, unless the nomination is varied or cancelled in the prescribed manner;</p>
+              </item>
+              <item id="section-9.1.list1.b">
+                <num>(b)</num>
+                <p>where a nomination in respect of a Government security has been made in favour of two or more nominees and either or any of them is dead, the surviving nominee or nominees, as the case may be, shall be entitled to the Government security and payment thereon;</p>
+              </item>
+              <item id="section-9.1.list1.c">
+                <num>(c)</num>
+                <p>where the nominee is a minor, it shall be lawful for the sole holder or all the joint holders of a Government security, as the case may be, to appoint in the prescribed manner any person in whom the Government security would be deemed to have vested in the event of death of such holder or joint holders of the Government security during the minority of the nominee;</p>
+              </item>
+              <item id="section-9.1.list1.d">
+                <num>(d)</num>
+                <p>the recognition of right and claim of the nominee or nominees to the Government security held by a sole holder or joint holders, as the case may be, and any payment made by the Government or the Bank to the nominee or nominees shall constitute a full discharge and shall absolve the Government or the Bank of its liability in respect of the said Government security.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>Any nomination or appointment made under sub-section (1) shall become void if the nominee predeceases, or where there are two or more nominees, if all the nominees predecease the holder or joint holders of the Government security making the nomination.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>Where the amount due for the time being on a Government security is payable to two or more nominees and either or any of them dies, the title to the Government security shall vest in the survivor or survivors of those nominees and the amount for the time being due thereon shall be paid accordingly.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.4">
+          <num>(4)</num>
+          <content>
+            <p>A transfer of a Government security made in accordance with sub-section (2) of section 5 shall automatically cancel the nomination previously made:</p>
+            <p>Provided that where a Government security is in the possession of a person either as a pledge or by way of security for any purpose, such possession shall not have the effect of cancelling the nomination, but the right of the nominee shall be subject to the right of the person so possessing it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.5">
+          <num>(5)</num>
+          <content>
+            <p>The Government may, on the recommendation of the Bank, by notification in the Official Gazette, extend the facility of nomination to any Government security as may be specified therein.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.6">
+          <num>(6)</num>
+          <content>
+            <p>Nothing contained in sub-section (1) shall affect the right or claim which any person may have against the person whose right and title to a Government security is recognised by the Government or the Bank or to whom the payment of the amount due on the Government security is made by the Government or the Bank under sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.7">
+          <num>(7)</num>
+          <content>
+            <p>No notice of any claim of any person, other than the person or persons in whose name a Government security is held or the nominees thereof, shall be receivable by the Bank or the Government, nor shall the Bank or the Government be bound by any such notice even though expressly given to it:</p>
+            <p>Provided that where any decree, order, certificate or other authority from a court of competent jurisdiction relating to such Government security is produced before the Bank or the Government, the Bank or the Government shall take due note of such decree, order, certificate or other authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Government securities belonging to minor or insane person.−</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any Government security is held on behalf of a minor, the payment of the same for the time being due on a Government security either by way of outstanding principal or interest thereon may be made to the father or mother of such minor and where neither parent is alive or where the living parents are or only living parent is incapable of action, to person entitled under the law for the time being in force to have care of the property of the minor.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>When a Government security belongs to a minor or a person who is insane and incapable of managing his affairs and the outstanding principal value of the Government security does not in the aggregate exceed rupees one lakh or such higher amount not exceeding rupees one crore as the Central Government may, by a notification in the Official Gazette from time to time, fix, the Bank may make such order as it thinks fit for the vesting of such Government security in such person as it considers represents the minor or insane person.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Issue of duplicate securities and of new securities on conversion, consolidation, sub-division, renewal, stripping or reconstitution.−</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>If the person entitled to a Government security applies to the Bank alleging that the Government security has been lost, stolen or destroyed, or has been defaced or mutilated, the Bank may, on proof to its satisfaction of the loss, theft, destruction, defacement or mutilation of the Government security, and subject to such conditions and on payment of such fees as may be prescribed, order the issue of a duplicate Government security to the applicant.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>If the person entitled to a Government security applies to the Bank to have the Government security converted into a Government security of another form, or into a Government security issued in connection with another loan or to have it consolidated with other like Government securities, or to have it sub-divided, or to have it renewed, stripped or reconstituted, the Bank may, subject to such conditions and on payment of such fees as may be prescribed, cancel the Government security and order the issue of a new Government security or Government securities.</p>
+            <p>Explanation.− A Government security may be stripped separately for interest and principal or reconstituted on the application of the holder subject to such terms and conditions as may be specified.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>The person to whom a duplicate Government security or a new Government security is issued under this section shall be deemed for the purposes of section 18 to have been recognised by the Bank as the holder of the Government security; and a duplicate Government security or new Government security so issued to any person shall be deemed to constitute a new contract between the Government and such person and all persons deriving title thereafter through him:</p>
+            <p>Provided that the issue of new security under this section shall not affect the interest of third parties in whose favour a charge or other interest was lawfully created and was subsisting at the time of issue of the new security.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Summary determination by Bank of title to Government security in case of dispute.−</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>If the Bank is of opinion that a doubt exists as to the title to a Government security, it may proceed to determine, in accordance with such regulations as may be made, the person who shall for the purposes of the Bank be deemed to be the person entitled thereto.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>For the purpose of making any order which it is empowered to make under this Act, the Bank may request a District Magistrate to record or to have recorded the whole or any part of such evidence as any person whose evidence the Bank requires may produce and the District Magistrate so requested may either himself record, or may direct any Executive Magistrate empowered in this behalf by general or special order of the State Government to record the evidence, and shall forward a copy thereof to the Bank.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.3">
+          <num>(3)</num>
+          <content>
+            <p>For the purpose of making a vesting order under this Act, the Bank may direct one of its officers to record the evidence of any person whose evidence the Bank requires or may receive evidence upon affidavit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.4">
+          <num>(4)</num>
+          <content>
+            <p>A Magistrate or an officer of the Bank acting in pursuance of this section may administer an oath to any witness examined by him.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Law applicable in regard to Government securities.−</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Notwithstanding that as a matter of convenience, the Government may have arranged for payments on a Government security to be made elsewhere than in India, the rights of all persons in relation to Government securities shall be determined in connection with all such questions as are dealt with by this Act by the law and in the Courts of India.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Postponement of payments and registration of transfers pending the making of vesting order.−</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>Where the Bank contemplates making an order under this Act to vest a Government security in any person, the Bank may suspend payment of interest on or the maturity value of the Government security or postpone the making of any order under section 7, section 10, section 11 or section 12 or the registration of any transfer of the Government security, as the case may be, until the vesting order has been made.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Power of Bank to require bonds.−</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <p>Before making any order which it is empowered to make under this Act, the Bank may require the person in whose favour the order is to be made to execute an indemnity bond with one or more sureties in such form as may be prescribed or to furnish security not exceeding twice the value of the subject-matter of the order, to be held at the disposal of the Bank, to pay to the Bank or any person to whom the Bank may assign the indemnity bond or security in furtherance of sub-section (2) the amount thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>A Court before which a claim in respect of the subject-matter of any such order is established may order the indemnity bond or security to be assigned to the successful claimant who shall thereupon be entitled to enforce the indemnity bond or realise the security to the extent of such claim.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Publication of notices in Official Gazette.−</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>Any notice required to be given by the Bank under this Act may be served by post, but every such notice shall also be published by the Bank in the Official Gazette or the Official Gazette of a State, according as the notice relates to a Government security, issued by the Central Government or a State Government, and on such publication shall be deemed to have been delivered to all persons for whom it is intended.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Procedure and scope of vesting order.−</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>The Bank shall, while making a vesting order under section 7, section 10, section 11 or section 12, follow such procedure as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>An order made by the Bank under this Act may either confer full title to a Government security or a title only to the accrued and accruing interest on the Government security pending a further order vesting full title.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Legal effect of orders made by Bank.−</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>No recognition by the Bank of a person as the holder of a Government security, and no order made by the Bank under this Act shall be called in question by any Court so far as such recognition or order affects the relations of the Government or the Bank with the person recognised by the Bank as the holder of a Government security or with any person claiming an interest in such security; and any such recognition by the Bank of any person or any order by the Bank vesting a Government security in any person shall operate to confer on that person a title to the security subject only to his personal liability to the rightful owner of the security for money had and received on his account.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Stay of proceedings on order of Court.−</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <blockList id="section-19.paragraph-0.list1">
+              <listIntroduction>Where the Bank contemplates making with reference to any Government security any order which it is empowered to make under this Act, and before the order is made the Bank receives from a Court in India an order to stay the making of such order, the Bank shall either−</listIntroduction>
+              <item id="section-19.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>hold the security together with any interest unpaid or accruing thereon until further orders of the Court are received; or</p>
+              </item>
+              <item id="section-19.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>apply to the Court to have the security transferred to the Official Trustees appointed for the State in which such Court is situated, pending the disposal of the proceedings before the Court.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Cancellation by Bank of vesting proceedings.−</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Where the Bank contemplates making an order under this Act vesting a Government security in any person, the Bank may, at any time before the order is made, cancel any proceedings already taken for that purpose and may, on such cancellation, proceed anew to the making of such order.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Discharge in respect of interest on Government securities.−</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>Save as otherwise expressly provided in the terms of a Government security, no person shall be entitled to claim interest on such security in respect of any period which has elapsed after the earliest date on which demand could have been made for the payment of the amount due on such security.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Discharge in respect of bearer bonds.−</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>The Government shall be discharged from all liability on a bearer bond or on any interest coupon of such a bond on payment to the holder of such bond or coupon on presentation on or after the date when it becomes due of the amount expressed therein, unless before such payment, an order of a Court in India has been served on the Government restraining it from making payment.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Period of limitation of Government's liability in respect of interest.−</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>Where no shorter period of limitation is fixed by any law for the time being in force, the liability of the Government in respect of any interest payment due on a Government security shall terminate on the expiry of six years from the date on which the amount due by way of interest became payable:</p>
+            <p>Provided that the Government may allow a bona fide claim for payment of interest after the expiry of the period of six years in those cases where the holders of securities could not prefer their claims within the said period of six years.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Bank may specify the securities in respect of which, the circumstances under which, and the terms and conditions subject to which, interest may be paid even after the expiry of the period specified in the said sub-section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Inspection of documents.−</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>No person shall be entitled to inspect or to receive information derived from any Government security in the possession or custody of the Government or from any book, register or other document kept or maintained by or on behalf of the Government in relation to Government securities or any Government security, save in such circumstances and manner and subject to such conditions as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Micro films, facsimile copies of documents, magnetic tapes and computer print outs as documents of evidence.−</heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-25.1.list1">
+              <listIntroduction>Notwithstanding anything contained in any other law for the time being in force,−</listIntroduction>
+              <item id="section-25.1.list1.a">
+                <num>(a)</num>
+                <p>a micro film of a document or the reproduction of the image or images embodied in such micro film (whether enlarged or not); or</p>
+              </item>
+              <item id="section-25.1.list1.b">
+                <num>(b)</num>
+                <p>a facsimile copy of a document; or</p>
+              </item>
+              <item id="section-25.1.list1.c">
+                <num>(c)</num>
+                <p>a statement contained in a document and included in a printed material produced by a computer, magnetic tape or any other form of mechanical or electronic data retrieval mechanism (hereinafter referred to a computer print out), if the conditions mentioned in sub-section (2) and the other provisions contained in this section are satisfied in relation to the statement and the computer in question,</p>
+              </item>
+            </blockList>
+            <p>shall be deemed to be also a document for the purposes of this Act and the regulations made thereunder and shall be admissible in any proceedings thereunder, without further proof or production of the original, as evidence of any contents of the original or of any fact stated therein of which direct evidence would be admissible.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-25.2.list1">
+              <listIntroduction>The conditions referred to in sub-section (1) in respect of a computer print out shall be the following, namely:−</listIntroduction>
+              <item id="section-25.2.list1.a">
+                <num>(a)</num>
+                <p>the computer print out containing the statement was produced by the computer during the period over which the computer was used regularly to store or process information for the purposes of any activities regularly carried on over that period by the person having lawful control over the use of the computer;</p>
+              </item>
+              <item id="section-25.2.list1.b">
+                <num>(b)</num>
+                <p>during the said period, there was regularly supplied to the computer in the ordinary course of the said activities, information of the kind contained in the statement or of the kind from which the information so contained is derived;</p>
+              </item>
+              <item id="section-25.2.list1.c">
+                <num>(c)</num>
+                <p>throughout the material part of the said period, the computer was operating properly or, if not, then any respect in which it was not operating properly or was out of operation during that part of that period was not such as to affect the production of the document or the accuracy of the contents; and</p>
+              </item>
+              <item id="section-25.2.list1.d">
+                <num>(d)</num>
+                <p>the information contained in the statement reproduced or is derived from information supplied to the computer in the ordinary course of the said activities.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-25.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-25.3.list1">
+              <listIntroduction>Where over any period, the function of storing or processing information for the purposes of any activities regularly carried on over that period as mentioned in clause (a) of sub-section (2) was regularly performed by computers, whether−</listIntroduction>
+              <item id="section-25.3.list1.a">
+                <num>(a)</num>
+                <p>by a combination of computers operating over that period; or</p>
+              </item>
+              <item id="section-25.3.list1.b">
+                <num>(b)</num>
+                <p>by different computers operating in succession over that period; or</p>
+              </item>
+              <item id="section-25.3.list1.c">
+                <num>(c)</num>
+                <p>by different combinations of computers operating in succession over that period; or</p>
+              </item>
+              <item id="section-25.3.list1.d">
+                <num>(d)</num>
+                <p>in any other manner involving the successive operation over that period, in whatever order, of one or more computers and one or more combinations of computers,</p>
+              </item>
+            </blockList>
+            <p>all the computers used for that purpose during that period shall be treated for the purposes of this section as constituting a single computer; and references in this section to a computer shall be construed accordingly.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-25.4.list1">
+              <listIntroduction>In any proceeding under this Act and the regulations made thereunder where it is desired to give a statement in evidence by virtue of this section, a certificate doing any of the following things, that is to say,−</listIntroduction>
+              <item id="section-25.4.list1.a">
+                <num>(a)</num>
+                <p>identifying the document containing the statement and describing the manner in which it was produced;</p>
+              </item>
+              <item id="section-25.4.list1.b">
+                <num>(b)</num>
+                <p>giving such particulars of any device involved in the production of that document as may be appropriate for the purpose of showing that the document was produced by a computer;</p>
+              </item>
+              <item id="section-25.4.list1.c">
+                <num>(c)</num>
+                <p>dealing with any of the matters to which the conditions mentioned in sub-section (2) relate, and purporting to be signed by a person occupying a responsible official position in the Bank in relation to the operation of the relevant device or the management of the relevant activities (whichever is appropriate),</p>
+              </item>
+            </blockList>
+            <p>shall be evidence of any matter stated in the certificate; and for the purposes of this sub-section it shall be sufficient for a matter to be stated to the best of the knowledge and belief of the person stating it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.5">
+          <num>(5)</num>
+          <content>
+            <blockList id="section-25.5.list1">
+              <listIntroduction>For the purposes of this section,−</listIntroduction>
+              <item id="section-25.5.list1.a">
+                <num>(a)</num>
+                <p>information shall be taken to be supplied to a computer if it is supplied thereto in any appropriate form and whether it is so supplied directly or (with or without human intervention) by means of any appropriate equipment;</p>
+              </item>
+              <item id="section-25.5.list1.b">
+                <num>(b)</num>
+                <p>whether in the course of activities carried on by any official, information is supplied with a view to its being stored or processed for the purposes of those activities by a computer operated otherwise than in the course of those activities, that information, if duly supplied to that computer, shall be taken to be supplied to it in the course of those activities;</p>
+              </item>
+              <item id="section-25.5.list1.c">
+                <num>(c)</num>
+                <p>a document shall be taken to have been produced by a computer whether it was produced by it directly or (with or without human intervention) by means of any appropriate equipment.</p>
+              </item>
+            </blockList>
+            <blockList id="section-25.5.list3">
+              <listIntroduction>Explanation.− For the purposes of this section,−</listIntroduction>
+              <item id="section-25.5.list3.a">
+                <num>(a)</num>
+                <p>“computer” means any electronic, magnetic, optical or other high-speed data processing service device or system which performs logical, arithmetical and memory functions by manipulation of electronic, magnetic or optical impulses and includes all input, output, processing, storage, computer software or communication facilities which are connected or related to the computer in computer system or computer network;</p>
+              </item>
+              <item id="section-25.5.list3.b">
+                <num>(b)</num>
+                <p>“computer print out” shall include ledgers, day-books, account books and other records, maintained in the ordinary course of business of the Bank or of the agent, printed on paper from the information stored in the computer or derived from such information; and</p>
+              </item>
+              <item id="section-25.5.list3.c">
+                <num>(c)</num>
+                <p>any reference to information being derived from other information;</p>
+              </item>
+            </blockList>
+            <p>shall be a reference its being derived therefrom by calculation, comparison or, any other process.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>The Bank and its officers to be deemed public officers.−</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <p>For the purposes of section 124 of the Indian Evidence Act, 1872 (1 of 1872), the provisions of Part IV of the Code of Civil Procedure, 1908 (5 of 1908) relating to suits by or against public officers in their official capacity, and the provisions of Rule 27 of Order V, and rule 52 of Order XXI of the said Code, the Bank and any officer of the Bank acting in his capacity as such shall be deemed to be a public officer.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Misuse of subsidiary general ledger account facility.−</heading>
+        <paragraph id="section-27.paragraph-0">
+          <content>
+            <blockList id="section-27.paragraph-0.list1">
+              <listIntroduction>Where a subsidiary general ledger account is opened by the Bank in favour of any holder of a Government security in terms of section 4 and,−</listIntroduction>
+              <item id="section-27.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>it comes to the notice of the Bank that the said account is being operated contrary to the terms and conditions subject to which the account was opened; or</p>
+              </item>
+              <item id="section-27.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the subsidiary general ledger account transfer form has bounced due to insufficiency of Government security or funds; or</p>
+              </item>
+              <item id="section-27.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>the Bank is of opinion that the account is being operated contrary to the banking practice or in a manner prejudicial to the interests of the holders of Government securities in general; or</p>
+              </item>
+              <item id="section-27.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>the subsidiary general ledger account is being misused in any manner,</p>
+              </item>
+            </blockList>
+            <p>the Bank may, by order in writing, after giving an opportunity of being heard, debar the holder of such account from trading with the subsidiary general ledger account facility temporarily or permanently as it deems fit.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Pledge, hypothecation or lien.−</heading>
+        <subsection id="section-28.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to such terms and conditions as may be prescribed, the holder of a Government security may create a pledge or hypothecation or lien in respect of such security.</p>
+          </content>
+        </subsection>
+        <subsection id="section-28.2">
+          <num>(2)</num>
+          <content>
+            <p>On receipt of notice of pledge or hypothecation or lien from the holder of the Government security, the Bank or any agent maintaining the account in respect of such security shall make necessary entry in its record and such entry shall be evidence of the pledge, hypothecation or lien thereof, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Power to call for information, cause inspection and issue directions.−</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>The Bank may at any time, for the purposes of this Act, call for such information as it deems necessary in relation to a Government security from any agent, or holder of subsidiary general ledger account including constituents' subsidiary general ledger account and cause an inspection or scrutiny to be made by one or more of its officers or other persons, of any agent or holder of a subsidiary general ledger account including constituents' subsidiary general ledger account.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-29.2.list1">
+              <listIntroduction>The Bank may, if it considers necessary so to do, issue such directions as it thinks fit, in relation to a Government security,−</listIntroduction>
+              <item id="section-29.2.list1.i">
+                <num>(i)</num>
+                <p>to the holders of the subsidiary general ledger accounts including constituents' subsidiary general ledger account;</p>
+              </item>
+              <item id="section-29.2.list1.ii">
+                <num>(ii)</num>
+                <p>to the agents maintaining bond ledger account; and</p>
+              </item>
+              <item id="section-29.2.list1.iii">
+                <num>(iii)</num>
+                <p>to any other person dealing with the Government securities,</p>
+              </item>
+            </blockList>
+            <p>for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Contravention and penalties.−</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person, for the purpose of obtaining for himself or for any other person any title to a Government security, makes to any authority in any application made under this Act or in the course of any inquiry undertaken in pursuance of this Act any statement which is false and which he either knows to be false or does not believe to be true, he shall be punishable with imprisonment for a term which may extend to six months, or with fine, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>No Court shall take cognizance of any offence under sub-section (1) except on the complaint of the Bank.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.3">
+          <num>(3)</num>
+          <content>
+            <p>Without prejudice to any other action which the Bank may deem fit to take, the Bank, after giving a reasonable opportunity of being heard, may impose on any person who contravenes any provision of this Act, or contravenes any regulation, notification or direction issued under this Act, or violates the terms and conditions for opening and maintenance of a subsidiary general ledger account, including constituents' subsidiary general ledger account, a penalty, not exceeding five lakh rupees and where such contravention is a continuing one, further penalty which may extend to five thousand rupees for every day after first day during which the contravention continues.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Certain laws not to apply to Government securities.−</heading>
+        <subsection id="section-31.1">
+          <num>(1)</num>
+          <content>
+            <p>The Public Debt Act, 1944 (18 of 1944) shall cease to apply to the Government securities to which this Act applies and to all matters for which provisions have been made by this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-31.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding such cessation anything done or any action taken in the exercise of any power conferred by or under that Act shall be deemed to have been done or taken in the exercise of the powers conferred by or under this Act as if this Act was in force at all material times.</p>
+          </content>
+        </subsection>
+        <subsection id="section-31.3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing contained in the Depositories Act, 1996 (22 of 1996) or the regulations made thereunder shall apply to Government securities covered by this Act unless an agreement is executed to the contrary by any depository under the Depositories Act, 1996 with the Government or the Bank, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Power to make regulations.−</heading>
+        <subsection id="section-32.1">
+          <num>(1)</num>
+          <content>
+            <p>The Bank may, with the previous approval of the Central Government, by notification in the Official Gazette, make regulations to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-32.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power such regulations may provide for all or any of the following matters, namely:−</listIntroduction>
+              <item id="section-32.2.list1.a">
+                <num>(a)</num>
+                <p>the form in which and the terms and conditions subject to which the Government securities may be issued under section 3;</p>
+              </item>
+              <item id="section-32.2.list1.b">
+                <num>(b)</num>
+                <p>the form in which and the fee to be charged for opening and maintenance of subsidiary general ledger account including constituents' subsidiary general ledger account and bond ledger account by the Bank under sub-section (1) of section 4;</p>
+              </item>
+              <item id="section-32.2.list1.c">
+                <num>(c)</num>
+                <p>the form and manner in which Government securities shall be transferred under sub-section (2) of section 5 and the manner in which any document relating to any Government security or any endorsement on a promissory note may be executed on behalf of a person who is unable to write under sub-section (3) of that section.</p>
+              </item>
+              <item id="section-32.2.list1.d">
+                <num>(d)</num>
+                <p>the documents to be produced for recognition of title to the Government security of a deceased sole holder or all deceased joint holders under sub-section (2) of section 7 and the manner in which and the conditions subject to which the Bank may recognise title to a Government security under sub-section (3) of that section;</p>
+              </item>
+              <item id="section-32.2.list1.e">
+                <num>(e)</num>
+                <p>the form and the manner in which a nomination may be made, varied or cancelled and the manner in which any person may be appointed in whom the Government security would be deemed to have vested in the event of death of holder or joint holders of Government security during the minority of a nominee under section 9;</p>
+              </item>
+              <item id="section-32.2.list1.f">
+                <num>(f)</num>
+                <p>the conditions governing the issue of duplicate Government securities and the fees to be paid therefor under section 11;</p>
+              </item>
+              <item id="section-32.2.list1.g">
+                <num>(g)</num>
+                <p>the manner in which the Bank may determine title to a Government security under section 12;</p>
+              </item>
+              <item id="section-32.2.list1.h">
+                <num>(h)</num>
+                <p>the form of bond under sub-section (1) of section 15;</p>
+              </item>
+              <item id="section-32.2.list1.i">
+                <num>(i)</num>
+                <p>the procedure for making vesting order referred to in sub-section (1) of section 17;</p>
+              </item>
+              <item id="section-32.2.list1.j">
+                <num>(j)</num>
+                <p>the circumstances and the manner in which and the conditions subject to which inspection of Government securities, books, registers and other documents may be allowed or information therefrom may be given under section 24;</p>
+              </item>
+              <item id="section-32.2.list1.k">
+                <num>(k)</num>
+                <p>the terms and conditions subject to which pledge or hypothecation or lien be created under sub-section (1) of section 28.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-32.3">
+          <num>(3)</num>
+          <content>
+            <p>Every regulation made by the Bank under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Construction of references to laws not in force in Jammu and Kashmir.−</heading>
+        <paragraph id="section-33.paragraph-0">
+          <content>
+            <p>Any reference in this Act to a law which is not in force in the State of Jammu and Kashmir shall, wherever, necessary, be constructed as including a reference to the corresponding law, if any, in force in that State.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Power to remove difficulties.−</heading>
+        <subsection id="section-34.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, not inconsistent with the provisions of this Act, remove the difficulty:</p>
+            <p>Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Repeal and saving.−</heading>
+        <subsection id="section-35.1">
+          <num>(1)</num>
+          <content>
+            <p>The Indian Securities Act, 1920 (10 of 1920) is hereby repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-35.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding such repeal anything done or any action taken in the exercise of any power conferred by or under the Act shall be deemed to have been done or taken in the exercise of the powers conferred by or under this Act as if this Act was in force on the day on which such thing was done or action was taken.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

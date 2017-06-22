@@ -1,0 +1,894 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1993/28/main"/>
+          <FRBRuri value="/in-union/act/1993/28"/>
+          <FRBRalias value="The Multimodal Transportation of Goods Act, 1993"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1993/28/eng@1993-04-02/main"/>
+          <FRBRuri value="/in-union/act/1993/28/eng@1993-04-02"/>
+          <FRBRdate date="1993-04-02" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1993/28/eng@1993-04-02/main"/>
+          <FRBRuri value="/in-union/act/1993/28/eng@1993-04-02"/>
+          <FRBRdate date="2016-11-14" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Multimodal Transportation Of Goods Act, 1993</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[2nd April, 1993]</docDate>
+      </p>
+      <longTitle>
+        <p>ACT NO. 28 of 1993</p>
+        <p>An Act to provide for the regulation of the multimodal transportation of goods, from any place in India to a place outside India, on the basis of a multimodal transport contract and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Forty-Fourth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Multimodal Transportation of Goods Act, 1993.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall be deemed to have come into force on the 16th day of October, 1992.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“carrier” means a person who performs or undertakes to perform for hire, the carriage or part thereof, of goods by road, rail, inland waterways, sea or air;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“competent authority” means any person or authority authorised by the Central Government, by notification in the Official Gazette, to perform the functions of the competent authority under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“consignee” means the person named as consignee in the multimodal transport contract;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“consignment” means the goods entrusted to a multimodal transport operator for multimodal transportation;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“consignor” means the person, named in the multimodal transport contract as consignor, by whom or on whose behalf the goods covered by such contract are entrusted to a multimodal transport operator for multimodal transportation;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <blockList id="section-2.paragraph-0.list1.f.list0">
+                    <listIntroduction>“delivery” means,—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.f.list0.i">
+                      <num>(i)</num>
+                      <p>in the case of a negotiable multimodal transport document, delivering of the consignment to, or placing the consignment at the disposal of, the consignee or any other person entitled to receive it;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.f.list0.ii">
+                      <num>(ii)</num>
+                      <p>in the case of a non-negotiable multimodal transport document, delivering of the consignment to, or placing the consignment at the disposal of, the consignee or any person authorised by the consignee to accept delivery of the consignment on his behalf;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“endorsee” means the person in whose favour an endorsement is made, and in the case of successive endorsements, the person in whose favour the last endorsement is made;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“endorsement” means the signing by the consignee or the endorsee after adding a direction on a negotiable multimodal transport document to pass the property in the goods mentioned in such document to a specified person;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>"goods" means any property including live animals, containers, pallets or such other articles of transport or packaging supplied by the consignor, irrespective of whether such property is to be or is carried on or under the deck;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“mode of transport” means carriage of goods by road, air, rail, inland waterways or sea;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>"multimodal transportation" means carriage of goods, by at least two different modes of transport under a multimodal transport contract, from the place of acceptance of the goods in India to a place of delivery of the goods outside India;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>"multimodal transport contract" means a contract under which a multimodal transport operator undertakes to perform or procure the performance of multimodal transportation against payment of freight;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.la">
+                  <num>(la)</num>
+                  <p>"multimodal transport document" means a negotiable or non-negotiable document evidencing a multimodal transport contract and which can be replaced by electronic data interchange messages permitted by applicable law;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <blockList id="section-2.paragraph-0.list1.m.list1">
+                    <listIntroduction>“multimodal transport operator” means any person who—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.m.list1.i">
+                      <num>(i)</num>
+                      <p>concludes a multimodal transport contract on his own behalf or through another person acting on his behalf;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.m.list1.ii">
+                      <num>(ii)</num>
+                      <p>acts as principal, and not as an agent either of the consignor, or consignee or of the carrier participating in the multimodal transportation, and who assumes responsibility for the performance of the said contract; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.m.list1.iii">
+                      <num>(iii)</num>
+                      <p>is registered under sub-section (3) of section 4;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <blockList id="section-2.paragraph-0.list1.n.list2">
+                    <listIntroduction>“negotiable multimodal transport document” means a multimodal transport document which is—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.n.list2.i">
+                      <num>(i)</num>
+                      <p>made out to order or to bearer; or</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.n.list2.ii">
+                      <num>(ii)</num>
+                      <p>made out to order and is transferable by endorsement; or</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.n.list2.iii">
+                      <num>(iii)</num>
+                      <p>made out to bearer and is transferable without endorsement;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>“non-negotiable multimodal transport document” means a multimodal transport document which indicates only one named consignee;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.p">
+                  <num>(p)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.q">
+                  <num>(q)</num>
+                  <p>“registration” means registration of multimodal transport operator under sub-section (3) of section 4;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.r">
+                  <num>(r)</num>
+                  <p>"special drawing rights" means such units of accounts as are determined by the International Monetary Fund;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.s">
+                  <num>(s)</num>
+                  <p>"taking charge" means that the goods have been handed over to and accepted for carriage by the multimodal transport operator.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Regulation of multimodal transportation</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>No person to carry on business without registration.—</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>No person shall carry on or commence the business of multimodal transportation unless he is registered under this Act:</p>
+              <p>Provided that a person carrying on the business of multimodal transportation immediately before the commencement of this Act, may continue to do so for a period of three months from such commencement; and if he has made an application for registration within the said period, till the disposal of such application.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Registration for multimodal transportation.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person may apply for registration to the competent authority to carry on or commence the business of multimodal transportation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>An application under sub-section (1) shall be made in such form as may be prescribed and shall be accompanied by a fee of ten thousand rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-4.3.list1">
+                <listIntroduction>On receipt of the application, the competent authority shall satisfy that the applicant fulfils the following conditions, namely:—</listIntroduction>
+                <item id="section-4.3.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-4.3.list1.a.list0">
+                    <item id="section-4.3.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>that the applicant is a company, firm or proprietary concern, engaged either in the business of shipping, or freight forwarding in India or abroad with a minimum annual turnover of fifty lakh rupees during the immediately preceding financial year or an average annual turnover of fifty lakh rupees during the preceding three financial years as certified by a Chartered Accountant within the meaning of the Chartered Accountants Act, 1949 (38 of 1949);</p>
+                    </item>
+                    <item id="section-4.3.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>that if the applicant is a company, firm or proprietary concern other than a company, firm or proprietary concern, specified in sub-clause (i), the subscribed share capital of such company or the aggregate balance in the capital account of partners of the firm, or the capital of the proprietor is not less than fifty lakh rupees.</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-4.3.list1.b">
+                  <num>(b)</num>
+                  <p>that the applicant has offices or agents or representatives in not less than two other countries,</p>
+                </item>
+              </blockList>
+              <p>and on being so satisfied, register the applicant as a multimodal transport operator and grant a certificate to it to carry on or commence the business of multimodal transportation:</p>
+              <p>Provided that the competent authority may, for reasons to be recorded in writing, refuse to grant registration if it is satisfied that the applicant does not fulfil the said conditions:</p>
+              <p>Provided further that any applicant who is not a resident of India and who is not engaged in the business of shipping shall not be granted registration unless he has established a place of business in India:</p>
+              <p>Provided also that in respect of any applicant who is not a resident of India, the turnover may be certified by any authority competent to certify the accounts of a company in that country.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>A certificate granted under sub-section (3) shall be valid for a period of three years and may be renewed from time to time for a further period of three years at a time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>An application for renewal shall be made in such form as may be prescribed and shall be accompanied by such amount of fees as may be notified by the Central Government:</p>
+              <p>Provided that such fees shall not be less than rupees ten thousand and shall not exceed rupees twenty thousand.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.6">
+            <num>(6)</num>
+            <content>
+              <p>The competent authority shall renew the registration certificate granted under sub-section (3) if the applicant continues to fulfil the conditions as laid down at the time of registration.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Cancellation of registration.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <blockList id="section-5.paragraph-0.list1">
+                <listIntroduction>The competent authority may, if it is satisfied at any time after registration that—</listIntroduction>
+                <item id="section-5.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any statement in, or in relation to, any application under sub-section (2) of section 4 or its renewal under sub-section (5) of that section, is incorrect or false in any material particular; or</p>
+                </item>
+                <item id="section-5.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any of the provisions of this Act or the rules made thereunder has been contravened by the multimodal transport operator; or</p>
+                </item>
+                <item id="section-5.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the multimodal transport operator has not entered into any multimodal transport contract during the preceding two years after his registration,</p>
+                </item>
+              </blockList>
+              <p>cancel by order the certificate of registration:</p>
+              <p>Provided that no such registration shall be cancelled unless the multimodal transport operator has been given a reasonable opportunity of showing cause against the proposed action.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Appeal.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person aggrieved by, refusal of the competent authority to grant or renew registration under section 4 or by cancellation of registration under section 5, may prefer an appeal to the Central Government within such period as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>No appeal shall be admitted if it is preferred after the expiry of the prescribed period:</p>
+              <p>Provided that an appeal may be admitted after the expiry of the prescribed period if the appellant satisfies the Central Government that he had sufficient cause for not preferring the appeal within the prescribed period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal made under this section shall be made in such form and on payment of such fees as may be prescribed and shall be accompanied by a copy of the order appealed against.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>On receipt of any such appeal, the Central Government shall, after giving the parties a reasonable opportunity of being heard and after making such inquiry as it deems proper, make such order as it thinks fit.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Multimodal transport document</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Issue of multimodal transport document.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the consignor and the multimodal transport operator have entered into a contract for the multimodal transportation and the multimodal transport operator has taken charge of the goods, he shall, at the option of the consignor, issue a negotiable or non-negotiable multimodal transport document:</p>
+              <p>Provided that the multimodal transport operator shall issue the multimodal transport document only after obtaining, and during the subsistence of a valid insurance cover.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The multimodal transport document shall be signed by the multimodal transport operator or by a person duly authorised by him.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Multimodal transport document to be regarded as document of title.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Every consignee named in the negotiable or non-negotiable multimodal transport document and every endorsee of such document, as the case may be, to whom the property in the goods mentioned therein shall pass, upon or by reason of such consignment or endorsement, shall have all the rights and liabilities of the consignor.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in sub-section (1) shall prejudice or affect the right of the multimodal transport operator to claim freight from the consignor or enforce any liability of the consignee or endorsee by reason of his being such consignee or endorsee.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Contents of multimodal transport document.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <blockList id="section-9.paragraph-0.list1">
+                <listIntroduction>The multimodal transport document shall contain the following particulars, namely:—</listIntroduction>
+                <item id="section-9.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the general nature of the goods, the leading marks necessary for identification of the goods, the character of the goods (including dangerous goods), the number of packages or units and the gross weight and quantity of the goods as declared by the consignor;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>apparent condition of the goods;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the name and principal place of business of the multimodal transport operator;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>the name of the consignor;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>the name of the consignee, if specified by the consignor;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>the place and date of taking charge of the goods by the multimodal transport operator;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>the place of delivery of the goods;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>the date or the period of delivery of the goods by the multimodal transport operator as expressly agreed upon between the consignor and the multimodal transport operator;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>whether it is negotiable or non-negotiable;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>the place and date of its issue;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>freight payable by the consignor or the consignee, as the case may be, to be mentioned only if expressly agreed by both the consignor and the consignee;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>the signature of the multimodal transport operator or of a person duly authorised by him;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>the intended journey route, modes of transport and places of transhipment, if known at the time of its issue;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>terms of shipment and a statement that the document has been issued subject to and in accordance with this Act; and</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>any other particular which the parties may agree to insert in the document, if any such particular is not inconsistent with any law for the time being in force:</p>
+                </item>
+              </blockList>
+              <p>Provided that the absence of any of the particulars listed above shall not affect the legal character of the multimodal transport document.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Reservation in the multimodal transport document.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the multimodal transport operator or a person acting on his behalf knows, or has reasonable grounds to suspect, that the particulars furnished by the consignor in the multimodal transport document do not accurately represent the goods actually taken in charge, or if he has no reasonable means of checking such particulars, the multimodal transport operator or a person acting on his behalf shall insert in the multimodal transport document a reservation specifying the inaccuracies, if any, the grounds of suspicion or the absence of reasonable means of checking the particulars.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the multimodal transport operator or a person acting on his behalf fails to insert the reservation in the multimodal transport document relating to the apparent condition of the goods, he shall be deemed to have accepted the goods in apparent good condition.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Evidentiary effect of the multimodal transport document.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <blockList id="section-11.paragraph-0.list1">
+                <listIntroduction>Save as provided in section 10,—</listIntroduction>
+                <item id="section-11.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the multimodal transport document shall be prima facie evidence of the fact that the multimodal transport operator has taken charge of the goods as described in the document; and</p>
+                </item>
+                <item id="section-11.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>no proof to the contrary by the multimodal transport operator shall be admissible if the multimodal transport document is issued in negotiable form and has been transmitted to the consignee or transferred by the consignee to a third party, if the consignee or the third party has acted in good faith relying on the description of the goods in the document.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Responsibility of the consignor.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The consignor shall be deemed to have guaranteed to the multimodal transport operator the adequacy and accuracy, at the time the multimodal transport operator takes charge of the goods, of the particulars referred to in clauses (a) and (b) of section 9 as furnished by the consignor for insertion in the multimodal transport document.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The consignor shall indemnify the multimodal transport operator against loss resulting from inadequacy or inaccuracy of the particulars referred to in sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>The right of the multimodal transport operator under sub-section (2) shall in no way limit his liability under the multimodal transport contract to any person other than the consignor.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Responsibilities and liabilities of the multimodal transport operator</heading>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Basis of liability of multimodal transport operator.—</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-13.1.list1">
+                <listIntroduction>The multimodal transport operator shall be liable for loss resulting from—</listIntroduction>
+                <item id="section-13.1.list1.a">
+                  <num>(a)</num>
+                  <p>any loss of, or damage to, the consignment;</p>
+                </item>
+                <item id="section-13.1.list1.b">
+                  <num>(b)</num>
+                  <p>delay in delivery of the consignment and any consequential loss or damage arising from such delay,</p>
+                </item>
+              </blockList>
+              <p>where such loss, damage or delay in delivery took place while the consignment was in his charge:</p>
+              <p>Provided that the multimodal transport operator shall not be liable if he proves that no fault or neglect on his part or that of his servants or agents had caused or contributed to such loss, damage or delay in delivery:</p>
+              <p>Provided further that the multimodal transport operator shall not be liable for loss or damage arising out of delay in delivery including any consequential loss or damage arising from such delay unless the consignor had made a declaration of interest in timely delivery which has been accepted by the multimodal transport operator.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this sub-section, “delay in delivery” shall be deemed to occur when the consignment has not been delivered within the time expressly agreed upon or, in the absence of such agreement, within a reasonable time required by a diligent multimodal transport operator, having regard to the circumstances of the case, to effect the delivery of the consignment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>If the consignment has not been delivered within ninety consecutive days following the date of delivery expressly agreed upon or the reasonable time referred to in the Explanation to sub-section (1), the claimant may treat the consignment as lost.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Limits of liability when the nature and value of the consignment have not been declared and stage of transport where loss or damage occurred is not known.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a multimodal transport operator becomes liable for any loss of, or damage to, any consignment, the nature and value whereof have not been declared by the consignor before such consignment has been taken in charge by the multimodal transport operator and the stage of transport at which such loss or damage occurred is not known, then the liability of the multimodal transport operator to pay compensation shall not exceed two Special Drawing Rights per kilogram of the gross weight of the consignment lost or damaged or 666.67 Special Drawing Rights per package or unit lost or damaged, whichever is higher.</p>
+              <p>Explanation.—</p>
+              <p>For the purpose of this sub-section, where a container, pallet or similar article is stuffed with more than one package or units, the packages or units enumerated in the multimodal transport document, as packed in such container, pallet or similar article of transport shall be deemed as packages or units.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), if the multimodal transportation does not, according to the multimodal transport contract, include carriage of goods by sea or by inland waterways, the liability of the multimodal transport operator shall be limited to an amount not exceeding 8.33 Special Drawing Rights per kilogram of the gross weight of the goods lost or damaged.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Limits of liability when the nature and value of the consignment have not been declared and stage of transport where loss or damage occurred is known.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>Where a multimodal transport operator becomes liable for any loss of, or damage to, any consignment, the nature and value whereof have not been declared by the consignor before such consignment has been taken in charge by the multimodal transport operator and the stage of transport at which such loss or damage occurred is known, then the limit of the liability of the multimodal transport operator for such loss or damage shall be determined in accordance with the provisions of the relevant law applicable in relation to the mode of transport during the course of which the loss or damage occurred and any stipulation in the multimodal transport contract to the contrary shall be void and unenforceable:</p>
+              <p>Provided that the multimodal transport operator shall not be liable for any loss, damage or delay in delivery due to a cause for which the carrier is exempted from liability in accordance with the applicable law.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Liability of the multimodal transport operator in case of delay in delivery of goods under certain circumstances.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Where delay in delivery of the consignment occurs under any of the circumstances mentioned in the Explanation to sub-section (1) of section 13, or any consequential loss or damage arises from such delay, then the liability of the multimodal transport operator shall be limited to the freight payable for the consignment so delayed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Assessment of compensation.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>Assessment of compensation for loss of, or damage to, the consignment shall be made with reference to the value of such consignment at the place where, and the time at which, such consignment is delivered to the consignee or at the place and time when, in accordance with the multimodal transport contract, it should have been delivered.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The value of the consignment shall be determined according to the current commodity exchange price, or, if there is no such price, according to the current market price, or, if the current market price is not ascertainable, with reference to the normal value of a consignment of the same kind and quantity.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Loss of right of multimodal transport operator to limit liability.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>The multimodal transport operator shall not be entitled to the benefit of limitation of liability under any of the provisions of this Chapter if it is proved that the loss, damage or delay in delivery of consignment resulted from an act or omission of the multimodal transport operator with intent to cause such loss, damage or delay or recklessly and with knowledge that such loss, damage or delay would probably result.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Limit of liability of multimodal transport operator for total loss of goods.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The multimodal transport operator shall not, in any case, be liable for an amount greater than the liability for total loss of goods for which a person will be entitled to make a claim against him under the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Notice of loss of or damage to goods.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The delivery of the consignment to the consignee by the multimodal transport operator shall be treated as prima facie evidence of delivery of the goods as described in the multimodal transport document unless notice of the general nature of loss of, or damage to, the goods is given, in writing, by the consignee to the multimodal transport operator at the time of handing over of the goods to the consignee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the loss or damage is not apparent, the provisions of sub-section (1) shall apply unless notice in writing is given by the consignee of the loss of, or damage to, the goods within six consecutive days after the day when the goods were handed over to the consignee.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20A">
+          <num>20A.</num>
+          <heading>Period of responsibility.—</heading>
+          <paragraph id="section-20A.paragraph-0">
+            <content>
+              <p>The responsibility of the multimodal transport operator for the goods under this Act shall cover the period from the time he has taken the goods in his charge to the time of their delivery.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Special provision for dangerous goods.—</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the consignor hands over the prescribed dangerous goods to a multimodal transport operator or any person acting on behalf of such operator, the consignor shall inform him of the nature of the dangerous goods and, if necessary, the precautions to be taken while transporting such goods.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-21.2.list1">
+                <listIntroduction>Where the consignor fails to inform the multimodal transport operator or the other person acting on behalf of such operator of the nature of the dangerous goods and such operator or person does not otherwise have knowledge of the dangerous goods—</listIntroduction>
+                <item id="section-21.2.list1.a">
+                  <num>(a)</num>
+                  <p>the consignor shall be liable to the multimodal transport operator or the other person acting on behalf of such operator for all loss resulting from the multimodal transportation of such goods; and</p>
+                </item>
+                <item id="section-21.2.list1.b">
+                  <num>(b)</num>
+                  <p>the goods may at any time be unloaded, destroyed or rendered innocuous, as the circumstances may require, without payment of compensation.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Right of multimodal transport operator to have lien on goods and documents.—</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The multimodal transport operator who has not been paid the amount of consideration stipulated in the multimodal transport contract shall have a lien on the consignment and on the documents in his possession.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sections 13, 16 and 18, the period during which the goods are in possession of the multimodal transport operator in exercise of his right of lien referred to in sub-section (1) shall not be included for the purposes of calculating the time of delay under any of those sections.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>General average.—</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in any other provision of this Act, it shall be lawful for the parties to the multimodal transport contract to include in the multimodal transport document any provision relating to general average.</p>
+              <p>Explanation.—</p>
+              <p>For the purposes of this section, “general average” means loss, damage or expense reasonably incurred in order to avert danger to property in common peril and in the common interest involved in the multimodal transportation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Limitation on action.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <blockList id="section-24.paragraph-0.list1">
+                <listIntroduction>The multimodal transport operator shall not be liable under any of the provisions of this Act unless action against him is brought within nine months of—</listIntroduction>
+                <item id="section-24.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the date of delivery of the goods, or</p>
+                </item>
+                <item id="section-24.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the date when the goods should have been delivered, or</p>
+                </item>
+                <item id="section-24.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the date on and from which the party entitled to receive delivery of the goods has the right to treat the goods as lost under sub-section (2) of section 13.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Jurisdiction for instituting action.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <blockList id="section-25.paragraph-0.list1">
+                <listIntroduction>Any party to the multimodal transport contract may institute an action in a court which is competent and within the jurisdiction of which is situated one of the following places, namely:—</listIntroduction>
+                <item id="section-25.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the principal place of business, or, in the absence thereof, the habitual residence, of the defendant; or</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the place where the multimodal transport contract was made, provided that the defendant has a place of business, branch or agency at such place; or</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the place of taking charge of the goods for multimodal transportation or the place of delivery thereof; or</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>any other place specified in the multimodal transport contract and evidenced in the multimodal transport document.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Arbitration.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The parties to a multimodal transport contract may provide therein that any dispute which may arise in relation to multimodal transportation under the provisions of this Act shall be referred to arbitration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>The arbitration proceeding may be instituted at such place or in accordance with such procedure as may be specified in the multimodal transport document.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Delegation of power.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, direct that any power exercisable by it under this Act, except the power under section 30, shall, in such circumstances and subject to such conditions, if any, as may be specified therein, be exercisable also by such officer or authority as may be specified in the notification.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Multimodal transport contract to be made in accordance with this Act.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>No person registered as a multimodal transport operator shall enter into any contract for multimodal transportation except in accordance with the provisions of this Act and any contract, to the extent it is inconsistent with the said provisions, shall be void and unenforceable.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Act to override other enactments.—</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-30.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing provisions, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-30.2.list1.a">
+                  <num>(a)</num>
+                  <p>the forms in which applications shall be made under section 4;</p>
+                </item>
+                <item id="section-30.2.list1.b">
+                  <num>(b)</num>
+                  <p>the period within which appeal shall be preferred under sub-section (1) of section 6;</p>
+                </item>
+                <item id="section-30.2.list1.c">
+                  <num>(c)</num>
+                  <p>the form in which an appeal shall be preferred under section 6 and the amount of fee payable in respect of such appeal;</p>
+                </item>
+                <item id="section-30.2.list1.d">
+                  <num>(d)</num>
+                  <p>dangerous goods for the purpose of section 21;</p>
+                </item>
+                <item id="section-30.2.list1.e">
+                  <num>(e)</num>
+                  <p>any other matter which is to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Amendment of certain enactments.—</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <p>Repealed</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Repeal and savings.—</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <p>The Multimodal Transportation of Goods Ordinance, 1993 (Ord. 6 of 1993), is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Ordinance, shall be deemed to have been done or taken under the corresponding provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1993/28/schedules"/>
+              <FRBRuri value="/in-union/act/1993/28"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1993/28/eng@1993-04-02/schedules"/>
+              <FRBRuri value="/in-union/act/1993/28/eng@1993-04-02"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1993/28/eng@1993-04-02/schedules"/>
+              <FRBRuri value="/in-union/act/1993/28/eng@1993-04-02"/>
+              <FRBRdate date="2016-11-14" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <p>Repealed</p>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

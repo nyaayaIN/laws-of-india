@@ -1,0 +1,933 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1926/16/main"/>
+          <FRBRuri value="/in-union/act/1926/16"/>
+          <FRBRalias value="The Trade Unions Act, 1926"/>
+          <FRBRdate date="1926-03-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1926/16/eng@1926-03-25/main"/>
+          <FRBRuri value="/in-union/act/1926/16/eng@1926-03-25"/>
+          <FRBRdate date="1926-03-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1926/16/eng@1926-03-25/main"/>
+          <FRBRuri value="/in-union/act/1926/16/eng@1926-03-25"/>
+          <FRBRdate date="2016-10-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="1926-03-25" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Trade Unions Act, 1926</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[25th March, 1926]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 16 of 1926</p>
+        <p>An Act to provide for the registration of Trade Unions and in certain respects to define the law relating to registered Trade Unions.</p>
+        <p>WHEREAS it is expedient to provide for the registration of Trade Unions and in certain respects to define the law relating to registered Trade Unions.</p>
+        <p>It is hereby enacted as follows:—</p>
+      </longTitle>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Trade Unions Act, 1926.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act “the appropriate Government” means, in relation to Trade Unions whose objects are not confined to one State, the Central Government, and in relation to other Trade Unions, the State Government, and, unless there is anything repugnant in the subject or context,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“executive" means the body, by whatever name called, to which the management of the affairs of a Trade Union is entrusted;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“office-bearer”, in the case of a Trade Union, includes any member of the executive thereof, but does not include an auditor;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“prescribed” means prescribed by regulations made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“registered office” means that office of a Trade Union which is registered under this Act as the head office thereof;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“registered Trade Union” means a Trade Union registered under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <blockList id="section-2.paragraph-0.list1.f.list0">
+                    <listIntroduction>“Registrar” means—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.f.list0.i">
+                      <num>(i)</num>
+                      <p>a Registrar of Trade Unions appointed by the appropriate Government under section 3, and includes any Additional or Deputy Registrar of Trade Unions, and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.f.list0.ii">
+                      <num>(ii)</num>
+                      <p>in relation to any Trade Union, the Registrar appointed for the State in which the head or registered office, as the case may be, of the Trade Union is situated;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“trade dispute” means any dispute between employers and workmen or between workmen and workmen, or between employers and employers which is connected with the employment or non-employment, or the terms of employment or the conditions of labour, of any person, and “workmen” means all persons employed in trade or industry whether or not in the employment of the employer with whom the trade dispute arises; and</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“Trade Union” means any combination, whether temporary or permanent, formed primarily for the purpose of regulating the relations between workmen and employers or between workmen and workmen, or between employers and employers, or for imposing restrictive conditions on the conduct of any trade or business, and includes any federation of two or more Trade Unions:</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.paragraph-0.list3">
+                <listIntroduction>Provided that this Act shall not affect—</listIntroduction>
+                <item id="section-2.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>any agreement between partners as to their own business;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.ii">
+                  <num>(ii)</num>
+                  <p>any agreement between an employer and those employed by him as to such employment; or</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.iii">
+                  <num>(iii)</num>
+                  <p>any agreement in consideration of the sale of the goodwill of a business or of instruction in any profession, trade or handicraft.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Registration of Trade Unions</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Appointment of Registrars.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>The appropriate Government shall appoint a person to be the Registrar of Trade Unions for each State.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The appropriate Government may appoint as many Additional and Deputy Registrars of Trade Unions as it thinks fit for the purpose of exercising and discharging, under the superintendence and direction of the Registrar, such powers and functions of the Registrar under this Act as it may, by order, specify and define the local limits within which any such Additional or Deputy Registrar shall exercise and discharge the powers and functions so specified.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the provisions of any order under sub-section (2), where an Additional or Deputy Registrar exercises and discharges the powers and functions of a Registrar in an area within which the registered office of a Trade Union is situated, the Additional or Deputy Registrar shall be deemed to be the Registrar in relation to the Trade Union for the purposes of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Mode of registration.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Any seven or more members of a Trade Union may, by subscribing their names to the rules of the Trade Union and by otherwise complying with the provisions of this Act with respect to registration, apply for registration of the Trade Union under this Act:</p>
+              <p>Provided that no Trade Union of workmen shall be registered unless at least ten per cent. or one hundred of the workmen, whichever is less, engaged or employed in the establishment or industry with which it is connected are the members of such Trade Union on the date of making of application for registration:</p>
+              <p>Provided further that no Trade Union of workmen shall be registered unless it has on the date of making application not less than seven persons as its members, who are workmen engaged or employed in the establishment or industry with which it is connected.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Where an application has been made under sub-section (1) for the registration of a Trade Union, such application shall not be deemed to have become invalid merely by reason of the fact that, at any time after the date of the application, but before the registration of the Trade Union, some of the applicants, but not exceeding half of the total number of persons who made the application, have ceased to be members of the Trade Union or have given notice in writing to the Registrar dissociating themselves from the applications.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Application for registration. —</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-5.1.list1">
+                <listIntroduction>Every application for registration of a Trade Union shall be made to the Registrar, and shall be accompanied by a copy of the rules of the Trade Union and a statement of the following particulars, namely:—</listIntroduction>
+                <item id="section-5.1.list1.a">
+                  <num>(a)</num>
+                  <p>the names, occupations and addresses of the members making the application;</p>
+                </item>
+              </blockList>
+              <blockList id="section-5.1.list3">
+                <listIntroduction>( aa) in the case of a Trade Union of workmen, the names, occupations and addresses of the place of work of the members of the Trade Union making the application;</listIntroduction>
+                <item id="section-5.1.list3.b">
+                  <num>(b)</num>
+                  <p>the name of the Trade Union and the address of its head office; and</p>
+                </item>
+                <item id="section-5.1.list3.c">
+                  <num>(c)</num>
+                  <p>the titles, names, ages, addresses and occupations of the office-bearers of the Trade Union.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a Trade Union has been in existence for more than one year before the making of an application for its registration, there shall be delivered to the Registrar, together with the application, a general statement of the assets and liabilities of the Trade Union prepared in such form and containing such particulars as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Provisions to be contained in the rules of a Trade Union.—</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <blockList id="section-6.paragraph-0.list1">
+                <listIntroduction>A Trade Union shall not be entitled to registration under this Act, unless the executive thereof is constituted in accordance with the provisions of this Act, and the rules thereof provide for the following matters, namely:—</listIntroduction>
+                <item id="section-6.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the name of the Trade Union;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the whole of the objects for which the Trade Union has been established;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the whole of the purposes for which the general funds of the Trade Union shall be applicable, all of which purposes shall be purposes to which such funds are lawfully applicable under this Act;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>the maintenance of a list of the members of the Trade Union and adequate facilities for the inspection thereof by the office-bearers and members of Trade Union;</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>the admission of ordinary members who shall be persons actually engaged or employed in an industry with which the Trade Union is connected, and also the admission of the number of honorary or temporary members as office-bearers required under section 22 to form the executive of the Trade Union;</p>
+                </item>
+              </blockList>
+              <blockList id="section-6.paragraph-0.list3">
+                <listIntroduction>( ee) the payment of a minimum subscription by members of the Trade Union which shall not be less than—</listIntroduction>
+                <item id="section-6.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>one rupee per annum for rural workers;</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.ii">
+                  <num>(ii)</num>
+                  <p>three rupees per annum for workers in other unorganised sectors; and</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.iii">
+                  <num>(iii)</num>
+                  <p>twelve rupees per annum for workers in any other case;</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.f">
+                  <num>(f)</num>
+                  <p>the conditions under which any member shall be entitled to any benefit assured by the rules and under which any fine or forfeiture may be imposed on the members;</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.g">
+                  <num>(g)</num>
+                  <p>the manner in which the rules shall be amended, varied or rescinded;</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.h">
+                  <num>(h)</num>
+                  <p>the manner in which the members of the executive and the other office-bearers of the Trade Union shall be elected and removed;</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.hh">
+                  <num>(hh)</num>
+                  <p>the duration of period being not more than three years, for which the members of the executive and other office-bearers of the Trade Union shall be elected;</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>the safe custody of the funds of the Trade Union, an annual audit, in such manner as may be prescribed, of the accounts thereof, and adequate facilities for the inspection of the account books by the office-bearers and members of the Trade Union; and</p>
+                </item>
+                <item id="section-6.paragraph-0.list3.j">
+                  <num>(j)</num>
+                  <p>the manner in which the Trade Union may be dissolved.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Power to call for further particulars and to require alteration of name. —</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Registrar may call for further information for the purpose of satisfying himself that any application complies with the provisions of section 5, or that the Trade Union is entitled to registration under section 6, and may refuse to register the Trade Union until such information is supplied.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>If the name under which a Trade Union is proposed to be registered is identical with that by which any other existing Trade Union has been registered or, in the opinion of the Registrar, so nearly resembles such name as to be likely to deceive the public or the members of either Trade Union, the Registrar shall require the persons applying for registration to alter the name of the Trade Union stated in the application, and shall refuse to register the Union until such alteration has been made.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Registration.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>The Registrar, on being satisfied that the Trade Union has complied with all the requirements of this Act in regard to registration, shall register the Trade Union by entering in a register, to be maintained in such form as may be prescribed, the particulars relating to the Trade Union contained in the statement accompanying the application for registration.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Certificate of registration.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The Registrar, on registering a Trade Union under section 8, shall issue a certificate of registration in the prescribed form which shall be conclusive evidence that the Trade Union has been duly registered under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9A">
+          <num>9A.</num>
+          <heading>Minimum requirement about membership of a Trade Union.—</heading>
+          <paragraph id="section-9A.paragraph-0">
+            <content>
+              <p>A registered Trade Union of workmen shall at all times continue to have not less than ten per cent. or one hundred of the workmen, whichever is less, subject to a minimum of seven, engaged or employed in an establishment or industry with which it is connected, as its members.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Cancellation of registration.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <blockList id="section-10.paragraph-0.list1">
+                <listIntroduction>A certificate of registration of a Trade Union may be withdrawn or cancelled by the Registrar—</listIntroduction>
+                <item id="section-10.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>on the application of the Trade Union to be verified in such manner as may be prescribed;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>if the Registrar is satisfied that the certificate has been obtained by fraud or mistake, or that the Trade Union has ceased to exist or has wilfully and after notice from the Registrar contravened any provision of this Act or allowed any rule to continue in force which is inconsistent with any such provision, or has rescinded any rule providing for any matter provision for which is required by section 6;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>if the Registrar is satisfied that a registered Trade Union of workmen ceases to have the requisite number of members:</p>
+                </item>
+              </blockList>
+              <p>Provided that not less than two months' previous notice in writing specifying the ground on which it is proposed to withdraw or cancel the certificate shall be given by the Registrar to the Trade Union before the certificate is withdrawn or cancelled otherwise than on the application of the Trade Union.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Appeal. —</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-11.1.list1">
+                <listIntroduction>Any person aggrieved by any refusal of the Registrar to register a Trade Union or by the withdrawal or cancellation of a certificate of registration may, within such period as may be prescribed, appeal—</listIntroduction>
+                <item id="section-11.1.list1.a">
+                  <num>(a)</num>
+                  <p>where the head office of the Trade Union is situated within the limits of a Presidency town to the High Court, or</p>
+                </item>
+              </blockList>
+              <blockList id="section-11.1.list3">
+                <listIntroduction>( aa) where the head office is situated in an area, falling within the jurisdiction of a Labour Court or an Industrial Tribunal, to that Court or Tribunal, as the case may be;</listIntroduction>
+                <item id="section-11.1.list3.b">
+                  <num>(b)</num>
+                  <p>where the head office is situated in any area, to such Court, not inferior to the Court of an additional or assistant Judge of a principal Civil Court of original jurisdiction, as the appropriate Government may appoint in this behalf for that area.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The appellate Court may dismiss the appeal, or pass an order directing the Registrar to register the Union and to issue a certificate of registration under the provisions of section 9 or setting aside the order or withdrawal or cancellation of the certificate, as the case may be, and the Registrar shall comply with such order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>For the purpose of an appeal under sub-section (1) an appellate Court shall, so far as may be, follow the same procedure and have the same powers as it follows and has when trying a suit under the Code of Civil Procedure, 1908 (5 of 1908), and may direct by whom the whole or any part of the costs of the appeal shall be paid, and such costs shall be recovered as if they had been awarded in a suit under the said Code.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>In the event of the dismissal of an appeal by any Court appointed under clause (b) of sub-section (1) the person aggrieved shall have a right of appeal to the High Court, and the High Court shall, for the purpose of such appeal, have all the powers of an appellate Court under sub-sections (2) and (3), and the provisions of those sub-sections shall apply accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Registered office.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>All communications and notices to a registered Trade Union may be addressed to its registered office. Notice of any change in the address of the head office shall be given within fourteen days of such change to the Registrar in writing, and the changed address shall be recorded in the register referred to in section 8.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Incorporation of registered Trade Unions.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>Every registered Trade Union shall be a body corporate by the name under which it is registered, and shall have perpetual succession and a common seal with power to acquire and hold both movable and immovable property and to contract, and shall by the said name sue and be sued.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Certain Acts not to apply to registered Trade Unions.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <blockList id="section-14.paragraph-0.list1">
+                <listIntroduction>The following Acts, namely:—</listIntroduction>
+                <item id="section-14.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>The Societies Registration Act, 1860 (21 of 1860);</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>The Co-operative Societies Act, 1912 (2 of 1912);</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>The Companies Act, 1956 (1 of 1956),</p>
+                </item>
+              </blockList>
+              <p>shall not apply to any registered Trade Union, and the registration of any such Trade Union under any such Act shall be void.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Rights and Liabilities of Registered Trade Unions</heading>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Objects on which general funds may be spent.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <blockList id="section-15.paragraph-0.list1">
+                <listIntroduction>The general funds of a registered Trade Union shall not be spent on any other objects than the following, namely:—</listIntroduction>
+                <item id="section-15.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the payment of salaries, allowances and expenses to office-bearers of the Trade Union;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the payment of expenses for the administration of the Trade Union, including audit of the accounts of the general funds of the Trade Union;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the prosecution or defence of any legal proceeding to which the Trade Union or any member thereof is a party, when such prosecution or defence is undertaken for the purpose of securing or protecting any rights of the Trade Union as such or any rights arising out of the relations of any member with his employer or with a person whom the member employs;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>the conduct of trade disputes on behalf of the Trade Union or any member thereof;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>the compensation of members for loss arising out of trade disputes;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>allowances to members or their dependants on account of death, old age, sickness, accidents or unemployment of such members;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>the issue of, or the undertaking of liability under, policies of assurance on the lives of members, or under policies insuring members against sickness, accident or unemployment;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>the provision of educational, social or religious benefits for members (including the payment of the expenses of funeral or religious ceremonies for deceased members) or for the dependants of members;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>the upkeep of a periodical published mainly for the purpose of discussing questions affecting employers or workmen as such;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>the payment, in furtherance of any of the objects on which the general funds of the Trade Union may be spent, of contributions to any cause intended to benefit workmen in general, provided that the expenditure in respect of such contributions in any financial year shall not at any time during that year be in excess of one-fourth of the combined total of the gross income which has up to that time accrued to the general funds of the Trade Union during that year and of the balance at the credit of those funds at the commencement of that year; and</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>subject to any conditions contained in the notification, any other object notified by the appropriate Government in the Official Gazette.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Constitution of a separate fund for political purposes.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>A registered Trade Union may constitute a separate fund, from contributions separately levied for or made to that fund, from which payments may be made, for the promotion of the civic and political interests of its members, in furtherance of any of the objects specified in sub-section (2).</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-16.2.list1">
+                <listIntroduction>The objects referred to in sub-section (1) are—</listIntroduction>
+                <item id="section-16.2.list1.a">
+                  <num>(a)</num>
+                  <p>the payment of any expenses incurred, either directly or indirectly, by a candidate or prospective candidate for election as a member of any legislative body constituted under the Constitution or of any local authority, before, during, or after the election in connection with his candidature or election; or</p>
+                </item>
+                <item id="section-16.2.list1.b">
+                  <num>(b)</num>
+                  <p>the holding of any meeting or the distribution of any literature or documents in support of any such candidate or prospective candidate; or</p>
+                </item>
+                <item id="section-16.2.list1.c">
+                  <num>(c)</num>
+                  <p>the maintenance of any person who is a member of any legislative body constituted under the Constitution or for any local authority; or</p>
+                </item>
+                <item id="section-16.2.list1.d">
+                  <num>(d)</num>
+                  <p>the registration of electors or the selection of a candidate for any legislative body constituted under the Constitution or for any local authority; or</p>
+                </item>
+                <item id="section-16.2.list1.e">
+                  <num>(e)</num>
+                  <p>the holding of political meetings of any kind, or the distribution of political literature or political documents of any kind.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.2A">
+            <num>(2A)</num>
+            <content>
+              <p>In its application to the State of Jammu and Kashmir, references in sub-section (2) to any legislative body constituted under the Constitution shall be construed as including references to the Legislature of that State.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>No member shall be compelled to contribute to the fund constituted under sub-section (1); and a member who does not contribute to the said fund shall not be excluded from any benefits of the Trade Union, or placed in any respect either directly or indirectly under any disability or at any disadvantage as compared with other members of the Trade Union (except in relation to the control or management of the said fund) by reason of his not contributing to the said fund; and contribution to the said fund shall not be made a condition for admission to the Trade Union.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Criminal conspiracy in trade disputes.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>No office-bearer or member of a registered Trade Union shall be liable to punishment under sub-section (2) of section 120B of the Indian Penal Code (45 of 1860), in respect of any agreement made between the members for the purpose of furthering any such object of the Trade Union as is specified in section 15, unless the agreement is an agreement to commit an offence.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Immunity from civil suit in certain cases.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>No suit or other legal proceeding shall be maintainable in any Civil Court against any registered Trade Union or any office-bearer or member thereof in respect of any act done in contemplation or furtherance of a trade dispute to which a member of the Trade Union is a party on the ground only that such act induces some other person to break a contract of employment, or that it is in interference with the trade, business or employment of some other person or with the right of some other person to dispose of his capital or of his labour as he wills.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>A registered Trade Union shall not be liable in any suit or other legal proceeding in any Civil Court in respect of any tortious act done in contemplation or furtherance of a trade dispute by an agent of the Trade Union if it is proved that such person acted without the knowledge of, or contrary to express instructions given by, the executive of the Trade Union.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Enforceability of agreements.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, an agreement between the members of a registered Trade Union shall not be void or voidable merely by reason of the fact that any of the objects of the agreement are in restraint of trade: Provided that nothing in this section shall enable any Civil Court to entertain any legal proceeding instituted for the express purpose of enforcing or recovering damages for the breach of any agreement concerning the conditions on which any members of a Trade Union shall or shall not sell their goods, transact business, work, employ or be employed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Right to inspect books of Trade Union.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>The account books of a registered Trade Union and the list of members thereof shall be open to inspection by an office-bearer or member of the Trade Union at such times as may be provided for in the rules of the Trade Union.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Rights of minors to membership of Trade Unions.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Any person who has attained the age of fifteen years may be a member of a registered Trade Union subject to any rules of the Trade Union to the contrary, and may, subject as aforesaid, enjoy all the rights of a member and execute all instruments and give all acquittances necessary to be executed or given under the rules:</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21A">
+          <num>21A.</num>
+          <heading>Disqualifications of office-bearers of Trade Unions. —</heading>
+          <subsection id="section-21A.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-21A.1.list1">
+                <listIntroduction>A person shall be disqualified for being chosen as, and for being, a member of the executive or any other office-bearer of a registered Trade Union if—</listIntroduction>
+                <item id="section-21A.1.list1.i">
+                  <num>(i)</num>
+                  <p>he has not attained the age of eighteen years;</p>
+                </item>
+                <item id="section-21A.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>he has been convicted by a Court in India of any offence involving moral turpitude and sentenced to imprisonment, unless a period of five years has elapsed since his release.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-21A.2">
+            <num>(2)</num>
+            <content>
+              <p>Any member of the executive or other office-bearer of a registered Trade Union who, before the commencement of the Indian Trade Unions (Amendment) Act, 1964, has been convicted of any offence involving moral turpitude and sentenced to imprisonment, shall on the date of such commencement cease to be such member or office-bearer unless a period of five years has elapsed since his release before that date.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21A.3">
+            <num>(3)</num>
+            <content>
+              <p>In its application to the State of Jammu and Kashmir, reference in sub-section (2) to the commencement of the Indian Trade Unions (Amendment) Act, 1964 (38 of 1964), shall be construed as reference to the commencement of this Act in the said State.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Proportion of office-bearers to be connected with the industry.—</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>Not less than one-half of the total number of the office-bearers of every registered Trade Union in an unrecognised sector shall be persons actually engaged or employed in an industry with which the Trade Union is connected:</p>
+              <p>Provided that the appropriate Government may, by special or general order, declare that the provisions of this section shall not apply to any Trade Union or class of Trade Unions specified in the order.</p>
+              <p>Explanation.— For the purposes of this section, “unorganised sector” means any sector which the appropriate Government may, by notification in the Official Gazette, specify.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Save as otherwise provided in sub-section (1), all office-bearers of a registered Trade Union, except not more than one-third of the total number of the office-bearers or five, whichever is less, shall be persons acutally engaged or employed in the establishment or industry with which the Trade Union is connected.</p>
+              <p>Explanation.— For the purposes of this sub-section, an employee who has retired or has been retrenched shall not be construed as outsider for the purpose of holding an office in a Trade Union.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>No member of the Council of Ministers or a person holding an office of profit (not being an engagement or employment in an establishment or industry with which the Trade Union is connected), in the Union or a State, shall be a member of the executive or other office-bearer of a registered Trade Union.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Change of name.—</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Any registered Trade Union may, with the consent of not less than two-thirds of the total number of its members and subject to the provisions of section 25, change its name.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Amalgamation of Trade Unions.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Any two or more registered Trade Unions may become amalgamated together as one Trade Union with or without dissolution or division of the funds of such Trade Unions or either or any of them, provided that the votes of at least one-half of the members of each or every such Trade Union entitled to vote are recorded, and that at least sixty per cent. of the votes recorded are in favour of the proposal.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Notice of change of name or amalgamation.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Notice in writing of every change of name and of every amalgamation signed, in the case of a change of name, by the Secretary and by seven members of the Trade Union changing its name, and in the case of an amalgamation, by the Secretary and by seven members of each and every Trade Union which is a party thereto, shall be sent to the Registrar and where the head office of the amalgamated Trade Union is situated in a different State, to the Registrar of such State.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>If the proposed name is identical with that by which any other existing Trade Union has been registered or, in the opinion of the Registrar, so nearly resembles such name as to be likely to deceive the public or the members of either Trade Union, the Registrar shall refuse to register the change of name.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>Save as provided in sub-section (2), the Registrar shall, if he is satisfied that the provisions of this Act in respect of change of name have been complied with, register the change of name in the register referred to in section 8, and the change of name shall have effect from the date of such registration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.4">
+            <num>(4)</num>
+            <content>
+              <p>The Registrar of the State in which the head office of the amalgamated Trade Union is situated shall, if he is satisfied that the provisions of this Act in respect of amalgamation have been complied with and that the Trade Union formed thereby is entitled to registration under section 6, register the Trade Union in the manner provided in section 8, and the amalgamation shall have effect from the date of such registration.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Effects of change of name and of amalgamation.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The change in the name of a registered Trade Union shall not affect any rights or obligations of the Trade Union or render defective any legal proceeding by or against the Trade Union, and any legal proceeding which might have been continued or commenced by or against it by its former name may be continued or commenced by or against it by its new name.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>An amalgamation of two or more registered Trade Unions shall not prejudice any right of any of such Trade Unions or any right of a creditor of any of them.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Dissolution.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>When a registered Trade Union is dissolved, notice of the dissolution signed by seven members and by the Secretary of the Trade Union shall, within fourteen days of the dissolution be sent to the Registrar, and shall be registered by him if he is satisfied that the dissolution has been effected in accordance with the rules of the Trade Union, and the dissolution shall have effect from the date of such registration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the dissolution of a registered Trade Union has been registered and the rules of the Trade Union do not provide for the distribution of funds of the Trade Union on dissolution, the Registrar shall divide the funds amongst the members in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Returns. —</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be sent annually to the Registrar, on or before such date as may be prescribed, a general statement, audited in the prescribed manner, of all receipts and expenditure of every registered Trade Union during the year ending on the 31st day of December next preceding such prescribed date, and of the assets and liabilities of the Trade Union existing on such 31st day of December. The statement shall be prepared in such form and shall comprise such particulars as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>Together with the general statement there shall be sent to the Registrar a statement showing changes of office-bearers made by the Trade Union during the year to which the general statement refers, together also with a copy of the rules of the Trade Union corrected up to the date of the despatch thereof to the Registrar.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <p>A copy of every alteration made in the rules of a registered Trade Union shall be sent to the Registrar within fifteen days of the making of the alteration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.4">
+            <num>(4)</num>
+            <content>
+              <p>For the purpose of examining the documents referred to in sub-sections (1), (2) and (3), the Registrar, or any officer authorised by him, by general or special order, may at all reasonable times inspect the certificate of registration, account books, registers, and other documents, relating to a Trade Union, at its registered office or may require their production at such place as he may specify in this behalf, but no such place shall be at a distance of more than ten miles from the registered office of a Trade Union.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>The appropriate Government may make regulations for the purpose of carrying into effect the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-28.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters namely:—</listIntroduction>
+                <item id="section-28.2.list1.a">
+                  <num>(a)</num>
+                  <p>the manner in which Trade Unions and the rules of Trade Unions shall be registered and the fees payable on registration;</p>
+                </item>
+                <item id="section-28.2.list1.b">
+                  <num>(b)</num>
+                  <p>the transfer of registration in the case of any registered Trade Union which has changed its head office from one State to another;</p>
+                </item>
+                <item id="section-28.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner in which, and the qualifications by whom, the accounts of registered Trade Unions or of any class of such Unions shall be audited;</p>
+                </item>
+                <item id="section-28.2.list1.d">
+                  <num>(d)</num>
+                  <p>the conditions subject to which inspection of documents kept by Registrars shall be allowed and the fees which shall be chargeable in respect of such inspections; and</p>
+                </item>
+                <item id="section-28.2.list1.e">
+                  <num>(e)</num>
+                  <p>any matter which is to be or may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <p>Every notification made by the Central Government under sub-section (1) of section 22, and every regulation made by it under sub-section (1), shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or regulation, or both Houses agree that the notification or regulation should not be made, the notification or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or regulation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.4">
+            <num>(4)</num>
+            <content>
+              <p>Every notification made by the State Government under sub-section (1) of section 22 and every regulation made by it under sub-section (1) shall be laid, as soon as may be after it is made, before the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Regulations</heading>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Power to make regulations.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>The appropriate Government may make regulations for the purpose of carrying into effect the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-29.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters namely:—</listIntroduction>
+                <item id="section-29.2.list1.a">
+                  <num>(a)</num>
+                  <p>the manner in which Trade Unions and the rules of Trade Unions shall be registered and the fees payable on registration;</p>
+                </item>
+                <item id="section-29.2.list1.b">
+                  <num>(b)</num>
+                  <p>the transfer of registration in the case of any registered Trade Union which has changed its head office from one State to another;</p>
+                </item>
+                <item id="section-29.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner in which, and the qualifications by whom, the accounts of registered Trade Unions or of any class of such Unions shall be audited;</p>
+                </item>
+                <item id="section-29.2.list1.d">
+                  <num>(d)</num>
+                  <p>the conditions subject to which inspection of documents kept by Registrars shall be allowed and the fees which shall be chargeable in respect of such inspections; and</p>
+                </item>
+                <item id="section-29.2.list1.e">
+                  <num>(e)</num>
+                  <p>any matter which is to be or may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-29.3">
+            <num>(3)</num>
+            <content>
+              <p>Every notification made by the Central Government under sub-section (1) of section 22, and every regulation made by it under sub-section (1), shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or regulation, or both Houses agree that the notification or regulation should not be made, the notification or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or regulation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.4">
+            <num>(4)</num>
+            <content>
+              <p>Every notification made by the State Government under sub-section (1) of section 22 and every regulation made by it under sub-section (1) shall be laid, as soon as may be after it is made, before the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Publication of regulations.—</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The power to make regulations conferred by section 29 is subject to the condition of the regulations being made after previous publication.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>The date to be specified in accordance with clause (3) of section 23 of the General Clauses Act, 1897 (10 of 1897), as that after which a draft of regulations proposed to be made will be taken into consideration shall not be less than three months from the date on which the draft of the proposed regulations was published for general information.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>Regulations as made shall be published in the Official Gazette, and on such publication shall have effect as if enacted in this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Penalties and Procedure</heading>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Failure to submit returns.—</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>If default is made on the part of any registered Trade Union in giving any notice or sending any statement or other document as required by or under any provision of this Act, every office-bearer or other person bound by the rules of the Trade Union to give or send the same, or, if there is no such office-bearer or person, every member of the executive of the Trade Union, shall be punishable with fine which may extend to five rupees and, in the case of a continuing default, with an additional fine which may extend to five rupees for each week after the first during which the default continues:</p>
+              <p>Provided that the aggregate fine shall not exceed fifty rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who wilfully makes, or causes to be made, any false entry in, or any omission from, the general statement required by section 28 or in or from any copy of rules or of alterations of rules sent to the Registrar under that section, shall be punishable with fine which may extend to five hundred rupees.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Supplying false information regarding Trade Unions.—</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>Any person who, with intent to deceive, gives to any member of a registered Trade Union or to any person intending or applying to become a member of such Trade Union any document purporting to be a copy of the rules of the Trade Union or of any alterations to the same which he knows, or has reason to believe, is not a correct copy of such rules or alterations as are for the time being in force, or any person who, with the like intent, gives a copy of any rules of an unregistered Trade Union to any person on the pretence that such rules are the rules of a registered Trade Union, shall be punishable with fine which may extend to two hundred rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Cognizance of offences.—</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>No Court inferior to that of a Presidency Magistrate or a Magistrate of the first class shall try any offence under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>No Court shall take cognizance of any offence under this Act, unless complaint thereof has been made by, or with the previous sanction of, the Registrar or, in the case of an offence under section 32, by the person to whom the copy was given, within six months of the date on which the offence is alleged to have been committed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

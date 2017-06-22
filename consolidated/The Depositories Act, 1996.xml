@@ -1,0 +1,1347 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1996/22/main"/>
+          <FRBRuri value="/in-union/act/1996/22"/>
+          <FRBRalias value="The Depositories Act, 1996"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1996/22/eng@1996-08-10/main"/>
+          <FRBRuri value="/in-union/act/1996/22/eng@1996-08-10"/>
+          <FRBRdate date="1996-08-10" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1996/22/eng@1996-08-10/main"/>
+          <FRBRuri value="/in-union/act/1996/22/eng@1996-08-10"/>
+          <FRBRdate date="2016-11-22" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Depositories Act, 1996</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[10th August, 1996.]</docDate>
+      </p>
+      <longTitle>
+        <p>ACT NO. 22 of 1996</p>
+        <p>An Act to provide for regulation of depositories in securities and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Forty-seventh Year of the Republic of India as follows:—</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Depositories Act, 1996.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall be deemed to have come into force on the 20th day of September, 1995.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>“beneficial owner” means a person whose name is recorded as such with a depository;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>“Board” means the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <p>“bye-laws” means bye-laws made by a depository under section 26;</p>
+                </item>
+                <item id="section-2.1.list1.d">
+                  <num>(d)</num>
+                  <p>“Company Law Board” means the Board of Company Law Administration constituted under section 10E of the Companies Act, 1956 (1 of 1956);</p>
+                </item>
+                <item id="section-2.1.list1.e">
+                  <num>(e)</num>
+                  <p>“depository” means a company formed and registered under the Companies Act, 1956 (1 of 1956), and which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);</p>
+                </item>
+                <item id="section-2.1.list1.f">
+                  <num>(f)</num>
+                  <p>“issuer” means any person making an issue of securities;</p>
+                </item>
+                <item id="section-2.1.list1.g">
+                  <num>(g)</num>
+                  <p>“participant” means a person registered as such under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);</p>
+                </item>
+                <item id="section-2.1.list1.h">
+                  <num>(h)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.1.list1.i">
+                  <num>(i)</num>
+                  <p>“record” includes the records maintained in the form of books or stored in a computer or in such other form as may be determined by regulations;</p>
+                </item>
+                <item id="section-2.1.list1.j">
+                  <num>(j)</num>
+                  <p>“registered owner” means a depository whose name is entered as such in the register of the issuer;</p>
+                </item>
+                <item id="section-2.1.list1.k">
+                  <num>(k)</num>
+                  <p>“regulations” means regulations made by the Board;</p>
+                </item>
+                <item id="section-2.1.list1.ka">
+                  <num>(ka)</num>
+                  <p>“Securities Appellate Tribunal” means a Securities Appellate Tribunal established under sub-section (1) of section 15K of the Securities and Exchange Board of India Act, 1992 (15 of 1992);</p>
+                </item>
+                <item id="section-2.1.list1.l">
+                  <num>(l)</num>
+                  <p>“security” means such security as may be specified by the Board;</p>
+                </item>
+                <item id="section-2.1.list1.m">
+                  <num>(m)</num>
+                  <p>“service” means any service connected with recording of allotment of securities or transfer of ownership of securities in the record of a depository.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Words and expressions used herein and not defined but defined in the Companies Act, 1956 (1 of 1956), or the Securities Contracts (Regulation) Act, 1956 (42 of 1956), or the Securities and Exchange Board of India Act, 1992 (15 of 1992), shall have the meanings respectively assigned to them in those Acts.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Certificate of commencement of business</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Certificate of commencement of business by depositories.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>No depository shall act as a depository unless it obtains a certificate of commencement of business from the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>A certificate granted under sub-section (1) shall be in such form as may be specified by the regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The Board shall not grant a certificate under sub-section (1) unless it is satisfied that the depository has adequate systems and safeguards to prevent manipulation of records and transactions:</p>
+              <p>Provided that no certificate shall be refused under this section unless the depository concerned has been given a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Rights and obligations of depositories, participants, issuers and beneficial owners</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Agreement between depository and participant.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>A depository shall enter into an agreement with one or more participants as its agent.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Every agreement under sub-section (1) shall be in such form as may be specified by the bye-laws.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Services of depository.—</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Any person, through a participant, may enter into an agreement, in such form as may be specified by the bye-laws, with any depository for availing its services.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Surrender of certificate of security.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person who has entered into an agreement under section 5 shall surrender the certificate of security, for which he seeks to avail the services of a depository, to the issuer in such manner as may be specified by the regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The issuer, on receipt of certificate of security under sub-section (1), shall cancel the certificate of security and substitute in its records the name of the depository as a registered owner in respect of that security and inform the depository accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>A depository shall, on receipt of information under sub-section (2), enter the name of the person referred to in sub-section (1) in its records, as the beneficial owner.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Registration of transfer of securities with depository.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Every depository shall, on receipt of intimation from a participant, register the transfer of security in the name of the transferee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.1A">
+            <num>(1A)</num>
+            <content>
+              <p>Every depository on receipt of intimation from a participant register any transfer of security in favour of an asset reconstruction company as defined in clause (ba) of sub-section (1) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 along with or consequent upon transfer or assignment of financial asset of any bank or financial institution under sub-section (1) of section 5 of that Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.1B">
+            <num>(1B)</num>
+            <content>
+              <p>Every depository, on receipt of intimation from a participant, register any issue of new shares in favour of any bank or financial institution or asset reconstruction company or any other assignee of such bank or financial institution or asset reconstruction company, as the case may be, by conversion of part of their debt into shares pursuant to reconstruction of debts of the company agreed between the company and the bank or financial institution or asset reconstruction company.</p>
+              <p>Explanation.—For the purpose of this section, the expressions "asset reconstruction company", "bank", and "financial institution" shall have the meanings</p>
+              <p>assigned to them respectively under clauses (ba), (c) and (m) of sub-section (1) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>If a beneficial owner or a transferee of any security seeks to have custody of such security the depository shall inform the issuer accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Options to receive security certificate or hold securities with depository.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Every person subscribing to securities offered by an issuer shall have the option either to receive the security certificates or hold securities with a depository.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a person opts to hold a security with a depository, the issuer shall intimate such depository the details of allotment of the security, and on receipt of such information the depository shall enter in its records the name of the allottee as the beneficial owner of that security.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Securities in depositories to be in fungible form.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>All securities held by a depository shall be dematerialised and shall be in a fungible form.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in sections 153, 153A, 153B, 187B, 187C and 372 of the Companies Act, 1956 (1 of 1956), shall apply to a depository in respect of securities held by it on behalf of the beneficial owners.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Rights of depositories and beneficial owner.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, a depository shall be deemed to be the registered owner for the purposes of effecting transfer of ownership of security on behalf of a beneficial owner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Save as otherwise provided in sub-section (1), the depository as a registered owner shall not have any voting rights or any other rights in respect of securities held by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>The beneficial owner shall be entitled to all the rights and benefits and be subjected to all the liabilities in respect of his securities held by a depository.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Register of beneficial owner.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>Every depository shall maintain a register and an index of beneficial owners in the manner provided in section 150, section 151 and section 152 of the Companies Act, 1956 (1 of 1956).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Pledge or hypothecation of securities held in a depository.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to such regulations and bye-laws, as may be made in this behalf, a beneficial owner may with the previous approval of the depository create a pledge or hypothecation in respect of a security owned by him through a depository.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>Every beneficial owner shall give intimation of such pledge or hypothecation to the depository and such depository shall thereupon make entries in its records accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>Any entry in the records of a depository under sub-section (2) shall be evidence of a pledge or hypothecation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Furnishing of information and records by depository and issuer.—</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>Every depository shall furnish to the issuer information about the transfer of securities in the name of beneficial owners at such intervals and in such manner as may be specified by the bye-laws.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>Every issuer shall make available to the depository copies of the relevant records in respect of securities held by such depository.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Option to opt out in respect of any security.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>If a beneficial owner seeks to opt out of a depository in respect of any security he shall inform the depository accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The depository shall on receipt of intimation under sub-section (1) make appropriate entries in its records and shall inform the issuer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>Every issuer shall, within thirty days of the receipt of intimation from the depository and on fulfillment of such conditions and on payment of such fees as may be specified by the regulations, issue the certificate of securities to the beneficial owner or the transferee, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Act 18 of 1891 to apply to depositories.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>The Bankers’ Books Evidence Act, 1891 shall apply in relation to a depository as if it were a bank as defined in section 2 of that Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Depositories to indemnify loss in certain cases.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the provisions of any other law for the time being in force, any loss caused to the beneficial owner due to the negligence of the depository or the participant, the depository shall indemnify such beneficial owner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the loss due to the negligence of the participant under sub-section (1) is indemnified by the depository, the depository shall have the right to recover the same from such participant.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Rights and obligations of depositories, etc.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act, the rights and obligations of the depositories, participants and the issuers whose securities are dealt with by a depository shall be specified by the regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The eligibility criteria for admission of securities into the depository shall be specified by the regulations.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Enquiry and inspection</heading>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power of Board to call for information and enquiry.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-18.1.list1">
+                <listIntroduction>The Board, on being satisfied that it is necessary in the public interest or in the interest of investors so to do, may, by order in writing,—</listIntroduction>
+                <item id="section-18.1.list1.a">
+                  <num>(a)</num>
+                  <p>call upon any issuer, depository, participant or beneficial owner to furnish in writing such information relating to the securities held in a depository as it may require; or</p>
+                </item>
+                <item id="section-18.1.list1.b">
+                  <num>(b)</num>
+                  <p>authorise any person to make an enquiry or inspection in relation to the affairs of the issuer, beneficial owner, depository or participant, who shall submit a report of such enquiry or inspection to it within such period as may be specified in the order.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Every director, manager, partner, secretary, officer or employee of the depository or issuer or the participant or beneficial owner shall on demand produce before the person making the enquiry or inspection all information or such records and other documents in his custody having a bearing on the subject-matter of such enquiry or inspection.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Power of Board to give directions in certain cases.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <blockList id="section-19.paragraph-0.list1">
+                <listIntroduction>Save as provided in this Act, if after making or causing to be made an enquiry or inspection, the Board is satisfied that it is necessary—</listIntroduction>
+                <item id="section-19.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>in the interest of investors, or orderly development of securities market; or</p>
+                </item>
+                <item id="section-19.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>to prevent the affairs of any depository or participant being conducted in the manner detrimental to the interests of investors or securities market,</p>
+                </item>
+              </blockList>
+              <blockList id="section-19.paragraph-0.list3">
+                <listIntroduction>it may issue such directions,—</listIntroduction>
+                <item id="section-19.paragraph-0.list3.a">
+                  <num>(a)</num>
+                  <p>to any depository or participant or any person associated with the securities market; or</p>
+                </item>
+                <item id="section-19.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>to any issuer,</p>
+                </item>
+              </blockList>
+              <p>as may be appropriate in the interest of investors or the securities market.</p>
+              <p>Explanation.—</p>
+              <p>For the removal of doubts, it is hereby declared that power to issue directions under this section shall include and always be deemed to have been included the power to direct any person, who made profit or averted loss by indulging in any transaction or activity in contravention of the provisions of this Act or regulations made thereunder, to disgorge an amount equivalent to the wrongful gain made or loss averted by such contravention.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19A">
+          <num>19A.</num>
+          <heading>Penalty for failure to furnish information, return, etc.—</heading>
+          <paragraph id="section-19A.paragraph-0">
+            <content>
+              <blockList id="section-19A.paragraph-0.list1">
+                <listIntroduction>Any person, who is required under this Act or any rules or regulations or bye‑laws made thereunder,—</listIntroduction>
+                <item id="section-19A.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to furnish any information, document, books, returns or report to the Board, fails to furnish the same within the time specified therefor, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees for each such failure;</p>
+                </item>
+                <item id="section-19A.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to file any return or furnish any information, books or other documents within the time specified therefor in the regulations or the bye‑laws, fails to file return or furnish the same within the time specified therefor, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees;</p>
+                </item>
+                <item id="section-19A.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to maintain books of account or records, fails to maintain the same, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19B">
+          <num>19B.</num>
+          <heading>Penalty for failure to enter into an agreement.—</heading>
+          <paragraph id="section-19B.paragraph-0">
+            <content>
+              <p>If a depository or participant or any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), and is required under this Act or any rules or regulations made thereunder, to enter into an agreement, fails to enter into such agreement, such depository or participant or issuer or its agent or intermediary shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees for every such failure.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19C">
+          <num>19C.</num>
+          <heading>Penalty for failure to redress investors’ grievances.—</heading>
+          <paragraph id="section-19C.paragraph-0">
+            <content>
+              <p>If any depository or participant or any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), after having been called upon by the Board in writing, to redress the grievances of the investors, fails to redress such grievances within the time specified by the Board, such depository or participant or issuer or its agent or intermediary shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19D">
+          <num>19D.</num>
+          <heading>Penalty for delay in dematerialisation or issue of certificate of securities.—</heading>
+          <paragraph id="section-19D.paragraph-0">
+            <content>
+              <p>If any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), fails to dematerialise or issue the certificate of securities on opting out of a depository by the investors, within the time specified under this Act or regulations or bye‑laws made thereunder or abets in delaying the process of dematerialisation or issue the certificate of securities on opting out of a depository of securities, such issuer or its agent or intermediary shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19E">
+          <num>19E.</num>
+          <heading>Penalty for failure to reconcile records.—</heading>
+          <paragraph id="section-19E.paragraph-0">
+            <content>
+              <p>If a depository or participant or any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), fails to reconcile the records of dematerialised securities with all the securities issued by the issuer as specified in the regulations, such depository or participant or issuer or its agent or intermediary shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19F">
+          <num>19F.</num>
+          <heading>Penalty for failure to comply with directions issued by Board under section 19 of the Act.—</heading>
+          <paragraph id="section-19F.paragraph-0">
+            <content>
+              <p>If any person fails to comply with the directions issued by the Board under section 19, within the time specified by it, he shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19G">
+          <num>19G.</num>
+          <heading>Penalty for contravention where no separate penalty has been provided.—</heading>
+          <paragraph id="section-19G.paragraph-0">
+            <content>
+              <p>Whoever fails to comply with any provision of this Act, the rules or regulations or bye‑laws made or directions issued by the Board thereunder for which no separate penalty has been provided, shall be liable to a penalty which shall not be less than one lakh rupees but which may extend to one crore rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19H">
+          <num>19H.</num>
+          <heading>Power to adjudicate.—</heading>
+          <subsection id="section-19H.1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of adjudging under sections 19A, 19B, 19C, 19D, 19E, 19F and 19G, the Board shall appoint any officer not below the rank of a Division Chief of the Securities and Exchange Board of India to be an adjudicating officer for holding an inquiry in the prescribed manner after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any penalty.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19H.2">
+            <num>(2)</num>
+            <content>
+              <p>While holding an inquiry, the adjudicating officer shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any document, which in the opinion of the adjudicating officer, may be useful for or relevant to the subject-matter of the inquiry and if, on such inquiry, he is satisfied that the person has failed to comply with the provisions of any of the sections specified in sub‑section (1), he may impose such penalty as he thinks fit in accordance with the provisions of any of those sections.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19H.3">
+            <num>(3)</num>
+            <content>
+              <p>The Board may call for and examine the record of any proceedings under this section and if it considers that the order passed by the adjudicating officer is erroneous to the extent it is not in the interests of the securities market, it may, after making or causing to be made such inquiry as it deems necessary, pass an order enhancing the quantum of penalty, if the circumstances of the case so justify:</p>
+              <p>Provided that no such order shall be passed unless the person concerned has been given an opportunity of being heard in the matter:</p>
+              <p>Provided further that nothing contained in this sub-section shall be applicable after an expiry of a period of three months from the date of the order passed by the adjudicating officer or disposal of the appeal under section 23A, whichever is earlier.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19I">
+          <num>19I.</num>
+          <heading>Factors to be taken into account by adjudicating officer.—</heading>
+          <paragraph id="section-19I.paragraph-0">
+            <content>
+              <blockList id="section-19I.paragraph-0.list1">
+                <listIntroduction>While adjudging the quantum of penalty under section 19H, the adjudicating officer shall have due regard to the following factors, namely:—</listIntroduction>
+                <item id="section-19I.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default;</p>
+                </item>
+                <item id="section-19I.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the amount of loss caused to an investor or group of investors as a result of the default;</p>
+                </item>
+                <item id="section-19I.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the repetitive nature of the default.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19IA">
+          <num>19IA.</num>
+          <heading>Settlement of Administrative and Civil Proceedings.—</heading>
+          <subsection id="section-19IA.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, any person, against whom any proceedings have been initiated or may be initiated under section 19 or section 19H, as the case may be, may file an application in writing to the Board proposing for settlement of the proceedings initiated or to be initiated for the alleged defaults.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19IA.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board may, after taking into consideration the nature, gravity and impact of defaults, agree to the proposal for settlement, on payment of such sum by the defaulter or on such other terms as may be determined by the Board in accordance with the regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992).</p>
+            </content>
+          </subsection>
+          <subsection id="section-19IA.3">
+            <num>(3)</num>
+            <content>
+              <p>For the purpose of settlement under this section, the procedure as specified by the Board under the Securities and Exchange Board of India Act, 1992 (15 of 1992) shall apply.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19IA.4">
+            <num>(4)</num>
+            <content>
+              <p>No appeal shall lie under section 23A against any order passed by the Board or the adjudicating officer under this section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19IB">
+          <num>19IB.</num>
+          <heading>Recovery of amounts.—</heading>
+          <subsection id="section-19IB.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-19IB.1.list1">
+                <listIntroduction>If a person fails to pay the penalty imposed by the adjudicating officer or fails to comply with a direction of disgorgement order issued under section 19 or fails to pay any fees due to the Board, the Recovery Officer may draw up under his signature a statement in the specified form specifying the amount due from the person (such statement being hereafter in this Chapter referred to as certificate) and shall proceed to recover from such person the amount specified in the certificate by one or more of the following modes, namely:—</listIntroduction>
+                <item id="section-19IB.1.list1.a">
+                  <num>(a)</num>
+                  <p>attachment and sale of the person‟s movable property;</p>
+                </item>
+                <item id="section-19IB.1.list1.b">
+                  <num>(b)</num>
+                  <p>attachment of the person‟s bank accounts;</p>
+                </item>
+                <item id="section-19IB.1.list1.c">
+                  <num>(c)</num>
+                  <p>attachment and sale of the person‟s immovable property;</p>
+                </item>
+                <item id="section-19IB.1.list1.d">
+                  <num>(d)</num>
+                  <p>arrest of the person and his detention in prison;</p>
+                </item>
+                <item id="section-19IB.1.list1.e">
+                  <num>(e)</num>
+                  <p>appointing a receiver for the management of the person‟s movable and immovable properties,</p>
+                </item>
+              </blockList>
+              <p>and for this purpose, the provisions of sections 220 to 227, 228A, 229, 232, the Second and Third Schedules to the Income Tax Act, 1961 (43 of 1961), and the Income Tax (Certificate Proceedings) Rules,1962 as in force from time to time, in so far as may be, apply with necessary modifications as if the said provisions and the rules thereunder were the provisions of this Act and referred to the amount due under this Act instead of to income tax under the Income Tax Act, 1961.</p>
+              <p>Explanation 1.—</p>
+              <p>For the purposes of this sub-section, the person‟s movable or immovable property or monies held in bank accounts shall include any property or monies held in bank accounts which has been transferred, directly or indirectly on or after the date when the amount specified in certificate had become due, by the person to his spouse or minor child or son's wife or son's minor child, otherwise than for adequate consideration, and which is held by, or stands in the name of, any of the persons aforesaid; and so far as the movable or immovable property or monies held in bank accounts so transferred to his minor child or his son's minor child is concerned, it shall, even after the date of attainment of majority by such minor child or son's minor child, as the case may be, continue to be included in the person's movable or immovable property or monies held in bank accounts for recovering any amount due from the person under this Act.</p>
+              <p>Explanation 2.—</p>
+              <p>Any reference under the provisions of the Second and Third Schedules to the Income Tax Act, 1961 (43 of 1961) and the Income Tax (Certificate Proceedings) Rules, 1962 to the assessee shall be construed as a reference to the person specified in the certificate.</p>
+              <p>Explanation 3.—</p>
+              <p>Any reference to appeal in Chapter XVIID and the Second Schedule to the Income Tax Act, 1961 (43 of 1961), shall be construed as a reference to appeal before the Securities Appellate Tribunal under section 23A of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19IB.2">
+            <num>(2)</num>
+            <content>
+              <p>The Recovery Officer shall be empowered to seek the assistance of the local district administration while exercising the powers under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-19IB.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, the recovery of amounts by a Recovery Officer under sub-section (1), pursuant to non-compliance with any direction issued by the Board under section 19, shall have precedence over any other claim against such person.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19IB.4">
+            <num>(4)</num>
+            <content>
+              <p>For the purposes of sub-sections (1), (2) and (3), the expression "Recovery Officer" means any officer of the Board who may be authorised, by general or special order in writing, to exercise the powers of a Recovery Officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19J">
+          <num>19J.</num>
+          <heading>Crediting sums realised by way of penalties to Consolidated Fund of India.—</heading>
+          <paragraph id="section-19J.paragraph-0">
+            <content>
+              <p>All sums realised by way of penalties under this Act shall be credited to the Consolidated Fund of India.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Penalties</heading>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Offences.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to any award of penalty by the adjudicating officer under this Act, if any person contravenes or attempts to contravene or abets the contravention of the provisions of this Act or of any rules or regulations or bye-laws made thereunder, he shall be punishable with imprisonment for a term which may extend to ten years, or with fine, which may extend to twenty-five crore rupees, or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>If any person fails to pay the penalty imposed by the adjudicating officer or fails to comply with any of his directions or orders, he shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to ten years, or with fine, which may extend to twenty-five crore rupees, or with both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Offences by companies.—</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-21.2.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-21.2.list3.a">
+                  <num>(a)</num>
+                  <p>“company” means any body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-21.2.list3.b">
+                  <num>(b)</num>
+                  <p>“director”, in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Cognizance of offences by courts.—</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>No court shall take cognizance of any offence punishable under this Act or any rules or regulations or bye-laws made thereunder, save on a complaint made by the Central Government or State Government or the Securities and Exchange Board of India or by any person.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>***</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22A">
+          <num>22A.</num>
+          <heading>Composition of certain offences.—</heading>
+          <paragraph id="section-22A.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under this Act, not being an offence punishable with imprisonment only, or with imprisonment and also with fine, may either before or after the institution of any proceeding, be compounded by a Securities Appellate Tribunal or a court before which such proceedings are pending.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22B">
+          <num>22B.</num>
+          <heading>Power to grant immunity.—</heading>
+          <subsection id="section-22B.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, on recommendation by the Board, if the Central Government is satisfied, that any person, who is alleged to have violated any of the provisions of this Act or the rules or the regulations made thereunder, has made a full and true disclosure in respect of alleged violation, grant to such person, subject to such conditions as it may think fit to impose, immunity from prosecution for any offence under this Act, or the rules or the regulations made thereunder or also from the imposition of any penalty under this Act with respect to the alleged violation:</p>
+              <p>Provided that no such immunity shall be granted by the Central Government in cases where the proceedings for the prosecution for any such offence have been instituted before the date of receipt of application for grant of such immunity:</p>
+              <p>Provided further that recommendation of the Board under this sub‑section shall not be binding upon the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22B.2">
+            <num>(2)</num>
+            <content>
+              <p>An immunity granted to a person under sub-section (1) may, at any time, be withdrawn by the Central Government, if it is satisfied that such person had, in the course of the proceedings, not complied with the condition on which the immunity was granted or had given false evidence, and thereupon such person may be tried for the offence with respect to which the immunity was granted or for any other offence of which he appears to have been guilty in connection with the contravention and shall also become liable to the imposition of any penalty under this Act to which such person would have been liable, had not such immunity been granted.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22C">
+          <num>22C.</num>
+          <heading>Establishment of Special Courts.—</heading>
+          <subsection id="section-22C.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, for the purpose of providing speedy trial of offences under this Act, by notification, establish or designate as many Special Courts as may be necessary.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22C.2">
+            <num>(2)</num>
+            <content>
+              <p>A Special Court shall consist of a single judge who shall be appointed by the Central Government with the concurrence of the Chief Justice of the High Court within whose jurisdiction the judge to be appointed is working.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22C.3">
+            <num>(3)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as a judge of a Special Court unless he is, immediately before such appointment, holding the office of a Sessions Judge or an Additional Sessions Judge, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22D">
+          <num>22D.</num>
+          <heading>Offences triable by Special Courts.—</heading>
+          <paragraph id="section-22D.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), all offences under this Act committed prior to the date of commencement of the Securities Laws (Amendment) Act, 2014 (27 of 2014) or on or after the date of such commencement, shall be taken cognizance of and tried by the Special Court established for the area in which the offence is committed or where there are more Special Courts than one for such area, by such one of them as may be specified in this behalf by the High Court concerned.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22E">
+          <num>22E.</num>
+          <heading>Appeal and revision.—</heading>
+          <paragraph id="section-22E.paragraph-0">
+            <content>
+              <p>The High Court may exercise, so far as may be applicable, all the powers conferred by Chapters XXIX and XXX of the Code of Criminal Procedure, 1973 (2 of 1974) on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22F">
+          <num>22F.</num>
+          <heading>Application of Code to proceedings before Special Court.—</heading>
+          <subsection id="section-22F.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Session and the person conducting prosecution before a Special Court shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22F.2">
+            <num>(2)</num>
+            <content>
+              <p>The person conducting prosecution referred to in sub-section (1) should have been in practice as an advocate for not less than seven years or should have held a post, for a period of not less than seven years, under the Union or a State, requiring special knowledge of law.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22G">
+          <num>22G.</num>
+          <heading>Transitional provisions.—</heading>
+          <paragraph id="section-22G.paragraph-0">
+            <content>
+              <p>Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be taken cognizance of and tried by a Court of Session exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974):</p>
+              <p>Provided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code to transfer any case or class of cases taken cognizance by a Court of Session under this section.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Appeals.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person aggrieved by an order of the Board made before the commencement of the Securities Laws (Second Amendment) Act, 1999 (32 of 1999) under this Act, or the regulations made thereunder may prefer an appeal to the Central Government within such time as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>No appeal shall be admitted if it is preferred after the expiry of the period prescribed therefor:</p>
+              <p>Provided that an appeal may be admitted after the expiry of the period prescribed therefor if the appellant satisfies the Central Government that he had sufficient cause for not preferring the appeal within the prescribed period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal made under this section shall be made in such form and shall be accompanied by a copy of the order appealed against and by such fees as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.4">
+            <num>(4)</num>
+            <content>
+              <p>The procedure for disposing of an appeal shall be such as may be prescribed:</p>
+              <p>Provided that before disposing of an appeal, the appellant shall be given a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23A">
+          <num>23A.</num>
+          <heading>Appeal to Securities Appellate Tribunal.—</heading>
+          <subsection id="section-23A.1">
+            <num>(1)</num>
+            <content>
+              <p>Save as provided in sub-section (2), any person aggrieved by an order of the Board made, on and after the commencement of the Securities Laws (Second Amendment) Act, 1999 (32 of 1999), under this Act, or the regulation made thereunder, or by an order made by an adjudicating officer under this Act may prefer an appeal to Securities Appellate Tribunal having jurisdiction in the matter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23A.2">
+            <num>(2)</num>
+            <content>
+              <p>No appeal shall lie to the Securities Appellate Tribunal from and order made by the Board with the consent of the parties.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23A.3">
+            <num>(3)</num>
+            <content>
+              <p>Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order made by the Board is received by the person referred to in sub-section (1) and it shall be in such form and be accompanied by such fees as may be prescribed:</p>
+              <p>Provided that the Securities Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23A.4">
+            <num>(4)</num>
+            <content>
+              <p>On receipt of an appeal under sub-section (1), the Securities Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23A.5">
+            <num>(5)</num>
+            <content>
+              <p>The Securities Appellate Tribunal shall send a copy of every order made by it to the Board and parties to the appeal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23A.6">
+            <num>(6)</num>
+            <content>
+              <p>The appeal filed before the Securities Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23B">
+          <num>23B.</num>
+          <heading>Procedure and powers of Securities Appellate Tribunal.—</heading>
+          <subsection id="section-23B.1">
+            <num>(1)</num>
+            <content>
+              <p>The Securities Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908) but shall be guided by the principles of natural justice and, subject to the other provisions of this Act and of any rules, the Securities Appellate Tribunal shall have powers to regulate their own procedure including the places at which they have their sittings.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23B.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-23B.2.list1">
+                <listIntroduction>The Securities Appellate Tribunal shall have, for the purpose of discharging their functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:—</listIntroduction>
+                <item id="section-23B.2.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-23B.2.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of documents;</p>
+                </item>
+                <item id="section-23B.2.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-23B.2.list1.d">
+                  <num>(d)</num>
+                  <p>issuing commissions for the examination of witnesses or documents;</p>
+                </item>
+                <item id="section-23B.2.list1.e">
+                  <num>(e)</num>
+                  <p>reviewing its decisions;</p>
+                </item>
+                <item id="section-23B.2.list1.f">
+                  <num>(f)</num>
+                  <p>dismissing an application for default or deciding it ex parte;</p>
+                </item>
+                <item id="section-23B.2.list1.g">
+                  <num>(g)</num>
+                  <p>setting aside any order of dismissal of any application for default or any order passed by it ex parte; and</p>
+                </item>
+                <item id="section-23B.2.list1.h">
+                  <num>(h)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-23B.3">
+            <num>(3)</num>
+            <content>
+              <p>Every proceeding before the Securities Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196 of the Indian Penal Code (45 of 1860) and the Securities Appellate Tribunal shall be deemed to be a civil court for all the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23C">
+          <num>23C.</num>
+          <heading>Right to legal representation.—</heading>
+          <paragraph id="section-23C.paragraph-0">
+            <content>
+              <p>The appellant may either appear in person or authorise one or more chartered accountants or company secretaries or cost accountants or legal practitioners or any of its officers to present his or its case before the Securities Appellate Tribunal.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-23C.paragraph-0.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-23C.paragraph-0.list3.a">
+                  <num>(a)</num>
+                  <p>“chartered accountant” means a chartered accountant as defined in clause (b) of sub-section (1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+                </item>
+                <item id="section-23C.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>“company secretary” means a company secretary as defined in clause (c) of sub-section (1) of section 2 of the Company Secretaries Act, 1980 (56 of 1980) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+                </item>
+                <item id="section-23C.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>“cost accountant” means a cost accountant as defined in clause (b) of sub-section (1) of section 2 of the Cost and Works Accountants Act, 1959 (23 of 1959) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;</p>
+                </item>
+                <item id="section-23C.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>“legal practitioner” means an advocate, vakil or an attorney of any High Court, and includes a pleader in practice.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23D">
+          <num>23D.</num>
+          <heading>Limitation.—</heading>
+          <paragraph id="section-23D.paragraph-0">
+            <content>
+              <p>The provisions of the Limitation Act, 1963 (36 of 1963) shall, as far as may be, apply to an appeal made to a Securities Appellate Tribunal.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23E">
+          <num>23E.</num>
+          <heading>Civil court not to have jurisdiction.—</heading>
+          <paragraph id="section-23E.paragraph-0">
+            <content>
+              <p>No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which a Securities Appellate Tribunal is empowered by or under this Act to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23F">
+          <num>23F.</num>
+          <heading>Appeal to Supreme Court.—</heading>
+          <paragraph id="section-23F.paragraph-0">
+            <content>
+              <p>Any person aggrieved by any decision or order of the Securities Appellate Tribunal may file an appeal to the Supreme Court within sixty days from the date of communication of the decision or order of the Securities Appellate Tribunal to him on any question of law arising out of such order:</p>
+              <p>Provided that the Supreme Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding sixty days.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power of Central Government to make rules.—</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-24.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-24.2.list1.a">
+                  <num>(a)</num>
+                  <p>the manner of inquiry under sub‑section (1) of section 19H;</p>
+                </item>
+                <item id="section-24.2.list1.aa">
+                  <num>(aa)</num>
+                  <p>the time within which an appeal may be preferred under sub‑section (1) of section 23;</p>
+                </item>
+                <item id="section-24.2.list1.b">
+                  <num>(b)</num>
+                  <p>the form in which an appeal may be preferred, under sub-section (3) of section 23 and the fees payable in respect of such appeal;</p>
+                </item>
+                <item id="section-24.2.list1.c">
+                  <num>(c)</num>
+                  <p>the procedure for disposing of an appeal under sub-section (4) of section 23;</p>
+                </item>
+                <item id="section-24.2.list1.d">
+                  <num>(d)</num>
+                  <p>the form in which an appeal may be filed before the Securities Appellate Tribunal under section 23A and the fees payable in respect of such appeal.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power of Board to make regulations.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the provisions contained in section 30 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), the Board may, by notification in the Official Gazette, make regulations consistent with the provisions of this Act and the rules made thereunder to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-25.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for—</listIntroduction>
+                <item id="section-25.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form in which record is to be maintained under clause (i) of sub-section (1) of section 2;</p>
+                </item>
+                <item id="section-25.2.list1.b">
+                  <num>(b)</num>
+                  <p>the form in which the certificate of commencement of business shall be issued under sub-section (2) of section 3;</p>
+                </item>
+                <item id="section-25.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner in which the certificate of security shall be surrendered under sub-section (1) of section 6;</p>
+                </item>
+                <item id="section-25.2.list1.d">
+                  <num>(d)</num>
+                  <p>the manner of creating a pledge or hypothecation in respect of security owned by a beneficial owner under sub-section (1) of section 12;</p>
+                </item>
+                <item id="section-25.2.list1.e">
+                  <num>(e)</num>
+                  <p>the conditions and the fees payable with respect to the issue of certificate of securities under sub-section (3) of section 14;</p>
+                </item>
+                <item id="section-25.2.list1.f">
+                  <num>(f)</num>
+                  <p>the rights and obligations of the depositories, participants and the issuers under sub-section (1) of section 17;</p>
+                </item>
+                <item id="section-25.2.list1.g">
+                  <num>(g)</num>
+                  <p>the eligibility criteria for admission of securities in the depository under sub-section (2) of section 17;</p>
+                </item>
+                <item id="section-25.2.list1.h">
+                  <num>(h)</num>
+                  <p>the terms determined by the Board for settlement of proceedings under sub-section (2) of section 19IA;</p>
+                </item>
+                <item id="section-25.2.list1.i">
+                  <num>(i)</num>
+                  <p>any other matter which is required to be, or may be, specified by regulations or in respect of which provision to be made by regulations.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power of depositories to make bye-laws.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>A depository shall, with the previous approval of the Board, make bye-laws consistent with the provisions of this Act and the regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-26.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such bye-laws shall provide for—</listIntroduction>
+                <item id="section-26.2.list1.a">
+                  <num>(a)</num>
+                  <p>the eligibility criteria for admission and removal of securities in the depository;</p>
+                </item>
+                <item id="section-26.2.list1.b">
+                  <num>(b)</num>
+                  <p>the conditions subject to which the securities shall be dealt with;</p>
+                </item>
+                <item id="section-26.2.list1.c">
+                  <num>(c)</num>
+                  <p>the eligibility criteria for admission of any person as a participant;</p>
+                </item>
+                <item id="section-26.2.list1.d">
+                  <num>(d)</num>
+                  <p>the manner and procedure for dematerialisation of securities;</p>
+                </item>
+                <item id="section-26.2.list1.e">
+                  <num>(e)</num>
+                  <p>the procedure for transactions within the depository;</p>
+                </item>
+                <item id="section-26.2.list1.f">
+                  <num>(f)</num>
+                  <p>the manner in which securities shall be dealt with or withdrawn from a depository;</p>
+                </item>
+                <item id="section-26.2.list1.g">
+                  <num>(g)</num>
+                  <p>the procedure for ensuring safeguards to protect the interests of participants and beneficial owners;</p>
+                </item>
+                <item id="section-26.2.list1.h">
+                  <num>(h)</num>
+                  <p>the conditions of admission into and withdrawal from a participant by a beneficial owner;</p>
+                </item>
+                <item id="section-26.2.list1.i">
+                  <num>(i)</num>
+                  <p>the procedure for conveying information to the participants and beneficial owners on dividend declaration, shareholder meetings and other matters of interest to the beneficial owners;</p>
+                </item>
+                <item id="section-26.2.list1.j">
+                  <num>(j)</num>
+                  <p>the manner of distribution of dividends, interest and monetary benefits received from the company among beneficial owners;</p>
+                </item>
+                <item id="section-26.2.list1.k">
+                  <num>(k)</num>
+                  <p>the manner of creating pledge or hypothecation in respect of securities held with a depository;</p>
+                </item>
+                <item id="section-26.2.list1.l">
+                  <num>(l)</num>
+                  <p>inter se rights and obligations among the depository, issuer, participants and beneficial owners;</p>
+                </item>
+                <item id="section-26.2.list1.m">
+                  <num>(m)</num>
+                  <p>the manner and the periodicity of furnishing information to the Board, issuer and other persons;</p>
+                </item>
+                <item id="section-26.2.list1.n">
+                  <num>(n)</num>
+                  <p>the procedure for resolving disputes involving depository, issuer, company or a beneficial owner;</p>
+                </item>
+                <item id="section-26.2.list1.o">
+                  <num>(o)</num>
+                  <p>the procedure for proceeding against the participant committing breach of the regulations and provisions for suspension and expulsion of participants from the depository and cancellation of agreements entered with the depository;</p>
+                </item>
+                <item id="section-26.2.list1.p">
+                  <num>(p)</num>
+                  <p>the internal control standards including procedure for auditing, reviewing and monitoring.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the Board considers it expedient so to do, it may, by order in writing, direct a depository to make any bye-laws or to amend or revoke any bye-laws already made within such period as it may specify in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.4">
+            <num>(4)</num>
+            <content>
+              <p>If the depository fails or neglects to comply with such order within the specified period, the Board may make the bye-laws or amend or revoke the bye-laws made either in the form specified in the order or with such modifications thereof as the Board thinks fit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Rules and regulations to be laid before Parliament.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect, only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Application of other laws not barred.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not in derogation of, any other law for the time being in force relating to the holding and transfer of securities.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Removal of difficulties.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no order shall be made under this section after the expiry of a period of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Amendments to certain enactments.—</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>Repealed</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30A">
+          <num>30A.</num>
+          <heading>Validation of certain acts.—</heading>
+          <paragraph id="section-30A.paragraph-0">
+            <content>
+              <p>Any act or thing done or purporting to have been done under the principal Act, in respect of settlement of administrative and civil proceedings, shall, for all purposes, be deemed to be valid and effective as if the amendments made to the principal Act had been in force at all material times.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Repeal and Saving.—</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The Depositories (Third) Ordinance, 1996 (Ord. 28 of 1996) is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1996/22/schedules"/>
+              <FRBRuri value="/in-union/act/1996/22"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1996/22/eng@1996-08-10/schedules"/>
+              <FRBRuri value="/in-union/act/1996/22/eng@1996-08-10"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1996/22/eng@1996-08-10/schedules"/>
+              <FRBRuri value="/in-union/act/1996/22/eng@1996-08-10"/>
+              <FRBRdate date="2016-11-19" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <p>Repealed</p>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

@@ -1,0 +1,902 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1958/41/main"/>
+          <FRBRuri value="/in-union/act/1958/41"/>
+          <FRBRalias value="The Supreme Court Judges (Salaries And Conditions Of Service) Act, 1958"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1958/41/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1958/41/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1958/41/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1958/41/eng@1980-01-01"/>
+          <FRBRdate date="2017-02-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Supreme Court Judges (Salaries And Conditions Of Service) Act, 1958</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 41 OF 1958</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[17th October, 1958.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to regulate salaries and certain conditions of service of the Judges of the Supreme Court.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Ninth Year of the Republic of India as follows:―</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title.―</heading>
+          <paragraph id="section-1.paragraph-0">
+            <content>
+              <p>This Act may be called the Supreme Court Judges (Salaries and Conditions of Service) Act, 1958.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.―</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,―</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“acting Chief Justice” means a Judge appointed under article 126 of the Constitution to perform the duties of the Chief Justice of India;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-2.paragraph-0.list1.b.list0">
+                    <listIntroduction>“actual service” includes―</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.b.list0.i">
+                      <num>(i)</num>
+                      <p>time spent by a Judge on duty as a Judge, or in the performance of such other functions as he may, at the request of the President, undertake to discharge; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>vacations;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“Chief Justice” means the Chief Justice of India, but does not include an acting Chief Justice;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“High Court” means the High Court for a State;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“Judge” means a Judge of the Supreme Court and includes the Chief Justice and an acting Chief Justice;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“service as a Judge in India” means service rendered in the Supreme Court and in one or more of the High Courts, and “Judge in India” and “service for pension as a Judge in India” shall be construed accordingly;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <blockList id="section-2.paragraph-0.list1.h.list1">
+                    <listIntroduction>“service for pension” includes―</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.h.list1.i">
+                      <num>(i)</num>
+                      <p>actual service;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.h.list1.ii">
+                      <num>(ii)</num>
+                      <p>time spent by a Judge of a High Court in attending the sittings of the Supreme Court as an ad hoc Judge under article 127 of the Constitution, if he is subsequently appointed as a Judge:</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.h.list1.iii">
+                      <num>(iii)</num>
+                      <p>the amount, actually taken, of each period of leave on full allowances at a rate equal to the monthly rate of the salary;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“vacation” means such period or periods during a year as may be fixed as vacation by or under the rules of the Supreme Court made with the prior approval of the President.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Leave</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Kinds of leave admissible to a Judge.―</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-3.1.list1">
+                <listIntroduction>Subject to the provisions of this Act, leave granted to a Judge may be at his option either―</listIntroduction>
+                <item id="section-3.1.list1.a">
+                  <num>(a)</num>
+                  <p>leave on full allowances (including commuted leave on half allowances into leave on full allowances on medical certificate); or</p>
+                </item>
+                <item id="section-3.1.list1.b">
+                  <num>(b)</num>
+                  <p>leave on half allowances; or</p>
+                </item>
+                <item id="section-3.1.list1.c">
+                  <num>(c)</num>
+                  <p>leave partly on full allowances and partly on half allowances.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>For the purposes of this Chapter, any period of leave on full allowances shall be reckoned as double that period of leave on half allowances.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>For the purposes of this Chapter, casual leave may be admissible to a Judge in a calendar year, for such number of days and subject to such conditions as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Leave account showing the amount of leave due.―</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>A leave account shall be kept for each Judge showing therein the amount of leave due to him in terms of leave on half allowances.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-4.2.list1">
+                <listIntroduction>In the leave account of a Judge―</listIntroduction>
+                <item id="section-4.2.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-4.2.list1.a.list0">
+                    <listIntroduction>there shall be credited to him―</listIntroduction>
+                    <item id="section-4.2.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>one-fourth of the time spent by him on actual service; ***</p>
+                    </item>
+                    <item id="section-4.2.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>where the Judge, by reason of his having been detained for the performance of duties not connected with the Supreme Court, cannot enjoy any vacation which he would otherwise have been entitled to enjoy had he not been so detained, as compensation for the vacation not enjoyed, a period equal to double the period by which the vacation enjoyed by him in any year falls short of one month;</p>
+                    </item>
+                    <item id="section-4.2.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>where the Judge was, prior to his appointment as such, a Judge of a High Court, the period of leave earned by him as a Judge of the High Court, ***; and</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-4.2.list1.b">
+                  <num>(b)</num>
+                  <p>there shall be debited to him all leave with allowances taken by him.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>This section shall be deemed to have come into force on the 1st day of May, 1958.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4A">
+          <num>4A.</num>
+          <heading>Leave encashment.―</heading>
+          <paragraph id="section-4A.paragraph-0">
+            <content>
+              <p>A Judge shall be entitled in his entire service, including the period of service rendered either as a Judge of a High Court or in a pensionable post under the Union or a State or on re-employment, if any, to claim the cash equivalent of leave salary on his retirement in respect respect of the period of leave at his credit, calculated on full allowances basis, to the extent of the maximum period prescribed for encashment of such leave under the All India Service (Leave) Rules, 1955.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Aggregate amount of leave which may be granted.―</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The aggregate amount of leave which may be granted to a Judge during the whole period of his service as such shall not exceed in terms of leave on half allowances three years including the period credited to his leave account under sub-section (2) (a) (iii) of section 4 as leave earned by him as a Judge of a High Court together with the aggregate of the periods, if any, credited to his leave account under sub-section (2) (a) (ii) of section 4 as compensation for vacation not enjoyed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-5.2.list1">
+                <listIntroduction>The aggregate amount of leave on full allowances which may be granted to a Judge during the whole period of his service as such shall not exceed one-twenty-fourth of the period spent by him on actual service together with one-half of the aggregate periods, if any, credited to his leave account―</listIntroduction>
+                <item id="section-5.2.list1.a">
+                  <num>(a)</num>
+                  <p>under sub-section (2) (a) (ii) of section 4 as compensation for vacation not enjoyed, and</p>
+                </item>
+                <item id="section-5.2.list1.b">
+                  <num>(b)</num>
+                  <p>under sub-section (2) (a) (iii) of section 4 as leave earned by him as a Judge of a High Court.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (2) of section 5A, the maximum period of leave which may be granted at one time shall be, in the case of leave on full allowances, five months and in the case of leave with allowances of any kind, sixteen months.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5A">
+          <num>5A.</num>
+          <heading>Commutation of leave on half allowances into leave on full allowances.―</heading>
+          <subsection id="section-5A.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (2) of section 5, a Judge may be permitted to commute leave on half allowances into leave on full allowances on medical certificate up to a maximum of three months during the whole period of his leave as a Judge.(2) In computing the maximum period of leave on full allowances which may be granted at one time to a Judge under sub-section (3) of section 5, the amount of commuted leave permitted to him under this section shall not be taken into account.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Grant of leave not due.―</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <blockList id="section-6.paragraph-0.list1">
+                <listIntroduction>Subject to the maximum limit specified in sub-section (1) of section 5, leave on half allowances may be granted to a Judge in excess of the amount at his credit―</listIntroduction>
+                <item id="section-6.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>on medical certificate; or</p>
+                </item>
+                <item id="section-6.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>otherwise than on medical certificate, for a period not exceeding six months, or for two or more periods not exceeding in the aggregate six months, during the whole period of his service as a Judge:</p>
+                </item>
+              </blockList>
+              <p>Provided that no such leave shall be granted if the Judge is not expected to return to duty at the end of such leave and earn the leave granted.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Special disability leave.―</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>Special disability leave may be granted to a Judge under such circumstances, on such allowances and for such periods as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Extraordinary leave.―</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>Extraordinary leave may be granted to a Judge for a period not exceeding six months, or for two or more periods not exceeding in the aggregate six months, during the whole period of his service as a Judge in excess of any leave permissible under the foregoing provisions of this Chapter, but no salary or allowances shall be payable in respect of such leave.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Leave allowances.―</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The monthly rate of leave salary payable to a Judge shall be in accordance with the provisions of sub-section (1) of section 3.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Combining leave with vacation.―</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <blockList id="section-10.paragraph-0.list1">
+                <listIntroduction>A Judge may be permitted to combine vacation on full salary with leave, if―</listIntroduction>
+                <item id="section-10.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>where the vacation consists of one continuous period, the leave is taken either at the commencement or at the end of the vacation but not at both;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>where the vacation is divided into two periods, the leave is taken for the interval, or part of the interval, between the two periods of that vacation, or for the interval, or part of the interval, between the second period of that vacation and the commencement of the next ensuing vacation:</p>
+                </item>
+              </blockList>
+              <p>Provided that no such permission to combine vacation with leave shall be granted, if it becomes necessary to appoint an acting Chief Justice during the period of vacation or if the Judge is not expected to return to duty at the end of such leave.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Consequences of over staying leave or vacation.―</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>If a Judge overstays his leave or any vacation, whether combined with leave or not, he shall receive no salary in respect of the period of his absence in excess of the leave granted to him or beyond the end of the vacation, as the case may be:</p>
+              <p>Provided that, if such absence is due to circumstances beyond his control, the period thereof may be treated as leave and may be debited to his leave account.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this Act shall be construed as requiring a Judge to rejoin on the expiration of the period of leave when that period expires immediately before the commencement of a vacation, nor as authorising any acting Chief Justice to continue to hold the acting appointment during the vacation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Authority competent to grant leave.―</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The authority competent to grant or refuse leave to a Judge or to revoke or curtail the leave already granted to a Judge shall be the President who shall exercise the power after consultation with the Chief Justice.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Salaries and pensions</heading>
+        <section id="section-12A">
+          <num>12A.</num>
+          <heading>Salaries of the Judges.―</heading>
+          <subsection id="section-12A.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be paid to the Chief Justice of India, by way of salary, one lakh rupees per mensem.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12A.2">
+            <num>(2)</num>
+            <content>
+              <p>There shall be paid to a Judge of the Supreme Court, by way of salary, ninety thousand rupees per mensem.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Pension payable to Judges.―</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>Subject to the provisions of this Act, a pension shall be payable in accordance with the provisions of Part I of the Schedule to a Judge of the Supreme Court on his retirement if, but only if,―</p>
+              <blockList id="section-13.paragraph-0.list2">
+                <listIntroduction>* * * * *</listIntroduction>
+                <item id="section-13.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>he has attained the age of sixty-five years; or</p>
+                </item>
+                <item id="section-13.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>his retirement is medically certified to be necessitated by ill-health.</p>
+                </item>
+              </blockList>
+              <p>Explanation.―</p>
+              <p>In this section, “Judge” means a Judge who has not held any other pensionable post under the Union or a State and includes a person who was in service as a Judge on the 20th May, 1954, and also includes a Judge having held any other pensionable post under the Union or a State, who has elected to receive the pension payable under Part I of the Schedule.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13A">
+          <num>13A.</num>
+          <heading>Benefit of added years of service.―</heading>
+          <paragraph id="section-13A.paragraph-0">
+            <content>
+              <p>Subject to the provisions of this Act, a period of ten years shall be added to the service of a Judge for the purposes of his pension, who qualified for appointment as such judge under sub-clause (b) of clause (3) of article 124 of the Constitution.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Special provisions for pension in respect of Judges who are members of service.―</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Every Judge who has held any other pensionable post under the Union or a State shall, on his retirement, be paid a pension in accordance with the provisions of Part III of the Schedule:</p>
+              <p>Provided that every such Judge shall elect to receive the pension payable to him either under Part I of the Schedule, or as the case may be, Part III of the Schedule, and the pension payable to him shall be calculated accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), any Judge to whom that sub-section applies and who is in service on or after the 1st day of October, 1974, may, if he has elected under the proviso to that sub-section to receive the pension payable to him under *** Part III of the Schedule before the date on which the Supreme Court Judges (Conditions of Service) Amendment Act, 1976 (36 of 1976), receives the assent of the President, cancel such election and elect afresh to receive the pension payable to him under Part I of the Schedule and any such Judge who dies before the date of such assent, shall be deemed to have elected afresh to be governed by the provisions of the said Part I if the provisions of that Part are more favourable in his case.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Power of President to add to the service for pension.―</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <blockList id="section-15.paragraph-0.list1">
+                <listIntroduction>The President may, for special reasons, direct that any period not exceeding three months shall be added to the service for pension of a Judge, and any such period so added shall count for pension purposes―</listIntroduction>
+                <item id="section-15.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of a Judge who has served in the Supreme Court as Chief Justice, as service as Chief Justice; and</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>in the case of any other Judge, as service as any other Judge.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Extraordinary pension.―</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Extraordinary pensions and gratuities may be granted to a Judge under such circumstances and on such scales as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16A">
+          <num>16A.</num>
+          <heading>Family pension and gratuity.―</heading>
+          <subsection id="section-16A.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-16A.1.list1">
+                <listIntroduction>Where a Judge who, being in service on or after the the commencement of the High Court and Supreme Court Judges (Conditions of Service) Amendment Act, 1986 (38 of 1986),―</listIntroduction>
+                <item id="section-16A.1.list1.a">
+                  <num>(a)</num>
+                  <p>dies before retirement, family pension calculated at the rate of fifty per cent. of his salary *** on the date of his death shall be payable to the person or persons entitled thereto and the amount so payable shall be paid from the day following the date of death of the Judge for a period of seven years or for a period up to the date on which the Judge would have attained the age of sixty-five years, had he survived, whichever is earlier, and thereafter at the rate of thirty per cent. of his salary ***; and</p>
+                </item>
+                <item id="section-16A.1.list1.b">
+                  <num>(b)</num>
+                  <p>dies after retirement on attaining the age of sixty-five years, family pension shall be thirty per cent. of his salary *** and shall be payable to the person or persons entitled thereto;(c) dies after retirement after seeking premature retirement and before attaining the age of sixty-five years, family pension shall be calculated at the rates specified in clause (a) shall be payable to the person or persons entitled thereto.</p>
+                </item>
+              </blockList>
+              <p>Provided that in no case the amount of family pension calculated under this sub-section shall exceed the pension payable to the Judge under this Act.Explanation.―</p>
+              <blockList id="section-16A.1.list4">
+                <listIntroduction>For the purposes of determining the person or persons entitled to family pension under this sub-section,―</listIntroduction>
+                <item id="section-16A.1.list4.i">
+                  <num>(i)</num>
+                  <p>in relation to a Judge who elects or is eligible to receive pension under Part I of the Schedule, the rules, notifications and orders for the time being in force with regard to the person or persons entitled to family pension in relation to an officer of the Central Civil Services, Group A‟, shall apply;</p>
+                </item>
+                <item id="section-16A.1.list4.ii">
+                  <num>(ii)</num>
+                  <p>in relation to a Judge who elects to receive pension under * * * Part III of the Schedule, the ordinary rules of his service if he had not been appointed a Judge with respect to the person or persons entitled to family pension shall apply and his service as a Judge being treated as service therein.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16A.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-16A.2.list1">
+                <listIntroduction>The rules, notifications and orders for the time being in force with respect to the grant of death-cum-retirement gratuity benefit to or in relation to an officer of the Central Civil Services, Class I (including the provisions relating to deductions from pension for the purpose) shall apply to or in relation to the grant of death-cum-retirement gratuity benefit to or in relation to a Judge who, being in service on or after the 1st day of October, 1974, retires, or dies in circumstances to which section 16 does not apply, subject to the modifications that―</listIntroduction>
+                <item id="section-16A.2.list1.i">
+                  <num>(i)</num>
+                  <p>the minimum qualifying service for the purpose of entitlement to the gratuity shall be two years and six months;</p>
+                </item>
+                <item id="section-16A.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the amount of gratuity shall be calculated on the basis of ten days salary for each completed six months period of service as a Judge; ***</p>
+                </item>
+              </blockList>
+              <p>* * * *</p>
+              <p>Explanation.―</p>
+              <p>In sub-section (2), the expression “Judge” has the same meaning as in section 13.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16B">
+          <num>16B.</num>
+          <heading>Additional quantum of pension or family pension.―</heading>
+          <paragraph id="section-16B.paragraph-0">
+            <content>
+              <p>Every retired Judge or after his death, the family, as the case may be, shall be entitled to an additional quantum of pension or family pension in accordance with the following scale:―</p>
+              <table id="section-16B.paragraph-0.table1">
+                <tr>
+                  <td>
+                    <p>Age of Pensioner or family Pensioner</p>
+                  </td>
+                  <td>
+                    <p>Additional quantum of pension or family pension</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>From eighty years to less than eighty-five years pension</p>
+                  </td>
+                  <td>
+                    <p>Twenty per cent. of basic pension or family</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>From eighty-five years to less than ninety years pension</p>
+                  </td>
+                  <td>
+                    <p>Thirty per cent. of basic pension or family</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>From ninety years to less than ninety-five years pension</p>
+                  </td>
+                  <td>
+                    <p>Forty per cent. of basic pension or family</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>From ninety-five years to less than hundred years pension</p>
+                  </td>
+                  <td>
+                    <p>Fifty per cent. of basic pension or family</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>From hundred years or more pension</p>
+                  </td>
+                  <td>
+                    <p>Hundred per cent. of basic pension or family</p>
+                  </td>
+                </tr>
+              </table>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Pension payable to a Judge who was in receipt of pension at the time of appointment as such.―</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>If, at the time of his appointment to the Supreme Court, a Judge is in receipt of a pension in respect of any previous service either as a Judge of a High Court or in any other pensionable civil post under the Union or a State, the pension payable to him under this Act shall be an additional pension for service in the Supreme Court equal to the difference between his original pension and the pension to which he would have been entitled under this Act, if his service in the Supreme Court had been rendered in continuation of the previous service for which his original pension was granted.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Conversion of sterling pension into rupees.</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Omitted by the High Court and the Supreme Court Judges (Salaries and Conditions of Service) Amendment Act, 2016 (13 of 2016), s. 25 (w.e.f. 5-4-2016).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Commutation of pension.―</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The Civil Pensions (Commutation) Rules for the time being in force shall, with necessary modifications, apply to Judges.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Provident fund.―</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Every Judge shall be entitled to subscribe to the General Provident Fund (Central Services):</p>
+              <p>Provided that a Judge who *** has held any other pensionable civil post under the Union or a State shall continue to subscribe to the provident fund to which he was subscribing before his appointment as a Judge:</p>
+              <p>Provided further that a Judge who was appointed before the commencement of this Act may continue to subscribe to the provident fund to which he was subscribing immediately before such commencement.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20A">
+          <num>20A.</num>
+          <heading>Deposit Linked Insurance Scheme.―</heading>
+          <paragraph id="section-20A.paragraph-0">
+            <content>
+              <p>The Deposit Linked Insurance Scheme for the time being in force under the General Provident Fund (Central Services) Rules, 1960, shall apply to every Judge whether he subscribes to the General Provident Fund (Central Services) or any other Provident Fund referred to in section 20.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Authority competent to grant pension.―</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Save as may be otherwise expressly provided in the relevant rules relating to the grant of extraordinary pensions and gratuities, the authority competent to grant pension to a Judge under the provisions of this Act shall be the President.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Travelling allowance to a Judge.―</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>A Judge shall receive such reasonable allowance to reimburse him for expenses incurred in travelling on duty within the territory of India and shall be afforded such reasonable facilities in connection with travelling as may, from time to time, be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Facilities for rent-free houses and other conditions of service.―</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>Every Judge shall be entitled without payment of rent to the use of an official residence in accordance with such rules as may, from time to time, be made in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.1A">
+            <num>(1A)</num>
+            <content>
+              <p>Where a Judge does not avail himself of the use of an official residence, he may be paid every month an allowance equivalent to an amount of thirty per cent. of the salary ***.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Every Judge and the members of his family shall be entitled to such facilities for medical treatment and for accommodation in hospitals as may, from time to time, be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>The conditions of service of a Judge for which no express provision has been made in this Act shall be such as may be determined by rules made under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.4">
+            <num>(4)</num>
+            <content>
+              <p>Sub-sections (1), (2) and (3) shall be deemed to have come into force on the 26th day of January, 1950 and sub-section (1A) shall be deemed to have come into force on the 9th day of May, 1986 and any rule made under any of the said sub-sections may be made so as to be retrospective to any date not earlier than the commencement of the respective sub-section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23A">
+          <num>23A.</num>
+          <heading>Conveyance facilities.―</heading>
+          <paragraph id="section-23A.paragraph-0">
+            <content>
+              <p>Every Judge shall be entitled to a staff car and two hundred litres of fuel every month or the actual consumption of fuel per month, whichever is less.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23B">
+          <num>23B.</num>
+          <heading>Sumptuary allowance.―</heading>
+          <paragraph id="section-23B.paragraph-0">
+            <content>
+              <p>The Chief Justice and each of the other Judges shall be entitled to a sumptuary allowance of twenty thousand rupees per month and fifteen thousand rupees per month respectively.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23C">
+          <num>23C.</num>
+          <heading>Medical facilities for retired Judges.―</heading>
+          <paragraph id="section-23C.paragraph-0">
+            <content>
+              <p>Every retired Judge shall, with effect from the date on which the Supreme Court Judges (Conditions of Service) Amendment Act, 1976 (36 of 1976) receives the assent of the President, be entitled, for himself and his family, to the same facilities as respects medical treatment and on the same conditions as a retired officer of the Central Civil Services, Class I and his family, are entitled under any rules and orders of the Central Government for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23D">
+          <num>23D.</num>
+          <heading>Exemption from liability to pay Income-tax on certain perquisites received by a Judge.―</heading>
+          <paragraph id="section-23D.paragraph-0">
+            <content>
+              <blockList id="section-23D.paragraph-0.list1">
+                <listIntroduction>Notwithstanding anything contained in the Income-tax Act, 1961 (43 of 1961),―</listIntroduction>
+                <item id="section-23D.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the value of rent-free official residence provided to a Judge under sub-section (1) of section 23 or the allowance paid to him under sub-section (1A) of that section;</p>
+                </item>
+                <item id="section-23D.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the value of the conveyance facilities provided to a Judge under section 23A;</p>
+                </item>
+                <item id="section-23D.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the sumptuary allowance provided to a Judge under section 23B,</p>
+                </item>
+              </blockList>
+              <blockList id="section-23D.paragraph-0.list3">
+                <listIntroduction>shall not be included in the computation of his income chargeable under the head “Salaries” under section 15 of the Income-tax Act, 1961 (43 of 1961).</listIntroduction>
+                <item id="section-23D.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>the value of leave travel concession provided to a Judge and members of his family.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to make rules.―</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-24.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:―</listIntroduction>
+                <item id="section-24.2.list1.a">
+                  <num>(a)</num>
+                  <p>leave of absence of a Judge, including special disability leave;</p>
+                </item>
+                <item id="section-24.2.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-24.2.list1.b.list0">
+                    <item id="section-24.2.list1.b.list0.aa">
+                      <num>(aa)</num>
+                      <p>the number of casual leaves and the conditions subject to which it may be allowed under sub-section (3) of section 3;pension payable to a Judge, including extraordinary pensions and gratuities;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-24.2.list1.c">
+                  <num>(c)</num>
+                  <p>travelling allowances to a Judge;</p>
+                </item>
+                <item id="section-24.2.list1.d">
+                  <num>(d)</num>
+                  <p>use of official residence by a Judge;</p>
+                </item>
+                <item id="section-24.2.list1.e">
+                  <num>(e)</num>
+                  <p>facilities for medical treatment and other conditions of service of Judge;</p>
+                </item>
+                <item id="section-24.2.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which has to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-24.3">
+            <num>(3)</num>
+            <content>
+              <p>Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Savings.―</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Nothing contained in this Act shall have effect so as to give to a Judge who is serving as such at the commencement of this Act less favourable terms in respect of his privileges and allowances or his rights in respect of leave of absence (including leave allowances) or pension than those to which he would have been entitled, if this Act had not been passed.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1958/41/schedules"/>
+              <FRBRuri value="/in-union/act/1958/41"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1958/41/eng@1980-01-01/schedules"/>
+              <FRBRuri value="/in-union/act/1958/41/eng@1980-01-01"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1958/41/eng@1980-01-01/schedules"/>
+              <FRBRuri value="/in-union/act/1958/41/eng@1980-01-01"/>
+              <FRBRdate date="2017-02-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <p>(See sections 13 and 14)</p>
+                <p>PENSIONS OF JUDGES</p>
+              </content>
+            </paragraph>
+            <part id="part-I">
+              <num>I</num>
+              <subsection id="part-I.1">
+                <num>(1)</num>
+                <content>
+                  <p>The provisions of this Part apply to a Judge who has not held any other pensionable post under the Union or a State and also apply to a person who was in service as a Judge on the 20th May, 1954 (28 of 1954), and to a Judge who, having held any other pensionable posts under the Union or a State, has elected to receive the pension payable under this Part.</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.2">
+                <num>(2)</num>
+                <content>
+                  <blockList id="part-I.2.list1">
+                    <listIntroduction>Subject to the provisions of this Part, the pension payable to a Chief Justice to whom this Part applies *** shall be an amount equal to the sum of the following amounts, that is to say,―</listIntroduction>
+                    <item id="part-I.2.list1.a">
+                      <num>(a)</num>
+                      <p>an amount equal to the pension which would have been payable to him in accordance with the scale and provisions in Part 1 of the First Schedule to the High Court Judges (Conditions of Service) Act, 1954, if his service as a Judge had been rendered as the Chief Justice of a High Court;</p>
+                    </item>
+                    <item id="part-I.2.list1.b">
+                      <num>(b)</num>
+                      <p>an additional amount of Rs. 12,180 per annum for each completed year of service as the the Chief Justice of the Supreme Court until he has become entitled to a pension of Rs. 3,69,300 per annum, and thereafter an additional amount of Rs. 31,030 for each completed year of such service:</p>
+                    </item>
+                  </blockList>
+                  <p>Provided that the aggregate amount of his pension shall in no case exceed Rs. 6,00,000 per annum.</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.3">
+                <num>(3)</num>
+                <content>
+                  <p>The pension payable to any other Judge to whom this part applies *** shall be an amount equal to the pension which would have been payable to him in accordance with the scale and provisions in Part 1 of the First Schedule to the High Court Judges (Conditions of Service) Act, 1954 (28 of 1954), if his service as a Judge had been rendered as the Chief Justice of a High Court:</p>
+                  <p>Provided that the pension under this paragraph shall in no case exceed Rs. 5,40,000 per annum.</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.4">
+                <num>(4)</num>
+                <content>
+                  <p>If Judge of the Supreme Court who has served as an acting Chief Justice thereof is subsequently appointed Chief Justice, his service as acting Chief Justice shall, for the purposes of paragraph 2 of this Part, be treated as service as Chief Justice.</p>
+                  <p>***</p>
+                </content>
+              </subsection>
+            </part>
+            <part id="part-III">
+              <num>III</num>
+              <subsection id="part-III.1">
+                <num>(1)</num>
+                <content>
+                  <p>The provisions of this Part apply to a Judge who has held any pensionable post under the Union or a State (but is not a member of the Indian Civil Service) and who has not elected to receive the pension payable under Part 1.</p>
+                </content>
+              </subsection>
+              <subsection id="part-III.2">
+                <num>(2)</num>
+                <content>
+                  <blockList id="part-III.2.list1">
+                    <listIntroduction>The pension payable to such a Judge shall be―</listIntroduction>
+                    <item id="part-III.2.list1.a">
+                      <num>(a)</num>
+                      <p>the pension to which he is entitled under the ordinary rules of his service if he had not been appointed a Judge, his service as a Judge in India being treated as service therein for the purpose of calculating that pension; and</p>
+                    </item>
+                    <item id="part-III.2.list1.b">
+                      <num>(b)</num>
+                      <p>a special additional pension of Rs. 16,020 per annum in respect of each completed year of service for pension as a Judge in India ***.</p>
+                    </item>
+                  </blockList>
+                  <p>Provided that the pension under clause (a) and the additional pension under clause (b) together shall in no case exceed Rs. 6,00,000 per annum in the case of a Chief Justice and Rs. 5,40,000 per annum in the case of any other Judge. * * *</p>
+                </content>
+              </subsection>
+            </part>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

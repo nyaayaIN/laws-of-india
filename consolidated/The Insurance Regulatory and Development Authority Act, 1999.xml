@@ -1,0 +1,2555 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1999/41/main"/>
+          <FRBRuri value="/in-union/act/1999/41"/>
+          <FRBRalias value="The Insurance Regulatory and Development Authority Act, 1999"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/main"/>
+          <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+          <FRBRdate date="1999-12-29" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/main"/>
+          <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+          <FRBRdate date="2016-11-22" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Insurance Regulatory And Development Authority Act, 1999</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[29th December, 1999.]</docDate>
+      </p>
+      <longTitle>
+        <p>ACT NO. 41 of 1999</p>
+        <p>An Act to provide for the establishment of an Authority to protect the interests of holders of insurance policies, to regulate, promote and ensure orderly growth of the insurance industry and for matters connected therewith or incidental thereto and further to amend the Insurance Act, 1938, the Life Insurance Corporation Act, 1956 and the General Insurance Business (Nationalisation) Act, 1972.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Fiftieth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Insurance Regulatory and Development Authority Act, 1999.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date, as the Central Government may, by notification in the Official Gazette, appoint:</p>
+              <p>Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>“appointed day” means the date on which the Authority is established under sub-section (1) of section 3;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>“Authority” means the Insurance Regulatory and Development Authority of India established under sub-section (1) of section 3;</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <p>“Chairperson” means the Chairperson of the Authority;</p>
+                </item>
+                <item id="section-2.1.list1.d">
+                  <num>(d)</num>
+                  <p>“Fund” means the Insurance Regulatory and Development Authority Fund constituted under sub-section (1) of section 16;</p>
+                </item>
+                <item id="section-2.1.list1.e">
+                  <num>(e)</num>
+                  <p>“Interim Insurance Regulatory Authority” means the Insurance Regulatory Authority set up by the Central Government through Resolution No. 17(2)/94-Ins.-V, dated the 23rd January, 1996;</p>
+                </item>
+                <item id="section-2.1.list1.f">
+                  <num>(f)</num>
+                  <p>“intermediary” or “insurance intermediary” includes insurance brokers, re-insurance brokers, insurance consultants, corporate agents, third party administrators, surveyors and loss assessors and such other entities, as may be notified by the Authority from time to time;</p>
+                </item>
+                <item id="section-2.1.list1.g">
+                  <num>(g)</num>
+                  <p>“member” means a whole-time or a part-time member of the Authority and includes the Chairperson;</p>
+                </item>
+                <item id="section-2.1.list1.h">
+                  <num>(h)</num>
+                  <p>“notification” means a notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.1.list1.i">
+                  <num>(i)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.1.list1.j">
+                  <num>(j)</num>
+                  <p>“regulations” means the regulations made by the Authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Words and expressions used and not defined in this Act but defined in the Insurance Act, 1938 (4 of 1938) or the Life Insurance Corporation Act, 1956 (31 of 1956) or the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972) shall have the meanings respectively assigned to them in those Acts.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Insurance Regulatory and Development Authority</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment and incorporation of Authority.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>With effect from such date as the Central Government may, by notification, appoint, there shall be established, for the purposes of this Act, an Authority to be called “the Insurance Regulatory and Development Authority of India”.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority shall be a body corporate by the name aforesaid having perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract and shall, by the said name, sue or be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The head office of the Authority shall be at such place as the Central Government may decide from time to time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority may establish offices at other places in India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Composition of Authority.—</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <blockList id="section-4.paragraph-0.list1">
+                <listIntroduction>The Authority shall consist of the following members, namely:—</listIntroduction>
+                <item id="section-4.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>a Chairperson;</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>not more than five whole-time members;</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>not more than four part-time members,</p>
+                </item>
+              </blockList>
+              <p>to be appointed by the Central Government from amongst persons of ability, integrity and standing who have knowledge or experience in life insurance, general insurance, actuarial science, finance, economics, law, accountancy, administration or any other discipline which would, in the opinion of the Central Government, be useful to the Authority:</p>
+              <p>Provided that the Central Government shall, while appointing the Chairperson and the whole-time members, ensure that at least one person each is a person having knowledge or experience in life insurance, general insurance or actuarial science, respectively.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Tenure of office of Chairperson and other members.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairperson and every other whole-time member shall hold office for a term of five years from the date on which he enters upon his office and shall be eligible for reappointment:</p>
+              <p>Provided that no person shall hold office as a Chairperson after he has attained the age of sixty-five years:</p>
+              <p>Provided further that no person shall hold office as a whole-time member after he has attained the age of sixty-two years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>A part-time member shall hold office for a term not exceeding five years from the date on which he enters upon his office.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-5.3.list1">
+                <listIntroduction>Notwithstanding anything contained in sub-section (1) or sub-section (2), a member may—</listIntroduction>
+                <item id="section-5.3.list1.a">
+                  <num>(a)</num>
+                  <p>relinquish his office by giving in writing to the Central Government notice of not less than three months; or</p>
+                </item>
+                <item id="section-5.3.list1.b">
+                  <num>(b)</num>
+                  <p>be removed from his office in accordance with the provisions of section 6.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Removal from office.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-6.1.list1">
+                <listIntroduction>The Central Government may remove from office any member who—</listIntroduction>
+                <item id="section-6.1.list1.a">
+                  <num>(a)</num>
+                  <p>is, or at any time has been, adjudged as an insolvent; or</p>
+                </item>
+                <item id="section-6.1.list1.b">
+                  <num>(b)</num>
+                  <p>has become physically or mentally incapable of acting as a member; or</p>
+                </item>
+                <item id="section-6.1.list1.c">
+                  <num>(c)</num>
+                  <p>has been convicted of any offence which, in the opinion of the Central Government, involves moral turpitude; or</p>
+                </item>
+                <item id="section-6.1.list1.d">
+                  <num>(d)</num>
+                  <p>has acquired such financial or other interest as is likely to affect prejudicially his functions as a member; or</p>
+                </item>
+                <item id="section-6.1.list1.e">
+                  <num>(e)</num>
+                  <p>has so abused his position as to render his continuation in office detrimental to the public interest.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>No such member shall be removed under clause (d) or clause (e) of sub-section (l) unless he has been given a reasonable opportunity of being heard in the matter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Salary and allowances of Chairperson and members.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The salary and allowances payable to, and other terms and conditions of service of, the members other than part-time members shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The part-time members shall receive such allowances as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The salary, allowances and other conditions of service of a member shall not be varied to his disadvantage after appointment.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Bar on future employment of members.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <blockList id="section-8.paragraph-0.list1">
+                <listIntroduction>The Chairperson and the whole-time members shall not, for a period of two years from the date on which they cease to hold office as such, except with the previous approval of the Central Government, accept—</listIntroduction>
+                <item id="section-8.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any employment either under the Central Government or under any State Government; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any appointment in any company in the insurance sector.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Administrative powers of Chairperson.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The Chairperson shall have the powers of general superintendence and direction in respect of all administrative matters of the Authority.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Meetings of Authority.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall meet at such time and places and shall observe such rules and procedures in regard to transaction of business at its meetings (including quorum at such meetings) as may be determined by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson, or if for any reason he is unable to attend a meeting of the Authority, any other member chosen by the members present from amongst themselves at the meeting, shall preside at the meeting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>All questions which come up before any meeting of the Authority shall be decided by a majority of votes by the members present and voting, and in the event of an equality of votes, the Chairperson, or in his absence, the person presiding shall have a second or casting vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority may make regulations for the transaction of business at its meetings.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings of Authority.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <blockList id="section-11.paragraph-0.list1">
+                <listIntroduction>No act or proceeding of the Authority shall be invalid merely by reason of—</listIntroduction>
+                <item id="section-11.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of, the Authority; or</p>
+                </item>
+                <item id="section-11.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person acting as a member of the Authority; or</p>
+                </item>
+                <item id="section-11.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Authority not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Officers and employees of Authority.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may appoint officers and such other employees as it considers necessary for the efficient discharge of its functions under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The terms and other conditions of service of officers and other employees of the Authority appointed under sub-section (1) shall be governed by regulations made under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Transfer of assets, liabilities, etc., of Interim Insurance Regulatory Authority</heading>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Transfer of assets, liabilities, etc., of Interim Insurance Regulatory Authority.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <blockList id="section-13.paragraph-0.list1">
+                <listIntroduction>On the appointed day,—</listIntroduction>
+                <item id="section-13.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>all the assets and liabilities of the Interim Insurance Regulatory Authority shall stand transferred to, and vested in, the Authority;</p>
+                </item>
+              </blockList>
+              <p>Explanation.—</p>
+              <blockList id="section-13.paragraph-0.list4">
+                <listIntroduction>The assets of the Interim Insurance Regulatory Authority shall be deemed to include all rights and powers, and all properties, whether movable or immovable, including, in particular, cash balances, deposits and all other interests and rights in, or arising out of, such properties as may be in the possession of the Interim Insurance Regulatory Authority and all books of account and other documents relating to the same; and liabilities shall be deemed to include all debts, liabilities and obligations of whatever kind;</listIntroduction>
+                <item id="section-13.paragraph-0.list4.b">
+                  <num>(b)</num>
+                  <p>without prejudice to the provisions of clause (a), all debts, obligations and liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for the Interim Insurance Regulatory Authority immediately before that day, for or in connection with the purpose of the said Regulatory Authority, shall be deemed to have been incurred, entered into or engaged to be done by, with or for, the Authority;</p>
+                </item>
+                <item id="section-13.paragraph-0.list4.c">
+                  <num>(c)</num>
+                  <p>all sums of money due to the Interim Insurance Regulatory Authority immediately before that day shall be deemed to be due to the Authority; and</p>
+                </item>
+                <item id="section-13.paragraph-0.list4.d">
+                  <num>(d)</num>
+                  <p>all suits and other legal proceedings instituted or which could have been instituted by or against the Interim Insurance Regulatory Authority immediately before that day may be continued or may be instituted by or against the Authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Duties, powers and functions of Authority</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Duties, powers and functions of Authority.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act and any other law for the time being in force, the Authority shall have the duty to regulate, promote and ensure orderly growth of the insurance business and re-insurance business.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-14.2.list1">
+                <listIntroduction>Without prejudice to the generality of the provisions contained in sub-section (1), the powers and functions of the Authority shall include,—</listIntroduction>
+                <item id="section-14.2.list1.a">
+                  <num>(a)</num>
+                  <p>issue to the applicant a certificate of registration, renew, modify, withdraw, suspend or cancel such registration;</p>
+                </item>
+                <item id="section-14.2.list1.b">
+                  <num>(b)</num>
+                  <p>protection of the interests of the policy-holders in matters concerning assigning of policy, nomination by policy-holders, insurable interest, settlement of insurance claim, surrender value of policy, and other terms and conditions of contracts of insurance;</p>
+                </item>
+                <item id="section-14.2.list1.c">
+                  <num>(c)</num>
+                  <p>specifying requisite qualifications, code of conduct and practical training for intermediary or insurance intermediaries and agents;</p>
+                </item>
+                <item id="section-14.2.list1.d">
+                  <num>(d)</num>
+                  <p>specifying the code of conduct for surveyors and loss assessors;</p>
+                </item>
+                <item id="section-14.2.list1.e">
+                  <num>(e)</num>
+                  <p>promoting efficiency in the conduct of insurance business;</p>
+                </item>
+                <item id="section-14.2.list1.f">
+                  <num>(f)</num>
+                  <p>promoting and regulating professional organisations connected with the insurance and re-insurance business;</p>
+                </item>
+                <item id="section-14.2.list1.g">
+                  <num>(g)</num>
+                  <p>levying fees and other charges for carrying out the purposes of this Act;</p>
+                </item>
+                <item id="section-14.2.list1.h">
+                  <num>(h)</num>
+                  <p>calling for information from, undertaking inspection of, conducting enquiries and investigations including audit of the insurers, intermediaries, insurance intermediaries and other organisations connected with the insurance business;</p>
+                </item>
+                <item id="section-14.2.list1.i">
+                  <num>(i)</num>
+                  <p>control and regulation of the rates, advantages, terms and conditions that may be offered by insurers in respect of general insurance business not so controlled and regulated by the Tariff Advisory Committee undersection 64U of the Insurance Act, 1938 (4 of 1938);</p>
+                </item>
+                <item id="section-14.2.list1.j">
+                  <num>(j)</num>
+                  <p>specifying the form and manner in which books of account shall be maintained and statement of accounts shall be rendered by insurers and other insurance intermediaries;</p>
+                </item>
+                <item id="section-14.2.list1.k">
+                  <num>(k)</num>
+                  <p>regulating investment of funds by insurance companies;</p>
+                </item>
+                <item id="section-14.2.list1.l">
+                  <num>(l)</num>
+                  <p>regulating maintenance of margin of solvency;</p>
+                </item>
+                <item id="section-14.2.list1.m">
+                  <num>(m)</num>
+                  <p>adjudication of disputes between insurers and intermediaries or insurance intermediaries;</p>
+                </item>
+                <item id="section-14.2.list1.n">
+                  <num>(n)</num>
+                  <p>supervising the functioning of the Tariff Advisory Committee;</p>
+                </item>
+                <item id="section-14.2.list1.o">
+                  <num>(o)</num>
+                  <p>specifying the percentage of premium income of the insurer to finance schemes for promoting and regulating professional organisations referred to in clause (f);</p>
+                </item>
+                <item id="section-14.2.list1.p">
+                  <num>(p)</num>
+                  <p>specifying the percentage of life insurance business and general insurance business to be undertaken by the insurer in the rural or social sector; and</p>
+                </item>
+                <item id="section-14.2.list1.q">
+                  <num>(q)</num>
+                  <p>exercising such other powers as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Finance, accounts and audit</heading>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Grants by Central Government.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>The Central Government may, after due appropriation made by the Parliament by law in this behalf, make to the Authority grants of such sums of money as the Government may think fit for being utilised for the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Constitution of Fund.—</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-16.1.list1">
+                <listIntroduction>There shall be constituted a fund to be called “the Insurance Regulatory and Development Authority Fund” and there shall be credited thereto—</listIntroduction>
+                <item id="section-16.1.list1.a">
+                  <num>(a)</num>
+                  <p>all Government grants, fees and charges received by the Authority;</p>
+                </item>
+                <item id="section-16.1.list1.b">
+                  <num>(b)</num>
+                  <p>all sums received by the Authority from such other source as may be decided upon by the Central Government;</p>
+                </item>
+                <item id="section-16.1.list1.c">
+                  <num>(c)</num>
+                  <p>***</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-16.2.list1">
+                <listIntroduction>The Fund shall be applied for meeting—</listIntroduction>
+                <item id="section-16.2.list1.a">
+                  <num>(a)</num>
+                  <p>the salaries, allowances and other remuneration of the members, officers and other employees of the Authority;</p>
+                </item>
+                <item id="section-16.2.list1.b">
+                  <num>(b)</num>
+                  <p>the other expenses of the Authority in connection with the discharge of its functions and for the purposes of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Accounts and audit.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of the Authority shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Authority to the Comptroller and Auditor-General.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <p>The Comptroller and Auditor-General of India and other person appointed by him in connection with the audit of the accounts of the Authority shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books of account, connected vouchers and other documents and papers and to inspect any of the offices of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.4">
+            <num>(4)</num>
+            <content>
+              <p>The accounts of the Authority as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power of Central Government to issue directions.—</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the foregoing provisions of this Act, the Authority shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy, other than those relating to technical and administrative matters, as the Central Government may give in writing to it from time to time:</p>
+              <p>Provided that the Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The decision of the Central Government, whether a question is one of policy or not, shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Power of Central Government to supersede Authority.—</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-19.1.list1">
+                <listIntroduction>If, at any time the Central Government is of the opinion—</listIntroduction>
+                <item id="section-19.1.list1.a">
+                  <num>(a)</num>
+                  <p>that, on account of circumstances beyond the control of the Authority, it is unable to discharge the functions or perform the duties imposed on it by or under the provisions of this Act; or</p>
+                </item>
+                <item id="section-19.1.list1.b">
+                  <num>(b)</num>
+                  <p>that the Authority has persistently defaulted in complying with any direction given by the Central Government under this Act or in the discharge of the functions or performance of the duties imposed on it by or under the provisions of this Act and as a result of such default the financial position of the Authority or the administration of the Authority has suffered; or</p>
+                </item>
+                <item id="section-19.1.list1.c">
+                  <num>(c)</num>
+                  <p>that circumstances exist which render it necessary in the public interest so to do,</p>
+                </item>
+              </blockList>
+              <p>the Central Government may, by notification and for reasons to be specified therein, supersede the Authority for such period, not exceeding six months, as may be specified in the notification and appoint a person to be the Controller of Insurance under section 2B of the Insurance Act, 1938 (4 of 1938), if not already done:</p>
+              <p>Provided that before issuing any such notification, the Central Government shall give a reasonable opportunity to the Authority to make representations against the proposed supersession and shall consider the representations, if any, of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-19.2.list1">
+                <listIntroduction>Upon the publication of a notification under sub-section (1) superseding the Authority,—</listIntroduction>
+                <item id="section-19.2.list1.a">
+                  <num>(a)</num>
+                  <p>the Chairperson and other members shall, as from the date of supersession, vacate their offices as such;</p>
+                </item>
+                <item id="section-19.2.list1.b">
+                  <num>(b)</num>
+                  <p>all the powers, functions and duties which may, by or under the provisions of this Act, be exercised or discharged by or on behalf of the Authority shall, until the Authority is reconstituted under sub-section (3), be exercised and discharged by the Controller of Insurance; and</p>
+                </item>
+                <item id="section-19.2.list1.c">
+                  <num>(c)</num>
+                  <p>all properties owned or controlled by the Authority shall, until the Authority is reconstituted under sub-section (3), vest in the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>On or before the expiration of the period of supersession specified in the notification issued under sub-section (1), the Central Government shall reconstitute the Authority by a fresh appointment of its Chairperson and other members and in such case any person who had vacated his office under clause (a) of sub-section (2) shall not be deemed disqualified for re-appointment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government shall cause a copy of the notification issued under sub-section (1) and a full report of any action taken under this section and the circumstances leading to such action to be laid before each House of Parliament at the earliest.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Furnishing of returns, etc., to Central Government.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall furnish to the Central Government at such time and in such form and manner as may be prescribed, or as the Central Government may direct to furnish such returns, statements and other particulars in regard to any proposed or existing programme for the promotion and development of the insurance industry as the Central Government may, from time to time, require.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the provisions of sub-section (1), the Authority shall, within nine months after the close of each financial year, submit to the Central Government a report giving a true and full account of its activities including the activities for promotion and development of the insurance business during the previous financial year.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>Copies of the reports received under sub-section (2) shall be laid, as soon as may be after they are received, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Chairperson, members, officers and other employees of Authority to be public servants.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>The Chairperson, members, officers and other employees of the Authority shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against the Central Government or any officer of the Central Government or any member, officer or other employee of the Authority for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder:</p>
+              <p>Provided that nothing in this Act shall exempt any person from any suit or other proceedings which might, apart from this Act, be brought against him.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Delegation of powers.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, by general or special order in writing, delegate to the Chairperson or any other member or officer of the Authority subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act as it may deem necessary.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority may, by a general or special order in writing, also form Committees of the members and delegate to them the powers and functions of the Authority as may be specified by the regulations.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-24.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-24.2.list1.a">
+                  <num>(a)</num>
+                  <p>the salary and allowances payable to, and other terms and conditions of service of the members other than part-time members under sub-section (1) of section 7;</p>
+                </item>
+                <item id="section-24.2.list1.b">
+                  <num>(b)</num>
+                  <p>the allowances to be paid to the part-time members under sub-section (2) of section 7;</p>
+                </item>
+                <item id="section-24.2.list1.c">
+                  <num>(c)</num>
+                  <p>such other powers that may be exercised by the Authority under clause (q) of sub-section (2) of section 14;</p>
+                </item>
+                <item id="section-24.2.list1.d">
+                  <num>(d)</num>
+                  <p>the form of annual statement of accounts to be maintained by the Authority under sub-section (1) of section 17;</p>
+                </item>
+                <item id="section-24.2.list1.e">
+                  <num>(e)</num>
+                  <p>the form and the manner in which and the time within which returns and statements and particulars are to be furnished to the Central Government under sub-section (1) of section 20;</p>
+                </item>
+                <item id="section-24.2.list1.f">
+                  <num>(f)</num>
+                  <p>the matters under sub-section (5) of section 25 on which the Insurance Advisory Committee shall advise the Authority;</p>
+                </item>
+                <item id="section-24.2.list1.g">
+                  <num>(g)</num>
+                  <p>any other matter which is required to be, or may be, prescribed, or in respect of which provision is to be or may be made by rules.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Establishment of Insurance Advisory Committee.—</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, by notification, establish with effect from such date as it may specify in such notification, a Committee to be known as the Insurance Advisory Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>The Insurance Advisory Committee shall consist of not more than twenty-five members excluding ex-officio members to represent the interests of commerce, industry, transport, agriculture, consumer fora, surveyors, agents, intermediaries, organisations engaged in safety and loss prevention, research bodies and employees’ association in the insurance sector.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>The Chairperson and the members of the Authority shall be the ex-officio Chairperson and ex-officio members of the Insurance Advisory Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.4">
+            <num>(4)</num>
+            <content>
+              <p>The objects of the Insurance Advisory committee shall be to advise the Authority on matters relating to the making of the regulations under section 26.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.5">
+            <num>(5)</num>
+            <content>
+              <p>Without prejudice to the provisions of sub-section (4), the Insurance Advisory Committee may advise the Authority on such other matters as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power to make regulations.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, in consultation with the Insurance Advisory Committee, by notification, make regulations consistent with this Act and the rules made thereunder to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-26.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-26.2.list1.a">
+                  <num>(a)</num>
+                  <p>the time and places of meetings of the Authority and the procedure to be followed at such meetings including the quorum necessary for the transaction of business under sub-section (1) of section 10;</p>
+                </item>
+                <item id="section-26.2.list1.b">
+                  <num>(b)</num>
+                  <p>the transaction of business at its meetings under sub-section (4) of section 10;</p>
+                </item>
+                <item id="section-26.2.list1.c">
+                  <num>(c)</num>
+                  <p>the terms and other conditions of service of officers and other employees of the Authority under sub-section (2) of section 12;</p>
+                </item>
+                <item id="section-26.2.list1.d">
+                  <num>(d)</num>
+                  <p>the powers and functions which may be delegated to Committees of the members under sub-section (2) of section 23; and</p>
+                </item>
+                <item id="section-26.2.list1.e">
+                  <num>(e)</num>
+                  <p>any other matter which is required to be, or may be, specified by regulations or in respect of which provision is to be or may be made by regulations.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Rules and regulations to be laid before Parliament.—</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Application of other laws not barred.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:</p>
+              <p>Provided that no order shall be made under this section after the expiry of two years from the appointed day.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Amendment of Act 4 of 1938.—</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>The Insurance Act, 1938 shall be amended in the manner specified in the First Schedule to this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Amendment of Act 31 of 1956.—</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <p>The Life Insurance Corporation Act, 1956 shall be amended in the manner specified in the Second Schedule to this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Amendment of Act 57 of 1972.—</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>The General Insurance Business (Nationalisation) Act, 1972 shall be amended in the manner specified in the Third Schedule to this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-thefirstschedule">
+      <doc name="thefirstschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1999/41/thefirstschedule"/>
+              <FRBRuri value="/in-union/act/1999/41"/>
+              <FRBRalias value="THE FIRST SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/thefirstschedule"/>
+              <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/thefirstschedule"/>
+              <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+              <FRBRdate date="2016-11-22" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thefirstschedule">
+            <heading>(See section 30)</heading>
+            <paragraph id="thefirstschedule.paragraph-0">
+              <content>
+                <p>Amendments to The Insurance Act, 1938 (4 of 1938)</p>
+              </content>
+            </paragraph>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>In the Act, except in clause (5B) of section 2 and section 2B, for “Controller” wherever it occurs, substitute “Authority” and such consequential changes as the rules of grammar may require shall also be made;</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>In sections 27, 27A, 27B, 31, 32A, 40A, 48B, 64F, 64G, 64-I, 64J, 64L, 64R, 64UC, 64UM, 113 and 115, for “Central Government” wherever they occur, substitute “Authority”;</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.3">
+              <num>(3)</num>
+              <content>
+                <blockList id="thefirstschedule.3.list1">
+                  <listIntroduction>Section 2,—</listIntroduction>
+                  <item id="thefirstschedule.3.list1.a">
+                    <num>(a)</num>
+                    <p>after clause (1) insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.3.list3">
+                  <listIntroduction>‘(lA) “Authority” means the Insurance Regulatory and Development Authority established under sub-section (1) of section 3 of the Insurance Regulatory and Development Authority Act, 1999;’;</listIntroduction>
+                  <item id="thefirstschedule.3.list3.b">
+                    <num>(b)</num>
+                    <p>for clause (5B), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.3.list5">
+                  <listIntroduction>‘(5B) “Controller of Insurance” means the officer appointed by the Central Government under section 2B to exercise all the powers, discharge the functions and perform the duties of the Authority under this Act or the Life Insurance Corporation Act, 1956 (31 of 1956) or the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972) or the Insurance Regulatory and Development Authority Act, 1999;’;</listIntroduction>
+                  <item id="thefirstschedule.3.list5.c">
+                    <num>(c)</num>
+                    <p>after clause (7), insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.3.list7">
+                  <listIntroduction>‘(7A) “Indian insurance company” means any insurer being a company—</listIntroduction>
+                  <item id="thefirstschedule.3.list7.a">
+                    <num>(a)</num>
+                    <p>which is formed and registered under the Companies Act, 1956 (1 of 1956);</p>
+                  </item>
+                  <item id="thefirstschedule.3.list7.b">
+                    <num>(b)</num>
+                    <p>in which the aggregate holdings of equity shares by a foreign company, either by itself or through its subsidiary companies or its nominees, do not exceed twenty-six per cent. paid-up equity capital of such Indian insurance company;</p>
+                  </item>
+                  <item id="thefirstschedule.3.list7.c">
+                    <num>(c)</num>
+                    <p>whose sole purpose is to carry on life insurance business or general insurance business or re-insurance business.</p>
+                  </item>
+                </blockList>
+                <p>Explanation.—</p>
+                <blockList id="thefirstschedule.3.list10">
+                  <listIntroduction>For the purposes of this clause, the expression “foreign company” shall have the meaning assigned to it under clause (23A) of section 2 of the Income Tax Act, 1961 (43 of 1961);’;</listIntroduction>
+                  <item id="thefirstschedule.3.list10.d">
+                    <num>(d)</num>
+                    <p>in clause (14) for “section 114”, substitute “this Act”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>After section 2, insert the following:—</p>
+                <p>“2A. Interpretation of certain words and expressions.—</p>
+                <p>Words and expressions used and not defined in this Act but defined in the Life Insurance Corporation Act, 1956 (31 of 1956), the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972), and the Insurance Regulatory and Development Authority Act, 1999 shall have the meanings respectively assigned to them in those Acts.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Section 2B, for sub-section (1), substitute the following:—</p>
+                <p>“(1) If at any time, the Authority is superseded under sub-section (1) of section 19 of the Insurance Regulatory and Development Authority Act, 1999, the Central Government may, by notification in the Official Gazette, appoint a person to be the Controller of Insurance till such time the Authority is reconstituted under sub-section (3) of section 19 of that Act.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Section 2C, in sub-section (1), after the second proviso, insert the following:—</p>
+                <p>“Provided also that no insurer other than an Indian insurance company shall begin to carry on any class of insurance business in India under this Act on or after the commencement of the Insurance Regulatory and Development Authority Act, 1999.”;</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.7">
+              <num>(7)</num>
+              <content>
+                <blockList id="thefirstschedule.7.list1">
+                  <listIntroduction>Section 3,—</listIntroduction>
+                  <item id="thefirstschedule.7.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), after the first proviso, insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“Provided further that a person or insurer, as the case may be, carrying on any class of insurance business in India, on or before the commencement of the Insurance Regulatory and Development Authority Act, 1999, for which no registration certificate was necessary prior to such commencement, may continue to do so for a period of three months from such commencement or, if he had made an application for such registration within the said period of three months, till the disposal of such application:</p>
+                <blockList id="thefirstschedule.7.list4">
+                  <listIntroduction>Provided also that any certificate of registration, obtained immediately before the commencement of the Insurance Regulatory and Development Authority Act, 1999, shall be deemed to have been obtained from the Authority in accordance with the provisions of this Act.”;</listIntroduction>
+                  <item id="thefirstschedule.7.list4.b">
+                    <num>(b)</num>
+                    <blockList id="thefirstschedule.7.list4.b.list0">
+                      <listIntroduction>in sub-section (2),—</listIntroduction>
+                      <item id="thefirstschedule.7.list4.b.list0.i">
+                        <num>(i)</num>
+                        <p>in the opening portion, for “Every application for registration shall be accompanied by—”, substitute the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.7.list6">
+                  <listIntroduction>“Every application for registration shall be made in such manner as may be determined by the regulations made by the Authority and shall be accompanied by—”;</listIntroduction>
+                  <item id="thefirstschedule.7.list6.ii">
+                    <num>(ii)</num>
+                    <p>in clause (d) for “working capital”, substitute “paid-up equity capital or working capital”;</p>
+                  </item>
+                  <item id="thefirstschedule.7.list6.iii">
+                    <num>(iii)</num>
+                    <p>in clause (f) in the proviso, omit “and” occurring at the end;</p>
+                  </item>
+                  <item id="thefirstschedule.7.list6.iv">
+                    <num>(iv)</num>
+                    <p>for clause (g) substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.7.list8">
+                  <listIntroduction>“(g) the receipt showing payment of fee as may be determined by regulations which shall not exceed fifty thousand rupees for each class of business as may be specified by regulations made by the Authority;</listIntroduction>
+                  <item id="thefirstschedule.7.list8.h">
+                    <num>(h)</num>
+                    <p>such other documents as may be specified by the regulations made by the Authority;”;</p>
+                  </item>
+                  <item id="thefirstschedule.7.list8.c">
+                    <num>(c)</num>
+                    <p>after sub-section (2A), insert—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.7.list10">
+                  <listIntroduction>“(2AA) The Authority shall give preference to register the applicant and grant him a certificate of registration if such applicant agrees, in the form and manner as may be specified by the regulations made by the Authority, to carry on the life insurance business or general insurance business for providing health cover to individuals or group of individuals.”;</listIntroduction>
+                  <item id="thefirstschedule.7.list10.d">
+                    <num>(d)</num>
+                    <blockList id="thefirstschedule.7.list10.d.list0">
+                      <listIntroduction>in sub-section (4),—</listIntroduction>
+                      <item id="thefirstschedule.7.list10.d.list0.i">
+                        <num>(i)</num>
+                        <p>in clause (f), for “of any rule or order made thereunder, or”, substitute the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.7.list12">
+                  <listIntroduction>“of any rule or any regulation or order made or, any direction issued thereunder, or”;</listIntroduction>
+                  <item id="thefirstschedule.7.list12.ii">
+                    <num>(ii)</num>
+                    <p>in clause (h) insert “or” at the end;</p>
+                  </item>
+                  <item id="thefirstschedule.7.list12.iii">
+                    <num>(iii)</num>
+                    <p>after clause (h) insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.7.list14">
+                  <listIntroduction>“(i) if the insurer makes a default in complying with any direction issued or order made, as the case may be, by the Authority under the Insurance Regulatory and Development Authority Act, 1999, or</listIntroduction>
+                  <item id="thefirstschedule.7.list14.j">
+                    <num>(j)</num>
+                    <p>if the insurer makes a default in complying with, or acts in contravention of, any requirement of the Companies Act, 1956 (1 of 1956) or the Life Insurance Corporation Act, 1956 (31 of 1956) or the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972) or the Foreign Exchange Regulation Act, 1973 (46 of 1973).”;</p>
+                  </item>
+                  <item id="thefirstschedule.7.list14.e">
+                    <num>(e)</num>
+                    <blockList id="thefirstschedule.7.list14.e.list0">
+                      <listIntroduction>in sub-section (5C),—</listIntroduction>
+                      <item id="thefirstschedule.7.list14.e.list0.i">
+                        <num>(i)</num>
+                        <p>for “clause (h)”, substitute “clause (h) or clause (i) or clause (j)”;</p>
+                      </item>
+                      <item id="thefirstschedule.7.list14.e.list0.ii">
+                        <num>(ii)</num>
+                        <p>for “any requirement of this Act or of any rule or order made thereunder” substitute the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.7.list16">
+                  <listIntroduction>“any requirement of this Act or the Insurance Regulatory and Development Authority Act, 1999 or of any rule or any regulation, or any order made thereunder or any direction issued under those Acts”;</listIntroduction>
+                  <item id="thefirstschedule.7.list16.f">
+                    <num>(f)</num>
+                    <p>after sub-section (5D), insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(5E) The Authority may, by order, suspend or cancel any registration in such manner as may be determined by the regulations made by it:</p>
+                <blockList id="thefirstschedule.7.list19">
+                  <listIntroduction>Provided that no order under this sub-section shall be made unless the person concerned has been given a reasonable opportunity of being heard.”;</listIntroduction>
+                  <item id="thefirstschedule.7.list19.g">
+                    <num>(g)</num>
+                    <p>for sub-section (7), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(7) The Authority may, on payment of such fee, not exceeding five thousand rupees, as may be determined by the regulations, issue a duplicate certificate of registration to replace a certificate lost, destroyed or mutilated, or in any other case where the Authority is of opinion that the issue of duplicate certificate is necessary.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.8">
+              <num>(8)</num>
+              <content>
+                <blockList id="thefirstschedule.8.list1">
+                  <listIntroduction>Section 3A,—</listIntroduction>
+                  <item id="thefirstschedule.8.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “the 31st day of December, 1941.”, substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.8.list3">
+                  <listIntroduction>“the 31st day of March, after the commencement of the Insurance Regulatory and Development Authority Act, 1999.”;</listIntroduction>
+                  <item id="thefirstschedule.8.list3.b">
+                    <num>(b)</num>
+                    <blockList id="thefirstschedule.8.list3.b.list0">
+                      <listIntroduction>in sub-section (2)—</listIntroduction>
+                      <item id="thefirstschedule.8.list3.b.list0.i">
+                        <num>(i)</num>
+                        <p>for “prescribed fee”, substitute “fee as determined by regulations made by the Authority”;</p>
+                      </item>
+                      <item id="thefirstschedule.8.list3.b.list0.ii">
+                        <num>(ii)</num>
+                        <p>for clause (i), substitute the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.8.list5">
+                  <listIntroduction>“(i) exceed one-fourth of one per cent. of such premium income or rupees five crores, whichever is less,”;</listIntroduction>
+                  <item id="thefirstschedule.8.list5.iii">
+                    <num>(iii)</num>
+                    <p>for clause (ii), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.8.list7">
+                  <listIntroduction>“(ii) be less, in any case, than fifty thousand rupees for each class of insurance business:”;</listIntroduction>
+                  <item id="thefirstschedule.8.list7.c">
+                    <num>(c)</num>
+                    <p>in sub-section (3) for “prescribed fee”, substitute “fee as determined by the regulations made by the Authority”;</p>
+                  </item>
+                  <item id="thefirstschedule.8.list7.d">
+                    <num>(d)</num>
+                    <p>in sub-section (4) for “prescribed fee”, substitute “fee as determined by the regulations made by the Authority, and”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>For section 6, substitute the following:—</p>
+                <p>“6. Requirement as to capital.—</p>
+                <blockList id="thefirstschedule.9.list3">
+                  <listIntroduction>No insurer carrying on the business of life insurance, general insurance, or re-insurance in India on or after the commencement of the Insurance Regulatory and Development Authority Act, 1999, shall be registered unless he has,—</listIntroduction>
+                  <item id="thefirstschedule.9.list3.i">
+                    <num>(i)</num>
+                    <p>a paid-up equity capital of rupees one hundred crore, in case of a person carrying on the business of life insurance or general insurance; or</p>
+                  </item>
+                  <item id="thefirstschedule.9.list3.ii">
+                    <num>(ii)</num>
+                    <p>a paid-up equity capital of rupees two hundred crore, in case of a person carrying on exclusively the business as a re-insurer:</p>
+                  </item>
+                </blockList>
+                <p>Provided that in determining the paid-up equity capital specified under clause (i) or clause (ii), the deposit to be made under section 7 and any preliminary expenses incurred in the formation and registration of the company shall be excluded:</p>
+                <p>Provided further that an insurer carrying on business of life insurance, general insurance or re-insurance in India before the commencement of the Insurance Regulatory and Development Authority Act, 1999 and who is required to be registered under this Act, shall have a paid-up equity capital in accordance with clause (i) and clause (ii), as the case may be, within six months of the commencement of that Act.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.10">
+              <num>(10)</num>
+              <content>
+                <blockList id="thefirstschedule.10.list1">
+                  <listIntroduction>Section 6A,—</listIntroduction>
+                  <item id="thefirstschedule.10.list1.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.10.list1.a.list0">
+                      <listIntroduction>in sub-section (4), in clause (b),—</listIntroduction>
+                      <item id="thefirstschedule.10.list1.a.list0.I">
+                        <num>(I)</num>
+                        <p>in sub-clause (i), omit “and” occurring at the end;</p>
+                      </item>
+                      <item id="thefirstschedule.10.list1.a.list0.II">
+                        <num>(II)</num>
+                        <p>in sub-clause (ii) for “sanction of the Central Government has been obtained to the transfer.”, substitute “approval of the Authority has been obtained to the transfer;”;</p>
+                      </item>
+                      <item id="thefirstschedule.10.list1.a.list0.III">
+                        <num>(III)</num>
+                        <p>after sub-clause (ii), insert the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <p>“(iii) where, the nominal value of the shares intended to be transferred by any individual, firm, group, constituents of a group, or body corporate under the same management, jointly or severally exceeds one per cent. of paid-up equity capital of the insurer, unless the previous approval of the Authority has been obtained for the transfer.</p>
+                <p>Explanation.—</p>
+                <blockList id="thefirstschedule.10.list5">
+                  <listIntroduction>For the purposes of this sub-clause, the expressions “group” and “same management”, shall have the same meanings respectively assigned to them in the Monopolies and Restrictive Trade Practices Act, 1969 (54 of 1969).”;</listIntroduction>
+                  <item id="thefirstschedule.10.list5.b">
+                    <num>(b)</num>
+                    <blockList id="thefirstschedule.10.list5.b.list0">
+                      <listIntroduction>in sub-section (11),—</listIntroduction>
+                      <item id="thefirstschedule.10.list5.b.list0.i">
+                        <num>(i)</num>
+                        <p>for “Explanation 1”, substitute “Explanation”;</p>
+                      </item>
+                      <item id="thefirstschedule.10.list5.b.list0.ii">
+                        <num>(ii)</num>
+                        <p>omit Explanation 2.</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.11">
+              <num>(11)</num>
+              <content>
+                <p>After section 6A, insert the following:—</p>
+                <p>“6AA. Manner of divesting excess shareholding by promoter in certain cases.—</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>No promoter shall at any time hold more than twenty-six per cent. or such other percentage as may be prescribed, of the paid-up equity capital in an Indian insurance company:</p>
+                <p>Provided that in a case where an Indian insurance company begins the business of life insurance, general insurance or re-insurance in which the promoters hold more than twenty-six per cent. of the paid-up equity capital or such other excess percentage as may be prescribed, the promoters shall divest in a phased manner the share capital in excess of the twenty-six per cent. of the paid-up equity capital or such excess paid-up equity capital as may be prescribed, after a period of ten years from the date of the commencement of the said business by such Indian insurance company or within such period as may be prescribed by the Central Government.</p>
+                <p>Explanation.—</p>
+                <p>For the removal of doubts, it is hereby declared that nothing contained in proviso shall apply to the promoters being foreign company, referred to in sub-clause (b) of clause (7A) of section 2.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>The manner and procedure for divesting the excess share capital under sub-section (1) shall be specified by regulations made by the Authority.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.12">
+              <num>(12)</num>
+              <content>
+                <blockList id="thefirstschedule.12.list1">
+                  <listIntroduction>Section 7,—</listIntroduction>
+                  <item id="thefirstschedule.12.list1.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.12.list1.a.list0">
+                      <listIntroduction>in sub-section (1),—</listIntroduction>
+                      <item id="thefirstschedule.12.list1.a.list0.i">
+                        <num>(i)</num>
+                        <p>omit “not being an insurer specified in sub-clause (c) of clause (9) of section 2”;</p>
+                      </item>
+                      <item id="thefirstschedule.12.list1.a.list0.ii">
+                        <num>(ii)</num>
+                        <p>for clauses (a) and (b), substitute the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.12.list3">
+                  <listIntroduction>“(a) in the case of life insurance business, a sum equivalent to one per cent. of his total gross premium written in India in any financial year commencing after the 31st day of March, 2000, not exceeding rupees ten crore;</listIntroduction>
+                  <item id="thefirstschedule.12.list3.b">
+                    <num>(b)</num>
+                    <p>in the case of general insurance business, a sum equivalent to three per cent. of his total gross premium written in India, in any financial year commencing after the 31st day of March, 2000, not exceeding rupees ten crore;</p>
+                  </item>
+                  <item id="thefirstschedule.12.list3.c">
+                    <num>(c)</num>
+                    <p>in the case of re-insurance business, a sum of rupees twenty crore:”;</p>
+                  </item>
+                  <item id="thefirstschedule.12.list3.b">
+                    <num>(b)</num>
+                    <p>omit sub-sections (1A), (1B), (1C), (1D) and (1E).</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.13">
+              <num>(13)</num>
+              <content>
+                <blockList id="thefirstschedule.13.list1">
+                  <listIntroduction>Section 11,—</listIntroduction>
+                  <item id="thefirstschedule.13.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “calendar year”, substitute “financial year”;</p>
+                  </item>
+                  <item id="thefirstschedule.13.list1.b">
+                    <num>(b)</num>
+                    <p>after sub-section (1), insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(1A) Notwithstanding anything contained in sub-section (1), every insurer, on or after the commencement of the Insurance Regulatory and Development Authority Act, 1999, in respect of insurance business transacted by him and in respect of his shareholders’ funds, shall at the expiration of each financial year prepare with reference to that year, a balance-sheet, a profit and loss account, a separate account of receipts and payments, a revenue account in accordance with the regulations made by the Authority.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1B">
+              <num>(1B)</num>
+              <content>
+                <p>Every insurer shall keep separate accounts relating to funds of shareholders and policy-holders.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.14">
+              <num>(14)</num>
+              <content>
+                <blockList id="thefirstschedule.14.list1">
+                  <listIntroduction>Section 13,—</listIntroduction>
+                  <item id="thefirstschedule.14.list1.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.14.list1.a.list0">
+                      <listIntroduction>in sub-section (1),—</listIntroduction>
+                      <item id="thefirstschedule.14.list1.a.list0.i">
+                        <num>(i)</num>
+                        <p>for “once at least in every three years”, substitute “every year”;</p>
+                      </item>
+                      <item id="thefirstschedule.14.list1.a.list0.ii">
+                        <num>(ii)</num>
+                        <p>in the first proviso, for “not later than four years”, substitute “not later than two years”;</p>
+                      </item>
+                      <item id="thefirstschedule.14.list1.a.list0.iii">
+                        <num>(iii)</num>
+                        <p>after the second proviso, insert the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.14.list3">
+                  <listIntroduction>“Provided also that for an insurer carrying on life insurance business in India immediately before the commencement of the Insurance Regulatory and Development Authority Act, 1999, the last date as at which the first investigation after such commencement should be caused by an actuary shall be the 31st day of March, 2001:”;</listIntroduction>
+                  <item id="thefirstschedule.14.list3.iv">
+                    <num>(iv)</num>
+                    <p>after third proviso, insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.14.list5">
+                  <listIntroduction>“Provided also that every insurer, on or after the commencement of the Insurance Regulatory and Development Authority Act, 1999, shall cause an abstract of the report of the actuary to be made in the manner specified by regulations made by the Authority.”;</listIntroduction>
+                  <item id="thefirstschedule.14.list5.b">
+                    <num>(b)</num>
+                    <p>in sub-section (4), after proviso, insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“Provided further that the statement referred to in sub-section (4) shall be appended in the form and in the manner specified by the regulations made by the Authority.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.15">
+              <num>(15)</num>
+              <content>
+                <p>After section 27B, insert the following:—</p>
+                <p>“27C. Prohibition for investment of funds outside India.—</p>
+                <p>No insurer shall directly or indirectly invest outside India, the funds of the policy-holders.”.</p>
+                <p>“27D. Manner and conditions of investment—</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Without prejudice to anything contained in sections 27, 27A and 27B, the Authority may, in the interests of the policy-holders, specify by the regulations made by it, the time, manner and other conditions of investment of assets to be held by an insurer for the purposes of this Act.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>The Authority may give specific directions for the time, manner and other conditions subject to which the funds of policy-holders shall be invested in the infrastructure and social sector as may be specified by regulations made by the Authority and such regulations shall apply uniformly to all the insurers carrying on the business of life insurance, general insurance, or re-insurance in India on or after the commencement of the Insurance Regulatory and Development Authority Act, 1999.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>The Authority may, after taking into account the nature of business and to protect the interests of the policy-holders, issue to an insurer the directions relating to the time, manner, and other conditions of investment of assets to be held by him:</p>
+                <p>Provided that no direction under this sub-section shall be issued unless the insurer concerned has been given a reasonable opportunity of being heard.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.16">
+              <num>(16)</num>
+              <content>
+                <p>Section 28A, in sub-section (1), for “31st day of December”, substitute “31st day of March”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.17">
+              <num>(17)</num>
+              <content>
+                <p>Section 28B, in sub-section (1) for “31st day of December”, substitute “31st day of March”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.18">
+              <num>(18)</num>
+              <content>
+                <blockList id="thefirstschedule.18.list1">
+                  <listIntroduction>Section 31B,—</listIntroduction>
+                  <item id="thefirstschedule.18.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “Central Government” at both the places where they occur, substitute “Authority”;</p>
+                  </item>
+                  <item id="thefirstschedule.18.list1.b">
+                    <num>(b)</num>
+                    <p>in sub-section (2), for “a statement in the prescribed form”, substitute “a statement, in the form specified by the regulations made by the Authority,”;</p>
+                  </item>
+                  <item id="thefirstschedule.18.list1.c">
+                    <num>(c)</num>
+                    <p>after sub-section (3), insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(4). Every direction under this section shall be issued by an order made by the Authority:</p>
+                <p>Provided that no order under this section shall be made unless the person concerned has been given an opportunity of being heard.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.19">
+              <num>(19)</num>
+              <content>
+                <p>After section 32A, insert the following:—</p>
+                <p>“32B. Insurance business in rural or social sector.—</p>
+                <p>Every insurer shall, after the commencement of the Insurance Regulatory and Development Authority Act, 1999, undertake such percentages of life insurance business and general insurance business in the rural or social sector, as may be specified, in the Official Gazette by the Authority, in this behalf.”.</p>
+                <p>“32C. Obligations of insurer in respect of rural or unorganised sector and backward classes.—</p>
+                <p>Every insurer shall, after the commencement of the Insurance Regulatory and Development Authority Act, 1999, discharge the obligations specified under section 32B to provide life insurance or general insurance policies to the persons residing in the rural sector, workers in the unorganised or informal sector or for economically vulnerable or backward classes of the society and other categories of persons as may specified by regulations made by the Authority and such insurance policies shall include insurance for crops.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.20">
+              <num>(20)</num>
+              <content>
+                <p>For section 33, substitute the following:—</p>
+                <p>'Investigation</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.33">
+              <num>(33)</num>
+              <content>
+                <p>Power of investigation and inspection by Authority.—</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>The Authority may, at any time, by order in writing, direct any person (hereafter in this section referred to as “Investigating Authority”) specified in the order to investigate the affairs of any insurer and to report to the Authority on any investigation made by such Investigating Authority:</p>
+                <p>Provided that the Investigating Authority may, wherever necessary, employ any auditor or actuary or both for the purpose of assisting him in any investigation under this section.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding anything to the contrary contained in section 235 of the Companies Act, 1956 (1 of 1956), the Investigating Authority may, at any time, and shall, on being directed so to do by the Authority, cause an inspection to be made by one or more of his officers of any insurer and his books of account; and the Investigating Authority shall supply to the insurer a copy of his report on such inspection.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>It shall be the duty of every manager, managing director or other officer of the insurer to produce before the Investigating Authority directed to make the investigation under sub-section (1), or inspection under sub-section (2), all such books of account, registers and other documents in his custody or power and to furnish him with any statement and information relating to the affairs of the insurer as the said Investigating Authority may require of him within such time as the said Investigating Authority may specify.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Any Investigating Authority, directed to make an investigation under sub-section (1), or inspection under sub-section (2), may examine on oath, any manager, managing director or other officer of the insurer in relation to his business and may administer oaths accordingly.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>The Investigating Authority shall, if he has been directed by the Authority to cause an inspection to be made, and may, in any other case, report to the Authority on any inspection made under this section.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.6">
+              <num>(6)</num>
+              <content>
+                <blockList id="thefirstschedule.6.list1">
+                  <listIntroduction>On receipt of any report under sub-section (1) or sub-section (5), the Authority may, after giving such opportunity to the insurer to make a representation in connection with the report as, in the opinion of the Authority, seems reasonable, by order in writing,—</listIntroduction>
+                  <item id="thefirstschedule.6.list1.a">
+                    <num>(a)</num>
+                    <p>require the insurer, to take such action in respect of any matter arising out of the report as the Authority may think fit; or</p>
+                  </item>
+                  <item id="thefirstschedule.6.list1.b">
+                    <num>(b)</num>
+                    <p>cancel the registration of the insurer; or</p>
+                  </item>
+                  <item id="thefirstschedule.6.list1.c">
+                    <num>(c)</num>
+                    <p>direct any person to apply to the court for the winding up of the insurer, if a company, whether the registration of the insurer has been cancelled under clause (b) or not.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>The Authority may, after giving reasonable notice to the insurer, publish the report submitted by the Investigating Authority under sub-section (5) or such portion thereof as may appear to it to be necessary.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>The Authority may by the regulations made by it specify the minimum information to be maintained by insurers in their books, the manner in which such information shall be maintained, the checks and other verifications to be adopted by insurers in that connection and all other matters incidental thereto as are, in its opinion, necessary to enable the Investigating Authority to discharge satisfactorily his functions under this section.</p>
+                <p>Explanation.—</p>
+                <blockList id="thefirstschedule.8.list3">
+                  <listIntroduction>For the purposes of this section, the expression “insurer” shall include in the case of an insurer incorporated in India—</listIntroduction>
+                  <item id="thefirstschedule.8.list3.a">
+                    <num>(a)</num>
+                    <p>all its subsidiaries formed for the purpose of carrying on the business of insurance exclusively outside India; and</p>
+                  </item>
+                  <item id="thefirstschedule.8.list3.b">
+                    <num>(b)</num>
+                    <p>all its branches whether situated in India or outside India.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>No order made under this section other than an order made under clause (b) of sub-section (6) shall be capable of being called in question in any court.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.10">
+              <num>(10)</num>
+              <content>
+                <p>All expenses of, and incidental to, any investigation made under this section shall be defrayed by the insurer, shall have priority over that debts due from the insurer and shall be recoverable as an arrear of land revenue.’.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.21">
+              <num>(21)</num>
+              <content>
+                <p>Section 33A, omit “Central Government or the”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.22">
+              <num>(22)</num>
+              <content>
+                <blockList id="thefirstschedule.22.list1">
+                  <listIntroduction>Section 34H,—</listIntroduction>
+                  <item id="thefirstschedule.22.list1.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.22.list1.a.list0">
+                      <listIntroduction>in sub-section (1),—</listIntroduction>
+                      <item id="thefirstschedule.22.list1.a.list0.i">
+                        <num>(i)</num>
+                        <p>for “Controller”, substitute, “Chairperson of the Authority”;</p>
+                      </item>
+                      <item id="thefirstschedule.22.list1.a.list0.ii">
+                        <num>(ii)</num>
+                        <p>for “an Assistant Controller of Insurance”, substitute “an officer authorised by the Authority”;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item id="thefirstschedule.22.list1.b">
+                    <num>(b)</num>
+                    <p>in sub-sections (5) and (7), for “Controller” wherever it occurs, substitute “ Chairperson of the Authority”;</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.23">
+              <num>(23)</num>
+              <content>
+                <blockList id="thefirstschedule.23.list1">
+                  <listIntroduction>Section 35,—</listIntroduction>
+                  <item id="thefirstschedule.23.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “sanctioned by the Controller”, substitute “approved by the Authority”;</p>
+                  </item>
+                  <item id="thefirstschedule.23.list1.b">
+                    <num>(b)</num>
+                    <blockList id="thefirstschedule.23.list1.b.list0">
+                      <listIntroduction>in sub-section (3),—</listIntroduction>
+                      <item id="thefirstschedule.23.list1.b.list0.i">
+                        <num>(i)</num>
+                        <p>in the first paragraph, for “to sanction any such scheme”, substitute “to approve any such scheme”;</p>
+                      </item>
+                      <item id="thefirstschedule.23.list1.b.list0.ii">
+                        <num>(ii)</num>
+                        <p>in the second paragraph, for “the amalgamation or transfer if sanctioned”, substitute “the amalgamation or transfer if approved”;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.24">
+              <num>(24)</num>
+              <content>
+                <blockList id="thefirstschedule.24.list1">
+                  <listIntroduction>Section 36,—</listIntroduction>
+                  <item id="thefirstschedule.24.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “may sanction the arrangement”, substitute “may approve the arrangement”;</p>
+                  </item>
+                  <item id="thefirstschedule.24.list1.b">
+                    <num>(b)</num>
+                    <blockList id="thefirstschedule.24.list1.b.list0">
+                      <listIntroduction>in sub-section (2),—</listIntroduction>
+                      <item id="thefirstschedule.24.list1.b.list0.i">
+                        <num>(i)</num>
+                        <p>for “the insurers concerned in the amalgamation, the Controller may sanction”, substitute “the insurers concerned in the amalgamation, the Authority may approve”;</p>
+                      </item>
+                      <item id="thefirstschedule.24.list1.b.list0.ii">
+                        <num>(ii)</num>
+                        <p>for “contracts as sanctioned by the Controller”, substitute “contracts as approved by the Authority”.</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.25">
+              <num>(25)</num>
+              <content>
+                <p>Section 37, in clause (c), for “scheme sanctioned”, substitute “scheme approved”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.26">
+              <num>(26)</num>
+              <content>
+                <p>In section 40A, in sub-section (3), for the portion beginning with the words “an amount exceeding” and ending with the words “ten per cent. of the premium payable on the policy”, substitute “an amount not exceeding fifteen per cent. of the premium payable on the policy where the policy relates to fire or marine insurance or miscellaneous insurance.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.27">
+              <num>(27)</num>
+              <content>
+                <blockList id="thefirstschedule.27.list1">
+                  <listIntroduction>Section 42,—</listIntroduction>
+                  <item id="thefirstschedule.27.list1.a">
+                    <num>(a)</num>
+                    <p>for sub-section (1), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(1) The Authority or an officer authorised by it in this behalf shall, in the manner determined by the regulations made by it and on payment of the fee determined by the regulations, which shall not be more than two hundred and fifty rupees, issue to any person making an application in the manner determined by the regulations, a licence to act as an insurance agent for the purpose of soliciting or procuring insurance business:</p>
+                <blockList id="thefirstschedule.27.list4">
+                  <listIntroduction>Provided that,—</listIntroduction>
+                  <item id="thefirstschedule.27.list4.i">
+                    <num>(i)</num>
+                    <p>in the case of an individual, he does not suffer from any of the disqualifications mentioned in sub-section (4); and</p>
+                  </item>
+                  <item id="thefirstschedule.27.list4.ii">
+                    <num>(ii)</num>
+                    <p>in the case of a company or firm, any of its directors or partners does not suffer from any of the said disqualifications:</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.27.list6">
+                  <listIntroduction>Provided further that any licence issued immediately before the commencement of the Insurance Regulatory and Development Authority Act, 1999 shall be deemed to have been issued in accordance with the regulations which provide for such licence.”;</listIntroduction>
+                  <item id="thefirstschedule.27.list6.b">
+                    <num>(b)</num>
+                    <p>for sub-section (3), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.27.list8">
+                  <listIntroduction>“(3) A licence issued under this section, after the date of the commencement of the Insurance Regulatory and Development Authority Act, 1999, shall remain in force for a period of three years only from the date of issue, but shall, if the applicant, being an individual does not, or being a company or firm any of its directors or partners does not, suffer from any of the disqualifications mentioned in clauses (b), (c), (d), (e) and (f) of sub-section (4) and the application for renewal of licence reaches the issuing authority at least thirty days before the date on which the licence ceases to remain in force, be renewed for a period of three years at any one time on payment of the fee determined by regulations made by the Authority which shall not be more than rupees two hundred and fifty, and additional fee of an amount determined by the regulations not exceeding rupees one hundred by way of penalty, if the application for renewal of the licence does not reach the issuing authority at least thirty days before the date on which the licence ceases to remain in force.”;</listIntroduction>
+                  <item id="thefirstschedule.27.list8.c">
+                    <num>(c)</num>
+                    <p>in sub-section (3A), for the proviso, substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.27.list10">
+                  <listIntroduction>“Provided that the Authority may, if satisfied that undue hardship would be caused otherwise, accept any application in contravention of this sub-section on payment by the applicant of a penalty of seven hundred and fifty rupees.”;</listIntroduction>
+                  <item id="thefirstschedule.27.list10.d">
+                    <num>(d)</num>
+                    <p>in sub-section (4), after clause (d), insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.27.list12">
+                  <listIntroduction>“(e) that he does not possess the requisite qualifications and practical training for a period not exceeding twelve months, as may be specified by the regulations made by the Authority in this behalf;</listIntroduction>
+                  <item id="thefirstschedule.27.list12.f">
+                    <num>(f)</num>
+                    <p>that he has not passed such examination as may be specified by the regulations made by the Authority in this behalf:</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.27.list14">
+                  <listIntroduction>Provided that a person who had been issued a licence under sub-section (1) of this section or sub-section (1) of section 64UM shall not be required to possess the requisite qualifications, practical training and pass such examination as required by clauses (e) and (f);</listIntroduction>
+                  <item id="thefirstschedule.27.list14.g">
+                    <num>(g)</num>
+                    <p>that he violates the code of conduct as may be specified by the regulations made by the Authority.”;</p>
+                  </item>
+                  <item id="thefirstschedule.27.list14.e">
+                    <num>(e)</num>
+                    <p>for sub-section (6), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.27.list16">
+                  <listIntroduction>“(6) The Authority may issue a duplicate licence to replace a licence lost, destroyed or mutilated, on payment of such fee not exceeding fifty rupees as may be determined by the regulations.”;</listIntroduction>
+                  <item id="thefirstschedule.27.list16.f">
+                    <num>(f)</num>
+                    <blockList id="thefirstschedule.27.list16.f.list0">
+                      <listIntroduction>in sub-section (7),—</listIntroduction>
+                      <item id="thefirstschedule.27.list16.f.list0.i">
+                        <num>(i)</num>
+                        <p>for “fifty rupees”, substitute “five hundred rupees”;</p>
+                      </item>
+                      <item id="thefirstschedule.27.list16.f.list0.ii">
+                        <num>(ii)</num>
+                        <p>for “one hundred rupees”, substitute “one thousand rupees”;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item id="thefirstschedule.27.list16.g">
+                    <num>(g)</num>
+                    <p>in sub-section (8), for “fifty rupees”, substitute “five thousand rupees”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.28">
+              <num>(28)</num>
+              <content>
+                <blockList id="thefirstschedule.28.list1">
+                  <listIntroduction>Section 42A, in sub-section (1),—</listIntroduction>
+                  <item id="thefirstschedule.28.list1.a">
+                    <num>(a)</num>
+                    <p>for “Controller or an officer authorised by him”, substitute “Authority or an officer authorised by it”;</p>
+                  </item>
+                  <item id="thefirstschedule.28.list1.b">
+                    <num>(b)</num>
+                    <p>for “an application to him”, substitute “an application to it”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.29">
+              <num>(29)</num>
+              <content>
+                <p>After section 42C, insert the following:—</p>
+                <p>“42D. Issue of licence to intermediary or insurance intermediary.—</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>The Authority or an officer authorised by it in this behalf shall, in the manner determined by regulations made by the Authority and on payment of the fees determined by the regulations made by the Authority, issue to any person making an application in the manner determined by the regulations, and not suffering from any of the disqualifications herein mentioned, a licence to act as an intermediary or an insurance intermediary under this Act:</p>
+                <blockList id="thefirstschedule.1.list2">
+                  <listIntroduction>Provided that—</listIntroduction>
+                  <item id="thefirstschedule.1.list2.a">
+                    <num>(a)</num>
+                    <p>in the case of an individual, he does not suffer from any of the disqualifications mentioned in sub-section (4) of section 42, or</p>
+                  </item>
+                  <item id="thefirstschedule.1.list2.b">
+                    <num>(b)</num>
+                    <p>in the case of a company, or firm, any of its directors or partners does not suffer from any of the said disqualifications.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>A licence issued under this section shall entitle the holder thereof to act as an intermediary or insurance intermediary.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>A licence issued under this section shall remain in force for a period of three years only from the date of issue, but shall, if the applicant, being an individual does not, or being a company or firm any of its directors or partners does not suffer from any of the disqualifications mentioned in clauses (b), (c), (d), (e) and (f) of sub-section (4) of section 42 and the application of or renewal of licence reaches the issuing authority at least thirty days before the date on which the licence ceases to remain in force, be renewed for a period of three years at any one time on payment of the fee, determined by the regulations made by the Authority and additional fee for an amount determined by the regulations, not exceeding one hundred rupees by way of penalty, if the application for renewal of the licence does not reach the issuing authority at least thirty days before the date on which the licence ceases to remain in force.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>No application for the renewal of a licence under this section shall be entertained if the application does not reach the issuing authority before the licence ceases to remain in force:</p>
+                <p>Provided that the Authority may, if satisfied that undue hardship would be caused otherwise, accept any application in contravention of this sub-section on payment by the applicant of a penalty of seven hundred and fifty rupees.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.5">
+              <num>(5)</num>
+              <content>
+                <blockList id="thefirstschedule.5.list1">
+                  <listIntroduction>The disqualifications above referred to shall be the following:—</listIntroduction>
+                  <item id="thefirstschedule.5.list1.a">
+                    <num>(a)</num>
+                    <p>that the person is a minor;</p>
+                  </item>
+                  <item id="thefirstschedule.5.list1.b">
+                    <num>(b)</num>
+                    <p>that he is found to be of unsound mind by a court of competent jurisdiction;</p>
+                  </item>
+                  <item id="thefirstschedule.5.list1.c">
+                    <num>(c)</num>
+                    <p>that he has been found guilty of criminal misappropriation or criminal breach of trust or cheating or forgery or an abetment of or attempt to commit any such offence by a court of competent jurisdiction:</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.5.list3">
+                  <listIntroduction>Provided that, where at least five years have elapsed since the completion of the sentence imposed on any person in respect of any such offence, the Authority shall ordinarily declare in respect of such person that his conviction shall cease to operate as a disqualification under this clause;</listIntroduction>
+                  <item id="thefirstschedule.5.list3.d">
+                    <num>(d)</num>
+                    <p>that in the course of any judicial proceedings relating to any policy of insurance of the winding up of an insurance company or in the course of an investigation of the affairs of an insurer it has been found that he has been guilty of or has knowingly participated in or connived at any fraud, dishonesty or misrepresentation against an insurer or an insured;</p>
+                  </item>
+                  <item id="thefirstschedule.5.list3.e">
+                    <num>(e)</num>
+                    <p>that he does not possess the requisite qualifications and practical training for a period not exceeding twelve months, as may be specified by the regulations made by the Authority in this behalf;</p>
+                  </item>
+                  <item id="thefirstschedule.5.list3.f">
+                    <num>(f)</num>
+                    <p>that he has not passed such examinations as may be specified by the regulations made by the Authority in this behalf;</p>
+                  </item>
+                  <item id="thefirstschedule.5.list3.g">
+                    <num>(g)</num>
+                    <p>that he violates the code of conduct as may be specified by regulations made by the Authority.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>If it be found that an intermediary or an insurance intermediary suffers from any of the foregoing disqualifications, without prejudice to any other penalty to which he may be liable, the Authority shall, and if the intermediary or an insurance intermediary has knowingly contravened any provision of this Act may cancel the licence issued to the intermediary or insurance intermediary under this section.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>The Authority may issue a duplicate licence to replace a licence lost, destroyed or mutilated, on payment of such fee, as may be determined by regulations made by the authority.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Any person who acts as an intermediary or an insurance intermediary without holding a licence issued under this section to act as such, shall be punishable with fine, and any insurer or any person who appoints as an intermediary or an insurance intermediary or any person not licensed to act such or transacts any insurance business in India through any such person, shall be punishable with fine.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.9">
+              <num>(9)</num>
+              <content>
+                <p>Where the person contravening sub-section (8) is a company or a firm, then, without prejudice to any other proceedings which may be taken against the company or firm, every director, manager, secretary or other officer of the company, and every partner of the firm who is knowingly a party to such contravention shall be punishable with fine.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.30">
+              <num>(30)</num>
+              <content>
+                <p>Section 64UA, in sub-section (1), in sub-clause (a), for “Controller of Insurance” substitute “Chairperson of the Authority”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.31">
+              <num>(31)</num>
+              <content>
+                <blockList id="thefirstschedule.31.list1">
+                  <listIntroduction>Section 64UB,—</listIntroduction>
+                  <item id="thefirstschedule.31.list1.a">
+                    <num>(a)</num>
+                    <p>for sub-section (1), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.31.list3">
+                  <listIntroduction>“(l) The Authority may, by notification in the Official Gazette, make regulations to carryout the purposes of this Part.”;</listIntroduction>
+                  <item id="thefirstschedule.31.list3.b">
+                    <num>(b)</num>
+                    <p>in sub-section (2), for “rules”, substitute “regulations”;</p>
+                  </item>
+                  <item id="thefirstschedule.31.list3.c">
+                    <num>(c)</num>
+                    <p>in sub-section (3), for “Central Government” at both the places where it occur, substitute “Authority”;</p>
+                  </item>
+                  <item id="thefirstschedule.31.list3.d">
+                    <num>(d)</num>
+                    <p>in sub-section (5), for “Controller of Insurance”, substitute “Chairperson of the Authority”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.32">
+              <num>(32)</num>
+              <content>
+                <p>Section 64UC, in sub-section (1), in the proviso, for “the Controller may, with the previous approval of the Central Government”, substitute “the Authority may”;</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.33">
+              <num>(33)</num>
+              <content>
+                <p>Section 64UD, after sub-section (1) insert the following:—</p>
+                <p>“Provided that the Chairperson of the Authority shall become the Chairman of the Advisory Committee with effect from the commencement of the Insurance Regulatory and Development Authority Act, 1999 and function as such, and any Chairman of the Tariff Committee holding office immediately before such commencement shall cease to be the Chairman.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.34">
+              <num>(34)</num>
+              <content>
+                <p>Section 64UJ, in sub-section (5), for “Central Government” wherever it occurs, substitute “Authority”;</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.35">
+              <num>(35)</num>
+              <content>
+                <blockList id="thefirstschedule.35.list1">
+                  <listIntroduction>Section 64UM,—</listIntroduction>
+                  <item id="thefirstschedule.35.list1.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.35.list1.a.list0">
+                      <listIntroduction>in sub-section (1),—</listIntroduction>
+                      <item id="thefirstschedule.35.list1.a.list0.i">
+                        <num>(i)</num>
+                        <p>in paragraph (B), after “the Insurance (Amendment) Act, 1968” insert “but before the commencement of the Insurance Regulatory and Development Authority Act, 1999”;</p>
+                      </item>
+                      <item id="thefirstschedule.35.list1.a.list0.ii">
+                        <num>(ii)</num>
+                        <p>after paragraph (B), insert the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <p>“(BA) Every person who intends to act as a surveyor or loss assessor after the expiry of a period of one year from the commencement of the Insurance Regulatory and Development Authority Act, 1999, shall make an application to the Authority within such time, in such manner and on payment of such fee as may be determined by the regulations made by the Authority:</p>
+                <blockList id="thefirstschedule.35.list4">
+                  <listIntroduction>Provided that any licence issued immediately before the commencement of the Insurance Regulatory and Development Authority Act, 1999 shall be deemed to have been issued in accordance with the regulations providing for such licence.”;</listIntroduction>
+                  <item id="thefirstschedule.35.list4.iii">
+                    <num>(iii)</num>
+                    <p>in paragraph (C), for “as may be prescribed”, substitute “as may be determined by the regulations”;</p>
+                  </item>
+                  <item id="thefirstschedule.35.list4.iv">
+                    <num>(iv)</num>
+                    <blockList id="thefirstschedule.35.list4.iv.list0">
+                      <listIntroduction>in paragraph (D), in clause (i),—</listIntroduction>
+                      <item id="thefirstschedule.35.list4.iv.list0.A">
+                        <num>(A)</num>
+                        <p>for item (a), substitute the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.35.list6">
+                  <listIntroduction>“(a) has been in practice as a surveyor or loss assessor on the date of commencement of the Insurance Regulatory and Development Authority Act, 1999, or”;</listIntroduction>
+                  <item id="thefirstschedule.35.list6.B">
+                    <num>(B)</num>
+                    <p>in item (f), for “prescribed” substitute “specified by the regulations made by the Authority”;</p>
+                  </item>
+                  <item id="thefirstschedule.35.list6.b">
+                    <num>(b)</num>
+                    <p>after sub-section (1), insert—</p>
+                  </item>
+                </blockList>
+                <p>“(1A) Every surveyor and loss assessor shall comply with the code of conduct in respect of their duties, responsibilities and other professional requirements as may be specified by regulations made by the Authority.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.36">
+              <num>(36)</num>
+              <content>
+                <blockList id="thefirstschedule.36.list1">
+                  <listIntroduction>Section 64V,—</listIntroduction>
+                  <item id="thefirstschedule.36.list1.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.36.list1.a.list0">
+                      <listIntroduction>in sub-section (1),—</listIntroduction>
+                      <item id="thefirstschedule.36.list1.a.list0.i">
+                        <num>(i)</num>
+                        <p>in clause (i), after sub-clause (g), insert the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.36.list3">
+                  <listIntroduction>“(h) such other asset or assets as may be specified by regulations made in this behalf;”;</listIntroduction>
+                  <item id="thefirstschedule.36.list3.ii">
+                    <num>(ii)</num>
+                    <blockList id="thefirstschedule.36.list3.ii.list0">
+                      <listIntroduction>in clause (ii),—</listIntroduction>
+                      <item id="thefirstschedule.36.list3.ii.list0.A">
+                        <num>(A)</num>
+                        <p>in sub-clause (b), in items (i) and (ii), for “40 per cent.”, substitute “50 per cent.”;</p>
+                      </item>
+                      <item id="thefirstschedule.36.list3.ii.list0.B">
+                        <num>(B)</num>
+                        <p>after sub-clause (f), insert the following:—</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.36.list5">
+                  <listIntroduction>“(g) such other liability which may be made in this behalf to be included for the purpose of clause (ii).”;</listIntroduction>
+                  <item id="thefirstschedule.36.list5.b">
+                    <num>(b)</num>
+                    <p>for sub-section (2), substitute the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(2) Every insurer shall furnish to the Authority with his returns under section 15 or section 16, as the case may be, a statement certified by an auditor approved by the Authority in respect of general insurance business, or an actuary approved by the Authority in respect of life insurance business, as the case may be, of his assets and liabilities assessed in the manner required by this section as on the 31st day of March of the preceding year.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Every insurer shall value his assets and liabilities in the manner required by this section and in accordance with the regulations which may be made by the Authority in this behalf.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.37">
+              <num>(37)</num>
+              <content>
+                <blockList id="thefirstschedule.37.list1">
+                  <listIntroduction>Section 64VA,—</listIntroduction>
+                  <item id="thefirstschedule.37.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “at all times”, substitute “at all times before the commencement of the Insurance Regulatory and Development Authority Act, 1999”;</p>
+                  </item>
+                  <item id="thefirstschedule.37.list1.b">
+                    <num>(b)</num>
+                    <p>after sub-section (1), insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.37.list3">
+                  <listIntroduction>“(1A) Every insurer shall, at all times, on or after the commencement of the Insurance Regulatory and Development Authority Act, 1999, maintain an excess of the value of his assets over the amount of his liabilities of not less than the amount arrived at as follows (hereinafter referred to in this section referred to as the “required solvency margin”), namely:—</listIntroduction>
+                  <item id="thefirstschedule.37.list3.i">
+                    <num>(i)</num>
+                    <p>in the case of an insurer carrying on life insurance business, the required solvency margin, shall be the higher of the following amounts—</p>
+                  </item>
+                  <item id="thefirstschedule.37.list3.a">
+                    <num>(a)</num>
+                    <p>fifty crores of rupees (one hundred crores of rupees in case of re-insurers); or</p>
+                  </item>
+                  <item id="thefirstschedule.37.list3.b">
+                    <num>(b)</num>
+                    <p>the aggregate sums of the results arrived at in items (I) and (II) stated below:—</p>
+                  </item>
+                  <item id="thefirstschedule.37.list3.I">
+                    <num>(I)</num>
+                    <p>the aggregate of the results arrived at by applying the calculation described in item (A) below (Step I) and the calculation described in item (B) below (Step II):</p>
+                  </item>
+                  <item id="thefirstschedule.37.list3.A">
+                    <num>(A)</num>
+                    <p>for Step I—</p>
+                  </item>
+                </blockList>
+                <p>(A. 1) there shall be taken, a sum equal to a percentage determined by the regulations not exceeding five per cent. of the mathematical reserves for direct business and re-insurance acceptances without any deduction for re-insurance cessions;</p>
+                <p>(A. 2) the amount of mathematical reserves at the end of the preceding financial year after the deduction of re-insurance cessions shall be expressed as a percentage of the amount of those mathematical reserves before any such deduction; and</p>
+                <p>(A. 3) the sum mentioned in item (A.1) above shall be multiplied—</p>
+                <p>(A. 3.1) where the percentage arrived at under item (A. 2) above is greater than eighty-five per cent. (or in the case of a re-insurer carrying on exclusive re-insurance business, fifty per cent.), by that greater percentage; and</p>
+                <blockList id="thefirstschedule.37.list9">
+                  <listIntroduction>(A. 3.2) in any other case, by eighty-five per cent. (or in the case of a re-insurer carrying on exclusive re-insurance business, fifty per cent.);</listIntroduction>
+                  <item id="thefirstschedule.37.list9.B">
+                    <num>(B)</num>
+                    <p>for Step II—</p>
+                  </item>
+                </blockList>
+                <p>(B.1) there shall be taken, a sum equal to a percentage determined by the regulations made by the Authority not exceeding one per cent. of the sum at risk for the policies on which the sum at risk is not a negative figure, and</p>
+                <p>(B. 2) the amount of sum at risk at the end of the preceding financial year for policies on which the sum at risk is not a negative figure after the deduction of re-insurance cession shall be expressed as a percentage of the amount of that sum at risk before any such deduction, and</p>
+                <p>(B. 3) the sum arrived at under item (B.1) above shall be multiplied—</p>
+                <p>(B. 3.1) where the percentage arrived at under item (B.2) above is greater than fifty per cent., by that greater percentage; and</p>
+                <blockList id="thefirstschedule.37.list15">
+                  <listIntroduction>(B. 3.2) in any other case, by fifty per cent.</listIntroduction>
+                  <item id="thefirstschedule.37.list15.II">
+                    <num>(II)</num>
+                    <p>a percentage determined by the regulations made by the Authority of the value of assets determined in accordance with the provisions of section 64V;</p>
+                  </item>
+                  <item id="thefirstschedule.37.list15.ii">
+                    <num>(ii)</num>
+                    <p>in the case of an insurer carrying on general insurance business, the required solvency margin, shall be the highest of the following amounts:—</p>
+                  </item>
+                  <item id="thefirstschedule.37.list15.a">
+                    <num>(a)</num>
+                    <p>fifty crores of rupees (one hundred crores of rupees in case of re-insurer); or</p>
+                  </item>
+                  <item id="thefirstschedule.37.list15.b">
+                    <num>(b)</num>
+                    <p>a sum equivalent to twenty per cent. of net premium income; or</p>
+                  </item>
+                  <item id="thefirstschedule.37.list15.c">
+                    <num>(c)</num>
+                    <p>a sum equivalent to thirty per cent. of net incurred claims,</p>
+                  </item>
+                </blockList>
+                <p>subject to credit for re-insurance in computing net premiums and net incurred claims being actual but a percentage, determined by the regulations, not exceeding fifty per cent.:</p>
+                <p>Provided that if in respect of any insurer, the Authority is satisfied that either by reason of an unfavourable claim experience or because of sharp increase in the volume of the business, or for any other reason, compliance with the provisions of this sub-section would cause undue hardship to the insurer, the Authority may direct, for such period and subject to such conditions, such solvency margin not being less than the lower of the amount mentioned in sub-clause (i) or sub-clause (ii) above, as the case may be.</p>
+                <p>Explanation.—</p>
+                <blockList id="thefirstschedule.37.list20">
+                  <listIntroduction>For the purposes of this sub-section, the expressions—</listIntroduction>
+                  <item id="thefirstschedule.37.list20.i">
+                    <num>(i)</num>
+                    <p>“mathematical reserves” means the provision made by an insurer to cover liabilities (excluding liabilities which have fallen due and liabilities arising from deposit back arrangement in relation to any policy whereby an amount is deposited by re-insurer with the cedant) arising under or in connection with policies or contracts for life insurance business. Mathematical reserves also include specific provision for adverse deviations of the bases, such as mortality and morbidity rates, interest rates, and expense rates, and any explicit provisions made, in the valuation of liabilities, in accordance with the regulations made by the Authority for this purpose;</p>
+                  </item>
+                  <item id="thefirstschedule.37.list20.ii">
+                    <num>(ii)</num>
+                    <p>“net incurred claims” means the average of the net incurred claims during the specified period of not exceeding three preceding financial years;</p>
+                  </item>
+                  <item id="thefirstschedule.37.list20.iii">
+                    <num>(iii)</num>
+                    <p>“sum at risk”, in relation to a life insurance policy, means a sum which is—</p>
+                  </item>
+                  <item id="thefirstschedule.37.list20.a">
+                    <num>(a)</num>
+                    <p>in any case in which an amount is payable in consequence of death other than a case falling within sub-clause (b) below, the amount payable on death, and</p>
+                  </item>
+                  <item id="thefirstschedule.37.list20.b">
+                    <num>(b)</num>
+                    <p>in any case in which the benefit under the policy in question consists of the making, in consequence of death, of the payments of annuity, payment of a sum by instalments or any other kind of periodic payments, the present value of that benefit,</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.37.list22">
+                  <listIntroduction>less in either case the mathematical reserve in respect of the relevant policies.”;</listIntroduction>
+                  <item id="thefirstschedule.37.list22.c">
+                    <num>(c)</num>
+                    <p>after sub-section (2), insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(2A) If, at any time an insurer does not maintain the required solvency margin in accordance with the provisions of this section, he shall, in accordance with the directions issued by the Authority, submit a financial plan, indicating a plan of action to correct the deficiency to the Authority within a specified period not exceeding three months.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2B">
+              <num>(2B)</num>
+              <content>
+                <p>An insurer who has submitted a plan under sub-section (2A) to the Authority shall propose modifications to the plan if the Authority considers it inadequate, and shall give effect to any plan accepted by the Authority as adequate.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2C">
+              <num>(2C)</num>
+              <content>
+                <blockList id="thefirstschedule.2C.list1">
+                  <listIntroduction>An insurer who does not comply with the provisions of sub-section (2A) shall be deemed to be insolvent and may be wound up by the court.”;</listIntroduction>
+                  <item id="thefirstschedule.2C.list1.d">
+                    <num>(d)</num>
+                    <p>after sub-section (6), insert the following:—</p>
+                  </item>
+                </blockList>
+                <p>“(7) Every insurer shall furnish to the Authority his returns under section 15 or section 16, as the case may be, in case of life insurance business a statement certified by an actuary approved by the Authority, and in case of general insurance business a statement certified by an auditor approved by the Authority, of the required solvency margin maintained by the insurer in the manner required by sub-section (1A).”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.38">
+              <num>(38)</num>
+              <content>
+                <p>Section 70, in sub-section (1), for “the Controller a certificate of registration”, substitute “the Authority, before the date of commencement of the Insurance Regulatory and Development Authority Act, 1999, a certificate of registration”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.39">
+              <num>(39)</num>
+              <content>
+                <p>Section 95, in sub-section (1), for “In this Part—”, substitute, “In this Part, before the date of commencement of the Insurance Regulatory and Development Authority Act, 1999,—”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.40">
+              <num>(40)</num>
+              <content>
+                <blockList id="thefirstschedule.40.list1">
+                  <listIntroduction>Section 101A,—</listIntroduction>
+                  <item id="thefirstschedule.40.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “the Central Government”, substitute “the Authority with the previous approval of the Central Government”;</p>
+                  </item>
+                  <item id="thefirstschedule.40.list1.b">
+                    <num>(b)</num>
+                    <p>in sub-section (2), for “the Central Government”, substitute “the Authority”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.41">
+              <num>(41)</num>
+              <content>
+                <blockList id="thefirstschedule.41.list1">
+                  <listIntroduction>Section 101B,—</listIntroduction>
+                  <item id="thefirstschedule.41.list1.a">
+                    <num>(a)</num>
+                    <p>in sub-section (1), for “the Central Government”, substitute “the Authority with the previous approval of the Central Government.”;</p>
+                  </item>
+                  <item id="thefirstschedule.41.list1.b">
+                    <num>(b)</num>
+                    <p>in sub-section (2), for “prescribed”; substitute “determined by the regulations made by the Authority”.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.42">
+              <num>(42)</num>
+              <content>
+                <p>For sections 102 to 105, substitute the following:—</p>
+                <p>“102. Penalty for default in complying with, or act in contravention of, this Act.—</p>
+                <blockList id="thefirstschedule.42.list3">
+                  <listIntroduction>If any person, who is required under this Act, or rules or regulations made thereunder,—</listIntroduction>
+                  <item id="thefirstschedule.42.list3.a">
+                    <num>(a)</num>
+                    <p>to furnish any document, statement, account, return or report to the Authority, fails to furnish the same; or</p>
+                  </item>
+                  <item id="thefirstschedule.42.list3.b">
+                    <num>(b)</num>
+                    <p>to comply with the directions, fails to comply with such directions;</p>
+                  </item>
+                  <item id="thefirstschedule.42.list3.c">
+                    <num>(c)</num>
+                    <p>to maintain solvency margin, fails to maintain such solvency margin;</p>
+                  </item>
+                  <item id="thefirstschedule.42.list3.d">
+                    <num>(d)</num>
+                    <p>to comply with the directions on the insurance treaties, fails to comply with such directions on the insurance treaties,</p>
+                  </item>
+                </blockList>
+                <p>he shall be liable to a penalty not exceeding five lakh rupees for each such failure and punishable with fine.”</p>
+                <p>“103. Penalty for carrying on insurance business in contravention of sections 3, 7 and 98—</p>
+                <blockList id="thefirstschedule.42.list7">
+                  <listIntroduction>If a person makes a statement, or furnishes any document, statement, account, return or report which is false and which he either knows or believes to be false or does not believe to be true,—</listIntroduction>
+                  <item id="thefirstschedule.42.list7.a">
+                    <num>(a)</num>
+                    <p>he shall be liable to a penalty not exceeding five lakh rupees for each such failure; and</p>
+                  </item>
+                  <item id="thefirstschedule.42.list7.b">
+                    <num>(b)</num>
+                    <p>he shall be punishable with imprisonment which may extend to three years or with fine for each such failure.”</p>
+                  </item>
+                </blockList>
+                <p>“104. Penalty for false statement in document—</p>
+                <p>If a person fails to comply with the provisions of section 27 or section 27A or section 27B or section 27C or section 27D, he shall be liable to a penalty not exceeding five lakh rupees for each such failure.”</p>
+                <p>“105. Wrongfully obtaining or withholding property—</p>
+                <p>If any director, managing director, manager or other officer or employees of an insurer wrongfully obtains possession of any property or wrongfully applies to any purpose of the Act, he shall be liable to a penalty not exceeding two lakh rupees for each such failure.”</p>
+                <p>“105A. Offences by companies—</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Where any offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+                <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+                <p>Explanation.—</p>
+                <blockList id="thefirstschedule.2.list3">
+                  <listIntroduction>For the purposes of this section,—</listIntroduction>
+                  <item id="thefirstschedule.2.list3.a">
+                    <num>(a)</num>
+                    <blockList id="thefirstschedule.2.list3.a.list0">
+                      <listIntroduction>“company” means any body corporate, and includes—</listIntroduction>
+                      <item id="thefirstschedule.2.list3.a.list0.i">
+                        <num>(i)</num>
+                        <p>a firm; and</p>
+                      </item>
+                      <item id="thefirstschedule.2.list3.a.list0.ii">
+                        <num>(ii)</num>
+                        <p>an association of persons or a body of individuals whether incorporated or not; and</p>
+                      </item>
+                    </blockList>
+                  </item>
+                  <item id="thefirstschedule.2.list3.b">
+                    <num>(b)</num>
+                    <blockList id="thefirstschedule.2.list3.b.list1">
+                      <listIntroduction>“director”, in relation to—</listIntroduction>
+                      <item id="thefirstschedule.2.list3.b.list1.i">
+                        <num>(i)</num>
+                        <p>a firm, means a partner in the firm;</p>
+                      </item>
+                      <item id="thefirstschedule.2.list3.b.list1.ii">
+                        <num>(ii)</num>
+                        <p>an association of persons or a body of individuals, means any member controlling the affairs thereof.”</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+                <p>“105B. Penalty for failure to comply with section 32B—</p>
+                <p>If an insurer fails to comply with the provisions of section 32B, he shall be liable to a penalty not exceeding five lakh rupees for each such failure and shall be punishable with imprisonment which may extend to three years or with fine for each such failure.”</p>
+                <p>“105C. Penalty for failure to comply with section 32C—</p>
+                <p>If an insurer fails to comply with the provisions of section 32C, he shall be liable to a penalty not exceeding twenty-five lakh rupees for each such failure and in the case of subsequent and continuing failure, the registration granted to such insurer under section 3 shall be cancelled by the Authority.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.43">
+              <num>(43)</num>
+              <content>
+                <p>In Sections 110A, 110B and 110C for “Controller”, wherever it occurs, substitute “Chairperson of the Authority”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.44">
+              <num>(44)</num>
+              <content>
+                <p>Section 110G, for “Controller” at both the places where it occurs, substitute “Chairperson of the Authority”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.45">
+              <num>(45)</num>
+              <content>
+                <p>Section 110H, in sub-section (1), for “under sections”, substitute “under sections 27D,”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.46">
+              <num>(46)</num>
+              <content>
+                <blockList id="thefirstschedule.46.list1">
+                  <listIntroduction>Section 114, in sub-section (2),—</listIntroduction>
+                  <item id="thefirstschedule.46.list1.a">
+                    <num>(a)</num>
+                    <p>after clause (a), insert the following:—</p>
+                  </item>
+                </blockList>
+                <blockList id="thefirstschedule.46.list3">
+                  <listIntroduction>“(aa) such other percentage of paid-up equity capital in excess of twenty-six per cent. of the paid-up equity capital and the period within which such excess paid-up equity capital shall be divested under sub-section (1) of section 6AA.”;</listIntroduction>
+                  <item id="thefirstschedule.46.list3.b">
+                    <num>(b)</num>
+                    <p>omit clauses (g) and (ll)”</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.47">
+              <num>(47)</num>
+              <content>
+                <p>After section 114, insert the following:—</p>
+                <p>“114A. Power of Authority to make regulations.—</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>The Authority may, by notification in the Official Gazette, make regulations consistent with this Act and the rules made thereunder, to carry out the purposes of this Act.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <blockList id="thefirstschedule.2.list1">
+                  <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+                  <item id="thefirstschedule.2.list1.a">
+                    <num>(a)</num>
+                    <p>the matters including fee relating to the registration of insurers under section 3;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.b">
+                    <num>(b)</num>
+                    <p>the manner of suspension or cancellation of registration under sub-section (5E) of section 3;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.c">
+                    <num>(c)</num>
+                    <p>such fee, not exceeding five thousand rupees, as may be determined by the regulations for issue of a duplicate certificate of registration under sub-section (7) of section 3;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.d">
+                    <num>(d)</num>
+                    <p>the matters relating to the renewal of registration and fee therefor under section 3A;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.e">
+                    <num>(e)</num>
+                    <p>the manner and procedure for divesting excess share capital under sub-section (2) of section 6AA;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.f">
+                    <num>(f)</num>
+                    <p>the preparation of balance-sheet, profit and loss account and a separate account of receipts and payments and revenue account under sub-section (1A) of section 11;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.g">
+                    <num>(g)</num>
+                    <p>the manner in which an abstract of the report of the actuary to be specified under the fourth proviso to sub-section (1) of section 13;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.h">
+                    <num>(h)</num>
+                    <p>the form and the manner in which the statement referred to in sub-section (4) of section 13 shall be appended;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.i">
+                    <num>(i)</num>
+                    <p>the time, manner and the other conditions of investment of assets held by an insurer under sub-sections (1), (2) and (3) of section 27D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.j">
+                    <num>(j)</num>
+                    <p>the minimum information to be maintained by insurer in their books, the manner in which such information should be maintained, the checks and other verifications to be adopted by insurers in that connection and all other matters incidental thereto under sub-section (8) of section 33;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.k">
+                    <num>(k)</num>
+                    <p>the manner for making an application, the manner and the fee for issue of a licence to act as an insurance agent under sub-section (1) of section 42;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.l">
+                    <num>(l)</num>
+                    <p>the fee and the additional fee to be determined for renewal of licence of insurance agent under sub-section (3) of section 42;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.m">
+                    <num>(m)</num>
+                    <p>the requisite qualifications and practical training to act as an insurance agent under clause (e) of sub-section (4) of section 42;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.n">
+                    <num>(n)</num>
+                    <p>the passing of examination to act as an insurance agent under clause (f) of sub-section (4) of section 42;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.o">
+                    <num>(o)</num>
+                    <p>the code of conduct under clause (g) of sub-section (4) of section 42;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.p">
+                    <num>(p)</num>
+                    <p>the fee not exceeding rupees fifty for issue of duplicate licence under sub-section (6) of section 42;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.q">
+                    <num>(q)</num>
+                    <p>the manner and the fees for issue of a licence to an intermediary or an insurance intermediary under sub-section (1) of section 42D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.r">
+                    <num>(r)</num>
+                    <p>the fee and the additional fee to be determined for renewal of licence of intermediaries or insurance intermediaries under sub-section (3) of section 42D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.s">
+                    <num>(s)</num>
+                    <p>the requisite qualifications and practical training of intermediaries or insurance intermediaries under clause (e) of sub-section (5) of section 42D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.t">
+                    <num>(t)</num>
+                    <p>the examination to be passed to act as an intermediary or insurance intermediary under clause (f) of sub-section (5) of section 42D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.u">
+                    <num>(u)</num>
+                    <p>the code of conduct under clause (g) of sub-section (5) of section 42D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.v">
+                    <num>(v)</num>
+                    <p>the fee for issue of duplicate licence under sub-section (7) of section 42D;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.w">
+                    <num>(w)</num>
+                    <p>such matters as specified under sub-section (2) of section 64UB relating to the Tariff Advisory Committee;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.x">
+                    <num>(x)</num>
+                    <p>the matters relating to licensing of surveyors and loss assessors, their duties, responsibilities and other professional requirements under section 64UM;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.y">
+                    <num>(y)</num>
+                    <p>such other asset or assets as may be specified under clause (h) of sub-section (1) of section 64V for the purposes of ascertaining sufficiency of assets undersection 64VA;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.z">
+                    <num>(z)</num>
+                    <p>the valuation of assets and liabilities under sub-section (3) of section 64V;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.za">
+                    <num>(za)</num>
+                    <p>the matters specified under sub-section (1A) of section 64VA relating to sufficiency of assets;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.zb">
+                    <num>(zb)</num>
+                    <p>the matters relating to re-insurance under sections 101A and 101B;</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.zc">
+                    <num>(zc)</num>
+                    <p>the matters relating to redressal grievances of policy-holders to protect their interest and to regulate, promote and ensure orderly growth of insurance industry; and</p>
+                  </item>
+                  <item id="thefirstschedule.2.list1.zd">
+                    <num>(zd)</num>
+                    <p>any other matter which is to be, or may be, specified by the regulations made by the Authority or in respect of which provisions is to be made or may be made by the regulations.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall, thereafter, have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.”.</p>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.48">
+              <num>(48)</num>
+              <content>
+                <p>Section 116A, for “Central Government”, at both the places where they occur, substitute “Central Government, before the date of commencement of the Insurance Regulatory and Development Authority Act, 1999”.</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+    <component id="component-thesecondschedule">
+      <doc name="thesecondschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1999/41/thesecondschedule"/>
+              <FRBRuri value="/in-union/act/1999/41"/>
+              <FRBRalias value="THE SECOND SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/thesecondschedule"/>
+              <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/thesecondschedule"/>
+              <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+              <FRBRdate date="2016-11-18" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thesecondschedule">
+            <heading>(See section 31)</heading>
+            <paragraph id="thesecondschedule.paragraph-0">
+              <content>
+                <p>Amendments to the Life Insurance Corporation Act, 1956 (31 of 1956)</p>
+              </content>
+            </paragraph>
+            <subsection id="thesecondschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>In the Act, for “Controller” wherever it occurs, substitute “Authority”.</p>
+              </content>
+            </subsection>
+            <subsection id="thesecondschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>After section 30, insert the following:—</p>
+                <p>“30A. Exclusive privilege of Corporation to cease.—</p>
+                <p>Notwithstanding anything contained in this Act, the exclusive privilege of carrying on life insurance business in India by the Corporation shall cease on and from the commencement of the Insurance Regulatory and Development Authority Act, 1999 and the Corporation shall, thereafter, carry on life insurance business in India in accordance with the provisions of the Insurance Act, 1938 (4 of 1938)”.</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+    <component id="component-thethirdschedule">
+      <doc name="thethirdschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1999/41/thethirdschedule"/>
+              <FRBRuri value="/in-union/act/1999/41"/>
+              <FRBRalias value="THE THIRD SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/thethirdschedule"/>
+              <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1999/41/eng@1999-12-29/thethirdschedule"/>
+              <FRBRuri value="/in-union/act/1999/41/eng@1999-12-29"/>
+              <FRBRdate date="2016-11-18" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thethirdschedule">
+            <heading>(See section 32)</heading>
+            <paragraph id="thethirdschedule.paragraph-0">
+              <content>
+                <p>Amendment to the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972)</p>
+                <p>After section 24, insert the following:—</p>
+                <p>“24A. Exclusive privilege of Corporation and acquiring companies to cease.—</p>
+                <p>Notwithstanding anything contained in this Act, the exclusive privilege of the Corporation and the acquiring companies of carrying on general insurance business in India shall cease on and from the commencement of the Insurance Regulatory and Development Authority Act, 1999 (4 of 1999) and the Corporation and the acquiring companies shall, thereafter, carry on general insurance business in India in accordance with the provisions of the Insurance Act, 1938 (4 of 1938).”</p>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

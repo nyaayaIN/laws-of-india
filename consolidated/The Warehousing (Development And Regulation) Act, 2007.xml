@@ -1,0 +1,1679 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2007/37/main"/>
+          <FRBRuri value="/in-union/act/2007/37"/>
+          <FRBRalias value="The Warehousing (Development And Regulation) Act, 2007"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2007/37/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2007/37/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2007/37/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2007/37/eng@2017-01-25"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Warehousing (Development And Regulation) Act, 2007</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 37 OF 2007</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[19th September, 2007.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to make provisions for the development and regulation of warehouses, negotiability of warehouse receipts, establishment of a Warehousing Development and Regulatory Authority and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Fifty-eighth Year of the Republic of India as follows:—</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Warehousing (Development and Regulation) Act, 2007.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“accreditation agency” means an agency, whatever be its constitution, registered with the Authority under section 5;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“actionable claim” shall have the meaning assigned to it in section 3 of the Transfer of Property Act, 1882 (4 of 1882);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“Authority” means the Warehousing Development and Regulatory Authority established under sub-section (1) of section 24;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“depositor” means a person who delivers goods to the warehouseman for storage;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“endorsee” means the person to whom the warehouse receipt is negotiated;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“endorsement” means signing on the warehouse receipt by the depositor or holder of the warehouse receipt for the purpose of its negotiation;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“electronic form”, with reference to information, means any information generated, sent, received or stored in media, magnetic, optical, computer memory, microfilm, computer generated micro fiche or similar device;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“fungible goods” means any goods of which any unit is, by nature or usage of trade, the equivalent of any other like unit and are received by a warehouseman as fungible goods;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“goods” means all tangible movable goods (other than actionable claims, money and securities), whether fungible or not;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“grade” means the quality standard of any goods as notified as grade designation by the Central Government under the Agricultural Produce (Grading and Marking) Act, 1937 (1 of 1937) or any other law for the time being in force;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <blockList id="section-2.paragraph-0.list1.k.list0">
+                    <listIntroduction>“holder” means,—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.k.list0.i">
+                      <num>(i)</num>
+                      <p>in relation to a negotiable warehouse receipt, a person who is in possession of such receipt and a right to goods endorsed on it; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.k.list0.ii">
+                      <num>(ii)</num>
+                      <p>in relation to a non-negotiable warehouse receipt, a person named in it as the person to whom the goods are to be delivered or the assignee of that person;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“member” means a member of the Authority and includes its Chairperson;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“negotiable warehouse receipt” means a warehouse receipt under which the goods represented therein are deliverable to the depositor or order, the endorsement of which has the effect of transfer of goods represented thereby and the endorsee for which takes a good title;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>“non-negotiable warehouse receipt” means a warehouse receipt other than a negotiable warehouse receipt;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>“notification” means a notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.p">
+                  <num>(p)</num>
+                  <p>“person” includes a firm, co-operative society or any association or body of persons, whether incorporated or not;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.q">
+                  <num>(q)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.r">
+                  <num>(r)</num>
+                  <p>“regulation” means a regulation made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.s">
+                  <num>(s)</num>
+                  <p>“warehouse” means any premises (including any protected place) conforming to all the requirements including manpower specified by the Authority by regulations wherein the warehouseman takes custody of the goods deposited by the depositor and includes a place of storage of goods under controlled conditions of temperature and humidity;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.t">
+                  <num>(t)</num>
+                  <p>“warehousing business” means the Business of maintaining warehouses in storage of goods and issuing negotiable warehouse receipts;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.u">
+                  <num>(u)</num>
+                  <p>“warehouse receipt” means an acknowledgement in writing or in electronic form issued by a warehouseman or his duly authorised representative (including depository by whatever name called) of the receipt for storage of goods not owned by the warehouseman;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.v">
+                  <num>(v)</num>
+                  <p>“warehouseman” means any person who is granted a certificate of registration in respect of any warehouse or warehouses by the Authority or an accreditation agency for carrying on the business of warehousing.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Regulation of warehousing business</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Requirement of registration for warehouses issuing negotiable warehouse receipts.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>No person shall commence or carry on the warehousing business unless he has obtained a registration certificate in respect of the concerned warehouse or warehouses granted by the Authority under this Act:</p>
+              <p>Provided that a person carrying on the warehousing business immediately before the commencement of this Act shall be allowed to carry on such business, in case he has made an application for registration within thirty days from the date of such commencement:</p>
+              <p>Provided further that no such registration shall be required for warehouses which do not propose to issue negotiable warehouse receipt.</p>
+              <p>Explanation.—</p>
+              <p>For the removal of doubts, it is hereby clarified that a warehouse registered under this Act shall also be eligible to issue non-negotiable warehouse receipts.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), the Authority may, subject to such regulations and guidelines issued by it, authorise any person registered under section 5 as an accreditation agency to issue certificate of accreditation to any person for carrying on the business of warehousing issuing negotiable warehouse receipts.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Registration of warehouses.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person desirous of commencing or carrying on the business of maintaining a warehouse issuing negotiable warehouse receipts may make an application to the Authority for registration in respect of one or more warehouses owned or occupied by him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Every application for registration under sub-section (1) shall be in such form and manner and shall be accompanied by such fees as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>The Authority may, after such enquiry and subject to such terms and conditions as it thinks fit, grant a certificate of registration of the warehouse in the prescribed form and bearing a registration number to the applicant authorising him to carry on the business of maintaining a warehouse or warehouses and to issue negotiable warehouse receipts.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority may not grant a certificate of registration under this section unless it is satisfied that the warehouse in respect of which the application has been made has adequate facilities and safeguards required to warehouse the goods of the nature specified in the application and the applicant satisfies the financial, managerial and other eligibility criteria and competence as may be prescribed:</p>
+              <p>Provided that no certificate of registration shall be refused to any applicant under this section unless the applicant has been given an opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Registration of accreditation agencies.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall, from time to time, determine the number of accreditation agencies as it may authorise to issue certificate of accreditation to warehouses issuing negotiable warehouse receipts.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person fulfilling the qualifications and other requirements as may be prescribed and desirous of functioning as an accreditation agency under this Act may make an application to the Authority seeking its registration as such under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>Every application under sub-section (2) shall be in such form and manner and shall be accompanied by such fees and security deposit as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>The form in which and the terms and conditions subject to which a certificate of registration as an accreditation agency may be issued under this section shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Warehousemen</heading>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Liabilities of warehousemen.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>A warehouseman is liable for loss of, or injury to, goods caused by his failure to exercise such care and diligence in regard to the goods as a careful and vigilant owner of the goods of the same bulk, quality and value would exercise in the custody of them in similar conditions.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>In case the goods are damaged or lost in spite of taking all care and precautions by the warehouseman due to unavoidable circumstances, the compensation equal to the value of goods at the time of deposit of the goods shall be payable by the warehouseman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>In case the goods are damaged or lost due to the negligence of the warehouseman, then, the compensation shall be equal to value of goods plus the loss of profit to the holder of the receipt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>The warehouseman shall not be responsible for any loss, destruction, damage or deterioration of the goods delivered to him for storage attributable to circumstances such as force majeure, act of war, act of public enemies and the like.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Duties of warehousemen.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-7.1.list1">
+                <listIntroduction>In the absence of a lawful excuse, a warehouseman shall deliver the goods referred to in a negotiable receipt, to the holder of the receipt on demand made by the holder and on the holder fulfilling all the following conditions, namely:—</listIntroduction>
+                <item id="section-7.1.list1.a">
+                  <num>(a)</num>
+                  <p>satisfying the warehouse lien;</p>
+                </item>
+                <item id="section-7.1.list1.b">
+                  <num>(b)</num>
+                  <p>surrendering the receipt in case of non-negotiable receipt and surrendering the receipt with endorsements in case of negotiable receipt; and</p>
+                </item>
+                <item id="section-7.1.list1.c">
+                  <num>(c)</num>
+                  <p>acknowledging in writing the receipt of the goods.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>If a warehouseman refuses or fails to deliver the goods in compliance with the provisions of this section, the burden of proof shall lie on the warehouseman to establish the existence of a lawful excuse for the refusal or failure.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Duties of warehouseman to keep records and accounts of warehouse business.—</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Every warehouseman shall keep in a place of safety a complete and accurate set of records and accounts of all</p>
+              <p>transactions pertaining to the operation of a warehouse including records and accounts of all goods received in the warehouse and withdrawn there from, of all un issued receipts in his possession, of all receipts issued, returned to, or cancelled, by him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (1), the warehouseman shall keep all the records and accounts of the warehouse business in numerical sequence separate and distinct from the records and accounts of any other business in such form and in such manner and for such period as the Authority may, by regulations, specify.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>The warehouseman shall make available to the Authority for inspection the records and accounts of the warehouse business at any time as may be desired by the Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Special powers of warehouseman to deal with perishable and hazardous goods.—</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>If the goods are of a perishable or hazardous nature, or their keeping shall deteriorate greatly in value or damage other property, the warehouseman may give notice that is reasonable and possible under the circumstances to the holder of the receipt for the goods, if the name and address of the holder is known to the warehouseman or if not known to the warehouseman, then, to the depositor, requiring that person to satisfy the lien on the goods and to remove them from the warehouse.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>If the person to whom a notice under sub-section (1) is given, fails to satisfy the lien and remove the goods within the time specified in the notice, the warehouseman may sell the goods at public or private sale without advertising.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The notice referred to in sub-section (1) may be given by sending it by electronic mail, speed post or registered post or telegraphically addressed to the person to whom it is to be given at the last known address of the person and the notice is deemed to be given on the third day of the mailing.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.4">
+            <num>(4)</num>
+            <content>
+              <p>If the warehouseman after a reasonable effort is unable to sell the goods, the warehouseman may dispose of them in such other manner as he deems proper and shall incur no liability for that reason.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.5">
+            <num>(5)</num>
+            <content>
+              <p>From the proceeds of any sale or disposal of goods made under this section, the warehouseman shall, after satisfying his lien, hold the balance in trust for the holder of the receipt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.6">
+            <num>(6)</num>
+            <content>
+              <p>No notice shall be necessary if the warehouseman is satisfied on reasonable grounds that in the circumstances of the case giving such notices is likely to cause further prejudice to the goods.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.7">
+            <num>(7)</num>
+            <content>
+              <p>If, at any time, the warehouseman is satisfied that the quality of any fungible goods or any part thereof has so deteriorated or is so deteriorating that it is necessary to do so, to protect the holders of negotiable warehouse receipts from loss and time is not sufficient for him to seek their instructions, he may, subject to the regulations in this behalf, dispose off the goods or any part thereof and keep the sale proceeds after satisfying his lien in an escrow account for the benefit of the holders of receipts.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.8">
+            <num>(8)</num>
+            <content>
+              <p>In case of disposal of fungible goods under sub-section (7), the warehouseman shall, at the choice of the holder of the receipt, either pay the sale proceeds or deliver equivalent goods of the same grade, quality and quantity to him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.9">
+            <num>(9)</num>
+            <content>
+              <p>Any endorsee shall have the right to intimate the address for service recorded with the warehouseman.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Lien of warehouseman on goods.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Every warehouseman has a lien on goods deposited with him for storage, whether deposited by the owner of the goods or by his authority, or by any person entrusted with the possession of the goods by the owner or by his agent.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-10.2.list1">
+                <listIntroduction>The lien of the warehouseman is for the amount of the storage and maintenance charges including—</listIntroduction>
+                <item id="section-10.2.list1.a">
+                  <num>(a)</num>
+                  <p>all lawful charges for storage and preservation of the goods;</p>
+                </item>
+                <item id="section-10.2.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-10.2.list1.b.list0">
+                    <listIntroduction>all reasonable charges for—</listIntroduction>
+                    <item id="section-10.2.list1.b.list0.i">
+                      <num>(i)</num>
+                      <p>any notice required to be given under the provisions of this Act;</p>
+                    </item>
+                    <item id="section-10.2.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>notice and advertisement of sale;</p>
+                    </item>
+                    <item id="section-10.2.list1.b.list0.iii">
+                      <num>(iii)</num>
+                      <p>sale of goods where default is made in satisfying the lien of the warehouseman; and</p>
+                    </item>
+                    <item id="section-10.2.list1.b.list0.iv">
+                      <num>(iv)</num>
+                      <p>compliance of statutory provisions.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>In case of any endorsement on the face of a negotiable warehouse receipt, by a bank or the warehouseman, such endorsement shall be evidence of a pledge and the pledgee shall have priority over the interest of the holder of the receipt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>In case of any pledge referred to in sub-section (3), the warehouseman shall not deliver the goods unless the endorsement of the pledge has been duly got cancelled.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.5">
+            <num>(5)</num>
+            <content>
+              <p>In case the goods are not taken back within the declared period of storage, the warehouseman shall have the right to recover his charges, selling the goods by public auction, or in any other manner provided in this section any goods upon which he has a lien.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.6">
+            <num>(6)</num>
+            <content>
+              <p>The warehouseman shall give a notice in writing of his intention to sell the goods to the person liable as debtor for the charges for which the lien exists or to the owner or person owning the right of property of the goods.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.7">
+            <num>(7)</num>
+            <content>
+              <blockList id="section-10.7.list1">
+                <listIntroduction>The notice under sub-section (6) shall—</listIntroduction>
+                <item id="section-10.7.list1.a">
+                  <num>(a)</num>
+                  <p>contain all the details about the goods, the location of warehouse, date of deposit, the name of depositor and a statement of lien claimed by the warehouseman for the goods stored in the warehouse; and</p>
+                </item>
+                <item id="section-10.7.list1.b">
+                  <num>(b)</num>
+                  <p>state that unless the charges are paid within the stipulated time mentioned in the notice, the goods shall be advertised for sale and sold by public auction at a time and place as specified in the notice.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-10.8">
+            <num>(8)</num>
+            <content>
+              <p>If the charges are not paid on or before the day mentioned in the notice, then, unless any other mode of sale is specified by the Authority, by regulations, an advertisement of the sale shall be published in a leading newspaper having circulation in the locality where the sale is to be held as well as where the owner of the goods is located and the sale shall be held not less than fourteen days from the date of first publication of the advertisement.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.9">
+            <num>(9)</num>
+            <content>
+              <p>The warehouseman shall, from the proceeds of the sale, satisfy his lien and shall pay over the surplus, if any, to the person entitled thereto.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.10">
+            <num>(10)</num>
+            <content>
+              <p>If the surplus is not demanded by the person entitled thereto within ten days after the sale of goods or if there are different claims, the warehouseman shall seek instructions from the Authority and act as per the orders of the Authority.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Warehouse receipts</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Warehouse receipts.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-11.1.list1">
+                <listIntroduction>A warehouse receipt, which may be either in writing or in electronic form, shall be a document of title to goods in writing if it contains all the following particulars, namely:—</listIntroduction>
+                <item id="section-11.1.list1.a">
+                  <num>(a)</num>
+                  <p>receipt number;</p>
+                </item>
+                <item id="section-11.1.list1.b">
+                  <num>(b)</num>
+                  <p>warehouse registration number and date up to which it is valid;</p>
+                </item>
+                <item id="section-11.1.list1.c">
+                  <num>(c)</num>
+                  <p>name of the warehouse and its complete postal address;</p>
+                </item>
+                <item id="section-11.1.list1.d">
+                  <num>(d)</num>
+                  <p>name and address of the person by whom or on whose behalf the goods are deposited;</p>
+                </item>
+                <item id="section-11.1.list1.e">
+                  <num>(e)</num>
+                  <p>date of issue of the warehouse receipt;</p>
+                </item>
+                <item id="section-11.1.list1.f">
+                  <num>(f)</num>
+                  <p>statement that the goods received shall be delivered to the holder thereof, or that the goods shall be delivered to the order of a named person;</p>
+                </item>
+                <item id="section-11.1.list1.g">
+                  <num>(g)</num>
+                  <p>rates of storage charges and handling charges;</p>
+                </item>
+                <item id="section-11.1.list1.h">
+                  <num>(h)</num>
+                  <p>description of the goods or of the packages containing them with particulars of quantity and quality or grade;</p>
+                </item>
+                <item id="section-11.1.list1.i">
+                  <num>(i)</num>
+                  <p>market value of the goods at the time of deposit;</p>
+                </item>
+                <item id="section-11.1.list1.j">
+                  <num>(j)</num>
+                  <p>private marks of depositor on the goods or packages, if any, except in the case of fungible goods;</p>
+                </item>
+                <item id="section-11.1.list1.k">
+                  <num>(k)</num>
+                  <p>name of the insurance company indemnifying for fire, flood, theft, burglary, misappropriation, riots, strikes or terrorism;</p>
+                </item>
+                <item id="section-11.1.list1.l">
+                  <num>(l)</num>
+                  <p>whether the warehouse receipt is negotiable or non-negotiable;</p>
+                </item>
+                <item id="section-11.1.list1.m">
+                  <num>(m)</num>
+                  <p>statement of the amount of any advance made and of any liability incurred for which the warehouseman claims his lien;</p>
+                </item>
+                <item id="section-11.1.list1.n">
+                  <num>(n)</num>
+                  <p>date and signature of the warehouseman or his authorised agent;</p>
+                </item>
+                <item id="section-11.1.list1.o">
+                  <num>(o)</num>
+                  <p>declared shelf-life of goods;</p>
+                </item>
+                <item id="section-11.1.list1.p">
+                  <num>(p)</num>
+                  <p>the fact that the warehouseman holds the lien on the goods deposited for his storage and handling charges; and</p>
+                </item>
+                <item id="section-11.1.list1.q">
+                  <num>(q)</num>
+                  <p>that the receipt would be valid only till the date of expiry of declared shelf- life of the goods for which it is issued.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>In case a warehouseman wilfully omits from a negotiable warehouse receipt any of the particulars set out in sub-section (1), he shall be liable for damages caused by such omission.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>No warehouse receipt shall, by reason of the omission only of any of the particulars set-forth in sub-section (1), be deemed to be invalid for the purpose of settlement of disputes or claims.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>Authority may, with the prior approval of the Central Government, add, delete or modify any particulars as specified in sub-clause (1) for all or any commodity or class of commodities or for any class of warehouses.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Negotiability of warehouse receipts.—</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The words in a negotiable warehouse receipt limiting its negotiability shall be void.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>A warehouseman who issues a non-negotiable warehouse receipt shall cause to be plainly marked upon its face the words “non-negotiable” or “not negotiable” in English or in the language in which it is issued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>In case of non-compliance of sub-section (2), a holder of the warehouse receipt who purchases it for valuable consideration believing it to be a negotiable warehouse receipt may, at his option, treat the receipt as vesting in him all rights attaching to a negotiable warehouse receipt and imposing upon the warehouseman the same liabilities which he would have incurred had the receipt been a negotiable warehouse receipt and the warehouseman shall be liable accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.4">
+            <num>(4)</num>
+            <content>
+              <p>A negotiable warehouse receipt shall be valid for delivery till the date of expiry of the declared shelf-life of the goods for which it is issued.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Negotiation of warehouse receipt by delivery.—</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>A negotiable warehouse receipt may be negotiated by its delivery if, by the terms of the receipt, the warehouseman undertakes to deliver the goods to the order of a named person, and that person or a subsequent endorsee has endorsed it.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Transfer of negotiable warehouse receipts without endorsement.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>Where a negotiable receipt is transferred for valuable consideration by delivery, and the endorsement of the transferor is essential for negotiation, the transferee acquires a right against the transferor to compel him to endorse the receipt, unless a contrary intention appears, and the negotiation takes effect as of the time when endorsement is made.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Warranties on negotiation of warehouse receipt.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <blockList id="section-15.paragraph-0.list1">
+                <listIntroduction>A person who, for valuable consideration, negotiates a negotiable warehouse receipt by endorsement and delivery, including one who assigns for valuable consideration, a claim secured by a receipt, unless a contrary intention appears, warrants the following:—</listIntroduction>
+                <item id="section-15.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>that the receipt is genuine;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>that the person has a legal right to negotiate or transfer it;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>that the person has no knowledge of any fact that would impair the validity of the receipt;</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>that the person has a right to transfer the title to the goods; and</p>
+                </item>
+                <item id="section-15.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>that the goods are merchantable or fit for a particular purpose when those warranties would have been implied, if the contract of the parties had been to transfer without a receipt the goods represented by it.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Non-liability of the endorser.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>The endorsement of a receipt does not make the endorser liable for any failure on the part of the warehouseman or previous endorsers of the receipt to fulfil their respective obligations.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Negotiation of warehouse receipt not impaired by fraud, mistake or duress.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <blockList id="section-17.paragraph-0.list1">
+                <listIntroduction>The validity of the negotiation of a receipt is not impaired by the fact that—</listIntroduction>
+                <item id="section-17.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the negotiation was a breach of duty on the part of the person making the negotiation; or</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the owner of the receipt was induced by fraud, mistake or duress to entrust the possession or custody of the receipt to that person, if the person to whom the receipt was negotiated or a person to whom the receipt was subsequently negotiated, paid value for it without knowing of the breach of duty, fraud, mistake or duress.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Subsequent negotiation of warehouse receipts.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>If a person having sold, mortgaged or pledged goods that are in the custody of a warehouseman and for which a negotiable receipt has been issued, continues in possession of the negotiable receipt, the subsequent negotiation of it by that person under any sale or other disposition of the goods to any person receiving the receipt in good faith, for valuable consideration and without notice of the previous sale, mortgage or pledge, has the same effect as if a previous purchaser, mortgagee or pledgee of the goods, as the case may be, had expressly authorised the subsequent negotiation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Delivery of goods to be made after due charges are paid.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>When a negotiable warehouse receipt has been issued in respect of any goods, the warehouseman shall not deliver the goods to the depositor or endorsee, until the due charges are paid to the custodian from the date of initial deposit till delivery is made and the warehouse receipt is surrendered for cancellation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Transfer of non-negotiable receipts.—</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>A non-negotiable warehouse receipt may be transferred by the holder by delivery to a purchaser or donee of the goods in writing executed by the holder.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-20.2.list1">
+                <listIntroduction>A person to whom the goods covered by a non-negotiable warehouse receipt is transferred acquires—</listIntroduction>
+                <item id="section-20.2.list1.a">
+                  <num>(a)</num>
+                  <p>the title of the transferor to the goods; and</p>
+                </item>
+                <item id="section-20.2.list1.b">
+                  <num>(b)</num>
+                  <p>the right to deposit with the warehouseman the receipt or duplicate thereof or to give notice in writing to the warehouseman of the transfer.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>The transferee shall acquire the benefit of the obligation of the warehouseman to hold goods in storage for him according to the terms of the receipt upon deposit of the transfer of the goods and on giving notice in writing of the transfer and upon the warehouseman having a reasonable opportunity of verifying the transfer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Conclusiveness of negotiable warehouse receipt.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>In the hands of a holder who has purchased a negotiable warehouse receipt for valuable consideration, it shall be conclusive evidence of the goods described in it as against the warehouseman or any person claiming through him.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Presumption in certain cases.—</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <blockList id="section-22.paragraph-0.list1">
+                <listIntroduction>In a dispute between an endorser of a negotiable warehouse receipt and his endorsee unless it is proved otherwise, it shall be presumed that—</listIntroduction>
+                <item id="section-22.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the endorsement has been made voluntarily;</p>
+                </item>
+                <item id="section-22.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the endorsement has been made for full consideration;</p>
+                </item>
+                <item id="section-22.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>the endorser had full legal title in the goods represented by the receipt; and</p>
+                </item>
+                <item id="section-22.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>the endorsement has extinguished all the rights, title and interest of the endorser in the goods.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Issue of duplicate receipt.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>No warehouseman shall issue a warehouse receipt without actually receiving the goods of the quantity, quality or grade and other particulars as may be mentioned in the receipt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>No warehouseman shall issue more than one receipt for the same goods deposited by any person:</p>
+              <p>Provided that in case of a loss or destruction, a duplicate receipt may be issued in such manner as may be specified by the Authority by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>If a warehouseman fails to comply with the provisions of sub-section (2), he would be liable for all such damages caused by the failure to any person who has transacted on such receipt for valuable consideration, believing it to be an original, even though the transaction is after the delivery of the goods by the warehouseman to the holder of the original receipt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.4">
+            <num>(4)</num>
+            <content>
+              <p>A receipt on the face of which the word “duplicate” is plainly marked is a representation and warranty by the warehouseman that it is an accurate copy of a receipt properly issued and uncancelled on the date of issue of the duplicate warehouse receipt.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>The warehousing development and regulatory authority</heading>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Establishment and incorporation of Authority.—</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>With effect from such date as the Central Government may, by notification, specify in this behalf, there shall be constituted an authority to be called the Warehousing Development and Regulatory Authority to exercise the powers conferred on, and to perform the functions assigned to it by or under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority shall be a body corporate by the name aforesaid having perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract and shall, by the said name, sue or be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.3">
+            <num>(3)</num>
+            <content>
+              <p>The head office of the Authority shall be at New Delhi and the Authority may, with the previous approval of the Central Government, establish offices at other places in India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Composition of Authority.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <blockList id="section-25.paragraph-0.list1">
+                <listIntroduction>The Authority shall consist of—</listIntroduction>
+                <item id="section-25.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>a Chairperson; and</p>
+                </item>
+                <item id="section-25.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>not more than two other members,</p>
+                </item>
+              </blockList>
+              <p>to be appointed by the Central Government from amongst persons of ability, integrity and standing who have wide knowledge and experience in inventory management, insurance, preservation, quality control, agriculture banking, finance, economics, law or administration.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Tenure of office of Chairperson and other members.—</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairperson and every other member shall hold office for a term not exceeding five years from the date on which he enters upon his office and shall be eligible for reappointment:</p>
+              <p>Provided that no person shall hold office as the Chairperson or other member after he has attained the age of sixty-five years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-26.2.list1">
+                <listIntroduction>Notwithstanding anything contained in sub-section (1), a member may—</listIntroduction>
+                <item id="section-26.2.list1.a">
+                  <num>(a)</num>
+                  <p>relinquish his office by giving in writing to the Central Government notice of not less than three months; or</p>
+                </item>
+                <item id="section-26.2.list1.b">
+                  <num>(b)</num>
+                  <p>be removed from his office in accordance with the provisions of section 27.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Removal from office.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-27.1.list1">
+                <listIntroduction>The Central Government may remove from office any member who—</listIntroduction>
+                <item id="section-27.1.list1.a">
+                  <num>(a)</num>
+                  <p>is, or at any time has been, adjudged as an insolvent; or</p>
+                </item>
+                <item id="section-27.1.list1.b">
+                  <num>(b)</num>
+                  <p>has become physically or mentally incapable of acting as a member; or</p>
+                </item>
+                <item id="section-27.1.list1.c">
+                  <num>(c)</num>
+                  <p>has been convicted of an offence which, in the opinion of the Central Government, involves moral turpitude; or</p>
+                </item>
+                <item id="section-27.1.list1.d">
+                  <num>(d)</num>
+                  <p>has acquired such financial or other interest as is likely to affect prejudicially his functions as a member; or</p>
+                </item>
+                <item id="section-27.1.list1.e">
+                  <num>(e)</num>
+                  <p>has so abused his position as to render his continuation in office detrimental to the public interest.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>No such member shall be removed under clause (d) or clause (e) of sub-section (1) unless he has been given a reasonable opportunity of being heard in the matter.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Salary, allowances and other terms and conditions of Chairperson and other members.—</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <blockList id="section-28.paragraph-0.list1">
+                <listIntroduction>Subject to the rules as may be made in this behalf, the salaries and allowances payable to, and other terms and conditions of service of—</listIntroduction>
+                <item id="section-28.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the Chairperson shall be the same as that of a Secretary to the Government of India;</p>
+                </item>
+                <item id="section-28.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the other members of the Authority shall be the same as that of Joint Secretaries to the Government of India.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Bar on future employment of members.—</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>The Chairperson and the other members shall not, for a period of two years from the date on which they cease to hold office as such, except with the previous approval of the Central Government, accept any employment in any concern in the warehousing sector.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Chairperson to be the chief executive of Authority.—</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>The Chairperson shall be the chief executive of the Authority.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Meetings of Authority.—</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall meet at such times and places and shall observe such rules of procedure in regard to transaction of business at its meetings (including the quorum at such meetings) as may be determined by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairperson, or if, for any reason he is unable to attend a meeting of the Authority, any other member chosen by the members present from amongst themselves at the meeting shall preside at the meeting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <p>All questions which come up before any meeting of the Authority shall be decided by a majority of votes by the members present and voting, and in the event of an equality of votes, the Chairperson, or the person presiding shall have a second or casting vote.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings of Authority.—</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <blockList id="section-32.paragraph-0.list1">
+                <listIntroduction>No act or proceeding of the Authority shall be invalid merely by reason of—</listIntroduction>
+                <item id="section-32.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of, the Authority; or</p>
+                </item>
+                <item id="section-32.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person acting as a member of the Authority; or</p>
+                </item>
+                <item id="section-32.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Authority not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Officers and employees of Authority.—</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may appoint officers and such other employees as it considers necessary for the efficient discharge of its function under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>The terms and conditions of service of officers and other employees of the Authority appointed under sub-section (1) shall be governed by regulations made under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Warehousing Advisory Committee.—</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, by notification, constitute a Committee to be known as the Warehousing Advisory Committee to advise the Authority on matters relating to the making of regulations under section 51 and make recommendations for effective implementation of the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The Warehousing Advisory Committee shall consist of not more than fifteen members excluding the members of the Authority to represent the interests of commerce, industry, engineering, agriculture, consumers, organisations engaged in warehousing, quality control, preservation and research bodies.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.3">
+            <num>(3)</num>
+            <content>
+              <p>Without prejudice to the provisions of sub-section (1), the Warehousing Advisory Committee may advise the Authority on such other matters as may be referred to it by the Authority.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Powers and functions of authority</heading>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Powers and functions of Authority.—</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act and any other law for the time being in force, the Authority shall have the duty to regulate and ensure implementation of the provisions of this Act and promote orderly growth of the warehousing business.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-35.2.list1">
+                <listIntroduction>Without prejudice to the generality of the foregoing provisions, the powers and functions of the Authority shall include the following, namely:—</listIntroduction>
+                <item id="section-35.2.list1.a">
+                  <num>(a)</num>
+                  <p>to issue to the applicants fulfilling the requirements for warehousemen a certificate of registration in respect of warehouses, or renew, modify, withdraw, suspend or cancel such registration;</p>
+                </item>
+                <item id="section-35.2.list1.b">
+                  <num>(b)</num>
+                  <p>to regulate the registration and functioning of accreditation agency, renew, modify, withdraw, suspend or cancel such registration, and specify the code of conduct for officials of accreditation agencies for accreditation of the warehouses;</p>
+                </item>
+                <item id="section-35.2.list1.c">
+                  <num>(c)</num>
+                  <p>to specify the qualifications, code of conduct and practical training for warehousemen and staff engaged in warehousing business;</p>
+                </item>
+                <item id="section-35.2.list1.d">
+                  <num>(d)</num>
+                  <p>to regulate the process of pledge, creation of charges and enforcement thereof in respect of goods deposited with the warehouse;</p>
+                </item>
+                <item id="section-35.2.list1.e">
+                  <num>(e)</num>
+                  <p>to promote efficiency in conduct of warehouse business;</p>
+                </item>
+                <item id="section-35.2.list1.f">
+                  <num>(f)</num>
+                  <p>to make regulations laying down the standards for approval of certifying agencies for grading of goods;</p>
+                </item>
+                <item id="section-35.2.list1.g">
+                  <num>(g)</num>
+                  <p>to promote professional organisations connected with the warehousing business;</p>
+                </item>
+                <item id="section-35.2.list1.h">
+                  <num>(h)</num>
+                  <p>to determine the rate of, and levy, the fees and other charges for carrying out the provisions of this Act;</p>
+                </item>
+                <item id="section-35.2.list1.i">
+                  <num>(i)</num>
+                  <p>to call for information from, undertaking inspection of, conducting enquiries and investigation including audit of the warehouses, accreditation agencies and other organisations connected with the warehousing business;</p>
+                </item>
+                <item id="section-35.2.list1.j">
+                  <num>(j)</num>
+                  <p>to regulate the rates, advantages, terms and conditions that may be offered by warehousemen in respect of warehousing business;</p>
+                </item>
+                <item id="section-35.2.list1.k">
+                  <num>(k)</num>
+                  <p>to specify, by regulations, the form and manner in which books of account shall be maintained and statement of accounts shall be rendered by warehousemen;</p>
+                </item>
+                <item id="section-35.2.list1.l">
+                  <num>(l)</num>
+                  <p>to maintain a panel of arbitrators and to nominate arbitrators from such panel in disputes between warehouses and warehouse receipt holders;</p>
+                </item>
+                <item id="section-35.2.list1.m">
+                  <num>(m)</num>
+                  <p>to regulate and develop electronic system of holding and transfer of credit balances of fungible goods deposited in the warehouses;</p>
+                </item>
+                <item id="section-35.2.list1.n">
+                  <num>(n)</num>
+                  <p>to determine the minimum percentage of space to be kept reserved for storage of agricultural commodities in a registered warehouse;</p>
+                </item>
+                <item id="section-35.2.list1.o">
+                  <num>(o)</num>
+                  <p>to specify the duties and responsibilities of the warehouseman;</p>
+                </item>
+                <item id="section-35.2.list1.p">
+                  <num>(p)</num>
+                  <p>to exercise such other powers and perform such other functions as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Finance, accounts and audit</heading>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Grants by Central Government.—</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Authority grants of such sums of money as the Government may think fit for being utilised for the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Constitution of fund.—</heading>
+          <subsection id="section-37.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-37.1.list1">
+                <listIntroduction>There shall be constituted a fund to be called the Warehousing Development and Regulatory Authority Fund and there shall be credited thereto—</listIntroduction>
+                <item id="section-37.1.list1.a">
+                  <num>(a)</num>
+                  <p>all Central Government grants, fees and charges received by the Authority;</p>
+                </item>
+                <item id="section-37.1.list1.b">
+                  <num>(b)</num>
+                  <p>all sums received by the Authority from such other source as may be decided upon by the Central Government;</p>
+                </item>
+                <item id="section-37.1.list1.c">
+                  <num>(c)</num>
+                  <p>all sums realised by way of penalties under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-37.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-37.2.list1">
+                <listIntroduction>The fund shall be applied for meeting—</listIntroduction>
+                <item id="section-37.2.list1.a">
+                  <num>(a)</num>
+                  <p>the salaries, allowances and other remuneration of the members, officers and other employees of the Authority;</p>
+                </item>
+                <item id="section-37.2.list1.b">
+                  <num>(b)</num>
+                  <p>the other expenses of the Authority in connection with the discharge of its functions and for the purposes of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Accounts and audit.—</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form and manner as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of the Authority shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Authority to the Comptroller and Auditor-General.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.3">
+            <num>(3)</num>
+            <content>
+              <p>The Comptroller and Auditor-General of India and any other person appointed by him in connection with the audit of the accounts of the Authority shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books of account, connected vouchers and other documents and papers and to inspect any of the offices of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.4">
+            <num>(4)</num>
+            <content>
+              <p>The accounts of the Authority as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Furnishing of returns, Annual Report, etc., to Central Government.—</heading>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall furnish to the Central Government at such time and in such form and manner as may be prescribed, or as the Central Government may direct to furnish such returns, statements and other particulars in regard to any proposed or existing programme for the promotion and development of the warehousing industry as the Central Government may, from time to time, require.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the provisions of sub-section (1), the Authority shall, within nine months after the close of each financial year, submit to the Central Government an Annual Report giving a true and full account of its activities including the activities for promotion and development of the warehousing business during the previous financial year.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.3">
+            <num>(3)</num>
+            <content>
+              <p>Copies of the reports received under sub-section (2) shall be laid, as soon as may be after they are received, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>Powers of central government</heading>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Powers of Central Government to issue directions.—</heading>
+          <subsection id="section-40.1">
+            <num>(1)</num>
+            <content>
+              <p>Without prejudice to the foregoing provisions of this Act, the Authority shall, in exercise of its powers and performance of its functions under this Act, be bound by such directions on questions of policy, other than those relating to technical and administrative matters, as the Central Government may give in writing to it from time to time:</p>
+              <p>Provided that the Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.2">
+            <num>(2)</num>
+            <content>
+              <p>The decision of the Central Government, whether a question is one of policy or not, shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Power of Central Government to supersede Authority.—</heading>
+          <subsection id="section-41.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-41.1.list1">
+                <listIntroduction>If, at any time, the Central Government is of the opinion—</listIntroduction>
+                <item id="section-41.1.list1.a">
+                  <num>(a)</num>
+                  <p>that, on account of circumstances beyond the control of the Authority, it is unable to discharge the functions or perform the duties imposed on it by or under the provisions of this Act; or</p>
+                </item>
+                <item id="section-41.1.list1.b">
+                  <num>(b)</num>
+                  <p>that the Authority has persistently defaulted in complying with any direction given by the Central Government under this Act or in the discharge of the functions or performance of the duties imposed on it by or under the provisions of this Act and as a result of such default the financial position of the Authority or the administration of the Authority has suffered; or</p>
+                </item>
+                <item id="section-41.1.list1.c">
+                  <num>(c)</num>
+                  <p>that circumstances exist which render it necessary in the public interest so to do, the Central Government may, by notification and for reasons to be specified therein, supersede the Authority for such period not exceeding six months, as may be specified in the notification and nominate a person to look after the functions of the Authority:</p>
+                </item>
+              </blockList>
+              <p>Provided that before issuing any such notification, the Central Government shall give a reasonable opportunity to the Authority to make representations against the proposed supersession and shall consider the representation, if any, of the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-41.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-41.2.list1">
+                <listIntroduction>Upon the publication of a notification under sub-section (1) superseding the authority,—</listIntroduction>
+                <item id="section-41.2.list1.a">
+                  <num>(a)</num>
+                  <p>the Chairperson and other members shall, as from the date of supersession, be deemed to have vacated their offices;</p>
+                </item>
+                <item id="section-41.2.list1.b">
+                  <num>(b)</num>
+                  <p>all the powers, functions and duties which may, by or under the provisions of this Act, be exercised or discharged by or on behalf of the Authority shall, until the Authority is reconstituted under sub-section (3), be exercised and discharged by the person nominated by the Central Government under clause (c) of sub-section (1);</p>
+                </item>
+                <item id="section-41.2.list1.c">
+                  <num>(c)</num>
+                  <p>all properties owned or controlled by the Authority shall, until the Authority is reconstituted under sub-section (3), vest in the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-41.3">
+            <num>(3)</num>
+            <content>
+              <p>On or before the expiration of the period of supersession specified in the notification issued under sub-section (1), the Central Government shall reconstitute the Authority by a fresh appointment of its Chairperson and other members and in such case any person who had vacated his office under clause (a) of sub-section (2) shall not be deemed to be disqualified for reappointment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-41.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government shall cause a copy of the notification issued under sub-section (1) and a full report of any action to be laid before each House of Parliament at the earliest.</p>
+            </content>
+          </subsection>
+          <subsection id="section-41.5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law or in any contract or memorandum or articles of association, on the removal of a person, from office under this section, that person shall not be entitled to claim any compensation for the loss or termination of office.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IX">
+        <num>IX</num>
+        <heading>Appeals</heading>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Appeals to Appellate Authority.—</heading>
+          <subsection id="section-42.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person aggrieved by an order of the Authority made under this Act, or any rules or the regulations made thereunder may prefer an appeal to such person or</p>
+              <p>authority appointed by the Central Government (hereafter referred to as the Appellate Authority) within sixty days from the date of such order:</p>
+              <p>Provided that an appeal may be admitted after the expiry of the said period of sixty days but not beyond a total period of ninety days if the appellant satisfies the Appellate Authority that he had sufficient cause for not preferring the appeal within the said period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.2">
+            <num>(2)</num>
+            <content>
+              <p>Every appeal made under this section shall be made in such form and manner and shall be accompanied by a copy of the order appealed against and by such fees as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.3">
+            <num>(3)</num>
+            <content>
+              <p>The procedure for disposing of an appeal shall be such as may be prescribed:</p>
+              <p>Provided that before disposing of an appeal, the appellant shall be given a reasonable opportunity of being heard.</p>
+            </content>
+          </subsection>
+          <subsection id="section-42.4">
+            <num>(4)</num>
+            <content>
+              <p>An appeal filed before the Appellate Authority shall be heard and disposed of as expeditiously as possible and endeavour shall be made to finally dispose of the appeal within a period of ninety days from the date of its filing.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-X">
+        <num>X</num>
+        <heading>Offences and penalties</heading>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Offences and penalties.—</heading>
+          <subsection id="section-43.1">
+            <num>(1)</num>
+            <content>
+              <p>Any warehouseman knowingly issuing a negotiable warehouse receipt without taking the actual physical delivery of the goods in his warehouse or a warehouseman or an agent or servant of the warehouseman who issues a warehouse receipt without reasonably satisfying himself that the goods for which such warehouse receipt is issued have actually been received or the number, weight or grade of the goods corresponds to the number, weight or grade specified in the warehouse receipt or the goods are under his actual control at the time of issuing such warehouse receipt, commits an offence and shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to four times the value of the goods or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.2">
+            <num>(2)</num>
+            <content>
+              <p>A warehouseman or an agent or servant of the warehouseman, who knowingly issues a duplicate negotiable warehouse receipt without substantially following the procedure for the issue of a duplicate warehouse receipt, commits an offence and shall be punishable for such offence with imprisonment for a term which may extend to three years, or with fine which may extend to one lakh rupees, or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.3">
+            <num>(3)</num>
+            <content>
+              <p>A warehouseman or an agent or servant of the warehouseman, who, knowingly that the negotiable warehouse receipt in respect of such goods is outstanding and is uncancelled, delivers the goods without obtaining possession of such negotiable warehouse receipt at or before the time of such delivery and thereby causes unlawful loss or gain to any person, commits an offence and shall be punishable for such an offence by imprisonment for a term which may extend to three years or with fine which may extend to one lakh rupees, or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.4">
+            <num>(4)</num>
+            <content>
+              <p>A warehouseman who fails, on surrender of a negotiable warehouse receipt by the depositor or endorsee and payment of all his lawful charges and cancellation of encumbrances endorsed on the receipt, within the declared shelf-life of the goods, as mentioned therein to deliver the goods represented by the receipt commits an offence and shall be punishable for such offence with imprisonment for a term which may extend to three years or with fine which may extend to three times the value of the goods or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.5">
+            <num>(5)</num>
+            <content>
+              <p>Any depositor, who declared as the value of the goods delivered by him for storage with a warehouseman an amount which he does not believe to be the proper value, commits an offence and shall be punishable for such an offence with fine which may extend to one lakh rupees.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Offences by companies.—</heading>
+          <subsection id="section-44.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Chapter is committed by a company, every person, who at the time the offence was committed, was in charge of the company or was responsible for making the deposit, as the case may be, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to punishment if he proves that the contravention took place without his knowledge or that he exercised all due diligence to prevent such contravention.</p>
+            </content>
+          </subsection>
+          <subsection id="section-44.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where any offence under this Chapter has been committed by a company and it is proved that such an offence has been committed with the consent or connivance of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <p>Explanation.—</p>
+              <blockList id="section-44.2.list3">
+                <listIntroduction>For the purposes of this section,—</listIntroduction>
+                <item id="section-44.2.list3.a">
+                  <num>(a)</num>
+                  <p>“company” means any body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-44.2.list3.b">
+                  <num>(b)</num>
+                  <p>“director”, in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Cognizance of offences by courts.—</heading>
+          <subsection id="section-45.1">
+            <num>(1)</num>
+            <content>
+              <p>No court shall take cognizance of any offence punishable under this Act, save on a complaint made by the Authority or by any officer authorised in writing in this behalf by the authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-45.2">
+            <num>(2)</num>
+            <content>
+              <p>No court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-XI">
+        <num>XI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Chairperson, members, officers and other employees of Authority to be public servants.—</heading>
+          <paragraph id="section-46.paragraph-0">
+            <content>
+              <p>The Chairperson, members, officers and other employees of Authority and Appellate Authority shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Protection of action taken in good faith.—</heading>
+          <paragraph id="section-47.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against the Central Government or any officer of the Central Government or any member, officer or other employee of the Authority for anything which is in good faith done or intended to be done under this Act or the rules or regulations made there under:</p>
+              <p>Provided that nothing in this Act shall exempt any person any suit or other proceedings which might, apart from this Act, be brought against him.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Delegation of powers.—</heading>
+          <paragraph id="section-48.paragraph-0">
+            <content>
+              <p>The Authority may, by general or special order in writing, delegate to the Chairperson or any other member or officer of the Authority subject to such conditions, if any, as may be specified in the order, such of its powers and functions (excluding the power to make regulations under section 51) under this Act as it may deem necessary.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Exemption from tax on wealth and income.—</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Wealth-tax Act, 1957 (27 of 1957), the Income-tax Act, 1961 (43 of 1961) or any other enactment for the time being in force relating to tax on wealth, income, profits or gains, the Authority shall not be liable to pay wealth-tax, income-tax or any other tax in respect of their wealth, income, profits or gains derived.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Power of Central Government to make rules.—</heading>
+          <subsection id="section-50.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-50.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-50.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-50.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form and manner in which an application for obtaining a certificate of registration for commencing or carrying on the business of warehousing issuing negotiable warehouse receipts may be made and the fees which shall accompany such application under sub-section (2) of section 4;</p>
+                </item>
+                <item id="section-50.2.list1.b">
+                  <num>(b)</num>
+                  <p>the form in which a certificate for registration of warehouses may be issued under sub-section (3) of section 4;</p>
+                </item>
+                <item id="section-50.2.list1.c">
+                  <num>(c)</num>
+                  <p>the financial, managerial and other eligibility criteria and competence which an applicant for registration of warehouses shall satisfy under sub-section (4) of section 4;</p>
+                </item>
+                <item id="section-50.2.list1.d">
+                  <num>(d)</num>
+                  <p>the qualification and other requirements which a person applying for functioning as an accreditation agency shall fulfill under sub-section (2) of section 5;</p>
+                </item>
+                <item id="section-50.2.list1.e">
+                  <num>(e)</num>
+                  <p>the form and manner in which an application for registration as an accreditation agency may be made and the fees which shall accompany such application under sub-section (3) of section 5;</p>
+                </item>
+                <item id="section-50.2.list1.f">
+                  <num>(f)</num>
+                  <p>the form of certificate of registration of accreditation agency under sub-section (4) of section 5;</p>
+                </item>
+                <item id="section-50.2.list1.g">
+                  <num>(g)</num>
+                  <p>the salary and allowances payable to, and the other terms and conditions of service of the Chairperson and other members under section 28;</p>
+                </item>
+                <item id="section-50.2.list1.h">
+                  <num>(h)</num>
+                  <p>such other powers that may be exercised by the Authority under clause (p) of sub-section (2) of section 35;</p>
+                </item>
+                <item id="section-50.2.list1.i">
+                  <num>(i)</num>
+                  <p>the form and manner of maintenance of annual statement of accounts to be maintained by the Authority under sub-section (1) of section 38;</p>
+                </item>
+                <item id="section-50.2.list1.j">
+                  <num>(j)</num>
+                  <p>the form and manner in which and the time within which returns and statements and particulars are to be furnished by the Authority to the Central Government under sub-section (1) of section 39;</p>
+                </item>
+                <item id="section-50.2.list1.k">
+                  <num>(k)</num>
+                  <p>the form and the manner in which an appeal may be made to the Appellate Authority and the fee which shall accompany such appeal under sub-section (2) of section 42;</p>
+                </item>
+                <item id="section-50.2.list1.l">
+                  <num>(l)</num>
+                  <p>the procedure to be followed by the Appellate Authority in disposing of an appeal under sub-section (3) of section 42;</p>
+                </item>
+                <item id="section-50.2.list1.m">
+                  <num>(m)</num>
+                  <p>any other matter which is required to be, or may be, prescribed, or in respect of which provision is to be or may be made by rules.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Power of Authority to make regulations.—</heading>
+          <subsection id="section-51.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, with the previous approval of the Central Government, and in consultation with the Warehousing Advisory Committee, by notification, make regulations consistent with this Act and the rules made thereunder to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-51.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-51.2.list1.a">
+                  <num>(a)</num>
+                  <p>the matters regulating the authorities of accreditation agencies under sub-section (2) of section 3;</p>
+                </item>
+                <item id="section-51.2.list1.b">
+                  <num>(b)</num>
+                  <p>the form and manner and the period for which a warehouseman shall keep the records and accounts of the warehousing business under sub-section (2) of section 8;</p>
+                </item>
+                <item id="section-51.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner of disposal of goods or any part thereof and the keeping of sale proceeds in an escrow account by the warehouseman under sub-section (7) of section 9;</p>
+                </item>
+                <item id="section-51.2.list1.d">
+                  <num>(d)</num>
+                  <p>the mode of sale under sub-section (10) of section 10;</p>
+                </item>
+                <item id="section-51.2.list1.e">
+                  <num>(e)</num>
+                  <p>the manner of issuance of duplicate warehouse receipt under the proviso to sub-section (2) of section 23;</p>
+                </item>
+                <item id="section-51.2.list1.f">
+                  <num>(f)</num>
+                  <p>the time and places of meetings of the Authority and the procedure to be followed at such meetings including the quorum necessary for the transaction of business under sub-section (1) of section 31;</p>
+                </item>
+                <item id="section-51.2.list1.g">
+                  <num>(g)</num>
+                  <p>the terms and conditions of service of officers and other employees of the Authority under sub-section (2) of section 33;</p>
+                </item>
+                <item id="section-51.2.list1.h">
+                  <num>(h)</num>
+                  <p>the registration and functioning of accreditation agencies, renewal, modification, withdrawal, suspension or cancellation of such registration and the code of conduct for officials of accreditation agencies for accreditation of the warehouses under clause (b) of sub-section (2) of section 35;</p>
+                </item>
+                <item id="section-51.2.list1.i">
+                  <num>(i)</num>
+                  <p>the standards for approval of certifying agencies for grading of goods under clause (f) of sub-section (2) of section 35;</p>
+                </item>
+                <item id="section-51.2.list1.j">
+                  <num>(j)</num>
+                  <p>the rate of fees and other charges to be levied for carrying out the provisions of this Act under clause (h) of sub-section (2) of section 35;</p>
+                </item>
+                <item id="section-51.2.list1.k">
+                  <num>(k)</num>
+                  <p>any other matter which is required to be, or may be, specified by regulations or in respect of which provision is to be or may be made by regulations.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Rules and regulations to be laid before Parliament.—</heading>
+          <paragraph id="section-52.paragraph-0">
+            <content>
+              <p>Every rule made by the Central Government and every regulation made by the Authority under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Act to have overriding effect.—</heading>
+          <paragraph id="section-53.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for time being in force or in any instrument having effect by virtue of any law other than this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-54.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary for removing the difficulty:</p>
+              <p>Provided that no such order shall be made under this section after the expiry of three years from the date of commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-54.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Amendment of Act 2 of 1899.—</heading>
+          <paragraph id="section-55.paragraph-0">
+            <content>
+              <p>After section 8B of the Stamp Act, 1899, the following section shall be inserted, namely:—</p>
+              <p>“8C. Negotiable warehouse receipts not liable to stamp duty.—</p>
+              <p>Notwithstanding anything contained in this Act, negotiable warehouse receipts shall not be liable to stamp duty.”</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

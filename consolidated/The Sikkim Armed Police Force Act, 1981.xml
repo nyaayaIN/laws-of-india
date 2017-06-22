@@ -1,0 +1,858 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-sik/act/1981/8/main"/>
+          <FRBRuri value="/in-sik/act/1981/8"/>
+          <FRBRalias value="The Sikkim Armed Police Force Act, 1981"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-sik/act/1981/8/eng@2017-02-02/main"/>
+          <FRBRuri value="/in-sik/act/1981/8/eng@2017-02-02"/>
+          <FRBRdate date="2017-02-02" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-sik/act/1981/8/eng@2017-02-02/main"/>
+          <FRBRuri value="/in-sik/act/1981/8/eng@2017-02-02"/>
+          <FRBRdate date="2017-01-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Sikkim Armed Police Force Act, 1981</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 08 OF 1981</docNumber>
+      </p>
+      <longTitle>
+        <p>AN ACT to provide for the constitution and regulation of the Sikkim Armed Police Force in the State of Sikkim.</p>
+        <p>Be it enacted by the Legislature of Sikkim in the Thirty-second Year of the Republic of India as follows:</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent, commencement, and application.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Sikkim Armed Police Force Act, 1981.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of Sikkim.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.4">
+          <num>(4)</num>
+          <content>
+            <p>It shall apply to the officers of the Force wherever they may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <blockList id="section-2.paragraph-0.list1.a.list0">
+                  <listIntroduction>“active duty” means</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.a.list0.i">
+                    <num>(i)</num>
+                    <p>the duty to restore, preserve order in any local area in the event of any disturbance therein, to prevent offences involving breach of peace or danger to life or property, and to search for and apprehend persons concerned in such offences, or who are so desperate and dangerous as to render their being at large hazardous to the community;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.a.list0.ii">
+                    <num>(ii)</num>
+                    <p>the duty to take all measures for extinguishing fires or to prevent damage to person or property on the occasion of such occurrences as fires, floods, earth-quakes, enemy action or riots and to restore peace and preserve order on such occasion;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.a.list0.iii">
+                    <num>(iii)</num>
+                    <p>such other duty as may, be specified to be active duty by the State Government or the Inspector- General of Police in a direction issued under section 12;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Commandant”, “Assistant Commandant”, “Adjutant”, “Company Commander” means a person appointed by the State Government to those offices under section 5;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“follower” means any person appointed to do the work of a cook, mess servant, washer man, cobbler, barber, tailor, sweeper or any other tradesman designated as such in connection with the Force;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“Force” means the Sikkim Armed Police Force constituted under section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“Inspector-General” means the Inspector-General of Police;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“members of the subordinate ranks” means members of the Force below the rank of Adjutant, Assistant Commandant or Company Commander;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“officer of the Force” means a member of the Force;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“police officers” means every police officer as defined in the Police Act, 1861;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>“prescribed” means prescribed by rule made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>“superior officer” in relation to any officer of the Force, means,-</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>an officer of the Force of a higher class than, or of a higher grade in the same class as such officer, or;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>an officer of the Force of same grade or class but senior to such officer;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>the words and expressions used herein and not defined, but defined in the Indian Penal Code 1860, the Code of Criminal Procedure 1898, and the Police Act, 1861 shall have the meanings respectively assigned to them in those enactments.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Constitution of the Force.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>In addition to the police force constituted under the Police Act, 1861, the State Government may constitute and maintain a force known as the Sikkim Armed Police Force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the provisions of this Act, the pay, pension and other conditions of service of members of the Force shall be such as may be prescribed:</p>
+            <p>Provided that nothing in this section shall apply to the pay, pension and other conditions of service of the members of the Indian Police Service who may be transferred to the Force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-3.3.list1">
+              <listIntroduction>The State Government or any officer empowered by the State Government in this behalf may</listIntroduction>
+              <item id="section-3.3.list1.a">
+                <num>(a)</num>
+                <p>divide the Force in groups;</p>
+              </item>
+              <item id="section-3.3.list1.b">
+                <num>(b)</num>
+                <p>sub-divide each group into battalions and each battalion into companies, and each company into platoon, and platoons into sections or smaller subunits;</p>
+              </item>
+              <item id="section-3.3.list1.c">
+                <num>(c)</num>
+                <p>post any group, battalion, company, platoon, section or smaller sub-unit at such places as the State Government or such officer may deem fit.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Superintendence, control and administration of Force.</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>The superintendence, control and administration of the Force shall, in accordance with the provisions of this Act and the rules made there under, vest in the Inspector-General or in such Deputy Inspector-General or Assistant Inspector-General of Police as the State Government may authorize in this behalf.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Appointment of Commandant, assistant Commandant and Adjutant.</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government, may appoint for each Battalion a Commandant who is a person eligible to hold the post of a Superintendent of Police and one or more Assistant Commandants, Adjutants and Company Commanders who, shall be persons eligible to hold the post of an Assistant or a Deputy Superintendent of Police.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>The Deputy Inspector-General of Police, the Assistant Inspector-General of Police, the Commandant, the Assistant Commandant, the Company Commander and the Adjutant may exercise such powers and authority as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Conferment of certain powers under the Act to the District Police Force.</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, empower a Police officer of the District police force of such rank to exercise such disciplinary powers under this Act over the officers of the Force working under his operational control and in such districts as may be specified in the notification:</p>
+            <p>Provided that such police officer shall be of the rank higher than the rank of the officer of the Force in charge of such Force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Appointment.</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Before any person appointed to be an officer of the force joins his appointment, a declaration in the form in Schedule I shall be read out, and if he so desires, explained to him in the presence of a Commandant or an Assistant Commandant, or an Adjutant or a Police officer not below the rank of an Assistant Superintendent or a Deputy Superintendent of Police and shall be signed by him, in token of having been so read out, and explained to him, and of his having undertaken to abide by the conditions prescribed therein. The declaration shall then be attested by such Commandant, Assistant Commandant, Adjutant or Police officer, as the case may be.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>No officer of the Force shall resign his appointment except in accordance with the terms of the declaration signed by him under sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Where any officer of the Force resigns in contravention of the provisions of this section, he shall, on the order of the Commandant, forfeit all arrears of pay due to him on the date of his resignation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>The forfeiture of arrears of pay under sub-section (3), shall be without prejudice to any other penalty, if any, that may be imposed upon such officer under the provisions of this Act or any other law for the time being in force.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Officer of the Force to have same powers, privileges and liabilities as police officer.</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sections 14 to 21, every officer of the Force shall, upon his appointment and so long as he continues to be an officer thereof, be deemed to be a police officer and, subject to any terms, conditions and restrictions as may be prescribed, have and be subject to, all the powers, privileges, liabilities, penalties, punishments and protection as a police officer duly enrolled under provisions of the Police Act, 1861, or any other law for the time being in force, or any rules or regulation made there under:</p>
+            <p>Provided that the provisions of the Police Act, or any other law or rules or regulations made there under are not inconsistent with the provisions of this Act or any rules made there under.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government may designate the ranks of officers of the Force which shall be deemed to be equivalent to various ranks of the police officers for the purposes of this section, and also generally for the purposes of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Transfer.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in this Act or Police Act, 1861, it shall be competent for the State Government or the Inspector-General, if so authorised by the State Government in this behalf, to transfer officer of the police force appointed under the Police Act, 1861, to the Force and vice-versa.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>On the transfer of an officer of the police force appointed under the Police Act, 1861, to the Force or vice-versa, he shall be deemed to be an officer of the Force or the police force, as the case may be, to which he is transferred and in the performance of his functions, he shall, subject to such order as the State Government may make, be deemed to be vested with such powers and privileges, and be subject to the liabilities, of an officer of the grade in the Force or the police force, as the case may be, to which he has been transferred, as may be specified in the order.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Certificate of appointment to certain officers of Force, and when such certificate to be surrendered.</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>Every officer of the Force below such rank as may be specified by the State Government shall, on appointment, receive a certificate of appointment in the form in Schedule II.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>Every person who for any reason, ceases to be an officer of the Force, shall forthwith deliver his certificate of appointment and the arms, accoutrements, clothing and other necessaries which have been furnished to him for the execution of his office, to an officer empowered by the Commandant to receive the same.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>General powers of Commandant.</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>The Commandant shall, subject to the orders of the Inspector-General, direct and regulate all matters of, arms, drill exercise, discipline, mutual relation, distribution of duties, and, all the matters of executive detail in the fulfillment of their duties by the' officers of the Force and members of the subordinate ranks under his charge.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>General duties of Force.</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>Every officer of the Force shall for the purpose of this Act be deemed to be always on duty and any officer of the Force and any number or body of the officers of the, Force may, if the State Government or the Inspector-General so directs, be employed on active duty for so long as and wherever the service of the same may be required whether in Sikkim or outside.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>Every direction issued under sub-section (1) shall specify that the duty on which any officer of the Force or any number or body of such officers is directed to be employed shall be deemed as active duty for the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.3">
+          <num>(3)</num>
+          <content>
+            <p>Every direction issued under sub-section (1) shall be final and binding on every officer of the Force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.4">
+          <num>(4)</num>
+          <content>
+            <p>An officer of the Force employed on active duty under sub-section (1), or when a number or body of, the officers of the Force are so employed, the officer-in-charge of such number or body, shall be responsible for the efficient performance of their duty and all police officers who but for the employment of one or more officers of the Force or body of officers of the Force would be responsible for performance of that duty, shall, to the best of their ability, assist and co-operate with the said officer of the Force or officer in-charge of a number or body of officers of the Force.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Officer of the Force be deemed to be in charge of police station and circumstances under which officer of force entitled to use force.</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>When employed on active duty at any place under sub-section (1), of section 12, the senior officer of highest rank not below that of a Head Constable present shall be deemed to be an officer-in-charge of a police station for the purposes, of Chapter IX of the Code of Criminal Procedure, 1898.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sections 100 and 103 of Indian Penal Code, 1860, an officer of the Force employed as aforesaid may, when there is reasonable apprehension of assault on himself or any officer of the Force or of damage or harm to any property or person which or whom it is his duty to protect, use such force against the wrongdoer or assailant as may be reasonably necessary, even though the use of such force may involve risk of death of the wrong-doer or the assailant or any other person assisting such wrong-doer or assailant.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Punishment for resignation contrary to provisions of section 7.</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>If any officer of the Force resigns his appointment in contravention of section 7 and in pursuance of such resignation remains absent from duty before it is accepted, he shall be punished with imprisonment for a term which may extend to one year or with fine which may extend to one thousand rupees, or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Punishment for refusal to deliver certificate of appointment etc.</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>Any officer of the Force who willfully neglects or refuses to deliver up his certificate of appointment or any other article in accordance with sub-section (2) of section 10 shall be punished with imprisonment for a term which may extend to three months or with fine which may extend to five hundred rupees, or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>More heinous offences.</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <blockList id="section-16.paragraph-0.list1">
+              <listIntroduction>Every officer of the Force who</listIntroduction>
+              <item id="section-16.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>begins, excites, causes or conspires to cause, or joins any mutiny, or, being present at any mutiny, does not use his utmost endeavors to suppress it, knowing or having reason to believe in the existence of any mutiny, or of any intention or conspiracy to mutiny or any conspiracy against the State, does not, without delay, give information thereof to his superior officer; or</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>uses, or attempts to use criminal force against or commits an assault on his superior officer whether on or off duty; or</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>shamefully abandons or delivers up any post, guard, buildings, fortification or property which is committed to his charge or which it is his duty to defend; or</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>in the presence of any person in arms against whom it is his duty to act, shamefully casts away his arms or his ammunition or intentionally uses words or any other means to induce any officer of the Force or any police officer to abstain from acting against any such person in arms or who is otherwise guilty of cowardice or misbehavior in the presence of any such person in arms; or</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>directly or indirectly holds correspondence with, or communicates intelligence to, or assists, or relieves any person in arms against the State Government or public security or any person to be arrested. or omits to disclose immediately to his superior officer present, any such correspondence or communications coming to his knowledge; or</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>directly or indirectly sells, gives away, or otherwise disposes of, or agrees to, or assists in, the sale, gift or disposal of any arms, ammunition or equipment to any person referred to in clause (e), or knowingly harbors or protects any such person; or</p>
+              </item>
+              <item id="section-16.paragraph-0.list1.g">
+                <num>(g)</num>
+                <blockList id="section-16.paragraph-0.list1.g.list0">
+                  <listIntroduction>while on active duty</listIntroduction>
+                  <item id="section-16.paragraph-0.list1.g.list0.i">
+                    <num>(i)</num>
+                    <p>disobeys the lawful command of his superior officer; or</p>
+                  </item>
+                  <item id="section-16.paragraph-0.list1.g.list0.ii">
+                    <num>(ii)</num>
+                    <p>deserts the Force or his post; or</p>
+                  </item>
+                  <item id="section-16.paragraph-0.list1.g.list0.iii">
+                    <num>(iii)</num>
+                    <p>being a sentry, or otherwise detailed to remain alert, sleeps at his post or quits it without being regularly relieved or without leave; or</p>
+                  </item>
+                  <item id="section-16.paragraph-0.list1.g.list0.iv">
+                    <num>(iv)</num>
+                    <p>without authority leaves his office for any purpose whatsoever; or</p>
+                  </item>
+                  <item id="section-16.paragraph-0.list1.g.list0.v">
+                    <num>(v)</num>
+                    <p>uses criminal force against or commits an assault on any person whom he has not any reason to believe to be in arms against the State and against whom it is his duty to act, or without authority breaks into any house or other place for plunder or any illegal purpose or wilfully and unnecessarily plunders, destroys or damages any property of any kind; or</p>
+                  </item>
+                  <item id="section-16.paragraph-0.list1.g.list0.vi">
+                    <num>(vi)</num>
+                    <p>intentionally causes or spreads a false alarm in camp, garrison or quarters;</p>
+                  </item>
+                  <item id="section-16.paragraph-0.list1.g.list0.vii">
+                    <num>(vii)</num>
+                    <p>commits extortion or without lawful authority extorts anything from any person’s carriage, potterage or provisions;</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <p>shall be punished with rigorous imprisonment for a term which may extend to six years and shall also be liable to fine.</p>
+            <p>Explanation.-</p>
+            <p>An officer of the Force shall be deemed to desert the Force if he leaves his place of duty or posting without the permission of his superior officer, and he shall be deemed to desert his post if he leaves any sentry, beat, point, building, vehicle, or other place at which or in which he is specifically ordered by his superior officer to perform the duty assigned to him.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Less heinous offences.</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <blockList id="section-17.paragraph-0.list1">
+              <listIntroduction>Every officer of the Force who</listIntroduction>
+              <item id="section-17.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>assaults or uses or attempts to use .criminal force against any sentry; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>being in command of a guard, piquet or patrol refuses to receive any prisoner or person lawfully made over to his charge or whether in such command or not, releases any prisoner or person without proper authority or negligently suffers any prisoner or person to escape; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>being in command of a guard, piquet or patrol permits any person belonging to such guard, piquet or patrol to engage, himself in gambling or other behavior prejudicial to good order and discipline; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>being under arrest or in confinement leaves the place of his arrest or confinement, before he is set at liberty by lawful authority; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>is grossly insubordinate or insolent to his superior officer in the execution of his office; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>maligns, feigns or produces disease or infirmity in, himself or intentionally delays his cure or aggravates, his disease or infirmity; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>maligns or disparages a superior officer or refers to, him in derogatory terms either orally or in writing; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>refuses to superintend or assist in the making or carrying out of any construction of any description ordered to be made either in quarters or in the field; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>assaults or otherwise ill-treats any officer of the Force with reference to whom he is a superior officer; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>designedly or through neglect damages or losses or fraudulently or without due authority disposes of his arms, clothes, tools, equipment, ammunition, accoutrements or other necessaries furnished to him for the execution of his officer or any such article entrusted to him or to any other person; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>with intent to render himself or any other person unfit far duty voluntarily causes hurt to himself or any other person; or</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.l">
+                <num>(l)</num>
+                <p>wilful1y or negligently ill-treats, injures or causes the death of any animal or damages, losses or takes away any animal or vehicle used in the public service.</p>
+              </item>
+            </blockList>
+            <p>shall be punishable with rigorous imprisonment for a term which may extend to six months or with fine, which may extend to five hundred Rupees or, with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Officer of Force in command to give information of offence under this Act.</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>An officer of the Force, who, being in command of any guard, piquet, party, patrol or detachment and knowing of the commission or of a design to commit any offence punishable, under section 16 or 17 by or on the part of any of the Force under his command, intentionally omits or without reasonable excuse (the burden of proving which shall lie on him) fails to give information of such commission’s design to his superior officer, shall be punished with rigorous imprisonment for a term which may extend to six months or with fine which may extend to five hundred rupees or, with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Place of imprisonment and liability to be dismissed on imprisonment.</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>Every person sentenced under this Act to imprisonment may be dismissed from the Force and his pay, allowances and any other money due to him, as well as any medals and decorations received by him shall further be liable to forfeiture.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>Every such person shall, if he is so dismissed, be imprisoned in such prison as the State Government may, by notification in the Official Gazette, specify in his behalf, but if he is not so dismissed from the Force, he may, if the Court so directs be confined in the quarter guard or such other place as the Court may consider suitable.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Penalty for causing disaffection etc.</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>Whoever intentionally causes or attempts to cause or does any act which he knows is likely to cause disaffection towards the Government established by law in India, amongst the officers of the Force, or induces or attempts to induce, or does any act which he knows is likely to induce any officer of the Force to withhold his services or to commit a breach of discipline, shall be punished with imprisonment which may extend to six months or with fine which may extend to two hundred rupees or both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing shall be deemed to be an offence under this section which is done in good faith for the purpose of promoting the welfare or interest of any officer of the Force by inducing him to withhold his services in any manner authorised by law.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Minor punishments.</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-21.1.list1">
+              <listIntroduction>A Commandant, or subject to the control of the Commandant, an Assistant Commandant or such other officers as may be prescribed, may award for good and sufficient reasons to any member of the subordinate ranks and below the rank of Head Constable who is subject to his authority, any of the following punishments for the commission of any offence against discipline which is not otherwise provided for in this Act or which in the opinion of the Commandant, Assistant Commandant or such other officer, as the case may be, is not of such serious nature as to call for prosecution before a criminal court, that is to say</listIntroduction>
+              <item id="section-21.1.list1.a">
+                <num>(a)</num>
+                <p>confinement in the quarter guard, or such other place as may be considered suitable, for a term which may extend to fifteen days when the order is passed by a Commandant, or to seven days when it is passed by any other officer. Such confinement shall involve the forfeiture of pay and allowance for the period of confinement if an order to this effect is passed by the officer awarding the punishment:</p>
+              </item>
+            </blockList>
+            <blockList id="section-21.1.list3">
+              <listIntroduction>Provided that no officer below the rank of Commandant shall pass orders toward forfeiture of pay and allowances;</listIntroduction>
+              <item id="section-21.1.list3.b">
+                <num>(b)</num>
+                <p>punishment drill, extra guard, fatigue or any other duty for a term which may extend, when the order is passed by the Commandant, to fifteen days and when the order is passed by</p>
+              </item>
+            </blockList>
+            <p>any other officer to seven days.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>Any of the punishments specified in sub-section (1) may be awarded separately or jointly with any one or more of the other punishments:</p>
+            <p>Provided always that confinement to the quarter guard shall not exceed, fifteen consecutive days.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <p>When a Commandant or an Assistant Commandant or other officer passes an order under sub-section (1), he shall enter in a book to be kept for the purpose, a brief description of the defaults together with the names of witnesses, explanation of the defaulter and the order of punishment and shall sign and date each such order.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Attempts.</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>Any officer of the Force who attempts to commit an offence punishable under this Act, or causes such an offence to be committed and in such attempt does any act towards the commission of the offence, may be punished with the punishment provided in this Act for such offence.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Abetment.</heading>
+        <paragraph id="section-23.paragraph-0">
+          <content>
+            <p>Any officer of the Force who abets an offence punishable under this Act may be punished with the punishment provided in this Act for such offence.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Cognizance of Offences.</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>No Court shall take cognizance of an offence under this Act except with the previous sanction or on the complaint of the Inspector-General or any other police officer (not below the rank of Commandant) authorised by him in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>No Court inferior to the Court of the Magistrate of the first class shall try any offence under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Saving of prosecutions under other laws.</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>Nothing in this Act shall prevent any person from being prosecuted under any other enactment, order or rule made under any other enactment, for any act or omission punishable thereunder or from being liable, if so prosecuted, to any other or higher penalty than is provided for in that Act or omission by this Act:</p>
+            <p>Provided that no person shall be punished twice for the same offence.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Protection for act of officer of Force.</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>In any suit or proceedings against any officer of the Force for any act done by him in pursuance of a warrant or order of a superior officer, it shall be lawful for him to plead that such act was done by him under the authority of such warrant or order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>Any such plea may be proved by the production of the warrant or order directing the act, and if it is so proved, the officer of the Force shall thereupon be discharged from liability in respect of the act so done by him, notwithstanding any defect in the jurisdiction of the authority, which issued such warrant or order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in any other law, for the time being in force, any legal proceeding, whether civil or criminal, which may, lawfully be brought against any officer of the Force for anything done, or intended to be dope, under, the powers conferred by or in pursuance of, any provision of this Act, or the rules made thereunder, shall be commence within two months after the act complained of was committed and not otherwise, and notice in writing of such proceedings and of the cause thereof, shall be given to the defendant or his, superior officer at, least one month before, the commencement of such, proceedings</p>
+            <p>Provided that such proceedings may, with the sanction of the State Government, be commenced at any time after the act complained of was committed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Power to make rules.</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, make rules consistent with this Act for carrying, out the, purpose of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing provisions such rules may provide for all or any of the following matters, namely</listIntroduction>
+              <item id="section-27.2.list1.a">
+                <num>(a)</num>
+                <p>the constitution, and administration of the Force;</p>
+              </item>
+              <item id="section-27.2.list1.b">
+                <num>(b)</num>
+                <p>the number, classes and grades of, the Force;</p>
+              </item>
+              <item id="section-27.2.list1.c">
+                <num>(c)</num>
+                <p>recruitment, organization, classification and discipline of members of the subordinate ranks;</p>
+              </item>
+              <item id="section-27.2.list1.d">
+                <num>(d)</num>
+                <p>Inspection of the Force;</p>
+              </item>
+              <item id="section-27.2.list1.e">
+                <num>(e)</num>
+                <p>powers to be exercised by the Deputy Inspector-General, Assistant Inspector-General, Company Commander and Adjutant under the Act;</p>
+              </item>
+              <item id="section-27.2.list1.f">
+                <num>(f)</num>
+                <p>description and quantity of arms, accoutrements, clothing and other necessaries to be furnished to the officers of the Force;</p>
+              </item>
+              <item id="section-27.2.list1.g">
+                <num>(g)</num>
+                <p>pay, pension and other conditions of service of the members of the Force;</p>
+              </item>
+              <item id="section-27.2.list1.h">
+                <num>(h)</num>
+                <p>officers who may award minor punishments under section 21;</p>
+              </item>
+              <item id="section-27.2.list1.i">
+                <num>(i)</num>
+                <p>any other matter which is to be or may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Removal of Difficulties.</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the State Government may, by order, do anything not inconsistent with the provisions of this Act which appears to it to be necessary or expedient for the purpose of removing the difficulty:</p>
+            <p>Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Provisions as to existing Sikkim Armed Police Force.</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>The Sikkim Armed Police Force in existence at the commencement of this Act, shall be deemed to be the Force constituted under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <p>Officers of the Sikkim Armed Police Force in existence at the commencement of this Act shall be deemed to have been appointed under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.3">
+          <num>(3)</num>
+          <content>
+            <p>Anything done or any action taken before the commencement of this Act in relation to the constitution of the Sikkim Armed Police Force referred to in sub-section (1), in relation to any person appointed thereto, shall be as valid and effective in law as if such thing or action was done or taken under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedulei">
+      <doc name="schedulei">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-sik/act/1981/8/schedules"/>
+              <FRBRuri value="/in-sik/act/1981/8"/>
+              <FRBRalias value="Schedule I"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-sik/act/1981/8/eng@2017-02-02/schedules"/>
+              <FRBRuri value="/in-sik/act/1981/8/eng@2017-02-02"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-sik/act/1981/8/eng@2017-02-02/schedules"/>
+              <FRBRuri value="/in-sik/act/1981/8/eng@2017-02-02"/>
+              <FRBRdate date="2017-01-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedulei">
+            <heading>(see section 7)</heading>
+            <paragraph id="schedulei.paragraph-0">
+              <content>
+                <p>Form of declaration to be signed before joining appointment in the Force.</p>
+                <p>I, (Name in full)…………………………………………designation in the case of a officer of an police force/address in the case of a direct recruit…………declare that</p>
+              </content>
+            </paragraph>
+            <subsection id="schedulei.1">
+              <num>(1)</num>
+              <content>
+                <p>I am willing to serve, wherever posted, in the Force.</p>
+              </content>
+            </subsection>
+            <subsection id="schedulei.2">
+              <num>(2)</num>
+              <content>
+                <p>I shall not be entitled to resign my appointment in the Force or to apply for a transfer to any other police force until I have completed the prescribed period of service in the Force; and</p>
+              </content>
+            </subsection>
+            <subsection id="schedulei.3">
+              <num>(3)</num>
+              <content>
+                <p>I shall not be entitled to resign my appointment or to apply for the transfer in the manner specified in (2) above even after the completion of the prescribed period of service, if on the relevant date I am on active duty or if my resignation or transfer as the case may be, would cause the vacancies in my Group to exceed such percentage of the sanctioned strength of the Group as may for the time being have been prescribed by the State Government.</p>
+              </content>
+            </subsection>
+            <subsection id="schedulei.4">
+              <num>(4)</num>
+              <content>
+                <p>In the event of my resignation from the appointment, I shall not remain absent from duty till the date with effect from which the resignation is accepted.</p>
+                <p>Signature in token of the above</p>
+                <p>declaration having been read out</p>
+                <p>and explained to the declarant and</p>
+                <p>on his having understood and accepted it.</p>
+                <p>Signed in my presence after I had satisfied myself that (name in full)………….</p>
+                <p>Designation in the case of a officer of a police force/full address in the case of a direct recruit……and accepted the declaration and signed it in my presence.</p>
+                <p>Signature</p>
+                <p>Designation of the officer before</p>
+                <p>whom the declaration is signed.</p>
+                <p>Commandant/Assistant Commandant.</p>
+                <p>Adjutant or police officer.</p>
+                <p>Date:………………</p>
+                <p>Place:………………</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+    <component id="component-scheduleii">
+      <doc name="scheduleii">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-sik/act/1981/8/scheduleii"/>
+              <FRBRuri value="/in-sik/act/1981/8"/>
+              <FRBRalias value="Schedule II"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-sik/act/1981/8/eng@2017-02-02/scheduleii"/>
+              <FRBRuri value="/in-sik/act/1981/8/eng@2017-02-02"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-sik/act/1981/8/eng@2017-02-02/scheduleii"/>
+              <FRBRuri value="/in-sik/act/1981/8/eng@2017-02-02"/>
+              <FRBRdate date="2017-01-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="scheduleii">
+            <heading>(See section 10)</heading>
+            <paragraph id="scheduleii.paragraph-0">
+              <content>
+                <p>Form of Certificate</p>
+                <p>SEAL</p>
+                <p>A.B……has been appointed to the Force in the State of Sikkim and is vested with the powers, functions and privileges of an officer of the Force under the Sikkim Armed Police Force Act, 1981.</p>
+                <p>Signature</p>
+                <p>Appointing Authority.</p>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

@@ -1,0 +1,810 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/2015/31/main"/>
+          <FRBRuri value="/in-mah/act/2015/31"/>
+          <FRBRalias value="The Maharashtra Right to Public Services Act, 2015"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/2015/31/eng@2017-02-09/main"/>
+          <FRBRuri value="/in-mah/act/2015/31/eng@2017-02-09"/>
+          <FRBRdate date="2017-02-09" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/2015/31/eng@2017-02-09/main"/>
+          <FRBRuri value="/in-mah/act/2015/31/eng@2017-02-09"/>
+          <FRBRdate date="2017-02-09" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Maharashtra Right To Public Services Act, 2015</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[21st August, 2015]</docDate>
+      </p>
+      <longTitle>
+        <p>[Mah. Act No. XXXI of 2015]</p>
+        <p>An Act to provide for delivery of transparent, efficient and timely public services to the eligible persons in the State of Maharashtra and for matters connected therewith or incidental thereto.</p>
+        <p>WHEREAS both Houses of the State Legislature were not in session;</p>
+        <p>AND WHEREAS the Governor of Maharashtra was satisfied that circumstances existed which rendered it necessary for him to take immediate action to make a comprehensive law to provide for delivery of transparent, efficient and timely public services to the eligible persons in the State of Maharashtra and to bring transparency and accountability in the Departments and agencies of the Government and other Public Authorities which provide public services to the eligible persons and for matters connected therewith or incidental thereto ; and, therefore, promulgated the Maharashtra Right to Public Services Ordinance, 2015 on the 28th April 2015;</p>
+        <p>AND WHEREAS it is expedient to replace the said Ordinance by an Act of the State Legislature; it is hereby enacted in the Sixty-sixth Year of the Republic of India as follows:—</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent, commencement and application.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Maharashtra Right to Public Services Act, 2015.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of the State of Maharashtra.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall be deemed to have come into force on the 28th April 2015.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.4">
+          <num>(4)</num>
+          <content>
+            <p>It shall apply to such Public Authorities which provide public services to the eligible persons as per the provisions of any laws, rules, notifications, orders, Government Resolutions or any other instruments.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“Chief Commissioner” or “Commissioner” means the State Chief Commissioner for Right to Service or the State Commissioner for Right to Service, as the case may be, appointed under sub-section (2) of section 13;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Commission” means the Maharashtra State Commission for Right to Service constituted under sub-section (1) of section 13;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“Competent Authority” means the Disciplinary Authority or the Controlling Officer, as the case may be;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“Department” means a Department of the State Government or of a Public Authority, as the case may be;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“Designated Officer” means an officer who is required to provide public services to the eligible person;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“Divisional Commissioner” means the Commissioner appointed by the State Government under section 6 of the Maharashtra Land Revenue Code, 1966;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“eligible person” means a person who is eligible for obtaining a public service and also includes a legal person;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“First Appellate Authority” means an officer appointed by the concerned Public Authority under sub-section (1) of section 8;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>“Government” or “State Government” means the Government of Maharashtra;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>“local authority” means any authority, Municipal Corporation, Municipal Council, Nagar Panchayat, Industrial Township, Planning Authority, Zilla Parishad, Panchayat Samiti and Village Panchayat and other local self-Governments constituted by law; and also includes Development Authorities or other statutory or non-statutory bodies;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>“prescribed” means prescribed by the rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.l">
+                <num>(l)</num>
+                <p>“Public Authority” means,—</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>any Department or authorities of the Government;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <blockList id="section-2.paragraph-0.list1.b.list0">
+                  <listIntroduction>any organisation or authority or body or corporation or institution or a local authority, established or constituted,—</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>by or under the Constitution of India, in the State;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>by any other law made by the State Legislature;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>by notification issued by the Government;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <blockList id="section-2.paragraph-0.list1.c.list1">
+                  <listIntroduction>and includes,—</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.c.list1.i">
+                    <num>(i)</num>
+                    <p>an institution, a co-operative society, a Government Company or an authority owned, controlled or financed by the State Government; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.c.list1.ii">
+                    <num>(ii)</num>
+                    <p>any non-Governmental organization receiving financial assistance from the State Government;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.m">
+                <num>(m)</num>
+                <p>“public services” means such services as may be notified by the Public Authority under section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.n">
+                <num>(n)</num>
+                <p>“right to service” means right of an eligible person to obtain the public services within the stipulated time limit as notified by the Public Authority, from time to time;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.o">
+                <num>(o)</num>
+                <p>“Second Appellate Authority” means an officer appointed by the concerned Public Authority under sub-section (2) of section 8;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.p">
+                <num>(p)</num>
+                <p>“stipulated time limit” means the time limit as notified under section 3 within which the public service is to be provided by the Designated Officer to any eligible person.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Public services, Designated Officers, Appellate Authorities and stipulated time limit be notified.—</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The Public Authority shall, within a period of three months from the date of commencement of this Act, and thereafter from time to time, notify the public services rendered by it along with Designated Officers, First and Second Appellate Authorities and stipulated time limit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The Public Authority shall display or cause to be displayed on the notice board of the office and also on its website or portal, if any, the list of the public services rendered by it along with the details of the stipulated time limit, form or fee, if any, Designated Officers, First Appellate Authorities and Second Appellate Authorities.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Right to obtain public services within stipulated time limit.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the legal, technical and financial feasibility, every eligible person shall have a right to obtain public services in the State in accordance with this Act, within the stipulated time limit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the legal, technical and financial feasibility, every Designated Officer of the Public Authority shall provide the public services to the eligible person, within the stipulated time limit:</p>
+            <p>Provided that, the stipulated time limit may be extended by the State Government during the period of election as well as in natural calamities to such extent, as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Providing public services within stipulated time limit.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>An application for obtaining public services may be made by any eligible person to the Designated Officer. The receipt of an application shall be duly acknowledged and the applicant shall be intimated in writing or through electronic means, specifying date and place of receipt of application, unique application number along with stipulated time limit for the disposal of such application. The stipulated time shall be counted from the date when the requisite application, complete in all respects, for obtaining the public service is received by the Designated Officer or a person who is duly authorised to receive the application.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>The Designated Officer shall, on receipt of an application under subsection (1), either directly provide or sanction the public service within the stipulated time limit or reject the application after recording the reasons in writing for such rejection. The Designated Officer shall also communicate in writing to the applicant about the period within which an appeal may be made against his order and the name, designation and official address of the First Appellate Authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Monitoring status of application.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Every eligible person having applied for any public services shall be provided with unique application number by the concerned Public Authority so that he can monitor status of his application online, where such system is in operation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Every Public Authority shall be duty bound to update the status of all applications regarding public services online, where such system is in operation.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Use of Information Technology for delivery of public services.—</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <p>The Government shall encourage and aspire all the Public Authorities to utilise Information Technology to deliver their respective public services within the stipulated time limit.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Appointment of Appellate Authorities.—</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The Public Authority shall appoint an officer not below the rank of Group “B” or its equivalent rank, who is superior in rank to the Designated Officer, to act as First Appellate Authority to hear and decide the appeal filed by an eligible person against rejection of his application or delay in providing public services, after following due procedure as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The Public Authority shall appoint an officer who is superior in rank to the First Appellate Authority, to act as Second Appellate Authority to hear and decide the appeal filed by an eligible person as well as by the Designated Officer against the order of the First Appellate Authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Appeal.—</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Any eligible person, whose application is rejected under subsection (2) of section 5 or who is not provided the public service within the stipulated time limit, may file an appeal before the First Appellate Authority within the period of thirty days from the date of receipt of, order of rejection of the application or, the expiry of the stipulated time limit:</p>
+            <p>Provided that, the First Appellate Authority may, in exceptional cases, admit the appeal even after the expiry of the period of thirty days, subject to the maximum period of ninety days, if it is satisfied that the Appellant was prevented by sufficient cause from filing the appeal in time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>The First Appellate Authority may direct the Designated Officer to provide the service to the eligible person within such period as he may specify in his order but which shall not ordinarily exceed the stipulated time limit, or he may reject the appeal within the period of thirty days from the date of filing of the appeal, after recording the reasons in writing for such rejection:</p>
+            <p>Provided that, before deciding the appeal, the First Appellate Authority shall give an opportunity of being heard to the Appellant as well as to the Designated Officer or any of his subordinate duly authorized for this purpose.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>A second appeal against the order of the First Appellate Authority shall lie to the Second Appellate Authority within the period of thirty days from the date on which the order of the First Appellate Authority is received or after forty-five days from the date of filing of the first appeal in case where the Appellant does not receive any order from the First Appellate Authority:</p>
+            <p>Provided that, the Second Appellate Authority may, in exceptional cases, admit the appeal even after the expiry of the period of thirty days or forty-five days, as the case may be, subject to the maximum period of ninety days, if it is satisfied that the Appellant was prevented by sufficient cause from filing the appeal in time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.4">
+          <num>(4)</num>
+          <content>
+            <p>The Second Appellate Authority may direct the Designated Officer to provide the service to the Appellant within such period as he may specify in his order or he may reject the appeal within the period of forty-five days from the date of filing of the appeal, after recording reasons in writing for such rejection:</p>
+            <p>Provided that, before issuing any order, the Second Appellate Authority shall give an opportunity of being heard to the Appellant as well as to the Designated Officer or any of his subordinate duly authorised for this purpose.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.5">
+          <num>(5)</num>
+          <content>
+            <blockList id="section-9.5.list1">
+              <listIntroduction>The First Appellate Authority and Second Appellate Authority while deciding an appeal under this section, shall have the same powers as are vested in civil court while trying a suit under the Code of Civil Procedure, 1908 in respect of the following matters, namely :—</listIntroduction>
+              <item id="section-9.5.list1.a">
+                <num>(a)</num>
+                <p>requiring the production and inspection of documents or records;</p>
+              </item>
+              <item id="section-9.5.list1.b">
+                <num>(b)</num>
+                <p>issuing summons for hearing ; and</p>
+              </item>
+              <item id="section-9.5.list1.c">
+                <num>(c)</num>
+                <p>any other matter which may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Penalty.—</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-10.1.list0">
+              <item id="section-10.1.list0.a">
+                <num>(a)</num>
+                <p>If the First Appellate Authority is of the opinion that the Designated Officer has failed to provide public service without sufficient and reasonable cause, then he shall impose a penalty which shall not be less than rupees five hundred, but which may extend to rupees five thousand, or of such amount as may be revised by the State Government, from time to time, by notification in the Official Gazette.</p>
+              </item>
+              <item id="section-10.1.list0.b">
+                <num>(b)</num>
+                <p>If the Second Appellate Authority is also of the opinion that the Designated Officer has made default in providing the public service within the stipulated time limit without sufficient and reasonable cause, he may confirm or vary the penalty imposed by the First Appellate Authority, after recording reasons in writing:</p>
+              </item>
+            </blockList>
+            <p>Provided that, the Designated Officer shall be given a reasonable opportunity of being heard before any penalty is imposed on him by the First Appellate Authority or Second Appellate Authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>If the Chief Commissioner or the Commissioner is of the opinion that the First Appellate Authority had repeatedly failed to decide the appeal within the specified time without any sufficient and reasonable cause, or unduly tried to protect the erring Designated Officer, then he shall impose a penalty on the First Appellate Authority which shall not be less than rupees five hundred, but which may extend to rupees five thousand, or of such amount as may be revised by the State Government, from time to time, by notification in the Official Gazette:</p>
+            <p>Provided that, the First Appellate Authority shall be given a reasonable opportunity of being heard before any penalty is imposed on him.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Procedures for recovery of penalty.—</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>The Appellate Authority concerned or the Commission shall communicate to the Designated Officer or the First Appellate Authority, as well as to the Public Authority about the amount of penalty imposed in writing. The Designated Officer or the First Appellate Authority, as the case may be, shall pay the amount of penalty within a period of thirty days from the date of receipt of such communication, failing which the Competent Authority shall recover the amount of penalty from the salary of the concerned Designated Officer or the First Appellate Authority, as the case may be.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Procedure for fixing responsibility on Designated Officer for repeated failures.—</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>The Competent Authority, after receiving an intimation from the Second Appellate Authority about the repeated failures committed by the concerned Designated Officer to provide public services or repeated delays in providing public services as well as repeated failure to comply with the direction of the Appellate Authorities, shall issue a show cause notice to the Designated Officer within a period of fifteen days, why a disciplinary action should not be initiated against him. The Competent Authority shall initiate appropriate disciplinary proceedings against the Designated Officer under the Conduct and Discipline Rules as applicable.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>The Designated Officer against whom such notice is issued may represent to the Competent Authority concerned, within a period of fifteen days from the date of receipt of such notice. In case no such representation is received by the Competent Authority within the specified period or explanation received is not found satisfactory, the Competent Authority shall proceed with the departmental inquiry as laid down in the Conduct and Disciplinary Rules of the Public Authority:</p>
+            <p>Provided that, if the Competent Authority finds reasonable and justified grounds in favour of the Designated Officer and comes to the conclusion that the delay in delivery of services to the eligible person was not attributable to him, but was attributable to some other Designated Officer, it shall be lawful for the Competent Authority to withdraw the notice against him.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.3">
+          <num>(3)</num>
+          <content>
+            <p>While fixing the responsibility on such Designated Officer under this Act, the Competent Authority shall follow the principles of natural justice before passing the order in that respect and give reasonable opportunity of being heard to the Designated Officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Constitution of Maharashtra State Right to Service Commission.—</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall, by notification in the Official Gazette, constitute for the purposes of this Act, a Commission to be called as “the Maharashtra State Commission for Right to Service”:</p>
+            <p>Provided that, till the time the Commission is constituted by the State Government, the Government may, by notification in the Official Gazette, entrust the powers and functions of the Commission to the Divisional Commissioners in each Revenue Division or any other Government Officer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-13.2.list1">
+              <listIntroduction>The Maharashtra State Right to Service Commission shall consists of,—</listIntroduction>
+              <item id="section-13.2.list1.a">
+                <num>(a)</num>
+                <p>the State Chief Commissioner for Right to Service having jurisdiction for Mumbai City District and Mumbai Suburban District; and</p>
+              </item>
+              <item id="section-13.2.list1.b">
+                <num>(b)</num>
+                <p>one State Commissioner for Right to Service having jurisdiction for each corresponding Revenue Division, excluding the area of Mumbai City District and Mumbai Suburban District.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-13.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-13.3.list1">
+              <listIntroduction>The Chief Commissioner and the Commissioners shall be appointed by the Governor on the recommendation of a Committee consisting of,—</listIntroduction>
+              <item id="section-13.3.list1.i">
+                <num>(i)</num>
+                <p>the Chief Minister, who shall be the Chairman of the Committee ;</p>
+              </item>
+              <item id="section-13.3.list1.ii">
+                <num>(ii)</num>
+                <p>the Leader of Opposition in the Legislative Assembly; and</p>
+              </item>
+              <item id="section-13.3.list1.iii">
+                <num>(iii)</num>
+                <p>a Cabinet Minister to be nominated by the Chief Minister.</p>
+              </item>
+            </blockList>
+            <p>Explanation.— For the purposes of removal of doubts, it is hereby declared that where the Leader of Opposition in the Legislative Assembly has not been recognised as such, the Leader of the single largest group in opposition in the Legislative Assembly shall be deemed to be the Leader of Opposition.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.4">
+          <num>(4)</num>
+          <content>
+            <p>The general superintendence, direction and management of the affairs of the Commission shall vest in the Chief Commissioner who shall be assisted by the Commissioners and he may exercise all such powers and do all such acts which may be exercised or done by the Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.5">
+          <num>(5)</num>
+          <content>
+            <p>The Chief Commissioner and the Commissioners shall be persons of eminence in public life with wide knowledge and experience in administration in Government or Public Authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.6">
+          <num>(6)</num>
+          <content>
+            <p>The Chief Commissioner or a Commissioner shall not be a Member of Parliament or Member of the Legislature of any State or hold any other office of profit or connected with any political party or carrying on any business or profession.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.7">
+          <num>(7)</num>
+          <content>
+            <p>The headquarters of the Commission shall be at Mumbai and the offices of the Commissioners shall be at every Revenue Division.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Term of office and conditions of service.—</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>The Chief Commissioner and the Commissioners shall hold office for a term of five years from the date on which they enter upon the respective offices, or until they attain the age of sixty-five years, whichever is earlier, and shall not be entitled for re-appointment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>The Chief Commissioner or a Commissioner shall, before he enters upon his office, make and subscribe before the Governor or some other person appointed by him in that behalf, an oath or affirmation according to the prescribed Form.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.3">
+          <num>(3)</num>
+          <content>
+            <p>The Chief Commissioner or a Commissioner may, at any time, by writing under his hand addressed to the Governor, resign from his office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.4">
+          <num>(4)</num>
+          <content>
+            <p>The salaries and allowances payable to and other terms and conditions of service of the Chief Commissioner and the Commissioners shall be the same as those of State Chief Information Commissioner and the Chief Secretary to the State Government, respectively. No pensionary benefits or other post retirement benefits shall accrue from the posts of Chief Commissioner or Commissioner, as the case may be:</p>
+            <p>Provided that, if the Chief Commissioner or a Commissioner, at the time of his appointment is in receipt of a pension, other than a disability or wound pension, in respect of any previous service under the Government of India or under the State Government, his salary in respect of the service as the Chief Commissioner or a Commissioner shall be reduced by the amount of that pension including any portion of pension which was commuted and pension  equivalent of other forms of retirement benefits excluding pension equivalent of retirement gratuity:</p>
+            <p>Provided further that, where the Chief Commissioner or a Commissioner if, at the time of his appointment, is in receipt of retirement benefits in respect of any previous service rendered in Government or Corporation established by or under any Central Act or State Act or a Government Company owned or controlled by the Central Government or the State Government, his salary in respect of the service as the Chief Commissioner or the Commissioner shall be reduced by the amount of pension equivalent to the retirement benefits:</p>
+            <p>Provided also that, the salaries, allowances and other conditions of service of the Chief Commissioner and the Commissioners shall not be varied to their disadvantage after their appointments.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.5">
+          <num>(5)</num>
+          <content>
+            <p>The Government shall provide the Chief Commissioner and the Commissioners with such officers and employees as may be necessary for the efficient performance of their functions under this Act, and the salaries and allowances payable to and the terms and conditions of service of the officers and other employees appointed for the purposes of this Act shall be such as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Removal of Chief Commissioner or Commissioners.—</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-15.1.list1">
+              <listIntroduction>Notwithstanding anything contained in this Act, the Governor may, by order remove from office of the Chief Commissioner or any Commissioner, if the Chief Commissioner or a Commissioner, as the case may be,—</listIntroduction>
+              <item id="section-15.1.list1.a">
+                <num>(a)</num>
+                <p>is adjudged an insolvent; or</p>
+              </item>
+              <item id="section-15.1.list1.b">
+                <num>(b)</num>
+                <p>has been convicted of an offence which, in the opinion of the Governor, involves moral turpitude; or</p>
+              </item>
+              <item id="section-15.1.list1.c">
+                <num>(c)</num>
+                <p>engages during his term of office in any paid employment outside the duties of his office; or</p>
+              </item>
+              <item id="section-15.1.list1.d">
+                <num>(d)</num>
+                <p>is, in the opinion of the Governor, unfit to continue in office by reason of infirmity of mind or body; or</p>
+              </item>
+              <item id="section-15.1.list1.e">
+                <num>(e)</num>
+                <p>has acquired such financial or other interest as is likely to affect prejudicially his functions as the Chief Commissioner or a Commissioner.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Chief Commissioner or any Commissioner, shall not be removed from his office, unless a reference is made by the State Government to the Chief Justice of High Court of Judicature at Bombay seeking an enquiry and recommendation on the proposed removal of the Chief Commissioner or the Commissioner along with the grounds for the removal and material supporting such proposal.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Powers and functions of Commission.—</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-16.1.list1">
+              <listIntroduction>It shall be the duty of the Commission to ensure proper implementation of this Act and to make suggestions to the State Government for ensuring better delivery of public services. For this purpose, the Commission may,—</listIntroduction>
+              <item id="section-16.1.list1.a">
+                <num>(a)</num>
+                <p>take suo motu notice of failure to deliver public services in accordance with this Act and refer such cases for disposal as it may deem appropriate;</p>
+              </item>
+              <item id="section-16.1.list1.b">
+                <num>(b)</num>
+                <p>carry out inspections of offices entrusted with the delivery of public services and the offices of the First Appellate Authority and the Second Appellate Authority;</p>
+              </item>
+              <item id="section-16.1.list1.c">
+                <num>(c)</num>
+                <p>recommend Departmental inquiry against any Designated Officer or Appellate Authorities who have failed in due discharge of functions cast on them under this Act ;</p>
+              </item>
+              <item id="section-16.1.list1.d">
+                <num>(d)</num>
+                <p>recommend changes in procedures for delivery of public services which will make the delivery more transparent and easier :</p>
+              </item>
+            </blockList>
+            <blockList id="section-16.1.list3">
+              <listIntroduction>Provided that, before making such a recommendation, the Commission shall consult the Administrative Secretary in-charge of the Department which is to deliver the public service;</listIntroduction>
+              <item id="section-16.1.list3.e">
+                <num>(e)</num>
+                <p>recommend steps to be taken by the Public Authorities for efficient delivery of public services;</p>
+              </item>
+              <item id="section-16.1.list3.f">
+                <num>(f)</num>
+                <p>monitor delivery of the public services by Public Authorities;</p>
+              </item>
+              <item id="section-16.1.list3.g">
+                <num>(g)</num>
+                <p>hear and decide the appeal filed before it as per section 18.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-16.2.list1">
+              <listIntroduction>The Commission shall, while inquiring into any matter under this section, have the same powers as are vested in a Civil Court while trying a suit under the Code of Civil Procedure, 1908, in respect of the following matters, namely :—</listIntroduction>
+              <item id="section-16.2.list1.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of persons, compelling them to give oral or written evidence on oath and producing documents or things;</p>
+              </item>
+              <item id="section-16.2.list1.b">
+                <num>(b)</num>
+                <p>requiring the discovery and inspection of documents;</p>
+              </item>
+              <item id="section-16.2.list1.c">
+                <num>(c)</num>
+                <p>receiving evidence on affidavits;</p>
+              </item>
+              <item id="section-16.2.list1.d">
+                <num>(d)</num>
+                <p>requisitioning any public records or copies thereof from any court or office;</p>
+              </item>
+              <item id="section-16.2.list1.e">
+                <num>(e)</num>
+                <p>issuing summons for examination of witnesses or documents; and</p>
+              </item>
+              <item id="section-16.2.list1.f">
+                <num>(f)</num>
+                <p>any other matter which may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Action by Government on recommendations of Commission.—</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>The State Government shall consider the recommendations made by the Commission under clauses (c), (d) and (e) of sub-section (1) of section 16 and sent information to the Commission of action taken within a period of thirty days or such time thereafter as may be decided in consultation with the Commission.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Appeal to Commission.—</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The eligible person or the Designated Officer being aggrieved by an order of Second Appellate Authority may file an appeal before the Commission within the period of sixty days from the date of receipt of such order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>The Chief Commissioner or the Commissioner, as the case may be, shall dispose of such appeal within a period of ninety days from the date of receipt of the appeal, after giving all the parties an opportunity of being heard. The Commission may impose the penalty on the Designated Officer or First Appellate Authority or vary or cancel the penalty imposed and may order to refund such penalty paid, if any.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Annual report.—</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>The Commission shall, after the end of each financial year, prepare a report on its working during the preceding year as well as on the evaluation of performance of delivery of public services by the Public Authorities and present the same to the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government shall lay the annual report presented by the Commission before each House of the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Developing culture to deliver public services within stipulated time limit.—</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>All Public Authorities may take time bound effective steps to reduce the demand from an eligible persons to submit various certificates, documents, affidavits, etc. for obtaining public services. The Public Authority shall make concerted efforts to obtain requisite information directly from other Departments or Public Authorities.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>The failure on the part of the Designated Officer to deliver public services within stipulated time limit shall not be counted towards misconduct as the purpose and the aim is to sensitize the Designated Officers towards the aspirations of the eligible persons and to use information technology and adopt e-governance culture to deliver the public services to the eligible persons within stipulated time limit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.3">
+          <num>(3)</num>
+          <content>
+            <p>On receipt of communication in writing from the Second Appellate Authority or the Chief Commissioner or the Commissioner, as the case may be, regarding repeated defaults on the part of the Designated Officer, the head of the Public Authority concerned shall be competent to take appropriate administrative action after recording a finding to that effect, but not before giving a show cause notice and an opportunity of being heard to the defaulting officer.</p>
+            <p>Explanation.—For the purpose of this sub-section, a Designated Officer shall be deemed to be a repeated defaulter, if he commits ten per cent defaults in total eligible cases he has received in a year.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.4">
+          <num>(4)</num>
+          <content>
+            <p>All the Designated Officers and Appellate Authorities shall undergo a periodic training to enhance and ensure time bound delivery of the public services. The State Government shall facilitate the training process for all concerned officers and it may be part of syllabus in foundation course of the officers or employees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.5">
+          <num>(5)</num>
+          <content>
+            <blockList id="section-20.5.list0">
+              <item id="section-20.5.list0.a">
+                <num>(a)</num>
+                <p>To encourage and enhance the efficiency of the Designated Officer, the head of the Public Authority may grant cash incentive of such amount as may be notified by the Government to a Designated Officer against whom no default is reported in a year and who is delivering public services within the stipulated time limit along with a Certificate of Appreciation and also take a corresponding entry in the service record of the concerned officer.</p>
+              </item>
+              <item id="section-20.5.list0.b">
+                <num>(b)</num>
+                <p>The State Government may give appropriate awards to felicitate the Public Authorities which perform best in achieving the purposes of this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Allocation of funds.—</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>The Government shall allocate adequate funds for implementation of the provisions of this Act and for training of the Designated Officers, Appellate Authorities and their staff.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Provisions to be supplemental to disciplinary rules.—</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>The provisions of sections 9, 12 and sub-section (3) of section 20 of this Act shall be supplemental to the disciplinary and financial rules and such other service rules and regulations as applicable to the employees of the Government or Public Authority concerned, as the case may be.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Action against eligible person for giving false or frivolous information, etc.—</heading>
+        <paragraph id="section-23.paragraph-0">
+          <content>
+            <p>If an eligible person deliberately gives false or frivolous information in the application or submits false documents along with the application and obtain the public services under this Act on the basis of such information or documents, in that case an action shall be taken against him under the relevant provisions of the penal law in force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Power of Government to issue directions.—</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>The State Government may issue to the Public Authority such general or special directions in writing for the purpose of effective implementation of this Act and the Public Authority shall be bound to follow and act upon such directions.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against any person for anything which is done or purported to have been done in good faith in pursuance of the provisions of this Act or the rules made thereunder.—</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Bar of Jurisdiction.—</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <p>No civil court, tribunal or other authorities shall have jurisdiction in respect of any matter which the Commission and the Appellate Authorities are empowered by or under this Act to determine.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Act to override other laws.—</heading>
+        <paragraph id="section-27.paragraph-0">
+          <content>
+            <p>In relation to the services notified under this Act and its implementation, the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any rules having effect by virtue of any law other than this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-28.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, subject to the condition of previous publication, by notification in the Official Gazette, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-28.2">
+          <num>(2)</num>
+          <content>
+            <p>Every rule made under this Act, shall be laid, as soon as may be, after it is made, before each House of the State Legislature, while it is in session for a total period of thirty days, which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in any rule or both Houses agree that the rule should not be made, and notify their decision to that effect in the Official Gazette, the rule shall, from the date of publication of a notification in the Official Gazette, of such decision have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done or omitted to be done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Power to remove difficulties.—</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the State Government may, as occasion arises, by an order published in the Official Gazette, do anything not inconsistent with the provisions of this Act, which appears to it to be necessary or expedient for the purpose of removing the difficulty:</p>
+            <p>Provided that, no such order shall be made after the expiry of a period of two years from the commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under sub-section (1) shall be laid, as soon as may be, after it is made, before each House of the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Repeal of Mah. Ord V of 2015 and saving.—</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>The Maharashtra Right to Public Services Ordinance 2015 is hereby repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding such repeal, anything done or any action taken (including any notification or order issued) under the said Ordinance shall be deemed to have been done, taken or issued, as the case may be, under the corresponding provisions of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,756 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1966/19/main"/>
+          <FRBRuri value="/in-kar/act/1966/19"/>
+          <FRBRalias value="The Karnataka Cattle Trespass Act, 1966"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1966/19/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/1966/19/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1966/19/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/1966/19/eng@1980-01-01"/>
+          <FRBRdate date="2017-03-14" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Cattle Trespass Act, 1966</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act No. 19 of 1966</p>
+        <p>An Act to provide for the impounding of cattle damaging land or other property and for matters connected therewith.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>WHEREAS it is expedient to provide for the impounding of cattle damaging land or other property and for matters connected therewith ;</p>
+      <p>BE it enacted by the Karnataka State Legislature in the Seventeenth Year of the Republic of India as follows :-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.-</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka Cattle Trespass Act, 1966.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Karnataka.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force at once in the areas in which any of the Acts repealed by section 31 is in force ; and shall come into force in such other area on such date as the State Government may, by notification, specify :</p>
+              <p>Provided that the State Government may, by notification, direct that it shall cease to be in force in any area from such date as may be specified in such notification, and thereupon section 6 of the Karnataka General Clauses Act, 1899 (Karnataka Act III of 1899) shall be applicable as if this Act had been repealed in such area from the said date by a Karnataka Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.-</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires ,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>"cattle" includes elephants, camels, buffaloes, horses, mares, geldings, ponies, colts, fillies, mules, asses, pigs, rams, ewes, sheep, lambs, goats and kids;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>"District Magistrate" means the Deputy Commissioner of the district exercising the powers of a District Magistrate;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"local authority" means a Municipal Corporation, Municipal Council, Notified Area Committee, Sanitary Board, Cantonment Board or Village or Town Panchayat for the time being invested by law with the control and administration of any matters within a specified local area;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>"local fund" means any fund under the control or management of a local authority;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>"notification" means a notification published in the official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>"officer of police" includes a police patel and a member of the village police ;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>"prescribed" means prescribed by rules made under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Pounds and pound-keepers</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment of pounds.-</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the general or special orders of the State Government, pounds shall be established at such places as the District Magistrate may, from time to time, direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The District Magistrate shall determine, by notification, for each pound established, the village or area or villages or areas which are entitled to use such pound.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Control of pounds and charge for feeding and watering cattle.-</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <p>The pounds established under section 3 shall be under the control of the District Magistrate who shall fix, from time to time, by notification, the rates of charge for feeding and watering the impounded cattle.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Appointment of pound-keepers.-</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The District Magistrate shall appoint any police patel of a village entitled under a notification under sub-section (2) of section 3, to use the pound, as the pound-keeper for such pound:</p>
+              <p>Provided that where it is deemed necessary the District Magistrate shall appoint a person other than such police patel as the pound-keeper of such pound.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The District Magistrate shall appoint such person as he deems fit as the pound-keeper for any pound established for any area or areas other than a village or villages.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>Every pound-keeper appointed under sub-section (1) shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Duties of pound-keepers.-</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Every pound-keeper shall keep such registers and furnish such returns as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-6.2.list1">
+                <listIntroduction>When cattle are brought to a pound, the pound-keeper shall enter in a register maintained for the purpose,-</listIntroduction>
+                <item id="section-6.2.list1.a">
+                  <num>(a)</num>
+                  <p>the number and description of the animals;</p>
+                </item>
+                <item id="section-6.2.list1.b">
+                  <num>(b)</num>
+                  <p>the day and the hour at which they were brought;</p>
+                </item>
+                <item id="section-6.2.list1.c">
+                  <num>(c)</num>
+                  <p>the name and residence of the person seizing or causing the seizure of the cattle; and</p>
+                </item>
+                <item id="section-6.2.list1.d">
+                  <num>(d)</num>
+                  <p>the name and residence of the owner, if known.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>The pound-keeper shall give the person seizing, or causing the seizure of, the cattle or his agent a copy of the entry made under sub-section (2).</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>The pound-keeper shall take charge of the cattle and provide them with sufficient food and water until they are disposed of in accordance with the provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Impounding cattle</heading>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Seizure of cattle damaging land.-</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person authorised by the State Government in this behalf, or any member of the watch and ward staff of a Village or Town panchayat, may seize or cause to be seized any cattle trespassing on any land in a village and doing damage to such land or to any crop or produce thereon.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-7.2.list0">
+                <item id="section-7.2.list0.i">
+                  <num>(i)</num>
+                  <p>The cultivator or occupier of any land, or</p>
+                </item>
+                <item id="section-7.2.list0.ii">
+                  <num>(ii)</num>
+                  <p>any person who has advanced money for the cultivation of the crop or produce of any land, or</p>
+                </item>
+                <item id="section-7.2.list0.iii">
+                  <num>(iii)</num>
+                  <p>the vendee or the mortgagee of the crop or produce of any land or of any part of such crop or produce,</p>
+                </item>
+              </blockList>
+              <p>may seize or cause to be seized any cattle trespassing on such land and doing damage thereto or to any crop or produce thereon.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>Cattle seized or caused to be seized under sub-section (1) or (2) shall be sent within twenty-four hours of the seizure to the pound established for the village or area in which the land is situated or such other pound as the District Magistrate may specify in this behalf.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Cattle damaging public roads, canals, embankments, etc.-</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>Whenever any cattle are found straying on or doing damage to public roads, parks, pleasure grounds, orchards, plantations, canals, drainage works, embankments, or the sides or slopes of such roads, parks, grounds, orchards, plantations, canals, drainage works and embankments and the like, persons in charge of such roads, parks, grounds, orchards, plantations, canals, drainage works, embankments and the like, or any officer of police, may seize or cause to be seized such cattle and shall send them or cause them to be sent within twenty-four hours of the seizure to the nearest pound.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Police to aid seizures.-</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>Whenever there is resistance or likelihood of resistance to a seizure under section 7 or 8 or the likelihood of the cattle seized being attempted to be rescued from persons making such seizure, the person seizing or causing the seizure of the cattle may require the aid of the police in preventing such resistance or rescue and any officer of police shall, when so required, render the aid necessary.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Fines for cattle impounded.-</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>For every cattle impounded under this Act, the pound-keeper shall levy a fine in accordance with the scale for the time being fixed by notification by the State Government in this behalf and the State Government may fix different scales for different areas of the State in which the pounds are located :</p>
+              <p>Provided that it shall be lawful for the State government to fix progressively increasing scales in respect of cattle belonging to or kept by the same person according to the number of cattle impounded at a time and the number of times such cattle are impounded.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>All fines levied under sub-section (1) shall be sent by the pound-keeper to the District Magistrate, in the manner prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>List of fines and Charges for feeding.-</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>A list containing the scale of fines fixed under section 10 in respect of the area in which a pound is located and of the rates of charges for feeding and watering cattle in such pound fixed under section 4 shall be displayed in a conspicuous place in or near such pound.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Delivery or sale of cattle</heading>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Procedure when owner claims the cattle and pays fines and charges.-</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>If the owner of the impounded cattle, or his agent, appears and claims the cattle, the pound-keeper shall deliver them to him on payment of the fines fixed and the charges payable in respect of such cattle.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The owner or his agent on taking back his cattle, shall sign in the register maintained by the pound-keeper, acknowledging the receipt of the cattle.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Security in respect of impounded cattle.-</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>In any local area to which the State Government may, by notification in the official Gazette, apply this section, every pound-keeper shall, before releasing any impounded cattle, require the owner of the impounded cattle or his agent to make, in the form to be prescribed by the State government, a declaration regarding the ownership of such cattle and to deposit by way of security such sum as the State Government may, by rules, prescribe. Different scales may be prescribed for different areas or different classes of cattle.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>If any cattle belonging to such owner are impounded within a period of six months from the date on which the security is deposited, and if the seizure is not adjudged illegal, the amount of deposit or a part thereof, as may be directed by the State Government by rules made in this behalf, shall stand forfeited to the State Government. If cattle are not impounded as aforesaid, the amount of security shall, on an application made by or on behalf of the depositor, be refunded to him on the expiry of that period.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>On every occasion on which the release of the cattle impounded under this Act is claimed, the owner of the cattle shall deposit a fresh security.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Removal of cattle to specified places.-</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>If in any local area to which the State Government may, by notification in the official Gazette, apply this section, the Tahsildar, is satisfied,-</listIntroduction>
+                <item id="section-14.1.list1.i">
+                  <num>(i)</num>
+                  <p>that the grazing land set apart for the use of cattle of one or more villages in the taluk, under his jurisdiction is insufficient for the cattle belonging to the permanent residents of such village or villages; or</p>
+                </item>
+                <item id="section-14.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>that the crops or grass standing on any agricultural land so set apart are likely to be damaged by cattle belonging to persons who are not residents of such villages and who own more than twenty heads of cattle,</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.1.list3">
+                <listIntroduction>he may,-</listIntroduction>
+                <item id="section-14.1.list3.a">
+                  <num>(a)</num>
+                  <p>in any case referred to in clause (i) direct any such resident owner, by special or general order, to remove or cause to be removed all or any dry or useless cattle belonging to him to such place or places within the State and within such period as may be specified in the order, and</p>
+                </item>
+                <item id="section-14.1.list3.b">
+                  <num>(b)</num>
+                  <p>in any case referred to in clause (ii) direct any such non-resident owner, by special or general order, to remove or cause to be removed all or any of his cattle to such place or places within the State and within such period as may be specified in the order.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>If the owner of the cattle fails to remove the cattle as directed under sub-section (1), the Tahsildar may direct a police officer not below the rank of a head constable to remove or cause to be removed such cattle to the place or places specified in the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>If the Tahsildar is satisfied that the order issued by him under sub-section (1) is contravened by any owner or keeper of cattle, he may impose a fine not exceeding one thousand rupees. Any fine so imposed may, on failure of such owner or keeper to pay the same within the specified time, be recovered by sale of all or any of the cattle ordered to be removed under sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Procedure if cattle be not claimed within seven days.-</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>If the cattle be not claimed within seven days from the date of their being impounded, the pound-keeper shall report the fact to the officer in charge of the nearest police station, or to such officer as the District Magistrate appoints in this behalf :</p>
+              <p>Provided that in the case of asses or sheep the claim shall be made within three days from the date of their impounding.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-15.2.list1">
+                <listIntroduction>On receipt of a report under sub-section (1), the officer concerned shall display in a conspicuous part of his office a notice stating,-</listIntroduction>
+                <item id="section-15.2.list1.a">
+                  <num>(a)</num>
+                  <p>the number and description of the cattle ;</p>
+                </item>
+                <item id="section-15.2.list1.b">
+                  <num>(b)</num>
+                  <p>the place where they were seized ;</p>
+                </item>
+                <item id="section-15.2.list1.c">
+                  <num>(c)</num>
+                  <p>the place where they were impounded ;</p>
+                </item>
+              </blockList>
+              <p>and shall cause proclamation of the same to be made by beat of drum in the village or area and at the market place near the place of seizure.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>If the cattle be not claimed within seven days, or within three days in the case of asses or sheep, from the date of notice under sub-section (2), they shall be sold by public auction by the said officer or an officer of his establishment deputed for that purpose at such place and time and subject to such conditions as the District Magistrate by general or special order from time to time directs :</p>
+              <p>Provided that if the bid of any person for any cattle at a public auction is, in the opinion of the officer authorised to sell them, not a fair price, he may reject the bid, and may dispose of the cattle in such manner as he thinks fit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Delivery to owner disputing legality of seizure but making deposit.-</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>If the owner of the impounded cattle or his agent appears before the pound-keeper and refuses to pay the fines and charges payable in respect of the cattle under sub-section (1) of section 12, on the ground that the seizure was illegal and that the owner is about to make a complaint under section 20, then, upon the deposit of the fines and charges payable in respect of the cattle, the cattle shall be delivered to him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>If on any complaint referred to in sub-section (1), the seizure is declared to be lawful or if the owner or his agent fails to make such complaint within a period of four weeks from the date of delivery of the cattle to him, the pound-keeper shall require such owner or agent to make a declaration and to deposit the amount of security as required by section 13. If the owner or his agent fails to make such declaration or to deposit such amount the cattle delivered to him under sub-section (1) shall be seized again for the purposes of section 17.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Procedure when owner refuses or omits to pay the fines and charges.-</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>If the owner or his agent appears before the pound-keeper and refuses or omits to pay the said fines and charges and to deposit the said amount of security under sub-section (1) of section 16 (or in the case mentioned in sub-section (2) of section 16) to deposit the said fines, expenses and amount of security or to make a declaration as required by section 13, the cattle, or as many of them as may be necessary, shall be sold by such officer, at such place and time, and subject to such conditions as are referred to in section 15.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The fines leviable and the expenses of feeding and watering, together with the expenses of sale, if any, and the amount of security prescribed under section 13 shall be deducted from the proceeds of the sale.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-17.3.list1">
+                <listIntroduction>The remaining cattle and the balance of the purchase money, if any, shall be delivered to the owner or his agent together with an account showing,-</listIntroduction>
+                <item id="section-17.3.list1.a">
+                  <num>(a)</num>
+                  <p>the number of cattle seized;</p>
+                </item>
+                <item id="section-17.3.list1.b">
+                  <num>(b)</num>
+                  <p>the time during which they have been impounded;</p>
+                </item>
+                <item id="section-17.3.list1.c">
+                  <num>(c)</num>
+                  <p>the amount of fine and charges payable;</p>
+                </item>
+                <item id="section-17.3.list1.d">
+                  <num>(d)</num>
+                  <p>the number of cattle sold;</p>
+                </item>
+                <item id="section-17.3.list1.e">
+                  <num>(e)</num>
+                  <p>the proceeds of sale; and</p>
+                </item>
+                <item id="section-17.3.list1.f">
+                  <num>(f)</num>
+                  <p>the manner in which the said proceeds have been disposed of.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-17.4">
+            <num>(4)</num>
+            <content>
+              <p>The owner or his agent shall give a receipt for the cattle delivered to him and for the balance of the purchase money, if any, paid to him according to such account.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Disposal of fines, expenses and surplus proceeds of sale.-</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The officer by whom the sale is held shall send to the District Magistrate the fines deducted under subsection (2) of section 17.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The fines levied under sub-section (1) of section 10 and the fines deducted under sub-section (2) of section 17 shall be credited to the local fund of the local authority within the jurisdiction of which the pound is located.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <p>The charges for feeding and watering deducted under section 17 shall be paid over to the pound-keeper who shall also retain and appropriate all sums received by him on account of such charges under section 12.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.4">
+            <num>(4)</num>
+            <content>
+              <p>The amount of security required under section 13 shall be deposited with the pound-keeper.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.5">
+            <num>(5)</num>
+            <content>
+              <p>The surplus unclaimed proceeds of sale of cattle shall be sent to the District Magistrate who shall hold them in deposit for a period of six months and, if no claim thereto is preferred and established within that period such proceeds shall be credited to the local fund of the local authority within the jurisdiction of which the pound is located and no suit shall lie for the recovery of any sum so credited.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Officers and pound-keepers not to purchase cattle at sales under the Act.-</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>No officer of police, or other officer or pound-keeper appointed or authorised to perform any function under this Act shall directly or indirectly, purchase any cattle at a sale under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>No pound-keeper shall release or deliver any impounded cattle otherwise than in accordance with the provisions of this Chapter unless such release or delivery is ordered by a competent court of law.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Complaints of illegal seizure or detention</heading>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Power to make complaints.-</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Any person whose cattle has been seized under this Act or having been so seized have been detained in contravention of this Act, may at any time within ten days from the date of the seizure, make a complaint to any magistrate authorised to receive and try charges.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Procedure on Complaint.-</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>The complaint shall be made either in writing or verbally by the complainant in person or by an agent personally acquainted with the circumstances:</p>
+              <p>Provided that if it is made verbally, the substance of it shall be taken down in writing by the magistrate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>If the magistrate on examining the complainant or his agent has reason to believe the complaint to be well founded, he shall summon the person complained against and make an enquiry into the case.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Compensation for illegal seizure.-</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>If the seizure or detention be adjudged illegal, the magistrate shall award to the complainant for the loss caused by the seizure or detention reasonable compensation not exceeding one hundred rupees to be paid by the person who made the seizure or detained the cattle together with all fines paid and expenses incurred by the complainant in procuring the release of the cattle:</p>
+              <p>Provided that if the cattle have not been released, the magistrate shall, besides ordering such compensation, order their release and direct that the fines and charges leviable under this Act shall be paid by the person who made the seizure or detained the cattle.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Recovery of compensation.-</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>The compensation, fines and charges mentioned in section 22 may be recovered as if they were fines imposed by the magistrate.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Penalties</heading>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Penalty for forcibly opposing the seizure of cattle or rescuing the same.-</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Whoever forcibly opposes the seizure of cattle liable to be seized under this Act, and whoever rescues the same after seizure, either from a pound or from any person taking or about to take them to a pound, such person being near at hand and acting under the powers conferred under this Act, shall, on conviction, be punished with imprisonment for a period which may extend to six months or with fine which may extend to five hundred rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Penalty for damage caused to land or crops or public roads by cattle.-</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Any owner or keeper of cattle, who through neglect or otherwise damages or causes or permits to be damaged any land or any crop or produce of land, or any public road, and other properties mentioned in section 8 by allowing such cattle to trespass thereon, shall, on conviction, be punished with fine which may extend to fifty rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-25.2.list1">
+                <listIntroduction>The magistrate trying an offence under sub-section (1) may order-</listIntroduction>
+                <item id="section-25.2.list1.a">
+                  <num>(a)</num>
+                  <p>that the accused shall pay such compensation not exceeding two hundred and fifty rupees as the magistrate considers reasonable to any person for any damage proved to have been caused to his crop or other produce on land by the accused committing the offence; and</p>
+                </item>
+                <item id="section-25.2.list1.b">
+                  <num>(b)</num>
+                  <p>that the cattle in respect of which the offence has been committed shall be forfeited to the State Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>Any compensation awarded under sub-section (2) may be recovered as if it were a fine imposed under this section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.4">
+            <num>(4)</num>
+            <content>
+              <p>The State Government, may, by notification, with respect to any local area specified in such notification, direct that this section shall be read as if the words "imprisonment for a period which may extend to three months or with fine which may extend to five hundred rupees or with both" were substituted for the words "fine which may extend to fifty rupees".</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.5">
+            <num>(5)</num>
+            <content>
+              <p>The offences under section 24 and section 25 shall be cognizable.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Recovery of penalty for mischief committed by causing cattle to trespass.-</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in any law, any fine imposed under section 25 or for the offence of mischief by causing cattle to trespass on any land under section 426 of the Indian Penal Code may be recovered by sale of all or any of the cattle by which the trespass was committed whether they were seized in the act of trespassing or not, and whether they are the property of the person convicted of the offence, or were only in his charge when the trespass was committed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Penalty on pound-keeper failing to perform duties.-</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>Any pound-keeper releasing or purchasing or delivering cattle contrary to the provisions of section 19, or failing to perform any of the other duties imposed upon him by this Act, shall, in addition to any other penalty to which he may be liable, be punished, on conviction with fine which may extend to fifty rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Application of fines recovered under section 25, 26 or 27.-</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>All fines recovered under section 25, section 26 or section 27, may be appropriated in whole or in part as compensation for loss or damage caused to the crops or other produce or the land of any person or any person and proved to the satisfaction of the convicting magistrate.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Saving of right to sue for compensation.-</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>Nothing contained in this Act shall be deemed to preclude any person whose crops or other produce or land have been damaged by trespass of cattle from suing for compensation in any competent court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>Any compensation paid to such person under this Act by order of the convicting magistrate shall be set off and deducted from any sum claimed by or awarded to him as compensation in such suit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Power of State Government to authorise local authorities to exercise powers under the Act.-</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>The State Government may, by notification, authorise any local authority within the area subject to the jurisdiction of such local authority, to exercise all or any of the powers of the State Government or the District Magistrate under this Act, subject to such restrictions and conditions as may be specified in such notification.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Power to make rules.-</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, subject to the condition of previous publication, by notification, make rules to carry out all or any of the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-31.2.list1">
+                <listIntroduction>In particular but without prejudice to the generality at the foregoing provision, such rules may provide for the following, namely:-</listIntroduction>
+                <item id="section-31.2.list1.i">
+                  <num>(i)</num>
+                  <p>the form of, and the procedure relating to the declaration, and the scales of deposit to be made under section 13;</p>
+                </item>
+                <item id="section-31.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the procedure regulating the making of security deposit, custody and refund thereof;</p>
+                </item>
+                <item id="section-31.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>the manner in which any cattle is to be disposed of;</p>
+                </item>
+                <item id="section-31.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>any other matter which is to be or may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Notifications and rules to be laid before State Legislature.-</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>Every notification issued under sub-section (1) of section 10, sub-section (4) of section 25 and section 30, and every rule made under section 31 shall be laid, as soon as may be, after it is issued or made, before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions and if, before the expiry of the session in which it is so laid or the sessions immediately following both Houses agree in making any modification in the notification or the rule, or both Houses agree that the notification or the rule should not be issued or made, the notification or the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything done under that notification or rule.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Repeal and savings.-</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <p>The Mysore Cattle Trespass Act, 1871 (Mysore Act I of 1871), as in force in the Mysore Area, the Hyderabad Cattle Trespass Act, 1337 F (Hyderabad Act V of 1337 Fasli) as in force in the Gulburga Area, the Cattle Trespass Act, 1871 (Central Act I of 1871) as in force in the Mangalore and Kollegal Area, Belgaum Area, and the Coorg District, are hereby repealed :</p>
+              <p>Provided that the provisions of section 6 of the Karnataka General Clauses Act, 1899 (Karnataka Act III of 1899), shall be applicable in respect of the repeal of the said enactments and sections 8 and 26 of the said Act shall be applicable as if the said enactments had been repealed and re-enacted by this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

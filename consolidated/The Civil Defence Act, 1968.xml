@@ -1,0 +1,580 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1968/27/main"/>
+          <FRBRuri value="/in-union/act/1968/27"/>
+          <FRBRalias value="The Civil Defence Act, 1968"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1968/27/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1968/27/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1968/27/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1968/27/eng@1980-01-01"/>
+          <FRBRdate date="2017-02-20" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Civil Defence Act, 1968</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 27 OF 1968</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[24th May, 1968.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to make provision for civil defence and for matters connected therewith.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Nineteenth Year of the Republic of India as follows:—</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Civil Defence Act, 1968.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force in a State or part thereof on such date, not being a date earlier than the date of the expiry of the Defence of India Act, 1962 (51 of 1962), as the Central Government may, by notification, appoint and different dates may be appointed for different States or different parts thereof.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions. —</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“civil defence” includes any measures, not amounting to actual combat, for affording protection to any person, property, place or thing in India or any part of the territory thereof against any hostile attack, whether from air, land, sea or other places, or, for depriving any such attack of the whole or part of its effect, whether such measures are taken before, during, at or after the time of such attack or any measure taken for the purpose of disaster management, before, during, at, or after any disaster;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Civil Defence Corps” means the Corps formed wholly or mainly to meet the needs of civil defence and includes an organisation deemed to be a Corps under the proviso to sub-section (1) of section 4;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“hostile attack” means any attack by any person or body of persons, whether during any war, external aggression, internal disturbance or otherwise which endangers the security of any life, property, place or thing in India or any part of the territory thereof;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“notification” means a notification published in the Official Gazette;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“personal service injury” has the meaning assigned to it in the Personal Injuries (Emergency Provisions) Act, 1962 (59 of 1962);</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“State Government”, in relation to a Union territory, means the Administrator of the Union territory;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“disaster” means a disaster as defined in clause (d) of section 2 of the Disaster Management Act, 2005 (53 of 2005);</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“disaster management” means the disaster management as defined in clause (e) of section 2 of the Disaster Management Act, 2005 (53 of 2005).</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Power to make rules for civil defence.—</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-3.1.list1">
+              <listIntroduction>The Central Government may, for securing civil defence, by notification, make rules providing for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-3.1.list1.a">
+                <num>(a)</num>
+                <p>preventing the prosecution of any work likely to prejudice civil defence;</p>
+              </item>
+              <item id="section-3.1.list1.b">
+                <num>(b)</num>
+                <p>instruction of members of the public regarding civil defence and their equipment for the purpose of such defence;</p>
+              </item>
+              <item id="section-3.1.list1.c">
+                <num>(c)</num>
+                <p>provision, storage and maintenance of commodities and things required for civil defence;</p>
+              </item>
+              <item id="section-3.1.list1.d">
+                <num>(d)</num>
+                <p>prohibiting or regulating traffic, and the use of vessels, buoys, lights and signals in ports and territorial, tidal and inland waters;</p>
+              </item>
+              <item id="section-3.1.list1.e">
+                <num>(e)</num>
+                <p>control of lights and sounds;</p>
+              </item>
+              <item id="section-3.1.list1.f">
+                <num>(f)</num>
+                <p>protection of life and property by taking fire prevention and other measures;</p>
+              </item>
+              <item id="section-3.1.list1.g">
+                <num>(g)</num>
+                <p>securing of any buildings, premises or other structures from being readily recognisable in the event of a hostile attack;</p>
+              </item>
+              <item id="section-3.1.list1.h">
+                <num>(h)</num>
+                <p>for the prevention of danger to life or property, the demolition, destruction or rendering useless, of any building, premises or other structures or any other property;</p>
+              </item>
+              <item id="section-3.1.list1.i">
+                <num>(i)</num>
+                <blockList id="section-3.1.list1.i.list0">
+                  <listIntroduction>prohibiting or regulating the possession, use or disposal of—</listIntroduction>
+                  <item id="section-3.1.list1.i.list0.i">
+                    <num>(i)</num>
+                    <p>explosives, inflammable substances, corrosive and other dangerous substances or articles, arms and ammunition;</p>
+                  </item>
+                  <item id="section-3.1.list1.i.list0.ii">
+                    <num>(ii)</num>
+                    <p>vessels;</p>
+                  </item>
+                  <item id="section-3.1.list1.i.list0.iii">
+                    <num>(iii)</num>
+                    <p>wireless telegraphic apparatus;</p>
+                  </item>
+                  <item id="section-3.1.list1.i.list0.iv">
+                    <num>(iv)</num>
+                    <p>aircraft; and</p>
+                  </item>
+                  <item id="section-3.1.list1.i.list0.v">
+                    <num>(v)</num>
+                    <p>photographic and signalling apparatus and any means of recording information;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.1.list1.j">
+                <num>(j)</num>
+                <p>evacuation of areas and the removal of property or animals there-from;</p>
+              </item>
+              <item id="section-3.1.list1.k">
+                <num>(k)</num>
+                <p>accommodation in any area of persons evacuated from another area and the regulation of the conduct of evacuated persons accommodated in such area;</p>
+              </item>
+              <item id="section-3.1.list1.l">
+                <num>(l)</num>
+                <p>billeting of evacuated persons or persons authorised to perform functions under this Act;</p>
+              </item>
+              <item id="section-3.1.list1.m">
+                <num>(m)</num>
+                <p>salvage of damaged buildings, structures and property and disposal of the dead;</p>
+              </item>
+              <item id="section-3.1.list1.n">
+                <num>(n)</num>
+                <p>seizure and custody or destruction of injured, unclaimed or dangerous animals;</p>
+              </item>
+              <item id="section-3.1.list1.o">
+                <num>(o)</num>
+                <blockList id="section-3.1.list1.o.list1">
+                  <listIntroduction>ensuring the safety of—</listIntroduction>
+                  <item id="section-3.1.list1.o.list1.i">
+                    <num>(i)</num>
+                    <p>ports, dockyards, lighthouses, lightships, aerodromes and facilities associated with aerial navigation;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.ii">
+                    <num>(ii)</num>
+                    <p>railways, tramways, roads, bridges, canals and all other means of transport by land or water;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.iii">
+                    <num>(iii)</num>
+                    <p>telegraphs, post offices, signalling apparatus and all other means of communication;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.iv">
+                    <num>(iv)</num>
+                    <p>sources and systems of water supply, works for the supply of water, gas or electricity and all other works for public purposes;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.v">
+                    <num>(v)</num>
+                    <p>vessels, aircraft, transport vehicles as defined in the Motor Vehicles Act, 1939 (4 of 1939), and rolling stocks of railways and tramways;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.vi">
+                    <num>(vi)</num>
+                    <p>warehouses and all other places used or intended to be used for storage purposes;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.vii">
+                    <num>(vii)</num>
+                    <p>mines, oilfields, factories or industrial or commercial undertakings generally, or any mine, oilfield, factory or industrial or commercial undertaking in particular;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.viii">
+                    <num>(viii)</num>
+                    <p>laboratories and institutions where scientific or technological research or training is conducted or imparted;</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.ix">
+                    <num>(ix)</num>
+                    <p>all works and structures being part of, or connected with, anything earlier mentioned in this clause; and</p>
+                  </item>
+                  <item id="section-3.1.list1.o.list1.x">
+                    <num>(x)</num>
+                    <p>any other place or thing used or intended to be used for the purposes of Government or a local authority or a semi-Government or autonomous organisation, the protection of which is considered necessary or expedient for securing civil defence;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.1.list1.p">
+                <num>(p)</num>
+                <p>control of any road or pathway, waterway, ferry or bridge, river, canal or other source of water supply;</p>
+              </item>
+              <item id="section-3.1.list1.q">
+                <num>(q)</num>
+                <p>precautionary measures, which the Government or any department thereof or any local authority, members of police force, fire brigade and members of any other service or authority employed primarily for purposes other than civil defence purposes should be required to take within their respective jurisdictions or with respect to any personnel employed by them:</p>
+              </item>
+              <item id="section-3.1.list1.r">
+                <num>(r)</num>
+                <p>preventing or controlling any use of uniforms, whether official or otherwise, or flags or official decorations like medals, badges or other insignia or anything similar thereto, the wearing of which is calculated to deceive or to prejudice civil defence;</p>
+              </item>
+              <item id="section-3.1.list1.s">
+                <num>(s)</num>
+                <p>precautions to be taken or action to be taken by persons or authorities with a view to protecting or acquainting the general public or any members thereof against the dangers involved in any apprehended hostile attack;</p>
+              </item>
+              <item id="section-3.1.list1.t">
+                <num>(t)</num>
+                <p>requiring the owner or occupier of any building, structure or premises to make or carry out such arrangements as may be necessary for the purposes of detection and prevention of fire;</p>
+              </item>
+              <item id="section-3.1.list1.u">
+                <num>(u)</num>
+                <p>taking of specified measures for dealing with outbreaks of fire;</p>
+              </item>
+              <item id="section-3.1.list1.v">
+                <num>(v)</num>
+                <p>directing that, subject to any specified exemption, no person present in any specified area shall, between such hours as may be specified, be out of doors, except under the authority of a written permit granted by a specified authority or person;</p>
+              </item>
+              <item id="section-3.1.list1.w">
+                <num>(w)</num>
+                <blockList id="section-3.1.list1.w.list2">
+                  <item id="section-3.1.list1.w.list2.i">
+                    <num>(i)</num>
+                    <p>prohibiting the printing and publication of any newspaper, news-sheet, book or other document containing matters prejudicial to civil defence;</p>
+                  </item>
+                  <item id="section-3.1.list1.w.list2.ii">
+                    <num>(ii)</num>
+                    <p>demanding security from any press used for the purpose of printing or publishing, and forfeiting the copies of, any newspaper, news-sheet, book or other document containing any of the matters referred to in sub-clause (i);</p>
+                  </item>
+                  <item id="section-3.1.list1.w.list2.x">
+                    <num>(x)</num>
+                    <p>regulating the conduct of persons in respect of areas the control of which is considered necessary or expedient, the removal of persons from such areas;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.1.list1.y">
+                <num>(y)</num>
+                <p>requiring any person or class of persons to comply with any scheme of civil defence;</p>
+              </item>
+              <item id="section-3.1.list1.z">
+                <num>(z)</num>
+                <p>any other provision which may be necessary for the purposes of civil defence.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>Any rule made under sub-section (1) may provide that orders with regard to the matters specified therein may be made by the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>Any rule made under sub-section (1) may provide that a contravention thereof or any order made thereunder shall be punishable with fine which may extend to five hundred rupees, and where the contravention is a continuing one, with a further fine which may extend to fifty rupees for every day, after the first, during which such contravention continues.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Constitution of Civil Defence Corps.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may constitute, for any area within the State, a body of persons to be called the Civil Defence Corps (hereinafter referred to as the “Corps”) and may appoint a person, not being, in its opinion, below the rank of a District Magistrate (to be known as the “Controller”) to command such Corps:</p>
+            <p>Provided that if there is in existence in any area in a State, immediately before the commencement of this Act in that area, an organisation which, in the opinion of the State Government, may be entrusted with the functions of the Corps, the State Government may, instead of constituting a separate Corps for such area, call upon that organisation to take over or discharge the functions of the Corps in that area, and thereupon such organisation shall be deemed, for the purpose of this Act, to be the Corps for that area.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government may, for the purpose of co-ordinating the activities of the Controllers within the State, appoint a Director of Civil Defence and every Controller shall comply with the directions given by such Director.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Appointment of members and officers.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may appoint as members of the Corps persons who are fit and willing to serve as such and the Controller may appoint any member so appointed to such office or command in the Corps, as such member is, in the opinion of the Controller, fit to hold.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Every person appointed to be a member of the Corps shall be given a certificate of membership in such form as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Dismissal of members of Civil Defence Corps.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any member of the Corps fails or has failed, in the opinion of the Controller, to discharge his duties as such member satisfactorily or is or has been found guilty of any misconduct in the discharge of his duties as such member, the Controller may, after an inquiry in which such member of the Corps has been given a reasonable opportunity of being heard in respect of the charges against him, by an order, dismiss such member from the Corps.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the Controller is of opinion that the continued presence of any member of the Corps is undesirable, he may, without assigning any reason, summarily dismiss such member from the Corps.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Appeal.—</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <p>A member of the Corps who is dismissed from the Corps under section 6 may prefer an appeal to the State Government within thirty days from the date of such dismissal and that Government may, on such appeal, confirm, modify or reverse the order made by the Controller or other authority.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Functions of members of Civil Defence Corps.—</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The members of the Corps shall perform such functions in relation to the carrying out of measures for civil defence as may be assigned to them by rules made under this Act or by any other law for the time being in force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government or the Controller may, by order, call out a member of the Corps for training or for discharging such functions in relation to the carrying out of measures for civil defence as may be specified in such order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>Subject to such orders as the Central Government may make in this behalf, any member of the Corps of any State may at any time be required, by order, to discharge functions in relation to civil defence in any other State and shall while discharging such functions, be deemed to be a member of the Corps of that other State and be vested with the powers, functions and privileges and be subject to the liabilities of a member of the Corps in that other State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Power to make regulations.—</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification, make regulations for carrying out the purposes of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-9.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may—</listIntroduction>
+              <item id="section-9.2.list1.a">
+                <num>(a)</num>
+                <p>prescribe the functions of the members of the Corps and regulate the manner in which they may be called out for service;</p>
+              </item>
+              <item id="section-9.2.list1.b">
+                <num>(b)</num>
+                <p>regulate the organisation, appointment, conditions of service, discipline, accoutrement and clothing of members of any or all of the Corps;</p>
+              </item>
+              <item id="section-9.2.list1.c">
+                <num>(c)</num>
+                <p>prescribe the form of certificates of membership of any or all of the Corps.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Provisions of the Personal Injuries (Emergency Provisions) Act to apply to injuries sustained by the members of the Corps.—</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <blockList id="section-10.paragraph-0.list1">
+              <listIntroduction>The provisions of the Personal Injuries (Emergency Provisions) Act, 1962 (59 of 1962), and of every scheme made thereunder shall apply, so far as may be, to every personal service injury sustained by any person appointed to be a member of the Corps as they apply to personal service injury sustained by a civil defence volunteer, subject to the modifications that—</listIntroduction>
+              <item id="section-10.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>any reference to a civil defence volunteer under that Act or any scheme made thereunder shall be construed as reference to a member of the Corps; and</p>
+              </item>
+              <item id="section-10.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>any reference therein to the period of emergency shall, in relation to a member of the Corps, be construed as the period during which this Act is in force.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Penalties.—</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>If any member of the Corps on being called out by an order under sub-section (2) of section 8 neglects or refuses without sufficient excuse to obey such order or to discharge his functions as such member or to obey any lawful order or direction given to him for the performance of his functions, he shall be punishable with fine which may extend to five hundred rupees, and where such neglect or refusal is a continuing one, with a further fine which may extend to fifty rupees for every day, after the first, during which such contravention continues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>If any person neglects or fails without any reasonable excuse to obey any order made or direction given to him under this Act or rules made thereunder, he shall be punishable with fine which may extend to five hundred rupees, and where such negligence or failure is a continuing one, with a further fine which may extend to fifty rupees for every day, after the first, during which such negligence or failure continues.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Effect of Act and rules, etc., inconsistent with other enactments.—</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this Act or any rules made thereunder or any order made under this Act or any such rule shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act or in any instrument having effect by virtue of any enactment other than this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>Every appointment, order or rule made in relation to civil defence before the commencement of this Act by or under any law relating to civil defence shall, in so far as it is not inconsistent with the provisions of this Act, continue to be in force until it is rescinded or altered under this Act, and be deemed to have been made under the corresponding provisions of this Act.</p>
+            <p>Explanation.—</p>
+            <p>“Commencement of this Act”, in relation to any provision or area, means the commencement of that provision or, as the case may be, the commencement of this Act in that area.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Ordinary avocations of life to be interfered with as little as possible.—</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Any authority or person acting in pursuance of this Act shall interfere with the ordinary avocations of life and the enjoyment of property as little as may be consonant with the purpose of ensuring the public safety and civil defence.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Savings as to orders.—</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>No order made in exercise of any power conferred by or under this Act shall be called in question in any court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>Where an order purports to have been made and signed by any authority in exercise of any power conferred by or under this Act, a court shall, within the meaning of the Indian Evidence Act, 1872 (1 of 1872), presume that such order was so made by that authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Act not to apply to measures taken for the protection of the Armed Forces.—</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>Nothing contained in this Act or any rule, regulation or order made thereunder shall apply to the Armed Forces of the Union or to any measures taken by any of the authorities in control of the Armed Forces of the Union for the purpose of securing civil defence or safety of such forces or for the protection of any naval, military or air force installations of stores.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Limitation of prosecutions.—</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>No prosecution for any offence punishable under this Act shall be instituted against any person except by, or with the consent of, the Controller or any person authorised by the Controller in this behalf.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Power to delegate.—</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <blockList id="section-17.paragraph-0.list1">
+              <listIntroduction>The State Government may, by notification, direct that—</listIntroduction>
+              <item id="section-17.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>all or any of the powers which may be exercised by it under this Act shall, in such circumstances and under such conditions, if any, as may be specified in that notification, be exercised also by such officer, not being, in the opinion of the State Government, inferior in rank to that of a District Magistrate, as may be specified in the said notification;</p>
+              </item>
+              <item id="section-17.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>all or any of the powers which may be exercised by the Controller under this Act shall, in such circumstances and under such conditions, if any, as may be specified in that notification, be exercised also by such officer, not being, in the opinion of the State Government, inferior in rank to that of a Sub-Divisional Magistrate, as may be specified in the said notification.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the Government, the Director or the Controller or any person, authorised by the Government or the Controller, for anything which is in good faith done or intended to be done under this Act or any rules or orders made thereunder or any order issued under any such rule.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>No suit or other legal proceeding shall lie against the Government, the Director or the Controller or any person, authorised by the Government or the Controller, for any damage caused or likely to be caused by anything which is in good faith done or intended to be done under this Act or any rule made thereunder or any order issued under any such rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Authorised persons and members of Corps to be public servants.—</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>Any person authorised by the Controller or the State Government under this Act and every member of the Corps, while functioning as such, shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code, (45 of 1860).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Rules and regulations to be laid before Parliament.—</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Every rule and every regulation made by the Central Government under this Act shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation, as the case may be, should not be made, the rule or regulations shall thereafter have effect only in such modified form or be of no effect, as the case may be, so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

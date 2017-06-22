@@ -1,0 +1,61 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1850/18/main"/>
+          <FRBRuri value="/in-union/act/1850/18"/>
+          <FRBRalias value="The Judicial Officers Protection Act, 1850"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1850/18/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1850/18/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1850/18/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1850/18/eng@1980-01-01"/>
+          <FRBRdate date="2016-11-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Judicial Officers Protection Act, 1850</shortTitle>
+      </p>
+      <longTitle>
+        <p>ACT No. XVIII OF 1850</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[4th April, 1850]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act for the protection of Judicial Officers</p>
+      <p>For the greater protection of Magistrates and others acting judicially; It is enacted as follows:–</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Non-liability to suit of officers acting judicially, for official acts done in good faith, and of officers executing warrants and orders</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>No Judge, Magistrate, Justice of the Peace, Collector or other person acting judicially shall be liable to be sued in any Civil Court for any act done or ordered to be done by him in the discharge of his judicial duty, whether or not within the limits of his jurisdiction:</p>
+            <p>Provided that he at the time, in good faith, believed himself to have jurisdiction to do or order the act complained of; and no officer of any Court or other person, bound to execute the lawful warrants or orders of any such Judge, Magistrate, Justice of the Peace, Collector or other person acting judicially shall be liable to be sued in any Civil Court, for the execution of any warrant or order, which he would be bound to execute, if within the jurisdiction of the person issuing the same.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

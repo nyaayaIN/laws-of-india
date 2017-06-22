@@ -1,0 +1,780 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2008/34/main"/>
+          <FRBRuri value="/in-union/act/2008/34"/>
+          <FRBRalias value="The National Investigation Agency Act, 2008"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2008/34/eng@2008-12-31/main"/>
+          <FRBRuri value="/in-union/act/2008/34/eng@2008-12-31"/>
+          <FRBRdate date="2008-12-31" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2008/34/eng@2008-12-31/main"/>
+          <FRBRuri value="/in-union/act/2008/34/eng@2008-12-31"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The National Investigation Agency Act, 2008</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[31st December, 2008.]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 34 OF 2008</p>
+        <p>An Act to constitute an investigation agency at the national level to investigate and prosecute offences affecting the sovereignty, security and integrity of India, security of State, friendly relations with foreign States and offences under Acts enacted to implement international treaties, agreements, conventions and resolutions of the United Nations, its agencies and other international organisations and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Fifty-ninth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and application. -</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the National Investigation Agency Act, 2008.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-1.2.list1">
+                <listIntroduction>It extends to the whole of India and it applies also-</listIntroduction>
+                <item id="section-1.2.list1.a">
+                  <num>(a)</num>
+                  <p>to citizens of India outside India ;</p>
+                </item>
+                <item id="section-1.2.list1.b">
+                  <num>(b)</num>
+                  <p>to persons in the service of the Government wherever they may be; and</p>
+                </item>
+                <item id="section-1.2.list1.c">
+                  <num>(c)</num>
+                  <p>to persons on ships and aircrafts registered in India wherever they may be.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions. -</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>"Agency" means the National Investigation Agency constituted under section 3;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>"Code" means the Code of Criminal Procedure, 1973 (2 of 1974);</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <p>"High Court" means the High Court within whose jurisdiction the Special Court is situated;</p>
+                </item>
+                <item id="section-2.1.list1.d">
+                  <num>(d)</num>
+                  <p>"prescribed" means prescribed by rules;</p>
+                </item>
+                <item id="section-2.1.list1.e">
+                  <num>(e)</num>
+                  <p>"Public Prosecutor" means a Public Prosecutor or an Additional Public Prosecutor or a Special Public Prosecutor appointed under section 15;</p>
+                </item>
+                <item id="section-2.1.list1.f">
+                  <num>(f)</num>
+                  <p>"Schedule" means Schedule to this Act;</p>
+                </item>
+                <item id="section-2.1.list1.g">
+                  <num>(g)</num>
+                  <p>"scheduled offence" means an offence specified in the schedule;</p>
+                </item>
+                <item id="section-2.1.list1.h">
+                  <num>(h)</num>
+                  <p>" Special Court " means a Special Court constituted under section 11 or, as the case may be, under section 22;</p>
+                </item>
+                <item id="section-2.1.list1.i">
+                  <num>(i)</num>
+                  <p>words and expressions used but not defined in this Act and defined in the Code shall have the meanings respectively assigned to them in the Code.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Any reference in this Act to any enactment or any provision thereof shall, in relation to an area in which such enactment or such provision is not in force, be construed as a reference to the corresponding law or the relevant provision of the corresponding law, if any, in force in that area.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>National Investigation Agency</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Constitution of National Investigation Agency. -</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything in the Police Act, 1861 (5 of 1861), the Central Government may constitute a special agency to be called the National Investigation Agency for investigation and prosecution of offences under the Acts specified in the Schedule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to any orders which the Central Government may make in this behalf, officers of the Agency shall have throughout India in relation to the investigation of Scheduled Offences and arrest of persons concerned in such offences, all the powers, duties, privileges and liabilities which police officers have in connection with the investigation of offences committed therein.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>Any officer of the Agency of, or above, the rank of Sub-Inspector may, subject to any orders which the Central Government may make in this behalf, exercise throughout India, any of the powers of the officer-in-charge of a police station in the area in which he is present for the time being and when so exercising such powers shall, subject to any such orders as aforesaid, be deemed to be an officer-in-charge of a police station discharging the functions of such an officer within the limits of his station.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Superintendence of National Investigation Agency. -</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The superintendence of the Agency shall vest in the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The administration of the Agency shall vest in an officer designated as the Director-General appointed in this behalf by the Central Government who shall exercise in respect of the Agency such of the powers exercisable by a Director-General of Police in respect of the police force in a State, as the Central Government may specify in this behalf.</p>
+              <p>This section provides that the superintendence of the National Investigation Agency shall vest in the Central Government and the administration to vest in the officer designated in this behalf by it.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Manner of constitution of Agency and conditions of service of members. -</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Subject to the provisions of this Act, the Agency shall be constituted in such manner as may be prescribed and the conditions of service of persons employed in the Agency shall be such as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Investigation by the National Investigation Agency</heading>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Investigation of Scheduled Offences. -</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>On receipt of information and recording thereof under section 154 of the Code relating to any Scheduled Offence the officer-in-charge of the police station shall forward the report to the State Government forthwith.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of the report under sub-section (1), the State Government shall forward the report to the Central Government as expeditiously as possible.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of report from the State Government, the Central Government shall determine on the basis of information made available by the State Government or received from other sources, within fifteen days from the date of receipt of the report, whether the offence is a Scheduled Offence or not and also whether, having regard to the gravity of the offence and other relevant factors, it is a fit case to be investigated by the Agency.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>Where the Central Government is of the opinion that the offence is a Scheduled Offence and it is a fit case to be investigated by the Agency, it shall direct the Agency to investigate the said offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding anything contained in this section, if the Central Government is of the opinion that a Scheduled Offence has been committed which is required to be investigated under this Act, it may, suo motu , direct the Agency to investigate the said offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.6">
+            <num>(6)</num>
+            <content>
+              <p>Where any direction has been given under sub-section (4) or sub-section (5), the State Government and any police officer of the State Government investigating the offence shall not proceed with the investigation and shall forthwith transmit the relevant documents and records to the Agency.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.7">
+            <num>(7)</num>
+            <content>
+              <p>For the removal of doubts, it is hereby declared that till the Agency takes up the investigation of the case, it shall be the duty of the officer-in-charge of the police station to continue the investigation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Power to transfer investigation to State Government. -</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <blockList id="section-7.paragraph-0.list1">
+                <listIntroduction>While investigating any offence under this Act, the Agency, having regard to the gravity of the offence and other relevant factors, may-</listIntroduction>
+                <item id="section-7.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>if it is expedient to do so, request the State Government to associate itself with the investigation; or</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>with the previous approval of the Central Government transfer the case to the State Government for investigation and trial of the offence.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Power to investigate connected offences. -</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>While investigating any Scheduled Offence the Agency may also investigate any other offence which the accused is alleged to have committed if the offence is connected with the Scheduled Offence.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>State Government to extend assistance to National Investigation Agency. -</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The State Government shall extend all assistance and co-operation to the Agency for investigation of the Scheduled Offences.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Power of State Government to investigate Scheduled Offences. -</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>Save as otherwise provided in this Act, nothing contained in this Act shall affect the powers of the State Government to investigate and prosecute any Scheduled Offence or other offences under any law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Special Courts</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power of Central Government to constitute Special Courts. -</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, by notification in the Official Gazette, for the trial of Scheduled Offences, constitute one or more Special Courts for such area or areas, or for such case or class or group of cases, as may be specified in the notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any question arises as to the jurisdiction of any Special Court , it shall be referred to the Central Government whose decision in the matter shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>A Special Court shall be presided over by a judge to be appointed by the Central Government on the recommendation of the Chief Justice of the High Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>The Agency may make an application to the Chief Justice of the High Court for appointment of a Judge to preside over the Special Court .</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>On receipt of an application under sub-section (4), the Chief Justice shall, as soon as possible and not later than seven days, recommend the name of a judge for being appointed to preside over the Special Court .</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.6">
+            <num>(6)</num>
+            <content>
+              <p>The Central Government may, if required, appoint an additional judge or additional judges to the Special Court , on the recommendation of the Chief Justice of the High Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.7">
+            <num>(7)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as a judge or an additional judge of a Special Court unless he is, immediately before such appointment, a Sessions Judge or an Additional Sessions Judge in any State.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.8">
+            <num>(8)</num>
+            <content>
+              <p>For the removal of doubts, it is hereby provided that the attainment by a person appointed as a judge or an additional judge of a Special Court of the age of superannuation under the rules applicable to him in the service to which he belongs shall not affect his continuance as such judge or additional judge and the Central Government may by order direct that he shall continue as judge until a specified date or until completion of the trial of the case or cases before him as may be specified in that order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.9">
+            <num>(9)</num>
+            <content>
+              <p>Where any additional judge or additional judges is or are appointed in a Special Court, the judge of the Special Court may, from time to time, by general or special order, in writing, provide for the distribution of business of the Special Court among all judges including himself and the additional judge or additional judges and also for the disposal of urgent business in the event of his absence or the absence of any additional judge.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Place of sitting. -</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>A Special Court may, on its own motion, or on an application made by the Public Prosecutor and if it considers it expedient or desirable so to do, sit for any of its proceedings at any place other than its ordinary place of sitting.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Jurisdiction of Special Courts. -</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code, every Scheduled Offence investigated by the Agency shall be tried only by the Special Court within whose local jurisdiction it was committed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-13.2.list1">
+                <listIntroduction>If, having regard to the exigencies of the situation prevailing in a State if,-</listIntroduction>
+                <item id="section-13.2.list1.a">
+                  <num>(a)</num>
+                  <p>it is not possible to have a fair, impartial or speedy trial; or</p>
+                </item>
+                <item id="section-13.2.list1.b">
+                  <num>(b)</num>
+                  <p>it is not feasible to have the trial without occasioning the breach of peace or grave risk to the safety of the accused, the witnesses, the Public Prosecutor or a judge of the Special Court or any of them; or</p>
+                </item>
+                <item id="section-13.2.list1.c">
+                  <num>(c)</num>
+                  <p>it is not otherwise in the interests of justice, the Supreme Court may transfer any case pending before a Special Court to any other Special Court within that State or in any other State and the High Court may transfer any case pending before a Special Court situated in that State to any other Special Court within the State.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>The Supreme Court or the High Court, as the case may be, may act under this section either on the application of the Central Government or a party interested and any such application shall be made by motion, which shall, except when the applicant is the Attorney-General for India, be supported by an affidavit or affirmation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Powers of Special Courts with respect to other offences. -</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>When trying any offence, a Special Court may also try any other offence with which the accused may, under the Code be charged, at the same trial if the offence is connected with such other offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>If, in the course of any trial under this Act of any offence, it is found that the accused person has committed any other offence under this Act or under any other law, the Special Court may convict such person of such other offence and pass any sentence or award punishment authorised by this Act or, as the case may be, under such other law.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Public Prosecutors. -</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall appoint a person to be the Public Prosecutor and may appoint one or more persons to be the Additional Public Prosecutor or Additional Public Prosecutors:</p>
+              <p>Provided that the Central Government may also appoint for any case or class or group of cases a Special Public Prosecutor.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>A person shall not be qualified to be appointed as a Public Prosecutor or an Additional Public Prosecutor or a Special Public Prosecutor under this section unless he has been in practice as an Advocate for not less than seven years or has held any post, for a period of not less than seven years, under the Union or a State, requiring special knowledge of law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>Every person appointed as a Public Prosecutor or an Additional Public Prosecutor or a Special Public Prosecutor under this section shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code, and the provisions of the Code shall have effect accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Procedure and powers of Special Courts. -</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>A Special Court may take cognizance of any offence, without the accused being committed to it for trial, upon receiving a complaint of facts that constitute such offence or upon a police report of such facts.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Where an offence triable by a Special Court is punishable with imprisonment for a term not exceeding three years or with fine or with both, the Special Court may, notwithstanding anything contained in sub-section (1) of section 260 or section 262 of the Code, try the offence in a summary way in accordance with the procedure prescribed in the Code and the provisions of sections 263 to 265 of the Code shall, so far as may be, apply to such trial:</p>
+              <p>Provided that when, in the course of a summary trial under this sub-section, it appears to the Special Court that the nature of the case is such that it is not desirable to try it in a summary way, the Special Court shall recall any witnesses who may have been examined and proceed to re-hear the case in the manner provided by the provisions of the Code for the trial of such offence and the said provisions shall apply to, and in relation to, a Special Court as they apply to and in relation to a Magistrate:</p>
+              <p>Provided further that in the case of any conviction in a summary trial under this section, it shall be lawful for a Special Court to pass a sentence of imprisonment for a term not exceeding one year and with fine which may extend to five lakh rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the other provisions of this Act, a Special Court shall, for the purpose of trial of any offence, have all the powers of a Court of Session and shall try such offence as if it were a Court of Session so far as may be in accordance with the procedure prescribed in the Code for the trial before a Court of Session.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to the other provisions of this Act, every case transferred to a Special Court under sub-section (2) of section 13 shall be dealt with as if such case had been transferred under section 406 of the Code to such Special Court .</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code, but subject to the provisions of section 299 of the Code, a Special Court may, if it thinks fit and for reasons to be recorded by it, proceed with the trial in the absence of the accused or his pleader and record the evidence of any witness, subject to the right of the accused to recall the witness for cross-examination.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Protection of witnesses. -</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code, the proceedings under this Act may, for reasons to be recorded in writing, be held in camera if the Special Court so desires.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>On an application made by a witness in any proceeding before it or by the Public Prosecutor in relation to such witness or on its own motion, if the Special Court is satisfied that the life of such witness is in danger, it may, for reasons to be recorded in writing, take such measures as it deems fit for keeping the identity and address of such witness secret.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-17.3.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the provisions of sub­-section (2), the measures which a Special Court may take under that sub-section may include-</listIntroduction>
+                <item id="section-17.3.list1.a">
+                  <num>(a)</num>
+                  <p>the holding of the proceedings at a place to be decided by the Special Court ;</p>
+                </item>
+                <item id="section-17.3.list1.b">
+                  <num>(b)</num>
+                  <p>the avoiding of the mention of the names and addresses of the witnesses in its orders or judgments or in any records of the case accessible to public;</p>
+                </item>
+                <item id="section-17.3.list1.c">
+                  <num>(c)</num>
+                  <p>the issuing of any directions for securing that the identity and address of the witnesses are not disclosed; and</p>
+                </item>
+                <item id="section-17.3.list1.d">
+                  <num>(d)</num>
+                  <p>a decision that it is in the public interest to order that all or any of the proceedings pending before such a Court shall not be published in any manner.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-17.4">
+            <num>(4)</num>
+            <content>
+              <p>Any person who contravenes any decision or direction issued under sub-section (3) shall be punishable with imprisonment for a term which may extend to three years and with fine which may extend to one thousand rupees.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Sanction for prosecution. -</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>No prosecution, suit or other legal proceedings shall be instituted in any court of law, except with the previous sanction of the Central Government, against any member of the Agency or any person acting on his behalf in respect of anything done or purported to be done in exercise of the powers conferred by this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Trial by Special Court to have precedence. -</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The trial under this Act of any offence by a Special Court shall be held on day-to­-day basis on all working days and have precedence over the trial of any other case against the accused in any other court (not being a Special Court) and shall be concluded in preference to the trial of such other case and accordingly the trial of such other case shall, if necessary, remain in abeyance.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Power to transfer cases to regular courts. -</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Where, after taking cognizance of any offence, a Special Court is of the opinion that the offence is not triable by it, it shall, notwithstanding that it has no jurisdiction to try such offence, transfer the case for the trial of such offence to any court having jurisdiction under the Code and the Court to which the case is transferred may proceed with the trial of the offence as if it had taken cognizance of the offence.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Appeals. -</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in the Code, an appeal shall lie from any judgment, sentence or order, not being an interlocutory order, of a Special Court to the High Court both on facts and on law.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>Every appeal under sub-section (1) shall be heard by a Bench of two Judges of the High Court and shall, as far as possible, be disposed of within a period of three months from the date of admission of the appeal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.3">
+            <num>(3)</num>
+            <content>
+              <p>Except as aforesaid, no appeal or revision shall lie to any court from any judgment, sentence or order including an interlocutory order of a Special Court .</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (3) of section 378 of the Code, an appeal shall lie to the High Court against an order of the Special Court granting or refusing bail.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.5">
+            <num>(5)</num>
+            <content>
+              <p>Every appeal under this section shall be preferred within a period of thirty days from the date of the judgment, sentence or order appealed from:</p>
+              <p>Provided that the High Court may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the period of thirty days:</p>
+              <p>Provided further that no appeal shall be entertained after the expiry of period of ninety days.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Power of State Government to constitute Special Courts. -</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may constitute one or more Special Courts for the trial of offences under any or all the enactments specified in the Schedule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-22.2.list1">
+                <listIntroduction>The provisions of this Chapter shall apply to the Special Courts constituted by the State Government under sub-section (1) and shall have effect subject to the following modifications, namely-</listIntroduction>
+                <item id="section-22.2.list1.i">
+                  <num>(i)</num>
+                  <p>references to "Central Government" in sections 11 and 15 shall be construed as references to State Government;</p>
+                </item>
+                <item id="section-22.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>reference to "Agency" in sub-section (1) of section 13 shall be construed as a reference to the "investigation agency of the State Government";</p>
+                </item>
+                <item id="section-22.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>reference to "Attorney-General for India " in sub-section (3) of section 13 shall be construed as reference to "Advocate-General of the State".</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>The jurisdiction conferred by this Act on a Special Court shall, until a Special Court is constituted by the State Government under sub-section (1) in the case of any offence punishable under this Act, notwithstanding anything contained in the Code, be exercised by the Court of Session of the division in which such offence has been committed and it shall have all the powers and follow the procedure provided under this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.4">
+            <num>(4)</num>
+            <content>
+              <p>On and from the date when the Special Court is constituted by the State Government the trial of any offence investigated by the State Government under the provisions of this Act, which would have been required to be held before the Special Court, shall stand transferred to that Court on the date on which it is constituted.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Power of High Courts to make rules. -</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>The High Court may, by notification in the Official Gazette, make such rules, as it may deem necessary for carrying out the provisions of this Act relating to Special Courts within its territory.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to remove difficulties. -</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette make such provisions, not inconsistent with the provisions of this Act, as may appear to it to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no order shall be made, under this section after the expiration of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power to make rules. -</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-25.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality to the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+                <item id="section-25.2.list1.a">
+                  <num>(a)</num>
+                  <p>the manner of constitution of the Agency and the conditions of service of persons employed in the Agency under section 5;</p>
+                </item>
+                <item id="section-25.2.list1.b">
+                  <num>(b)</num>
+                  <p>any other matter which is required to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+              <p>This section empowers the Central Government to make rules for carrying out the provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Laying of rules. -</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agrees in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2008/34/schedules"/>
+              <FRBRuri value="/in-union/act/2008/34"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2008/34/eng@2008-12-31/schedules"/>
+              <FRBRuri value="/in-union/act/2008/34/eng@2008-12-31"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2008/34/eng@2008-12-31/schedules"/>
+              <FRBRuri value="/in-union/act/2008/34/eng@2008-12-31"/>
+              <FRBRdate date="2016-09-28" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>See section 2(1)(g)</heading>
+            <subsection id="theschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>The Atomic Energy Act, 1962 (33 of 1962);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>The Unlawful Activities (Prevention) Act, 1967 (37 of 1967);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.3">
+              <num>(3)</num>
+              <content>
+                <p>The Anti-Hijacking Act, 1982 (65 of 1982);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.4">
+              <num>(4)</num>
+              <content>
+                <p>The Suppression Unlawful Acts Against Safety of Civil Aviation Act, 1982 (66 of 1982);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.5">
+              <num>(5)</num>
+              <content>
+                <p>The SAARC Convention (Suppression of Terrorism) Act, 1993 (36 of 1993);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.6">
+              <num>(6)</num>
+              <content>
+                <p>The Suppression of Unlawful Acts against Safety of Maritime Navigation and Fixed Platforms on Continental Shelf Act, 2002 (69 of 2002);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.7">
+              <num>(7)</num>
+              <content>
+                <p>The Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005 (21 of 2005);</p>
+              </content>
+            </subsection>
+            <subsection id="theschedule.8">
+              <num>(8)</num>
+              <content>
+                <blockList id="theschedule.8.list1">
+                  <listIntroduction>Offences under-</listIntroduction>
+                  <item id="theschedule.8.list1.a">
+                    <num>(a)</num>
+                    <p>Chapter VI of the Indian Penal Code sections 121 to 130 (both inclusive);</p>
+                  </item>
+                  <item id="theschedule.8.list1.b">
+                    <num>(b)</num>
+                    <p>Sections 489A to 489E (both inclusive) of the Indian Penal Code.</p>
+                  </item>
+                </blockList>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

@@ -1,0 +1,568 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-pun/act/2013/01/main"/>
+          <FRBRuri value="/in-pun/act/2013/01"/>
+          <FRBRalias value="The Punjab Compulsory Registration Of Marriages Act, 2012"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-pun/act/2013/01/eng@2017-03-16/main"/>
+          <FRBRuri value="/in-pun/act/2013/01/eng@2017-03-16"/>
+          <FRBRdate date="2017-03-16" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-pun/act/2013/01/eng@2017-03-16/main"/>
+          <FRBRuri value="/in-pun/act/2013/01/eng@2017-03-16"/>
+          <FRBRdate date="2017-03-16" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Punjab Compulsory Registration Of Marriages Act, 2012</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[4th January, 2013]</docDate>
+      </p>
+      <longTitle>
+        <p>(Punjab Act No. 1 of 2013)</p>
+        <p>An Act to provide for the compulsory registration of marriages solemnized under any law governing the parties irrespective of their religion, caste, creed or nationality and for the matters connected therewith or incidental thereto.</p>
+        <p>Be it enacted by the Legislature of the State of Punjab in the Sixty-third</p>
+        <p>Year of the Republic of India as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short Title and Commencement</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Punjab Compulsory Registration of Marriages Act, 2012.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall come into force on such date, as the State Government may, by notification in the Official Gazette, appoint in this behalf.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, Unless the context otherwise required,-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>"Chief Registrar of Marriages" means the Chief Registrar of Marriages, appointed as such by the State Government under Section 9;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>"District Registrar of Marriages" means the District Registrar of Marriages, appointed as such by the State Government for a District under section 10;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>"foreign national" means any person who is not a citizen of India and shall include Persons of Indian Origin (P10) and Overseas Citizens of India (OCI);</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-2.paragraph-0.list1.d.list0">
+                  <listIntroduction>"marriage" means and includes a marriage, solemnized in the State of Punjab under any of the following Act, customs or laws, namely:-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.d.list0.i">
+                    <num>(i)</num>
+                    <p>the Indian Christian Marriage Act, 1872; (15 of 1872);</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>the Anand Marriage Act, 1909 (7 of 1909);</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.iii">
+                    <num>(iii)</num>
+                    <p>the Muslim Personal Law (Shariat) Application Act, 1937 (26 of 1937);</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.iv">
+                    <num>(iv)</num>
+                    <p>the Hindu Marriage Act, 1955 (25 of 1955); or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.v">
+                    <num>(v)</num>
+                    <p>any other custom or personal law relating to marriages;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>"marriage register" means a register of marriages maintained under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>"Municipality" means an institution of self-government constituted under article 243Q of the Constitution of India;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <blockList id="section-2.paragraph-0.list1.g.list1">
+                  <listIntroduction>"Non-resident Indian" (NR I) means a person of Indian origin, who is either permanently or temporarily settled outside India for any of the following purposes,-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.g.list1.i">
+                    <num>(i)</num>
+                    <p>for or on taking up employment outside India; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.g.list1.ii">
+                    <num>(ii)</num>
+                    <p>for carrying on a business or vocation outside India; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.g.list1.iii">
+                    <num>(iii)</num>
+                    <p>for any other purpose, as would indicate his/her intention in such circumstances to stay outside the territorial limits of India for an uncertain or determined period for fulfilling or completing such purpose;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>"Panchayat"means an institution (by whatever name called) of self government for the rural areas constituted under article 243B of the Constitution of India;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>"prescribed" means prescribed by the rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>"Priest" means any person performing religious rites of any religion and who has solemnized the marriage, sought to be registered;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>"Registrar of Marriages" means a Registrar of Marriages appointed as such by the State Government under section 11; and</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.l">
+                <num>(l)</num>
+                <p>"State Government" means the Government of the State of Punjab.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Every marriage to be registered</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list1">
+              <listIntroduction>On or after the commencement of this Act, every marriage,-</listIntroduction>
+              <item id="section-3.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>between the parties, who are Indian nationals; or</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>between the parties, one of whom at least is a citizen of India and other a non-resident Indian or a foreign national,</p>
+              </item>
+            </blockList>
+            <p>solemnized or performed irrespective of religion, caste, creed or nationality shall be registered in the manner as provided in section 4;</p>
+            <p>Provided that in case of any marriage, where one of the parties is non-resident Indian or foreign national, it shall be mandatory for such parties to disclose and mention in writing, his/her passport number, name of country from which it has been issued and its period of validity, besides his/her permanent residential/ official address in the country of current overseas abode and his/her valid, present social security number or any such similar other indetification proof officially issued by the country of foreign abode, which information shall be entered in the certificate of marriage as also in the marriage register.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Memorandum of Marriage</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>The parties to a marriage or any of their parents or relations, shall prepare and sign a memorandum in such form, as may be prescribed, and shall present the same in duplicate to the registrar of Marriages as per provisions of section 5, within a period of three months from the date of the marriage.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The memorandum shall also be signed by the priest.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>The memorandum shall be accompanied by such fee in the form of court fee stamps and shall be attested by such person, as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-4.4.list1">
+              <listIntroduction>Where the Registrar of Marriages, before whom the memorandum is presented under sub-section ( I ), on scrutiny finds or otherwise has reason to believe that,-</listIntroduction>
+              <item id="section-4.4.list1.a">
+                <num>(a)</num>
+                <p>the marriage between the parties, has not been performed in accordance with the personal law, applicable to the parties; or</p>
+              </item>
+              <item id="section-4.4.list1.b">
+                <num>(b)</num>
+                <p>the identity of the parties of the witnesses or the persons, testifying the identity of the parties and the solemnization of the marriage is not established beyond reasonable doubt; or</p>
+              </item>
+              <item id="section-4.4.list1.c">
+                <num>(c)</num>
+                <p>the documents attached to the said memorandum do not prove the marital status of the parties,</p>
+              </item>
+            </blockList>
+            <blockList id="section-4.4.list3">
+              <listIntroduction>he may, after hearing the parties and recording the reasons to do so in writing, refuse to register the marriage, and may —</listIntroduction>
+              <item id="section-4.4.list3.i">
+                <num>(i)</num>
+                <p>call upon the parties to produce such further information or documents, as he may deem necessary for establishing the</p>
+              </item>
+            </blockList>
+            <blockList id="section-4.4.list5">
+              <listIntroduction>identity of the parties and the witnesses or correctness of the information or documents, presented to him or for any other reason specified in writing; or</listIntroduction>
+              <item id="section-4.4.list5.ii">
+                <num>(ii)</num>
+                <p>if deemed necessary, refer the relevant documents to the concerned Government agency within whose jurisdiction, the parties reside for verification.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.5">
+          <num>(5)</num>
+          <content>
+            <p>Where on scrutiny of documents presented to him or on further information as provided under sub-section (4), the Registrar of Marriages is satisfied that there is no objection to register the marriage, he shall enter the same in the marriage register within the prescribed period. If in the opinion of the Registrar of Marriages, the marriage is not fit for registration, he shall pass an order of refusal, in writing, after recording the reasons therefor and send a copy thereof to the District Registrar of Marriages.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.6">
+          <num>(6)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (5), the Registrar of Marriages either suo-mwo or otherwise, may enter any marriage, which takes place in his jurisdiction in the marriage register, after calling the parties and ascertaining the facts, required for registration of marriage.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.7">
+          <num>(7)</num>
+          <content>
+            <p>The persons who have solemnized their marriages, before the date of commencement of this Act, may also get their marriages registered, if they or any of them, were residents of the State of Punjab at the time of marriage, subject, however, to the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.8">
+          <num>(8)</num>
+          <content>
+            <p>If a marriage is already registered outside the State of Punjab, it shall not registered again in the State of Punjab</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Memorandum of marriage submitted after the stipulated period.</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The memorandum of marriage may be submitted to the Registrar of Marriages, after the the expiry of a period of three months, but not after six months, alongwith such fee, as may be prescribed, by describing the reasons for not submitting the said memorandum within the stipulated period.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Any marriage of which delayed information is given to the Registrar of Marriages, after the expiry of a period of six months, but within one year of its occurrence, shall be registered only with the written permisson of the prescribed authority and on payment of the prescribed fee and submission of an affidavit duly attested by a Notary Public or any other officer, authorized by the State Government in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>Any marriage, which has not been registered within a period of one year from the date of its occurrence, shall be registered only with the written permission of the Chief Registrar of Marriages and on payment of such fee, as may be prescribed and on submission of an affidavit duly attested by an officer authorized by the State Government in this behalf.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Place of registration of marriage.</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <p>The Registration of marriage shall be made in the office of the Registrar of Marriages, within whose jurisdiction the marriage was solemnized or within whose jurisdiction, either or both parties to the marriage have their permanent place of residence. In case of marriages, solemnized outside the State of Punjab, the registration of marriages can be made in the office of Registrar of Marriages where either party or parties thereto have their temporary residence in the State of Punjab.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Appeal</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person,aggrieved by the order of Registrar of Marriages Appeal.</p>
+            <p>refusing to register a marriage under sub-section (5) of section 4, may, within a period of thirty days from the date of passing of such order, appeal to the District Registrar of Marriages in such manner and on payment of such fees, as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>The District Registrar of Marriages may, after giving an opportunity of being heard to the parties concerned, pass an order confirming the order of the Registrar of Marriages or after recording the reasons, in writing, direct the Registrar of Marriages to register the marriage or may pass such order, as he may deem fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Any person aggrieved by the order of the. District Registrar of Marriages confirming the order of refusal to register a marriage under sub-section (2), may, within a period of sixty days from the date of receipt of such order, further appeal to the Chief Registrar of Marriages in such manner and on payment of such fee, as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>The Chief Registrar of Marriages, after giving an opportunity of being heard to the party concerned, shall pass an order confirming the order of the District Registrar of Marriages or the Registrar of Marriages concerned or after recording the reasons, in writing, direct the District Registrar of Marriages or the registrar of Marriages concerned, as the case may be, to register the marriage or shall pass such order, as he may deem fit.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Non-registration not to invalidate marriage.</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <p>No marriage in the State of Punjab shall be deemed to be invalid solely by the reason or the fact that it was not registered under this Act or that the memorandum was not presented to the registrar of Marriages or that such memorandum was defective or incorrect.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Chief Registrar of Marriages.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>For carrying out the purposes of this Act, the State of Government shall, by notification in the Official Gazette, appoint an officer, to be the Chief Registrar of Marriages and such other officers to assist him, as it may deem fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>The Chief Registrar of Marriages shall have jurisdiction over whole of the State of Punjab and shall have all the powers and perform all the duties conferred and imposed upon him under this Act. All other officers, appointed under sub-section (I), shall exercise such powers, as may be conferred upon them by the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>Every officer, appointed under sub-section (1), to assist the Chief Registrar of Marriages, shall exercise his powers, subject to the general superintendence and control of the Chief Registrar of Marriages.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.4">
+          <num>(4)</num>
+          <content>
+            <p>The Chief Registrar of Marriages shall be the Chief Executive Authority in the State of Punjab for the purpose of giving effect to the provisions of this Act and the rules made thereunder. For this purpose, he may issue directions to all concerned to co-ordinate and assist in the working of registration of marriages in an efficient way and shall prepare a report in this regard in such form and submit the same to the State Government in such manner and at such intervals, as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>District Registrar of Marriages.</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall appoint a District Registrar of Marriages for each District and such number of Additional District Registrars of Marriages, as it may deem fit, who shall, subject to the general control and directions of the District Registrar of Marriages, discharge such functions, as the District Registrar of Marriages may, from time to time, assign to them.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the general superintendence and control of the Chief Registrar of Marriages, the District Registrar of Marriages shall, superintendent the registration of marriages in the district, and shall be responsible for giving effect to the provisions of this Act and the rules made thereunder or the directions issued by the Chief Registrar of Marriages from time to time.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Registrar of Marriages.</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall appoint a Registrar of Marriages for comprising the area of a tehsil or sub-tehsil or a combination of any two or more for carrying into execution in such areas the provisions of this Act;</p>
+            <p>Provided that the State Government may appoint, in the case of Municipality or Panchayat or group of Panchayats, any officer or employee thereof, to be a Registrar of Marriages under the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>The Registrar of Marriages may also suo-moto, or on notice, without fee or reward, enter and register any marriage which takes place in his jurisdiction in the marriage register maintained under this Act, after calling the parties concerned and ascertaining the facts which require such marriage to be registered.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>Every Registrar of Marriages shall have an office in the local area of his jurisdiction for which he is so appointed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.4">
+          <num>(4)</num>
+          <content>
+            <p>Every Registrar of Marriages shall attend his office for the purpose of registering marriages on such days and at such public hours as the Chief Registrar may direct and shall cause to be placed in a conspicuous place on or near the outer door of his office, a board bearing, in the local language, his name and the designation of the word "Registrar of Marriages" and the public days and hours of his attendance.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Maintenance of marriage register.</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>Every Registrar of Marriages shall maintain a marriage register, for the area or part thereof, in relation to which he exercises jurisdiction in such form, language and manner, as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Correction or cancellation of entry in the marriage register.</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>If the Registrar of Marriages finds that any entry of a marriage in the marriage register kept by him under this Act, is erroneous in form or substance or has been fradulently or improperly made, he may, subject to such rules, as may be made by the State Government with respect to the conditions on which and the circumstances in which, such entries may be corrected or cancelled, correct the error or cancel the entire by making a suitable entry in the margin, without any alteration of the original entry, and shall sign and attest such entry, made in the margin and indicate the date of correction or cancellation, so made.</p>
+            <p>Provided that no such correction or alteration shall be made to the deteriment of any person without giving him an opportunity of being heard.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Search of marriage register.</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-14.1.list1">
+              <listIntroduction>Subject to the rules made in this behalf by the State Government including rules relating to the payment of fees and postal charges, any person may,-</listIntroduction>
+              <item id="section-14.1.list1.a">
+                <num>(a)</num>
+                <p>cause a search to be made in the presence of the Registrar of Marriages or any other officer or official, duly authorized by him, for any entry in a register of marriages; or</p>
+              </item>
+              <item id="section-14.1.list1.b">
+                <num>(b)</num>
+                <p>obtain an extract from such register relating to any marriage.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>All extracts, supplied under sub-section (1), shall be certified by the Registrar of Marriages or any other officer authorized by the State Government to supply such extracts as provided in section 76 of the Indian Evidence Act, 1872 (Central Act 1 of 1872), and shall be admissible in evidence for the purpose of proving the marriage to which these extracts relate.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Penalty.</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <blockList id="section-15.paragraph-0.list1">
+              <listIntroduction>Any person,who,-</listIntroduction>
+              <item id="section-15.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>Willfully omits or fails to present or send memorandum as required under section 4;or</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>makes any statement in such memorandum, which is false in material particulars and which he knows or has reason to believe to be false; or</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>secretly destroys or dishonestly or fraudulently alters the marriage register or any part thereof.</p>
+              </item>
+            </blockList>
+            <p>shall be liable to fine, which may extend to one thousand rupees.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Chief Registrar of Marriages, District Registrar of Marriages, Registrar of Marriages and other officers to be public servants.</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>The Chief Registrar of Marriages, the District Registrar of Marriages, the Registrar of Marriages and other officers, appointed to perform functions under this Act, shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code, 1860 (45 of 1860)</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Protection of actions taken in good faith.</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall be instituted against any person for anything which is in good faith, done or intended to be done under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power of the State Government to make rules</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-18.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing powers such rules may provide for all or any of the following matter, namely.</listIntroduction>
+              <item id="section-18.2.list1.a">
+                <num>(a)</num>
+                <p>the form of memorandum, fee and the person, who shall attest the same under sub-section (1) and (3) of section 4;</p>
+              </item>
+              <item id="section-18.2.list1.b">
+                <num>(b)</num>
+                <p>the period within which a marriage is to be registered under sub-section (5) of section 4;</p>
+              </item>
+              <item id="section-18.2.list1.c">
+                <num>(c)</num>
+                <p>the fee payable under sub-section (1),(2) and (3) of section 5;</p>
+              </item>
+              <item id="section-18.2.list1.d">
+                <num>(d)</num>
+                <p>the authority mentioned in sub-section (2) of section 5;</p>
+              </item>
+              <item id="section-18.2.list1.e">
+                <num>(e)</num>
+                <p>the manner and fee for filing an appeal under sub-section ( I ) of section 7;</p>
+              </item>
+              <item id="section-18.2.list1.f">
+                <num>(f)</num>
+                <p>the manner and fee for filing of further appeal under sub-section (3) of section 7;</p>
+              </item>
+              <item id="section-18.2.list1.g">
+                <num>(g)</num>
+                <p>the form, manner and intervals at which the report of working of registration of marriages under this Act is to be submitted under sub-section (4) of section 9;</p>
+              </item>
+              <item id="section-18.2.list1.h">
+                <num>(h)</num>
+                <p>the form, language and manner in which marriage register is to be maintained under section 12;</p>
+              </item>
+              <item id="section-18.2.list1.i">
+                <num>(i)</num>
+                <p>the conditions on which and the circumstances in which, entries may be corrected or cancelled under section 13;</p>
+              </item>
+              <item id="section-18.2.list1.j">
+                <num>(j)</num>
+                <p>the fee for search of any entry in a marriage register and for obtaining an extract under sub-section (1) of section 14; and</p>
+              </item>
+              <item id="section-18.2.list1.k">
+                <num>(k)</num>
+                <p>any other matter required to be prescribed by or under this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section, shall be laid, as soon as may be, after it is made, before the House of the State Legislature while it is in session for a total period often days, which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session in which it is so laid or the successive sessions as aforesaid, the House agree in making any modification in the rule or the House agree that the rule should not be made, the rule shall thereafter, have effect only in such modified form or be of no effect, as the case may be, so however, that any such modification or annulment, shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Provisions not to be derogatory to certain laws.</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>The provisions of this Act shall be addition to and not in derogation of the provisions of the Indian Christian Marriage Act, 1872 (15 of 1872), the Anand Marriage Act, 1909 (7 of 1909), the Muslim Personal Law (Shariat) Application Act, 1937 (26 of 1937) and the Hindu Marriage Act, 1955 (25 of 1955).</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

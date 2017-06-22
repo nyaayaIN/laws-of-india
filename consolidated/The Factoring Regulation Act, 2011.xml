@@ -1,0 +1,956 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2012/12/main"/>
+          <FRBRuri value="/in-union/act/2012/12"/>
+          <FRBRalias value="The Factoring Regulation Act, 2011"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2012/12/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2012/12/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2012/12/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/2012/12/eng@2017-01-25"/>
+          <FRBRdate date="2016-09-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Factoring Regulation Act, 2011</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act No. 12 of 2012]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[22nd January, 2012]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for and regulate assignment of receivables by making provision for registration therefor and rights and obligations of parties to contract for assignment of receivables and for matters connected therewith or incidental thereto. BE it enacted by Parliament in the Sixty-second Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Factoring Regulation Act, 2011.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint:</p>
+            <p>Provided that different dates may b be appointed for different provisions of this Act, and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>"assignment" means transfer b by agreement, of undivided interest of any assignor in any receivable due from any debtor in favour of a factor and includes an assignment where either the assignor or the debtor, are situated or established outside India.</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list3">
+              <listIntroduction>Explanation.-For the purposes of this clause, undivided interest of any assignor in any receivable shall not include creation of rights in receivables as security for r loans and advances or other obligations by a Bank or a financial institution;</listIntroduction>
+              <item id="section-2.paragraph-0.list3.b">
+                <num>(b)</num>
+                <p>"assignee" means a factor in whose favour the receivable is transferred;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.c">
+                <num>(c)</num>
+                <p>"assignor" means any person who is the owner of any receivable;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.d">
+                <num>(d)</num>
+                <blockList id="section-2.paragraph-0.list3.d.list0">
+                  <listIntroduction>"Bank" means,</listIntroduction>
+                  <item id="section-2.paragraph-0.list3.d.list0.i">
+                    <num>(i)</num>
+                    <p>a banking company;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>a corresponding new bank;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.d.list0.iii">
+                    <num>(iii)</num>
+                    <p>the State Bank of India;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.d.list0.iv">
+                    <num>(iv)</num>
+                    <p>a subsidiary bank;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.d.list0.v">
+                    <num>(v)</num>
+                    <p>such other bank which the Central Government may by notification specify for the purposes of this Act on the recommendations of the Reserve Bank; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.d.list0.vi">
+                    <num>(vi)</num>
+                    <p>a Multi-State Co-operative Society registered under the Multi-State Co-operative Societies Act, 2002 (39 of 2002) and licensed to undertake business of banking by the Reserve Bank under the provisions of the Banking Regulation Act, 1949 (10 of 1949) ;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list3.e">
+                <num>(e)</num>
+                <p>"banking company" shall have the meaning assigned to it in clause (c) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.f">
+                <num>(f)</num>
+                <p>"business enterprise" means any enterprise or medium enterprise, micro enterprise or small enterprise as defined in clauses (e), (g), (h) and (m) of section 2 of the Micro, Small and Medium Enterprises Development Act, 2006, (27 of 2006) respectively engaged in any business activity;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.g">
+                <num>(g)</num>
+                <p>"corresponding new bank" shall have the meaning assigned to it in clause (da) of section 5 of the Banking Regulation Act, 1949 (10 of 1949);</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.h">
+                <num>(h)</num>
+                <p>"debtor" means any person liable to the assignor, whether under a contract or otherwise, to pay any receivable or discharge any obligation in respect of the receivable whether existing, accruing, future, conditional or contingent;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>"factor" means a non-banking financial company as defined in clause (f) of section 45-I of the Reserve Bank of India Act, 1934, (2 of 1934) which has been granted a certificate of registration under sub-section (1) of section 3 or anybody corporate established under an Act of Parliament or any State Legislature or any Bank or any company registered under the Companies Act, 1956 (1 of 1956) engaged in the factoring business;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.j">
+                <num>(j)</num>
+                <blockList id="section-2.paragraph-0.list3.j.list1">
+                  <listIntroduction>"factoring business" means the business of acquisition of receivables of assignor by accepting assignment of such receivables or financing, whether by way of making loans or advances or otherwise against the security interest over any receivables but does not include-.</listIntroduction>
+                  <item id="section-2.paragraph-0.list3.j.list1.i">
+                    <num>(i)</num>
+                    <p>credit facilities provided by a bank in its ordinary course of business against security of receivables;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.j.list1.ii">
+                    <num>(ii)</num>
+                    <p>any activity as commission agent or otherwise for sale of agricultural produce or goods of any kind what so ever or any activity relating to the production, storage, supply, distribution, acquisition or control of such produce or goods or provision of any services.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list5">
+              <listIntroduction>Explanation. -For the purposes of this clause-</listIntroduction>
+              <item id="section-2.paragraph-0.list5.i">
+                <num>(i)</num>
+                <p>the expression "agricultural produce" shall have the meaning assigned to it under clause (a) of section 2 of the Agricultural Produce (Grading and Marking) Act, 1937 (1 of 1937) and;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.ii">
+                <num>(ii)</num>
+                <p>the expressions "goods" and "commission agent" shall have the meanings assigned to them respectively under clause (d) and Explanation (ii) of clause (i) of section 2 of the Forward Contracts (Regulation) Act, 1952 (74 of 1952);</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.k">
+                <num>(k)</num>
+                <p>"financial contract" means any spot, forward, future, option or swap transaction involving interest rates, commodities, currencies, shares, bonds, debentures or any other financial instrument, any repurchase of securities and lending transaction or any other similar transaction or combination of such transactions entered into in the financial markets;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.l">
+                <num>(l)</num>
+                <p>"netting agreement" means any agreement among the system participants for the purpose of determination by the system provider of the amount of money or securities due or payable or deliverable as a result of setting off or adjusting the payment obligations or delivery obligations among the system participants, including the claims and obligations arising out of the termination by the system provider, on the insolvency or dissolution or winding up of any system participant or such circumstances as the system provider, may specify in its rules or regulations or bye-laws (by whatever name called), of the transactions admitted for settlement at a future date so that only a net claim be demanded or a net obligation be owned;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.m">
+                <num>(m)</num>
+                <p>"notification" means a notification published in the Official Gazette;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.n">
+                <num>(n)</num>
+                <p>"prescribed" means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.o">
+                <num>(o)</num>
+                <p>"property" means,</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.i">
+                <num>(i)</num>
+                <p>the immovable property;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.ii">
+                <num>(ii)</num>
+                <p>the movable property;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.iii">
+                <num>(iii)</num>
+                <p>any debt or any right to receive payment of money, whether secured or unsecured;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.iv">
+                <num>(iv)</num>
+                <p>the receivables;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.v">
+                <num>(v)</num>
+                <p>the intangible assets, being know-how, patent, copyright, design, trade mark, licence, franchise or any other business or commercial right of similar nature;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.p">
+                <num>(p)</num>
+                <p>"receivables" mean all or part of or undivided interest in any right of any person under a contract including an international contract where either the assignor or the debtor or the assignee is situated or established in a State outside India; to payment of a monetary sum whether such right is existing, future, accruing, conditional or contingent arising from and includes, any arrangement requiring payment of toll or any other sum, by whatever name called, for the use of any infrastructure facility or services;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.q">
+                <num>(q)</num>
+                <p>"Reserve Bank", means the Reserve Bank of India constituted under section 3 of the Reserve Bank of India Act, 1934; (2 of 1934).</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.r">
+                <num>(r)</num>
+                <p>"State Bank of India" means the State Bank of India constituted under section 3 of the State Bank of India Act, 1955; (23 of 1955).</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.s">
+                <num>(s)</num>
+                <p>"Subsidiary Bank" shall have the meaning assigned to it in clause (k) of section 2 of the State Bank of India (Subsidiary Banks) Act, 1959; (38 of 1959).</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.t">
+                <num>(t)</num>
+                <p>words and expressions used and not defined in this Act but defined in the Reserve Bank of India Act, 1934 (2 of 1934), the Banking Regulation Act, 1949 (10 of 1949), the Companies Act, 1956 (1 of 1956), the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002), the Credit Information Companies (Regulation) Act, 2005 (30 of 2005), or the Micro, Small and Medium Enterprises Development Act, 2006 (27 of 2006). shall have the meanings respectively assigned to them in those Acts.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Registration of factors</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>No factor shall commence or carry on the factoring business unless it obtains a certificate of registration from the Reserve Bank to commence or carry on the factoring business under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>Every factor shall make an application for registration to the Reserve Bank in such form and manner as it may specify:</p>
+            <p>Provided that a company registered as a non-banking financial company and existing on the commencement of this Act and engaged in factoring business as its principal business before such commencement shall make an application for registration as a factor to the Reserve Bank before the expiry of the period of six months from such commencement and, not withstanding anything contained in sub-section (1), may continue to carry on the factoring business until a certificate of registration is issued to it or rejection of application for registration is communicated to it.</p>
+            <blockList id="section-3.2.list3">
+              <listIntroduction>Explanation.-For the removal of doubts it is hereby clarified that a non-banking financial company engaged in factoring business shall be treated as engaged in factoring business as its "principal business" if it fulfills the following conditions, namely:-</listIntroduction>
+              <item id="section-3.2.list3.a">
+                <num>(a)</num>
+                <p>if its financial assets in the factoring business are more than fifty per cent. of its total assets or such per cent. as may be stipulated by the Reserve Bank; and</p>
+              </item>
+              <item id="section-3.2.list3.b">
+                <num>(b)</num>
+                <p>if its income from factoring business is more than fifty per cent. of the gross income or such per cent. as may be stipulated by the Reserve Bank.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>Every applicant for grant of a certificate of a registration as a factor shall comply, for the purpose of registration, with all the requirements to be fulfilled by an applicant for grant of certificate of registration as non-banking financial company under the Reserve Bank: of India Act, 1934 (2 of 1934) and all the provisions of that Act, so far as they relate to the registration of non-banking financial companies shall (except those provided for under this Act) mutatis mutandis apply.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <p>In the case of existing non-banking financial company the Reserve Bank may issue a fresh certificate of registration as a factor, if the principal business of the non-banking financial company is the factoring business.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>Save as otherwise provided in this Act, every factor including factors not subject. to requirement of registration under section 5, shall be governed by the Reserve Bank of India Act, 1934(2 of 1934), the rules and regulations made thereunder and the directions or guidelines issued by the Reserve Bank, from time to time.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Provisions of non-banking financial companies apply to factor</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>All provisions of Chapter IIIB of the Reserve Bank of India Act, 1934 relating to non-banking financial companies which have been granted a certificate of registration under sub-section (5) of section 45-IA of the Reserve Bank of India Act; 1934 shall (except those specifically provided for under this Act) mutatis mutandis apply to a factor which has been granted a certificate of registration under section 3.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Requirement for registration as a factor not to apply to bank or Statutory corporation or Government company</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <p>Nothing contained in section 3 shall apply to a bank or any corporation established under an Act of Parliament or State Legislature, or a Government Company as defined under section 617 of the Companies Act, 1956 (1 of 1956)</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Powers of Reserve Bank to give directions and to collect information from factors</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Reserve Bank may, at any time by general or special order, direct that every factor shall furnish to it, in such form, at such intervals and within such time, such statements, information or particulars relating to factoring business undertaken by the factor, as may be specified by the Reserve Bank from time to time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The Reserve Bank may, if it considers necessary in the interest of business enterprises availing factoring services or in the interest of factors or interest of other stake holders give directions to the factors either generally or to any factor in particular or group of factors in respect of any matters relating to or connected with the factoring business undertaken by such factors.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>If any factor fails to comply with 'any direction given by the Reserve Bank under sub-section (2), the Reserve Bank may prohibit such factor from undertaking the factoring business: Provided that before prohibiting any factor from undertaking the factoring business, the factor shall be given a reasonable opportunity of being heard.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Assignment of receivables</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Any assignor may, by an agreement in writing, assign any receivable due and payable to him by any debtor, to any factor, being the assignee, for a consideration as may be agreed between the assignor and the assignee and the assignor shall at the time of such assignment, disclose to the assignee any defences and right of set off that may be available to the debtor:</p>
+            <p>Provided that if the debtor liable to pay the receivable or the business of factor is situated or established outside India, any assignment of receivable shall be subject to the provisions of the Foreign Exchange Management Act, 1999 (42 of 1999).</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>On execution of agreement in writing for assignment of receivables, all the rights, remedies and any security interest created over any property exclusively to secure the due payment of receivable shall vest in the assignee and the assignee shall have an absolute right to recover such receivable and exercise all the rights arid remedies of the assignor whether by way of damages or otherwise, or whether notice of assignment as provided in section 8 is given or not.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Any assignment of receivables which constitute security for repayment of any loan advanced by any Bank or other creditor and if the assignor has given notice of such encumbrance to the assignee, then on accepting assignment of such receivable, the assignee shall pay the consideration for such assignment to the Bank or the creditor, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Notice to debtor and discharge of obligation of such debtor</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <p>Any assignee of a receivable shall not be entitled to demand payment of the receivable from the debtor in respect of such receivables unless notice of such assignment is given to the debtor by the assignor or the assignee along with express authority in its favour granted by the assignor.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Discharge of liability of debtor on payment to assignee</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>Where a notice of assignment of receivable is given by the assignor or the assignee, as the case may be, under section 8 the debtor on receipt of such notice, shall make payment to the assignee and payment made to such assignee in discharge of any obligation in relation to the receivables specified in the notice shall fully discharge the debtor making the payment, from corresponding liability in respect of such payment.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Payment made by debtor to assignor to be held in trust for benefit of assignee in certain cases</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>Where no notice of assignment of receivables is given by the assignor or under his authority by the assignee, any payment made by the debtor in respect of such receivables to the assignor shall be held in trust for the benefit of the assignee which shall be forthwith be paid over to such assignee, as the case may be, or its agent duly authorised in this behalf.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Rights and obligations of parties to contract for assignment of receivables</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>Without prejudice to the provisions contained in any other law for the time being in force, the debtor shall have the right to notice of assignment under section 8 before any demand is made on it by the assignee and until notice is served on the debtor, the debtor shall be entitled to make payments to the assignor in respect of assigned receivables in accordance with the original contract and such payment shall fully discharge the debtor from corresponding liability under the original contract.</p>
+            <p>Explanation : For the removal of doubts, it is hereby clarified that nothing contained in this section shall affect the rights of debtor to make payment to the assignee under section 9.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Liability of debtor</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <blockList id="section-12.paragraph-0.list1">
+              <listIntroduction>Where a notice of assignment as referred to in section 8 is served, the debtor shall,-</listIntroduction>
+              <item id="section-12.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>intimate the assignee the details of the deposits or advance or payment on account made to the assignor before the receipt of notice of assignment and also provide any other information to the assignee relating to 'the receivable as and when called upon by the assignee to do so;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>not be entitled to a valid discharge of his liability in respect of assigned receivables, unless he makes the payment due on an assigned receivables to the assignee.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Assignor to be trustee of assignee</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Notwithstanding anything to the contrary contained in any other law for the time being in force, where a debtor makes any payment to an assignor which represents payment due on an assigned receivable, such payment shall be deemed to be for the benefit of the assignee, and the assignor shall be deemed to have received the amount of such payment as a trustee of the assignee and the assignor shall make payment of such amount to the assignee.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Liability of debtor in case of an assignor being micro or small enterprises</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>If the assignor of receivables is a micro or small enterprise, the liability of the debtor to make payment due on assigned receivables shall be subject to the provisions contained in sections 15 to 17 of the Micro, Small and Medium Enterprises Development Act, 2006 (27 of 2006) with regards to the delayed payments of the receivables.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content/>
+        </subsection>
+      </section>
+      <section id="section-1n">
+        <num>1n.</num>
+        <heading>the event of delay in payment on the part of the debtor to pay the receivable of any micro or small enterprise, the assignee shall be entitled to receive interest for the delayed period and shall take steps under the provisions of the Micro; Small and Medium Enterprises Development Act, 2006 (27 of 2006), for the purpose of the recovery of the interest and shall pay such interest to the micro or small enterprise.</heading>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Principle of debtor protection</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <p>Save as otherwise provided in this Act, any assignment of the receivable shall not, without the express consent of the debtor in writing, affect the rights and obligations of the debtor (including the terms and conditions of the contract).</p>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-15.2.list1">
+              <listIntroduction>Consequent upon the assignment of receivables, the payment instruction under the contract entered into between assignor and debtor may modify the name of person, address or account to which the debtor is required to make payment, but such instructions shall not modify:</listIntroduction>
+              <item id="section-15.2.list1.a">
+                <num>(a)</num>
+                <p>the amount of debt specified in the original contract; or</p>
+              </item>
+              <item id="section-15.2.list1.b">
+                <num>(b)</num>
+                <p>the place specified in the original contract at which payment is to be made or in case no such place is mentioned in the contract, the place of payment to a place other than where the debtor is situated; or</p>
+              </item>
+              <item id="section-15.2.list1.c">
+                <num>(c)</num>
+                <p>the date on which payment is to be made or other terms of the original contract relating to payment.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Defences and right of set off of debtor</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <blockList id="section-16.paragraph-0.list1">
+              <listIntroduction>In a claim by the assignee against the debtor for payment of the assigned receivable, the debtor may raise against the assignee,-</listIntroduction>
+              <item id="section-16.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>all defences and right of set off arising from the original contract, entered into between the assignor and debtor or any other contract that was part of the same transaction, of which the debtor could avail himself as if the assignment had not been made and such claim were made by the assignor instead of assignee:</p>
+              </item>
+            </blockList>
+            <blockList id="section-16.paragraph-0.list3">
+              <listIntroduction>Provided that the assignee shall, unless otherwise agreed between the parties, be entitled to recover from the assignor, any loss suffered by it as a result of any such defences and right of set off being exercised by the debtor;</listIntroduction>
+              <item id="section-16.paragraph-0.list3.b">
+                <num>(b)</num>
+                <p>any other right of set off if it was available to the debtor at the time notice, under section 8, of the assignment was received by the debtor.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Modification of original contract</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>Any agreement made before service of notice, under section 8, of the assignment of a receivable between the assignor and the debtor that affects the assignee's rights in respect of that receivable shall be effective as against the assignee, and the assignee shall acquire rights in the assigned receivables, as modified by such agreement.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-17.2.list1">
+              <listIntroduction>Any agreement made, after notice of the assignment between the assignor and the debtor that affects the assignee's rights, shall be ineffective as against the assignee unless,</listIntroduction>
+              <item id="section-17.2.list1.a">
+                <num>(a)</num>
+                <p>the assignee consents to it; or</p>
+              </item>
+              <item id="section-17.2.list1.b">
+                <num>(b)</num>
+                <p>the receivable is not fully earned by performance and either the modification is provided for in the original contract or, in the context of the original contract, a -reasonable assignee would consent to the modification,</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing contained in sub-sections (1) and (2) shall affect any right of the assignor or the assignee arising from breach of an agreement between them.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Breach of contract</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>If the assignor commits any breach of the original contract with the debtor, such breach shall not entitle the debtor to recover from the assignee any sum paid by the debtor to the assignor or the assignee pursuant to the factoring transactions:</p>
+            <p>Provided that nothing contained in this section shall affect the rights of the debtor to claim from the assignor any loss or damages caused to him by reason of breach of the original contract.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Registration of certain assignments of receivables transactions</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>Every factor shall file, for the purposes of registration, the particulars of every transaction of assignment of receivables in his favour with the Central Registry to be set-up under section 20 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002), within a period of thirty days from the date of such assignment or from the date of establishment of such registry, as the case may be, in the manner and subject to payment of such fee as may be prescribed in this behalf.</p>
+            <p>Explanation. -For the purpose of filing of particulars of every transaction of assignment of receivables with the Central Registry, the receivables may be described specifically or generally with reference to the debtor, or the period to which they relate or by any other general description by which such receivables can be identified.</p>
+          </content>
+        </paragraph>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this Act, a record called the Central Register shall be kept at the head office of the Central Registry for entering the particulars of the transactions relating to assignment of receivables in favour of a factor.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.3">
+          <num>(3)</num>
+          <content>
+            <p>On realisation of the assigned receivables or settlement of the claim against the debtors, the factor shall file satisfaction of the assignment of receivables in its favour, in such manner and subject to payment of such fees as may be prescribed in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.4">
+          <num>(4)</num>
+          <content>
+            <p>The provisions for registration of transactions contained in the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002) and the rules made there under shall, mutatis mutandis, apply to the record of assignment of receivables in favour of a factor in the Central Register with the Central Registry.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Public inspection</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>The particulars of transactions of assignment of receivables entered in the Central Register of such transactions under section 19 shall be open during business hours for inspection by any person on payment of such fee as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Register referred to in sub-section (2) of section 19 maintained in electronic form, shall also be open during the business hours or such extended hours as may be specified by the Central Registry for inspection by any person through electronic media on payment of such fee as may be prescribed. .</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions for maintenance-of Central Register and public inspection thereof contained in the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002) and the rules made there under shall, mutatis mutandis, apply.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Penalties</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>If a default is made in filing under section 19 the particulars of any transaction of assignment of receivables and realisation of receivables by a factor, such company and every officer of the company who is in default shall be punishable with fine which may extend to five thousand rupees for every day during which the default continues.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Penalties for non-compliance of direction of Reserve Bank</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>If any factor fails to comply with any direction issued by the Reserve Bank under section 6, the Reserve Bank may impose a penalty which may extend to five lakh rupees and in the case of a continuing offence, with an additional fine which may extend to ten thousand rupees for every day during which the default continues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <p>For the purpose of adjudging the penalty under sub-section(1), the Reserve Bank shall serve notice on the factor requiring it to show cause why the amount specified in the notice should not be imposed and a reasonable opportunity of being heard shall also be given to such factor.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>Any penalty imposed by the Reserve Bank under this section shall be payable within a period of fourteen days from the date on which notice issued by the Reserve Bank demanding payment of the sum is served on the factor and in the event of failure of the factor to pay the sum within such period, may be levied on a direction made by the principal civil court having jurisdiction in the area where the registered office of the factor is situated; or, in the case of a factor incorporated outside India, where its principal place of business in India is situated:</p>
+            <p>Provided that no such direction shall be made except on an application made to the court by the Reserve Bank or any officer authorised by Reserve Bank in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.4">
+          <num>(4)</num>
+          <content>
+            <p>The court which makes a direction under sub-section (3) shall issue a certificate 'specifying the sum payable by the factor and every such certificate shall be enforceable in the same manner as if it were a decree made by the court in a civil suit.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Offences</heading>
+        <paragraph id="section-23.paragraph-0">
+          <content>
+            <p>If any person contravenes or attempts to contravene or abets the contravention of the provisions of this Act or of any rules made there under, for which no specific penalty has been provided for, he shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Cognizance of offences</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>No Court shall take cognizance of any offence punishable under this Act except upon a complaint in writing made by an officer of the Reserve Bank, generally or specially authorised in writing in this behalf by the Reserve Bank.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>No Court other than that of a Metropolitan Magistrate or a Judicial Magistrate of the first class or a court superior there to shall try any such offence punishable under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Offences by factors</heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an offence under this Act has been committed by a factor, every person who at the time the offence was committed was in charge of and was responsible to, the factor, for the conduct of the business of the factor, as well as the factor, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he has exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a factor and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary or other officer of the factor, such director, manager, secretary or other officer shall also be. deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <p>Explanation. -For the purpose of this section, a "director", in relation to a factor means any officer entrusted with the management of the whole or substantially the affairs of the factor.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Provisions of this Act to override other laws</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <p>The provisions of this Act shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having effect by virtue of any such law.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Application of other laws not barred</heading>
+        <paragraph id="section-27.paragraph-0">
+          <content>
+            <p>The provisions of this Act or the rules made there under shall be in addition to and not in derogation of the Negotiable Instruments Act, 1881(26 of 1881), the Transfer of Property Act, 1882 (4 of 1882), the Reserve Bank of India Act, 1934 (2 of 1934), the Banking Regulation Act, 1949 (10 of 1949) the Companies Act, 1956 (1 of 1956), the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002), the Micro, Small and Medium Enterprises Development Act, 2006 (27 of 2006) or any other law for the time being in force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Limitation</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <p>No assignee of any receivable shall be entitled to take any measures for recovery of any assigned receivable, through any court or Tribunal unless his claim in respect of the receivable is made within the period of limitation specified under the Limitation Act, 1963 (36 of 1963).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Confidentiality of information</heading>
+        <paragraph id="section-29.paragraph-0">
+          <content>
+            <p>Save as otherwise provided in this Act, or unless required to do so by an order passed by any Court or Tribunal or any other statutory authority under any provision of law for the time being in force or for the purpose of recovery of the receivable, a factor shall maintain confidentiality and shall not disclose to any person information obtained by it from, any assignor, its present and future customers, its commercial and business activities and the terms of sale between the assignor and any debtor and other detail about the assignor.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Power to exempt</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-30.1.list1">
+              <listIntroduction>The Central Government may, by notification in the public interest, direct that any of the provisions of this Act,-</listIntroduction>
+              <item id="section-30.1.list1.a">
+                <num>(a)</num>
+                <p>shall not apply to such class or classes of banks or a company or a factor; or</p>
+              </item>
+              <item id="section-30.1.list1.b">
+                <num>(b)</num>
+                <p>shall apply to the such class or classes of banks or a company or a factor with such exceptions, modifications and adaptations as may be specified in the notification.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>A copy of every notification issued under sub-section (1), shall be laid before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or both the Houses agree that the notification shall not be issued or, the notification shall have effect only in such modified form or be of no effect; 'as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under the notification.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Provisions of this Act not to apply or affect in certain cases</heading>
+        <subsection id="section-31.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-31.1.list1">
+              <listIntroduction>The provisions of this Act shall not apply to any assignment of receivables arising under or from the following transactions, namely:-</listIntroduction>
+              <item id="section-31.1.list1.a">
+                <num>(a)</num>
+                <p>any merger, acquisition or amalgamation of business activities or sale or change in the ownership or legal status of the business;</p>
+              </item>
+              <item id="section-31.1.list1.b">
+                <num>(b)</num>
+                <p>transactions on any stock exchange or commodities exchange regulated by the Securities and Exchange Board of India constituted under the provisions of the Securities and Exchange Board of India Act, 1992 (15 of 1992) or by the Forward Markets Commission under the Forward Contracts (Regulation) Act, ) 1952 (74 of 1952), respectively;</p>
+              </item>
+              <item id="section-31.1.list1.c">
+                <num>(c)</num>
+                <p>financial contracts governed by netting agreements, except a receivable owed on the termination of all outstanding transactions;</p>
+              </item>
+              <item id="section-31.1.list1.d">
+                <num>(d)</num>
+                <p>foreign exchange transactions except receivables in any foreign currency;</p>
+              </item>
+              <item id="section-31.1.list1.e">
+                <num>(e)</num>
+                <p>inter-bank payment systems, inter-bank payment agreements or clearance and settlement systems relating to securities or other financial assets or instruments;</p>
+              </item>
+              <item id="section-31.1.list1.f">
+                <num>(f)</num>
+                <p>Bank deposits;</p>
+              </item>
+              <item id="section-31.1.list1.g">
+                <num>(g)</num>
+                <p>a letter of credit or independent guarantee;</p>
+              </item>
+              <item id="section-31.1.list1.h">
+                <num>(h)</num>
+                <p>rights and obligations of any person under the law governing negotiable instruments, negotiable warehouse receipts under the Warehousing (Development and Regulation) Act, 2007 (37 of 2007) or to instruments which are for the time being, by law or custom negotiable or any mercantile document of title to goods;</p>
+              </item>
+              <item id="section-31.1.list1.i">
+                <num>(i)</num>
+                <p>sale of goods or services for any personal, family or household use;</p>
+              </item>
+              <item id="section-31.1.list1.j">
+                <num>(j)</num>
+                <p>any assignment of loan receivables by a bank or non-banking financial company to another bank or non-banking financial company;</p>
+              </item>
+              <item id="section-31.1.list1.k">
+                <num>(k)</num>
+                <p>securitisation transactions (including assignment of receivables to special purpose vehicles or trusts that issue securities against such receivables, bought from a single debtor or single group of debtors).</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-31.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing contained in this Act shall affect the rights and obligations of a consumer, manufacturer, trader or service provided under the provisions of the Consumer Protection Act, 1986 (68 of 1986).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Power of Central Government to make rules</heading>
+        <subsection id="section-32.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, in consultation with the Reserve Bank, by notification and in the Electronic Gazette as defined in clause (5) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000) make rules for carrying out the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-32.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power such rules may provide for all or any of the following matters, namely:</listIntroduction>
+              <item id="section-32.2.list1.a">
+                <num>(a)</num>
+                <p>the form and manner in which the transactions of assignment of receivables in favour of a factor shall be filed and the fee for filing such transaction under sub-section (l) of section 19;</p>
+              </item>
+              <item id="section-32.2.list1.b">
+                <num>(b)</num>
+                <p>the form and manner in which satisfaction of assignment of receivable or settlement of the claim shall be registered and the fee for filing such transactions under sub-section (3) of section 19;</p>
+              </item>
+              <item id="section-32.2.list1.c">
+                <num>(c)</num>
+                <p>fee for inspecting-the Central Register under section 20; and</p>
+              </item>
+              <item id="section-32.2.list1.d">
+                <num>(d)</num>
+                <p>any other matter which is required to be or may be prescribed, in respect of which provision is to be made or may be made by rules.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Laying of rules</heading>
+        <paragraph id="section-33.paragraph-0">
+          <content>
+            <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Power to remove difficulties</heading>
+        <subsection id="section-34.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in Official Gazette, make such provisions not inconsistent with the provisions of this Act, as may appear to be necessary for removing the difficulty:</p>
+            <p>Provided that no order shall be made under this section after the expiry of a period of two years from the commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be, after it is made, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Amendments to certain enactments</heading>
+        <paragraph id="section-35.paragraph-0">
+          <content>
+            <p>The enactments specified in the Schedule shall be amended in the manner specified therein.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2012/12/schedules"/>
+              <FRBRuri value="/in-union/act/2012/12"/>
+              <FRBRalias value="The Schedule"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2012/12/eng@2017-01-25/schedules"/>
+              <FRBRuri value="/in-union/act/2012/12/eng@2017-01-25"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2012/12/eng@2017-01-25/schedules"/>
+              <FRBRuri value="/in-union/act/2012/12/eng@2017-01-25"/>
+              <FRBRdate date="2016-09-28" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>See section 35</heading>
+            <paragraph id="theschedule.paragraph-0">
+              <content>
+                <table id="theschedule.paragraph-0.table0">
+                  <tr>
+                    <th>
+                      <p>Year</p>
+                    </th>
+                    <td>
+                      <p>Act No.</p>
+                    </td>
+                    <td>
+                      <p>Short Title</p>
+                    </td>
+                    <td>
+                      <p>Amendment</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1899</p>
+                    </td>
+                    <td>
+                      <p>2</p>
+                    </td>
+                    <td>
+                      <p>The Indian Stamp Act, 1899.</p>
+                    </td>
+                    <td>
+                      <p>After section 8C, the following section shall be inserted, namely:-'8D. Agreement or document for assignment of receivables not liable to stamp duty:-Notwithstanding anything contained in this Act or any other law for the time being in force, any agreement or other document for assignment of "receivables" as defined in clause (P) of section 2 of the Factoring Regulation. Act, 2011 in favour of any "factor" as defined in clause (i) of section 2 of the said Act shall not be liable to duty under this Act or any other law for the time being in force.',</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1908</p>
+                    </td>
+                    <td>
+                      <p>5</p>
+                    </td>
+                    <td>
+                      <p>The Code of Civil Procedure, 1908.</p>
+                    </td>
+                    <td>
+                      <p>In Order XXXVII, in rule I, in sub-rule (2), in clause (b), after sub-clause (iii), the following sub-clause shall be inserted, namely:-"(iv) suit for recovery of receivables instituted by any assignee of a receivable.".</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1934</p>
+                    </td>
+                    <td>
+                      <p>2</p>
+                    </td>
+                    <td>
+                      <p>The Reserve Bank of India Act, 1934.</p>
+                    </td>
+                    <td>
+                      <p>In clause (d) of sub-section (l) of section 8, for the words "one Government official", the words "two Government officials" shall be substituted.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>2005</p>
+                    </td>
+                    <td>
+                      <p>30</p>
+                    </td>
+                    <td>
+                      <p>The Credit Information Companies (Regulation) Act, 2005.</p>
+                    </td>
+                    <td>
+                      <p>In section 2, in clause (f), after sub-clause (ii), the following sub-clause shall be inserted, namely:-"(iia) a factor as defined under clause (i) of section 2 of the Factoring Regulation Act, 2011,".</p>
+                    </td>
+                  </tr>
+                </table>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

@@ -1,0 +1,870 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1961/53/main"/>
+          <FRBRuri value="/in-union/act/1961/53"/>
+          <FRBRalias value="The Maternity Benefit Act, 1961"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1961/53/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1961/53/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1961/53/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1961/53/eng@1980-01-01"/>
+          <FRBRdate date="2017-04-03" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Maternity Benefit Act, 1961</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[12th December, 1961.]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 53 of 1961</p>
+        <p>An Act to regulate the employment of women in certain establishments for certain periods before and after child-birth and to provide for maternity benefit and certain other benefits.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Twelfth Year of the Republic of India as follows:--</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Maternity Benefit Act, 1961.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India ***.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-1.3.list1">
+              <listIntroduction>It shall come into force on such date as may be notified in this behalf in the Official Gazette,—</listIntroduction>
+              <item id="section-1.3.list1.a">
+                <num>(a)</num>
+                <p>in relation to mines and to any other establishment wherein persons are employed for the exhibition of equestrian, acrobatic and other performances, by the Central Government; and</p>
+              </item>
+              <item id="section-1.3.list1.b">
+                <num>(b)</num>
+                <p>in relation to other establishments in a State, by the State Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Application of Act.—</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-2.1.list1">
+              <listIntroduction>It applies, in the first instance,—</listIntroduction>
+              <item id="section-2.1.list1.a">
+                <num>(a)</num>
+                <p>to every establishment being a factory, mine or plantation including any such establishment belonging to Government and to every establishment wherein persons are employed for the exhibition of equestrian, acrobatic and other performances;</p>
+              </item>
+              <item id="section-2.1.list1.b">
+                <num>(b)</num>
+                <p>to every shop or establishment within the meaning of any law for the time being in force in relation to shops and establishments in a State, in which ten or more persons are employed, or were employed, on any day of the preceding twelve months:</p>
+              </item>
+            </blockList>
+            <p>Provided that the State Government may, with the approval of the Central Government, after giving not less than two month’s notice of its intention of so doing, by notification in the Official Gazette, declare that all or any of the provisions of this Act shall apply also to any other establishment or class of establishments, industrial, commercial, agricultural or otherwise.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>Save as otherwise provided in sections 5A and 5B nothing contained in this Act shall apply to any factory or other establishment to which the provisions of the Employees’ State Insurance Act, 1948 (34 of 1948), apply for the time being.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Definitions.—</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-3.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“appropriate Government” means, in relation to an establishment being a mine or an establishment wherein persons are employed for the exhibition of equestrian, acrobatic and other performances the Central Government and in relation to any other establishment, the State Government;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“child” includes a still-born child;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.ba">
+                <num>(ba)</num>
+                <p>“commissioning mother” means a biological mother who uses her egg to create an embryo implanted in any other woman;’.</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“delivery” means the birth of a child;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-3.paragraph-0.list1.d.list0">
+                  <listIntroduction>“employer” means—</listIntroduction>
+                  <item id="section-3.paragraph-0.list1.d.list0.i">
+                    <num>(i)</num>
+                    <p>in relation to an establishment which is under the control of the Government a person or authority appointed by the Government for the supervision and control of employees or where no person or authority is so appointed, the head of the department;</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>in relation to an establishment under any local authority, the person appointed by such authority for the supervision and control of employees or where no person is so appointed, the chief executive officer of the local authority;</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.d.list0.iii">
+                    <num>(iii)</num>
+                    <p>in any other case, the person who, or the authority which, has the ultimate control over the affairs of the establishment and where the said affairs are entrusted to any other person whether called a manager, managing director, managing agent, or by any other name, such person;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-3.paragraph-0.list1.e.list1">
+                  <listIntroduction>“establishment” means—</listIntroduction>
+                  <item id="section-3.paragraph-0.list1.e.list1.i">
+                    <num>(i)</num>
+                    <p>a factory;</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.e.list1.ii">
+                    <num>(ii)</num>
+                    <p>a mine;</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.e.list1.iii">
+                    <num>(iii)</num>
+                    <p>a plantation;</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.e.list1.iv">
+                    <num>(iv)</num>
+                    <p>an establishment wherein persons are employed for the exhibition of equestrian, acrobatic and other performances; ***</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.e.list1.iva">
+                    <num>(iva)</num>
+                    <p>a shop or establishment; or</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.e.list1.v">
+                    <num>(v)</num>
+                    <p>an establishment to which the provisions of this Act have been declared under sub-section (1) of section 2 to be applicable;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“factory” means a factory as defined in clause (m) of section 2 of the Factories Act, 1948 (63 of 1948);</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“Inspector” means an Inspector appointed under section 14;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“maternity benefit” means the payment referred to in sub-section (1) of section 5;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.ha">
+                <num>(ha)</num>
+                <p>“medical termination of pregnancy” means the termination of pregnancy permissible under the provisions of Medical Termination of Pregnancy Act, 1971.;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>“mine” means a mine as defined in clause (j) of section 2 of the Mines Act, 1952 (35 of 1952);</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>“miscarriage” means expulsion of the contents of a pregnant uterus at any period prior to or during the twenty-sixth week of pregnancy but does not include any miscarriage, the causing of which is punishable under the Indian Penal Code (45 of 1860);</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>“plantation” means a plantation as defined in clause (f) of section 2 of the Plantations Labour Act, 1951 (69 of 1951);</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.l">
+                <num>(l)</num>
+                <p>“prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.m">
+                <num>(m)</num>
+                <p>“State Government”, in relation to a Union territory, means the Administrator thereof;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.n">
+                <num>(n)</num>
+                <p>“wages” means all remuneration paid or payable in cash to a woman, if the terms of the contract of employment, express or implied, were fulfilled and includes—</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>such cash allowances (including dearness allowance and house rent allowance) as a woman is for the time being entitled to,</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>incentive bonus, and</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-3.3.list1">
+              <listIntroduction>the money value of the concessional supply of foodgrains and other articles, but does not include—</listIntroduction>
+              <item id="section-3.3.list1.i">
+                <num>(i)</num>
+                <p>any bonus other than incentive bonus;</p>
+              </item>
+              <item id="section-3.3.list1.ii">
+                <num>(ii)</num>
+                <p>over-time earnings and any deduction or payment made on account of fines;</p>
+              </item>
+              <item id="section-3.3.list1.iii">
+                <num>(iii)</num>
+                <p>any contribution paid or payable by the employer to any pension fund or provident fund or for the benefit of the woman under any law for the time being in force; and</p>
+              </item>
+              <item id="section-3.3.list1.iv">
+                <num>(iv)</num>
+                <p>any gratuity payable on the termination of service;</p>
+              </item>
+              <item id="section-3.3.list1.o">
+                <num>(o)</num>
+                <p>“woman” means a woman employed, whether directly or through any agency, for wages in any establishment.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Employment of or work by, women prohibited during certain periods.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>No employer shall knowingly employ a woman in any establishment during the six weeks immediately following the day of her delivery, miscarriage or medical termination of pregnancy.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>No women shall work in any establishment during the six weeks immediately following the day of her delivery miscarriage or medical termination of pregnancy.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>Without prejudice to the provisions of section 6, no pregnant women shall, on a request being made by her in this behalf, be required by her employer to do during the period specified in sub-section (4) any work which is of an arduous nature or which involves long hours of standing, or which in any way is likely to interfere with her pregnancy or the normal development of the foetus, or is likely to cause her miscarriage or otherwise to adversely affect her health.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-4.4.list1">
+              <listIntroduction>The period referred to in sub-section (3) shall be—</listIntroduction>
+              <item id="section-4.4.list1.a">
+                <num>(a)</num>
+                <p>the period of one month immediately preceding the period of six weeks, before the date of her expected delivery;</p>
+              </item>
+              <item id="section-4.4.list1.b">
+                <num>(b)</num>
+                <p>any period during the said period of six weeks for which the pregnant woman does not avail of leave of absence under section 6.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Right to payment of maternity benefits.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of this Act, every woman shall be entitled to, and her employer shall be liable for, the payment of maternity benefit at the rate of the average daily wage for the period of her actual absence, that is to say, the period immediately preceding the day of her delivery, the actual day of her delivery and any period immediately following that day.</p>
+            <p>Explanation.—</p>
+            <p>For the purpose of this sub-section, the average daily wage means the average of the woman’s wages payable to her for the days on which she has worked during the period of three calendar months immediately preceding the date from which she absents herself on account of maternity, the minimum rate of wage fixed or revised under the Minimum Wages Act, 1948 (11 of 1948) or ten rupees, whichever is the highest.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>No woman shall be entitled to maternity benefit unless she has actually worked in an establishment of the employer from whom she claims maternity benefit, for a period of not less than eighty days in the twelve months immediately preceding the date of her expected delivery:</p>
+            <p>Provided that the qualifying period of eighty days aforesaid shall not apply to a woman who has immigrated into the State of Assam and was pregnant at the time of the immigration.</p>
+            <p>Explanation.—</p>
+            <p>For the purpose of calculating under the sub-section the days on which a woman has actually worked in the establishment the days for which she has been laid off or was on holidays declared under any law for the time being in force to be holidays with wages during the period of twelve months immediately preceding the date of her expected delivery shall be taken into account.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>The maximum period for which any woman shall be entitled to maternity benefit shall be twenty-six weeks of which not more than eight weeks shall precede the date of her expected delivery:</p>
+            <p>Provided that the maximum period entitled to maternity benefit by a woman having two or more than two surviving children shall be twelve weeks of which not more than six weeks shall precede the date of her expected delivery;</p>
+            <p>Provided further that where a woman dies during this period, the maternity benefit shall be payable only for the days up to and including the day of her death:</p>
+            <p>Provided also that where a woman, having been delivered of a child, dies during her delivery or during the period immediately following the date of her delivery for which she is entitled for the maternity benefit, leaving behind in either case the child, the employer shall be liable for the maternity benefit for that entire period but if the child also dies during the said period, then, for the days up to and including the date of the death of the child.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.4">
+          <num>(4)</num>
+          <content>
+            <p>A woman who legally adopts a child below the age of three months or a commissioning mother shall be entitled to maternity benefit for a period of twelve weeks from the date the child is handed over to the adopting mother or the commissioning mother, as the case may be.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.5">
+          <num>(5)</num>
+          <content>
+            <p>In case where the nature of work assigned to a woman is of such nature that she may work from home, the employer may allow her to do so after availing of the maternity benefit for such period and on such conditions as the employer and the woman may mutually agree.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5A">
+        <num>5A.</num>
+        <heading>Continuance of payment of maternity benefit in certain cases.—</heading>
+        <paragraph id="section-5A.paragraph-0">
+          <content>
+            <p>Every woman entitled to the payment of maternity benefit under this Act shall, notwithstanding the application of the Employees’ State Insurance Act, 1948 (34 of 1948), to the factory or other establishment in which she is employed, continue to be so entitled until she becomes qualified to claim maternity benefit under section 50 of that Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5B">
+        <num>5B.</num>
+        <heading>Payment of maternity benefit in certain cases.—</heading>
+        <paragraph id="section-5B.paragraph-0">
+          <content>
+            <blockList id="section-5B.paragraph-0.list1">
+              <listIntroduction>Every woman—</listIntroduction>
+              <item id="section-5B.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>who is employed in a factory or other establishment to which the provisions of the Employees’ State Insurance Act, 1948 (34 of 1948), apply;</p>
+              </item>
+              <item id="section-5B.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>whose wages (excluding remuneration for over-time work) for a month exceed the amount specified in sub-clause (b) of clause (9) of section 2 of that Act; and</p>
+              </item>
+              <item id="section-5B.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>who fulfils the conditions specified in sub-section (2) of section 5,</p>
+              </item>
+            </blockList>
+            <p>shall be entitled to the payment of maternity benefit under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Notice of claim for maternity benefit and payment thereof.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Any woman employed in an establishment and entitled to maternity benefit under the provisions of this Act may give notice in writing in such form as may be prescribed, to her employer, stating that her maternity benefit and any other amount to which she may be entitled under this Act may be paid to her or to such person as she may nominate in the notice and that she will not work in any establishment during the period for which she receives maternity benefit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>In the case of a woman who is pregnant, such notice shall state the date from which she will be absent from work, not being a date earlier than six weeks from the date of her expected delivery.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>Any woman who has not given the notice when she was pregnant may give such notice as soon as possible after the delivery.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>On receipt of the notice, the employer shall permit such woman to absent herself from the establishment during the period for which she receives the maternity benefit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <p>The amount of maternity benefit for the period preceding the date of her expected delivery shall be paid in advance by the employer to the woman on production of such proof as may be prescribed that the woman is pregnant, and the amount due for the subsequent period shall be paid by the employer to the woman within forty-eight hours of production of such proof as may be prescribed that the woman has been delivered of a child.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.6">
+          <num>(6)</num>
+          <content>
+            <p>The failure to give notice under this section shall not disentitle a woman to maternity benefit or any other amount under this Act if she is otherwise entitled to such benefit or amount and in any such case an Inspector may either of his own motion or on an application made to him by the woman, order the payment of such benefit or amount within such period as may be specified in the order.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Payment of maternity benefit in case of death of a woman.—</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <p>If a woman entitled to maternity benefit or any other amount under this Act, dies before receiving such maternity benefit or amount, or where the employer is liable for maternity benefit under the second proviso to sub-section (3) of section 5, the employer shall pay such benefit or amount to the person nominated by the woman in the notice given under section 6 and in case there is no such nominee, to her legal representative.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Payment of medical bonus. —</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>Every woman entitled to maternity benefit under this Act shall also be entitled to receive from her employer a medical bonus of one thousand rupees, if no pre-natal confinement and post-natal care is provided for by the employer free of charge.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government may before every three years, by notification in the Official Gazette, increase the amount of medical bonus subject to the maximum of twenty thousand rupees.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Leave for miscarriage, etc.—</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>In case of miscarriage or medical termination of pregnancy, a woman shall, on production of such proof as may be prescribed, be entitled to leave with wages at the rate of maternity benefit, for a period of six weeks immediately following the day of her miscarriage or, as the case may be, her medical termination of pregnancy.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9A">
+        <num>9A.</num>
+        <heading>Leave with wages for tubectomy operation.—</heading>
+        <paragraph id="section-9A.paragraph-0">
+          <content>
+            <p>In case of tubectomy operation, a woman shall, on production of such proof as may be prescribed, be entitled to leave with wages at the rate of maternity benefit for a period of two weeks immediately following the day of her tubectomy operation.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Leave for illness arising out of pregnancy, delivery, premature birth of child, miscarriage, medical termination of pregnancy or tubectomy operation.—</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>A woman suffering from illness arising out of pregnancy, delivery, premature birth of child miscarriage, medical termination of pregnancy or tubectomy operation shall, on production of such proof as may be prescribed, be entitled, in addition to the period of absence allowed to her under section 6, or, as the case may be, under section 9, to leave with wages at the rate of maternity benefit for a maximum period of one month.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Nursing breaks.—</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>Every woman delivered of a child who returns to duty after such delivery shall, in addition to the interval for rest allowed to her, be allowed in the course of her daily work two breaks of the prescribed duration for nursing the child until the child attains the age of fifteen months.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11A">
+        <num>11A.</num>
+        <heading>Créche facility</heading>
+        <subsection id="section-11A.1">
+          <num>(1)</num>
+          <content>
+            <p>Every establishment having fifty or more employees shall have the facility of créche within such distance as may be prescribed, either separately or along with common facilities:</p>
+            <p>Provided that the employer shall allow four visits a day to the creche by the woman, which shall also include the interval for rest allowed to her.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11A.2">
+          <num>(2)</num>
+          <content>
+            <p>Every establishment shall intimate in writing and electronically to every woman at the time of her initial appointment regarding every benefit available under the Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Dismissal during absence of pregnancy.—</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>When a woman absents herself from work in accordance with the provisions of this Act, it shall be unlawful for her employer to discharge or dismiss her during or on account of such absence or to give notice of discharge or dismissal on such a day that the notice will expire during such absence, or to vary to her disadvantage any of the conditions of her service.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-12.2.list0">
+              <item id="section-12.2.list0.a">
+                <num>(a)</num>
+                <p>The discharge or dismissal of a woman at any time during her pregnancy, if the woman but for such discharge or dismissal would have been entitled to maternity benefit or medical bonus referred to in section 8, shall not have the effect of depriving her of the maternity benefit or medical bonus:</p>
+              </item>
+            </blockList>
+            <blockList id="section-12.2.list2">
+              <listIntroduction>Provided that where the dismissal is for any prescribed gross misconduct, the employer may, by order in writing communicated to the woman, deprive her of the maternity benefit or medical bonus or both.</listIntroduction>
+              <item id="section-12.2.list2.b">
+                <num>(b)</num>
+                <p>Any woman deprived of maternity benefit or medical bonus, or both, or discharged or dismissed during or on account of her absence from work in accordance with the provisions of this Act, may, within sixty days from the date on which order of such deprivation or discharge or dismissal is communicated to her, appeal to such authority as may be prescribed, and the decision of that authority on such appeal, whether the woman should or should not be deprived of maternity benefit or medical bonus, or both, or discharged or dismissed shall be final.</p>
+              </item>
+              <item id="section-12.2.list2.c">
+                <num>(c)</num>
+                <p>Nothing contained in this sub-section shall affect the provisions contained in sub-section (1).</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>No deduction of wages in certain cases.—</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <blockList id="section-13.paragraph-0.list1">
+              <listIntroduction>No deduction from the normal and usual daily wages of a woman entitled to maternity benefit under the provisions of this Act shall be made by reason only of—</listIntroduction>
+              <item id="section-13.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the nature of work assigned to her by virtue of the provisions contained in sub-section (3) of section 4; or</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>breaks for nursing the child allowed to her under the provisions of section 11.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Appointment of Inspectors.—</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>The appropriate Government may, by notification in the Official Gazette, appoint such officers as it thinks fit to be Inspectors for the purposes of this Act and may define the local limits of the jurisdiction within which they shall exercise their functions under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Powers and duties of Inspectors.—</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <blockList id="section-15.paragraph-0.list1">
+              <listIntroduction>An Inspector may, subject to such restrictions or conditions as may be prescribed, exercise all or any of the following powers, namely:—</listIntroduction>
+              <item id="section-15.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>enter at all reasonable times with such assistants, if any, being persons in the service of the Government or any local or other public authority, as he thinks fit, any premises or place where woman are employed or work is given to them in an establishment, for the purposes of examining any registers, records and notices required to be kept or exhibited by or under this Act and require their production for inspection;</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>examine any person whom he finds in any premises or place and who, he has reasonable cause to believe, is employed in the establishment:</p>
+              </item>
+            </blockList>
+            <blockList id="section-15.paragraph-0.list3">
+              <listIntroduction>Provided that no person shall be compelled under this section to answer any question or give any evidence tending to incriminate himself;</listIntroduction>
+              <item id="section-15.paragraph-0.list3.c">
+                <num>(c)</num>
+                <p>require the employer to give information regarding the names and addresses of women employed, payments made to them, and applications or notices received from them under this Act; and</p>
+              </item>
+              <item id="section-15.paragraph-0.list3.d">
+                <num>(d)</num>
+                <p>take copies of any registers and records or notices or any portions thereof.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Inspectors to be public servants.—</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>Every Inspector appointed under this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Power of Inspector to direct payments to be made.—</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-17.1.list1">
+              <listIntroduction>Any woman claiming that—</listIntroduction>
+              <item id="section-17.1.list1.a">
+                <num>(a)</num>
+                <p>maternity benefit or any other amount to which she is entitled under this Act and any person claiming that payment due under section 7 has been improperly withheld;</p>
+              </item>
+              <item id="section-17.1.list1.b">
+                <num>(b)</num>
+                <p>her employer has discharged or dismissed her during or on account of her absence from work in accordance with the provisions of this Act,</p>
+              </item>
+            </blockList>
+            <p>may make a complaint to the Inspector.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-17.2.list1">
+              <listIntroduction>The Inspector may, of his own motion or on receipt of a complaint referred to in sub-section (1), make an inquiry or cause an inquiry to be made and if satisfied that—</listIntroduction>
+              <item id="section-17.2.list1.a">
+                <num>(a)</num>
+                <p>payment has been wrongfully withheld, may direct the payment to be made in accordance with his orders;</p>
+              </item>
+              <item id="section-17.2.list1.b">
+                <num>(b)</num>
+                <p>she has been discharged or dismissed during or on account of her absence from work in accordance with the provisions of this Act, may pass such orders as are just and proper according to the circumstances of the case.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>Any person aggrieved by the decision of the Inspector under sub-section (2) may, within thirty days from the date on which such decision is communicated to such person, appeal to the prescribed authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.4">
+          <num>(4)</num>
+          <content>
+            <p>The decision of the prescribed authority where an appeal has been preferred to it under sub-section (3) or of the Inspector where no such appeal has been preferred, shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.5">
+          <num>(5)</num>
+          <content>
+            <p>Any amount payable under this section shall be recoverable by the Collector on a certificate issued for that amount by the Inspector as an arrear of land revenue.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Forfeiture of maternity benefit.—</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>If a woman works in any establishment after she has been permitted by her employer to absent herself under the provisions of section 6 for any period during such authorised absence, she shall forfeit her claim to the maternity benefit for such period.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Abstract of Act and rules thereunder to be exhibited.—</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>An abstract of the provisions of this Act and the rules made thereunder in the language or languages of the locality shall be exhibited in a conspicuous place by the employer in every part of the establishment in which women are employed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Registers, etc.—</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Every employer shall prepare and maintain such registers, records and muster-rolls and in such manner as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Penalty for contravention of Act by employer.—</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>If any employer fails to pay any amount of maternity benefit to a woman entitled under this Act or discharges or dismisses such woman during or on account of her absence from work in accordance with the provisions of this Act, he shall be punishable with imprisonment which shall not be less than three months but which may extend to one year and with fine which shall not be less than two thousand rupees but which may extend to five thousand rupees:</p>
+            <p>Provided that the court may, for sufficient reasons to be recorded in writing, impose a sentence of imprisonment for a lesser term or fine only in lieu of imprisonment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>If any employer contravenes the provisions of this Act or the rules made thereunder, he shall, if no other penalty is elsewhere provided by or under this Act for such contravention, be punishable with imprisonment which may extend to one year, or with fine which may extend to five thousand rupees, or with both:</p>
+            <p>Provided that where the contravention is of any provision regarding maternity benefit or regarding payment of any other amount and such maternity benefit or amount has not already been recovered, the court shall, in addition, recover such maternity benefit or amount as if it were a fine and pay the same to the person entitled thereto.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Penalty for obstructing Inspector.—</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>Whoever fails to produce on demand by the Inspector any register or document in his custody kept in pursuance of this Act or the rules made thereunder or conceals or prevents any person from appearing before or being examined by an Inspector shall be punishable with imprisonment which may extent to one year, or with fine which may extend to five thousand rupees, or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Cognizance of offences.—</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>Any aggrieved woman, an office bearer of a trade union registered under the Trade Unions Act, 1926 (16 of 1926) of which such woman is a member or a voluntary organisation registered under the Societies Registration Act, 1860 (21 of 1860) or an Inspector, may file a complaint regarding the commission of an offence under this Act in any court of competent jurisdiction and no such complaint shall be filed after the expiry of one year from the date on which the offence is alleged to have been committed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>No court inferior to that of a Metropolitan Magistrate or a Magistrate of the first class shall try any offence under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done in pursuance of this Act or of any rule or order made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Power of Central Government to give directions.—</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>The Central Government may give such directions as it may deem necessary to a State Government regarding the carrying into execution of the provisions of this Act and the State Government shall comply with such directions.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Power to exempt establishments.—</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <p>If the appropriate Government is satisfied that having regard to an establishment or a class of establishments providing for the grant of benefits which are not less favourable than those provided in this Act, it is necessary so to do, it may, by notification in the Official Gazette, exempt, subject to such conditions and restrictions, if any, as may be specified in the notification, the establishment or class of establishments from the operation of all or any of the provisions of this Act or of any rule made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Effect of laws and agreements inconsistent with this Act.—</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law or in the terms of any award, agreement or contract of service, whether made before or after the coming into force of this Act:</p>
+            <p>Provided that where under any such award, agreement, contract of service or otherwise, a woman is entitled to benefits in respect of any matter which are more favourable to her than those to which she would be entitled under this Act, the woman shall continue to be entitled to the more favourable benefits in respect of that matter, notwithstanding that she is entitled to receive benefits in respect of other matters under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing contained in this Act shall be construed to preclude a woman from entering into an agreement with her employer for granting her rights or privileges in respect of any matter which are more favourable to her than those to which she would be entitled under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-28.1">
+          <num>(1)</num>
+          <content>
+            <p>The appropriate Government may, subject to the condition of previous publication and by notification in the Official Gazette, make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-28.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-28.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for—</listIntroduction>
+              <item id="section-28.2.list1.a">
+                <num>(a)</num>
+                <p>the preparation and maintenance of registers, records and muster-rolls;</p>
+              </item>
+              <item id="section-28.2.list1.b">
+                <num>(b)</num>
+                <p>the exercise of powers (including the inspection of establishments) and the performance of duties by Inspectors for the purposes of this Act;</p>
+              </item>
+              <item id="section-28.2.list1.c">
+                <num>(c)</num>
+                <p>the method of payment of maternity benefit and other benefits under this Act in so far as provision has not been made therefor in this Act;</p>
+              </item>
+              <item id="section-28.2.list1.d">
+                <num>(d)</num>
+                <p>the form of notices under section 6;</p>
+              </item>
+              <item id="section-28.2.list1.e">
+                <num>(e)</num>
+                <p>the nature of proof required under the provisions of this Act;</p>
+              </item>
+              <item id="section-28.2.list1.f">
+                <num>(f)</num>
+                <p>the duration of nursing breaks referred to in section 11;</p>
+              </item>
+              <item id="section-28.2.list1.g">
+                <num>(g)</num>
+                <p>acts which may constitute gross misconduct for purposes of section 12;</p>
+              </item>
+              <item id="section-28.2.list1.h">
+                <num>(h)</num>
+                <p>the authority to which an appeal under clause (b) of sub-section (2) of section 12 shall lie; the form and manner in which such appeal may be made and the procedure to be followed in disposal thereof;</p>
+              </item>
+              <item id="section-28.2.list1.i">
+                <num>(i)</num>
+                <p>the authority to which an appeal shall lie against the decision of the Inspector under section 17; the form and manner in which such appeal may be made and the procedure to be followed in disposal thereof;</p>
+              </item>
+              <item id="section-28.2.list1.j">
+                <num>(j)</num>
+                <p>the form and manner in which complaints may be made to Inspectors under sub-section (1) of section 17 and the procedure to be followed by them when making inquiries or causing inquiries to be made under sub-section (2) of that section;</p>
+              </item>
+              <item id="section-28.2.list1.k">
+                <num>(k)</num>
+                <p>any other matter which is to be, or may be, prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-28.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made by the Central Government under this section shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions and if, before the expiry of the session immediately following the session or the successive sessions, aforesaid both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Amendment of Act 69 of 1951.—</heading>
+        <paragraph id="section-29.paragraph-0">
+          <content>
+            <blockList id="section-29.paragraph-0.list1">
+              <listIntroduction>In section 32 of the Plantations Labour Act, 1951,—</listIntroduction>
+              <item id="section-29.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>in sub-section (1), the letter and brackets “(a)” before the words “in the case of sickness”, the word “and” after the words “sickness allowance” and clause (b) shall be omitted;</p>
+              </item>
+              <item id="section-29.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>in sub-section (2), the words “or maternity” shall be omitted.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Repeal.—</heading>
+        <paragraph id="section-30.paragraph-0">
+          <content>
+            <blockList id="section-30.paragraph-0.list1">
+              <listIntroduction>On the application of this Act—</listIntroduction>
+              <item id="section-30.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>to mines, the Mines Maternity Benefit Act, 1941 (19 of 1941); and</p>
+              </item>
+              <item id="section-30.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>to factories situate in the Union territory of Delhi, the Bombay Maternity Benefit Act, 1929 (Bombay Act VII of 1929); as in force in that territory, shall stand repealed.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

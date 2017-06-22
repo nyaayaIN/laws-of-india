@@ -1,0 +1,480 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/2002/16/main"/>
+          <FRBRuri value="/in-kar/act/2002/16"/>
+          <FRBRalias value="The Karnataka Fiscal Responsibility Act, 2002"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/2002/16/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/2002/16/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/2002/16/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-kar/act/2002/16/eng@1980-01-01"/>
+          <FRBRdate date="2017-04-05" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Fiscal Responsibility Act, 2002</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act No. 16 of 2002</p>
+        <p>An Act to provide for the responsibility of the State Government to ensure fiscal stability and sustainability, and to enhance the scope for improving social and physical infrastructure and human development by achieving sufficient revenue surplus, reducing fiscal deficit and removing impediments to the effective conduct of fiscal policy and prudent debt management through limits on State Government borrowings, debt and deficits, greater transparency in fiscal operations of the State Government and use of a medium-term fiscal framework and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>WHEREAS it is expedient to provide for the responsibility of the State Government to ensure fiscal stability and sustainability, and to enhance the scope for improving social and physical infrastructure and human development by achieving sufficient revenue surplus, reducing fiscal deficit and removing impediments to the effective conduct of fiscal policy and prudent debt management through limits on State Government borrowings, debt and deficits, greater transparency in fiscal operations of the State Government and use of a medium-term fiscal framework and for matters connected therewith or incidental thereto.</p>
+      <p>BE it enacted by the Karnataka Legislature in the Fifty-third Year of the Republic of India as follows :-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Karnataka Fiscal Responsibility Act, 2002.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of Karnataka.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“Annual Budget” means the annual financial statement laid before both Houses of the State Legislature under article 202 of the Constitution;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Current Year” means the year preceding the year for which budget and Medium Term Fiscal Plan (MTFP) are being presented.</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <blockList id="section-2.paragraph-0.list1.c.list0">
+                  <listIntroduction>“Fiscal Deficit” means the excess of –</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.c.list0.i">
+                    <num>(i)</num>
+                    <p>total disbursements from the Consolidated Fund of the State (excluding repayment of debt) over total receipts into the Fund excluding the debt receipts during a financial year; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.c.list0.ii">
+                    <num>(ii)</num>
+                    <p>***</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“Fiscal Indicators” means the measures such as numerical ceilings and proportions to gross state domestic product, as may be prescribed, for evaluation of the fiscal position of the State Government;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“Previous Year” means the year proceeding the current year.</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“Revenue Deficit”`means the difference between revenue expenditure and revenue receipts.</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list3">
+              <listIntroduction>Explanation: For the purpose, of this clause interest payment by Government towards borrowings by Public Sector Undertakings and Special Purpose Vehicles and other equivalent instruments where liability for repayment is on Government, shall be treated as revenue expenditure.</listIntroduction>
+              <item id="section-2.paragraph-0.list3.g">
+                <num>(g)</num>
+                <p>“Total Liabilities” means the liabilities under the Consolidated Fund of the State and the public account of the State and shall also include borrowings by the Public Sector Undertakings and the Special Purpose Vehicles and other equivalent instruments where the principal and/ or interest are to be serviced out of the State Budget.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Medium Term Fiscal Plan to be laid before the Legislature.-</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall in each financial year lay before both Houses of the Legislature a Medium Term Fiscal Plan along with the annual budget.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The Medium Term Fiscal Plan shall set forth a four-year rolling target for the prescribed fiscal indicators with specification of underlying assumptions.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-3.3.list1">
+              <listIntroduction>In particular and without prejudice to the provisions contained in sub-section (2), the Medium Term Fiscal Plan shall include an assessment of sustainability relating to,—</listIntroduction>
+              <item id="section-3.3.list1.i">
+                <num>(i)</num>
+                <p>the balance between revenue receipts and revenue expenditures;</p>
+              </item>
+              <item id="section-3.3.list1.ii">
+                <num>(ii)</num>
+                <p>the use of capital receipts including borrowings for generating productive assets.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-3.4.list1">
+              <listIntroduction>The Medium Term Fiscal Plan shall, inter alia, contain,—</listIntroduction>
+              <item id="section-3.4.list1.a">
+                <num>(a)</num>
+                <p>the medium term fiscal objectives of the State Government;</p>
+              </item>
+              <item id="section-3.4.list1.b">
+                <num>(b)</num>
+                <p>an evaluation of the performance of the prescribed fiscal indicators in the previous year vis-à-vis the targets set out earlier, and the likely performance in the current year as per revised estimates.</p>
+              </item>
+              <item id="section-3.4.list1.c">
+                <num>(c)</num>
+                <p>a statement on recent economic trends and future prospects for growth and development affecting fiscal position of the State Government.</p>
+              </item>
+              <item id="section-3.4.list1.d">
+                <num>(d)</num>
+                <p>the strategic priorities of the State Government in the fiscal area for the ensuing financial year;</p>
+              </item>
+              <item id="section-3.4.list1.e">
+                <num>(e)</num>
+                <p>the policies of the State Government for the ensuing financial year relating to taxation, expenditure, borrowings (including borrowings by Public Sector Undertakings and Special Purpose Vehicles and other equivalent instruments where liability for repayment is on the State Government, with ceiling fixed for each agency) and other liabilities, lending and investments, pricing of administered goods and services and description of other activities, such as guarantees and activities of Public Sector Undertakings which have potential budgetary implications; and the key fiscal measures and targets pertaining to each of these;</p>
+              </item>
+              <item id="section-3.4.list1.f">
+                <num>(f)</num>
+                <p>an evaluation as to how the current policies of the State Government are in conformity with the fiscal management principles set out in Section 4 and the fiscal objectives set out in the Medium Term Fiscal Plan.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>The Medium Term Fiscal Plan shall be in such form as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Fiscal Management Principles.-</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list1">
+              <listIntroduction>The State Government will be guided by the following fiscal management principles:</listIntroduction>
+              <item id="section-4.1.list1.a">
+                <num>(a)</num>
+                <p>maintain Government debt at prudent levels;</p>
+              </item>
+              <item id="section-4.1.list1.b">
+                <num>(b)</num>
+                <p>manage guarantees and other contingent liabilities prudently, with particular reference to the quality and level of such liabilities;</p>
+              </item>
+              <item id="section-4.1.list1.c">
+                <num>(c)</num>
+                <p>ensure that policy decisions of the Government have due regard to their financial implications on future generations;</p>
+              </item>
+              <item id="section-4.1.list1.d">
+                <num>(d)</num>
+                <p>ensure that borrowings are used for productive purposes and accumulation of capital assets, and are not applied to finance current expenditure;</p>
+              </item>
+              <item id="section-4.1.list1.e">
+                <num>(e)</num>
+                <p>ensure a reasonable degree of stability and predictability in the level of the tax burden;</p>
+              </item>
+              <item id="section-4.1.list1.f">
+                <num>(f)</num>
+                <p>maintain the integrity of the tax system by minimizing special incentives, concessions and exemptions;</p>
+              </item>
+              <item id="section-4.1.list1.g">
+                <num>(g)</num>
+                <p>pursue tax policies with due regard to economic efficiency and compliance costs;</p>
+              </item>
+              <item id="section-4.1.list1.h">
+                <num>(h)</num>
+                <p>pursue non-tax revenue policies with due regard to cost recovery and equity;</p>
+              </item>
+              <item id="section-4.1.list1.i">
+                <num>(i)</num>
+                <p>pursue expenditure policies that would provide impetus for economic growth, poverty reduction and improvement in human welfare;</p>
+              </item>
+              <item id="section-4.1.list1.j">
+                <num>(j)</num>
+                <p>build up a revenue surplus for use in capital formation and productive expenditure;</p>
+              </item>
+              <item id="section-4.1.list1.k">
+                <num>(k)</num>
+                <p>ensure that physical assets of the Government are properly maintained;</p>
+              </item>
+              <item id="section-4.1.list1.l">
+                <num>(l)</num>
+                <p>disclose sufficient information to allow the public to scrutinize the conduct of fiscal policy and the state of public finances;</p>
+              </item>
+              <item id="section-4.1.list1.m">
+                <num>(m)</num>
+                <p>ensure that Government uses resources in ways that give best value for money; and also ensure that public assets are put to best possible use;</p>
+              </item>
+              <item id="section-4.1.list1.n">
+                <num>(n)</num>
+                <p>minimize fiscal risks associated with running of public sector undertakings and utilities providing public goods and services;</p>
+              </item>
+              <item id="section-4.1.list1.o">
+                <num>(o)</num>
+                <p>manage expenditure consistent with the level of revenue generated;</p>
+              </item>
+              <item id="section-4.1.list1.p">
+                <num>(p)</num>
+                <p>formulate budget in a realistic and objective manner with due regard to the general economic outlook and revenue prospects, and minimize deviations during the course of the year;</p>
+              </item>
+              <item id="section-4.1.list1.q">
+                <num>(q)</num>
+                <p>ensure discharge of current liabilities in a timely manner.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government shall take appropriate measures to eliminate the revenue deficit and contain the fiscal deficit at sustainable level and build up adequate revenue surplus.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-4.3.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing provisions, the State Government shall –</listIntroduction>
+              <item id="section-4.3.list1.a">
+                <num>(a)</num>
+                <p>reduce revenue deficit to nil within a period of four financial years beginning from the initial financial year on the 1st day of April, 2002 and ending on the 31st day of March, 2006;</p>
+              </item>
+              <item id="section-4.3.list1.b">
+                <num>(b)</num>
+                <p>reduce revenue deficit as a percentage of Gross State Domestic Product (GSDP) in each of the financial years beginning on the 1st day of April, 2002, in a manner consistent with the goal set out in clause (a);</p>
+              </item>
+              <item id="section-4.3.list1.c">
+                <num>(c)</num>
+                <p>reduce fiscal deficit to not more than three per cent of the estimated gross state domestic product within a period of four financial years beginning from the initial financial year on the 1st day of April, 2002 and ending on the 31st day of March, 2006;</p>
+              </item>
+              <item id="section-4.3.list1.d">
+                <num>(d)</num>
+                <p>reduce fiscal deficit as a percentage of Gross State Demostic Product (GSDP) in each of the financial years beginning on the 1st day of April, 2002 in a manner consistent with the goal set out in clause (c);</p>
+              </item>
+              <item id="section-4.3.list1.e">
+                <num>(e)</num>
+                <p>not to give guarantee for any amount exceeding the limit stipulated under the Karnataka Ceiling to Government Guarantees Act, 1999 (Karnataka Act 11 of 1999);</p>
+              </item>
+              <item id="section-4.3.list1.f">
+                <num>(f)</num>
+                <p>ensure within a period of thirteen financial years, beginning from the initial financial year on the 1st day of April, 2002, and ending on the 31st day of March, 2015; that the total liabilities at the end of the last financial year do not exceed twenty five per cent of the estimated gross state domestic product for that year;</p>
+              </item>
+              <item id="section-4.3.list1.g">
+                <num>(g)</num>
+                <p>ensure that the outstanding debt at the end of financial year 2010-11, 2011-12, 2012-13, 2013-14 and 2014-15 shall be at 26.2 percent, 26 percent, 25.7 percent, 25.4 percent and 25.2 percent respectively of the estimated Gross State Domestic Product for that year;</p>
+              </item>
+            </blockList>
+            <p>Provided that revenue deficit and fiscal deficit may exceed the limits specified under this sub-section due to ground or grounds of unforeseen demands on the finances of the State Government due to national security or natural calamity, subject to the condition that the excess beyond limits arising due to natural calamities does not exceed the actual fiscal cost that can be attributed to the calamities;</p>
+            <p>Provided further that the fiscal deficit during the year 2008-09 may exceed the limit up to 3.5 percent of estimated Gross State Domestic Product as a part of economic stimulus package. The additional market borrowings availed under the limits so relaxed shall be used for undertaking capital expenditure during the year 2008-09. As a measure of compliance an accompanying Report with details and stating the likely impact of such capital expenditure shall be placed before both the Houses of the Legislature.</p>
+            <p>Provided also that the fiscal deficit during the financial year 2009-10 shall not exceed four percent of estimated Gross State Domestic Product.</p>
+            <p>Provided also that the fiscal deficit during the year 2010-11 may exceed the limit but not more than 3.44 percent of estimated Gross State Domestic Product as a part of counter recessionary measures. As a measure of compliance a report with details of measures taken and expenditure incurred thereby shall be placed before both Houses of the Legislature.</p>
+            <p>Provided further that the ground or grounds specified in the first proviso shall be placed before the House of Legislature, as soon as may be, after it becomes likely that such deficit amount may exceed the aforesaid limits, with an accompanying report stating the likely extent of excess, and reasons therefor.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Measures for Fiscal Transparency.-</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall take suitable measures to ensure greater transparency in its fiscal operations in public interest and minimize as far as practicable, secrecy in the preparation of the annual budget.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-5.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing provision, the State Government shall, at the time of presentation of the annual budget, disclose in a statement in the form as may be prescribed -</listIntroduction>
+              <item id="section-5.2.list1.a">
+                <num>(a)</num>
+                <p>the significant changes in the accounting standards, policies and practices affecting or likely to affect the computation of prescribed fiscal indicators;</p>
+              </item>
+              <item id="section-5.2.list1.b">
+                <num>(b)</num>
+                <p>as far as practicable, and consistent with protection of public interest, the contingent liabilities created by way of guarantees; the actual liabilities arising out of borrowings by Public Sector Undertakings and Special Purpose Vehicles and other equivalent instruments where liability for repayment is on the State Government; all claims and commitments made by the State Government having potential budgetary implications, including revenue demands raised but not realised; tax expenditure; losses incurred in providing public goods and services through public utilities and undertakings; liability in respect of major works and contracts; and subsidy payments and the impact of the same on the fiscal position of the State including in relation to the targets referred to in sub-section (3) of Section 4.</p>
+              </item>
+              <item id="section-5.2.list1.c">
+                <num>(c)</num>
+                <p>the tax expenditure and the method thereon explicitly; compliance costs of major tax proposal; Revenue Consequences of Capital Expenditure (RCCE) along with related liabilities; physical and financial assets; vacant public land and buildings; future expenditure commitments of major policy changes; liabilities explicit and implicit in public private partnership; and values of parameters underlying projections for receipts and expenditures and the band within which they can vary while remaining consistent with targets.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Measures to enforce compliance.-</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Annual budget, and policies announced at the time of the budget, shall be consistent with objectives and targets specified in the Medium Term Fiscal Plan for the coming and future years.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government may, by notification, constitute a Fiscal Management Review Committee headed by the Chief Secretary to Government with other Secretaries to Government including the Principal Secretary or Secretary to Government in charge of Finance as members, as may be notified which shall meet at least twice a year to review fiscal and debt position of the State; and States progress on its fiscal correction path and to advice corrective measures as may be required. The procedure and modalities for review shall be such as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2A">
+          <num>(2A)</num>
+          <content>
+            <p>The Minister in charge of finance shall review every half year the trends in receipt and expenditure in relation to the Budget, remedial measures to be taken to achieve budget targets as recommended by the Fiscal Management Review Committee and place before both the houses of Legislature the outcome of such reviews. The review report shall be in such form as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-6.3.list1">
+              <listIntroduction>The review report shall explain :</listIntroduction>
+              <item id="section-6.3.list1.a">
+                <num>(a)</num>
+                <p>any deviation or likely deviation in meeting the obligations cast on the State Government under this Act;</p>
+              </item>
+              <item id="section-6.3.list1.b">
+                <num>(b)</num>
+                <p>whether such deviation is substantial and relates to the actual or the potential budgetary outcomes, and how much of the deviation can be attributed to general economic environment and to policy changes by the State Government; and</p>
+              </item>
+              <item id="section-6.3.list1.c">
+                <num>(c)</num>
+                <p>the remedial measures the State Government proposes to take.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>Whenever there is a prospect of either shortfall in revenue or excess of expenditure over pre-specified levels for a given year on account of any new policy decision of the State Government that affects either the State Government or its Public Sector Undertakings, the State Government, prior to taking such policy decision, shall take measures to fully offset the fiscal impact for the current and future years by curtailing the sums authorized to be paid and applied from and out of the Consolidated Fund of the State under any Act to provide for the appropriation of such sums, or by taking interim measures for revenue augmentation, or by taking up a combination of both.</p>
+            <p>Provided that nothing in this sub-section shall apply to the expenditure charged on the Consolidated Fund of the State under clause (3) of article 202 of the Constitution.</p>
+            <p>Provided further that, while adhering to the fiscal targets, the State Government will give priority to protecting certain expenditure declared in the Medium Term Fiscal Plan as “high priority development expenditure” (including, inter alia, elementary education, basic health and rural water supply) from curtailment or may impose a reduced or partial curtailment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <p>Whenever one or more supplementary estimates are presented to the Houses of Legislature, the State Government shall also present an accompanying statement indicating the corresponding curtailment of expenditure and/or augmentation of revenue to fully offset the fiscal impact of the supplementary estimates in relation to the budget targets of the current year and the Medium Term Fiscal Plan objectives and targets for the future year.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Power to make rules.-</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act,</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-7.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely :-</listIntroduction>
+              <item id="section-7.2.list1.a">
+                <num>(a)</num>
+                <p>the fiscal indicators to be prescribed for the purpose of sub-section (2) of section 3 and clause (a) of sub-section (2) of section 5;</p>
+              </item>
+              <item id="section-7.2.list1.b">
+                <num>(b)</num>
+                <p>the form of the Medium Term Fiscal Plan referred to in sub-section (5) of section 3 and sub-section (2) of section 5;</p>
+              </item>
+              <item id="section-7.2.list1.c">
+                <num>(c)</num>
+                <p>any other matter which is required to be, or may be, prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Rules to be laid before Legislature.-</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of State Legislature, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Protection of action taken in good faith.-</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against the State Government or any officer of the State Government for anything which is in good faith done or intended to be done under this Act or the rules made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Application of other laws not barred.-</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>The provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law for the time being in force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Power to remove difficulties.-</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the State Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:</p>
+            <p>Provided that no order shall be made under this section after the expiry of two years from the date of commencement of the Karnataka Fiscal Responsibility (Amendment) Act, 2011.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

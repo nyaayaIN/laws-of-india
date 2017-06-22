@@ -1,0 +1,474 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2003/39/main"/>
+          <FRBRuri value="/in-union/act/2003/39"/>
+          <FRBRalias value="The Fiscal Responsibility And Budget Management Act, 2003"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2003/39/eng@2003-08-26/main"/>
+          <FRBRuri value="/in-union/act/2003/39/eng@2003-08-26"/>
+          <FRBRdate date="2003-08-26" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2003/39/eng@2003-08-26/main"/>
+          <FRBRuri value="/in-union/act/2003/39/eng@2003-08-26"/>
+          <FRBRdate date="2017-06-08" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Fiscal Responsibility And Budget Management Act, 2003</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT No. 39 OF 2003</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[26th August, 2003.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to provide for the responsibility of the Central Government to ensure inter-generational equity in fiscal management and long-term macro-economic stability by achieving sufficient revenue surplus and removing fiscal impediments in the effective conduct of monetary policy and prudential debt management consistent with fiscal sustainability through limits on the Central Government borrowings, debt and deficits, greater transparency in fiscal operations of the Central Government and conducting fiscal policy in a medium-term framework and for matters connected therewith or incidental thereto.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by Parliament in the Fifty-fourth Year of the Republic of India as follows:—</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Fiscal Responsibility and Budget Management Act, 2003.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint in this behalf.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“fiscal deficit” means the excess of total disbursements, from the Consolidated Fund of India, excluding repayment of debt, over total receipts into the Fund (excluding the debt receipts), during a financial year;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.aa">
+                <num>(aa)</num>
+                <p>“effective revenue deficit” means the difference between the revenue deficit and grants for creation of capital assets;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“fiscal indicators” means the measures such as numerical ceilings and proportions to gross domestic product, as may be prescribed, for evaluation of the fiscal position of the Central Government;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.bb">
+                <num>(bb)</num>
+                <p>“grants for creation of capital assets” means the grants in aid given by the Central Government to the State Governments, constitutional authorities or bodies, autonomous bodies, local bodies and other scheme implementing agencies for creation of capital assets which are owned by the said entities;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“Reserve Bank” means the Reserve Bank of India constituted under sub-section (1) of section 3 of the Reserve Bank of India Act, 1934 (2 of 1934); (e) “revenue deficit” means the difference between revenue expenditure and revenue receipts which indicates increase in liabilities of the Central Government without corresponding increase in assets of that Government;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“total liabilities” means the liabilities under the Consolidated Fund of India and the public account of India.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Fiscal policy statements to be laid before Parliament.—</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-3.1.list1">
+              <listIntroduction>The Central Government shall lay in each financial year before both Houses of Parliament the following statements of fiscal policy along with the annual financial statement and demands for grants except the Medium-term Expenditure Framework Statement, namely:—</listIntroduction>
+              <item id="section-3.1.list1.a">
+                <num>(a)</num>
+                <p>the Medium-term Fiscal Policy Statement;</p>
+              </item>
+              <item id="section-3.1.list1.b">
+                <num>(b)</num>
+                <p>the Fiscal Policy Strategy Statement;</p>
+              </item>
+              <item id="section-3.1.list1.c">
+                <num>(c)</num>
+                <p>the Macro-economic Framework Statement;</p>
+              </item>
+              <item id="section-3.1.list1.d">
+                <num>(d)</num>
+                <p>the Medium-term Expenditure Framework Statement. (1A) The statements referred to in clauses (a) to (c) of sub-section (1) shall be followed up with the Medium-term Expenditure Framework Statement with detailed analysis of underlying assumptions.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.1B">
+          <num>(1B)</num>
+          <content>
+            <p>The Central Government shall lay the Medium-term Expenditure Framework Statement referred to in clause (d) of sub-section (1) before both Houses of Parliament, immediately following the session of Parliament in which the policy statements referred to in clauses (a) to (c) were laid under sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The Medium-term Fiscal Policy Statement shall set forth a three-year rolling target for prescribed fiscal indicators with specification of underlying assumptions.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-3.3.list1">
+              <listIntroduction>In particular, and without prejudice to the provisions contained in sub-section (2), the Mediumterm Fiscal Policy Statement shall include an assessment of sustainability relating to—</listIntroduction>
+              <item id="section-3.3.list1.i">
+                <num>(i)</num>
+                <p>the balance between revenue receipts and revenue expenditures;</p>
+              </item>
+              <item id="section-3.3.list1.ii">
+                <num>(ii)</num>
+                <p>the use of capital receipts including market borrowings for generating productive assets.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-3.4.list1">
+              <listIntroduction>The Fiscal Policy Strategy Statement shall, inter alia, contain—</listIntroduction>
+              <item id="section-3.4.list1.a">
+                <num>(a)</num>
+                <p>the policies of the Central Government for the ensuing financial year relating to taxation, expenditure, market borrowings and other liabilities, lending and investments, pricing of administered goods and services, securities and description of other activities such as underwriting and guarantees which have potential budgetary implications;</p>
+              </item>
+              <item id="section-3.4.list1.b">
+                <num>(b)</num>
+                <p>the strategic priorities of the Central Government for the ensuing financial year in the fiscal area;</p>
+              </item>
+              <item id="section-3.4.list1.c">
+                <num>(c)</num>
+                <p>the key fiscal measures and rationale for any major deviation in fiscal measures pertaining to taxation, subsidy, expenditure, administered pricing and borrowings;</p>
+              </item>
+              <item id="section-3.4.list1.d">
+                <num>(d)</num>
+                <p>an evaluation as to how the current policies of the Central Government are in conformity with the fiscal management principles set out in section 4 and the objectives set out in the Medium-term Fiscal Policy Statement.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>The Macro-economic Framework Statement shall contain an assessment of the growth prospects of the economy with specification of underlying assumptions.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.6">
+          <num>(6)</num>
+          <content>
+            <blockList id="section-3.6.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing provisions the Macro-economic Framework Statement shall contain an assessment relating to—</listIntroduction>
+              <item id="section-3.6.list1.a">
+                <num>(a)</num>
+                <p>the growth in the gross domestic product;</p>
+              </item>
+              <item id="section-3.6.list1.b">
+                <num>(b)</num>
+                <p>the fiscal balance of the Union Government as reflected in the revenue balance and gross fiscal balance;</p>
+              </item>
+              <item id="section-3.6.list1.c">
+                <num>(c)</num>
+                <p>the external sector balance of the economy as reflected in the current account balance of the balance of payments. (6A)</p>
+              </item>
+              <item id="section-3.6.list1.a">
+                <num>(a)</num>
+                <p>The Medium-term Expenditure Framework Statement shall set forth a three-year rolling target for prescribed expenditure indicators with specification of underlying assumptions and risk involved.</p>
+              </item>
+              <item id="section-3.6.list1.b">
+                <num>(b)</num>
+                <blockList id="section-3.6.list1.b.list0">
+                  <listIntroduction>In particular and without prejudice to the provisions contained in clause (a), the Medium-term Expenditure Framework Statement shall, inter alia, contain—</listIntroduction>
+                  <item id="section-3.6.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>the expenditure commitment of major policy changes involving new service, new instruments of service, new schemes and programmes;</p>
+                  </item>
+                  <item id="section-3.6.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>the explicit contingent liabilities, which are in the form of stipulated annuity payments over a multi-year time-frame;</p>
+                  </item>
+                  <item id="section-3.6.list1.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>the detailed breakup of grants for creation of capital assets.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.7">
+          <num>(7)</num>
+          <content>
+            <p>The Medium-term Fiscal Policy Statement, the Fiscal Policy Strategy Statement, the Mediumterm Expenditure Framework Statement and the Macro-economic Framework Statement referred to in sub-section (1) shall be in such form as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Fiscal management principles.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government shall take appropriate measures to reduce the fiscal deficit, revenue deficit and effective revenue deficit to eliminate the effective revenue deficit by the 31st March, 2018 and thereafter build up adequate effective revenue surplus and also to reach revenue deficit of not more than two per cent of Gross Domestic Product by the 31st March, 2018 and thereafter as may be prescribed by rules made by the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-4.2.list1">
+              <listIntroduction>The Central Government shall, by rules made by it, specify—</listIntroduction>
+              <item id="section-4.2.list1.a">
+                <num>(a)</num>
+                <p>the annual targets for reduction of fiscal deficit, revenue deficit and effective revenue deficit during the period beginning with the commencement of this Act and ending on the 31st March, 2018;</p>
+              </item>
+              <item id="section-4.2.list1.b">
+                <num>(b)</num>
+                <p>the annual targets of assuming contingent liabilities in the form of guarantees and the total liabilities as a percentage of gross domestic product: Provided that the revenue deficit , effective revenue deficit and fiscal deficit may exceed such targets due to ground or grounds of national security or national calamity or such other exceptional grounds as the Central Government may specify:</p>
+              </item>
+            </blockList>
+            <p>Provided further that the ground or grounds specified in the first proviso shall be placed before both Houses of Parliament, as soon as may be, after such deficit amount exceed the aforesaid targets.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Borrowing from Reserve Bank.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government shall not borrow from the Reserve Bank.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Central Government may borrow from the Reserve Bank by way of advances to meet temporary excess of cash disbursement over cash receipts during any financial year in accordance with the agreements which may be entered into by that Government with the Reserve Bank:</p>
+            <p>Provided that any advances made by the Reserve Bank to meet temporary excess cash disbursement over cash receipts in any financial year shall be repayable in accordance with the provisions contained in sub-section (5) of section 17 of the Reserve Bank of India Act, 1934 (2 of 1934).</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Reserve Bank may subscribe to the primary issues of the Central Government securities during the financial year beginning on the 1st day of April, 2003 and subsequent two financial years:</p>
+            <p>Provided that the Reserve Bank may subscribe, on or after the period specified in this sub-section, to the primary issues of the Central Government securities due to ground or grounds specified in the first proviso to sub-section (2) of section 4.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.4">
+          <num>(4)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Reserve Bank may buy and sell the Central Government securities in the secondary market.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Measures for fiscal transparency.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government shall take suitable measures to ensure greater transparency in its fiscal operations in public interest and minimise as far as practicable, secrecy in the preparation of the annual financial statement and demands for grants.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>In particular, and without prejudice to the generality of the foregoing provision, the Central Government shall, at the time of presentation of annual financial statement and demands for grants, make such disclosures and in such form as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Measures to enforce compliance.—</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The Minister-in-charge of the Ministry of Finance shall review, every quarter, the trends in receipts and expenditure in relation to the budget and place before both Houses of Parliament the outcome of such reviews.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Whenever there is either shortfall in revenue or excess of expenditure over the pre-specified levels mentioned in the Fiscal Policy Strategy Statement and the rules made under this Act during any period in a financial year, the Central Government shall take appropriate measures for increasing revenue or for reducing the expenditure (including curtailing of the sums authorised to be paid and applied from and out of the Consolidated Fund of India under any Act so as to provide for the appropriation of such sums):</p>
+            <p>Provided that nothing in this sub-section shall apply to the expenditure charged on the Consolidated Fund of India under clause (3) of article 112 of the Constitution or to any other expenditure which is required to be incurred under any agreement or contract or such other expenditure which cannot be postponed or curtailed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-7.3.list0">
+              <item id="section-7.3.list0.a">
+                <num>(a)</num>
+                <p>Except as provided under this Act, no deviation in meeting the obligations cast on the Central Government under this Act, shall be permissible without approval of Parliament.</p>
+              </item>
+              <item id="section-7.3.list0.b">
+                <num>(b)</num>
+                <blockList id="section-7.3.list0.b.list0">
+                  <listIntroduction>Where, owing to unforeseen circumstances, any deviation is made in meeting the obligations cast on the Central Government under this Act, the Minister-in-charge of the Ministry of Finance shall make a statement in both Houses of Parliament explaining—</listIntroduction>
+                  <item id="section-7.3.list0.b.list0.i">
+                    <num>(i)</num>
+                    <p>any deviation in meeting the obligations cast on the Central Government under this Act;</p>
+                  </item>
+                  <item id="section-7.3.list0.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>whether such deviation is substantial and relates to the actual or the potential budgetary outcomes; and</p>
+                  </item>
+                  <item id="section-7.3.list0.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>the remedial measures the Central Government proposes to take.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7A">
+        <num>7A.</num>
+        <heading>Laying of review reports.—</heading>
+        <paragraph id="section-7A.paragraph-0">
+          <content>
+            <p>The Central Government may entrust the Comptroller and Auditor-General of India to review periodically as required, the compliance of the provisions of this Act and such reviews shall be laid on the table of both Houses of Parliament.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-8.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-8.2.list1.a">
+                <num>(a)</num>
+                <p>the annual targets to be specified under sub-section (2) of section 4;</p>
+              </item>
+              <item id="section-8.2.list1.b">
+                <num>(b)</num>
+                <p>the fiscal indicators to be prescribed for the purpose of sub-section (2) of section 3;</p>
+              </item>
+              <item id="section-8.2.list1.ba">
+                <num>(ba)</num>
+                <p>the expenditure indicators with specifications of underlying assumptions and risk involved under clause (a) of sub-section (6A) of section 3;</p>
+              </item>
+              <item id="section-8.2.list1.c">
+                <num>(c)</num>
+                <p>the forms of the Medium-term Fiscal Policy Statement, Fiscal Policy Strategy Statement, Medium-term Expenditure Framework Statement and Macro-economic Frame Work Statement referred to in sub-section (7) of section 3;</p>
+              </item>
+              <item id="section-8.2.list1.ca">
+                <num>(ca)</num>
+                <p>the per cent of revenue deficit to be specified after the 31st March, 2015 under sub-section (1) of section 4;</p>
+              </item>
+              <item id="section-8.2.list1.d">
+                <num>(d)</num>
+                <p>the disclosures and form in which such disclosures shall be made under sub-section (2) of section 6;</p>
+              </item>
+              <item id="section-8.2.list1.e">
+                <num>(e)</num>
+                <p>any other matter which is required to be, or may be, prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Rules to be laid before each House of Parliament.—</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against the Central Government or any officer of the Central Government for anything which is in good faith done or intended to be done under this Act or the rules made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Jurisdiction of civil courts barred.—</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>No civil court shall have jurisdiction to question the legality of any action taken by, or any decision of, the Central Government, under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Application of other laws barred.—</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>The provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law for the time being in force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Power to remove difficulties.—</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty: Provided that no order shall be made under this section after the expiry of two years from the commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

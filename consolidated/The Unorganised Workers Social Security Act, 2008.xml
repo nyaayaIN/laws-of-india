@@ -1,0 +1,970 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2008/33/main"/>
+          <FRBRuri value="/in-union/act/2008/33"/>
+          <FRBRalias value="The Unorganised Workers’ Social Security Act, 2008"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2008/33/eng@2008-12-30/main"/>
+          <FRBRuri value="/in-union/act/2008/33/eng@2008-12-30"/>
+          <FRBRdate date="2008-12-30" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2008/33/eng@2008-12-30/main"/>
+          <FRBRuri value="/in-union/act/2008/33/eng@2008-12-30"/>
+          <FRBRdate date="2016-09-27" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Unorganised Workers’ Social Security Act, 2008</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 33 OF 2008</docNumber>
+      </p>
+    </preface>
+    <body>
+      <section id="section-30th">
+        <num>30th.</num>
+        <heading>December, 2008.</heading>
+        <paragraph id="section-30th.paragraph-0">
+          <content>
+            <p>An Act to provide for the social security and welfare of unorganised workers and for other matters connected therewith or incidental thereto.</p>
+            <p>BE it enacted by Parliament in the Fifty-ninth Year of the Republic of India as follows:—</p>
+          </content>
+        </paragraph>
+      </section>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Unorganised Workers’ Social Security Act, 2008.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“employer” means a person or an association of persons, who has engaged or employed an unorganised worker either directly or otherwise for remuneration;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“home-based worker” means a person engaged in the production of goods or services for an employer in his or her home or other premises of his or her choice other than the workplace of the employer, for remuneration, irrespective of whether or not the employer provides the equipment, materials or other inputs;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“identity card” means a card, document or certificate issued to an unorganised worker by the District Administration under sub-section (3) of section 10;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“National Board” means the National Social Security Board for unorganised workers constituted under sub-section (1) of section 5;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“notification” means a notification published in the Official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“organised sector" means an enterprise which is not an unorganised sector;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act by the Central Government or the State Government, as the case may be;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“registered worker” means an unorganised worker registered under sub-section (3) of section 10;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“Schedule” means the Schedule annexed to the Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“State Board” means the (name of the State) State Social Security Board for unorganised workers constituted under sub-section (1) of section 6;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“self-employed worker” means any person who is not employed by an employer, but engages himself or herself in any occupation in the unorganised sector subject to a monthly earning of an amount as may be notified by the Central Government or the State Government from time to time or holds cultivable land subject to such ceiling as may be notified by the State Government;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“unorganised sector” means an enterprise owned by individuals or self-employed workers and engaged in the production or sale of goods or providing service of any kind whatsoever, and where the enterprise employs workers, the number of such workers is less than ten;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“unorganised worker” means a home-based worker, self-employed worker or a wage worker in the unorganised sector and includes a worker in the organised sector who is not covered by any of the Acts mentioned in Schedule II to this Act; and</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>“wage worker” means a person employed for remuneration in the unorganised sector, directly by an employer or through any contractor, irrespective of place of work, whether exclusively for one employer or for one or more employers, whether in cash or in kind, whether as a home-based worker, or as a temporary or casual worker, or as a migrant worker, or workers employed by households including domestic workers, with a monthly wage of an amount as may be notified by the Central Government and State Government, as the case may be.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Social security benefits</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Framing of scheme.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-3.1.list1">
+                <listIntroduction>The Central Government shall formulate and notify, from time to time, suitable welfare schemes for unorganised workers on matters relating to—</listIntroduction>
+                <item id="section-3.1.list1.a">
+                  <num>(a)</num>
+                  <p>life and disability cover;</p>
+                </item>
+                <item id="section-3.1.list1.b">
+                  <num>(b)</num>
+                  <p>health and maternity benefits;</p>
+                </item>
+                <item id="section-3.1.list1.c">
+                  <num>(c)</num>
+                  <p>old age protection; and</p>
+                </item>
+                <item id="section-3.1.list1.d">
+                  <num>(d)</num>
+                  <p>any other benefit as may be determined by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The schemes included in the Schedule 1 to this Act shall be deemed to be the welfare schemes under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may, by notification, amend the Schedules annexed to this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-3.4.list1">
+                <listIntroduction>The State Government may formulate and notify, from time to time, suitable welfare schemes for unorganised workers, including schemes relating to—</listIntroduction>
+                <item id="section-3.4.list1.a">
+                  <num>(a)</num>
+                  <p>provident fund;</p>
+                </item>
+                <item id="section-3.4.list1.b">
+                  <num>(b)</num>
+                  <p>employment injury benefit;</p>
+                </item>
+                <item id="section-3.4.list1.c">
+                  <num>(c)</num>
+                  <p>housing;</p>
+                </item>
+                <item id="section-3.4.list1.d">
+                  <num>(d)</num>
+                  <p>educational schemes for children;</p>
+                </item>
+                <item id="section-3.4.list1.e">
+                  <num>(e)</num>
+                  <p>skill upgradation of workers;</p>
+                </item>
+                <item id="section-3.4.list1.f">
+                  <num>(f)</num>
+                  <p>funeral assistance; and</p>
+                </item>
+                <item id="section-3.4.list1.g">
+                  <num>(g)</num>
+                  <p>old age homes.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Funding of Central Government Schemes.—</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-4.1.list1">
+                <listIntroduction>Any scheme notified by the Central Government may be—</listIntroduction>
+                <item id="section-4.1.list1.i">
+                  <num>(i)</num>
+                  <p>wholly funded by the Central Government; or</p>
+                </item>
+                <item id="section-4.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>partly funded by the Central Government and partly funded by the State Government; or</p>
+                </item>
+                <item id="section-4.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>partly funded by the Central Government, partly funded by the State Government and partly funded through contributions collected from the beneficiaries of the scheme or the employers as may be prescribed in the scheme by the Central Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-4.2.list1">
+                <listIntroduction>Every scheme notified by the Central Government shall provide for such matters that are necessary for the efficient implementation of the scheme including the matters relating to,—</listIntroduction>
+                <item id="section-4.2.list1.i">
+                  <num>(i)</num>
+                  <p>scope of the scheme;</p>
+                </item>
+                <item id="section-4.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>beneficiaries of the scheme;</p>
+                </item>
+                <item id="section-4.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>resources of the scheme;</p>
+                </item>
+                <item id="section-4.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>agency or agencies that will implement the scheme;</p>
+                </item>
+                <item id="section-4.2.list1.v">
+                  <num>(v)</num>
+                  <p>redressal of grievances; and</p>
+                </item>
+                <item id="section-4.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>any other relevant matter.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>National social security board forunorganised workers</heading>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>National Social Security Board.—</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, by notification, constitute a National Board to be known as the National Social Security Board to exercise the powers conferred on, and to perform the functions assigned to, it under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-5.2.list1">
+                <listIntroduction>The National Board shall consist of the following members, namely:—</listIntroduction>
+                <item id="section-5.2.list1.a">
+                  <num>(a)</num>
+                  <p>Union Minister for Labour and Employment-Chairperson, ex officio;</p>
+                </item>
+                <item id="section-5.2.list1.b">
+                  <num>(b)</num>
+                  <p>the Director General (Labour Welfare)-Member-Secretary, ex officio; and</p>
+                </item>
+                <item id="section-5.2.list1.c">
+                  <num>(c)</num>
+                  <blockList id="section-5.2.list1.c.list0">
+                    <listIntroduction>thirty-four members to be nominated by the Central Government, out of whom—</listIntroduction>
+                    <item id="section-5.2.list1.c.list0.i">
+                      <num>(i)</num>
+                      <p>seven representing unorganised sector workers;</p>
+                    </item>
+                    <item id="section-5.2.list1.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>seven representing employers of unorganised sector;</p>
+                    </item>
+                    <item id="section-5.2.list1.c.list0.iii">
+                      <num>(iii)</num>
+                      <p>seven representing eminent persons from civil society;</p>
+                    </item>
+                    <item id="section-5.2.list1.c.list0.iv">
+                      <num>(iv)</num>
+                      <p>two representing members from Lok Sabha and one from Rajya Sabha;</p>
+                    </item>
+                    <item id="section-5.2.list1.c.list0.v">
+                      <num>(v)</num>
+                      <p>five representing Central Government Ministries and Departments concerned; and</p>
+                    </item>
+                    <item id="section-5.2.list1.c.list0.vi">
+                      <num>(vi)</num>
+                      <p>five representing State Governments.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>The Chairperson and other members of the Board shall be from amongst persons of eminence in the fields of labour welfare, management, finance, law and administration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>The number of persons to be nominated as members from each of the categories specified in clause (c) of sub-section (2), the term of office and other conditions of service of members, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among the members of, the National Board shall be such as may be prescribed:</p>
+              <p>Provided that adequate representation shall be given to persons belonging to the Scheduled Castes, the Scheduled Tribes, the Minorities and Women.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.5">
+            <num>(5)</num>
+            <content>
+              <p>The term of the National Board shall be three years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.6">
+            <num>(6)</num>
+            <content>
+              <p>The National Board shall meet at least thrice a year, at such time and place and shall observe such rules of procedure relating to the transaction of business at its meetings, as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.7">
+            <num>(7)</num>
+            <content>
+              <p>The members may receive such allowances as may be prescribed for attending the meetings of the National Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.8">
+            <num>(8)</num>
+            <content>
+              <blockList id="section-5.8.list1">
+                <listIntroduction>The National Board shall perform the following functions, namely:—</listIntroduction>
+                <item id="section-5.8.list1.a">
+                  <num>(a)</num>
+                  <p>recommend to the Central Government suitable schemes for different sections of unorganised workers;</p>
+                </item>
+                <item id="section-5.8.list1.b">
+                  <num>(b)</num>
+                  <p>advise the Central Government on such matters arising out of the administration of this Act as may be referred to it;</p>
+                </item>
+                <item id="section-5.8.list1.c">
+                  <num>(c)</num>
+                  <p>monitor such social welfare schemes for unorganised workers as are administered by the Central Government;</p>
+                </item>
+                <item id="section-5.8.list1.d">
+                  <num>(d)</num>
+                  <p>review the progress of registration and issue of identity cards to the unorganised workers;</p>
+                </item>
+                <item id="section-5.8.list1.e">
+                  <num>(e)</num>
+                  <p>review the record keeping functions performed at the State level;</p>
+                </item>
+                <item id="section-5.8.list1.f">
+                  <num>(f)</num>
+                  <p>review the expenditure from the funds under various schemes; and</p>
+                </item>
+                <item id="section-5.8.list1.g">
+                  <num>(g)</num>
+                  <p>undertake such other functions as are assigned to it by the Central Government from time to time.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>State social security board forunorganised workers</heading>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>State Social Security Board.—</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Every State Government shall, by notification, constitute a State Board to be known as (name of the State) State Social Security Board to exercise the powers conferred on, and to perform the functions assigned to it, under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-6.2.list1">
+                <listIntroduction>The State Board shall consist of the following members, namely:—</listIntroduction>
+                <item id="section-6.2.list1.a">
+                  <num>(a)</num>
+                  <p>Minister of Labour and Employment of the concerned State—</p>
+                </item>
+              </blockList>
+              <blockList id="section-6.2.list3">
+                <listIntroduction>Chairperson, ex officio;</listIntroduction>
+                <item id="section-6.2.list3.b">
+                  <num>(b)</num>
+                  <p>the Principal Secretary or Secretary (Labour) —</p>
+                </item>
+              </blockList>
+              <p>Member—</p>
+              <blockList id="section-6.2.list6">
+                <listIntroduction>Secretary, ex officio; and</listIntroduction>
+                <item id="section-6.2.list6.c">
+                  <num>(c)</num>
+                  <blockList id="section-6.2.list6.c.list0">
+                    <listIntroduction>twenty-eight members to be nominated by the State Government, out of whom—</listIntroduction>
+                    <item id="section-6.2.list6.c.list0.i">
+                      <num>(i)</num>
+                      <p>seven representing the unorganised workers;</p>
+                    </item>
+                    <item id="section-6.2.list6.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>seven representing employers of unorganised workers;</p>
+                    </item>
+                    <item id="section-6.2.list6.c.list0.iii">
+                      <num>(iii)</num>
+                      <p>two representing members of Legislative Assembly of the concerned State;</p>
+                    </item>
+                    <item id="section-6.2.list6.c.list0.iv">
+                      <num>(iv)</num>
+                      <p>five representing eminent persons from civil society; and</p>
+                    </item>
+                    <item id="section-6.2.list6.c.list0.v">
+                      <num>(v)</num>
+                      <p>seven representing State Government Departments concerned.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>The Chairperson and other members of the Board shall be from amongst persons of eminence in the fields of labour welfare, management, finance, law and administration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>The number of persons to be nominated as members from each of the categories specified in clause (c) of sub-section (2), the term of office and other conditions of service of members, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among the members of, the State Board shall be such as may be prescribed:</p>
+              <p>Provided that adequate representation shall be given to persons belonging to the Scheduled Castes, the Scheduled Tribes, the Minorities and Women.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>The term of the State Board shall be three years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.6">
+            <num>(6)</num>
+            <content>
+              <p>The State Board shall meet atleast once in a quarter at such time and place and shall observe such rules of procedure relating to the transaction of business at its meetings, as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.7">
+            <num>(7)</num>
+            <content>
+              <p>The members may receive such allowances as may be prescribed for attending the meetings of the State Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.8">
+            <num>(8)</num>
+            <content>
+              <blockList id="section-6.8.list1">
+                <listIntroduction>The State Board shall perform the following functions, namely:—</listIntroduction>
+                <item id="section-6.8.list1.a">
+                  <num>(a)</num>
+                  <p>recommend the State Government in formulating suitable schemes for different sections of the unorganised sector workers;</p>
+                </item>
+                <item id="section-6.8.list1.b">
+                  <num>(b)</num>
+                  <p>advise the State Government on such matters arising out of the administration of this Act as may be referred to it;</p>
+                </item>
+                <item id="section-6.8.list1.c">
+                  <num>(c)</num>
+                  <p>monitor such social welfare schemes for unorganised workers as are administered by the State Government;</p>
+                </item>
+                <item id="section-6.8.list1.d">
+                  <num>(d)</num>
+                  <p>review the record keeping functions performed at the District level;</p>
+                </item>
+                <item id="section-6.8.list1.e">
+                  <num>(e)</num>
+                  <p>review the progress of registration and issue of cards to unorganised sector workers;</p>
+                </item>
+                <item id="section-6.8.list1.f">
+                  <num>(f)</num>
+                  <p>review the expenditure from the funds under various schemes; and</p>
+                </item>
+                <item id="section-6.8.list1.g">
+                  <num>(g)</num>
+                  <p>undertake such other functions as are assigned to it by the State Government from time to time.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Funding of State Government Schemes.—</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-7.1.list1">
+                <listIntroduction>Any scheme notified by the State Government may be—</listIntroduction>
+                <item id="section-7.1.list1.i">
+                  <num>(i)</num>
+                  <p>wholly funded by the State Government; or</p>
+                </item>
+                <item id="section-7.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>partly funded by the State Government, partly funded through contributions collected from the beneficiaries of the scheme or the employers as may be prescribed in the scheme by the State Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may seek financial assistance from the Central Government for the schemes formulated by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may provide such financial assistance to the State Governments for the purpose of schemes for such period and on such terms and conditions as it may deem fit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Record keeping by District Administration.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>The record keeping functions for the purpose of this Act shall be performed by the District Administration:</p>
+              <blockList id="section-8.paragraph-0.list2">
+                <listIntroduction>Provided that the State Government may direct that the record keeping function shall be performed by—</listIntroduction>
+                <item id="section-8.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>the District Panchayat in rural areas; and</p>
+                </item>
+                <item id="section-8.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>the Urban Local Bodies in urban areas.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Workers facilitation centres.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <blockList id="section-9.paragraph-0.list1">
+                <listIntroduction>The State Government may set up such Workers' facilitation centres as may be considered necessary from time to time to perform the following functions, namely:—</listIntroduction>
+                <item id="section-9.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>disseminate information on available social security schemes for the unorganised workers;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>facilitate the filling, processing and forwarding of application forms for registration of unorganised workers;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>assist unorganised worker to obtain registration from the District Administration;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>facilitate the enrollment of the registered unorganised workers in social security schemes.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Registration</heading>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Eligibility for registration and social security benefits.—</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-10.1.list1">
+                <listIntroduction>Every unorganised worker shall be eligible for registration subject to the fulfilment of the following conditions, namely:—</listIntroduction>
+                <item id="section-10.1.list1.a">
+                  <num>(a)</num>
+                  <p>he or she shall have completed fourteen years of age; and</p>
+                </item>
+                <item id="section-10.1.list1.b">
+                  <num>(b)</num>
+                  <p>a self-declaration by him or her confirming that he or she is an unorganised worker.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Every eligible unorganised worker shall make an application in the prescribed form to the District Administration for registration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>Every unorganised worker shall be registered and issued an identity card by the District Administration which shall be a smart card carrying a unique identification number and shall be portable.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>If a scheme requires a registered unorganised worker to make a contribution, he or she shall be eligible for social security benefits under the scheme only upon payment of such contribution.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.5">
+            <num>(5)</num>
+            <content>
+              <p>Where a scheme requires the Central or State Government to make a contribution, the Central or State Government, as the case may be, shall make the contribution regularly in terms of the scheme.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power of Central Government to give directions.—</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <blockList id="section-11.paragraph-0.list1">
+                <listIntroduction>The Central Government may give directions to—</listIntroduction>
+                <item id="section-11.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>the National Board; or</p>
+                </item>
+                <item id="section-11.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>the Government of a State or the State Board of that State, in respect of matters relating to the implementation of the provisions of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Vacancies, etc., not to invalidate proceedings.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>No proceedings of the National Board or any State Board shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the National Board or, as the case may be, the State Board.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Power to make rules by Central Government.—</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-13.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-13.2.list1.a">
+                  <num>(a)</num>
+                  <p>the contributions to be collected from the beneficiaries of the scheme or the employers under sub-section (1) of section 4;</p>
+                </item>
+                <item id="section-13.2.list1.b">
+                  <num>(b)</num>
+                  <p>the number of persons to be nominated, the term of office and other conditions of service of members, the procedure to be followed in the discharge of functions by, and the manner of filling vacancies of, the National Board under sub- section (4) of section 5;</p>
+                </item>
+                <item id="section-13.2.list1.c">
+                  <num>(c)</num>
+                  <p>the rules of procedure relating to the transaction of the business at the meeting of the National Board under sub-section (6) of section 5;</p>
+                </item>
+                <item id="section-13.2.list1.d">
+                  <num>(d)</num>
+                  <p>the allowances for attending the meetings of the National Board under sub-section (7) of section 5;</p>
+                </item>
+                <item id="section-13.2.list1.e">
+                  <num>(e)</num>
+                  <p>the form for making an application for registration under sub-section (2) of section 10; and</p>
+                </item>
+                <item id="section-13.2.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which is required to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Power to make rules by State Government.—</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, make rules to carry out the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-14.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <item id="section-14.2.list1.a">
+                  <num>(a)</num>
+                  <p>the number of persons to be nominated, the term of office and other conditions of service of members, the procedure to be followed in the discharge of functions by, and the manner of filling vacancies of, the State Board under sub-section (4) of section 6;</p>
+                </item>
+                <item id="section-14.2.list1.b">
+                  <num>(b)</num>
+                  <p>the rules of procedure relating to the transaction of business at the meetings of the State Board under sub-section (6) of section 6;</p>
+                </item>
+                <item id="section-14.2.list1.c">
+                  <num>(c)</num>
+                  <p>the allowances for attending the meetings of the State Board under sub-section (7) of section 6;</p>
+                </item>
+                <item id="section-14.2.list1.d">
+                  <num>(d)</num>
+                  <p>the contributions to be collected from the beneficiaries of the scheme or the employers under sub-section (1) of section 7;</p>
+                </item>
+                <item id="section-14.2.list1.e">
+                  <num>(e)</num>
+                  <p>the form in which the application for registration shall be made under sub-section (2) of section 10; and</p>
+                </item>
+                <item id="section-14.2.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which is required to be, or may be, prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Laying of rules.—</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>Every rule made under this Act by State Government shall be laid, as soon as may be after it is notified, before the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Saving of certain laws.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Nothing contained in this Act shall affect the operation of any corresponding law in a State providing welfare schemes which are more beneficial to the unorganised workers than those provided for them by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as may appear to it to be necessary for removing the difficulty:</p>
+              <p>Provided that no such order shall be made under this section after the expiry of a period of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedulei">
+      <doc name="schedulei">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2008/33/schedulei"/>
+              <FRBRuri value="/in-union/act/2008/33"/>
+              <FRBRalias value="Schedule I"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2008/33/eng@2008-12-30/schedulei"/>
+              <FRBRuri value="/in-union/act/2008/33/eng@2008-12-30"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2008/33/eng@2008-12-30/schedulei"/>
+              <FRBRuri value="/in-union/act/2008/33/eng@2008-12-30"/>
+              <FRBRdate date="2016-09-27" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedulei">
+            <heading>See sections 2(i) and (3)</heading>
+            <paragraph id="schedulei.paragraph-0">
+              <content>
+                <p>SOCIAL SECURITY SCHEMES FOR THE UNORGANISED WORKERS</p>
+                <p>S. No. Name of the Scheme</p>
+              </content>
+            </paragraph>
+            <section id="section-1">
+              <num>1.</num>
+              <heading>Indira Gandhi National Old Age Pension Scheme.</heading>
+            </section>
+            <section id="section-2">
+              <num>2.</num>
+              <heading>National Family Benefit Scheme.</heading>
+            </section>
+            <section id="section-3">
+              <num>3.</num>
+              <heading>Janani Suraksha Yojana.</heading>
+            </section>
+            <section id="section-4">
+              <num>4.</num>
+              <heading>Handloom Weavers' Comprehensive Welfare Scheme.</heading>
+            </section>
+            <section id="section-5">
+              <num>5.</num>
+              <heading>Handicraft Artisans' Comprehensive Welfare Scheme.</heading>
+            </section>
+            <section id="section-6">
+              <num>6.</num>
+              <heading>Pension to Master craft persons.</heading>
+            </section>
+            <section id="section-7">
+              <num>7.</num>
+              <heading>National Scheme for Welfare of Fishermen and Training and Extension.</heading>
+            </section>
+            <section id="section-8">
+              <num>8.</num>
+              <heading>Janshree Bima Yojana.</heading>
+            </section>
+            <section id="section-9">
+              <num>9.</num>
+              <heading>Aam Admi Bima Yojana.</heading>
+            </section>
+            <section id="section-10">
+              <num>10.</num>
+              <heading>Rashtriya Swasthya Bima Yojana.</heading>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+    <component id="component-scheduleii">
+      <doc name="scheduleii">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2008/33/scheduleii"/>
+              <FRBRuri value="/in-union/act/2008/33"/>
+              <FRBRalias value="Schedule II"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2008/33/eng@2008-12-30/scheduleii"/>
+              <FRBRuri value="/in-union/act/2008/33/eng@2008-12-30"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2008/33/eng@2008-12-30/scheduleii"/>
+              <FRBRuri value="/in-union/act/2008/33/eng@2008-12-30"/>
+              <FRBRdate date="2016-09-27" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="scheduleii">
+            <heading>See section 2(m)</heading>
+            <paragraph id="scheduleii.paragraph-0">
+              <content>
+                <p>S. No. Name of the Act</p>
+              </content>
+            </paragraph>
+            <section id="section-1">
+              <num>1.</num>
+              <heading>The Workmen's Compensation Act, 1923 (8 of 1923).</heading>
+            </section>
+            <section id="section-2">
+              <num>2.</num>
+              <heading>The Industrial Disputes Act, 1947 (14 of 1947).</heading>
+            </section>
+            <section id="section-3">
+              <num>3.</num>
+              <heading>The Employees' State Insurance Act, 1948 (34 of 1948).</heading>
+            </section>
+            <section id="section-4">
+              <num>4.</num>
+              <heading>The Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952).</heading>
+            </section>
+            <section id="section-5">
+              <num>5.</num>
+              <heading>The Maternity Benefit Act, 1961 (53 of 1961).</heading>
+            </section>
+            <section id="section-6">
+              <num>6.</num>
+              <heading>The Payment of Gratuity Act, 1972 (39 of 1972).</heading>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

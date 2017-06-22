@@ -1,0 +1,77 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1850/21/main"/>
+          <FRBRuri value="/in-union/act/1850/21"/>
+          <FRBRalias value="The Caste Disabilities Removal Act, 1850"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1850/21/eng@1850-04-11/main"/>
+          <FRBRuri value="/in-union/act/1850/21/eng@1850-04-11"/>
+          <FRBRdate date="1850-04-11" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1850/21/eng@1850-04-11/main"/>
+          <FRBRuri value="/in-union/act/1850/21/eng@1850-04-11"/>
+          <FRBRdate date="2016-12-18" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Caste Disabilities Removal Act, 1850</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act, No. 21 of 1850]</p>
+        <p>[As on 1959]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[11th April, 1850]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act for extending the principle of section 9, Regulation VII, 1832 of the Bengal Code throughout India.</p>
+      <p>WHEREAS it is enacted by section 9, Regulation VII, 1832, of the Bengal Code, that "whenever in any civil suit the parties to such suit may be of different persuasions, when one party shall be of the Hindu and the other of the Muhammad an persuasion, or where one or more of the parties to the suit shall not be either of the Muhammad an or Hindu persuasions the laws of those religions shall not be permitted to operate to deprive such party or parties of any property to which, but for the operation of such laws, they would have been entitled "; and whereas it will be beneficial to extend the principle of that enactment throughout India; It is enacted as follows :--</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Law or usage which inflicts forfeiture of, or affects, rights on change of religion or loss of caste to cease to be enforced.-</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>So much of any law or usage now in force within India as inflicts on any person forfeiture of rights or property, or may be held in any way to impair or affect any right of inheritance, by reason of his or her renouncing, or having been excluded from the communion of, any religion, or being deprived of caste, shall cease to be enforced as law in any Court.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Short title and extent.-</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Caste Disabilities Removal Act, 1850.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

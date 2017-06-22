@@ -1,0 +1,95 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1938/20/main"/>
+          <FRBRuri value="/in-union/act/1938/20"/>
+          <FRBRalias value="The Criminal Law Amendment Act, 1938"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1938/20/eng@1938-09-14/main"/>
+          <FRBRuri value="/in-union/act/1938/20/eng@1938-09-14"/>
+          <FRBRdate date="1938-09-14" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1938/20/eng@1938-09-14/main"/>
+          <FRBRuri value="/in-union/act/1938/20/eng@1938-09-14"/>
+          <FRBRdate date="2016-10-05" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Criminal Law Amendment Act, 1938</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[14th September, 1938.]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 20 of 1938</p>
+        <p>An Act to amend the criminal law.</p>
+        <p>WHEREAS it is expedient to supplement the criminal law by providing for the punishment of certain acts prejudicial to the recruitment of persons to serve in, and to the discipline of, the Armed Forces of the Union;</p>
+        <p>It is hereby enacted as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title extent and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Criminal Law Amendment Act, 1938.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force in a State on such date as the State Government may, by notification in the Official Gazette, appoint in his behalf for such State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Dissuasion from enlistment and instigation to mutiny or insubordination after enlistment.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>Whoever-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>with intent to affect adversely the recruitment of persons to serve in the Military, Naval or Air Forces of the Union, wilfully dissuades or attempts to dissuade the public or any person from entering any such Forces, or</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>without dissuading or attempting to dissuade any person from entering such Forces, instigates the public or any person to do, after entering any such Force, any thing which is an offence punishable as mutiny or insubordination under section 27 of the Indian Army Act 5, 1911 (8 of 1911), or sections 10 to 12 and 14 to 17 inclusive of the Indian Navy (Discipline) Act, 1934 (34 of 1934), or sections 35 to 37 inclusive of the Indian Air Force Act, 1932 (14 of 1932), as the case may be,</p>
+              </item>
+            </blockList>
+            <p>shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.</p>
+            <p>No person shall be prosecuted for any offence under this Act except with the previous sanction of the State Government.</p>
+            <p>Exception 1.- The provisions of clause (a) of this section do not extend to comments on or criticism of the policy of Government in connection with the Military, Naval or Air Forces, made in good faith without any intention of dissuading from enlistment.</p>
+            <p>Exception 2.- The provisions of clause (a) of this section do not extend to the case in which advice is given in good faith for the benefit of the individual to whom it is given, or for the benefit of any member of his family or of any of his dependents.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
