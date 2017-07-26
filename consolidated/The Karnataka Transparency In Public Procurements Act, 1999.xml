@@ -1,0 +1,581 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/2000/29/main"/>
+          <FRBRuri value="/in-kar/act/2000/29"/>
+          <FRBRalias value="The Karnataka Transparency In Public Procurements Act, 1999"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/2000/29/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/2000/29/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/2000/29/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/2000/29/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Transparency In Public Procurements Act, 1999</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[13th December, 2000]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 29 of 2000</p>
+        <p>An Act to provide for ensuring transparency in public procurement of goods and services by streamlining the procedure in inviting, processing and acceptance of tenders by Procurement Entities, and for matters related thereto.</p>
+        <p>WHEREAS it is expedient in public interest to render the process of procurement of goods and services by Procurement Entities transparent by streamlining the procedure in inviting, processing and acceptance of tenders.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by the Karnataka State Legislature in the fiftieth year of the Republic of India as follows:-</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka Transparency in Public Procurements Act, 1999.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall be deemed to have come into force with effect from the fourth day of October, 2000.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>‘Construction Works’ means putting up, demolishing, repairs or renovation of buildings, roads, bridges or other structures including fabrication of steel structures and all other civil works;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.aa">
+                  <num>(aa)</num>
+                  <p>'e-Procurement' means purchase of goods, obtaining of services or undertaking of construction work by the procurement entity through eProcurement platform;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.aaa">
+                  <num>(aaa)</num>
+                  <p>'e-Procurement Platform' means a procurement platform of electronic media comprising of procurement process set up and managed by the State Government through integrated internet enabled procurement tools incorporated by customization;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>‘Goods’ means Machinery, Motor Vehicles, Equipment, Furniture, Articles of Stationary, textiles raw materials, drugs, scientific instruments, chemicals, food grains, oil and oil seeds or other commodity required for consumption, use or distribution by a Procurement Entity in discharge of its public duties;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>‘Government’ means the State Government;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>‘Procurement Entity’ means any Government Department, a State Government Undertaking, Local Authority or Board, Body or Corporation established by or under any law and owned or controlled by the Government, and any other body or authority owned or controlled by the Government and as may be specified by it.</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>‘Public Procurement’ or ‘procurement’ means purchase of goods, obtaining of services or undertaking of construction works by the procurement entities;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>‘Services’ means the action of serving, attending upon, helping or benefiting a Procurement Entity in the course of discharging its public duties and includes construction works;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>‘Specified goods or Services’ means the goods or services as the case may be specified in a tender and identified in the contract resulting from acceptance of a tender on account of a procurement entity;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>‘Tender’ means the formal offer made for supply of goods or services in response to an invitation for tender published in a Tender Bulletin;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>‘Tender Accepting Authority’ means an officer or a Committee appointed to accept tenders and a ‘Tender Inviting Authority’ means an officer or a Committee appointed to invite tenders, under section 9;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>‘Tender Bulletin’ means a bulletin published for the State as a whole or for any district or districts within the State containing the details of invitation, processing and acceptance of Tenders;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>‘Tender Bulletin Officer’ means a State Tender Bulletin Officer or a Tender Bulletin Officer referred to in section 7;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>‘Tender Document” means the set of papers detailing the schedule of works, calendar of events, requirement of goods and services, technical specifications, procurement criteria and such other particulars, as may be prescribed for evaluation and comparison of tenders.</p>
+                </item>
+              </blockList>
+              <p>Provided that for the purpose of e-Procurement, the 'tender papers' means set of documents in electronic form.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Provisions not to apply to certain Projects.</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>The provisions of this Act in so far as they are inconsistent with the procedure specified in respect of the Projects funded by International Financial Agencies or Projects covered under International Agreements, shall not apply to procurement of goods or services for such project.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Exceptions to applicability.</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <blockList id="section-4.paragraph-0.list1">
+                <listIntroduction>The provisions of Chapter II shall not apply to Procurement of goods and services,-</listIntroduction>
+                <item id="section-4.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>During the period of natural calamity or emergency declared by the Government ;</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>Where the goods or services are available from a single source or where a particular supplier or contractor has exclusive rights in respect of the goods or services or construction work and no reasonable alternatives or substitutes exist:</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.paragraph-0.list3">
+                <listIntroduction>Provided that for the purpose of this clause there shall be a committee of three experts consisting of one technical representative of the procuring entity one technical representative of the Government organisation dealing with similar procurement and one representative from a reputed Academic or Research Institution or Non-Commercial Institution having expertise in such line to examine and declare that the goods or services are available from a single source;</listIntroduction>
+                <item id="section-4.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>Where the procuring entity having procured goods, services or technology from a supplier or contractor determines that additional supplies must be procured from the same supplier or contractor for reasons of standardization and compatibility with the existing goods, service or technology;</p>
+                </item>
+                <item id="section-4.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>Where the goods or services are procured from certain Departments of Government, public sector undertakings, statutory boards and such other institutions specified by the Government and such goods are manufactured or services are provided by them, for a period not exceeding three years from the date of commencement of this Act;</p>
+                </item>
+                <item id="section-4.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <blockList id="section-4.paragraph-0.list3.e.list0">
+                    <listIntroduction>Where the procurement is by the Government Departments, State Government Undertakings, or any Board, Body or Corporation established by or under any law and owned or controlled by the Government or Zilla Panchayats constituted under the Karnataka Panchayat Raj Act, 1993 or City Municipal Corporations established under the Municipal Corporations Act, 1976 or City Municipal Councils established under the Karnataka Municipalities Act, 1964 or the Hyderabad Karnataka Areas Development Board constituted under the Hyderabad Karnataka Area Development Board Act, 1993 or Malnad Area Development Board constituted under the Malnad Area Development Board Act, 1991 or the Bayaluseeme Development Board constituted under the Bayaluseeme Development Board Act, 1994,-</listIntroduction>
+                    <item id="section-4.paragraph-0.list3.e.list0.i">
+                      <num>(i)</num>
+                      <p>in case of construction works of all types the value of which does not exceed rupees five lakhs;</p>
+                    </item>
+                    <item id="section-4.paragraph-0.list3.e.list0.ii">
+                      <num>(ii)</num>
+                      <p>in case of goods or services other than construction works the value of which does not exceed rupees one lakh;</p>
+                    </item>
+                    <item id="section-4.paragraph-0.list3.e.list0.ee">
+                      <num>(ee)</num>
+                      <blockList id="section-4.paragraph-0.list3.e.list0.ee.list0">
+                        <listIntroduction>where the procurement of goods or services is by the Grama Panchayats and Taluk Panchayats constituted under the Karnataka Panchayat Raj Act, 1993, Town Municipal Councils or Town Panchayats constituted under the Karnataka Municipalities Act, 1964 or Urban Development Authorities constituted under the Karnataka Urban Development Authorities Act, 1987,-</listIntroduction>
+                        <item id="section-4.paragraph-0.list3.e.list0.ee.list0.i">
+                          <num>(i)</num>
+                          <p>for the purpose of implementing mini water supply scheme or construction of school rooms and the value of such procurement does not exceed rupees two lakhs; and</p>
+                        </item>
+                        <item id="section-4.paragraph-0.list3.e.list0.ee.list0.ii">
+                          <num>(ii)</num>
+                          <p>for other purposes and the value of such procurement does not exceed rupees one lakh.</p>
+                        </item>
+                        <item id="section-4.paragraph-0.list3.e.list0.ee.list0.eee">
+                          <num>(eee)</num>
+                          <p>Where the procurement is by the procurement entity receiving grant from the consolidated fund of the state, in case of Infrastructure works of electrification of drinking water schemes the value of which does not exceed rupees five lakhs;</p>
+                        </item>
+                        <item id="section-4.paragraph-0.list3.e.list0.ee.list0.f">
+                          <num>(f)</num>
+                          <p>Where the goods or services are procured under rate contracts from the Director General of Supplies and Disposals or from the Stores Purchase Department of the State; and</p>
+                        </item>
+                        <item id="section-4.paragraph-0.list3.e.list0.ee.list0.g">
+                          <num>(g)</num>
+                          <p>in respect of specific procurements as may be notified by the Government from time to time.</p>
+                        </item>
+                        <item id="section-4.paragraph-0.list3.e.list0.ee.list0.h">
+                          <num>(h)</num>
+                          <p>in respect of spot purchase of cotton by Spinning Mills, purchase of oil seeds by the Karnataka Agro-Industries Corporation or the Karnataka Co-operative Oil Seeds Grower's Federation, purchase of sugarcane by Sugar Mills, direct purchase of paddy by the Agricultural Produce Market Committees and the Karnataka Food and Civil Supplies Corporation, purchase of cloth by the Karnataka Handloom Development Corporation, purchase of silk by the Karnataka Silk Industries Corporation, purchase of milk by the Karnataka Milk Producers Co-operative Federation, purchase of palm oil by the Karnataka Food and Civil Supplies Corporation and the Karnataka Co-operative Oil Seeds Grower's Federation, purchase of cloth by the Government Departments and public sector undertaking from the Karnataka Handloom Development Corporation and purchase by such other organizations or purchase of any other material as may be notified by the Government from time to time.</p>
+                        </item>
+                      </blockList>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Regulation of Procurement</heading>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Procurement other than by Tender Prohibited.</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>On and from the date of commencement of this Act no Procurement Entity shall procure goods or services except by inviting Tenders for supply.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Procurement Entities to follow Procedure.</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>No tender shall be invited, processed or accepted by a Procurement Entity after the commencement of this Act except in accordance with the procedure laid down in this Act or the rules made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Tender Bulletin Officers.</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may by notification appoint an officer not below the rank of a Deputy Secretary to Government of the concerned department to be the State Tender Bulletin Officer for the State in respect of that Department where the procurement of that department covers more than one district.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>Deputy Commissioner of the District shall be the District Bulletin Officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Publication of Tender Bulletin.</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Tender Bulletin Officer, or as the case may be, the District Tender Bulletin Officer shall on receipt of intimation relating to notice of invitation of tender from tender inviting authority or information relating to details of acceptance of tender under section 13 or rejection of tender under section 14 from the tender Accepting Authority, publish within the prescribed time, the State Tender Bulletin or as the case may be District Tender Bulletin.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The Tender Bulletin shall be made available for sale in the office of the Tender Bulletin Officer and in such other places as the Tender Bulletin Officer deems fit to make available.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Tender Inviting Authority and Tender Accepting Authority.</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-9.1.list1">
+                <listIntroduction>The Procurement Entity may, by order, appoint, -</listIntroduction>
+                <item id="section-9.1.list1.i">
+                  <num>(i)</num>
+                  <p>one or more of officers or a Committee of Officers to be the Tender Inviting Authority for any specified area, specified procurement or specified class of goods or services, and</p>
+                </item>
+                <item id="section-9.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>one or more of officers or a Committee of Officers to be the Tender Accepting Authority for any specified area or Specified Procurement, specified class of goods and services:</p>
+                </item>
+              </blockList>
+              <p>Provided that where a multi-member Committee is already appointed for any Procurement Entity for discharging the function of accepting tenders, such Committee shall be deemed to be a Tender Accepting Authority appointed under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Tender Scrutiny Committee.</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>The Tender Accepting Authority may constitute a Tender Scrutiny Committee consisting of such persons as it deems fit to scrutinise tenders above five crores in the case of the Public Works, Irrigation and Minor Irrigation Departments of the Government and above rupees one crore in other cases.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Opening of Tenders.</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Procurement entity may authorise either the Tender Inviting Authority or the Tender Accepting Authority or any other Officer to open the Tenders and draw up a list of Tenderers responding to the notice inviting tender, in each case.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority, or as the case may be the officer referred to in sub-section (1) shall open the tender, draw up a list of tenderers in the prescribed manner and unless it is also the Tender Accepting Authority, forward the tenders along with the list of tenderers, to the Tender Accepting Authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Duties of Tender Inviting Authority.</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-12.1.list1">
+                <listIntroduction>It shall be the duty of every Tender Inviting Authority,-</listIntroduction>
+                <item id="section-12.1.list1.a">
+                  <num>(a)</num>
+                  <p>to take out notice inviting tenders at the behest of the Procurement Entity in the prescribed manner;</p>
+                </item>
+                <item id="section-12.1.list1.b">
+                  <num>(b)</num>
+                  <p>to communicate the notice inviting tenders by marking a copy thereof to the Tender bulletin Officer concerned immediately after issue of the notice;</p>
+                </item>
+                <item id="section-12.1.list1.c">
+                  <num>(c)</num>
+                  <p>to cause publication of notice inviting tenders in the prescribed manner; and</p>
+                </item>
+                <item id="section-12.1.list1.d">
+                  <num>(d)</num>
+                  <p>to supply the Schedule of Rates and Tender Documents to every intending tenderer who has applied to get such documents.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The Tender Inviting Authority shall take out notices, communications and publications required to be taken out under this section in such form, in such manner, by such mode and at such time and interval as may be prescribed and different manner and mode of publication may be prescribed for different procurements depending on the value of the procurement.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>The Tender Inviting Authority shall collect all the details received in response to the notice inviting tender, within the time stipulated and unless it is itself authorised to open the tender shall compile and forward all the tenders received to the Authority or Officer authorised to open the tenders.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Acceptance of Tender.</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The Tender Accepting Authority shall, after following such procedure as may be prescribed pass order accepting the tender and shall communicate the information relating to acceptance of tender together with a comparative analysis and reasons for accepting of tender to the procurement entity and the Tender Bulletin Officer:</p>
+              <p>Provided that where the Tender Accepting Authority consists of single officer who is due to retire within the next six months, from the date fixed for the acceptance for tender, he shall not act to accept the tender without obtaining prior approval of the Procurement Entity:</p>
+              <p>Provided further that subject to such general or special order as may be issued by the Government from time to time, the Tender Accepting Authority may before passing order accepting a tender negotiate with lowest tenderer.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>General rejection of tenders.</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>The Tender Accepting Authority may at any time before passing an order of acceptance under section 13 reject all the tenders on the ground of changes in the scope of procurement, failure of anticipated financial resource, accidents, calamities or any other ground as may be prescribed which would render the procurement unnecessary or impossible and report the same to the Procurement Entity.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The Procurement Entity shall thereafter communicate the fact of the rejection under this section to all the Tenderers and also cause the same to be published in the Tender Bulletin.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Power to give directions.</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>It shall be competent for the Government to give appropriate directions to the Procurement Entity or the Authorities under this Act in order to secure and maintain transparency at any stage of the process of procurement, and it shall be duty of the Procurement Entity or such authority to comply with the directions.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Appeal.</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Any tenderer aggrieved by an order passed by the Tender Accepting Authority other than the Government under section 13 may appeal to the prescribed authority within thirty days from the date of receipt of the order:</p>
+              <p>Provided that the prescribed authority may, in its discretion allow further time not exceeding thirty days for preferring any such appeal, if it is satisfied that the appellant had sufficient cause for not preferring the appeal in time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The prescribed authority may after giving opportunity of being heard to both the parties pass such order thereon as it deems fit and such order shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>The prescribed authority shall as far as possible dispose of the appeal within thirty days from the date of filing thereof.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Power to obtain information.</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in this Act or in any other law for the time being in force, the Government may with a view to ensuring transparency call for and obtain, from any Authority under this Act, any information relating to any matter in the process of procurement.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power to call for records.</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <blockList id="section-18.paragraph-0.list1">
+                <listIntroduction>The Government may at any time, with a view to ensuring transparency in the procurement process call upon any authority under this Act,-</listIntroduction>
+                <item id="section-18.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>to produce records relating to invitation, processing and acceptance of tenders ;</p>
+                </item>
+                <item id="section-18.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>to furnish the tender document, estimates/statements/accounts or statistics relating to such tenders; and</p>
+                </item>
+                <item id="section-18.paragraph-0.list1.iii">
+                  <num>(iii)</num>
+                  <p>to furnish report on any specific point incidental to the procurement.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IIA">
+        <num>IIA</num>
+        <heading>E-procurement</heading>
+        <section id="section-18A">
+          <num>18A.</num>
+          <heading>E-Procurement.-</heading>
+          <subsection id="section-18A.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be a single unified e-procurement platform for all procurement entity which may be notified under sub-section (2).</p>
+            </content>
+          </subsection>
+          <subsection id="section-18A.2">
+            <num>(2)</num>
+            <content>
+              <p>With effect from such date, as may be specified by the Government, by notification, a procurement entity in respect of a class of procurement if any, as may be notified shall procure its procurements through the e-procurement platform.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18A.3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding anything contained in this Act, the Government may make rules, for specifying a separate procedure to be followed by procurement entities notified under sub-section (2) for e-procurement through e-procurement platform; and for non-application of other procedure of procurement to e-procurement.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Officers deemed to be Public Servants.</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Every Officer acting under or in pursuance of the provisions of this Act or under a rule, order or notification made thereunder, shall be deemed to be a public servant within this meaning of section 21 of the Indian Penal Code, 1860 (Central Act XLV of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Immunity for action taken in good faith.</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>No suit or other legal proceeding shall lie against the Government or any officer or authority empowered to exercise powers or perform the functions under the Act in respect of anything which is in good faith done or intended to be done under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Bar of Jurisdiction of Courts.</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Save as otherwise provided in this Act no order passed or proceedings taken by any officer or authority under this Act shall be called in question in any court, and no injunction shall be granted by any court in respect of any action taken or to be taken by such officer or authority in exercise of powers conferred on him or it, by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Act to override other laws.</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any custom or usage, agreement, decree or order of a Court or a Tribunal or other Authority.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Penalty.</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Whoever contravenes the provisions of this Act or the rules made thereunder shall be punishable with imprisonment for a term which may extend to three years and with fine which may extend to five thousand rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to remove difficulties.</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Government may, by order published in the Gazette make such provisions not inconsistent with the provisions of the Act as appear to them to be necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no such order shall be made after this expiry of a period of two years from the date of commencement of the Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power to make rules.</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government, may by notification, make such rules as are necessary for carrying out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>Every rule made or notification or order issued under this Act shall as soon as possible, after it is made or issued, be placed before each House of the State Legislature while it is in session for a total period of thirty days, which may be comprised in one session or in two or more successive sessions and if before the expiry of the session in which it is laid or the sessions immediately following both Houses agree in making any modifications in the rule, notification or order or both Houses agree that the rule, notification or order shall not be made, the rule or notification or order shall thereafter have effect only in such modified form or be of no effect, as the case may be, so, however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification or order.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Savings.</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>All rules, regulations, orders, notifications departmental codes, manuals, bye-laws, official Memoranda, circular or any other order made or issued before the commencement of this Act and in force on the date of such commencement providing for or relating to any of the above matters for the furtherance of which this Act is enacted shall continue to be in force and effective as if they are made under the corresponding provisions of this Act, to the extent they are not inconsistent with the provisions of this Act and unless and until superceded by anything done or any action taken or any rule, notification or order, is made under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Repeal and savings.</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>The Karnataka Transparency in Public Procurements Ordinance, 2000 (Karnataka Ordinance No. 8 of 2000) is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal anything done or any action taken under the principal Act as amended by the said Ordinance shall be deemed to have been done or taken under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

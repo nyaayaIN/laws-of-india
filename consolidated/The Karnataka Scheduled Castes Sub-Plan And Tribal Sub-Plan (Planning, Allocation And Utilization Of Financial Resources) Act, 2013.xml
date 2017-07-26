@@ -1,0 +1,909 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/2013/65/main"/>
+          <FRBRuri value="/in-kar/act/2013/65"/>
+          <FRBRalias value="The Karnataka Scheduled Castes Sub-Plan And Tribal Sub-Plan (Planning, Allocation And Utilization Of Financial Resources) Act, 2013"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/2013/65/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/2013/65/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/2013/65/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/2013/65/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Scheduled Castes Sub-Plan And Tribal Sub-Plan (Planning, Allocation And Utilization Of Financial Resources) Act, 2013</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[27th December 2013]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 65 of 2013</p>
+        <p>Preamble—</p>
+        <p>An Act to provide for earmarking a portion of state plan outlay for the Scheduled Castes Subplan and Tribal Sub-Plan in proportion to the population of Scheduled Castes and Scheduled Tribes and to put in place an institutional mechanism for preparation, implementation and monitoring of subplan and for matters connected therewith or incidental thereto;</p>
+        <p>Whereas it is expedient to provide for earmarking a portion of state plan outlay for the Scheduled Castes Sub-plan and Tribal Sub-Plan in proportion to the population of Scheduled Castes and Scheduled Tribes and to put in place an institutional mechanism for preparation, implementation and monitoring of sub-plan and for matters connected therewith or incidental thereto;</p>
+        <p>Be it enacted by Karnataka State Legislature in the Sixty-fourth year of the Republic of India as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title and commencement.—</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka Scheduled Castes Sub-Plan and Tribal Sub-Plan (Planning, Allocation and Utilization of Financial Resources) Act, 2013.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall come into force on such date as the State Government may, by notification in the Karnataka Gazette, appoint, and different dates may be appointed for different provisions of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,.—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>"Department" means a Government Department entrusted with the implementation of the plan schemes for the welfare of the Scheduled Castes and the Scheduled Tribes;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>"Gaps in development" means differences in development indicators of the Scheduled Castes or the Scheduled Tribes when compared to the state averages, as may be prescribed particularly relating to human and economic development;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"General Schemes" means schemes included in the annual Plans of the Departments which benefit all social groups including the Scheduled Castes and the Scheduled Tribes;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>"Government" means, the Government of Karnataka;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>"Nodal Agency for SCSP/TSP" means the Nodal Agency constituted under section 5;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>"Prescribed" means prescribed by rules made under the Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>"State Council" means the State Council for Development of the Scheduled Castes and the Scheduled Tribes constituted under section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>"Scheduled Castes and Scheduled Tribes" shall have the meaning assigned respectively under clauses (24) and (25) of Article 366 of the Constitution of India;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>"Scheduled Castes Sub-Plan (SCSP)" means the Plan approved by the State Council for inclusion in the annual plan of the Department to bridge the gap in development of the Scheduled Castes including the Scheduled Castes component of general schemes;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>"Scheduled Castes Sub-plan or Tribal Sub-Plan Fund" means a portion of the total plan outlays of the State, in a financial year, as earmarked under the section 13;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>"Scheduled Castes Sub-Plan/Tribal Sub-Plan Schemes" means the Scheduled Castes Sub-Plan/Tribal Sub-Plan schemes included in the Scheduled Castes SubPlan/Tribal Sub-Plan of the Department;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>"Scheduled Castes or Scheduled Tribe habitation" means any habitation where population of the Scheduled Castes or the Scheduled Tribes or combined population of the Scheduled Castes and the Scheduled Tribes is not less than forty percent of the total population of the habitation;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>"Sub-Plans" means Scheduled Castes Sub-Plan(SCSP) or Tribal Sub-Plan(TSP) or both;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>"Total Plan Outlay of the State" means the plan outlay for which resources of the State are applied.</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>"Tribal Sub-Plan (TSP)" means the Plan approved, by the State Council for inclusion in the annual plan of the Department, to bridge the gap in development of the Scheduled Tribes including the Scheduled Tribes component of general schemes;</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>— Institutional Arrangement</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>The State Council for Development of the Scheduled Castes or the Scheduled Tribes.—</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>As soon as may be, after the commencement of this Act, the Government shall, by notification, constitute a Council to-be known as the State Council for the Development of Scheduled Castes and Scheduled Tribes to exercise the powers conferred and to perform the functions assigned to it under the Act and the rules made there under.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The State council shall consist of the following, namely:-</p>
+              <table id="section-3.2.table1">
+                <tr>
+                  <td>
+                    <p>a</p>
+                  </td>
+                  <td>
+                    <p>The Chief Minister</p>
+                  </td>
+                  <td>
+                    <p>Chairman</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>b</p>
+                  </td>
+                  <td>
+                    <p>The Minister for Social Welfare</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>c</p>
+                  </td>
+                  <td>
+                    <p>The Minister for Parliamentary Affairs and Legislation</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>d</p>
+                  </td>
+                  <td>
+                    <p>The Minister for Rural Development and Panchayat Raj</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>e</p>
+                  </td>
+                  <td>
+                    <p>The Minister for Higher Education</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>f</p>
+                  </td>
+                  <td>
+                    <p>The Minister for Revenue</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>g</p>
+                  </td>
+                  <td>
+                    <p>Five MLAs or MLCs or MPs belonging to SC/ST as nominated by the Government</p>
+                  </td>
+                  <td>
+                    <p>Members</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>h</p>
+                  </td>
+                  <td>
+                    <p>The Development Commissioner &amp; Additional Chief Secretary to Government</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>i</p>
+                  </td>
+                  <td>
+                    <p>The Secretary/Principal Secretary, Finance Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>j</p>
+                  </td>
+                  <td>
+                    <p>The Secretary/Principal Secretary, Planning Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>k</p>
+                  </td>
+                  <td>
+                    <p>Secretary/Principal Secretary, Social Welfare Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member Secretary</p>
+                  </td>
+                </tr>
+              </table>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The Secretary to Government in-charge of the Departments for which allocations are made shall be special invitees of the State Council.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.4">
+            <num>(4)</num>
+            <content>
+              <p>The term of the nominated MLAs or MLCs or MPs shall be thirty months.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.5">
+            <num>(5)</num>
+            <content>
+              <p>The nominated members shall be eligible for such allowances and fee as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.6">
+            <num>(6)</num>
+            <content>
+              <p>The State council shall meet at least twice in a year.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Functions of the State Council.—</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <blockList id="section-4.paragraph-0.list1">
+                <listIntroduction>The State Council shall perform the following functions, namely:-</listIntroduction>
+                <item id="section-4.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>advise the State Government on all the policy matters relating to the Scheduled Castes Sub-Plan/Tribal Sub-Plan;</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>suggest measures for proper planning and implementation of the schemes by the departments;</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>approve the annual Scheduled Castes Sub-Plan/Tribal Sub-Plan proposals of the Departments; and</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>perform such other functions as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Nodal Agency and Nodal Department.-</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The Nodal Agency for the Scheduled Castes Sub-Plan/Tribal Sub-Plan shall consist of the following, namely:-</p>
+              <table id="section-5.1.table1">
+                <tr>
+                  <td>
+                    <p>1</p>
+                  </td>
+                  <td>
+                    <p>The Minister for Social Welfare</p>
+                  </td>
+                  <td>
+                    <p>Chairman</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>2</p>
+                  </td>
+                  <td>
+                    <p>The Development Commissioner and Additional Chief Secretary to Government</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>3</p>
+                  </td>
+                  <td>
+                    <p>The Secretary/Principal Secretary to Government Social Welfare Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>4</p>
+                  </td>
+                  <td>
+                    <p>The Secretary/Principal Secretary to Government Finance Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>5</p>
+                  </td>
+                  <td>
+                    <p>The Secretary/Principal Secretary to Government Planning Department</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>6</p>
+                  </td>
+                  <td>
+                    <p>The Secretary/Principal Secretary of all other Departments for which allocations are to be made shall be Special Invitees</p>
+                  </td>
+                  <td>
+                    <p>Ex-officio Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>7</p>
+                  </td>
+                  <td>
+                    <p>The Director, Scheduled Tribes Department.</p>
+                  </td>
+                  <td>
+                    <p>Convener TSP</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>8</p>
+                  </td>
+                  <td>
+                    <p>The Ex-officio Commissioner, Social Welfare Department.</p>
+                  </td>
+                  <td>
+                    <p>Convener SCSP</p>
+                  </td>
+                </tr>
+              </table>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The Social Welfare Department shall be the Nodal Department for assisting the Nodal Agency to perform its functions and exercise its powers.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Functions of the Nodal Agency.—</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>The Nodal Agency with the assistance of the respective Nodal Department shall perform the following functions, namely:-</p>
+            </content>
+          </paragraph>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>Evaluate and appraise the Scheduled Castes Sub-Plan or Tribal Sub-Plan proposed by the departments for ensuring conformity to the provisions of this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Prepare the State Scheduled Castes Sub-Plan/Tribal Sub-Plan for placing before the State Council for Development of Scheduled Castes and Scheduled Tribes for consideration and approval;</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>Review the implementation and monitoring of the Scheduled Castes Sub-Plan/Tribal Sub-Plan programme;</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>Identify impediments and suggest measures for overcoming the impediments;</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.5">
+            <num>(5)</num>
+            <content>
+              <p>Co-ordinate with the departments for preparation of the State level and district level Scheduled Castes Sub-Plan/Tribal Sub-Plan;</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.6">
+            <num>(6)</num>
+            <content>
+              <p>Maintain transparency in expenditure; maintain scheme wise; district wise, village wise and beneficiary wise details as may be prescribed; set up a web portal for tracking the progress of the implementation, expenditure, output and outcome indicators as may be prescribed of Scheduled castes Sub-plan/Tribal Sub-Plan;</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.7">
+            <num>(7)</num>
+            <content>
+              <p>Facilitate at least annual social auditing of expenditure of Scheduled Castes Sub-Plan or Tribal Sub-Plan funds and facilitate analysis of improvement in Human Development Index against the projections for the State and district: Provided that the directions of the Nodal Agency shall be binding on the Departments.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Allocation of Scheduled Castes Sub-Plan fund and Tribal Sub-Plan fund for financing the Scheduled Castes Sub-Plan/Tribal Sub-Plan Schemes included in the Sub-Plan.-</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <blockList id="section-7.paragraph-0.list1">
+                <listIntroduction>The Nodal Agency, while indicating allocation of the Scheduled Castes Sub-Plan or Tribal Sub-Plan Fund to the Scheduled Castes Sub-Plan or Tribal Sub-Plan schemes shall follow the following norms namely:-</listIntroduction>
+                <item id="section-7.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>for schemes exclusively benefiting the Scheduled Castes or the Scheduled Tribes individuals or the Scheduled Castes or Scheduled Tribes households 100% of scheme cost shall be allocated and accounted for under the Scheduled Castes Sub-Plan or Tribal Sub-Plan fund;</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>for schemes benefiting the Scheduled Castes or the Scheduled Tribes habitations, 100% of scheme cost shall be allocated and accounted for under the Scheduled Castes SubPlan or the Tribal Sub-Plan fund. In case of other habitations the cost shall be allocated and accounted for under the Scheduled Caste Sub-Plan or Tribal Sub-Plan in proportion of the population of the Scheduled Castes or the Scheduled Tribes;</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>for general social sector schemes, that is education, health, women and child, labour, physically handicapped included in the Sub-Plans, benefiting the Scheduled Castes or Scheduled Tribes individuals or the Scheduled Castes or Scheduled Tribes households, along with others, the scheme cost shall be allocated and accounted for under Scheduled Castes Sub-Plan or Tribal Sub-Plan, in proportion to the Scheduled Castes or Scheduled Tribe population;</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>In respect of non-divisible infrastructure works, a portion of the scheme cost as may be determined by the Government shall be deemed to have been provided for the Scheduled Caste sub-plan and Tribal sub-plan respectively.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Recommendation by the Nodal Agencies and the Nodal Department.—</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>The schemes that fulfill the norms laid down in the Act shall be recommended by the Nodal Agency for inclusion in the annual Plan proposals of the departments and aggregated for placing before the State Council for Development of the Scheduled Castes and Scheduled Tribes for consideration and approval as pre-budget process.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Administrative and technical support to the Nodal Department.—</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>The Government shall provide required Technical and other staff to the Nodal Department with an Administrative and Technical Support Unit as may be prescribed, to perform the functions and discharge the duties assigned to it and to assist the Nodal Agency.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Department Level Sub-Plan Support Unit.—</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>The departments as identified by the State Council may establish a Sub-Plan Support Unit, as may be prescribed to manage the respective Scheduled Castes sub-Plan and Tribal Sub-Plan.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Implementation of the scheduled castes sub-plan or tribal sub-plan schemes in districts.—</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be a District Monitoring Committee in each district, which shall be responsible for implementation of the Scheduled Castes Sub-Plan or Tribal Sub-Plan in the district consisting of the following members, namely:-</p>
+              <table id="section-11.1.table1">
+                <tr>
+                  <td>
+                    <p>1</p>
+                  </td>
+                  <td>
+                    <p>The Deputy Commissioner</p>
+                  </td>
+                  <td>
+                    <p>Chairman</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>2</p>
+                  </td>
+                  <td>
+                    <p>Members of Legislative Assembly representing a part or whole of the district whose Constituency lie within district and Members of Legislative Council who are registered as electors within the district.</p>
+                  </td>
+                  <td>
+                    <p>Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>3</p>
+                  </td>
+                  <td>
+                    <p>Chief Executive Officer of the Zilla Panchayat</p>
+                  </td>
+                  <td>
+                    <p>Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>4</p>
+                  </td>
+                  <td>
+                    <p>The Joint Director, Agriculture</p>
+                  </td>
+                  <td>
+                    <p>Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>5</p>
+                  </td>
+                  <td>
+                    <p>The Executive Engineer, PWD</p>
+                  </td>
+                  <td>
+                    <p>Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>6</p>
+                  </td>
+                  <td>
+                    <p>The District Health Officer</p>
+                  </td>
+                  <td>
+                    <p>Member</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>7</p>
+                  </td>
+                  <td>
+                    <p>The District level officers respective Departments for which allocations are made shall be Special Invitees.</p>
+                  </td>
+                  <td>
+                    <p>Members</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>8</p>
+                  </td>
+                  <td>
+                    <p>District Social Welfare Officer</p>
+                  </td>
+                  <td>
+                    <p>Convenor SCSP</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>9</p>
+                  </td>
+                  <td>
+                    <p>The District Tribal Welfare Officer or Project Director for the Scheduled Tribes</p>
+                  </td>
+                  <td>
+                    <p>Convenor TSP</p>
+                  </td>
+                </tr>
+              </table>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The Zilla Panchayat and the District Monitoring Committee of each district shall review the implementation of the Scheduled Castes Sub-Plan or Tribal Sub-Plan periodically.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Institutional strengthening for effective implementation and Monitoring.—</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The respective departments of Government shall take such measures as may be necessary for institutional strengthening at State level and District level Offices by providing necessary guidelines, staff and training to the staff in the manner prescribed, for effective implementation and monitoring.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Planning, Resource Allocation for the Scheduled Castes Sub-Plan and Tribal Sub-Plan Funds and Schemes</heading>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Earmarking of the scheduled Castes sub-plan/tribal sub-plan fund from plan outlays.</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The State Government shall, in every financial year, earmark in such manner as may be prescribed, a portion of the total plan outlays of the State which shall be proportionate to the Scheduled Castes/Scheduled Tribe population of the State, to be called as the Scheduled Castes Sub-Plan and Tribal Sub Plan fund. In case of unspent amount out of allocation in a particular financial year, the same may be added to the next year allocation, but shall not be carried further beyond that year:</p>
+              <p>Provided that, the Fund to be earmarked shall be determined at least two months prior to the commencement of the next financial year:</p>
+              <p>Provided further that, the Scheduled Castes Sub-Plan and Tribal Sub-Plan Fund outlay shall be revised according to State annual Plan final outlay:</p>
+              <p>Provided also that the expenditure of the Scheduled Castes Sub-Plan and Tribal Sub Plan fund shall be accounted for in the manner hereafter specified in this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Communication of plan outlay earmarked as the scheduled Castes sub-plan/tribal sub-plan fund to the department.—</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>The Nodal department shall, for every financial year, communicate, in the manner prescribed, to the other department, a tentative plan outlay out of Scheduled Castes Sub-Plan/ Tribal Sub Plan Fund as earmarked under Section 11 for preparation of respective department wise Scheduled Castes Sub-Plan/Tribal Sub-Plan.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Schemes to be included under the Scheduled Castes Sub-Plans and Tribal Sub Plans.—</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>The Sub-Plans of the departments shall include only such schemes that secure direct and quantifiable benefit to the Scheduled Castes or the Scheduled Tribes individuals or the Scheduled Castes/Scheduled Tribes households or the Scheduled Castes/Scheduled Tribes habitations or Tribal areas and that have the potential to bridge the gaps in the development, following the norms laid down in this Act and the rules made thereunder:</p>
+              <p>Provided that the schemes shall be consistent with the annual and five year Plans and priorities of the State of Karnataka as may be communicated by the Planning department.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Obligation to cover the scheduled Castes/scheduled tribes in general schemes.—</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>The departments shall ensure coverage of the Scheduled Castes or the Scheduled Tribes in the ongoing general schemes consistent with their eligibility for the same.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Formulation of the scheduled Castes sub-plan or tribal sub-plan schemes and preparation of sub-plans by the department.—</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>On receipt of communication under section 14, each department, shall after estimating the gaps in the development of the Scheduled Castes and the Scheduled Tribes, prioritize the development needs of the Scheduled Castes and Scheduled Tribe through a consultative process, as may be prescribed, and shall formulate the Scheduled Castes Sub-Plan/Tribal Sub-Plan schemes and prepare the Sub-Plans comprising of the Scheduled Castes Sub-Plan/Tribal Sub-Plan schemes,-within the State Plan priorities as communicated under section 14.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Submission of sub-plans proposed to be included in the Annual Plan for appraisal.—</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Each Department, excluding the departments separately notified under this Act, shall submit, each year to the Nodal Department, the Sub-Plans comprising of the Scheduled Castes Sub-Plan or Tribal Sub-Plan Schemes proposed to be included in the annual plans, for appraisal by the Nodal Agency concerned, within such time frame and in such format, as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>— Appraisal, Allocation of the Scheduled Castes Sub-Plan/Tribal Sub-Plan and Approval of the Sub-Plans</heading>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Appraisal of the Scheduled Castes sub-plan and Tribal Sub-plan schemes by the nodal Agencies.—</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>The Nodal Agency for Scheduled Castes Sub-Plan or Tribal Sub-Plan, shall take up appraisal of the Scheduled Castes Sub-Plan schemes and Tribal Sub-Plan schemes respectively submitted by departments, to ensure conformity with the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Budget Provision, Distribution and Strengthening of the Implementation Machinery</heading>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Budget allocations.—</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>The annual Scheduled Castes Sub-Plan or Tribal Sub-Plan approved by the State Council shall be included in the Demands for Grants of the departments under the relevant head of account for the Scheduled Castes Sub-Plan or Tribal Sub-Plan.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>The Scheduled Castes Sub-Plan and Tribal Sub-Plan Cell in Finance Department.—</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>There shall be an exclusive cell in the Finance Department for performing the functions relating to Budget implementation and allocation according to the provisions of this Act within the overall discipline of the ways and means position as determined by the Finance department.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Budget Release Orders.—Budget Release Orders shall be issued to each department, for the amount provided in the Budget Estimates for the Scheduled Castes Sub-Plan or Tribal SubPlan immediately after passing of the budget by the State Legislature in accordance with the provisions of this Act.</heading>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Transparency and Accountability in the Implementation of the Scheduled Castes Sub-Plan or Tribal Sub-Plan</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Transparency and accountability.—</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>Each department shall ensure transparency and accountability at all levels in the implementation of the Schedule castes Sub-Plan and Tribal SubPlan schemes.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Each department shall, host the documents as may be prescribed in public domain.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Incentives and penalties.—</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>The Government shall formulate an appropriate scheme, to award incentives for commendable performance. Any functionary or official being a public servant willfully neglects his duties required to be performed by him under this Act shall be subjected to disciplinary action under the relevant service/disciplinary rules applicable to the Government officials and functionaries or as decided by the Nodal agency for the Scheduled Castes Sub-Plan/Tribal SubPlan depending upon the intensity of such negligence shall be punishable with an imprisonment for a term which may extend up to six months.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Cognizance of Offence.—</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Offences specified under section 24 shall be non-cognizable. No court shall take cognizance of the said offence except upon a complaint in writing made by the prescribed Authority.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Annual report to be placed before State Legislature.—</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>The Nodal agency shall place before the State Legislature, an Annual Report on outcome of implementation of the Scheduled Castes Sub-Plan or Tribal Sub-Plan containing, department wise achievements and the un-utilized funds during the financial year under report.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Power to make rules.—</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this Act, the Government may, by notification after previous publication make rules for carrying out all or any of the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-27.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+                <item id="section-27.2.list1.a">
+                  <num>(a)</num>
+                  <p>determination of gaps in development of Scheduled Castes and Schedule Tribes under section</p>
+                </item>
+                <item id="section-27.2.list1.b">
+                  <num>(b)</num>
+                  <p>constitution of and transaction of business in the State Council for development of Scheduled Castes and Scheduled Tribes;</p>
+                </item>
+                <item id="section-27.2.list1.c">
+                  <num>(c)</num>
+                  <p>the qualification, disqualification and other allowances to the non-official members of the State Council under section 3;</p>
+                </item>
+                <item id="section-27.2.list1.d">
+                  <num>(d)</num>
+                  <p>maintenance of a web portal by the Nodal Agency under section 6;</p>
+                </item>
+                <item id="section-27.2.list1.e">
+                  <num>(e)</num>
+                  <p>constitution of Administrative and Technical support Unit in Nodal Department for Schedule Castes Sub-Plan/Tribal Sub-Plan under section 9;</p>
+                </item>
+                <item id="section-27.2.list1.f">
+                  <num>(f)</num>
+                  <p>constitution of Sub-Plan Support Unit at department level under section 10;</p>
+                </item>
+                <item id="section-27.2.list1.g">
+                  <num>(g)</num>
+                  <p>institutional strengthening at State, district and sub-district level for ensuring effective implementation, awareness, mass contact programme, social audit and monitoring of Scheduled Castes Sub-Plan and Tribal Sub-Plan under section12;</p>
+                </item>
+                <item id="section-27.2.list1.h">
+                  <num>(h)</num>
+                  <p>earmarking Scheduled Castes Sub-Plan/Tribal Sub-Plan Funds from the plan outlays under section 13;</p>
+                </item>
+                <item id="section-27.2.list1.i">
+                  <num>(i)</num>
+                  <p>identification of scheduled Castes Sub-Plan/Tribal Sub-Plan Schemes and preparation of Sub-Plans by the departments under section 18;</p>
+                </item>
+                <item id="section-27.2.list1.j">
+                  <num>(j)</num>
+                  <p>preparation of budget proposal of Scheduled Castes Sub-Plan/Tribal Sub-Plan for appraisal by the Nodal Departments under section 19;</p>
+                </item>
+                <item id="section-27.2.list1.k">
+                  <num>(k)</num>
+                  <p>strengthen the Finance Department for monitoring expenditure under the Scheduled Castes Sub-Plan and Tribal Sub-Plan under section 22; and</p>
+                </item>
+                <item id="section-27.2.list1.l">
+                  <num>(l)</num>
+                  <p>procedures for ensuring transparency and accountability in the implementation of Scheduled Castes Sub-Plan and Tribal Sub-Plan under section 23.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>Every rule made under this Act, shall be laid, as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Power to remove difficulties.—</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect to the provisions of this Act, the Government may, by order published in the Official Gazette, make such provisions as appear to it to be necessary or expedient to remove the difficulty: Provided that no such power shall be exercised after the expiry of a period of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid, as soon as it is made, before each House of the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

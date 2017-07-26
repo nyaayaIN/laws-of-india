@@ -5,21 +5,21 @@
         <FRBRWork>
           <FRBRthis value="/in-union/act/1970/37/main"/>
           <FRBRuri value="/in-union/act/1970/37"/>
-          <FRBRalias value="The Contract Labour (Regulation And Abolition) Act, 1970"/>
+          <FRBRalias value="The Contract Labour (Regulation and Abolition) Act, 1970"/>
           <FRBRdate date="" name="Generation"/>
           <FRBRauthor href="#council"/>
           <FRBRcountry value="in"/>
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/in-union/act/1970/37/eng@2017-01-25/main"/>
-          <FRBRuri value="/in-union/act/1970/37/eng@2017-01-25"/>
-          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRthis value="/in-union/act/1970/37/eng@1970-09-05/main"/>
+          <FRBRuri value="/in-union/act/1970/37/eng@1970-09-05"/>
+          <FRBRdate date="1970-09-05" name="Generation"/>
           <FRBRauthor href="#council"/>
           <FRBRlanguage language="eng"/>
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/in-union/act/1970/37/eng@2017-01-25/main"/>
-          <FRBRuri value="/in-union/act/1970/37/eng@2017-01-25"/>
+          <FRBRthis value="/in-union/act/1970/37/eng@1970-09-05/main"/>
+          <FRBRuri value="/in-union/act/1970/37/eng@1970-09-05"/>
           <FRBRdate date="2016-10-21" name="Generation"/>
           <FRBRauthor href="#slaw"/>
         </FRBRManifestation>
@@ -38,7 +38,7 @@
         <docDate>[5th September, 1970]</docDate>
       </p>
       <longTitle>
-        <p>(37 of 1970)</p>
+        <p>Act No. 37 of 1970</p>
         <p>An Act to regulate the employment of contract labour in certain establishments and to provide for its abolition in certain circumstances and for matters connected therewith.</p>
       </longTitle>
     </preface>
@@ -100,14 +100,13 @@
                   <p>If a question arises whether work performed in an establishment is of an intermittent or casual nature, the appropriate Government shall decide that question after consultation with the Central Board or, as the case may be, a State Board, and its decision shall be final.</p>
                 </item>
               </blockList>
-              <p>Explanation.—</p>
-              <blockList id="section-1.5.list3">
-                <listIntroduction>For the purpose of this sub-section, work performed in an establishment shall not be deemed to be of an intermittent nature—</listIntroduction>
-                <item id="section-1.5.list3.i">
+              <blockList id="section-1.5.list2">
+                <listIntroduction>Explanation.— For the purpose of this sub-section, work performed in an establishment shall not be deemed to be of an intermittent nature —</listIntroduction>
+                <item id="section-1.5.list2.i">
                   <num>(i)</num>
                   <p>if it was performed for more than one hundred and twenty days in the preceding twelve months, or</p>
                 </item>
-                <item id="section-1.5.list3.ii">
+                <item id="section-1.5.list2.ii">
                   <num>(ii)</num>
                   <p>if it is of a seasonal character and is performed for more than sixty days in a year.</p>
                 </item>
@@ -122,14 +121,20 @@
             <num>(1)</num>
             <content>
               <blockList id="section-2.1.list1">
-                <listIntroduction>In this Act, unless the context otherwise requires,-1[(a) "appropriate Government" means,—</listIntroduction>
-                <item id="section-2.1.list1.i">
-                  <num>(i)</num>
-                  <p>in relation to an establishment in respect of which the appropriate Government under the Industrial Disputes Act, 1947 (14 of 1947), is the Central Government, the Central Government;</p>
-                </item>
-                <item id="section-2.1.list1.ii">
-                  <num>(ii)</num>
-                  <p>in relation to any other establishment, the Government of the State in which that other establishment is situated;]</p>
+                <listIntroduction>In this Act, unless the context otherwise requires, -</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-2.1.list1.a.list0">
+                    <listIntroduction>"appropriate Government" means,—</listIntroduction>
+                    <item id="section-2.1.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>in relation to an establishment in respect of which the appropriate Government under the Industrial Disputes Act, 1947 (14 of 1947), is the Central Government, the Central Government;</p>
+                    </item>
+                    <item id="section-2.1.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>in relation to any other establishment, the Government of the State in which that other establishment is situated;</p>
+                    </item>
+                  </blockList>
                 </item>
                 <item id="section-2.1.list1.b">
                   <num>(b)</num>
@@ -145,15 +150,17 @@
                 </item>
                 <item id="section-2.1.list1.e">
                   <num>(e)</num>
-                  <p>"establishment" means—</p>
-                </item>
-                <item id="section-2.1.list1.i">
-                  <num>(i)</num>
-                  <p>any office or department of the Government or a local authority, or</p>
-                </item>
-                <item id="section-2.1.list1.ii">
-                  <num>(ii)</num>
-                  <p>any place where any industry, trade, business, manufacture or occupation is carried on;</p>
+                  <blockList id="section-2.1.list1.e.list1">
+                    <listIntroduction>"establishment" means—</listIntroduction>
+                    <item id="section-2.1.list1.e.list1.i">
+                      <num>(i)</num>
+                      <p>any office or department of the Government or a local authority, or</p>
+                    </item>
+                    <item id="section-2.1.list1.e.list1.ii">
+                      <num>(ii)</num>
+                      <p>any place where any industry, trade, business, manufacture or occupation is carried on;</p>
+                    </item>
+                  </blockList>
                 </item>
                 <item id="section-2.1.list1.f">
                   <num>(f)</num>
@@ -161,45 +168,46 @@
                 </item>
                 <item id="section-2.1.list1.g">
                   <num>(g)</num>
-                  <p>"principal employer" means—</p>
-                </item>
-                <item id="section-2.1.list1.i">
-                  <num>(i)</num>
-                  <p>in relation to any office or department of the Government or a local authority, the head of that office or department or such other officer as the Government or the local authority, as the case may be, may specify in this behalf,</p>
-                </item>
-                <item id="section-2.1.list1.ii">
-                  <num>(ii)</num>
-                  <p>in a factory, the owner or occupier of the factory and where a person has been named as the manager of the factory under the Factories Act, 1948 (63 of 1948), the person so named,</p>
-                </item>
-                <item id="section-2.1.list1.iii">
-                  <num>(iii)</num>
-                  <p>in a mine, the owner or agent of the mine and where a person has been named as the manager of the mine, the person so named,</p>
-                </item>
-                <item id="section-2.1.list1.iv">
-                  <num>(iv)</num>
-                  <p>in any other establishment, any person responsible for the supervision and control of the establishment.</p>
+                  <blockList id="section-2.1.list1.g.list2">
+                    <listIntroduction>"principal employer" means—</listIntroduction>
+                    <item id="section-2.1.list1.g.list2.i">
+                      <num>(i)</num>
+                      <p>in relation to any office or department of the Government or a local authority, the head of that office or department or such other officer as the Government or the local authority, as the case may be, may specify in this behalf,</p>
+                    </item>
+                    <item id="section-2.1.list1.g.list2.ii">
+                      <num>(ii)</num>
+                      <p>in a factory, the owner or occupier of the factory and where a person has been named as the manager of the factory under the Factories Act, 1948 (63 of 1948), the person so named,</p>
+                    </item>
+                    <item id="section-2.1.list1.g.list2.iii">
+                      <num>(iii)</num>
+                      <p>in a mine, the owner or agent of the mine and where a person has been named as the manager of the mine, the person so named,</p>
+                    </item>
+                    <item id="section-2.1.list1.g.list2.iv">
+                      <num>(iv)</num>
+                      <p>in any other establishment, any person responsible for the supervision and control of the establishment.</p>
+                    </item>
+                  </blockList>
                 </item>
               </blockList>
-              <p>Explanation.—</p>
-              <blockList id="section-2.1.list4">
-                <listIntroduction>For the purpose of sub-clause (iii) of this clause, the expressions "mine", "owner" and "agent" shall have the meanings respectively assigned to them in clause (j), clause (1) and clause (c) of sub-section (1) of section 2 of the Mines Act, 1952 (35 of 1952);</listIntroduction>
-                <item id="section-2.1.list4.h">
+              <blockList id="section-2.1.list3">
+                <listIntroduction>Explanation.— For the purpose of sub-clause (iii) of this clause, the expressions "mine", "owner" and "agent" shall have the meanings respectively assigned to them in clause (j), clause (l) and clause (c) of sub-section (1) of section 2 of the Mines Act, 1952 (35 of 1952);</listIntroduction>
+                <item id="section-2.1.list3.h">
                   <num>(h)</num>
                   <p>"wages" shall have the meaning assigned to it in clause (vi) of section 2 of the Payment of Wages Act, 1936 (4 of 1936);</p>
                 </item>
-                <item id="section-2.1.list4.i">
+                <item id="section-2.1.list3.i">
                   <num>(i)</num>
-                  <blockList id="section-2.1.list4.i.list0">
-                    <listIntroduction>"workman" means any person employed in or in connection with the work of any establishment to do any skilled, semi-skilled or un¬skilled manual, supervisory, technical or clerical work for hire or reward, whether the terms of employment be express or implied, but does not include any such person—</listIntroduction>
-                    <item id="section-2.1.list4.i.list0.A">
+                  <blockList id="section-2.1.list3.i.list0">
+                    <listIntroduction>"workman" means any person employed in or in connection with the work of any establishment to do any skilled, semi-skilled or un-skilled manual, supervisory, technical or clerical work for hire or reward, whether the terms of employment be express or implied, but does not include any such person-</listIntroduction>
+                    <item id="section-2.1.list3.i.list0.A">
                       <num>(A)</num>
                       <p>who is employed mainly in a managerial or administrative capacity; or</p>
                     </item>
-                    <item id="section-2.1.list4.i.list0.B">
+                    <item id="section-2.1.list3.i.list0.B">
                       <num>(B)</num>
                       <p>who, being employed in a supervisory capacity draws wages exceeding five hundred rupees per mensem or exercises, either by the nature of the duties attached to the office or by reason of the powers vested in him, functions mainly of a managerial nature; or</p>
                     </item>
-                    <item id="section-2.1.list4.i.list0.C">
+                    <item id="section-2.1.list3.i.list0.C">
                       <num>(C)</num>
                       <p>who is an out-worker, that is to say, a person to whom any articles or materials are given out by or on behalf of the principal employer to be made up, cleaned, washed, altered, ornamented, finished, repaired, adapted or otherwise processed for sale for the purposes of the trade or business of the principal employer and the process is to be carried out either in the home of the out-worker or in some other premises, not being premises under the control and management of the principal employer.</p>
                     </item>
@@ -232,7 +240,7 @@
             <num>(2)</num>
             <content>
               <blockList id="section-3.2.list1">
-                <listIntroduction>The Central Board shall consist of—</listIntroduction>
+                <listIntroduction>The Central Board shall consist of-</listIntroduction>
                 <item id="section-3.2.list1.a">
                   <num>(a)</num>
                   <p>a Chairman to be appointed by the Central Government;</p>
@@ -251,8 +259,7 @@
           <subsection id="section-3.3">
             <num>(3)</num>
             <content>
-              <p>The number of persons to be appointed as members from each of the categories specified in sub-section (2), the term of office and other conditions of service of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the Central Board shall be such as may be prescribed:</p>
-              <p>Provided that the number of members nominated to represent the workmen shall not be less than the number of members nominated to represent the principal employers and the contractors.</p>
+              <p>The number of persons to be appointed as members from each of the categories specified in sub-section (2), the term of office and other conditions of service of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the Central Board shall be such as may be prescribed: Provided that the number of members nominated to represent the workmen shall not be less than the number of members nominated to represent the principal employers and the contractors.</p>
             </content>
           </subsection>
         </section>
@@ -269,7 +276,7 @@
             <num>(2)</num>
             <content>
               <blockList id="section-4.2.list1">
-                <listIntroduction>The State Board shall consist of—</listIntroduction>
+                <listIntroduction>The State Board shall consist of-</listIntroduction>
                 <item id="section-4.2.list1.a">
                   <num>(a)</num>
                   <p>a Chairman to be appointed by the State Government;</p>
@@ -288,8 +295,7 @@
           <subsection id="section-4.3">
             <num>(3)</num>
             <content>
-              <p>The number of persons to be appointed as members from each of the categories specified in sub-section (2), the term of office and other conditions of service of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the State Board shall be such as may be prescribed:</p>
-              <p>Provided that the number of members nominated to represent the workmen shall not be less than the number of members nominated to represent the principal employers and the contractors.</p>
+              <p>The number of persons to be appointed as members from each of the categories specified in sub-section (2), the term of office and other conditions of service of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the State Board shall be such as may be prescribed: Provided that the number of members nominated to represent the workmen shall not be less than the number of members nominated to represent the principal employers and the contractors.</p>
             </content>
           </subsection>
         </section>
@@ -311,22 +317,21 @@
           <subsection id="section-5.3">
             <num>(3)</num>
             <content>
-              <p>The members of a committee shall be paid such fees and allowances for attending its meetings as may be prescribed:</p>
-              <p>Provided that no fees shall be payable to a member who is an officer of Government or of any corporation established by any law for the time being in force.</p>
+              <p>The members of a committee shall be paid such fees and allowances for attending its meetings as may be prescribed: Provided that no fees shall be payable to a member who is an officer of Government or of any corporation established by any law for the time being in force.</p>
             </content>
           </subsection>
         </section>
       </chapter>
       <chapter id="chapter-III">
         <num>III</num>
-        <heading>Registration of establishments employing Contract Labour</heading>
+        <heading>Registration of Establishments Employing Contract Labour</heading>
         <section id="section-6">
           <num>6.</num>
           <heading>Appointment of registering officers.—</heading>
           <paragraph id="section-6.paragraph-0">
             <content>
               <blockList id="section-6.paragraph-0.list1">
-                <listIntroduction>The appropriate Government may, by an order notified in the Official Gazette—</listIntroduction>
+                <listIntroduction>The appropriate Government may, by an order notified in the Official Gazette-</listIntroduction>
                 <item id="section-6.paragraph-0.list1.a">
                   <num>(a)</num>
                   <p>appoint such persons, being Gazetted Officers of Government, as it thinks fit to be registering officers for the purposes of this Chapter; and</p>
@@ -371,17 +376,16 @@
           <paragraph id="section-9.paragraph-0">
             <content>
               <blockList id="section-9.paragraph-0.list1">
-                <listIntroduction>No principal employer of an establishment, to which this Act applies, shall—</listIntroduction>
+                <listIntroduction>No principal employer of an establishment, to which this Act applies, shall-</listIntroduction>
                 <item id="section-9.paragraph-0.list1.a">
                   <num>(a)</num>
                   <p>in the case of an establishment required to be registered under section 7, but which has not been registered within the time fixed for the purpose under that section,</p>
                 </item>
                 <item id="section-9.paragraph-0.list1.b">
                   <num>(b)</num>
-                  <p>in the case of an establishment the registration in respect of which has been revoked under section 8,</p>
+                  <p>in the case of an establishment the registration in respect of which has been revoked under section 8, employ contract labour in the establishment after the expiry of the period referred to in clause (a) or after the revocation of registration referred to in clause (b), as the case may be.</p>
                 </item>
               </blockList>
-              <p>employ contract labour in the establishment after the expiry of the period referred to in clause (a) or after the revocation of registration referred to in clause (b), as the case may be.</p>
             </content>
           </paragraph>
         </section>
@@ -398,7 +402,7 @@
             <num>(2)</num>
             <content>
               <blockList id="section-10.2.list1">
-                <listIntroduction>Before issuing any notification under sub-section (1) in relation to an establishment, the appropriate Government shall have regard to the conditions of work and benefits provided for the contract labour in that establishment and other relevant factors, such as—</listIntroduction>
+                <listIntroduction>Before issuing any notification under sub-section (1) in relation to an establishment, the appropriate Government shall have regard to the conditions of work and benefits provided for the contract labour in that establishment and other relevant factors, such as-</listIntroduction>
                 <item id="section-10.2.list1.a">
                   <num>(a)</num>
                   <p>whether the process, operation or other work is incidental to, or necessary for the industry, trade, business, manufacture or occupation that is carried on in the establishment;</p>
@@ -416,22 +420,21 @@
                   <p>whether it is sufficient to employ considerable number of whole-time workmen.</p>
                 </item>
               </blockList>
-              <p>Explanation.—</p>
-              <p>If a question arises whether any process or operation or other work is of perennial nature, the decision of the appropriate Government thereon shall be final.</p>
+              <p>Explanation.— If a question arises whether any process or operation or other work is of perennial nature, the decision of the appropriate Government thereon shall be final.</p>
             </content>
           </subsection>
         </section>
       </chapter>
       <chapter id="chapter-IV">
         <num>IV</num>
-        <heading>Licensing of contractors</heading>
+        <heading>Licensing of Contractors</heading>
         <section id="section-11">
           <num>11.</num>
           <heading>Appointment of licensing officers.—</heading>
           <paragraph id="section-11.paragraph-0">
             <content>
               <blockList id="section-11.paragraph-0.list1">
-                <listIntroduction>The appropriate Government may, by an order notified in the Official Gazette,—</listIntroduction>
+                <listIntroduction>The appropriate Government may, by an order notified in the Official Gazette,-</listIntroduction>
                 <item id="section-11.paragraph-0.list1.a">
                   <num>(a)</num>
                   <p>appoint such persons, being Gazetted Officers of Government, as it thinks fit to be licensing officers for the purposes of this Chapter; and</p>
@@ -489,17 +492,16 @@
             <num>(1)</num>
             <content>
               <blockList id="section-14.1.list1">
-                <listIntroduction>If the licensing officer is satisfied, either on a reference made to him in this behalf or otherwise, that—</listIntroduction>
+                <listIntroduction>If the licensing officer is satisfied, either on a reference made to him in this behalf or otherwise, that-</listIntroduction>
                 <item id="section-14.1.list1.a">
                   <num>(a)</num>
-                  <p>a licence granted under section 12 has been obtained by mis-representation or suppression of any material fact, or</p>
+                  <p>a licence granted under section 12 has been obtained by misrepresentation or suppression of any material fact, or</p>
                 </item>
                 <item id="section-14.1.list1.b">
                   <num>(b)</num>
-                  <p>the holder of a licence has, without reasonable cause, failed to comply with the conditions subject to which the licence has been granted or has contravened any of the provisions of this Act or the rules made thereunder,</p>
+                  <p>the holder of a licence has, without reasonable cause, failed to comply with the conditions subject to which the licence has been granted or has contravened any of the provisions of this Act or the rules made thereunder, then, without prejudice to any other penalty to which the holder of the licence may be liable under this Act, the licensing officer may, after giving the holder of the licence an opportunity of showing cause, revoke or suspend the licence or forfeit the sum, if any, or any portion thereof deposited as security for the due performance of the conditions subject to which the licence has been granted.</p>
                 </item>
               </blockList>
-              <p>then, without prejudice to any other penalty to which the holder of the licence may be liable under this Act, the licensing officer may, after giving the holder of the licence an opportunity of showing cause, revoke or suspend the licence or forfeit the sum, if any, or any portion thereof deposited as security for the due performance of the conditions subject to which the licence has been granted.</p>
             </content>
           </subsection>
           <subsection id="section-14.2">
@@ -515,8 +517,7 @@
           <subsection id="section-15.1">
             <num>(1)</num>
             <content>
-              <p>Any person aggrieved by an order made under section 7, section 8, section 12 or section 14 may, within thirty days from the date on which the order is communicated to him, prefer an appeal to an appellate officer who shall be a person nominated in this behalf by the appropriate Government:</p>
-              <p>Provided that the appellate officer may entertain the appeal after the expiry of the said period of thirty days, if he is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+              <p>Any person aggrieved by an order made under section 7, section 8, section 12 or section 14 may, within thirty days from the date on which the order is communicated to him, prefer an appeal to an appellate officer who shall be a person nominated in this behalf by the appropriate Government: Provided that the appellate officer may entertain the appeal after the expiry of the said period of thirty days, if he is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
             </content>
           </subsection>
           <subsection id="section-15.2">
@@ -529,7 +530,7 @@
       </chapter>
       <chapter id="chapter-V">
         <num>V</num>
-        <heading>Welfare and health of contract labour</heading>
+        <heading>Welfare and Health of Contract Labour</heading>
         <section id="section-16">
           <num>16.</num>
           <heading>Canteens.—</heading>
@@ -537,7 +538,7 @@
             <num>(1)</num>
             <content>
               <blockList id="section-16.1.list1">
-                <listIntroduction>The appropriate Government may make rules requiring that in every establishment—</listIntroduction>
+                <listIntroduction>The appropriate Government may make rules requiring that in every establishment-</listIntroduction>
                 <item id="section-16.1.list1.a">
                   <num>(a)</num>
                   <p>to which this Act applies,</p>
@@ -558,7 +559,7 @@
             <num>(2)</num>
             <content>
               <blockList id="section-16.2.list1">
-                <listIntroduction>Without prejudice to the generality of the foregoing power, such rules may provide for—</listIntroduction>
+                <listIntroduction>Without prejudice to the generality of the foregoing power, such rules may provide for-</listIntroduction>
                 <item id="section-16.2.list1.a">
                   <num>(a)</num>
                   <p>the date by which the canteens shall be provided;</p>
@@ -582,7 +583,7 @@
             <num>(1)</num>
             <content>
               <blockList id="section-17.1.list1">
-                <listIntroduction>In every place wherein contract labour is required to halt at night in connection with the work of an establishment—</listIntroduction>
+                <listIntroduction>In every place wherein contract labour is required to halt at night in connection with the work of an establishment-</listIntroduction>
                 <item id="section-17.1.list1.a">
                   <num>(a)</num>
                   <p>to which this Act applies, and</p>
@@ -608,7 +609,7 @@
           <paragraph id="section-18.paragraph-0">
             <content>
               <blockList id="section-18.paragraph-0.list1">
-                <listIntroduction>It shall be the duty of every contractor employing contract labour in connection with the work of an establishment to which this Act applies, to provide and maintain—</listIntroduction>
+                <listIntroduction>It shall be the duty of every contractor employing contract labour in connection with the work of an establishment to which this Act applies, to provide and maintain-</listIntroduction>
                 <item id="section-18.paragraph-0.list1.a">
                   <num>(a)</num>
                   <p>a sufficient supply of wholesome drinking water for the contract labour at convenient places;</p>
@@ -681,7 +682,7 @@
       </chapter>
       <chapter id="chapter-VI">
         <num>VI</num>
-        <heading>Penalties and procedure</heading>
+        <heading>Penalties and Procedure</heading>
         <section id="section-22">
           <num>22.</num>
           <heading>Obstructions.—</heading>
@@ -712,7 +713,7 @@
           <heading>Other offences.—</heading>
           <paragraph id="section-24.paragraph-0">
             <content>
-              <p>If any person contravenes any of the provisions of this Act or any rules made thereunder for which no other penalty is elsewhere provided, he shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.</p>
+              <p>If any person contravenes any of the provisions of this Act or any rules made thereunder for which no other penalty is elsewhere provided, he shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both. -</p>
             </content>
           </paragraph>
         </section>
@@ -730,14 +731,13 @@
             <num>(2)</num>
             <content>
               <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or that the commission of the offence is attributable to any neglect on the part of any director, manager, managing agent or any other officer of the company, such director, manager, managing agent or such other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
-              <p>Explanation.—</p>
-              <blockList id="section-25.2.list3">
-                <listIntroduction>For the purpose of this section—</listIntroduction>
-                <item id="section-25.2.list3.a">
+              <blockList id="section-25.2.list2">
+                <listIntroduction>Explanation.— For the purpose of this section-</listIntroduction>
+                <item id="section-25.2.list2.a">
                   <num>(a)</num>
                   <p>"company" means any body corporate and includes a firm or other association of individuals; and</p>
                 </item>
-                <item id="section-25.2.list3.b">
+                <item id="section-25.2.list2.b">
                   <num>(b)</num>
                   <p>"director", in relation to a firm, means a partner in the firm.</p>
                 </item>
@@ -781,7 +781,7 @@
             <num>(2)</num>
             <content>
               <blockList id="section-28.2.list1">
-                <listIntroduction>Subject to any rules made in this behalf, an inspector may, within the local limits for which he is appointed—</listIntroduction>
+                <listIntroduction>Subject to any rules made in this behalf, an inspector may, within the local limits for which he is appointed-</listIntroduction>
                 <item id="section-28.2.list1.a">
                   <num>(a)</num>
                   <p>enter, at all reasonable hours, with such assistance (if any), being persons in the service of the Government or any local or other public authority as he thinks fit, any premises or place where contract labour is employed, for the purpose of examining any register or record or notices required to be kept or exhibited by or under this Act or rules made thereunder, and require the production thereof for inspection;</p>
@@ -856,7 +856,7 @@
           <heading>Power to exempt in special cases.—</heading>
           <paragraph id="section-31.paragraph-0">
             <content>
-              <p>The appropriate Government may, in the case of an emergency, direct, by notification in the official Gazette, that subject to such conditions and restrictions, if any, and for such period or periods, as may be specified in the notification, all or any of the provisions of this Act or the rules made thereunder shall not apply to any establishment or class of establishments or any class of contractors.</p>
+              <p>The appropriate Government may, in the case of an emergency, direct, by notification in the official Gazette, that subject to such conditions and restrictions, if any, and for such period or periods, as may be specified in the notification, all or any of the provisions of this Act or the rules made thereunder shall not apply to any establishment or class of establishments or any class of contractors. -The appropriate Government may, in the case of an emergency, direct, by notification in the official Gazette, that subject to such conditions and restrictions, if any, and for such period or periods, as may be specified in the notification, all or any of the provisions of this Act or the rules made thereunder shall not apply to any establishment or class of establishments or any class of contractors.</p>
             </content>
           </paragraph>
         </section>
@@ -907,7 +907,7 @@
             <num>(2)</num>
             <content>
               <blockList id="section-35.2.list1">
-                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
                 <item id="section-35.2.list1.a">
                   <num>(a)</num>
                   <p>the number of persons to be appointed as members representing various interests on the Central Board and the State Board, the term of their office and other conditions of service, the procedure to be followed in the discharge of their functions and the manner of filling vacancies;</p>
@@ -930,44 +930,45 @@
                 </item>
                 <item id="section-35.2.list1.f">
                   <num>(f)</num>
-                  <p>the form of a licence which may be granted or renewed under section 12 and the conditions subject to which the licence may be granted or renewed, the fees to be levied for the grant or renewal of</p>
+                  <p>the form of a licence which may be granted or renewed under section 12 and the conditions subject to which the licence may be granted or renewed, the fees to be levied for the grant or renewal of a licence and the deposit of any sum as security for the performance of such conditions;</p>
                 </item>
-              </blockList>
-              <blockList id="section-35.2.list3">
-                <listIntroduction>a licence and the deposit of any sum as security for the performance of such conditions;</listIntroduction>
-                <item id="section-35.2.list3.g">
+                <item id="section-35.2.list1.g">
                   <num>(g)</num>
                   <p>the circumstances under which licences may be varied or amended under section 14;</p>
                 </item>
-                <item id="section-35.2.list3.h">
+                <item id="section-35.2.list1.h">
                   <num>(h)</num>
                   <p>the form and manner in which appeals may be filed under section 15 and the procedure to be followed by appellate officers in disposing of the appeals;</p>
                 </item>
-                <item id="section-35.2.list3.i">
+                <item id="section-35.2.list1.i">
                   <num>(i)</num>
                   <p>the time within which facilities required by this Act to be provided and maintained may be so provided by the contractor and in case of default on the part of the contractor, by the principal employer;</p>
                 </item>
-                <item id="section-35.2.list3.j">
+                <item id="section-35.2.list1.j">
                   <num>(j)</num>
                   <p>the number and types of canteens, rest-rooms, latrines and urinals that should be provided and maintained;</p>
                 </item>
-                <item id="section-35.2.list3.k">
+                <item id="section-35.2.list1.k">
                   <num>(k)</num>
-                  <p>the type of equipment that should be provided in the first-aid boxes; (1) the period within which wages payable to contract labour should be paid by the contractor under sub-section (1) of section 21;</p>
+                  <p>the type of equipment that should be provided in the first-aid boxes;</p>
                 </item>
-                <item id="section-35.2.list3.m">
+                <item id="section-35.2.list1.l">
+                  <num>(l)</num>
+                  <p>the period within which wages payable to contract labour should be paid by the contractor under sub-section (1) of section 21;</p>
+                </item>
+                <item id="section-35.2.list1.m">
                   <num>(m)</num>
                   <p>the form of registers and records to be maintained by principal employers and contractors;</p>
                 </item>
-                <item id="section-35.2.list3.n">
+                <item id="section-35.2.list1.n">
                   <num>(n)</num>
                   <p>the submission of returns, forms in which, and the authorities to which, such returns may be submitted;</p>
                 </item>
-                <item id="section-35.2.list3.o">
+                <item id="section-35.2.list1.o">
                   <num>(o)</num>
                   <p>the collection of any information or statistics in relation to contract labour; and</p>
                 </item>
-                <item id="section-35.2.list3.p">
+                <item id="section-35.2.list1.p">
                   <num>(p)</num>
                   <p>any other matter which has to be, or may be, prescribed under this Act.</p>
                 </item>

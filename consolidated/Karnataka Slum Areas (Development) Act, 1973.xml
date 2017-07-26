@@ -1,0 +1,1916 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1974/33/main"/>
+          <FRBRuri value="/in-kar/act/1974/33"/>
+          <FRBRalias value="Karnataka Slum Areas (Development) Act, 1973"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1974/33/eng@1974-10-01/main"/>
+          <FRBRuri value="/in-kar/act/1974/33/eng@1974-10-01"/>
+          <FRBRdate date="1974-10-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1974/33/eng@1974-10-01/main"/>
+          <FRBRuri value="/in-kar/act/1974/33/eng@1974-10-01"/>
+          <FRBRdate date="2017-07-20" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Karnataka Slum Areas (Development) Act, 1973</shortTitle>
+      </p>
+      <longTitle>
+        <p>(Act No. 33 of 974)</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[1st October, 1974]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for the development of slums in the State of Karnataka.</p>
+      <p>WHEREAS the number of slums in certain areas in the State of Karnataka is increasing and is a source of danger to public health and sanitation of the said areas;</p>
+      <p>And whereas under the existing law it has not been possible effectively to check the increase, to eliminate congestion and to provide for basic needs such as streets, water-supply and drainage and to clear the slums which are unfit for human habitation;</p>
+      <p>And whereas to obviate this difficulty it is expedient to provide for the removal of un-hygienic and insanitary conditions prevailing in the slums, for better accommodation and improved living conditions for slum dwellers, for the promotion of public health generally and for the acquisition of land for the purpose of improving, developing or redeveloping slum areas, clearance of slums and rehabilitation of slum dwellers;</p>
+      <p>And whereas the Constitution of India enjoins, as a Directive Principle of State Policy that the State should improve public health;</p>
+      <p>Be it enacted by the Karnataka State Legislature in the Twenty-Fourth Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.-</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka Slum Areas development Act, 1973.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Karnataka.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the State Government may, by notification, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.-</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“Board” means the Karnataka Slum Development Board, established under section 33;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“building” includes a house, out-house, stable, latrine, shed, hut, wall and any other such structure, whether of masonry, bricks, wood, mud, metal or any other materials whatsoever, but does not include plant or machinery comprised in a building ;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"court” means the District Court having jurisdiction;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“erection” in relation to a building includes extension, alteration or re-erection;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“Government” means the State Government;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.ee">
+                  <num>(ee)</num>
+                  <p>"hut" means any building, which is constructed principally of wood, mud, leaves, grass or thatch and includes any temporary structure of whatever size or any small building of whatever material made;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“land” includes building and benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.ff">
+                  <num>(ff)</num>
+                  <p>"licensing authority" means the authority competent under any law for the time being in force to grant permission for the execution of work relating to construction or re-construction of any building and where there is no such authority, such authority as the State Government may by notification specify and until, such notification is made, the Tahsildar of the Taluk concerned.</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“notification” means a notification published in the official Gazette;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <blockList id="section-2.paragraph-0.list1.h.list0">
+                    <listIntroduction>“occupier” includes,-</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.h.list0.i">
+                      <num>(i)</num>
+                      <p>an owner in occupation of, or otherwise using his land or building;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.h.list0.ii">
+                      <num>(ii)</num>
+                      <p>any person who for the time being is paying or is liable to pay to the owner the rent or any portion of the rent of the land or building in respect of which such rent is paid or is payable;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.h.list0.iii">
+                      <num>(iii)</num>
+                      <p>a rent-free tenant of any land or building;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.h.list0.iv">
+                      <num>(iv)</num>
+                      <p>a licensee in occupation of any land or building; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.h.list0.v">
+                      <num>(v)</num>
+                      <p>any person who is liable to pay to the owner damages for the use and occupation of any land or building;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“owner” includes any person, who is receiving or is entitled to receive the rent of any land or building, whether on his own account or on behalf of himself and others or as an agent, trustee, executor, administrator, receiver or guardian or who would so receive the rent or be entitled to receive the rent, if the land or building were let to a tenant;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“person interested” in relation to any land or building, includes any person claiming, or entitled to claim an interest in the compensation payable on account of the acquisition of that land or building under this Act:</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>“prescribed” means prescribed by rules made by Government under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>“prescribed authority” means any authority or person authorised by the Government in this regard by notification;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>“slum area” means any area declared to be slum area under sub-section (1) of section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.n">
+                  <num>(n)</num>
+                  <p>“slum clearance area” means any slum area declared to be slum clearance area under sub-section (1) of section 11;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.o">
+                  <num>(o)</num>
+                  <p>“State Housing Board” means the Karnataka Housing Board established under the Karnataka Housing Board Act, 1962 (Karnataka Act 10 of 1963);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.p">
+                  <num>(p)</num>
+                  <blockList id="section-2.paragraph-0.list1.p.list1">
+                    <listIntroduction>“work of improvement” in relation to any building in a slum area include the execution of any one or more of the following works, namely:-</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.p.list1.i">
+                      <num>(i)</num>
+                      <p>necessary repair;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.ii">
+                      <num>(ii)</num>
+                      <p>structural alteration;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.iii">
+                      <num>(iii)</num>
+                      <p>provision of light points, water-taps and bathing places;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.iv">
+                      <num>(iv)</num>
+                      <p>construction of drains, open or covered;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.v">
+                      <num>(v)</num>
+                      <p>provision of latrines, including conversion of dry latrines into water-borne latrines;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.vi">
+                      <num>(vi)</num>
+                      <p>provision of additional or improved fixtures or fittings;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.vii">
+                      <num>(vii)</num>
+                      <p>opening up or paving of court yards;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.viii">
+                      <num>(viii)</num>
+                      <p>removal of rubbish; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.p.list1.ix">
+                      <num>(ix)</num>
+                      <p>any other work including the demolition of any building or any part thereof which in the opinion of the prescribed authority is necessary for executing any of the works specified above.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Declaration of slum areas</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Declaration of slum areas.-</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-3.1.list1">
+                <listIntroduction>Where the Government is satisfied, that,-</listIntroduction>
+                <item id="section-3.1.list1.a">
+                  <num>(a)</num>
+                  <p>any area is or is likely to be a source of danger to health, safety or convenience of the public of that area or of its neighborhood, by reason of the area being low-lying, insanitary, squalid, over-crowded or otherwise; or</p>
+                </item>
+                <item id="section-3.1.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-3.1.list1.b.list0">
+                    <listIntroduction>the buildings in any area, used or intended to be used for human habitation are,-</listIntroduction>
+                    <item id="section-3.1.list1.b.list0.i">
+                      <num>(i)</num>
+                      <p>in any respects, unfit for human habitation; or</p>
+                    </item>
+                    <item id="section-3.1.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>by reason of dilapidation, over crowding, faulty arrangement and design of such buildings, narrowness or faulty arrangement of streets, lack of ventilation, light or sanitation facilities, or any combination of these factors, detrimental to safety, health or morals, it may, by notification, declare such area to be a slum area.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-3.2.list1">
+                <listIntroduction>In determining whether a building is unfit for human habitation, for the purposes of this Act regard shall be had to its condition in respect of the following matters, that is to say,-</listIntroduction>
+                <item id="section-3.2.list1.i">
+                  <num>(i)</num>
+                  <p>repair,</p>
+                </item>
+                <item id="section-3.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>stability,</p>
+                </item>
+                <item id="section-3.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>freedom from damp,</p>
+                </item>
+                <item id="section-3.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>natural light and air,</p>
+                </item>
+                <item id="section-3.2.list1.v">
+                  <num>(v)</num>
+                  <p>water-supply,</p>
+                </item>
+                <item id="section-3.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>drainage and sanitary conveniences,</p>
+                </item>
+                <item id="section-3.2.list1.vii">
+                  <num>(vii)</num>
+                  <p>facilities for storage, preparation and cooking of food and for the disposal of waste water, and the building shall be deemed to be unfit as aforesaid, if it is so defective in one or more of the said matters that it is not reasonably suitable for occupation.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Prevention of growth of slums</heading>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Registration of building in slum areas.-</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-4.1.list0">
+                <item id="section-4.1.list0.a">
+                  <num>(a)</num>
+                  <p>Within the period specified in clause (b), the owner or occupier of every building situated in any slum area shall send to the prescribed authority a statement in such form as may be prescribed.</p>
+                </item>
+                <item id="section-4.1.list0.b">
+                  <num>(b)</num>
+                  <p>The statement under clause (a) shall be sent within such period as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of the statement under sub-section (1) the prescribed authority shall, on being satisfied about the correctness of the statement, register the building in a register maintained for the purpose and containing such particulars as may be prescribed and shall issue in the prescribed form, a registration certificate to the owner or occupier of the building.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Restriction on building, etc., in slum areas.-</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The prescribed authority may, by notification direct that no person shall erect any building in a slum area except with the previous permission in writing of such authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>Every notification issued under sub-section (1) shall cease to have effect on the expiration of two years from the date thereof except as respects things done or omitted to be done before such cesser.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>Every person desiring to obtain permission referred to in sub-section (1) shall make an application in writing to the prescribed authority, in such form and containing such information in respect of the erection of the building to which the application relates as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-5.4.list1">
+                <listIntroduction>On receipt of such application, the prescribed authority, after making such enquiry as it considers necessary shall, by order in writing,-</listIntroduction>
+                <item id="section-5.4.list1.a">
+                  <num>(a)</num>
+                  <p>either grant the permission subject to such terms and conditions, if any, as may be specified in the order; or</p>
+                </item>
+                <item id="section-5.4.list1.b">
+                  <num>(b)</num>
+                  <p>refuse to grant such permission:</p>
+                </item>
+              </blockList>
+              <p>Provided that before making an order refusing such permission, the applicant shall be given an opportunity to show cause why the permission should not be refused.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.5">
+            <num>(5)</num>
+            <content>
+              <blockList id="section-5.5.list1">
+                <listIntroduction>Nothing contained in sub-section (1) shall apply to,-</listIntroduction>
+                <item id="section-5.5.list1.a">
+                  <num>(a)</num>
+                  <p>any works of improvement required to be executed by a notice under sub-section (1) of section 6 or in pursuance of an undertaking given under sub-section (2) of section 9; or</p>
+                </item>
+                <item id="section-5.5.list1.b">
+                  <num>(b)</num>
+                  <p>the erection of any building in any area in respect of which a notification has been issued under sub-section (1) of section 11.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IIIA">
+        <num>IIIA</num>
+        <heading>prohibition of un-authorised constructions</heading>
+        <section id="section-5A">
+          <num>5A.</num>
+          <heading>Application.-</heading>
+          <paragraph id="section-5A.paragraph-0">
+            <content>
+              <p>This Chapter shall extend to the whole of the State of Karnataka.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5B">
+          <num>5B.</num>
+          <heading>Prohibition of construction of building without previous permission.-</heading>
+          <subsection id="section-5B.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-5B.1.list0">
+                <item id="section-5B.1.list0.a">
+                  <num>(a)</num>
+                  <p>After the coming into force of this chapter , no construction or reconstruction of a building shall be begun by any person unless and until permission for the execution of the work relating to such construction or reconstruction is granted to such person by the licensing authority.</p>
+                </item>
+                <item id="section-5B.1.list0.b">
+                  <num>(b)</num>
+                  <p>No person shall collect any rent or other charges, by whatever name called, from the occupant of any building constructed or reconstructed in contravention of clause (a).</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5B.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who contravenes the provisions of sub-section (1) or who abets such contravention shall, on conviction, be punishable with imprisonment for a term which may extend to three years and with fine which may extend to five thousand rupees.</p>
+              <blockList id="section-5B.2.list2">
+                <listIntroduction>Provided that,-</listIntroduction>
+                <item id="section-5B.2.list2.i">
+                  <num>(i)</num>
+                  <p>in the case of a first offence the term of imprisonment shall not be less than six months and the amount of fine shall not be less than five hundred rupees; and</p>
+                </item>
+                <item id="section-5B.2.list2.ii">
+                  <num>(ii)</num>
+                  <p>in the case of a second or subsequent offence the term of imprisonment shall not be less than one year and the amount of fine shall not be less than one thousand rupees.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5C">
+          <num>5C.</num>
+          <heading>Demolition of buildings unlawfully commenced, carried on or completed.-</heading>
+          <subsection id="section-5C.1">
+            <num>(1)</num>
+            <content>
+              <p>If the Board is satisfied that the construction or reconstruction of any building has been commenced or is being carried on or has been completed without obtaining the permission of the licensing authority, under the relevant law, the Board may make a provisional order requiring the owner or the builder or the occupier of the building to demolish the work done and may also direct that the owner or the builder shall refrain from proceeding with the work of construction or reconstruction of the building.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5C.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall serve a copy of the provisional order made under sub-section (1) on the owner or builder or the occupier of the building together with a notice requiring him to show cause within a reasonable time to be specified in such notice why the order should not be confirmed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5C.3">
+            <num>(3)</num>
+            <content>
+              <p>If the owner or the builder or the occupier fails to show cause to the satisfaction of the Board, it may confirm the order, with such modifications as it may think fit, and such order shall then be binding on the owner, the builder and the occupier and the Board may take any measure or do anything which may, in its opinion be necessary, for giving due effect to the order and expenses incurred for the purpose shall be recovered from the owner, the builder and the occupier, as arrears of land revenue. The Board may seize the materials and tools used for the construction or reconstruction of the building and may sell them and apply the sale proceeds towards the expenses incurred.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5C.4">
+            <num>(4)</num>
+            <content>
+              <p>If the work of construction or reconstruction of any building is commenced in contravention of the provisions of sub -section (1) of section 5B and the Board is of the opinion that immediate action should be taken, then, notwithstanding anything contained in this Chapter a notice to be given under sub-section (2) shall not be of less duration than twenty four hours and shall be deemed to be duly served if it is affixed in some conspicuous part of the building to which the notice relates and published by proclamation at or near such building and accompanied by beat of drum, and upon such affixation and publication, all persons concerned shall be deemed to have been duly informed of the matters stated therein.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5C.5">
+            <num>(5)</num>
+            <content>
+              <p>The Government may call for and examine the records of any proceedings of the Board under this section and after such enquiry as it thinks fit, if the Government is satisfied that the order of the Board is contrary to law, pass such orders thereon as the Government deems fit:</p>
+              <p>Provided that no order shall be made to the prejudice of any party unless he has had an opportunity of being heard.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5D">
+          <num>5D.</num>
+          <heading>The Karnataka Municipal Corporation Act, 1976 and other laws not affected.-</heading>
+          <paragraph id="section-5D.paragraph-0">
+            <content>
+              <p>Nothing in this Chapter shall be deemed to affect the operation of the Karnataka Municipal Corporations Act, 1976 or the Karnataka Municipalities Act, 1964 or any other law or the rules made thereunder and the provisions of this Chapter shall be in addition to and not in derogation of the provisions of said Acts, laws and the rules.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Improvement of slum areas</heading>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Power of prescribed authority to require execution of works of improvement in slum areas.-</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-6.1.list1">
+                <listIntroduction>Where the prescribed authority is satisfied that at a reasonable expense,-</listIntroduction>
+                <item id="section-6.1.list1.a">
+                  <num>(a)</num>
+                  <p>any slum area or any part thereof is capable of being improved so as not to be a source of danger to the health, safety or convenience of the public of that area; or</p>
+                </item>
+                <item id="section-6.1.list1.b">
+                  <num>(b)</num>
+                  <p>any building being unfit for human habitation in a slum area can be rendered fit for human habitation, it may serve upon the owner of the slum area or part thereof or of the building, as the case may be, a notice requiring him within such time not being less than sixty days, as may be specified in the notice, to execute the works of improvement specified therein:</p>
+                </item>
+              </blockList>
+              <p>Provided that where the owner of the building is different from the owner of the land on which the building stands and the works of improvement required to be executed relate to provision of water-taps, bathing places, construction of drains, open or covered, as the case may be, provision of water-borne latrines or removal of rubbish and such works are to be executed outside the building, the notice shall be served upon the owner of the land.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to serving a notice under sub-section (1) on the owner concerned, the prescribed authority may serve a copy of the notice on any other person having an interest in the slum area or part thereof or the building or the land on which the building stands, whether as a lessee, mortgagee or otherwise.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>In determining for the purposes of this Act whether at a reasonable expense the slum area or part thereof can be improved or the building rendered fit for human habitation, regard shall be had to the estimated cost of the works of improvement of the slum area or part thereof or of the works necessary to render the building fit for human habitation and the estimated value that the slum area or part thereof or the building will have when such works are completed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Power to execute works of improvement to slum areas and to recover expenses.-</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>If a notice under sub-section (1) of section 6 is not complied with, then, after the expiration of the time specified in the notice, the prescribed authority may itself execute the works required to be executed by the notice.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-7.2.list1">
+                <listIntroduction>All expenses incurred by the prescribed authority under this section together with interest, at such rate as the Government may, by order, fix from the date when a demand for the expenses is made until payment, may be recovered by the prescribed authority from the owner of the slum area or part thereof or of the building or of the land, on which the building stands, as the case may be, as arrears of land revenue and all such expenses and interest shall constitute a charge upon the slum area or part thereof or the building or the land on which the building stands, as the case may be: Provided that if the owner proves that he,-</listIntroduction>
+                <item id="section-7.2.list1.a">
+                  <num>(a)</num>
+                  <p>is receiving the rent merely as agent or trustee for some other person; and</p>
+                </item>
+                <item id="section-7.2.list1.b">
+                  <num>(b)</num>
+                  <p>has not in his hands on behalf of that other person sufficient money to satisfy the whole demand of the prescribed authority, his liability shall be limited to the total amount of the money which he has in his hands as aforesaid.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Expenses of maintenance of works of improvement, etc., to be recoverable from the occupiers of the land or building.-</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Where works of improvement have been executed in relation to any land or building in a slum area in pursuance of the provisions of sections 6 and 7 the expenses incurred by the prescribed authority, or as the case may be, by any local authority, in connection with the maintenance of such works of improvement or the enjoyment of amenities and conveniences rendered possible by such works, may be recovered from the occupier or occupiers of the land or building as arrears of land revenue.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The amount of expenses referred to in sub-section (1) shall be determined by order by the prescribed authority and in the case of expenses incurred by the local authority, the prescribed authority shall consult the local authority before passing an order determining the amount of expenses incurred by the local authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Power of prescribed authority to order demolition of building unfit for human habitation.-</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the prescribed authority on a report from the local authority concerned or the State Housing Board or the Board or an officer authorised by the Government for this purpose is satisfied that any building being unfit for human habitation in a slum area is not capable at reasonable expense of being rendered so fit, it shall serve upon the owner of the building and upon any other person having an interest in the building whether as lessee, mortgagee or otherwise, a notice to show cause, within such time as may be specified in such notice, as to why an order of demolition of the building should not be made.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>If any of the persons upon whom a notice has been served under sub-section (1) appears in pursuance thereof before the prescribed authority and gives an undertaking to that authority that such person shall, within such period as may be specified by the said authority, execute such works of improvement in relation to the building, as will in the opinion of the said authority, render the building fit for human habitation or that it shall not be used for human habitation until such authority on being satisfied that it has been rendered fit for that purpose cancels the undertaking, the prescribed authority shall not make any order of demolition of the building.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>If no such undertaking as is mentioned in sub-section (2) is given, or if in a case where any such undertaking has been given, any work of improvement to which the undertaking relates is not carried out within the specified period or the building is at any time used in contravention of the terms of the undertaking, the prescribed authority shall forthwith make an order of demolition of the building requiring that the building shall be demolished within such period as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Procedure to be followed where demolition order has been made.-</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>Where an order of demolition of building under section 9 has been made, the owner of the building or any other person having an interest therein shall demolish that building, within the period mentioned in sub-section (3) of section 9, and if the building is not demolished within the said period, the prescribed authority shall enter and demolish the building and subject to the provisions of section 61, sell the materials thereof.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Slum clearance and re-development</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power to declare any slum area to be slum clearance area.-</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Government, on a report from the Board or the prescribed authority or the local authority concerned or the State Housing Board or an officer authorised by the Government for this purpose is satisfied as respects any slum area that the most satisfactory method of dealing with the conditions in the area is the clearance of such area and the demolition of all the buildings in the area, it may, by notification, declare the area to be a slum clearance area, that is to say, an area to be cleared of all buildings in accordance with the provisions of this Act:</p>
+              <p>Provided that before issuing such notification the Government shall call upon the owners of the lands and buildings in such slum area to show cause why such declaration should not be made and after considering the cause if any, shown by such owners, it may pass such orders as it may deem fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>Any part of the slum area or any building in the slum area which is not unfit for human habitation or dangerous or injurious to safety, health or morals may be excluded from the notification under sub-section (1) if the Government considers it necessary.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>The notification under sub-section (1) shall specify each of the buildings to be demolished and the area to be cleared.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Obligation to clear area and demolish buildings.-</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>When a slum area has been declared to be a slum clearance area under sub-section (1) of section 11, the owners of the lands and the buildings in that area shall clear the area and demolish the buildings before the expiration of such period as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Power to clear slum clearance areas.-</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>If any slum clearance area is not cleared or the buildings demolished before the expiration of the period mentioned in section 12 the prescribed authority shall enter and clear the area and demolish the buildings and subject to the provisions of section 61, sell the materials thereof.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Owner may re-develop.-</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of this Act, where a notification under sub-section (1) of section 11 has been issued, the owner of the land to which the notification applies may re-develop the land in accordance with plans approved by the prescribed authority and subject to such restrictions and conditions (including condition with regard to the time within which the re-development shall be completed), if any, as that authority may think fit to impose:</p>
+              <p>Provided that an owner who is aggrieved, by a restriction or condition so imposed on the user of his land or by a subsequent refusal of the prescribed authority to cancel or modify any such restriction or condition, may, within such time as may be prescribed, appeal to the Government and the Government shall make such order in the matter as it thinks proper and its decision shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>No person shall commence or cause to be commenced any work in contravention of a plan approved or a restriction or condition imposed under sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Power of prescribed authority to re-develop clearance area.-</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1) of section 14, the prescribed authority may, at any time, after the land has been cleared and the buildings have been demolished in accordance with the foregoing provisions of this Chapter but before the work of re-development of that land has been commenced by the owner, by order, determine to re-develop the land if such authority is satisfied that it is necessary in the public interest to do so.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>Where land has been cleared and the buildings have been demolished in accordance with the foregoing provisions of this Chapter, and the prescribed authority is satisfied that the land has been, or is being re-developed by the owner thereof in contravention of plans approved by such authority or any restrictions or conditions imposed under sub-section (1) of section 14, or has not been re-developed within the time, if any, specified under such conditions, it may, by order determine to re-develop the land:</p>
+              <p>Provided that before passing an order under sub-section (1) or sub-section (2), the owner shall be given an opportunity to show cause why the order should not be passed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>All expenses incurred by the prescribed authority under this section, together with interest at such rate as the Government may, by order, fix from the date when a demand for the expenses is made until payment, may be recovered by the prescribed authority from the owner of the land as arrears of land revenue and all such expenses and interest shall constitute a charge upon the land and the building.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.4">
+            <num>(4)</num>
+            <content>
+              <p>The amount of expenses referred to in sub-section (3) shall be determined by order by the prescribed authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Rules to provide for transfer to previous occupants.-</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Subject to the provisions of this Act, the Government may, by rules, provide for or regulate the transfer, and the conditio s of such transfer to persons who, immediately before the declaration of any slum area to be a slum clearance area, were occupying lands or buildings in that area or lands or buildings in such slum clearance area after its re-development.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Acquisition of land</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Power to acquire land.-</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Where the Government is satisfied that, for the purpose of executing any work of improvement in relation to any slum area or any building in such area or for the purpose of re-developing any slum clearance area, or for the purpose of rehabilitating slum dwellers, it is necessary to acquire any land within, adjoining or surrounded, by any such area, it may acquire the land by publishing in the official Gazette, a notice to the effect that it has been decided to acquire the land in pursuance of this section:</p>
+              <p>Provided that before publishing such notice, the Government shall call upon the owner or any other person who, in the opinion of the Government, may be interested in such land, to show cause why it should not be acquired; and after considering the cause, if any, shown by the owner or any other person interested in the land, the Government may pass such orders as it deems fit.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Land acquired to vest in Government free from all encumbrances.-</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>When a notice under section 17 is published in the official Gazette, the land to which the said notice relates shall, on and from the date on which the notice is so published, vest absolutely in the Government free from all encumbrances.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Right to receive amount.-</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Every person having any interest in any land acquired under this Act shall be entitled to receive and be paid amount as hereinafter provided.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Amount payable.-</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The amount payable in respect of any land acquired under this Act, shall be three hundred times the property tax payable in respect of such land on the date of publication of the notice referred to in section 17, under the municipal law applicable to such area and where no such property tax is payable in respect of such land, the property tax payable in respect of similar land adjacent thereto.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>The prescribed authority shall, after holding an enquiry in the prescribed manner, determine by order the amount payable under sub-section (1) and publish the said order in the official Gazette. A copy of the said order shall be communicated to the owner of the land and every person interested therein.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the owner of the land and the owner of the building on such land are different, the prescribed authority shall apportion the amount between the owner of the land and the owner of the building (in the same proportion as the value of the land bears to the value of the building on the date of the acquisition).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Appeal against order fixing the amount.-</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Any person who does not agree to the amount determined by the prescribed authority under sub-section (2) of section 20 may prefer an appeal to the court within such period as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Apportionment of amount.-</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>Where several persons claim to be interested in the amount determined, the prescribed authority shall determine the persons who in its opinion are entitled to receive the amount and the sum payable to each of them.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>If any dispute arises as to the apportionment of the amount or any part thereof, or as to the persons to whom the same or any part thereof is payable, the prescribed authority may refer such dispute to the decision of the court and the court shall in deciding any such dispute follow, as far as may be, the provisions of Part III of the Land Acquisition Act, 1894 (Central Act 1 of 1894).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Payment of amount.-</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>After the amount has been determined, the prescribed authority shall tender payment of the amount to the persons entitled thereto and shall pay it to them.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>If the persons entitled to the amount do not consent to receive it or if there be no person competent to alienate the land, or if there be any dispute as to the title to receive the amount or as to the apportionment of it, the prescribed authority shall deposit the amount in the court, and the court shall deal with the amount so deposited in the manner laid down in sections 32 and 33 of the Land Acquisition Act, 1894 (Central Act I of 1894).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Payment of interest.-</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>When the amount is not paid or deposited on or before taking possession of the land, the prescribed authority shall pay the amount with interest thereon at the rate of five per cent per annum from the time of so taking possession until it shall have been so paid or deposited and such interest shall be paid or deposited by the prescribed authority in the same manner as provided for the amount.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Appeal to High Court.-</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Subject to the provisions of the Code of Civil Procedure, 1908 (Central Act 5 of 1908) applicable to appeals from original decrees, and notwithstanding anything to the contrary in any enactment for the time being in force, a second appeal shall only lie to the High Court from any decision of the court under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power of prescribed authority in relation to determination of amount.-</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The prescribed authority may, for the purpose of carrying out the provisions of sections 20,22, 23 and 24 by order require any person to furnish such information in his possession relating to any land which is acquired under this Act as may be specified in such order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-26.2.list1">
+                <listIntroduction>The prescribed authority shall, while holding an enquiry under this Act, have all the powers of a civil court, while trying a suit under the Code of Civil Procedure, 1908 (Central Act 5 of 1908), in respect of the following matters, namely:-</listIntroduction>
+                <item id="section-26.2.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+                </item>
+                <item id="section-26.2.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of any document:</p>
+                </item>
+                <item id="section-26.2.list1.c">
+                  <num>(c)</num>
+                  <p>reception of evidence on affidavits;</p>
+                </item>
+                <item id="section-26.2.list1.d">
+                  <num>(d)</num>
+                  <p>requisitioning any public record from any court or office;</p>
+                </item>
+                <item id="section-26.2.list1.e">
+                  <num>(e)</num>
+                  <p>issuing commission for examination of witnesses.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26A">
+          <num>26A.</num>
+          <heading>The Board to have power to acquire land by agreement.-</heading>
+          <subsection id="section-26A.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anyhting contained in sections 17 and 20, the Board may, with the previous approval of the Government, enter into an agreement with any person for the acquisition, from him, by purchase, lease or exchange of any land within, adjoining or surrounded by any slum area or slum clearance area, or any interest in such land which is needed for the purpose of executing any work of improvement in relation to any slum area or any building in such area or for the purpose of redeveloping any slum clearance area, or for the purpose of rehabilitating slum dwellers.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26A.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any land is acquired under-section (1), the Board may undertake the measures referred to in sub-section (1) of section 27 in accordance with such plans as may be approved by the Government and subject to such directions as may from time to time, be given by the Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Use of land acquired or land transferred by the Government or the local authority .-</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any land has been acquired under this Act, the Government may undertake or cause to be undertaken such measures as may be necessary for the improvement, development, clearance or re-development of the land, or the erection of any building or buildings thereon, in accordance with such plan as may be approved by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-27.2.list0">
+                <item id="section-27.2.list0.i">
+                  <num>(i)</num>
+                  <p>For the purpose of undertaking the measures referred to in sub-section (1), the Government may either hold the land under its own control and management and undertake such measures itself or through the Board on such terms and conditions as may be determined by it, or transfer the land to the local authority concerned or the Board for the purpose of undertaking those measures.</p>
+                </item>
+                <item id="section-27.2.list0.ii">
+                  <num>(ii)</num>
+                  <p>Where the land is transferred as provided in clause (i), such land shall vest in the local authority concerned or the Board, as the case may be, and the local authority or the Board shall,-</p>
+                </item>
+                <item id="section-27.2.list0.a">
+                  <num>(a)</num>
+                  <p>pay to the Government the cost of acquisition of the land or such portion thereof as the Government may determine in such case; and</p>
+                </item>
+                <item id="section-27.2.list0.b">
+                  <num>(b)</num>
+                  <p>undertake the measures referred to in sub-section (I) in accordance with such plans as may be approved by the Governmen , and subject to such directions as may, from time to time, be given by the Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>Where any slum area is located on the land belonging to the Government or any local authority the Government or the local authority may subject to such restrictions and conditions as it may impose, transfer to, and vest in, the Board such land free of cost for the purpose of undertaking such measures as may be necessary for improvement, development, clearance or redevelopment of the land or erection of building or buildings thereon.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27A">
+          <num>27A.</num>
+          <heading>Carryingout the development and allotment of sites etc.-</heading>
+          <subsection id="section-27A.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to section 27, the Board shall form layout on the lands transferred to and vested in it under sub-section (2) or(3) of section 27 by realigning internal roads for easy and convenient movement of the slum dwellers and for improving the hygienic conditions. The Board may undertake all measures necessary for improvement clearance development or redevelopment of such land and erection of building thereon.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27A.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board may, for the purpose of forming layout under sub-section (1) demolish any structure or building in a slum area in accordance with section 10 and the persons affected by such demolition shall, as far as, may be accommodated within the same slum area and if it is not possible they shall be accommodated in the area available in the adjacent slum area or any other area meant for rehabilitation of slum dwellers.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27A.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to such restrictions, conditions and limitations as may be prescribed, the Board, shall have power to lease, allot, sell or otherwise transfer the sites formed in the layout under sub-section(1) or dwelling unit of any building constructed in such layout.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27B">
+          <num>27B.</num>
+          <heading>Recovery of sums due to the Board.-</heading>
+          <subsection id="section-27B.1">
+            <num>(1)</num>
+            <content>
+              <p>All cost damages, penalties, charges, rent contribution or any other sum which under this Act or any rule made thereund r are due by any person to the Board be demanded by the prescribed authority by issuing a notice of demand to such person and indicating therein the liability incurred in default of payment, and may be recovered in the prescribed manner if within one month from the date of service of notice, such person does not make payment to the Board;</p>
+            </content>
+          </subsection>
+          <subsection id="section-27B.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person disputing the demand made in the notice issued under sub-section(1) may prefer an appeal under section 59, within thirty days from the date of service of the notice and the provisions of that section shall mutatis mutandis apply;</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Protection of tenants in slum areas from eviction</heading>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Proceedings for eviction of tenants not to be taken without permission of the prescribed authority.-</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-28.1.list1">
+                <listIntroduction>Notwithstanding anything contained in any other law for the time being in force, no person shall, except with the previous permission in writing of the prescribed authority,-</listIntroduction>
+                <item id="section-28.1.list1.a">
+                  <num>(a)</num>
+                  <p>institute, after the commencement of this Act, any suit or proceedings for obtaining any decree or order for the eviction of a tenant from any building or land in a slum area; and</p>
+                </item>
+                <item id="section-28.1.list1.b">
+                  <num>(b)</num>
+                  <p>where any decree or order is obtained in any suit or proceedings, instituted before such commencement for the eviction of tenant from any building or land in such area, execute such decree or order.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>Every person desiring to obtain the permission referred to in sub-section (1) shall make an application in writing to the prescribed authority in such form and containing such particulars as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.3">
+            <num>(3)</num>
+            <content>
+              <p>On receipt of such application, the prescribed authority after giving an opportunity to the parties of being heard and after making such summary enquiry into the circumstances of the case as it thinks fit, shall, by order in writing, either grant or refuse to grant such permission.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-28.4.list1">
+                <listIntroduction>In granting or refusing to grant permission under sub-section (3), the prescribed authority shall take into account the following factors, namely:-</listIntroduction>
+                <item id="section-28.4.list1.a">
+                  <num>(a)</num>
+                  <p>whether alternative accommodation within the means of the tenant would be available to him if he were evicted;</p>
+                </item>
+                <item id="section-28.4.list1.b">
+                  <num>(b)</num>
+                  <p>whether the eviction is in the interest of improvement and clearance of the slum area;</p>
+                </item>
+                <item id="section-28.4.list1.c">
+                  <num>(c)</num>
+                  <p>such other factors, if any, as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-28.5">
+            <num>(5)</num>
+            <content>
+              <p>Where the prescribed authority refuses to grant the permission, it shall record a brief statement of the reasons for such refusal and furnish a copy thereof to the applicant.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Appeal against order refusing permission.-</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>Any person aggrieved by an order of the prescribed authority refusing to grant the permission under sub-section (4) of section 5 or under sub-section (3) of section 28 may, within such time as may be prescribed, prefer an appeal to the Government and the Government may, after hearing the appellant, decide such appeal and its decision shall be final.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Restoration of possession of premises vacated by a tenant.-</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a tenant in occupation of any building in a slum area vacates any building or is evicted therefrom on the ground that it was required for the purposes of executing any work of improvement or for the purpose of re-erection of the building, the tenant may, within such time as may be prescribed, file a declaration with the prescribed authority that he desires to be replaced in occupation of the building after the completion of the work of improvement or re-erection of the building, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of such declaration, the prescribed authority shall, by order, require the owner of the building to furnish to it, within such time as may be prescribed, the plans of the work of improvement or re-erection of the building and estimates of the cost thereof and such other particulars as may be necessary and shall, on the basis of such plans and estimates and particulars, if any, furnished and having regard to the provisions of sub-section (3) of section 31 and after holding such enquiry as it may think fit, provisionally determine the rent that would be payable by the tenant if he were to be replaced in occupation of the building in pursuance of the declaration made by him under sub-section (1).</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>The rent provisionally determined under sub-section (2) shall be communicated in the prescribed manner to the tenant and the owner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.4">
+            <num>(4)</num>
+            <content>
+              <p>If the tenant, after the receipt of such communication, intimates in writing to the prescribed authority within such time as may be prescribed that when he is replaced in occupation of the building in pursuance of the declaration made by him under sub-section (1) he would pay to the owner, until the rent is finally determined under section 31, the rent provisionally determined under sub-section (2), the prescribed authority shall direct the owner to place the tenant in occupation of the building after the completion of the work of improvement or re-erection of the building, as the case may be, and the owner shall be bound to comply with such direction.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Rent of buildings in slum areas.-</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any building in a slum area is let to a tenant after the execution of any work of improvement or after it has been re-erected, the rent of the building shall be determined in accordance with the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-31.2.list1">
+                <listIntroduction>Where any such building is let to a tenant other than a tenant who is placed in possession of the building in pursuance of a direction issued under sub-section (4) of section 30, the tenant shall be liable to pay to the owner,-</listIntroduction>
+                <item id="section-31.2.list1.a">
+                  <num>(a)</num>
+                  <p>if there is a general law relating to the control of rents in force in the area in which the building is situated and applicable to that building the rent determined in accordance with the provisions of that law or the agreed rent whichever is less;</p>
+                </item>
+                <item id="section-31.2.list1.b">
+                  <num>(b)</num>
+                  <p>if there is no such law in force in such area, such rent as may be agreed to between the owner and the tenant.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-31.3.list1">
+                <listIntroduction>Where any such building is let to a tenant in pursuance of a direction issued under sub-section (4) of section 30, the tenant shall, notwithstanding any law relating to the control of rents in force in the area, be liable to pay to the owners,-</listIntroduction>
+                <item id="section-31.3.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-31.3.list1.a.list0">
+                    <listIntroduction>if any work of improvement has been executed in relation to the building, an annual rent of a sum equivalent to the aggregate of the following amounts, namely,-</listIntroduction>
+                    <item id="section-31.3.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>the annual rent the tenant was paying immediately before he vacated the building for the purpose of execution of the work of improvement;</p>
+                    </item>
+                    <item id="section-31.3.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>six per cent of the cost of the work of improvement; and</p>
+                    </item>
+                    <item id="section-31.3.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>six per cent of a sum equivalent to the amount payable in respect of any land which may have been acquired for the purpose of effecting such improvement;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-31.3.list1.b">
+                  <num>(b)</num>
+                  <p>if the building has been re-erected, an annual rent of a sum equivalent to four per cent of the aggregate cost of re-erection of the building and the cost of the land on which the building is re-erected.</p>
+                </item>
+              </blockList>
+              <p>Explanation.- For the purpose of this clause, the cost of the land shall be deemed to be a sum equivalent to the amount payable in respect of the land as if it were acquired under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.4">
+            <num>(4)</num>
+            <content>
+              <p>The rent payable by a tenant in respect of any building under sub-section (3) shall, on an application made by the tenant or the owner, be determined by the authority referred to in sub-section (5):</p>
+              <p>Provided that an application for determination of such rent by the owner or the tenant shall not except for sufficient cause, be entertained by such authority after the expiry of ninety days from the date of completion of the work of improvement or re-erection of the building, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.5">
+            <num>(5)</num>
+            <content>
+              <blockList id="section-31.5.list1">
+                <listIntroduction>The authority to which the application referred to in sub-section (4) shall be made, shall be,-</listIntroduction>
+                <item id="section-31.5.list1.a">
+                  <num>(a)</num>
+                  <p>where there is a general law relating to the control of rents in force in the area in which the building is situate, the authority to whom application may be made for fixing of rents of buildings situate in that area; and for the purposes of determining the rent under this section that authority may exercise all or any of the powers it has under the said general law; and the provisions of such law including provisions relating to appeals shall apply accordingly;</p>
+                </item>
+                <item id="section-31.5.list1.b">
+                  <num>(b)</num>
+                  <p>if there is no such law in force in that area, such authority as may be specified by rules made in this behalf by the Government and such rules may provide the procedure that will be followed by that authority in determining the rent and also for appeals against the decision of such authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-31.6">
+            <num>(6)</num>
+            <content>
+              <p>Where the rent is finally determined under this section, then the amount of rent paid by the tenant shall be adjusted against the rent so finally determined and if the amount so paid falls short of, or is in excess of, the rent finally determined, the tenant shall pay the deficiency or be entitled to a refund, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Chapter not to apply to tenants of certain buildings.-</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>Nothing in this Chapter shall apply to or in relation to a tenant of any building situate in a slum area and belonging to the Government or the Board or any local authority.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>THE Karnataka Slum Development Board</heading>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Establishment of the Karnataka Slum Development Board.-</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>With effect from such date as the Government may, by notification, appoint in this behalf, there shall be established a Board by the name of the Karnataka Slum development Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall be a body corporate by the name as aforesaid having perpetual succession and a common seal, with power subject to the provisions of this Act, to acquire, hold and dispose of property both movable and immovable and to contract and shall by the said name sue and be sued.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Constitution of the Board.-</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall consist of a Chairman and other official and non-official members as specified in sub-section (2) ;</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-34.2.list1">
+                <listIntroduction>The Board shall consist of,-</listIntroduction>
+                <item id="section-34.2.list1.a">
+                  <num>(a)</num>
+                  <p>A Chairman who shall be appointed by the Government;</p>
+                </item>
+                <item id="section-34.2.list1.b">
+                  <num>(b)</num>
+                  <p>Commissioner, Karnataka Housing Board;</p>
+                </item>
+                <item id="section-34.2.list1.c">
+                  <num>(c)</num>
+                  <p>the Commissioner of the Board shall be the Member Secretary;</p>
+                </item>
+                <item id="section-34.2.list1.d">
+                  <num>(d)</num>
+                  <p>A representative of the Finance Department, Government of Karnataka, not below the rank of a Deputy Secretary to Government;</p>
+                </item>
+                <item id="section-34.2.list1.e">
+                  <num>(e)</num>
+                  <p>A representative of the Housing Department, Government of Karnataka, not below the rank of Deputy Secretary to Government;</p>
+                </item>
+                <item id="section-34.2.list1.f">
+                  <num>(f)</num>
+                  <p>The Director of Town Planning, Government of Karnataka;</p>
+                </item>
+                <item id="section-34.2.list1.g">
+                  <num>(g)</num>
+                  <p>A representative of Health and Family Welfare Services Department, Government of Karnataka, not below the rank of a Joint Director;</p>
+                </item>
+                <item id="section-34.2.list1.h">
+                  <num>(h)</num>
+                  <p>A representative of the Bangalore Mahanagara Palike not below the rank of a Deputy Commissioner;</p>
+                </item>
+                <item id="section-34.2.list1.i">
+                  <num>(i)</num>
+                  <p>A representative of the Directorate of Social Welfare, Government of Karnataka, not below the rank of a Joint Director;</p>
+                </item>
+                <item id="section-34.2.list1.j">
+                  <num>(j)</num>
+                  <p>the regional Chief of the Housing and Urban Development Corporation or his nominee;</p>
+                </item>
+                <item id="section-34.2.list1.k">
+                  <num>(k)</num>
+                  <p>five non-official members nominated by the Government, and out of whom one shall be a woman and one shall be a person belonging to the Scheduled Caste or Scheduled Tribe.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-34.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the provisions of sub-section (2) the term of office of the Chairman and other members shall be for a period of three years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding anything contained in this section the Chairman and other members of the Board shall continue in office after the expiry of their term till their successors are appointed under this section.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Vacancy not to invalidate proceedings.-</heading>
+          <paragraph id="section-35.paragraph-0">
+            <content>
+              <p>No act or proceeding of the Board shall be invalid by reason only of the existence of any vacancy in the office of the Chairman or among the other members of the Board or any defect in their appointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Conditions of service of Chairman and other members.-</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>The conditions of service of the Chairman and other members shall be such as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Appointment of officers and servants.-</heading>
+          <subsection id="section-37.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government shall appoint an officer not below the rank of a Deputy Secretary to Government to be the Commissioner of the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.2">
+            <num>(2)</num>
+            <content>
+              <p>The Commissioner shall be the Chief Executive Officer of the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-37.3">
+            <num>(3)</num>
+            <content>
+              <p>The Board may appoint such other officials and servants as it considers necessary for the efficient performance of its functions.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-37A">
+          <num>37A.</num>
+          <heading>Powers and duties of the Commissioner.-</heading>
+          <paragraph id="section-37A.paragraph-0">
+            <content>
+              <blockList id="section-37A.paragraph-0.list1">
+                <listIntroduction>The Commissioner of the Board shall in addition to performing such functions as may be conferred on him by or under this Act or under any other law for the time being in force,-</listIntroduction>
+                <item id="section-37A.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>carryout the resolutions of the Board:</p>
+                </item>
+              </blockList>
+              <blockList id="section-37A.paragraph-0.list3">
+                <listIntroduction>Provided that, if in the opinion of the Commissioner any resolution of the Board contravenes any provisions of this Act or of any other law or any rule, notification, regulations or bye law made or issued under this Act, or any other law or any order passed by the Government, or is prejudicial or detrimental to the interest of the Board he shall, within fifteen days of passing of such resolution refer the matter to the Government and inform the Board at its next meeting, of the action taken by him and until the orders of the Government on such reference are received, the Commissioner shall not be bound to give effect to such resolution.</listIntroduction>
+                <item id="section-37A.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>keep and conduct the Board’s correspondence;</p>
+                </item>
+                <item id="section-37A.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>carry out and execute such scheme and works as the Government may direct and incur necessary expenditure thereon;</p>
+                </item>
+                <item id="section-37A.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>be responsible for implementing the scheme of the Board;</p>
+                </item>
+                <item id="section-37A.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <p>operate the accounts of the Board and be responsible for the maintenance of the accounts of the Board;</p>
+                </item>
+                <item id="section-37A.paragraph-0.list3.f">
+                  <num>(f)</num>
+                  <p>exercise supervision and control over the accounts and proceedings of the Board and over the officers and servants of the Board in the matters of executive administration;</p>
+                </item>
+                <item id="section-37A.paragraph-0.list3.g">
+                  <num>(g)</num>
+                  <p>furnish to the Government a copy of the minutes of the proceedings of the Board and any other information which the Government may, from time to time, call for; and</p>
+                </item>
+                <item id="section-37A.paragraph-0.list3.h">
+                  <num>(h)</num>
+                  <p>authenticate by his signature all permissions, orders, decisions; notices and other documents of the Board and the orders of the Board</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Conditions of service of officers and servants.-</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>The pay and other conditions of service of the officers and servants of the Board shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any officer or servant of the State Housing Board is appointed in the Board, his conditions of service (including conditions as to pay, provident fund, pension and gratuity) shall be subject to such rules as may be made in this behalf by the Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>General disqualification of members, officers and servants.-</heading>
+          <paragraph id="section-39.paragraph-0">
+            <content>
+              <p>No person who has directly or indirectly by himself, or his partner or agent, any share or interest in any contract by or on behalf of the Board, shall become or remain a member or officer or servant of the Board.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Functions of the Board</heading>
+          <paragraph id="section-40.paragraph-0">
+            <content>
+              <blockList id="section-40.paragraph-0.list1">
+                <listIntroduction>The functions of the Board shall be,-</listIntroduction>
+                <item id="section-40.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to exercise the powers of the prescribed authority in cases where the Government has, by notification directed that the powers of the prescribed authority shall be exercised by the Board;</p>
+                </item>
+                <item id="section-40.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>such other functions as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Finance, accounts and audit.-</heading>
+          <paragraph id="section-41.paragraph-0">
+            <content>
+              <p>The provisions of Chapter VII of the Karnataka Housing Board Act, 1962 ( Karnataka Act 10 of 1963), relating to finance, accounts and audit shall apply, as far as may be, to the Board as the said provisions apply to the State</p>
+              <p>Housing Board.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>No disqualification in certain cases.-</heading>
+          <paragraph id="section-42.paragraph-0">
+            <content>
+              <p>No person shall be disqualified for being chosen as, or for being a member of the Karnataka Legislative Assembly or of the Karnataka Legislative Council by reason only of the fact that he is the Chairman or a</p>
+              <p>member of the Board.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Power of Board to make regulations.-</heading>
+          <paragraph id="section-43.paragraph-0">
+            <content>
+              <p>The Board may make regulations in regard to the meeting of the Board and the conduct of business, including quorum in the meeting.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Board to comply with directions of Government.-</heading>
+          <paragraph id="section-44.paragraph-0">
+            <content>
+              <p>It shall be the duty of the Board to comply with such directions, as the Government may, from time to time, issue either generally or in regard to any particular matter.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Powers of the State Housing Board to cease.-</heading>
+          <paragraph id="section-45.paragraph-0">
+            <content>
+              <p>With effect from the date of the establishment of the Board, the State Housing Board shall cease to exercise any function under the Karnataka Housing Board Act, 1962 (Karnataka Act 10 of 1963), in respect of matters dealt with in this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Transfer of certain assets and liabilities of the State Housing Board to the Board.-</heading>
+          <subsection id="section-46.1">
+            <num>(1)</num>
+            <content>
+              <p>All property, assets, rights and liabilities of the State Housing Board shall, in so far as such property, assets, rights and liabilities are relatable immediately before the date of the establishment of the Board to the improvement of the slum area, the clearance of the slum area and the re-development of the slum clearance area, stand transferred to and be vested in the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-46.2.list0">
+                <item id="section-46.2.list0.a">
+                  <num>(a)</num>
+                  <p>If any dispute arises whether any property assets, rights and liabilities stand transferred to and vested in the Board under sub-section (1), the dispute shall be referred to the decision of the Government and its decision shall be final.</p>
+                </item>
+                <item id="section-46.2.list0.b">
+                  <num>(b)</num>
+                  <p>Before giving any decision on any such dispute the Government shall give an opportunity to the State Housing Board and the Board to make representations.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Board to enforce certain contracts and agreements.-</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>All contracts, agreements and other instruments of whatever nature subsisting or having effect immediately before the date of the establishment of the Board and to which the State Housing Board is a party, in so far as such contracts, agreements and instruments are relatable to the improvement of a slum area, the clearance of a slum area and the re-development of the slum clearance area shall be of as full force and effect against or in favour of the Board and may be enforced or acted upon as fully and effectually as if, instead of the State Housing Board, the Board has been a party thereto or as if they had been entered into or issued in favour of the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <p>If on the date of the establishment of the Board, any suit, appeal or other legal proceeding of whatever nature by or against the State Housing Board is pending then such suit, appeal or other legal proceeding in so far as it is relatable to the improvement of the slum area, the clearance of a slum area and the re-development of a slum clearance area, shall not abate, be discontinued or be in any way prejudicially affected by reason of the transfer to the Board of the property, assets, rights and liabilities of the State Housing Board or of anything done under this Act, but the suit, appeal or other legal proceeding may be continued, prosecuted and enforced by or against the Board.</p>
+              <p>Explanation.- For the purpose of this sub-section, ‘legal proceeding’ includes any proceeding under the Land Acquisition Act, 1894 (Central Act I of 1894).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Payment of certain amount by the State Housing Board to the Board.-</heading>
+          <paragraph id="section-48.paragraph-0">
+            <content>
+              <p>Subject to the provisions of section 46 the State Housing Board shall, out of its funds as on the date of the establishment of the Board, pay to the Board, such amount as the Government may, in consultation with the State Housing Board specify.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IX">
+        <num>IX</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Board to exercise the powers of prescribed authority.-</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <p>The Government may, by notification, direct that any power exercisable by the prescribed authority under this Act, may be exercised by the Board, in such cases and subject to such conditions, if any, as may be specified in the notification and on the issue of such notification, the prescribed authority shall not exercise the power in respect of the matters specified in such notification.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Service of notices and orders.-</heading>
+          <subsection id="section-50.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-50.1.list1">
+                <listIntroduction>Save as otherwise provided in this Act and subject to the provisions of this section and of any rules made in this behalf, every notice issued or order made under this Act shall,-</listIntroduction>
+                <item id="section-50.1.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of any notice or order of a general nature or affecting a class of persons, be published in the official Gazette;</p>
+                </item>
+                <item id="section-50.1.list1.b">
+                  <num>(b)</num>
+                  <p>in the case of any notice or order affecting an individual, corporation or firm be served in the manner provided for the service of summons in rule 2 of Order XXIX or rule 3 of Order XXX, as the case may be, in the First Schedule to the Code of Civil Procedure, 1908 (Central Act V of 1908); and</p>
+                </item>
+                <item id="section-50.1.list1.c">
+                  <num>(c)</num>
+                  <blockList id="section-50.1.list1.c.list0">
+                    <listIntroduction>in the case of any notice or order affecting an individual person (not being a corporation or firm), be served on such person,-</listIntroduction>
+                    <item id="section-50.1.list1.c.list0.i">
+                      <num>(i)</num>
+                      <p>by delivering or tendering it to that person; or</p>
+                    </item>
+                    <item id="section-50.1.list1.c.list0.ii">
+                      <num>(ii)</num>
+                      <p>if it cannot be so delivered or tendered by delivering or tendering it to the head of the office in which such person is employed, or to any adult male servant of such person, or to any adult male member of the family of such person, or by affixing a copy thereof on the outer door or on some conspicuous part of the premises in which that person is known to have last resided or carried on business or personally worked for gain; or</p>
+                    </item>
+                    <item id="section-50.1.list1.c.list0.iii">
+                      <num>(iii)</num>
+                      <p>failing service by any of the means aforesaid, by post or by affixing a copy of the said notice or order on some conspicuous part of the land or building to which it relates.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-50.2">
+            <num>(2)</num>
+            <content>
+              <p>Where the notice or order cannot be served without undue delay, due to any dispute in the ownership of the land or building or due to the person to whom the notice or order is intended being not readily traceable, the notice, or order may be served by publishing it in the official Gazette, and where possible by affixing a copy thereof on some conspicuous part of the land or building to which it relates.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Powers of entry.-</heading>
+          <paragraph id="section-51.paragraph-0">
+            <content>
+              <p>It shall be lawful for any person authorised by the prescribed authority in this behalf to enter into or upon any land or building in any slum area or slum clearance area with or without assistance of workmen in order to make any enquiry, inspection, measurement valuation or survey, or to execute any work which is authorised by or under this Act or which it is necessary to execute for any of the purposes or in pursuance of any of the provisions of this Act or of any rule or order made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Power of inspection.-</heading>
+          <subsection id="section-52.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-52.1.list1">
+                <listIntroduction>The Government may, by general or special order, authorise any person,-</listIntroduction>
+                <item id="section-52.1.list1.a">
+                  <num>(a)</num>
+                  <p>to inspect any drain, latrine, urinal, cess-pool, pipe, sewer or channel in or any land or building in a slum area or slum clearance area, and in his discretion to cause the ground to be opened for the purpose of preventing or removing any nuisance arising from the drain, latrine, urinal, cesspool, pipe, sewer or channel, as the case may be:</p>
+                </item>
+                <item id="section-52.1.list1.b">
+                  <num>(b)</num>
+                  <p>to examine works under construction in the slum area or to take levels or to remove, test, examine, replace or read any meter.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-52.2">
+            <num>(2)</num>
+            <content>
+              <p>If, on such inspection, the opening of the ground is found to be necessary for the prevention or removal of a nuisance, the expenses thereby incurred shall be paid by the owner or occupier of the land or building, but if it is found that no nuisance exists or but for such opening would have arisen, the ground or portion of any building, drain, or other work opened, injured or removed for the purpose of such inspection shall be filled in, reinstated or made good, as the case may be, by the Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Power to enter land adjoining land where work is in progress.-</heading>
+          <subsection id="section-53.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person authorised by the Government in this behalf may, with or without assistants or workmen, enter on any land within forty-five meters of any work authorised by or under this Act for the purpose of depositing thereon any soil, gravel, stone or other materials, or for obtaining access to such work or for any other purpose connected with the carrying on of the same.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.2">
+            <num>(2)</num>
+            <content>
+              <p>The person so authorised shall, before entering on any land under sub-section (1), state the purpose thereof, and shall, if so required by the occupier or owner, fence off so much of the land as may be required for such purpose.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.3">
+            <num>(3)</num>
+            <content>
+              <p>The person so authorised shall, in exercising any power conferred by this section, do as little damage, as may be and compensation shall be payable by the Government to the owner or occupier of such land or to both for any such damage whether permanent or temporary in accordance with such rules as may be made.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Power to enter into building.-</heading>
+          <paragraph id="section-54.paragraph-0">
+            <content>
+              <blockList id="section-54.paragraph-0.list1">
+                <listIntroduction>It shall be lawful for any person authorised by the prescribed authority in this behalf to enter into any place or to open or cause to be opened any door, gate or other barrier,-</listIntroduction>
+                <item id="section-54.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>if he considers the opening thereof necessary for the purpose of such entry; and</p>
+                </item>
+                <item id="section-54.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>if the owner or occupier is absent, or being present refuses to open such door, gate or barrier.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Entry to be made in the day time.-</heading>
+          <paragraph id="section-55.paragraph-0">
+            <content>
+              <p>No entry authorised by or under this Act shall be made except between the hours of sunrise and sunset.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-56">
+          <num>56.</num>
+          <heading>Occupier’s consent ordinarily to be obtained.-</heading>
+          <paragraph id="section-56.paragraph-0">
+            <content>
+              <p>Save as provided in this Act, no land or building shall be entered without the consent of the occupier, or if there be no occupier, of the owner thereof, and no such entry shall be made without giving the said occupier or owner, as the case may be, not less than twenty four hours written notice of the intention to make such entry:</p>
+              <p>Provided that no such notice shall be necessary if the place to be inspected is a shed for cattle or a latrine, urinal or a work under construction.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-57">
+          <num>57.</num>
+          <heading>Powers of eviction.-</heading>
+          <paragraph id="section-57.paragraph-0">
+            <content>
+              <blockList id="section-57.paragraph-0.list1">
+                <listIntroduction>Notwithstanding anything contained in this Act, where the prescribed authority is satisfied either upon a representation from the owner of a building or upon other information in its possession that the occupants of the building have not vacated it in pursuance of,-</listIntroduction>
+                <item id="section-57.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>any notice, order or direction issued by the prescribed authority; or</p>
+                </item>
+                <item id="section-57.paragraph-0.list1.ii">
+                  <num>(ii)</num>
+                  <p>any notice or direction issued by the owner, it shall, if satisfied that such eviction is necessary to carry out the purposes of the Act, by order direct the eviction of the occupants from the building, in such manner and within such time as may be specified in the order, and may for that purpose use or cause to be used such force as may be necessary:</p>
+                </item>
+              </blockList>
+              <p>Provided that, before making any order under this section, the prescribed authority shall call upon the occupants of the building to show cause why they should not be evicted therefrom and after considering the cause, if any, shown by such occupants, it may pass such orders as it deems fit.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-58">
+          <num>58.</num>
+          <heading>Power to remove dangerous or offensive trades from slum areas.-</heading>
+          <paragraph id="section-58.paragraph-0">
+            <content>
+              <p>The prescribed authority may, by order in writing, direct any person carrying on any dangerous or offensive trade in a slum area to remove the trade from that area within such time as may be specified in the order:</p>
+              <p>Provided that before making any order under this section the prescribed authority shall call upon the person carrying on the trade to show cause why the order should not be made and after considering the cause, if any, shown by such person, it may pass such orders as it deems fit.</p>
+              <blockList id="section-58.paragraph-0.list3">
+                <listIntroduction>Explanation.- For the purposes of this section "dangerous or offensive trade" includes,-</listIntroduction>
+                <item id="section-58.paragraph-0.list3.a">
+                  <num>(a)</num>
+                  <p>trading in arrack or toddy or other intoxicants; and</p>
+                </item>
+                <item id="section-58.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>pawn broking or money lending except by a co-operative society or a banking company.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-59">
+          <num>59.</num>
+          <heading>Appeal.-</heading>
+          <subsection id="section-59.1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise expressly provided in this Act, any person aggrieved by any notice, order or direction issued by the prescribed authority may, within such time as may be prescribed, appeal to the Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.2">
+            <num>(2)</num>
+            <content>
+              <p>Every appeal under this Act shall be made by petition in writing accompanied by a copy of the notice, order or direction appealed against.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.3">
+            <num>(3)</num>
+            <content>
+              <p>On the admission of an appeal, the Government may, for sufficient cause, order the stay of all proceedings relating to the enforcement of the notice, order or direction appealed against.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.4">
+            <num>(4)</num>
+            <content>
+              <p>No appeal shall be decided under this section unless the appellant has been heard or has had an opportunity of being heard.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.5">
+            <num>(5)</num>
+            <content>
+              <p>The decision of the Government on appeal shall be final and shall not be questioned in any court.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-60">
+          <num>60.</num>
+          <heading>Order of demolition of buildings in certain cases.-</heading>
+          <paragraph id="section-60.paragraph-0">
+            <content>
+              <p>Where the erection of any building has been commenced, or is being carried out, or has been completed, in contravention of any restriction or condition imposed under section 14 or of a plan for the redevelopment of any slum clearance area or in contravention of any notice, order or direction issued under this Act, the prescribed authority may, in addition to any other remedy that may be resorted to under this Act, or under any law, make an order directing that such building shall be demolished by the owner thereof, within such time not exceeding sixty days, as may be specified in the order, and on the failure of the owner to comply with the order within the time specified, the prescribed authority, may itself cause the building to be demolished and subject to the provisions of section 61, sell the materials thereof:</p>
+              <p>Provided that, before making any order under this section, the prescribed authority shall call upon the owner to show cause why the order should not be made and after considering the cause, if any, shown by such owner, it may pass such orders as it deems fit.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-61">
+          <num>61.</num>
+          <heading>Disposal of proceeds of sale of materials of demolished building and recovery of expenses.-</heading>
+          <subsection id="section-61.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the materials of any building demolished by the prescribed authority, under section 10, section 13 or section 60 are sold, the prescribed authority shall apply the proceeds of such sale in or towards payment of the expenses incurred by that authority under that section and pay any surplus accruing from such sale to the owner or other person entitled thereto on demand made within twelve months from the date of sale. If no such demand is made, such surplus shall be deposited with the Government or authority specified by it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-61.2">
+            <num>(2)</num>
+            <content>
+              <p>Any expenses referred to in sub-section (1) if not satisfied out of the sale proceeds of the materials of any building referred to in that sub-section, may be recovered by the prescribed authority from the owner of the building or any other person having an interest therein as arrears of land revenue.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-62">
+          <num>62.</num>
+          <heading>Penalties.-</heading>
+          <subsection id="section-62.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-62.1.list1">
+                <listIntroduction>Any person who,-</listIntroduction>
+                <item id="section-62.1.list1.a">
+                  <num>(a)</num>
+                  <p>commences or causes to be commenced any work in contravention of any restriction or condition imposed under section 14 or of any plan for the redevelopment of a slum clearance area; or</p>
+                </item>
+                <item id="section-62.1.list1.b">
+                  <num>(b)</num>
+                  <p>contravenes or fails to comply with any other provision of this Act or of any rule made thereunder or of any notice, order or direction issued under this Act, shall be punishable for the first offence with imprisonment for a term which may extend to three months or with fine which may extend to one thousand rupees, or with both and for a second or any subsequent offence with imprisonment for a term which may extend to six months or with fine which may extend to two thousand rupees, or with both.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-62.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who obstructs any person authorised under this Act to enter into or upon any land or building or molests such person after such entry shall be punishable with imprisonment for a term which may extend to three months or with fine which may extend to one thousand rupees or with both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-63">
+          <num>63.</num>
+          <heading>Offences by companies.-</heading>
+          <subsection id="section-63.1">
+            <num>(1)</num>
+            <content>
+              <p>If the person committing an offence under this Act is a company, every person, who at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offence, and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge, or that he exercised all due diligence to prevent the commission of the offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-63.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <blockList id="section-63.2.list2">
+                <listIntroduction>Explanation.- For the purpose of this section,-</listIntroduction>
+                <item id="section-63.2.list2.a">
+                  <num>(a)</num>
+                  <p>‘company’ means a body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-63.2.list2.b">
+                  <num>(b)</num>
+                  <p>‘director’ in relation to a firm means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-64">
+          <num>64.</num>
+          <heading>Prosecution and trial of offences.-</heading>
+          <subsection id="section-64.1">
+            <num>(1)</num>
+            <content>
+              <p>No prosecution for any offence punishable under this Act shall be instituted except with the previous sanction of the prescribed authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-64.2">
+            <num>(2)</num>
+            <content>
+              <p>No court inferior to that of a magistrate of the first class shall try any offence punishable under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-65">
+          <num>65.</num>
+          <heading>Composition of offences.-</heading>
+          <subsection id="section-65.1">
+            <num>(1)</num>
+            <content>
+              <p>The prescribed authority may by general or special order either before or after the institution of the proceedings compound any offence made punishable by or under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-65.2">
+            <num>(2)</num>
+            <content>
+              <p>When an offence has been compounded the offender if in custody shall be discharged and no further proceedings shall be taken against him in respect of the offence compounded.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-66">
+          <num>66.</num>
+          <heading>Bar of jurisdiction of civil courts.-</heading>
+          <paragraph id="section-66.paragraph-0">
+            <content>
+              <p>Save as otherwise expressly provided in this Act, no civil court shall have jurisdiction in respect of any matter which the Government or the prescribed authority is, empowered by or under this Act, to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-67">
+          <num>67.</num>
+          <heading>Prescribed authority, etc., to be public servants.-</heading>
+          <paragraph id="section-67.paragraph-0">
+            <content>
+              <p>The prescribed authority and any person authorised by it under this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code, 1860 (Central Act XLV of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-68">
+          <num>68.</num>
+          <heading>Protection of action taken in good faith.-</heading>
+          <subsection id="section-68.1">
+            <num>(1)</num>
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done in pursuance of this Act or of any rule or order made thereunder.</p>
+            </content>
+          </subsection>
+          <subsection id="section-68.2">
+            <num>(2)</num>
+            <content>
+              <p>No suit or legal proceeding shall lie against the Government or the prescribed authority or any authority or officer subordinate to the Government or the prescribed authority for any damage caused or likely to be caused by anything which is, in good faith, done or intended to be done in pursuance of this Act or of any rule or order made thereunder.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-69">
+          <num>69.</num>
+          <heading>Delegation of powers of Government.-</heading>
+          <subsection id="section-69.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may, by notification, authorise any authority or officer to exercise any of the powers vested in it by this Act (except the power to acquire land under section 17 and the power to make rules under section 71); and may in like manner withdraw such authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-69.2">
+            <num>(2)</num>
+            <content>
+              <p>The exercise of any power delegated under sub-section (1) shall be subject to such restrictions and conditions as may be prescribed or as may be specified in the notification and also to control and revision by the Government or by such officer as may be empowered by the Government in this behalf. The Government shall also have power to control and revise the acts or proceedings of any officer so empowered.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-70">
+          <num>70.</num>
+          <heading>Act to override other laws.-</heading>
+          <paragraph id="section-70.paragraph-0">
+            <content>
+              <p>The provisions of this Act and the rules made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force, or any custom, usage, or contract or decree or order of a court or other authority.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-71">
+          <num>71.</num>
+          <heading>Power to make rules.-</heading>
+          <subsection id="section-71.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may, by notification and after previous publication make rules for carrying out all or any of the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-71.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-71.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for or regulate,-</listIntroduction>
+                <item id="section-71.2.list1.a">
+                  <num>(a)</num>
+                  <p>all maters expressly required or allowed by this Act to be prescribed;</p>
+                </item>
+                <item id="section-71.2.list1.b">
+                  <num>(b)</num>
+                  <p>the fees payable in respect of any application or statement under this Act;</p>
+                </item>
+                <item id="section-71.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner of authentication of notices, orders and other instruments of the prescribed authority; and</p>
+                </item>
+                <item id="section-71.2.list1.d">
+                  <num>(d)</num>
+                  <p>the preparation of plans for the development of any slum area or slum clearance area and matters to be included in such plans.</p>
+                </item>
+                <item id="section-71.2.list1.e">
+                  <num>(e)</num>
+                  <p>restrictions, if any, on the exercise of powers by the Board under section 5C.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-72">
+          <num>72.</num>
+          <heading>Application of the Act to certain pending cases of acquisition.-</heading>
+          <subsection id="section-72.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-72.1.list1">
+                <listIntroduction>The provisions of this Act shall apply also to any case or cases in which the proceedings have been started before the commencement of this Act for the acquisition of any land in a slum area under the Land Acquisition Act, 1894 (Central Act I of 1894) (hereinafter in this section referred to as the said Act), but no award has been made by the Deputy Commissioner under section 11 of the said Act before such commencement, as if,-</listIntroduction>
+                <item id="section-72.1.list1.i">
+                  <num>(i)</num>
+                  <p>the notification published under sub-section (1) of section 4 of the said Act, or</p>
+                </item>
+                <item id="section-72.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>the declaration made under section 6 of the said Act, or</p>
+                </item>
+                <item id="section-72.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>the notice given under sub-section (1) of section 9 of the said Act, were a notice to show cause against the acquisition of the land served by the Government under the proviso to section 17 of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-72.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in sub-section (1) shall apply in relation to any land unless and until after the Government has published a notice in the official Gazette to the effect that the said land is required for any of the purposes specified in section 17 of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-73">
+          <num>73.</num>
+          <heading>Laying of rules and notifications.-</heading>
+          <paragraph id="section-73.paragraph-0">
+            <content>
+              <p>Every rule made or notification issued under section 69 of this Act shall be laid as soon as may be, after it is made or issued, before each House of the State legislature, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions and if, before the expiry of the session immediately following the session or successive sessions aforesaid both Houses agree in making any modification in the rule or notification or both Houses agree that the rule or notification should not be made or issued, the rule or notification shall from the date on which the modification or annulment is notified by the Government in the official Gazette have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under such rule or notification.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

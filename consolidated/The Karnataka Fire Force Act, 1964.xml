@@ -1,0 +1,821 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1964/42/main"/>
+          <FRBRuri value="/in-kar/act/1964/42"/>
+          <FRBRalias value="The Karnataka Fire Force Act, 1964"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1964/42/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/1964/42/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1964/42/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/1964/42/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Fire Force Act, 1964</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[12th November, 1964]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 42 of 1964</p>
+        <p>An Act to provide for the maintenance of a Fire Force for the State of Karnataka.</p>
+        <p>WHEREAS it is expedient to provide for the maintenance of a Fire Force for the State of Karnataka;</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>BE it enacted by the Karnataka State Legislature in the Fifteenth Year of the Republic of India as follows:</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Karnataka Fire Force Act, 1964.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Karnataka.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force in any area on such date as the State Government may, by notification in the official Gazette, appoint, and different dates may be appointed for different areas.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definition.</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“Director” means the Director of the Fire Force appointed under section 4;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-2.paragraph-0.list1.b.list0">
+                    <listIntroduction>“Fire-fighting property” includes,—</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.b.list0.i">
+                      <num>(i)</num>
+                      <p>lands and buildings used as fire-stations,</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>fire engines, equipments, tools, implements and things whatsoever used for fire-fighting,</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.b.list0.iii">
+                      <num>(iii)</num>
+                      <p>motor vehicles and other means of transport used in connection with fire-fighting, and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.b.list0.iv">
+                      <num>(iv)</num>
+                      <p>uniforms and badges of rank;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“fire-station” means any post or place declared, generally or specially, by the State Government to be a fire-station;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“Force” means the Karnataka Fire Force maintained under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“officer-in-charge of a fire-station” includes, when the officer-in-charge of the fire-station is absent from the station or unable from illness or other cause to perform his duties, the fire officer present at the station who is next in rank to such officer;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“prescribed” means prescribed by rules made under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Maintenance of the Fire Force</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Maintenance of Fire Force.</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>There shall be maintained by the State Government a Fire Force to be called the Karnataka Fire Force for services in the local areas in which this Act is in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Appointment of Director of Fire Force.</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <p>The State Government shall appoint a person to be the Director of Fire Force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Superintendence and control of the Force.</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the control of the State Government, the superintendence and control of the Force shall vest in the Director and shall be carried on by him in accordance with the provisions of this Act and of any rules made thereunder.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may appoint such officers as it may deem fit to assist the Director in the discharge of his duties.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Appointment of members of the Force.</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>The Director or such other officer of the Force as the State Government may authorise in this behalf shall appoint members of the Force in accordance with the rules made under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Issue of certificate to members of Force.</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Every person shall, on appointment to the Force, receive a certificate in the prescribed form under the seal of the Director or an officer authorised in this behalf by the State Government; and thereupon such person shall have the powers, functions and privileges of a member of the Force under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The certificate referred to in sub-section (1) shall cease to have effect when the person named therein ceases for any reason to be member of the Force; and on his ceasing to be such member, he shall forthwith surrender the certificate to any officer empowered to receive the same.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>During any term of suspension, the powers, functions and privileges vested in any member of the Force shall be in abeyance; but such member shall continue to be subject to the same discipline and penalties as he would have been if he had not been suspended.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Auxiliary Fire Force.</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Whenever it appears to the State Government that it is necessary to augment the Force, it may raise an auxiliary force by enrolment of volunteers for such area and on such terms and conditions as it may deem fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-8.2.list1">
+                <listIntroduction>Every member of the auxiliary force enrolled under sub-section (1) shall,—</listIntroduction>
+                <item id="section-8.2.list1.a">
+                  <num>(a)</num>
+                  <p>receive a certificate in a form approved by the State Government;</p>
+                </item>
+                <item id="section-8.2.list1.b">
+                  <num>(b)</num>
+                  <p>be vested with all or such of the powers, privileges and duties of a member of the Force as are specially mentioned in the certificate; and</p>
+                </item>
+                <item id="section-8.2.list1.c">
+                  <num>(c)</num>
+                  <p>be subject to the orders of the Director.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Powers of the state government, the director and members of the force</heading>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Power of State Government to make regulations.</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <blockList id="section-9.paragraph-0.list1">
+                <listIntroduction>The State Government may, by notification in the official Gazette, make such regulations as it thinks fit,</listIntroduction>
+                <item id="section-9.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>for providing the Force with such of water and for equipments as it deems proper;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>for providing adequate supply of water and for securing that it shall be available for use;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>for constructing or providing stations or hiring places for accommodating the members of the Force and its fire-fighting appliances;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>for giving rewards to persons who have given notice of fires and to those who have rendered effective service to the Force on the occurrence of fires;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>for the training, discipline and good conduct of the members of the Force;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>for the speedy attendance of members of the Force with necessary appliances and equipment on the occasion of any alarm of fire;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>for sending members of the Force with appliances and equipment beyond the limits of any area in which this Act is in force for purpose of fire fighting in the neighborhood of such limits;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>for the employment of the members of the Force in any rescue, salvage or other similar work;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>for regulating and controlling the powers, duties and functions of the Director; and</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>generally for the maintenance of the Force in a due state of efficiency.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Powers of members of the Force on occurrence of fire.</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <blockList id="section-10.paragraph-0.list1">
+                <listIntroduction>On the occurrence of fire in any area in which this Act is in force, any member of the Force who is in charge of fire-fighting operations on the spot may—</listIntroduction>
+                <item id="section-10.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>remove, or order any other member of the Force to remove any person who by his presence interferes with or impedes the operation for extinguishing the fire or fox saving life or property;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>close any street or passage in or near which a fire is burning;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>for the purpose of extinguishing fire, break into or break through or pull down, any premises for the passage of hose or appliances or cause them to be broken into or broken through or pulled down, doing as little damage as possible;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>require the authority in charge of water supply in the area to regulate the water mains so as to provide water at a specified pressure at the place where fire has broken out and utilise the water of any stream, cistern, well or tank or of any available source of water, public or private, for the purpose of extinguishing or limiting the spread of such fire;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>exercise the same powers for dispersing as assembly of persons likely to obstruct the fire-fighting operations as if he were an officer-in-charge of a police station and as if such an assembly were an unlawful assembly and shall be entitled to the same immunities and protection as such an officer, in respect of the exercise of such powers;</p>
+                </item>
+                <item id="section-10.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>generally take such measures as may appear to him to be necessary for extinguishing the fire or for the protection of life or property.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power of Director to make arrangements for supply of water.</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>The Director may, with the previous sanction of the State Government, enter into an agreement with the authority in charge of water supply in any area for securing an adequate supply of water in case of fire, on such terms as to payment or otherwise as may be specified in the agreement.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Power of Director to enter into arrangements for assistance.</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The Director may, with the previous sanction of the State Government, enter into arrangements with any person who employs and maintains personnel or equipment or both for fire-fighting purposes, to secure, on such terms as to payment or otherwise as may be provided by or under the arrangements, the provisions by that person of assistance for the purpose of dealing with fires occurring in any area in which this Act is in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Preventive measures.</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may by notification in the official Gazette, require owners or occupiers of premises in any area or any class of premises used for purposes which in its opinion are likely to cause a risk of fire, to take such precautions as may be specified in such notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a notification has been issued under sub-section (1), it shall be lawful forthe Director or any officer of the Force authorised by the State Government in this behalf to direct the removal of objects or goods likely to cause a risk of fire, to a place of safety; and on failure of the owner or occupier to do so, the Director or such officer may, after giving the owner or occupier a reasonable opportunity of making representation, seize, detain or remove such objects or goods.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Expenditure on maintenance of force</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Expenditure on the Force.</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>The entire expenditure in connection with the Force shall be met out of the Consolidated Fund of the State.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, the local authority of any area in which this Act is in force shall pay to the State Government such contribution towards the cost of the portion of the Force maintained in that area as the State Government may direct from time to time.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Levy of fire tax.</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may levy a cess called fire tax on lands and buildings which are situated in any area in which this Act is in force and on which property tax by whatever name called is levied by any local authority in that area.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The fire tax shall be levied in the form of a surcharge on the property tax at such rate not exceeding ten percent of such property tax as the State Government may, by notification, in the official Gazette , determine.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Mode of assessment, collection, etc., of fire tax.</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>The authorities for the time being empowered to assess, collect and enforce payment of property tax under the law authorising the local authority of the area to levy such tax shall, on behalf of the State Government and subject to any rules made under this Act, assess, collect and enforce payment of the fire tax in the same manner as the property tax is assessed, paid and collected; and for this purpose, they may exercise all or any of the powers they have under the law aforesaid and the provisions of such law including provisions relating to returns, appeals, reviews, revisions, references and penalties shall apply accordingly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Such portion of the total proceeds of the fire tax as the State Government may determine shall be deducted to meet the cost of collection of the tax.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>The proceeds of the fire tax collected under this Act reduced by the cost of collection shall be paid to the State Government in such manner and at such intervals as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Fees.</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>Where members of the Force are sent beyond the limits of any area in which this Act is in force, in order to extinguish a fire in the neighbourhood of such limits, the owner or occupier of the premises where the fire occurred or spread shall be liable to pay such fee as may be prescribed in this behalf: Provided that in case where members of the Force are so sent in order to extinguish a fire occurring in or spreading to a hay stack, a fodder stack or a thatched hut, the owner or occupier of the premises where such fire occurred or spread shall not be liable to pay such fee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The fee referred to in sub-section (1) shall be payable within thirty days of the service of a notice of demand by the Director on the owner or occupier and if it is not paid within that period, it shall be recoverable as an arrear of land revenue.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Transfer of assets and liabilities of fire service of local authority</heading>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Transfer of assets and liabilities of Fire Service of Local Authority.</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>On the date on which this Act comes into force in an area within the jurisdiction of a local authority (hereinafter in this Chapter referred to as the appointed day), all the assetsand liabilities appertaining to the Fire Service maintained by such local authority shall stand transferred to and vest in the State Government. (2) The assets appertaining to the Fire Service shall be deemed to include all rights and powers, and all property whether movable or immovable appertaining to the Fire Service including in particular all fire fighting property and all interests and rights in or arising out of such property as may be in possession of the local authority and all books of account or documents relating to the Fire Service of the local authority; and liabilities shall be deemed to include all debts, liabilities and obligations of whatever kind then existing and appertaining to the Fire Service of the local authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Provident, superannuation and other like funds.</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>Where a local authority referred to in sub-section (1) of section 18, has established a provident fund or superannuation fund or any other like fund for the benefit of the employees of such local authority, the money standing to the credit of any such fund on the appointed day together with any other assets belonging to such fund, shall in so far as they relate to employees of the local authority who become employees of the State Government under section 21, stand transferred to and vest in the State Government on the appointed day.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>The apportionment under sub-section (1) shall be made by the State Government, and its decision in this behalf shall be final and binding on the local authority.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>General effect of transfer of assets and liabilities of Fire Service of a local authority.</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>All contracts, agreements and other instruments of whatever nature subsisting or having effect immediately before the appointed day and to which a local authority referred to in sub-section (1) of section 18 is a party or which are in favour of such local authority shall in so far as they relate to the Fire Service of the local authority be of as full force and effect against or in favour of the State Government, as the case may be, and may be enforce or acted upon as fully and effectually as if, instead of the local authority, the State Government had been a party thereto or as if they had been entered into or issued in favour of the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>If on the appointed day any suit, appeal or other legal proceeding of whatever nature is pending by or against a local authority referred to in sub-section (1) of section 18, then, in so far as it relates to the Fire Service of such local authority, it shall not abate, be discontinued or be in any way prejudicially affected by reason of the transfer of the assets and liabilities of the local authority in so far as they relate to such Fire Service, but the suit, appeal or other proceeding may be continued, prosecuted or enforced by or against the State Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Transfer of service of employees of local authority.</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>Every whole-time employee of a local authority referred to in sub-section (1) of section 18 and who was employed by such local authority wholly or mainly in connection with the Fire Service of such local authority immediately before the appointed day, shall, on and from the appointed day, become an employee of the State Government, and shall hold his office under the State Government on the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension and gratuity and other matters as he would have held the same under the local authority as if its assets and liabilities relating to the Fire Service had not been transferred to the State Government, and shall continue to do so unless and until his remuneration, terms and conditions are duly altered by the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>If any question arises whether any person was a whole-time employee of a local authority or as to whether any employee was employed wholly or mainly in connection with the Fire Service of a local authority immediately before the appointed day, the question shall be decided by the State Government and its decision shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Duty to deliver possession of property and documents relating thereto.</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any property has been transferred to and vested in the State Government under section 18, every person in whose possession or custody or underwhose control the property may be, shall deliver the property to the State Government forthwith, and until it is so delivered, such person shall from the appointed day, be deemed to be in possession, custody or control of the property on behalf of the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who, on the appointed day, has in his possession or custody or under his control any books, documents or other papers which have been transferred to and vested in the State Government under section 18 shall be liable to account for the said books, documents and the papers to the State Government and shall deliver to the State Government or to such person as the State Government may direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>Without prejudice to the other provisions contained in this section, it shall be lawful for the State Government to take all necessary steps for securing possession of all properties which have been transferred to and vested in the State Government under this Chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Penalties</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Penalty for violation of duty, etc.</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <blockList id="section-23.paragraph-0.list1">
+                <listIntroduction>Any member of the Force who,—</listIntroduction>
+                <item id="section-23.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>is found to be guilty of any violation of duty or wilful breach of any provision of this Act or any rule or order made thereunder, or</p>
+                </item>
+                <item id="section-23.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>is found to be guilty of cowardice, or</p>
+                </item>
+                <item id="section-23.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>withdraws from the duties of his office without permission or without having given previous notice of at least two months, or</p>
+                </item>
+                <item id="section-23.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>being absent on leave fails without reasonable cause to report himself for duty on the expiration of such leave, or</p>
+                </item>
+                <item id="section-23.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>accepts any other employment or office in contravention of the provisions of Section 28, shall be punishable with imprisonment which may extend to three months or with fine which may extend to an amount not exceeding three months’ pay of such members or with both.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23A">
+          <num>23A.</num>
+          <heading>Penalty for causing disaffection etc.</heading>
+          <paragraph id="section-23A.paragraph-0">
+            <content>
+              <p>Whoever intentionally causes or attempts to cause or does any act, which he knows is likely to cause, disaffection towards the Government established by law in India, among the members of the Force, or induces or attempts to induce or does any act which he knows is likely to induce, any member of the Force to withhold his services or to commit a breach of discipline shall be punished with imprisonment for a term which may extend to six months or with fine which may extend to two hundred rupees, or with both.</p>
+              <p>Explanation: Expression of disapprobation of the measures of the Government with a view to obtain their alteration by lawful means, or of the disapprobation of the administrative or other action of the Government, do not constitute an offence under this section unless they cause or are made for the purpose of causing or likely to cause disaffection.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Failure to give information.</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Any person who without just cause fails to communication information in his possession regarding an outbreak of fire as required by Section 37, shall be punishable with simple imprisonment which may extend to one month or with fine which may extend to five hundred rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Failure to take precautions.</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Whoever fails without reasonable cause to comply with any of the requirements specified in a notification issued under sub-section (1) of Section 13 or of a direction issued under sub-section (2) of that section shall be punishable with fine which may extend to five hundred rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Wilfully obstructing fire-fighting operations.</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>Any person who wilfully obstructs or interferes with any member of the Force who is engaged in fire-fightingoperations shall be punishable with imprisonment which may extend to three months or with fine which may extend to five hundred rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>False report.</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>Any person who knowingly gives or causes to be given a false report of the outbreak of a fire to any person authorised to receive such report by means of a treatment, message or otherwise shall be punishable with imprisonment which may extend to three months or with fine which may extend to five hundred rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>General and miscellaneous</heading>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Bar to other employment.</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>No member of the Force shall engage in any employment or office whatsoever other than his duties under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Transfer to other area.</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>The Director or any officer authorised by the State Government in this behalf may, on the occasion of a fire or other emergency in any neighbouring area in which this Act is not in force, order the despatch of the members of the Force with necessary appliances and equipments to carry on fire-fighting operations such neighbouring area and thereupon notwithstanding the provisions of sub-section (3) of Section 1, all the provisions of this Act and the rules made thereunder shall apply to such area, during the period of fire or emergency or during such period as the Director may specify.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Employment on other duties.</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>It shall be lawful for the State Government or any officer authorised by it in this behalf to employ the Force in any rescue, salvage or other work for which it is suitable by reason of its training, appliances and equipment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Liability of property owner to pay compensation.</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person whose property catches fire on account of any action of his own or of his agent done deliberately or negligently shall be liable to pay compensation to any other person suffering damage to his property on account of any action taken under Section 10 of this Act by any officer mentioned therein or any person acting under the authority of such officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>All claims under sub-section (1) shall be preferred to the Deputy Commissioner within thirty days from the date when the damage was caused.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.3">
+            <num>(3)</num>
+            <content>
+              <p>The Deputy Commissioner shall, after giving the parties an opportunity of being heard, determine the amount of compensation due and pass an order stating such amount and the person liable for the same, and the order so passed shall have the force of a decree of a civil court.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Power to obtain information.</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>Any officer of the Force not below the rank of officer in-charge of a fire-station may for the purpose of discharging his duties under this Act require the owner or occupier of any building or other property, to furnish information with respect to the character of such building or other property, the available water supplies and the means of access thereto and other material particulars, and such owner or occupier shall furnish all the information in his possession.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Power of entry.</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>The Director or any member of the Force authorised by him in this behalf may enter any of the places specified in any notification issued under section 13 for the purpose of determining whether precautions against fire required to be taken on such place have been so taken.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <p>Save as otherwise expressly provided in this Act, no claim shall lie against any person for compensation for any damage necessarily caused by any entry under sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Consumption of water.</heading>
+          <paragraph id="section-34.paragraph-0">
+            <content>
+              <p>No charge shall be made by any local authority or other person for water consumed in fire-fighting operations by the Force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>No compensation for interruption of water supply.</heading>
+          <paragraph id="section-35.paragraph-0">
+            <content>
+              <p>No authority in charge of water supply in an area shall be liable to any claim for compensation for damage byreason of any interruption of supply of water occasioned only by compliance of such authority with the requirement specified in clause (d) of section 10.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Police Officers to aid.</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>It shall be the duty of police officers of all ranks to aid the members of the Force in the execution of their duties under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Information on outbreak of fire.</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>Any person who possesses any information regarding an outbreak of fire shall communicate the same without delay to the nearest fire station.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Indemnity.</heading>
+          <paragraph id="section-38.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against any person for anything which is in good faith done or intended to be done in pursuance of this Act or any rule or order made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Power to make rules.</heading>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification in the official Gazette, make for carrying out the purpose of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-39.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the forgoing power, such rules may provide for,—</listIntroduction>
+                <item id="section-39.2.list1.a">
+                  <num>(a)</num>
+                  <p>the number and grades of officers and members of the Force;</p>
+                </item>
+                <item id="section-39.2.list1.b">
+                  <num>(b)</num>
+                  <p>the manner of appointment of members of the Force;</p>
+                </item>
+                <item id="section-39.2.list1.c">
+                  <num>(c)</num>
+                  <p>the form of the certificate to be issued to the members of the Force;</p>
+                </item>
+                <item id="section-39.2.list1.d">
+                  <num>(d)</num>
+                  <p>the conditions of service of the members of the Force including their ranks, pay and allowances, hours of duty and leave, maintenance of discipline and removal from service;</p>
+                </item>
+                <item id="section-39.2.list1.e">
+                  <num>(e)</num>
+                  <p>the circumstances in which and the conditions subject to which members of the Force may be despatched to carry on fire-fighting operations in neighbouring areas;</p>
+                </item>
+                <item id="section-39.2.list1.f">
+                  <num>(f)</num>
+                  <p>the conditions subject to which members of the Force may be employed on rescue, salvage or other work;</p>
+                </item>
+                <item id="section-39.2.list1.g">
+                  <num>(g)</num>
+                  <p>the manner in which and the intervals at which the proceeds of the fire tax levied under this Act shall be paid to the State Government;</p>
+                </item>
+                <item id="section-39.2.list1.h">
+                  <num>(h)</num>
+                  <p>the manner of service of notice under this Act;</p>
+                </item>
+                <item id="section-39.2.list1.i">
+                  <num>(i)</num>
+                  <p>for the determination of the question whether any property appertains to the Fire Service maintained by a local authority or whether any rights, powers, liabilities or obligations were acquired or incurred or any contract or agreement or other instrument was made by the local authority for the purposes of the Fire Service or whether any documents relate to those purposes;</p>
+                </item>
+                <item id="section-39.2.list1.j">
+                  <num>(j)</num>
+                  <p>the payment of rewards to persons, not being members of the Force, who render services for fire-fighting purposes;</p>
+                </item>
+                <item id="section-39.2.list1.k">
+                  <num>(k)</num>
+                  <p>the compensation payable to members of the Force in case of accidents or to their dependents in case of death while engaged on duty;</p>
+                </item>
+                <item id="section-39.2.list1.l">
+                  <num>(l)</num>
+                  <p>the employment of members of the Force or use of any equipment outside the area or on special services fee payable therefor; and</p>
+                </item>
+                <item id="section-39.2.list1.m">
+                  <num>(m)</num>
+                  <p>any other matter which is to be or may be prescribed.</p>
+                </item>
+              </blockList>
+              <p>(3 ) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Repeal and saving.</heading>
+          <subsection id="section-40.1">
+            <num>(1)</num>
+            <content>
+              <p>If immediately before the day on which this Act comes into force in an area, there is in force in that area any law, rule, regulation or bye-law having the force of law which corresponds to any provision of this Act, such law, rule, regulation or bye-law, shall so far as it relates to any matter for which provision has been made in this Act shall on that day stand repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-40.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-40.2.list1">
+                <listIntroduction>Notwithstanding the repeal of any law, rule, regulation or bye-law by sub-section (1), the general responsibility of any local authority under the law governing such authority, shall not be deemed to be limited, or modified, in so far as such law requires the local authority,—</listIntroduction>
+                <item id="section-40.2.list1.a">
+                  <num>(a)</num>
+                  <p>to provide and maintain such water supply and fire hydrants for fire-fighting purposes as may be directed by the State Government from time to time;</p>
+                </item>
+                <item id="section-40.2.list1.b">
+                  <num>(b)</num>
+                  <p>to frame bye-laws for the regulation of dangerous trades;</p>
+                </item>
+                <item id="section-40.2.list1.c">
+                  <num>(c)</num>
+                  <p>to order any of its employees to render aid in fighting a fire when reasonably called upon to do so by any member of the Force; and</p>
+                </item>
+                <item id="section-40.2.list1.d">
+                  <num>(d)</num>
+                  <p>generally to take such measures as will lessen the likelihood of fires or preventing the spread of fires.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

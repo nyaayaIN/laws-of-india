@@ -1,0 +1,564 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1974/32/main"/>
+          <FRBRuri value="/in-kar/act/1974/32"/>
+          <FRBRalias value="The Karnataka Public Premises (Eviction Of Unauthorised Occupants) Act, 1974"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1974/32/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/1974/32/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1974/32/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/1974/32/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka Public Premises (Eviction Of Unauthorised Occupants) Act, 1974</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[7th October, 1974]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 32 of 1974</p>
+        <p>An Act to provide for the eviction of unauthorised occupants from public premises and for certain incidental matters.</p>
+        <p>WHEREAS it is expedient to provide for the eviction of unauthorised occupants from public premises and for matters connected therewith or incidental thereto;</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by the Karnataka State Legislature in the Twenty-fifth Year of the Republic of India as follows :-</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Karnataka Public Premises (Eviction of Unauthorised Occupants) Act, 1974.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of the State of Karnataka.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall be deemed to have come into force on the 18th January, 1962 except sections 12 and 19 which shall come into force at once.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“competent officer” means an officer appointed as such by the State Government under section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“corporate authority” means, any company or corporation referred to in sub-clauses (ii) and (iii) of clause (e) of this section;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <blockList id="section-2.paragraph-0.list1.c.list0">
+                  <listIntroduction>“premises” means any land or any building or hut or part of a building or hut and includes,-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.c.list0.i">
+                    <num>(i)</num>
+                    <p>the garden, grounds and out-houses if any, appurtaining to such building or hut or part of a building or hut; and</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.c.list0.ii">
+                    <num>(ii)</num>
+                    <p>any fittings affixed to such building or hut or part of a building or hut for the more beneficial enjoyment thereof;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-2.paragraph-0.list1.e.list1">
+                  <listIntroduction>“public premises” means any premises belonging to or allotted to State Government or taken on lease or requisitioned by or on behalf of the State Government and includes any premises belonging to or taken on lease by or on behalf of,-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.e.list1.i">
+                    <num>(i)</num>
+                    <p>a local authority;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list1.ii">
+                    <num>(ii)</num>
+                    <p>any company as defined in section 3 of the Companies Act, 1955 (Central Act 1 of 1956) in which not less than fifty one percent of the paid up share capital is held by the State Government; or any company which is a subsidiary (within the meaning of the said Act) of the first mentioned company";</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list1.iii">
+                    <num>(iii)</num>
+                    <p>any corporation (not being a company as defined in section 3 of the Companies, Act, 1956) established by or under a Central Act or a State Act and owned or controlled by the State Government; and</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list3">
+              <listIntroduction>(iii-a) the Institute for social and economic change, Bangalore.</listIntroduction>
+              <item id="section-2.paragraph-0.list3.iv">
+                <num>(iv)</num>
+                <p>a Notified Institution or Declared Institution under the Karnataka Hindu Religious Institutions and Charitable Endowments Act 1997.</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.v">
+                <num>(v)</num>
+                <p>a wakf registered with the Karnataka State Board of Wakfs;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.vi">
+                <num>(vi)</num>
+                <p>the State Government and the Government of Andhra Pradesh jointly, and under the management or administrative control of the Tungabhadra Board constituted by the Government of India under subsection (4) of section 66 of the Andhra State Act, 1953 (Central Act 30 of 1953).</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.vii">
+                <num>(vii)</num>
+                <p>a University established or deemed to have been established by or under any law of the State Legislature.</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.viii">
+                <num>(viii)</num>
+                <p>A Co-operative Society or a Federation of Co-operative Societiesestablished under any law in force in the State in which the Government Property or share is involved.</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list5">
+              <listIntroduction>Explanation.- For the purposes of this clause ‘local authority’ means,-</listIntroduction>
+              <item id="section-2.paragraph-0.list5.a">
+                <num>(a)</num>
+                <p>a municipal corporation;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.b">
+                <num>(b)</num>
+                <p>a town or city municipal council;</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.bb">
+                <num>(bb)</num>
+                <p>a market committee established under the Karnataka Agricultural Produce Marketing (Regulation) Act, 1966 (Karnataka Act 27 of 1966);</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.c">
+                <num>(c)</num>
+                <p>an Improvement Board established under the Karnataka Improvement Boards Act, 1976 (Karnataka Act 11 of 1976);</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.d">
+                <num>(d)</num>
+                <p>a Zilla Panchayat or Taluk Panchayat or a Grama Panchayat established under the Karnataka Panchayat Raj Act, 1993 (Karnataka Act 14 of 1993).</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.e">
+                <num>(e)</num>
+                <p>the Bangalore Development Authority constituted under the Bangalore Development Authority Act, 1976 (Karnataka Act 12 of 1976);</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.f">
+                <num>(f)</num>
+                <p>an Urban Development Authority constituted under the Karnataka Urban Development Authorities Act, 1987 (Karnataka Act 34 of 1987).</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.g">
+                <num>(g)</num>
+                <p>the Karnataka Slum Clearance Board established under the Karnataka Slum Areas (Improvement and Clearance) Act, 1973</p>
+              </item>
+              <item id="section-2.paragraph-0.list5.f">
+                <num>(f)</num>
+                <blockList id="section-2.paragraph-0.list5.f.list0">
+                  <listIntroduction>“rent” in relation to any public premises, means the consideration payable periodically for the authorised occupation of the premises and includes,-</listIntroduction>
+                  <item id="section-2.paragraph-0.list5.f.list0.i">
+                    <num>(i)</num>
+                    <p>any charge for electricity, water or any other services in connection with the occupation of the premises.</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list5.f.list0.ii">
+                    <num>(ii)</num>
+                    <p>any tax (by whatever name called) payable in respect of the premises, where such charge or tax is payable by the State Government, local authority or the corporate authority;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list5.g">
+                <num>(g)</num>
+                <p>“unauthorised occupation”, in relation to any public premises, means the occupation by any person of the public premises, without authority for such occupation, and includes the continuance in occupation by any person of the public premises after the authority (whether by way of grant or any other mode of transfer) under which he was allowed to occupy the premises has expired or has been determined for any reason whatsoever.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Appointment of competent officers.-</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list1">
+              <listIntroduction>The State Government may, by notification,-</listIntroduction>
+              <item id="section-3.paragraph-0.list1.a">
+                <num>(a)</num>
+                <blockList id="section-3.paragraph-0.list1.a.list0">
+                  <listIntroduction>appoint,-</listIntroduction>
+                  <item id="section-3.paragraph-0.list1.a.list0.i">
+                    <num>(i)</num>
+                    <p>in respect of its premises such officers, not below the rank of a Group B officer of the State Civil Services;</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.a.list0.ii">
+                    <num>(ii)</num>
+                    <p>in respect of any premises of a local authority such officers of the local authority or such officer not below the rank of Group "B" officer of the State Civil Services.</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.a.list0.iii">
+                    <num>(iii)</num>
+                    <p>in respect of any premises of a corporate authority, such officers of the corporate authority; and</p>
+                  </item>
+                  <item id="section-3.paragraph-0.list1.a.list0.iv">
+                    <num>(iv)</num>
+                    <p>in respect of any other premises, an officer of the State Civil services or of any other authority; as it thinks fit to be competent officers for the purpose of this Act; and</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>define the local limits within which or the categories of public premises in respect of which the competent officers shall exercise the powers conferred and perform the duties imposed, on competent officers by or under this Act</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Issue of notice to show cause against order of eviction.-</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>If the competent officer is of opinion that any persons are in unauthorised occupation of any public premises and that they should be evicted, the competent officer shall issue in the manner hereinafter provided a notice in writing calling upon all persons concerned to show cause why an order of eviction should not be made.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-4.2.list1">
+              <listIntroduction>The notice shall,-</listIntroduction>
+              <item id="section-4.2.list1.a">
+                <num>(a)</num>
+                <p>specify the grounds on which the order of eviction is proposed to be made; and</p>
+              </item>
+              <item id="section-4.2.list1.b">
+                <num>(b)</num>
+                <p>require all persons concerned, that is to say, all persons who are, or may be, in occupation of or claim interest in the public premises to show cause, if any, against the proposed order on or before such date as is specified in the notice, being a date not earlier than ten days from the date of issue thereof.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>The competent officer shall cause the notice to be served by having it affixed on the outer door or some other conspicuous part of the public premises, and in such other manner as may be prescribed whereupon thenotice shall be deemed to have been duly given to all persons concerned.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>Where the competent officer shows or has reason to believe that any persons are in occupation of the public premises then, without prejudice to the provisions of sub-section (3) he shall cause a copy of the notice to be served on every such person by registered post or by delivering or tendering it to that person or failing service by the means aforesaid in such other manner as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Eviction of unauthorised occupants.-</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>If, after considering the cause, if any, shown by any person in pursuance of a notice under section 4 and any evidence he may produce in support of the same and after giving him a reasonable opportunity of being heard, the competent officer is satisfied that the public premises are in unauthorised occupation, the competent officer may on a date to be fixed for the purpose, make an order of eviction, for reasons to be recorded therein, directing that the public premises shall be vacated by all persons who may be in occupation thereof or any part thereof, and cause a copy of the order to be affixed on the outer door or some other conspicuous part of the public premises.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>If any person refuses or fails to comply with the order of eviction within forty-five days from the date of affixture of the order under sub-section</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>, the competent officer or any, other officer duly authorised by the competent officer in this behalf may evict that person from, and take possession of, the public premises and may, for that purpose, use such force as may be necessary.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Disposal of property left on public premises by unauthorised occupants.-</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any persons have been evicted from any public premises under section 5, the competent officer may, after giving fourteendays’ notice to the persons from whom possession of the public premises has been taken and after publishing the notice in at least one newspaper having circulation in the locality and after proclaiming the contents of the notice in the locality by beat of drum, remove or cause to be removed or dispose of by public auction any property remaining on such premises.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any property is sold under sub-section (1) the sale proceeds shall, after deducting the expenses of the sale and the amount, if any, dueto the State Government or a local authority or a corporate authority on account of arrears of rent, damages or costs, be paid to such person or persons, as may appear to the competent officer to be entitled to the same:</p>
+            <p>Provided that where the competent officer is unable to decide as to the person or persons to whom the balance of the amount is payable or as to the apportionment of the same, he may refer such dispute to the civil court of competent jurisdiction and the decision of the court thereon shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Power to recover rent or damages in respect of public premises as arrears of land revenue.-</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any person is in arrears of rentpayable to the State Government or a local authority or a corporate authorityin respect of any public premises, the competent officer may, by order,require that person to pay the same within such time and in suchinstalments as may be specified in the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any person is, or has at any time been, in unauthorised occupation of any public premises, the competent officer may, having regard to such principles of assessment of damages as may be prescribed, assess the damages on account of the use and occupation of such premises and may, by order, require that person to pay the damages within such time and in such instalments as may be specified in the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>No order under sub-section (1) or sub-section (2) shall be made against any person until after the issue of a notice in writing to the person calling upon him to show cause within such time as may be specified in the notice why such order should not be made, and until his objections, if any, and any evidence he may produce in support of the same, have been considered by the competent officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Rent to be recovered by deduction from salary or wages of employee.-</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <p>Without prejudice to the provisions of section 7, where any person to whom public premises have been allotted is an employee of the State Government, or a local authority or a corporate authority and is inarrears of rent payable in respect of such public premises allotted to him,the amount of rent due in respect of such premises shall on a requisition in writing in that behalf by the competent officer be liable to be deducted from the salary or wages payable to such person. On receipt of such requisition, the head of the Government department or officer under whom such person is employed or the officer of a local authority or a corporate authority disbursing the salary of such person, as the case may be, shall deduct from the salary or wages payable to such person the amount specified in the requisition, and pay the amount so deducted to the competent officer in satisfaction of the amount due by him.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Powers of competent officers.-</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <blockList id="section-9.paragraph-0.list1">
+              <listIntroduction>A competent officer shall, for the purpose of holding any inquiry under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (Central Act 5 of 1908), when trying a suit, in respect of the following matters, namely :-</listIntroduction>
+              <item id="section-9.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+              </item>
+              <item id="section-9.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>requiring the discovery and production of documents;</p>
+              </item>
+              <item id="section-9.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>any other matter which may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Appeals.-</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>An appeal shall lie from every order of the competent officer made in respect of any public premises under section 5 or section 7 to an appellate officer who shall be the District Judge, having jurisdiction over the area.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-10.2.list1">
+              <listIntroduction>An appeal under sub-section (1) shall be preferred,-</listIntroduction>
+              <item id="section-10.2.list1.i">
+                <num>(i)</num>
+                <p>in the case of an appeal from an order under section 5 within thirty days from the date of affixture of the order under subsection</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-10.1.list1">
+              <listIntroduction>of that section; and</listIntroduction>
+              <item id="section-10.1.list1.ii">
+                <num>(ii)</num>
+                <p>in the case of an appeal from an order under section 7 within thirty days from the date on which the order is communicated to the appellant:</p>
+              </item>
+            </blockList>
+            <p>Provided that the appellate officer may entertain the appeal after theexpiry of the said period of thirty days, if he is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>Where an appeal is preferred from an order of the competent officer, the appellate officer may stay the enforcement of that order for such period and on such conditions as he deems fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>Every appeal under this section shall be disposed of by the appellate officer as expeditiously as possible.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.5">
+          <num>(5)</num>
+          <content>
+            <p>The cost of any appeal under this section shall be in the discretion of the appellate officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Finality of orders.-</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>Save as otherwise expressly provided in this Act, every order made by a competent officer or appellate officer under this Act shall be final and shall not be called in question in any original suit, application or execution proceedings and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Offences and penalty.-</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person who has been evicted from any public premises under this Act again occupies the premises without authority for such occupation, he shall be punishable with imprisonment for a term which may extend to one year or with fine which may extend to one thousand rupees or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>Any magistrate convicting a person under sub-section (1) may make an order for evicting that person summarily and he shall be liable to such eviction without prejudice to any other action that may be taken against him under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Power to obtain information.-</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>If the prescribed officer has reason to believe that any person or persons are in unauthorised occupation of anypublic premises, he or any other officer authorised by him in this behalf may</p>
+            <p>require those persons or any other person to furnish information relating to the names and other particulars of the persons in occupation of the public premises and every person so required shall be bound to furnish the information in his possession.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Liability of heirs and legal representatives.-</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any person against whom any proceeding for the determination of arrears of rent or for the assessment of damages is to be or has been taken dies before the proceeding is taken or during the pendency thereof, the proceeding may be taken or, as the case may be, continued against the heirs or legal representatives of that person.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>Any amount due to the State Government or the local authority or the corporate authority from any person whether by way of arrears of rent or damages or costs shall, after the death of the person, be payable by hisheirs or legal representatives but their liability shall be limited to the extent of the assets of the deceased in their hands.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Recovery of rent, etc. as an arrear of land revenue.-</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>If any person refuses or fails to pay the arrears of rent payable under sub-section (1) of section 7 or the damages payable under sub-section (2) of that section or the cost awarded to the State Government or the local authority or the corporate authority under sub-section (5) of section 10 or any portion of such rent, damages or costs within the time, if any, specified therefor in the order relating thereto, the competent officer may issue a certificate for the amount due to the Deputy Commissioner who shall proceed to recover the same as an arrear of land revenue.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Bar of jurisdiction.-</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>No court shall have jurisdiction to entertain any suit or proceeding in respect of the eviction of any person who is in unauthorised occupation of any public premises or the recovery of the arrears of rent payable under sub-section (1) of section 7 or the damages payable under sub-section (2) of that section or the costs awarded to the State Government or the local authority or the corporate authority under subsection (5) of section 10 or any portion of such rent, damages or costs.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Protection of action taken in good faith.-</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the State Government or the local authority or the corporate authority or the appellate officer or the competent officer in respect of anything which is in good faith done or intended to be done in pursuance of this Act or of any rules or orders made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power to make rules.-</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-18.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+              <item id="section-18.2.list1.a">
+                <num>(a)</num>
+                <p>the form of any notice required or authorised to be given under this Act and the manner in which it may be served;</p>
+              </item>
+              <item id="section-18.2.list1.b">
+                <num>(b)</num>
+                <p>the holding of inquiries under this Act;</p>
+              </item>
+              <item id="section-18.2.list1.c">
+                <num>(c)</num>
+                <p>the procedure to be followed in taking possession of public premises;</p>
+              </item>
+              <item id="section-18.2.list1.d">
+                <num>(d)</num>
+                <p>the manner in which and the principles according to which damages for unauthorised occupation may be assessed;</p>
+              </item>
+              <item id="section-18.2.list1.e">
+                <num>(e)</num>
+                <p>the manner in which appeals may be preferred and the procedure to be followed in appeals;</p>
+              </item>
+              <item id="section-18.2.list1.f">
+                <num>(f)</num>
+                <p>any other matter which has to be or may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section shall be laid, as soon as may be after it is made, before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions and if before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, so, however, that any such modification or annulment shall be without prejudice to the validity ofanything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Repeal and savings.-</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>The Karnataka Public Premises (Eviction of Unauthorised Occupants) Act, 1961 (Karnataka Act 3 of 1962) is hereby repealed :</p>
+            <p>Provided that the provisions of section 6 of the Karnataka General Clauses Act, 1899 (Karnataka Act III of 1899) shall be applicable in respect of the repeal of the said enactment and sections 8 and 24 of the said Act shall be applicable as if the said enactment had been repealed and re-enacted by this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
