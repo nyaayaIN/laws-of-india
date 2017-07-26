@@ -1,0 +1,110 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1899/23/main"/>
+          <FRBRuri value="/in-union/act/1899/23"/>
+          <FRBRalias value="The Church Of Scotland Kirk Sessions Act, 1899"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1899/23/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1899/23/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1899/23/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1899/23/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Church Of Scotland Kirk Sessions Act, 1899</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>Act NO. 23 OF 1899</docNumber>
+      </p>
+      <longTitle>
+        <p>An Act to provide for the Incorporation of Kirk Sessions of the Church  of Scotland in  India].</p>
+        <p>WHEREAS there are in  India] Kirk Sessions of the Church of</p>
+        <p>Scotland which have been duly constituted to be Church Courts for  ecclesiastical purposes in pursuance of Acts of the General Assembly  of the Church of Scotland;</p>
+        <p>And whereas it is expedient that such Kirk Sessions and any  others which may hereafter be so constituted, should be incorporated  with the powers hereinafter provided;</p>
+        <p>It is hereby enacted as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Church  of Scotland Kirk Sessions Act, 1899;</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except  the territories  which, immediately before the 1st November, 1956, were comprised in</p>
+          </content>
+        </subsection>
+      </section>
+      <part id="part-B">
+        <num>B</num>
+        <heading>States] .</heading>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Scotch Kirk Sessions to be bodies corporate.-</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <p>Every Kirk</p>
+              <p>Session which has been, or may hereafter be, duly constituted to be a</p>
+              <p>Church Court for ecclesiastical purposes in pursuance of an Act of the</p>
+              <p>General Assembly of the Church of Scotland, is hereby declared to be,</p>
+              <p>and the same shall be, a body corporate having perpetual succession  and a common seal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>A notification by the Central Government in the Official</p>
+              <p>Gazette that a Kirk Session has been duly constituted  in pursuance  of an Act of the General Assembly of the Church of Scotland shall be  conclusive proof that it has been so constituted.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Power to hold and dispose of property.-</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>Every Kirk Session  constituted as aforesaid shall, as a body corporate, have power to  acquire and hold any property which has been, or may hereafter be,</p>
+              <p>vested in it for the purposes of the Congregation for which it has  been, or may hereafter be, constituted, or of any trust which may have  been, or may hereafter be, accepted by it, to transfer the same, to  contract and to do all other things necessary for, or incidental to,</p>
+              <p>the purposes of its constitution or of any such trust as aforesaid.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The signature of the Moderator and Treasurer or Session- clerk  for the time being of a Kirk Session constituted as aforesaid shall,</p>
+              <p>if affixed on behalf and by order of the Kirk Session, be sufficient  for all purposes for which the signature of the Kirk Session is  required.</p>
+            </content>
+          </subsection>
+        </section>
+      </part>
+    </body>
+  </act>
+</akomaNtoso>

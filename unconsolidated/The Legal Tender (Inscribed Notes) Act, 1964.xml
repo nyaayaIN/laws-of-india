@@ -1,0 +1,101 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1964/28/main"/>
+          <FRBRuri value="/in-union/act/1964/28"/>
+          <FRBRalias value="The Legal Tender (Inscribed Notes) Act, 1964"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1964/28/eng@1964-09-30/main"/>
+          <FRBRuri value="/in-union/act/1964/28/eng@1964-09-30"/>
+          <FRBRdate date="1964-09-30" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1964/28/eng@1964-09-30/main"/>
+          <FRBRuri value="/in-union/act/1964/28/eng@1964-09-30"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Legal Tender (Inscribed Notes) Act, 1964</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 28 OF 1964</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 30th September, 1964.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to restrict the negotiability of currency and other notes  inscribed with messages of a political character.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Fifteenth Year of the Republic  of India as follows:-</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Legal</p>
+            <p>Tender (Inscribed Notes) Act, 1964.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Notes bearing messages of a political character not to be  legal tender. Notwithstanding anything contained in the Reserve Bank  of India Act, 1934 (2 of 1934), or in the Currency Ordinance,</heading>
+      </section>
+      <section id="section-1940">
+        <num>1940.</num>
+        <heading>(Ord. 4 of 1940), or in any other law for the time being in  force, a currency note of the Government of India, a bank note issued  by the Reserve Bank of India, or a Government of India one- rupee note  issued under the Currency Ordinance, 1940, which bears written upon it  any extrinsic words or visible representations intended to convey or  capable of conveying a message of a political character, shall not be  legal tender; and the Reserve Bank of India shall not be under any  legal obligation to receive any such note, or to issue rupee coin or  other coin or currency notes or bank notes in exchange for any such  note, or to refund the value of any such note:</heading>
+        <paragraph id="section-1940.paragraph-0">
+          <content>
+            <p>Provided that the Reserve Bank of India may refund as of grace  the whole or part of the value of any such note.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Repeal and savings.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The Legal Tender (Inscribed Notes)</p>
+            <p>Ordinance, 1942 (Ord. 59 of 1942), is hereby repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding such repeal, anything done or any action  taken under the said Ordinance, shall be deemed to have been done or  taken under this Act as If this Act were in force on the day on which  such thing was done or such action was taken.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

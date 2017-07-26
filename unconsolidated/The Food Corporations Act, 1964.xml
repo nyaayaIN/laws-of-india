@@ -1,0 +1,1792 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1964/37/main"/>
+          <FRBRuri value="/in-union/act/1964/37"/>
+          <FRBRalias value="The Food Corporations Act, 1964"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1964/37/eng@1964-12-10/main"/>
+          <FRBRuri value="/in-union/act/1964/37/eng@1964-12-10"/>
+          <FRBRdate date="1964-12-10" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1964/37/eng@1964-12-10/main"/>
+          <FRBRuri value="/in-union/act/1964/37/eng@1964-12-10"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Food Corporations Act, 1964</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 37 OF 1964</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 10th December, 1964.]</docDate>
+      </p>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Fifteenth Year of the Republic  of India as follows:--</p>
+        </formula>
+      </preamble>
+      <longTitle>
+        <p>An Act to provide for the establishment of Food Corporations for the  purpose of trading in foodsgrains and other foodstuffs and for matters  connected therewith and incidental thereto.</p>
+        <p>CHAP</p>
+        <p>PRELIMINARY</p>
+      </longTitle>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <paragraph id="chapter-I.paragraph-0">
+          <content>
+            <p>PRELIMINARY</p>
+          </content>
+        </paragraph>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be  called the Food Corporations Act, 1964.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India .</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date  as the Central</p>
+              <p>Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions. In this Act, unless the context otherwise  requires,--</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list0">
+                <item id="section-2.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>" Corporation" means the Food Corporation of India  established under section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <blockList id="section-2.paragraph-0.list0.b.list0">
+                    <listIntroduction>" Food Corporation" means the Food Corporation of India  established under section 3 or a State Food Corporation  established under section 17;</listIntroduction>
+                    <item id="section-2.paragraph-0.list0.b.list0.bb">
+                      <num>(bb)</num>
+                      <p>" foodstuffs" includes edible oilseeds and oils;.]</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list0.c">
+                  <num>(c)</num>
+                  <p>" prescribed" means prescribed by rules made under this</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.paragraph-0.list2">
+                <listIntroduction>Act;</listIntroduction>
+                <item id="section-2.paragraph-0.list2.d">
+                  <num>(d)</num>
+                  <p>" scheduled bank" means a bank for the time being  included in the Second Schedule to the Reserve Bank of</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.paragraph-0.list4">
+                <listIntroduction>India Act, 1934 (2 of 1934);</listIntroduction>
+                <item id="section-2.paragraph-0.list4.e">
+                  <num>(e)</num>
+                  <p>" State Food Corporation" means a State Food Corporation  established under section 17;</p>
+                </item>
+                <item id="section-2.paragraph-0.list4.f">
+                  <num>(f)</num>
+                  <p>" year" means the financial year.</p>
+                </item>
+              </blockList>
+              <p>CHAP</p>
+              <p>THE FOOD CORPORATION OF INDIA</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <paragraph id="chapter-II.paragraph-0">
+          <content>
+            <p>THE FOOD CORPORATION OF INDIA</p>
+          </content>
+        </paragraph>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Establishment of Food Corporation of India.</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>With effect  from such date  as the Central Government may, by notification in  the Official Gazette, specify in this behalf, the Central Government  shall establish for the purposes of this Act a Corporation known as  the Food Corporation of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The Corporation shall be a body corporate with the name  aforesaid, having perpetual succession and a common seal with power,</p>
+              <p>subject to the provisions of this Act, to acquire, hold and dispose of  property and to contract, and may, by that name, sue and be sued.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Offices and agencies.</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The head office of the Corporation  shall be at Madras or at such other place as the Central Government  may, by notification in the Official Gazette, specify.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The Corporation may establish offices or agencies at other  places in or outside India:</p>
+              <p>Provided that no such office or agency shall be established at  any place outside India without the previous approval of the Central</p>
+              <p>Government.]</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Capital of Corporation.</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The original capital of the</p>
+              <p>Corporation shall be such sum not exceeding one hundred crores of  rupees as the Central Government may fix.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government may from time to time increase the  capital of the Corporation to such extent and in such manner as that</p>
+              <p>Government may determine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>Such capital may be provided by the Central Government from  time to time after due appropriation made by Parliament by law for the  purpose and subject to such terms and conditions as may be determined  by that Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Management.</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>The general superintendence, direction and  management of the affairs and business of the Corporation shall vest  in a board of directors which may exercise all such powers and do all  such acts and things as may be exercised or done by the Corporation  under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The board of directors, in discharging its functions, shall  act on business principles having regard to the interests of the  producer and consumer and shall be guided by such instructions on  questions of policy as may be given to it by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>If any doubt arises as to whether a question is or is not a  question of policy, the decision of the Central Government thereon  shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Board of directors.</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The board of directors of the</p>
+              <blockList id="section-7.1.list2">
+                <listIntroduction>Corporation shall consist of the following, namely:--</listIntroduction>
+                <item id="section-7.1.list2.a">
+                  <num>(a)</num>
+                  <p>a Chairman;</p>
+                </item>
+                <item id="section-7.1.list2.b">
+                  <num>(b)</num>
+                  <blockList id="section-7.1.list2.b.list0">
+                    <listIntroduction>three directors to represent respectively the Ministries  of the Central Government dealing with--</listIntroduction>
+                    <item id="section-7.1.list2.b.list0.i">
+                      <num>(i)</num>
+                      <p>food,</p>
+                    </item>
+                    <item id="section-7.1.list2.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>finance, and</p>
+                    </item>
+                    <item id="section-7.1.list2.b.list0.iii">
+                      <num>(iii)</num>
+                      <p>co- operation;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-7.1.list2.c">
+                  <num>(c)</num>
+                  <p>the managing director of the Central Warehousing</p>
+                </item>
+              </blockList>
+              <p>Corporation established under section 3 of the</p>
+              <blockList id="section-7.1.list5">
+                <listIntroduction>Warehousing Corporations Act, 1962 (58 of 1962), ex  officio;</listIntroduction>
+                <item id="section-7.1.list5.d">
+                  <num>(d)</num>
+                  <p>a managing director;</p>
+                </item>
+                <item id="section-7.1.list5.e">
+                  <num>(e)</num>
+                  <p>six other directors.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>All the directors of the Corporation other than the director  referred to in clause (c) of sub- section (1) shall be appointed by the</p>
+              <p>Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-7.3.list1">
+                <listIntroduction>The managing director shall--</listIntroduction>
+                <item id="section-7.3.list1.a">
+                  <num>(a)</num>
+                  <p>exercise such powers and perform such duties as the  board of directors may entrust or delegate to him; and</p>
+                </item>
+                <item id="section-7.3.list1.b">
+                  <num>(b)</num>
+                  <p>receive such salary and allowances as the board of  directors may, with the approval of the Central</p>
+                </item>
+              </blockList>
+              <p>Government, fix:</p>
+              <p>Provided that the first managing director shall receive such  salary and allowances as the Central Government may fix.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.4">
+            <num>(4)</num>
+            <content>
+              <p>The term of office of, and the manner of filling casual  vacancies among, the directors of the Corporation, other than the  director referred to in clause (c) of sub- section (1), and the other  terms and conditions of appointment of the directors of the</p>
+              <p>Corporation shall, subject to the provisions of sub- section (3), be  such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Disqualification for office of director. A person shall be  disqualified for being appointed as, and for being, a director of the</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <blockList id="section-8.paragraph-0.list1">
+                <listIntroduction>Corporation--</listIntroduction>
+                <item id="section-8.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>if he is, or at any time has been, adjudicated insolvent  or has suspended payment of his debts or has compounded  with his creditors; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>if he is of unsound mind and stands so declared by a  competent court; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>if he is or has been convicted of any offence which in  the opinion of the Central Government involves moral  turpitude; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>if he has been removed or dismissed from the service of  the Government or a corporation owned or controlled by  the Government; or</p>
+                </item>
+                <item id="section-8.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>except in the case of the Chairman or the managing  director, if he is a salaried official of the Food</p>
+                </item>
+              </blockList>
+              <p>Corporation of India or a State Food Corporation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Removal and resignation of directors.</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central</p>
+              <p>Government may, at any time, after consultation with the Corporation,</p>
+              <p>remove the managing director from office after giving him a reasonable  opportunity of showing cause against the proposed removal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-9.2.list1">
+                <listIntroduction>The board of directors may remove any director from office  who--</listIntroduction>
+                <item id="section-9.2.list1.a">
+                  <num>(a)</num>
+                  <p>is or has become subject to any of the disqualifications  mentioned in section 8; or</p>
+                </item>
+                <item id="section-9.2.list1.b">
+                  <num>(b)</num>
+                  <p>is absent without leave of the board of directors from  more than three consecutive meetings thereof without  cause sufficient, in the opinion of the board, to  exonerate his absence.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>A director of the Corporation may resign his office by giving  notice thereof in writing to the Central Government and on such  resignation being accepted, he shall be deemed to have vacated his  office.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Meetings.</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>The board of directors of the Corporation shall  meet at such times and places and shall observe such rules of  procedure in regard to the transaction of business at its meetings</p>
+              <p>(including the quorum at meetings) as may be provided by regulations  made by the Corporation under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman of the board or, if for any reason he is unable  to attend any meeting, any other director elected by the directors  present at the meeting, shall preside at the meeting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>All questions which come up before any meeting of the board  shall be decided by a majority of the votes of the directors present  and voting, and, in the event of an equality of votes, the Chairman,</p>
+              <p>or in his absence, the person presiding, shall have and exercise a  second or casting vote.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Advisory Committees.</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, in  consultation with the Corporation, by notification in the Official</p>
+              <p>Gazette, constitute one or more Advisory Committees consisting of such  persons and on such terms and conditions as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall be the duty of any such Advisory Committee to advise  the Central Government or the Corporation in regard to any matter  connected with the purposes of this Act in respect of which its advice  is sought by the Central Government, or, as the case may be, by the</p>
+              <p>Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>The expenses in relation to the Advisory Committees shall be  met by the Corporation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Officers and other employees of Corporation.</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central</p>
+              <p>Government shall, after consultation with the Corporation, appoint a  person to be the Secretary of the Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to such rules as may be made by the Central</p>
+              <p>Government in this behalf, the Corporation may appoint such other  officers and employees as it considers necessary for the efficient  performance of its functions.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-12.3.list1">
+                <listIntroduction>The methods of appointment, the conditions of service and the  scales of pay of the officers and other employees of the Corporation  shall--</listIntroduction>
+                <item id="section-12.3.list1.a">
+                  <num>(a)</num>
+                  <p>as respects the Secretary, be such as may be prescribed;</p>
+                </item>
+                <item id="section-12.3.list1.b">
+                  <num>(b)</num>
+                  <p>as respects the other officers and employees, be such as  may be determined by regulations made by the</p>
+                </item>
+              </blockList>
+              <p>Corporation under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12A">
+          <num>12A.</num>
+          <heading>Special provisions for transfer of Government employees  to the Corporation in certain cases.</heading>
+          <subsection id="section-12A.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Central Government  has ceased or ceases to perform any functions which under section 13  are functions of the Corporation, it shall be lawful for the Central</p>
+              <p>Government to transfer,</p>
+              <p>by order and with effect from such date or dates (which may be either  retrospective to any date not earlier than the 1st January, 1965, or   prospective) as may be specified in the order, to the Corporation any  of the officers or employees serving in the Department of the Central</p>
+              <p>Government dealing with food or any of its subordinate or attached  offices and engaged in the performance of those functions:</p>
+              <p>Provided that no order under this sub- section shall be made in  relation to any officer or employee in such Department or office who  has, in respect of the proposal of the Central Government to transfer  such officer or employee to the Corporation, intimated within such  time as may be specified in this behalf by that Government, his  intention of not becoming an employee of the Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12A.2">
+            <num>(2)</num>
+            <content>
+              <p>In making an order under sub- section (1), the Central</p>
+              <p>Government shall, as far as may be, take into consideration the  functions which the Central Government has ceased or ceases to perform  and the areas in which such functions have been or are performed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12A.3">
+            <num>(3)</num>
+            <content>
+              <p>An officer or other employee transferred by an order made  under sub- section (1) shall, on and from the date of transfer, cease  to be an employee of the Central Government and become an employee of  the Corporation with such designation as the Corporation may determine  and shall,  subject to the provisions of sub- sections (4), (4A),</p>
+            </content>
+          </subsection>
+          <subsection id="section-12A.4B">
+            <num>(4B)</num>
+            <content>
+              <p>, (4C), (5) and (6)], be governed by the regulations made by the</p>
+              <p>Corporation under this Act as respects remuneration and other  conditions of service including pension, leave and provident fund, and  shall continue to be an officer or employee of the Corporation unless  and until his employment is terminated by the Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12A.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-12A.4.list1">
+                <listIntroduction>Every officer or other employee transferred by an order made  under sub- section (1) shall, within six months from the date of  transfer, exercise his option in writing to be governed,--</listIntroduction>
+                <item id="section-12A.4.list1.a">
+                  <num>(a)</num>
+                  <p>by the scale of pay applicable to the post held by him  under the Government immediately before the date of  transfer or by the scale of pay applicable to the post  under the Corporation to which he is transferred.</p>
+                </item>
+                <item id="section-12A.4.list1.b">
+                  <num>(b)</num>
+                  <p>by the leave, provident fund, retirement or other  terminal benefits admissible to employees of the</p>
+                </item>
+              </blockList>
+              <p>Central Government in accordance with the rules and  orders of the Central Government as amended from time  to time or the leave, provident fund or other terminal  benefits admissible to the employees of the Corporation  under the</p>
+              <p>regulations made by the Corporation under this Act, and  such option once exercised shall be final:</p>
+              <p>Provided that the option exercised under clause (a) shall be  applicable only in respect of the post to which such officer or  employee is transferred to the Corporation and on appointment to a  higher post under the Corporation, he shall be eligible only for the  scale of pay applicable to such higher post:</p>
+              <p>Provided further that if immediately before the date of his  transfer any such officer or employee is officiating in a higher post  under the Government either in a leave vacancy or in any other vacancy  of a specified duration, his pay, on transfer, shall be protected for  the unexpired period of such vacancy and thereafter he shall be  entitled to the scale of pay applicable to the post under the</p>
+              <p>Government to which he would have reverted or to the scale of pay  applicable to the post under the Corporation to which he is  transferred, whichever he may opt:</p>
+              <p>Provided also that when an officer or other employee serving in  the Department of the Ministry of the Central Government dealing with  food or in any of its attached or subordinate offices is promoted to  officiate in a higher post in the Department or office subsequent to  the transfer to the Corporation of any other officer or employee  senior to him in that Department or office before such transfer, the  officer or other employee who is promoted to officiate in such higher  post shall, on transfer to the Corporation, be entitled only to the  scale of pay applicable to the post he would have held but for such  promotion or the scale of pay applicable to the post under the</p>
+              <p>Corporation to which he is transferred, whichever he may opt.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12A.4A">
+            <num>(4A)</num>
+            <content>
+              <blockList id="section-12A.4A.list1">
+                <listIntroduction>Notwithstanding anything contained in sub- section (4),--</listIntroduction>
+                <item id="section-12A.4A.list1.a">
+                  <num>(a)</num>
+                  <p>every officer or other employee in respect of whom an  order of transfer under sub- section (1) had been made before the  date of commencement of the Food Corporations (Amendment) Act,</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-1977">
+          <num>1977.</num>
+          <heading>(hereafter in this section referred to as the appointed day)</heading>
+          <paragraph id="section-1977.paragraph-0">
+            <content>
+              <p>shall, whether or not he had exercised the option under sub-</p>
+              <blockList id="section-1977.paragraph-0.list2">
+                <listIntroduction>section (4) before the appointed day, exercise such option within  six months from the appointed day; and</listIntroduction>
+                <item id="section-1977.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>every officer or other employee in respect of whom an  order of transfer under sub- section (1) may be made after the  appointed day shall, within six months from the date or such  order, exercise his option under sub- section (4),</p>
+                </item>
+              </blockList>
+              <p>and in each such case such option once exercised shall be final:</p>
+              <blockList id="section-1977.paragraph-0.list5">
+                <listIntroduction>Provided that where an officer or other employee having exercised  an option under sub- section (4) before the appointed day--</listIntroduction>
+                <item id="section-1977.paragraph-0.list5.i">
+                  <num>(i)</num>
+                  <p>has died or retired before the appointed day, or dies or  retires after the appointed day, before exercising the option as  required by this sub- section, or</p>
+                </item>
+                <item id="section-1977.paragraph-0.list5.ii">
+                  <num>(ii)</num>
+                  <p>does not exercise the option as required by this sub-</p>
+                </item>
+              </blockList>
+              <p>section,</p>
+              <p>the option already exercised by him shall be deemed to have been  validly exercised by him under sub- section (4).</p>
+            </content>
+          </paragraph>
+          <subsection id="section-1977.4B">
+            <num>(4B)</num>
+            <content>
+              <blockList id="section-1977.4B.list1">
+                <listIntroduction>Where an officer or other employee--</listIntroduction>
+                <item id="section-1977.4B.list1.a">
+                  <num>(a)</num>
+                  <p>has died or retired, or dies or retires, after an order  of transfer under sub- section (1) in respect of such officer or  other employee is made but before exercising the option under  sub- section (4) or, as the case may be, as required by sub-</p>
+                </item>
+              </blockList>
+              <blockList id="section-1977.4B.list3">
+                <listIntroduction>section (4A); or</listIntroduction>
+                <item id="section-1977.4B.list3.b">
+                  <num>(b)</num>
+                  <p>has died or retired, or dies or retires, before an order  of transfer under sub- section (1) in respect of such officer or  other employee is made,</p>
+                </item>
+              </blockList>
+              <blockList id="section-1977.4B.list5">
+                <listIntroduction>he shall, notwithstanding anything contained in sub- section (4) or  sub- section (4A),--</listIntroduction>
+                <item id="section-1977.4B.list5.i">
+                  <num>(i)</num>
+                  <p>in a case falling under clause (a), be deemed to have  exercised an option under sub- section (4); and</p>
+                </item>
+                <item id="section-1977.4B.list5.ii">
+                  <num>(ii)</num>
+                  <p>in a case falling under clause (b), be deemed to have  been transferred under sub- section (1) and exercised and option  under sub- section (4)</p>
+                </item>
+              </blockList>
+              <p>to be governed by the leave, provident fund, retirement or other  terminal benefits admissible to the employees of the Central</p>
+              <p>Government in accordance with the rules and orders of the Central</p>
+              <p>Government as amended from time to time:</p>
+              <p>Provided that nothing in clause (a) of this sub- section shall  apply to an officer or other employee who has, before the appointed  day, been paid the terminal benefits as admissible to the employees of  the Corporation under the regulations made by the Corporation under  this Act, unless such officer or other employee refunds in a lump sum  within six months from the appointed day the amount of contributions  made by the Corporation towards such terminal benefits:</p>
+              <p>Provided further that nothing in clause (b) of this sub- section  shall apply to an officer or other employee who has intimated, under  the proviso to sub- section (1), his intention of not becoming an  employee of the Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1977.4C">
+            <num>(4C)</num>
+            <content>
+              <p>Where an officer or other employee has exercised an option  under sub- section (4), or exercises, or is deemed to have exercised,</p>
+              <p>an option under that sub- section, read with sub- section (4A) or sub-</p>
+              <p>section (4B), to be governed by the leave, provident fund, retirement  or other terminal benefits admissible to the employees of the Central</p>
+              <p>Government, such benefits shall be calculated on the basis of the pay  and allowances drawn by him in the Corporation.]</p>
+            </content>
+          </subsection>
+          <subsection id="section-1977.5">
+            <num>(5)</num>
+            <content>
+              <blockList id="section-1977.5.list1">
+                <listIntroduction>No officer or other employee transferred by an order made  under sub- section (1),--</listIntroduction>
+                <item id="section-1977.5.list1.a">
+                  <num>(a)</num>
+                  <p>shall be dismissed or removed by an authority  subordinate to that competent to make a similar or  equivalent appointment under the Corporation as may be  specified in the regulations made by the Corporation  under this Act;</p>
+                </item>
+                <item id="section-1977.5.list1.b">
+                  <num>(b)</num>
+                  <p>shall be dismissed or removed or reduced in rank  except after an inquiry in which he has been informed  of the charges against him and given a reasonable  opportunity of being heard in respect of those  charges:]</p>
+                </item>
+              </blockList>
+              <p>Provided that where it is proposed after such inquiry, to  impose upon him any such penalty, such penalty may be imposed on the  basis of the evidence adduced during such inquiry and it shall not be  necessary to give such person any opportunity of making representation  on the penalty proposed:]</p>
+              <blockList id="section-1977.5.list4">
+                <listIntroduction>Provided further that] this clause shall not apply,--</listIntroduction>
+                <item id="section-1977.5.list4.i">
+                  <num>(i)</num>
+                  <p>where an officer or employee is dismissed or removed or  reduced in rank on the ground of conduct which has led  to his conviction on a criminal charge; or</p>
+                </item>
+                <item id="section-1977.5.list4.ii">
+                  <num>(ii)</num>
+                  <p>where the authority empowered to dismiss or remove an  officer or employee or to reduce him in rank is  satisfied that for some reason, to be recorded by that  authority in writing, it is not reasonably practicable  to hold such inquiry; or</p>
+                </item>
+                <item id="section-1977.5.list4.iii">
+                  <num>(iii)</num>
+                  <p>to an officer or employee who, after transfer to the</p>
+                </item>
+              </blockList>
+              <p>Corporation, is appointed to a higher post under the</p>
+              <p>Corporation in response to an open advertisement and in  competition with outsiders.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1977.6">
+            <num>(6)</num>
+            <content>
+              <p>If, in respect of any such officer or employee as aforesaid,</p>
+              <p>a question arises whether it is reasonable practicable to hold such  inquiry as is referred to in sub- section (5), the decision thereon of  the authority empowered to dismiss or remove him or to reduce him in  rank shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1977.7">
+            <num>(7)</num>
+            <content>
+              <p>Nothing contained in sub- section (1) shall apply to the  members of the Central Secretariat Service or any other service or to  persons on deputation to the Department referred to in that sub-</p>
+              <p>section or to any of its attached or subordinate offices from any</p>
+              <p>Ministry of the Central Government or from any State Government or  from any organisation.]</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Functions of Corporation.</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of  this Act, it shall be the primary duty of the Corporation to undertake  the purchase, storage, movement transport, distribution and sale of  foodgrains and other foodstuffs.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-13.2.list1">
+                <listIntroduction>Subject as aforesaid, the Corporation may also, with the  previous approval of the Central Government,--</listIntroduction>
+                <item id="section-13.2.list1.a">
+                  <num>(a)</num>
+                  <p>promote by such means as it thinks fit the production of  foodgrains and other foodstuffs;</p>
+                </item>
+                <item id="section-13.2.list1.b">
+                  <num>(b)</num>
+                  <p>set up, or assist in the setting up of, rice mills,</p>
+                </item>
+              </blockList>
+              <blockList id="section-13.2.list3">
+                <listIntroduction>flour mills and other undertakings for the processing  of foodgrains and other foodstuffs; and</listIntroduction>
+                <item id="section-13.2.list3.c">
+                  <num>(c)</num>
+                  <p>discharge such other functions as may be prescribed or  as are supplemental, incidental or consequential to any  of the functions conferred on it under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Executive Committee and other commodities.</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-14.1.list1">
+                <listIntroduction>The board of  directors of the Corporation may constitute an Executive Committee  which shall consist of--</listIntroduction>
+                <item id="section-14.1.list1.a">
+                  <num>(a)</num>
+                  <p>the Chairman of the board;</p>
+                </item>
+                <item id="section-14.1.list1.b">
+                  <num>(b)</num>
+                  <p>the managing director; and</p>
+                </item>
+                <item id="section-14.1.list1.c">
+                  <num>(c)</num>
+                  <p>three other directors, of whom one shall be a non-</p>
+                </item>
+              </blockList>
+              <p>official.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman of the board of directors shall be the Chairman  of the Executive Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the general control, direction and superintendence  of the board of directors, the Executive Committee shall be competent  to deal with any matter within the competence of the Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.4">
+            <num>(4)</num>
+            <content>
+              <p>The board of directors may constitute such other committees,</p>
+              <p>whether consisting wholly of directors or wholly of other persons or  partly of directors and partly of other persons as it thinks fit, for  such purposes as it may decide.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.5">
+            <num>(5)</num>
+            <content>
+              <p>A committee constituted under this section shall meet at such  times and places and shall observe such rules of procedure in regard  to the transaction of business at its meetings (including the quorum   at meetings) as may be provided by regulations made by the Corporation  under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.6">
+            <num>(6)</num>
+            <content>
+              <p>The members of a committee (other than the directors of the   board) shall be paid by the Corporation such fees and allowances as  may be fixed by it by regulations made under this Act for attending  the meetings of the committee and for attending to any other work of  the Corporation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Member of board or committee thereof not to vote in certain  cases. A member of the board of directors of the Corporation or a  committee thereof who has any direct or indirect pecuniary interest in  any matter coming up for consideration at a meeting of the board</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>of directors or committee thereof, shall, as soon as possible after  relevant circumstances have come to his knowledge, disclose the nature  of his interest at such meeting and the disclosure shall be recorded  in the minutes of the board or the committee, as the case may be, and  the member shall not take any part in any deliberation or decision of  the board or committee with respect to that matter.</p>
+              <p>CHAP</p>
+              <p>BOARDS OF MANAGEMENT</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <paragraph id="chapter-III.paragraph-0">
+          <content>
+            <p>BOARDS OF MANAGEMENT</p>
+          </content>
+        </paragraph>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Board of Management, their constitution and functions.</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, on a request received in this behalf from  the State Government or Governments concerned or otherwise, by  notification in the Official Gazette, establish a Board of Management  for a State or two or more contiguous States, if no State Food</p>
+              <p>Corporation is functioning in such State or States.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The head office of the Board of Management shall be at such  place as the Central Government may, by notification in the Official</p>
+              <p>Gazette, specify.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-16.3.list1">
+                <listIntroduction>The Board of Management shall consist of--</listIntroduction>
+                <item id="section-16.3.list1.a">
+                  <num>(a)</num>
+                  <p>a Chairman to be appointed by the board of directors of  the Food Corporation of India;</p>
+                </item>
+                <item id="section-16.3.list1.b">
+                  <num>(b)</num>
+                  <p>the senior- most executive officer of the said</p>
+                </item>
+              </blockList>
+              <p>Corporation employed at the head office of the Board of</p>
+              <blockList id="section-16.3.list4">
+                <listIntroduction>Management; and</listIntroduction>
+                <item id="section-16.3.list4.c">
+                  <num>(c)</num>
+                  <p>not more than ten other members to be appointed by the  board of directors of the said Corporation.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-16.4.list1">
+                <listIntroduction>The members of a Board of Management referred to in clauses</listIntroduction>
+                <item id="section-16.4.list1.a">
+                  <num>(a)</num>
+                  <p>and (c) of sub- section (3) shall hold office for a term of two  years and shall be eligible for re- appointment and the other terms and  conditions of their appointment shall be such as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.5">
+            <num>(5)</num>
+            <content>
+              <p>The Board of Management shall advise the Corporation on such  matters as may be generally or specifically referred to it and shall  perform such other functions as the Corporation may delegate to it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.6">
+            <num>(6)</num>
+            <content>
+              <p>The provisions of sections 20, 21 and 25 shall, so far as may  be, apply in relation to the members of a Board of Management as</p>
+              <p>they apply in relation to the members of the board of directors of a</p>
+              <p>State Food Corporation:</p>
+              <p>Provided that the reference to the General Manager in clause (e)</p>
+              <p>of section 20 shall be construed as a reference to the officer of the</p>
+              <p>Corporation referred to in clause (b) of sub- section (3).</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.7">
+            <num>(7)</num>
+            <content>
+              <p>The Food Corporation of India may, after consultation with a</p>
+              <p>Board of Management, appoint such staff as it considers necessary to  enable that Board to perform its functions under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.8">
+            <num>(8)</num>
+            <content>
+              <p>The Board of Management may, by order in writing, authorise  any one or more of its members to exercise and perform, subject to  such conditions and limitations, if any, as may be specified in the  order, such of its powers and functions as it may think fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.9">
+            <num>(9)</num>
+            <content>
+              <p>The Board of Management shall follow such procedure as may be  provided by regulations made by the Food Corporation of India under  this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.10">
+            <num>(10)</num>
+            <content>
+              <blockList id="section-16.10.list1">
+                <listIntroduction>Where a Board of Management has been established--</listIntroduction>
+                <item id="section-16.10.list1.i">
+                  <num>(i)</num>
+                  <p>for a State, or</p>
+                </item>
+                <item id="section-16.10.list1.ii">
+                  <num>(ii)</num>
+                  <p>for two or more States,</p>
+                </item>
+              </blockList>
+              <blockList id="section-16.10.list3">
+                <listIntroduction>then such Board shall stand dissolved--</listIntroduction>
+                <item id="section-16.10.list3.a">
+                  <num>(a)</num>
+                  <p>in the case referred to in clause (i), on the  establishment of a Food Corporation for that State, and</p>
+                </item>
+                <item id="section-16.10.list3.b">
+                  <num>(b)</num>
+                  <p>in the case referred to in clause (ii), on the  establishment of such Corporation for any one or more  of such States.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.11">
+            <num>(11)</num>
+            <content>
+              <blockList id="section-16.11.list1">
+                <listIntroduction>Where a Board of Management stands dissolved under clause</listIntroduction>
+                <item id="section-16.11.list1.b">
+                  <num>(b)</num>
+                  <p>of sub- section (10), the Central Government may establish a new</p>
+                </item>
+              </blockList>
+              <p>Board of Management for the State or States for which no Food</p>
+              <p>Corporation has been established.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.12">
+            <num>(12)</num>
+            <content>
+              <p>The expenses of the Board of Management in the discharge of  its functions under this Act shall be met by the Food Corporation of</p>
+              <p>India.</p>
+              <p>CHAP</p>
+              <p>STATE FOOD CORPORATIONS</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <paragraph id="chapter-IV.paragraph-0">
+          <content>
+            <p>STATE FOOD CORPORATIONS</p>
+          </content>
+        </paragraph>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Establishment of State Food Corporation.</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central</p>
+              <p>Government may, by notification in the Official Gazette and after  consultation with the Government of a State, establish a Food</p>
+              <p>Corporation for that State under such name as may be specified in the  notification.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>A State Food Corporation established under sub- section (1)</p>
+              <p>shall be a body corporate by the name notified under that sub- section,</p>
+              <p>having perpetual succession and a common seal with power, subject to  the provisions of this Act, to acquire, hold and dispose of property  and to contract, and may, by the said name, sue and be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <p>The head office of a State Food Corporation shall be at such  place within the State as may be notified by the Central Government in  the Official Gazette.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to the provisions of this Act, a State Food</p>
+              <p>Corporation may perform such of the functions of the Food Corporation  of India as that Corporation may delegate to it.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Capital of State Food Corporation</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The capital of a State</p>
+              <p>Food Corporation shall be such sum not exceeding ten crores of rupees  as the Central Government may, after consultation with the Food</p>
+              <p>Corporation of India, fix.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government may, after such consultation, from  time to time increase the capital of the State Food Corporation to  such extent and in such manner as that Government may determine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-18.3.list1">
+                <listIntroduction>Such capital shall be provided--</listIntroduction>
+                <item id="section-18.3.list1.a">
+                  <num>(a)</num>
+                  <p>by the Central Government after due appropriation made  by Parliament by law for the purpose, and</p>
+                </item>
+                <item id="section-18.3.list1.b">
+                  <num>(b)</num>
+                  <p>by the Food Corporation of India.</p>
+                </item>
+              </blockList>
+              <p>in such proportion and subject to such terms and conditions as may be  determined by the Central Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Management of State Food Corporation.</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>The general  superintendence, direction and management of the affairs and business  of a State Food Corporation shall vest in a board of directors which  shall consist of a Chairman, a General Manager and not more than ten  other members, all of whom shall be appointed by the Food Corporation  of India after consultation with the Central Government and the State</p>
+              <p>Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-19.2.list1">
+                <listIntroduction>The General Manager shall--</listIntroduction>
+                <item id="section-19.2.list1.a">
+                  <num>(a)</num>
+                  <p>exercise such powers and perform such duties as the  board of directors may entrust or delegate to him; and</p>
+                </item>
+                <item id="section-19.2.list1.b">
+                  <num>(b)</num>
+                  <p>receive such salary and allowances and be governed by  such terms and conditions of service as the board of  directors may, in consultation with the Food</p>
+                </item>
+              </blockList>
+              <p>Corporation of India, fix.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>The board of directors, in discharging its functions, shall  act on business principles having regard to the interests of the  producer and consumer and shall be guided by such instructions on  questions of policy as may be given to it by the Food Corporation of</p>
+              <p>India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.4">
+            <num>(4)</num>
+            <content>
+              <p>If any doubt arises as to whether a question is or is not a  question of policy, the matter shall be referred to the Central</p>
+              <p>Government whose decision thereon shall be final.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.5">
+            <num>(5)</num>
+            <content>
+              <p>The members of the board of directors, other than the General</p>
+              <p>Manager, shall be entitled to receive by way of remuneration or fees  such sums as may be prescribed:</p>
+              <p>Provided that no official member shall be entitled to receive any  remuneration other than any allowances admissible to him under the  rules regulating his conditions of service.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.6">
+            <num>(6)</num>
+            <content>
+              <p>The term of office of, and the manner of filling casual  vacancies among, the members of the board of directors shall be such  as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Disqualification for office of member of board of directors.</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>A person shall be disqualified for being appointed as, and for being,</p>
+              <blockList id="section-20.paragraph-0.list2">
+                <listIntroduction>a member of the board of directors of a State Food Corporation--</listIntroduction>
+                <item id="section-20.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>if he is, or at any time has been, adjudicated insolvent  or has suspended payment of his debts or has compounded  with his creditors; or</p>
+                </item>
+                <item id="section-20.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>if he is of unsound mind and stands so declared by a  competent court; or</p>
+                </item>
+                <item id="section-20.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>if he is or has been convicted of any offence which in  the opinion of the Central Government involves moral  turpitude; or</p>
+                </item>
+                <item id="section-20.paragraph-0.list2.d">
+                  <num>(d)</num>
+                  <p>if he has been removed or dismissed from the service of  the Government or a corporation owned or controlled by  the Government; or</p>
+                </item>
+                <item id="section-20.paragraph-0.list2.e">
+                  <num>(e)</num>
+                  <p>except in the case of the Chairman or the General</p>
+                </item>
+              </blockList>
+              <p>Manager, if he is a salaried official of the Food</p>
+              <p>Corporation of Indian or a State Food Corporation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Removal and resignation of members of board of directors.</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>The Food Corporation of India, may, at any time, after consultation  with the State Food Corporation, remove the General Manager from  officer after giving him a reasonable opportunity of showing cause  against the proposed removal.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-21.2.list1">
+                <listIntroduction>The board of directors of a State Food Corporation may remove  from office any member of that board who--</listIntroduction>
+                <item id="section-21.2.list1.a">
+                  <num>(a)</num>
+                  <p>is or has become subject to any of the disqualifications  mentioned in section 20, or</p>
+                </item>
+                <item id="section-21.2.list1.b">
+                  <num>(b)</num>
+                  <p>is absent without leave of the board of directors from  more than three consecutive meetings thereof without  cause sufficient, in the opinion of the board, to  exonerate his absence.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-21.3">
+            <num>(3)</num>
+            <content>
+              <p>A member of such board may resign his office by giving notice  thereof in writing to the Food Corporation of India and on such  resignation being accepted, he shall be deemed to have vacated his  office.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Meetings.</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The board of directors of a State Food</p>
+              <p>Corporation shall meet at such times and places and shall observe such  rules of procedure in regard to the transaction of business at its  meetings (including the quorum at meetings) as may be provided by  regulations made by that Corporation under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman of the board of directors or, if for any reason  he is unable to attend any meeting, any other member of the board  elected by the members of the board present at the meeting, shall  preside at the meeting.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>All questions which come up before any meeting of the board  of directors shall be decided by a majority of the votes of the  members present and voting, and, in the event of an equality of votes,</p>
+              <p>the Chairman or in his absence, the person presiding shall have and  exercise a second or casting vote.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Appointment of officers, etc., and their conditions of  service.</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>A State Food Corporation may appoint such officers and  other employees as it considers necessary for the efficient  performance of its functions.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Every person employed by a State Food Corporation under this</p>
+              <p>Act shall be subject to such conditions of service and shall be  entitled to such remuneration as may be determined by regulations made  by that Corporation under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Executive Committee and other committees.</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>The board of  directors of a State Food Corporation may constitute an Executive</p>
+              <blockList id="section-24.1.list2">
+                <listIntroduction>Committee which shall consist of--</listIntroduction>
+                <item id="section-24.1.list2.a">
+                  <num>(a)</num>
+                  <p>the Chairman of the board of directors;</p>
+                </item>
+                <item id="section-24.1.list2.b">
+                  <num>(b)</num>
+                  <p>the General Manager; and</p>
+                </item>
+                <item id="section-24.1.list2.c">
+                  <num>(c)</num>
+                  <p>three other members of the board of directors, of whom  one shall be a non- official.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <p>The Chairman of the board of directors shall be the Chairman  of the Executive Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the general control, direction and superintendence  of the board of directors, the Executive Committee shall be competent  to deal with any matter within the competence of the State Food</p>
+              <p>Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.4">
+            <num>(4)</num>
+            <content>
+              <p>The board of directors may constitute such other committees,</p>
+              <p>whether consisting wholly of members of the board or wholly of other  persons or partly of such members and partly of other persons as it  thinks fit, for such purposes as it may decide.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.5">
+            <num>(5)</num>
+            <content>
+              <p>A committee constituted under this section shall meet at such  times and places and shall observe such rules of procedure in regard  to the transaction of business at its meetings (including the quorum   at meetings) as may be provided by regulations made by the State Food</p>
+              <p>Corporation under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.6">
+            <num>(6)</num>
+            <content>
+              <p>The members of a committee (other than the directors of the   board) shall be paid by the State Food Corporation such fees and  allowances as may be fixed by it by regulations made under this Act,</p>
+              <p>for attending the meetings of the committee and for attending to any  other work of that Corporation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Member of board or committee thereof not to vote in certain  cases. A member of the board of directors of a State Food Corporation  or a committee thereof who has any direct or indirect pecuniary  interest in any matter coming up for consideration at a meeting of the  board of directors or committee thereof, shall, as soon as possible  after relevant circumstances have come to his knowledge, disclose the  nature of his interest at such meeting and the disclosure shall be  recorded in the minutes of the board or the committee, as the case may  be, and the member shall not take any part in any deliberation or  decision of the board or the committee with respect to that matter.</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>CHAP</p>
+              <p>FINANCE, ACCOUNTS AND AUDIT</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <paragraph id="chapter-V.paragraph-0">
+          <content>
+            <p>FINANCE, ACCOUNTS AND AUDIT</p>
+          </content>
+        </paragraph>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Submission of programme of activities and financial  estimates.</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food Corporation shall, before the commencement of  each year, prepare a statement of programme of its activities during  the forthcoming year as well as a financial estimate in respect  thereof.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-26.2.list1">
+                <listIntroduction>The statement prepared under sub- section (1) Shall, not less  than three months before the commencement of each year, be submitted  for approval--</listIntroduction>
+                <item id="section-26.2.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of the Food Corporation of India, to the</p>
+                </item>
+              </blockList>
+              <blockList id="section-26.2.list3">
+                <listIntroduction>Central Government;</listIntroduction>
+                <item id="section-26.2.list3.b">
+                  <num>(b)</num>
+                  <p>in the case of a State Food Corporation, to the Food</p>
+                </item>
+              </blockList>
+              <p>Corporation of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <p>The statement and the financial estimate of a Food  corporation referred to in sub- section (1) may, with the approval of  the Central Government, in the case of the Food Corporation of India,</p>
+              <p>or with the approval of the Food Corporation of India in the case of a</p>
+              <p>State Food Corporation, be revised by the Food Corporation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Borrowing powers of Food Corporation.</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food</p>
+              <blockList id="section-27.1.list2">
+                <listIntroduction>Corporation may, for the purpose of carrying out its functions under  this Act,--</listIntroduction>
+                <item id="section-27.1.list2.a">
+                  <num>(a)</num>
+                  <blockList id="section-27.1.list2.a.list0">
+                    <listIntroduction>take advances against stocks of foodgrains or other  foodstuffs held by it, or borrow money--</listIntroduction>
+                    <item id="section-27.1.list2.a.list0.i">
+                      <num>(i)</num>
+                      <p>from any scheduled bank, or</p>
+                    </item>
+                    <item id="section-27.1.list2.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>from any other bank or financial institution  approved by the Central Government in this behalf, or</p>
+                    </item>
+                    <item id="section-27.1.list2.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>from any other authority, organisation or  institution or from the public on such terms and conditions  as may be approved by the Central Government; or</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-27.1.list2.b">
+                  <num>(b)</num>
+                  <p>issue and sell bonds and debentures carrying interest at  such rates as may be fixed by the Central Government at the time  the bonds or debentures are issued:</p>
+                </item>
+              </blockList>
+              <p>Provided that the amount borrowed by a Food Corporation under  this sub- section shall not at any time exceed ten times the paid- up  capital and the reserve fund established under section 33.]</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government may guarantee the loans and advances  taken by a Food Corporation under sub- section (1) as to the re- payment  of principal and the payment of interest thereon and other incidental  charges.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.3">
+            <num>(3)</num>
+            <content>
+              <p>A Food Corporation may, for the purpose of carrying out  its functions under this Act, also borrow money from the Central</p>
+              <p>Government, and that Government may, after due appropriation made by</p>
+              <p>Parliament by law in this behalf, pay to the Food Corporation such  sums of money by way of loan on such terms and conditions as that</p>
+              <p>Government may determine].</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Lending by Food Corporation on security of foodgrains. A Food</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>Corporation may lend or advance money to any person engaged in the  production of foodgrains upon the security of foodgrains or such other  security as may be prescribed, for any purpose connected with such  production.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Power to enter into agreement for purchase of foodgrains  after harvest.</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food Corporation may enter into agreement with  any grower of foodcrops for the purchase of foodgrains after the  harvest of such crops and any such agreement may provide that any sum  payable by the Corporation to the grower under such agreement shall be  payable to any scheduled bank or other financing agency nominated by  the grower in this behalf to such extent as may be specified in the  agreement.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>The scheduled bank or other financing agency referred to in  sub- section (1) may, on the basis of any agreement referred to in that  sub- section, lend money to a grower of foodcrops who has entered into  such agreement.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Guarantee by Food Corporation. A Food Corporation may, upon  such terms and conditions as it may think fit, guarantee any loan  referred to in sub- section (2) of section 29, and also any other loan  raised by a grower of foodcrops, which is re- payable within a period  not exceeding five years.</heading>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Funds of Food Corporation.</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food Corporation shall have  its own fund and all receipts of the Corporation shall be credited  thereto and all payments of the Corporation shall be met therefrom.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>Such fund shall be applied for meeting all administrative  expenses of the Food, Corporation and for carrying out the purposes of  this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Investment of funds. A Food Corporation may invest its funds  in the securities of the Central Government or any State Government or  in such other manner as may be prescribed.</heading>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Allocation of surplus profits.</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food Corporation shall  establish a reserve fund to which shall be credited every year such  portion of its annual net profits as that Corporation thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-33.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-33.2.list1">
+                <listIntroduction>After making provision for such reserve fund and for bad and  doubtful debts, depreciation in assets and all other matters which are  usually provided for by companies registered and incorporated under  the Companies Act, 1956 (1 of 1956), the balance of its annual net  profits shall be paid--</listIntroduction>
+                <item id="section-33.2.list1.a">
+                  <num>(a)</num>
+                  <p>in the case of the Food Corporation of India, to the</p>
+                </item>
+              </blockList>
+              <blockList id="section-33.2.list3">
+                <listIntroduction>Central Government, and</listIntroduction>
+                <item id="section-33.2.list3.b">
+                  <num>(b)</num>
+                  <p>in the case of a State Food Corporation, to the Central</p>
+                </item>
+              </blockList>
+              <p>Government and the Food Corporation of India in the  same proportion as the capital provided by them.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Accounts and audit.</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food Corporation shall maintain  proper accounts and other relevant records and prepare an annual  statement of accounts including the profit and loss account and the  balance sheet in such form as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of a Food Corporation shall be audited by  auditors duly qualified to act as auditors of companies under section</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-226">
+          <num>226.</num>
+          <heading>of the Companies Act, 1956 (1 of 1956).</heading>
+          <subsection id="section-226.3">
+            <num>(3)</num>
+            <content>
+              <p>The auditors shall be appointed annually by the Food</p>
+              <p>Corporation from among a list of auditors approved by the Central</p>
+              <p>Government on the advice of the Comptroller and Auditor- General of</p>
+              <p>India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-226.4">
+            <num>(4)</num>
+            <content>
+              <p>The auditors shall be supplied with a copy of the annual  balance sheet and the profit and loss account of the Food Corporation  and it shall be their duty to examine them together with the accounts  and vouchers relating thereto, and they shall have a list delivered to  them of all books kept by the Corporation and shall at all reasonable  times have access to the books, accounts and other documents of the</p>
+              <p>Corporation and may require from any officer of the Corporation such  information and explanations as the auditors may think necessary for  the performance of their duties as auditors.</p>
+            </content>
+          </subsection>
+          <subsection id="section-226.5">
+            <num>(5)</num>
+            <content>
+              <blockList id="section-226.5.list1">
+                <listIntroduction>The Comptroller and Auditor- General of India shall have  power--</listIntroduction>
+                <item id="section-226.5.list1.a">
+                  <num>(a)</num>
+                  <p>to direct the manner in which the accounts of a Food</p>
+                </item>
+              </blockList>
+              <p>Corporation shall be audited by the auditors appointed under sub-</p>
+              <blockList id="section-226.5.list4">
+                <listIntroduction>section (3) and to give such auditors instructions in regard to  any matter relating to the performance of their functions as  such;</listIntroduction>
+                <item id="section-226.5.list4.b">
+                  <num>(b)</num>
+                  <p>to conduct a supplementary or test audit of the accounts  of a Food Corporation by such person or persons as he may  authorise in this behalf; and for the purpose of such audit, to  require information or additional information to be furnished to  any person or persons so authorised, on such matters, by such  person or persons, and in such form, as the Comptroller and</p>
+                </item>
+              </blockList>
+              <p>Auditor- General may, by general or special order, direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-226.6">
+            <num>(6)</num>
+            <content>
+              <blockList id="section-226.6.list1">
+                <listIntroduction>The auditors shall send a copy of their report together with  an audited copy of the accounts--</listIntroduction>
+                <item id="section-226.6.list1.a">
+                  <num>(a)</num>
+                  <p>to the Food Corporation concerned;</p>
+                </item>
+                <item id="section-226.6.list1.b">
+                  <num>(b)</num>
+                  <p>where the accounts relate to a State Food Corporation  also to the food Corporation of India;</p>
+                </item>
+                <item id="section-226.6.list1.c">
+                  <num>(c)</num>
+                  <p>to the Central Government; and</p>
+                </item>
+                <item id="section-226.6.list1.d">
+                  <num>(d)</num>
+                  <p>to the Comptroller and Auditor- General of India who  shall have the right to comment upon, or supplement the audit  report in such manner as he may think fit.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-226.7">
+            <num>(7)</num>
+            <content>
+              <p>Any comments upon or supplement to, the audit report, made by  the Comptroller and Auditor- General of India under clause (d) of sub-</p>
+              <p>section (6) shall be placed by the Food Corporation concerned before  the Central Government, and where the accounts relate to a State Food</p>
+              <p>Corporation, also before the Food Corporation of India.]</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Annual report on the working of Food Corporations.</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>A Food</p>
+              <p>Corporation shall, as soon as possible after the end of each year,</p>
+              <p>submit to the Central Government an annual report on the working and  affairs of the Corporation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government shall, as soon as may be after the  receipt of such report, cause such report and the audit report  received under section 34  together with any comments thereon or  supplement thereto by the Comptroller and Auditor- General of India] to  be laid before both Houses of Parliament.</p>
+              <p>CHAP</p>
+              <p>MISCELLANEOUS</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <paragraph id="chapter-VI.paragraph-0">
+          <content>
+            <p>MISCELLANEOUS</p>
+          </content>
+        </paragraph>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Vacancies, etc., not to invalidate acts or proceedings of</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>Food Corporation, etc.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-36.1">
+            <num>(1)</num>
+            <content>
+              <p>No act or proceeding of a Food Corporation  or a committee thereof or a Board of Management shall be invalid by  reason only of the existence of any vacancy in, or any defect in the  constitution of, the board of directors of the Food Corporation or  such committee or Board of Management.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.2">
+            <num>(2)</num>
+            <content>
+              <p>No act done by any person acting in good faith as a member of  a board of directors of a Food Corporation or of a Board of Management  shall be deemed to be invalid by reason only of his disqualification  for being appointed as, or for being, a member of such board of  directors or Board of Management.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Delegation. A Food Corporation may, by general or special  order in writing, delegate to the Chairman or any other member of the  board</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>of directors or the Secretary or other officer of the Corporation,</p>
+              <p>subject to such conditions and limitations, if any, as may be  specified in the order, such of its powers and functions under this</p>
+              <p>Act as it may deem necessary.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Declaration of fidelity and secrecy. Every director, member  of an Advisory Committee or other committee, auditor, officer or other  employee of a Food Corporation and every member of a Board of</heading>
+          <paragraph id="section-38.paragraph-0">
+            <content>
+              <p>Management and its staff shall, before entering upon his duties, make  a declaration of fidelity and secrecy in the form set out in the</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedule">
+      <doc name="schedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1964/37/schedules"/>
+              <FRBRuri value="/in-union/act/1964/37"/>
+              <FRBRalias value="Schedule"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1964/37/eng@1964-12-10/schedules"/>
+              <FRBRuri value="/in-union/act/1964/37/eng@1964-12-10"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1964/37/eng@1964-12-10/schedules"/>
+              <FRBRuri value="/in-union/act/1964/37/eng@1964-12-10"/>
+              <FRBRdate date="2016-09-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedule">
+            <section id="section-39">
+              <num>39.</num>
+              <heading>Indemnity of directors.</heading>
+              <subsection id="section-39.1">
+                <num>(1)</num>
+                <content>
+                  <p>Every member of the board of  directors of a Food Corporation and of a Board of Management shall be  indemnified by the Corporation against all losses and expenses  incurred by him in the discharge of his duties except such as are  caused by his own wilful act or default.</p>
+                </content>
+              </subsection>
+              <subsection id="section-39.2">
+                <num>(2)</num>
+                <content>
+                  <p>A member of the board of directors of a Food Corporation or a</p>
+                  <p>Board of Management shall not be responsible for any other member or  for any officer or other employee of the Corporation or Board of</p>
+                  <p>Management or for any loss or expense resulting to the Corporation  from the insufficiency or deficiency of value of, or title to, any  property or security acquired or taken on behalf of the Corporation in  good faith, or by the insolvency or wrongful act of any person under  obligation to the Corporation or by anything done in good faith, in  the execution of the duties of his office or in relation thereto.</p>
+                </content>
+              </subsection>
+            </section>
+            <section id="section-40">
+              <num>40.</num>
+              <heading>Protection of action taken under this Act. No suit or other  legal proceeding shall lie against a Food Corporation or any member of  the board of directors thereof or any officer or other employee  thereof or any member of a Board of Management or its staff or any  other person authorised by a Food Corporation or a Board of Management  to discharge any functions under this Act for any loss or damage  caused or likely to be caused by anything which is in good faith done  or intended to be done in pursuance of this Act.</heading>
+            </section>
+            <section id="section-41">
+              <num>41.</num>
+              <heading>Offences.</heading>
+              <subsection id="section-41.1">
+                <num>(1)</num>
+                <content>
+                  <p>Whoever, without the consent in writing of a</p>
+                  <p>Food Corporation, uses its name in any prospectus or advertisement,</p>
+                  <p>shall be punishable with imprisonment for a term which may extend to  six months, or with fine which may extend to one thousand rupees, or  with both.</p>
+                </content>
+              </subsection>
+              <subsection id="section-41.2">
+                <num>(2)</num>
+                <content>
+                  <p>No court shall take cognizance of any offence under sub-</p>
+                  <p>section (1) except on a complaint in writing by an officer authorised  in this behalf by the Food Corporation concerned.</p>
+                </content>
+              </subsection>
+            </section>
+            <section id="section-42">
+              <num>42.</num>
+              <heading>Provision relating to income- tax, super- tax, etc. For the  purposes of the Income- tax Act, 1961 (43 of 1961), or any other  enactment for the time being in force relating to income- tax, super-</heading>
+              <paragraph id="section-42.paragraph-0">
+                <content>
+                  <p>tax or any other tax on income, profits or gains, a Food Corporation  shall be deemed to be a company within the meaning of the Income- tax</p>
+                  <p>Act, 1961, and shall be liable to tax accordingly on its income,</p>
+                  <p>profits and gains.</p>
+                </content>
+              </paragraph>
+            </section>
+            <section id="section-43">
+              <num>43.</num>
+              <heading>Winding up of Food Corporation. No provision of law relating  to the winding up of companies or corporations shall apply to a Food</heading>
+              <paragraph id="section-43.paragraph-0">
+                <content>
+                  <p>Corporation and it shall not be placed in liquidation save by order of  the Central Government and in such manner as that Government may  direct.</p>
+                </content>
+              </paragraph>
+            </section>
+            <section id="section-44">
+              <num>44.</num>
+              <heading>Power to make rules.</heading>
+              <subsection id="section-44.1">
+                <num>(1)</num>
+                <content>
+                  <p>The Central Government may, by  notification in the Official Gazette, make rules to carry out the  purposes of this Act.</p>
+                </content>
+              </subsection>
+              <subsection id="section-44.2">
+                <num>(2)</num>
+                <content>
+                  <p>Without prejudice to the generality of the foregoing power,</p>
+                  <blockList id="section-44.2.list2">
+                    <listIntroduction>such rules may provide for--</listIntroduction>
+                    <item id="section-44.2.list2.a">
+                      <num>(a)</num>
+                      <p>the term of office of, and the manner of filling casual  vacancies among, and the other terms and conditions of  appointment of, the directors of the Corporation;</p>
+                    </item>
+                    <item id="section-44.2.list2.b">
+                      <num>(b)</num>
+                      <p>the composition of Advisory Committees and the terms and  conditions of service of members thereof;</p>
+                    </item>
+                    <item id="section-44.2.list2.c">
+                      <num>(c)</num>
+                      <p>the additional functions which the Corporation may  perform;</p>
+                    </item>
+                    <item id="section-44.2.list2.d">
+                      <num>(d)</num>
+                      <p>the remuneration or fees payable to the members of the  board of directors of a State Food Corporation and the  term of office of, and the manner of filling casual  vacancies among, such members;</p>
+                    </item>
+                    <item id="section-44.2.list2.e">
+                      <num>(e)</num>
+                      <p>the securities (other than foodgrains) upon which a Food</p>
+                    </item>
+                  </blockList>
+                  <blockList id="section-44.2.list4">
+                    <listIntroduction>Corporation may lend or advance money;</listIntroduction>
+                    <item id="section-44.2.list4.f">
+                      <num>(f)</num>
+                      <p>the manner in which a Food Corporation may invest its  funds;</p>
+                    </item>
+                    <item id="section-44.2.list4.g">
+                      <num>(g)</num>
+                      <p>the form of the annual statement of accounts and the  balance sheet to be prepared by a Food Corporation;</p>
+                    </item>
+                    <item id="section-44.2.list4.h">
+                      <num>(h)</num>
+                      <p>any other matter which has to be or may be prescribed.</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+              <subsection id="section-44.3">
+                <num>(3)</num>
+                <content>
+                  <p>Every rule made by the Central Government under this section  shall be laid as soon as may be after it is made, before each House of</p>
+                  <p>Parliament while it is in session for a total period of thirty days    which may be comprised in one session or in two or more successive  sessions, and if, before the expiry of the session immediately  following the session or the successive sessions aforesaid,] both</p>
+                  <p>Houses agree in making any modification in the rule or both Houses  agree that the rule should not be made, the rule shall thereafter have  effect only in such modified form or be of no effect, as the case may  be; so however that any such modification or annulment shall be  without prejudice to the validity of anything previously done under  that rule.</p>
+                </content>
+              </subsection>
+            </section>
+            <section id="section-45">
+              <num>45.</num>
+              <heading>Power of Food Corporation to make regulations.</heading>
+              <subsection id="section-45.1">
+                <num>(1)</num>
+                <content>
+                  <p>A Food</p>
+                  <p>Corporation may, with the previous sanction of the Central Government,</p>
+                  <p>by notification in the Official Gazette, make regulations not  inconsistent with this Act and the rules made thereunder, to provide  for all matters for which provisions is necessary or expedient for the  purpose of giving effect to the provisions of this Act.</p>
+                </content>
+              </subsection>
+              <subsection id="section-45.1A">
+                <num>(1A)</num>
+                <content>
+                  <p>The power to make regulations under this section shall  include the power to give retrospective effect from a date not earlier  than the date of commencement of this Act, to the regulations or any  of them but no retrospective effect shall be given to any regulation  so as to prejudicially affect the interests of any person to whom such  regulation may be applicable.]</p>
+                </content>
+              </subsection>
+              <subsection id="section-45.2">
+                <num>(2)</num>
+                <content>
+                  <p>Without prejudice to the generality of the foregoing power,</p>
+                  <blockList id="section-45.2.list2">
+                    <listIntroduction>such regulations may provide for--</listIntroduction>
+                    <item id="section-45.2.list2.a">
+                      <num>(a)</num>
+                      <p>the methods of appointment, the conditions of service  and the scales of pay of the officers and employees of  a Food Corporation, other than the Secretary of the</p>
+                    </item>
+                  </blockList>
+                  <blockList id="section-45.2.list4">
+                    <listIntroduction>Food Corporation of India;</listIntroduction>
+                    <item id="section-45.2.list4.b">
+                      <num>(b)</num>
+                      <p>the duties and conduct of officers and employees of a</p>
+                    </item>
+                  </blockList>
+                  <blockList id="section-45.2.list6">
+                    <listIntroduction>Food Corporation, other than the Secretary aforesaid;</listIntroduction>
+                    <item id="section-45.2.list6.c">
+                      <num>(c)</num>
+                      <p>the functions and duties which may be entrusted or  delegated to the mananging director or, as the case may  be, the General Manager, of a Food Corporation;</p>
+                    </item>
+                    <item id="section-45.2.list6.d">
+                      <num>(d)</num>
+                      <p>the times and places at which meetings of a Food</p>
+                    </item>
+                  </blockList>
+                  <blockList id="section-45.2.list8">
+                    <listIntroduction>Corporation or any committee thereof shall be held and  the procedure to be followed thereat;</listIntroduction>
+                    <item id="section-45.2.list8.e">
+                      <num>(e)</num>
+                      <p>the fees and allowances payable to the members of a  committee under sub- section (6) of section 14 or sub-</p>
+                    </item>
+                  </blockList>
+                  <blockList id="section-45.2.list10">
+                    <listIntroduction>section (6) of section 24;</listIntroduction>
+                    <item id="section-45.2.list10.f">
+                      <num>(f)</num>
+                      <p>generally, the efficient conduct of the affairs of a</p>
+                    </item>
+                  </blockList>
+                  <p>Food Corporation.</p>
+                </content>
+              </subsection>
+              <subsection id="section-45.3">
+                <num>(3)</num>
+                <content>
+                  <p>The Central Government may, by notification in the Official</p>
+                  <p>Gazette, rescind any regulation which it has sanctioned and there- upon  such regulation shall cease to have effect.</p>
+                </content>
+              </subsection>
+              <subsection id="section-45.4">
+                <num>(4)</num>
+                <content>
+                  <p>Any regulation which may be made by the Food Corporation of</p>
+                  <p>India under this Act may be made by the Central Government within  three months from the establishment of that Corporation and any  regulation which may be made by a State Food Corporation under this</p>
+                  <p>Act may be made by the Food Corporation of India within three months  from the establishment of such State Food Corporation; and any  regulation so made may be altered or rescinded by the Food Corporation  concerned in the exercise of its powers under this Act.</p>
+                </content>
+              </subsection>
+              <subsection id="section-45.5">
+                <num>(5)</num>
+                <content>
+                  <p>Every regulation made under this Act shall be laid, as  soon as may be after it is made, before each House of Parliament,</p>
+                  <p>while it is in session, for a total period of thirty days which may be  comprised in one session or in two or more successive sessions and if,</p>
+                  <p>before the expiry of the session immediately following the session or  the successive session aforesaid, both Houses agree in making any  modification in the regulation or both Houses agree that the  regulation should not be made, the regulation shall thereafter have  effect only in such modified form or be of no effect, as the case may  be; so, however, that any such modification or annulment shall be  without prejudice to the validity of anything previously done under  that regulation.]</p>
+                </content>
+              </subsection>
+            </section>
+            <section id="section-46">
+              <num>46.</num>
+              <heading>Validation. No regulation made or purporting to have been  made with retrospective effect, under section 45 before the  commencement of the Food Corporations (Amendment) Act, 1982 shall be  deemed to be invalid or ever to have been invalid merely on the ground  that such regulation was made with retrospective effect and  accordingly every such regulation and any action taken or thing done  thereunder shall be as valid and effective as if the provisions of  section 45, as amended by the Food Corporations (Amendment) Act, 1982,</heading>
+              <paragraph id="section-46.paragraph-0">
+                <content>
+                  <p>were in force at all material times when such regulation was made or  action or thing was taken or done.]</p>
+                </content>
+              </paragraph>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

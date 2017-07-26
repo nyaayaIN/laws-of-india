@@ -1,0 +1,81 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-har/act/1974/33/main"/>
+          <FRBRuri value="/in-har/act/1974/33"/>
+          <FRBRalias value="The Haryana Abolition Of Whipping Act, 1974"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-har/act/1974/33/eng@2017-01-22/main"/>
+          <FRBRuri value="/in-har/act/1974/33/eng@2017-01-22"/>
+          <FRBRdate date="2017-01-22" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-har/act/1974/33/eng@2017-01-22/main"/>
+          <FRBRuri value="/in-har/act/1974/33/eng@2017-01-22"/>
+          <FRBRdate date="2017-01-22" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Haryana Abolition Of Whipping Act, 1974</shortTitle>
+      </p>
+      <longTitle>
+        <p>[No. 33 of 1974]</p>
+        <p>[November 4, 1974]</p>
+        <p>An Act to provide for the abolition of whipping as a punishment.</p>
+        <p>Be it enacted by the Legislature of the State of Haryana in the Twenty-fifth Year of the Republic of India as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Haryana Abolition of Whipping Act, 1974.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to whole of the State of Haryana.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Abolition of Whipping.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>The punishment of whipping as provided in any law with respect to any other matters specified in the State and Concurrent Lists of the Seventh Schedule to the Constitution of India is hereby abolished.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Repeal.-</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>The Punjab Abolition of Whipping Act, 1957 (Punjab Act 25 of 1957), in its application to the State of Haryana is hereby repealed.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

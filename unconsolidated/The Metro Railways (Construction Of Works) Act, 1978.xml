@@ -1,0 +1,1441 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1978/33/main"/>
+          <FRBRuri value="/in-union/act/1978/33"/>
+          <FRBRalias value="The Metro Railways (Construction Of Works) Act, 1978"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1978/33/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1978/33/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1978/33/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1978/33/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Metro Railways (Construction Of Works) Act, 1978</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, commencement and application. </heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Metro Railways (Construction of Works) Act, 1978.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It applies in the first instance to the metropolitan city of Calcutta; and the Central Government may, by notification in the Official Gazette, declare that this Act shall also apply to the National Capital Region, such other metropolitan city and metropolitan area, after consultation with the State Government, and with effect from such date as may be specified in that notification and thereupon the provisions of this Act shall apply to the National Capital Region, such metropolitan city or metropolitan area accordingly.</p>
+            <p>Name of region or metropolitan area</p>
+            <p>Name of State</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content/>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>National Capital Region</p>
+            <p>National Capital Territory—Delhi, Haryana, Rajasthan and Uttar Pradesh</p>
+            <p>Bangalore</p>
+            <p>Karnataka</p>
+            <p>Mumbai</p>
+            <p>Maharashtra</p>
+            <p>Chennai</p>
+            <p>Tamil Nadu</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-2.1.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,</listIntroduction>
+              <item id="section-2.1.list1.a">
+                <num>(a)</num>
+                <p>Advisory Board means the Advisory Board constituted under section 4;</p>
+              </item>
+              <item id="section-2.1.list1.b">
+                <num>(b)</num>
+                <p>appellate authority means the</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.1.list3">
+              <listIntroduction>appellate authority appointed under section 16;</listIntroduction>
+              <item id="section-2.1.list3.c">
+                <num>(c)</num>
+                <p>building means a house, outhouse, stable, latrine, urinal, shed, hut or wall or any other structure or erection, whether of masonry bricks, wood, mud, metal or any other material or any part of a building, but does not include a plant or machinery installed in a building or any part thereof or any portable shelter;</p>
+              </item>
+              <item id="section-2.1.list3.d">
+                <num>(d)</num>
+                <p>commissioner means a commissioner of metro railway appointed under section 27;</p>
+              </item>
+              <item id="section-2.1.list3.e">
+                <num>(e)</num>
+                <p>competent authority means the competent authority appointed under section 16;</p>
+              </item>
+              <item id="section-2.1.list3.f">
+                <num>(f)</num>
+                <p>development with its grammatical variations means the carrying out of building, engineering, mining or other operations in, on, over or under land or the making of any material change in any building or land or planting of any tree on land and includes redevelopment;</p>
+              </item>
+              <item id="section-2.1.list3.g">
+                <num>(g)</num>
+                <p>land includes any right or interest in land;</p>
+              </item>
+              <item id="section-2.1.list3.h">
+                <num>(h)</num>
+                <p>metro alignment, in relation to any metropolitan city, means such alignment of the metro railway as is specified in the Schedule under that city and includes the metro railway;</p>
+              </item>
+              <item id="section-2.1.list3.i">
+                <num>(i)</num>
+                <p>metro railway means a metro railway or any portion thereof for the public carriage of passengers, animals or goods and includes,</p>
+              </item>
+              <item id="section-2.1.list3.a">
+                <num>(a)</num>
+                <p>all land within the boundary marks indicating the limits of the land appurtenant to a metro railway,</p>
+              </item>
+              <item id="section-2.1.list3.b">
+                <num>(b)</num>
+                <p>all lines of rails, sidings, yards or branches worked over for the purposes of, or in connection with, a metro railway,</p>
+              </item>
+              <item id="section-2.1.list3.c">
+                <num>(c)</num>
+                <p>all stations, offices, ventilation shafts and ducts, ware-houses, workshops, manufactories, fixed plants and machineries, sheds, depots and other works constructed for the purpose of, or in connection with, a metro railway;</p>
+              </item>
+              <item id="section-2.1.list3.j">
+                <num>(j)</num>
+                <p>metro railway administration, in relation to any metro railway, means the General Manager of that metro railway;</p>
+              </item>
+              <item id="section-2.1.list3.k">
+                <num>(k)</num>
+                <p>metropolitan city means the metropolitan city of Bombay, Calcutta, Delhi or Madras;</p>
+              </item>
+              <item id="section-2.1.list3.l">
+                <num>(l)</num>
+                <p>metropolitan city of Bombay means the area covered by Greater Bombay as defined in the Bombay Municipal Corporation Act, 1888 (Bombay Act III of 1888);</p>
+              </item>
+              <item id="section-2.1.list3.m">
+                <num>(m)</num>
+                <p>metropolitan city of Calcutta means the area described under the heading 1. Calcutta Metropolitan District in the Schedule to the Calcutta Metropolitan Planning Area (Use and Development of Land) Control Act, 1965 (West Bengal Act XIV of 1965);</p>
+              </item>
+              <item id="section-2.1.list3.n">
+                <num>(n)</num>
+                <p>metropolitan city of Delhi means the entire area of the Union territory of Delhi*;</p>
+              </item>
+              <item id="section-2.1.list3.o">
+                <num>(o)</num>
+                <p>metropolitan city of Madras means the area covered by the City of Madras as defined in the Madras City Municipal Act, 1919 (Madras Act IV of 1919);</p>
+              </item>
+              <item id="section-2.1.list3.p">
+                <num>(p)</num>
+                <p>prescribed means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.1.list3.q">
+                <num>(q)</num>
+                <p>rolling stock includes locomotives, engines, carriages (whether powered or not), wagons, trollies and vehicles of all kinds moving or intended to move on rails;</p>
+              </item>
+              <item id="section-2.1.list3.r">
+                <num>(r)</num>
+                <blockList id="section-2.1.list3.r.list0">
+                  <listIntroduction>to erect, in relation to any building, includes</listIntroduction>
+                  <item id="section-2.1.list3.r.list0.i">
+                    <num>(i)</num>
+                    <p>any material alteration or enlargement of such building,</p>
+                  </item>
+                  <item id="section-2.1.list3.r.list0.ii">
+                    <num>(ii)</num>
+                    <p>conversion, by structural alteration, into a place for human habitation of such building not originally constructed for human habitation,</p>
+                  </item>
+                  <item id="section-2.1.list3.r.list0.iii">
+                    <num>(iii)</num>
+                    <p>conversion into more than one place for human habitation of such building originally constructed as one such place,</p>
+                  </item>
+                  <item id="section-2.1.list3.r.list0.iv">
+                    <num>(iv)</num>
+                    <p>conversion of two or more places of human habitation in such building into a greater number of such places,</p>
+                  </item>
+                  <item id="section-2.1.list3.r.list0.v">
+                    <num>(v)</num>
+                    <p>such alteration of such building as would alter the drainage or sanitary arrangements therein or would materially affect its security, and</p>
+                  </item>
+                  <item id="section-2.1.list3.r.list0.vi">
+                    <num>(vi)</num>
+                    <p>the addition of any rooms in such building.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>All other words and expressions used herein and not defined but defined in the *Indian Railways Act, 1890 (9 of 1890), shall have the meanings, respectively, assigned to them in that Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>General Manager.The Central Government may, for the purposes of this Act, appoint a General Manager for every metro railway.</heading>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Constitution of Advisory Board.</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list1">
+              <listIntroduction>The Central Government may constitute an Advisory Board for every metro railway for the purpose of assisting or advising that Government on</listIntroduction>
+              <item id="section-4.1.list1.a">
+                <num>(a)</num>
+                <p>the formulation and co-ordination of plans for the development of metro railway and its expansion;</p>
+              </item>
+              <item id="section-4.1.list1.b">
+                <num>(b)</num>
+                <p>the financing and execution of any project for the construction of the metro railway;</p>
+              </item>
+              <item id="section-4.1.list1.c">
+                <num>(c)</num>
+                <p>such other matters as may be referred to it for carrying out the purposes of this Act and in particular for the purpose of ensuring that the functions of the metro railway administration are exercised with due regard to the circumstances or conditions prevailing in, and requirements of, the metropolitan city.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The Advisory Board shall consist of such number of members (being officers of the Government) not exceeding nine as may be appointed to it by the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>The Central Government shall appoint one of the members of the Advisory Board as its Chairman.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>The Central Government shall publish in the Official Gazette the names of all the members of the Advisory Board and the Chairman thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.5">
+          <num>(5)</num>
+          <content>
+            <p>The Advisory Board shall meet at such times and places and shall observe such procedure in regard to the transaction of its business as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.6">
+          <num>(6)</num>
+          <content>
+            <p>The members of the Advisory Board shall hold office for such term as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Committees.</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The Advisory Board may constitute as many committees as it deems necessary consisting wholly of members of such Board or wholly of other persons or partly of members of the Board and partly of other persons for such purposes as it may think fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Every committee constituted under sub-section (1) shall meet at such times and places and shall observe such procedure in regard to the transaction of its business as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>There shall be paid to the members of the committee who are not members of the Advisory Board, such fees and allowances for attendance at the meetings of the committee and such travelling allowances as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Power to acquire land, etc.Where it appears to a metro railway administration that for the construction of any metro railway or any other work connected therewith</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <blockList id="section-6.paragraph-0.list0">
+              <item id="section-6.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>any land, building, street, road or passage, or</p>
+              </item>
+              <item id="section-6.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>any right of user, or any right in the nature of easement, therein,</p>
+              </item>
+            </blockList>
+            <p>is required for such construction or work, it shall apply to the Central Government in such form as may be prescribed for acquiring such land, building, street, road or passage or such right of user or easement.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Publication of notification for acquisition.</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>On receipt of an application under section 6, the Central Government, after being satisfied that the requirement mentioned therein is for a public purpose, may, by notification in the Official Gazette, declare its intention to acquire the land, building, street, road or passage, or the right of user, or the right in the nature of easement, therein referred to in the application.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Every notification under sub-section (1) shall give a brief description of the land, building, street, road or passage.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>The competent authority shall cause the substance of the notification to be published in such places and in such manner as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Power to enter for survey, etc.On the issue of a notification under sub-section</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-8.1.list1">
+              <listIntroduction>of section 7, it shall be lawful for the metro railway administration or any officer or other employee of the metro railway</listIntroduction>
+              <item id="section-8.1.list1.a">
+                <num>(a)</num>
+                <p>to enter upon and survey and take level of the land, building, street, road or passage specified in the notification;</p>
+              </item>
+              <item id="section-8.1.list1.b">
+                <num>(b)</num>
+                <p>to dig or bore into the sub-soil;</p>
+              </item>
+              <item id="section-8.1.list1.c">
+                <num>(c)</num>
+                <p>to set out the intended work;</p>
+              </item>
+              <item id="section-8.1.list1.d">
+                <num>(d)</num>
+                <p>to mark such levels, boundaries or lines by placing marks and cutting trenches;</p>
+              </item>
+              <item id="section-8.1.list1.e">
+                <num>(e)</num>
+                <p>to do all other acts necessary to ascertain whether the metro railway can be laid upon or under the land, building, street, road or passage, as the case may be:</p>
+              </item>
+            </blockList>
+            <p>Provided that while exercising any power under this section the metro railway administration or such officer or other employee shall cause as little damage or injury as possible to such land, building, street, road or passage, as the case may be.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Hearing of objection.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person interested in the land, building, street, road or passage may, within twenty-one days from the</p>
+            <p>date of publication under sub-section (3) of section 7 of the substance of the notification under sub-section (1) of that section object to the construction of the metro railway or any other work connected therewith upon or under the land, building, street, road or passage, as the case may be.</p>
+            <p>Explanation.For the purposes of this sub-section, where the substance of the notification under sub-section (1) of section 7 is published on different dates at different places, the last of such dates shall be deemed to be the date on which substance of the notification has been published.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>Every objection under sub-section (1) shall be made to the competent authority in writing and shall set out the grounds thereof and the competent authority shall give the objector an opportunity of being heard, either in person or</p>
+            <p>by an agent or by a legal practitioner, and may, after hearing all such objections and after making such further enquiry, if any, as the competent authority thinks necessary, by order, either allow or disallow the objections.</p>
+            <p>Explanation.For the purposes of this sub-section legal practitioner has the same meaning as in clause (i) of sub-section (1) of section 2 of the Advocates Act, 1961 (25 of 1961).</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>Any order made by the competent authority under sub-section (2) shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Declaration of acquisition.</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>Where no objection under sub-section (1) of section 9 has been made to the competent authority within the period specified therein or where the competent authority has disallowed the objection under sub-section (2) of that section, the competent authority shall, as soon as may be, submit a report accordingly to the Central Government and on receipt of such report, the Central Government shall declare, by notification in the Official Gazette, that the land, building, street, road or passage, or the right of user, or the right in the nature of easement, therein for laying the metro railway should be acquired.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>On the publication of the declaration under sub-section (1), the land, building, street, road or passage, or the right of user, or the right in the nature of easement, therein shall vest absolutely in the Central Government free from all encumbrances.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>Where in respect of any land, building, street, road or passage, a notification has been published under sub-section (1) of section 7 either for its acquisition or for the acquisition of the right of user, or any right in the nature of easement, therein, but no declaration under this section has been published within a period of one year from the date of publication of that notification, the said notification shall cease to have any effect:</p>
+            <p>Provided that in computing the said period of one year, the period or periods during which any action or proceeding to be taken in pursuance of the notification issued under sub-section (1) of section 7 including any such action or proceeding pending immediately before the commencement of the Metro Railways (Construction of Works) Amendment Act, 1987 is stayed by an order of a court, whether granted before or after such commencement, shall be excluded.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>A declaration made by the Central Government under sub-section (1) shall not be called in question in any court or by any other authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Power to take possession.</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any land, building, street, road or passage has vested under sub-section (2) of section 10 and the amount determined by the competent authority under section 13 with respect to such land, building, street, road or passage has been deposited under sub-section (1) of section 14, with the Competent Authority by the Central Government, the competent authority may by notice in writing direct the owner as well as any other person who may be in possession of such land, building, street, road or passage to surrender or deliver possession thereof to the competent authority or any person duly authorised by it in this behalf within sixty days of the service of the notice.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-11.2.list1">
+              <listIntroduction>If any person refuses or fails to comply with any direction made under sub-section (1), the competent authority shall apply,</listIntroduction>
+              <item id="section-11.2.list1.a">
+                <num>(a)</num>
+                <p>in the case of any land, building, street, road or passage situated in any area falling within the Presidency-town of Bombay, Calcutta or Madras, to the Commissioner of Police;</p>
+              </item>
+              <item id="section-11.2.list1.b">
+                <num>(b)</num>
+                <p>in the case of any land, building, street, road or passage situated in any area other than the area referred to in clause (a), to the Executive Magistrate,</p>
+              </item>
+            </blockList>
+            <p>and such Commissioner or Magistrate, as the case may be, shall enforce the surrender of the land, building, street, road or passage to the competent authority or to the person duly authorised by it.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Right to enter into the land where right of user, etc., is vested in the Central Government.Where the right of user in, or any right in the nature of easement on, any land, building, street, road or passage has vested in the Central Government under section 10, it shall be lawful for the metro railway administration or any officer or other employee of the Central Government to enter and do any other act necessary upon the land, building, street, road or passage for carrying out the construction of the metro railway or any other work connected therewith.</heading>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Determination of amount payable for acquisition.</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any land, building, street, road or passage is acquired under this Act, there shall be paid an amount which shall be determined</p>
+            <p>by an order of the competent authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the right of user in, or any right in the nature of an easement on, any land, building, street, road or passage is acquired under this Act, there shall be paid an amount to the owner and any other person whose right of enjoyment in that land, building, street, road or passage has been affected in any manner whatsoever by reason of such acquisition an amount calculated at ten per cent. of the amount determined under sub-section (1) for that land, building, street, road or passage.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2A">
+          <num>(2A)</num>
+          <content>
+            <p>Before proceeding to determine the amount under sub-section (1) or sub-section (2), the competent authority shall give a public notice published in the prescribed manner inviting claims from all persons interested in the land, building, street, road or passage, or the right of user or the right in the nature of easement therein to be acquired.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2B">
+          <num>(2B)</num>
+          <content>
+            <p>Such notice shall state the particulars of the land, building, street, road or passage acquired, or the right of user or the right in the nature of easement therein acquired and shall require all persons interested in such land, building, street, road or passage or right of user or right in the nature of easement therein, to appear in person, or by an agent or by a legal practitioner referred to in sub-section (2) of section 9, before the competent authority, at a time and place therein mentioned (such time not being earlier than fifteen days after the date of the publication of the notice) and to state the nature of their respective interests in such land, building, street, road or passage or right of user or right in the nature of easement therein.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.3">
+          <num>(3)</num>
+          <content>
+            <p>If the amount determined by the competent authority under sub-section (1) or sub-section (2) is not acceptable to either of the parties the amount shall,</p>
+            <p>on an appeal preferred by either of the parties to the appellate authority, within a period of sixty days from the date of the order appealed against, be determined by an order of the appellate authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.4">
+          <num>(4)</num>
+          <content>
+            <p>The competent authority or the</p>
+            <blockList id="section-13.4.list2">
+              <listIntroduction>appellate authority while determining the amount under sub-section (1) or sub-section (3), as the case may be, shall take into consideration</listIntroduction>
+              <item id="section-13.4.list2.a">
+                <num>(a)</num>
+                <p>the market value of the land, building, street, road or passage on the date of publication of the notification under section 7;</p>
+              </item>
+              <item id="section-13.4.list2.b">
+                <num>(b)</num>
+                <p>the damage, if any, sustained by the person interested at the time of taking possession of the land, by reason of the severing or such land from other land;</p>
+              </item>
+              <item id="section-13.4.list2.c">
+                <num>(c)</num>
+                <p>the damage, if any, sustained by the person interested at the time of taking possession of the land, building, street, road or passage by reason of the acquisition injuriously affecting his other immovable property in any other manner, or his earnings;</p>
+              </item>
+              <item id="section-13.4.list2.d">
+                <num>(d)</num>
+                <p>if, in consequence of the acquisition of the land, building, street, road or passage, the person interested is compelled to change his residence or place of business, the reasonable expenses, if any, incidental to such change.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Deposit and payment of amount.</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>The amount determined</p>
+            <p>*** under section 13 shall be deposited by the Central Government in such manner as may be prescribed with the competent authority</p>
+            <p>within such time as may be fixed by that authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>As soon as may be after the amount has been deposited under sub-section (1), the competent authority shall on behalf of the Central Government pay the amount to the person or persons entitled thereto:</p>
+            <blockList id="section-14.2.list2">
+              <listIntroduction>Provided that where an appeal has been or is likely to be preferred under section 13 against the order by which such amount was determined and the competent authority is satisfied for reasons to be recorded in writing that it is necessary or expedient so to do, he may by order in writing</listIntroduction>
+              <item id="section-14.2.list2.a">
+                <num>(a)</num>
+                <p>require the person claiming payment of such amount to furnish as a condition of receiving such payment, such security as may be specified in the order; or</p>
+              </item>
+              <item id="section-14.2.list2.b">
+                <num>(b)</num>
+                <p>if such person fails to furnish such security, withhold the payment of the whole or any part of such amount for such period as may be specified in the order.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-14.3">
+          <num>(3)</num>
+          <content>
+            <p>Where several persons claim to be interested in the amount deposited under sub-section (1) the competent authority shall determine the persons who in its opinion are entitled to receive the amount payable to each of them.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.4">
+          <num>(4)</num>
+          <content>
+            <p>If any dispute arises as to the apportionment of the amount or any part thereof or to any person to whom the same or any part thereof is payable, the competent authority shall refer the dispute to the decision of the principal civil court of original jurisdiction within the limits of whose jurisdiction the land, building, street, road or passage is situated.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.5">
+          <num>(5)</num>
+          <content>
+            <p>Where the amount determined under section 13 by the</p>
+            <p>appellate authority is in excess of the amount determined by the competent authority, the</p>
+            <p>appellate authority may award interest at six per cent. per annum on such excess amount from the date of taking possession under section 11 till the date of the actual deposit thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.6">
+          <num>(6)</num>
+          <content>
+            <p>Where the amount determined by the</p>
+            <p>appellate authority is in excess of the amount determined by the competent authority, the excess amount together with interest, if any, awarded under sub-section (5) shall be deposited by the Central Government in such manner as may be prescribed with the competent authority and the provisions of sub-sections (2) to (4) shall apply to such deposit.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Competent authority to have certain powers of civil court.The competent authority shall have, for the purposes of this Act, all the powers of a civil court while trying a suit under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <blockList id="section-15.paragraph-0.list0">
+              <item id="section-15.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+              </item>
+              <item id="section-15.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>requiring the discovery and production of any document;</p>
+              </item>
+              <item id="section-15.paragraph-0.list0.c">
+                <num>(c)</num>
+                <p>reception of evidence on affidavits;</p>
+              </item>
+              <item id="section-15.paragraph-0.list0.d">
+                <num>(d)</num>
+                <p>requisitioning any public record from any court or office;</p>
+              </item>
+              <item id="section-15.paragraph-0.list0.e">
+                <num>(e)</num>
+                <p>issuing commission for examination of witnesses.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15A">
+        <num>15A.</num>
+        <heading>Power to inspect property under acquisition.The competent authority may, with or without assistants or workmen, enter into or upon any land, building, street, road or passage, for the purpose of performing his functions under this Act and make such enquiry, inspection, measurement and take such photographs and prepare such memorandum thereof as he may consider necessary:</heading>
+        <paragraph id="section-15A.paragraph-0">
+          <content>
+            <blockList id="section-15A.paragraph-0.list1">
+              <listIntroduction>Provided that</listIntroduction>
+              <item id="section-15A.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>no such entry shall be made except between the hours of sunrise and sunset and without giving reasonable notice to</p>
+              </item>
+              <item id="section-15A.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the owner of or the person interested in, the land, building, street, road or passage; or</p>
+              </item>
+              <item id="section-15A.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the person whose right of user in or right in the nature of easement on the land, building, street, road or passage is acquired; or</p>
+              </item>
+              <item id="section-15A.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>the person who sustains any loss or damage to the land, building, street, road or passage in consequence of any direction given by the Central Government or any power exercised by the metro railway administration under this Act;</p>
+              </item>
+              <item id="section-15A.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>sufficient opportunity shall in every instance be given to enable women, if any, to withdraw from such land, building, street, road or passage;</p>
+              </item>
+              <item id="section-15A.paragraph-0.list1.iii">
+                <num>(iii)</num>
+                <p>due regard shall always be had, so far as may be compatible with the exigencies of the purpose for which the entry is made, to the social and religious usage of the person to whom notice as aforesaid is given;</p>
+              </item>
+              <item id="section-15A.paragraph-0.list1.iv">
+                <num>(iv)</num>
+                <p>the competent authority making the entry shall cause a little damage or injury as possible, to the land, building, street, road or passage.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Competent authority and appellate authority.</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-16.1.list1">
+              <listIntroduction>For every metro railway, the Central Government shall, for the purposes of this Act, by notification in the Official Gazette, appoint</listIntroduction>
+              <item id="section-16.1.list1.i">
+                <num>(i)</num>
+                <p>a competent authority; and</p>
+              </item>
+              <item id="section-16.1.list1.ii">
+                <num>(ii)</num>
+                <p>an appellate authority,</p>
+              </item>
+            </blockList>
+            <p>for such area as may be specified in the notification.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <p>A person shall not be qualified for appointment as a competent authority unless he is holding, or has held, a judicial office, not lower in rank than that of a subordinate judge.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.3">
+          <num>(3)</num>
+          <content>
+            <p>A person shall not be qualified for appointment as an appellate authority unless he is holding, or has held, a judicial office, not lower in rank than that of a subordinate judge.</p>
+            <blockList id="section-16.3.list2">
+              <listIntroduction>Explanation.For the purpose of this section,</listIntroduction>
+              <item id="section-16.3.list2.a">
+                <num>(a)</num>
+                <p>district judge includes an additional district judge;</p>
+              </item>
+              <item id="section-16.3.list2.b">
+                <num>(b)</num>
+                <p>subordinate judge means subordinate judge in the judicial service of West Bengal, and includes any judicial officer (by whatever name called) of an equivalent rank in the judicial service of any other State.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16A">
+        <num>16A.</num>
+        <heading>Powers of the appellate authority.</heading>
+        <subsection id="section-16A.1">
+          <num>(1)</num>
+          <content>
+            <p>The appellate authority may admit an appeal filed after the expiry of the period referred to in section 13 or section 22 or section 25, as the case may be, if he is satisfied that there was sufficient cause for not presenting it within that period.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16A.2">
+          <num>(2)</num>
+          <content>
+            <p>For the disposal of an appeal under this Act, the appellate authority shall have the same powers (including the powers under sections 15 and 15A), and shall, subject to the provisions of this section, perform as nearly as may be the same duties as are conferred or imposed by this Act on the competent authority in respect of the matters under Chapter III and Chapter IV.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16A.3">
+          <num>(3)</num>
+          <content>
+            <p>The appellate authority may, if he thinks it expedient so to do, call in his aid one or more assessors and hear the appeal wholly or partly with the aid of such assessors.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16A.4">
+          <num>(4)</num>
+          <content>
+            <p>for the purpose of determining the amount under any appeal before him, the appellate authority may, after making such further enquiry or after taking such additional evidence, as may be necessary, pass such order as he thinks fit, determining the amount, by confirming, modifying or annulling the order appealed against.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16A.5">
+          <num>(5)</num>
+          <content>
+            <p>An order of the appellate authority determining the amount under this Act shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16B">
+        <num>16B.</num>
+        <heading>Competent authority, etc., to have certain inherent powers.The competent authority and the appellate authority may exercise powers of the nature referred to in section 151 of the Code of Civil Procedure, 1908 (5 of 1908) to the same extent and for the same purposes as such powers are exercisable by civil courts.</heading>
+      </section>
+      <section id="section-16C">
+        <num>16C.</num>
+        <heading>Enforcement of the orders of the competent authority and appellate authority.</heading>
+        <subsection id="section-16C.1">
+          <num>(1)</num>
+          <content>
+            <p>Any order made by the competent authority or the appellate authority determining any amount payable under this Act may be enforced in the same manner as if such order were a decree made by a civil court in a suit pending therein, and it shall be lawful for such authority to send, in the case of his inability to execute, such order, to the principal civil court of original jurisdiction within the local limits of whose jurisdiction the order was made.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16C.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any order under sub-section (1) is required to be enforced by the principal civil court of original jurisdiction, a certified copy of the order shall be produced to the proper officer of the court required to enforce the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16C.3">
+          <num>(3)</num>
+          <content>
+            <p>The production of such certified copy shall be sufficient evidence of the order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16C.4">
+          <num>(4)</num>
+          <content>
+            <p>Upon the production of such certified copy, the principal civil court of original jurisdiction shall take the requisite steps for enforcing the order, in the same manner as if it had been a decree made by itself.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Land Acquisition Act 1 of 1894 not to apply.Nothing in the Land Acquisition Act, 1894, shall apply to an acquisition under this Act.</heading>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Functions of metro railway administration.Subject to the control of the Central Government, the metro railway administration shall, for the purpose of constructing any metro railway or any other work connected therewith,</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <blockList id="section-18.paragraph-0.list0">
+              <item id="section-18.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>make or construct in, upon, across, under or over any lands, buildings, streets, roads, railways or tramways or any rivers, canals, brooks, streams or other waters or any drains, water-pipes, gas-pipes, electric lines or telegraph lines, such temporary or permanent inclined planes, arches, tunnels, culverts, embankments, aqueducts, bridges, ways or passages, as the metro railway administration thinks proper;</p>
+              </item>
+              <item id="section-18.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>alter the course of any rivers, canals, brooks, streams or water-courses for the purpose of constructing tunnels, passages or other works over or under them and divert or alter as well temporarily as permanently, the course of any rivers, cannals, brooks, streams or water-courses or any drains, water-pipes, gas-pipes, electric lines or telegraph lines or raise or sink the level thereof in order the more conveniently to carry them over or under, as the metro railway administration thinks proper;</p>
+              </item>
+              <item id="section-18.paragraph-0.list0.c">
+                <num>(c)</num>
+                <p>make drains or conduits into, through or under, any lands adjoining the metro railway for the purpose of conveying water from or to the metro railway;</p>
+              </item>
+              <item id="section-18.paragraph-0.list0.d">
+                <num>(d)</num>
+                <p>erect or construct such houses, warehouses, offices and other buildings and such yards, stations, engines, machinery, apparatus and other works and conveniences, as the metro railway administration thinks proper;</p>
+              </item>
+              <item id="section-18.paragraph-0.list0.e">
+                <num>(e)</num>
+                <p>alter, repair or discontinue such buildings, works and conveniences as aforesaid or any of them, and substitute others in their stead;</p>
+              </item>
+              <item id="section-18.paragraph-0.list0.f">
+                <num>(f)</num>
+                <p>draw, make or conduct such maps, plans, surveys or tests, as the metro railway administration thinks property;</p>
+              </item>
+              <item id="section-18.paragraph-0.list0.g">
+                <num>(g)</num>
+                <p>do all other acts necessary for making, maintaining, altering or repairing and using the metro railway.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Powers of metro railway administration.</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>The metro railway administration shall, for the purpose of</p>
+            <blockList id="section-19.1.list2">
+              <listIntroduction>performing its functions under section 18, have power</listIntroduction>
+              <item id="section-19.1.list2.a">
+                <num>(a)</num>
+                <p>to enter into contracts and leases and to execute all instruments necessary therefor;</p>
+              </item>
+              <item id="section-19.1.list2.b">
+                <num>(b)</num>
+                <p>to make such number of rail tracks as the Central Government may think necessary upon, under, along or across any land, canal, river, street or road on or in the metro alignment and all other works and conveniences in connection therewith;</p>
+              </item>
+              <item id="section-19.1.list2.c">
+                <num>(c)</num>
+                <p>to open, divert or temporarily close, as the case may be, any street, road, cable, trench, drain (including a sewer), channel, ditch, culvert or any other device (whether for carrying of sullage, sewage, offensive matter, polluted water, trade effluent, rain water, sub-soil water or any other object), electric or gas supply line or tele-communication line, or telegraph installation, over, across or under any land, building, street, road, railway or tramway;</p>
+              </item>
+              <item id="section-19.1.list2.d">
+                <num>(d)</num>
+                <p>to burrow tunnels;</p>
+              </item>
+              <item id="section-19.1.list2.e">
+                <num>(e)</num>
+                <p>to lay down signalling and other communication facilities, electric sub-stations, supply lines and other works;</p>
+              </item>
+              <item id="section-19.1.list2.f">
+                <num>(f)</num>
+                <p>to regulate drilling of tubewells or sinking of wells, public or private, in the proximate vicinity of the metro alignment;</p>
+              </item>
+              <item id="section-19.1.list2.g">
+                <num>(g)</num>
+                <p>to do all other things necessary or expedient for the exercise of any of the aforesaid powers.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>While exercising any powers under sub-section (1), the metro railway administration shall take such precautionary measures as are necessary, shall do as little damage as possible and shall be liable only for the damage or cost actually suffered or incurred by any person as a result of the exercise of such powers.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Development over metro alignment.</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person who proposes to develop any land or building along or on the metro alignment shall, before commencing such development and without in any way limiting his obligation under any other Act to obtain any approval or consent, submit to the metro railway administration details of the proposed development and shall comply with any conditions imposed by the metro railway administration in respect thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-20.2.list1">
+              <listIntroduction>The metro railway administration shall, while imposing any condition under sub-section (1), have regard to</listIntroduction>
+              <item id="section-20.2.list1.a">
+                <num>(a)</num>
+                <p>the safety of the metro railway;</p>
+              </item>
+              <item id="section-20.2.list1.b">
+                <num>(b)</num>
+                <p>such other matters as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Power to prohibit or regulate construction of buildings and excavation.</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-21.1.list1">
+              <listIntroduction>If the Central Government is of opinion that it is necessary or expedient so to do for facilitating the construction of any metro railway or for ensuring the safety of any metro railway, it may, by notification in the Official Gazette,</listIntroduction>
+              <item id="section-21.1.list1.a">
+                <num>(a)</num>
+                <p>direct that no building or any such development as may be specified in the notification shall be constructed or made above the metro alignment or on any land within such distance, not exceeding</p>
+              </item>
+            </blockList>
+            <blockList id="section-21.1.list3">
+              <listIntroduction>twenty metres on either side of the metro alignment, as may be specified in the notification and where there is any building on such land also direct the owner of, or the person having control over, such building to demolish such building or to make such additions or alterations to such building as may be specified in the notification or to desist from making any such development and within such period as may be specified in the notification;</listIntroduction>
+              <item id="section-21.1.list3.b">
+                <num>(b)</num>
+                <p>direct temporary evacuation of all persons together with any movable property or animal that may be in the custody, control or possession of such persons from any building situated above the metro alignment or in any area within a distance not exceeding twenty metres on either side of such alignment and within such period as may be specified in the notification:</p>
+              </item>
+            </blockList>
+            <p>Provided that before issuing any notification under this clause, the Central Government shall provide every such person temporarily with alternative accommodation, which in its opinion is suitable, free of cost, or an amount, which in its opinion is sufficient, to procure a temporary alternative accommodation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any property is needed or likely to be needed for providing any alternative accommodation under the proviso to clause (b) of sub-section (1), such property shall be deemed to be needed for a public purpose under section 3 of the Requisitioning and Acquisition of Immovable Property Act, 1952 (30 of 1952), and the competent authority under that Act shall requisition the property in accordance with the provisions of that Act and such provisions shall, in relation to such requisition, apply accordingly.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-21.3.list1">
+              <listIntroduction>In specifying the distance under clause (a) of sub-section (1), the Central Government shall have regard to</listIntroduction>
+              <item id="section-21.3.list1.a">
+                <num>(a)</num>
+                <p>the nature and the requirement of the metro railway;</p>
+              </item>
+              <item id="section-21.3.list1.b">
+                <num>(b)</num>
+                <p>the safety of the building;</p>
+              </item>
+              <item id="section-21.3.list1.c">
+                <num>(c)</num>
+                <p>such other matters as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-21.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-21.4.list1">
+              <listIntroduction>Where any notification has been issued under sub-section (1) directing the owner or the person having control over any building to demolish such building or to make additions or alterations to such building or to desist from making any development specified in such notification, a copy of the notification containing such direction shall be served on the owner of, or the person having control over, such building, as the case may be,</listIntroduction>
+              <item id="section-21.4.list1.i">
+                <num>(i)</num>
+                <p>by delivering or tendering it to such owner or person; or</p>
+              </item>
+              <item id="section-21.4.list1.ii">
+                <num>(ii)</num>
+                <p>if it cannot be delivered or tendered, by delivering or tendering it to the agent of such owner or person or any adult male member of the family of such owner or person or by affixing a copy thereof on the outer door or on some conspicuous part of the premises in which such owner or person is known to have last resided or carried on business or personally worked for gain; or failing service by these means;</p>
+              </item>
+              <item id="section-21.4.list1.iii">
+                <num>(iii)</num>
+                <p>by post.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-21.5">
+          <num>(5)</num>
+          <content>
+            <p>Every person shall be bound to comply with any direction contained in any notification issued under sub-section (1).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Payment of amount for prohibition of construction, etc.</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>If in consequence of any direction contained in any notification issued under sub-section (1) of section 21 any person sustains any loss or damage, such person shall be paid an amount which shall be determined</p>
+            <p>by an order of the competent authority in the first instance.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <p>If the amount determined by the competent authority is not acceptable to either of the parties, the amount shall,</p>
+            <p>on an appeal preferred by either of the parties, within sixty days from the date of the order of the competent authority, to the appellate authority, be determined by an order of the appellate authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>The competent authority or the</p>
+            <blockList id="section-22.3.list2">
+              <listIntroduction>appellate authority, while determining the amount under sub-section (1) or sub-section (2), as the case may be, shall take into consideration</listIntroduction>
+              <item id="section-22.3.list2.i">
+                <num>(i)</num>
+                <p>the loss or damage sustained by such person in his earnings;</p>
+              </item>
+              <item id="section-22.3.list2.ii">
+                <num>(ii)</num>
+                <p>the diminution, if any, of the market value of the land or building immediately after the date of publication of such notification;</p>
+              </item>
+              <item id="section-22.3.list2.iii">
+                <num>(iii)</num>
+                <p>where in pursuance of any direction any building has been demolished or any additions or alterations to such building have been made or any development has been desisted by such person, the damage sustained by him in consequence of such demolition or the making of such additions or alterations or the desisting from making such development and the expenses incurred by such person for such demolition or additions or alterations:</p>
+              </item>
+            </blockList>
+            <blockList id="section-22.3.list4">
+              <listIntroduction>Provided that the expenses incurred for such demolition or additions or alterations shall not be taken into consideration if such demolition or additions or alterations has or have been done by the metro railway administration under sub-section (2) of section 36;</listIntroduction>
+              <item id="section-22.3.list4.iv">
+                <num>(iv)</num>
+                <p>if any such person is compelled to change his residence or place of business the reasonable expenses, if any, that may have to be incurred by him incidental to such change.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Power to underpin building or otherwise strengthen it.</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>If the metro railway administration is of opinion that it is necessary or expedient so to do for facilitating the construction of any metro railway or for ensuring the safety of any metro railway, it may, underpin or otherwise strengthen any building within such radius not exceeding, fifty metres from the metro alignment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>The metro railway administration shall give to the owner or occupier of such building at least ten days notice in writing before undertaking the work of underpinning or otherwise strengthening the building:</p>
+            <p>Provided that where the metro railway administration is satisfied that an emergency exists, no such notice shall be necessary.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-23.3.list1">
+              <listIntroduction>Where the underpinning or strengthening was executed in connection with</listIntroduction>
+              <item id="section-23.3.list1.a">
+                <num>(a)</num>
+                <p>the carrying out of the works upon the land where any building is situated, or</p>
+              </item>
+              <item id="section-23.3.list1.b">
+                <num>(b)</num>
+                <p>the construction or operation of any metro railway,</p>
+              </item>
+            </blockList>
+            <blockList id="section-23.3.list3">
+              <listIntroduction>the metro railway administration may, at any time after the underpinning or strengthening of such building is completed and before the expiration of a period of twelve months,</listIntroduction>
+              <item id="section-23.3.list3.i">
+                <num>(i)</num>
+                <p>in a case referred to in clause (a), from the completion of such works; and</p>
+              </item>
+              <item id="section-23.3.list3.ii">
+                <num>(ii)</num>
+                <p>in a case referred to in clause (b), from the date on which traffic was opened in the metro railway,</p>
+              </item>
+            </blockList>
+            <p>enter upon and survey such building and do such further underpinning or strengthening thereon as it may deem necessary.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Power to enter, etc.</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-24.1.list1">
+              <listIntroduction>With a view to making survey, or to ascertaining the nature or condition, of any land or building for the purpose of construction of any metro railway or any other work connected therewith, the metro railway administration or any person authorised by that administration may, at any reasonable hour in the day time and after giving reasonable notice to the owner or occupier of such land or building, enter upon or into such land or building in, along, over or near the alignment to</listIntroduction>
+              <item id="section-24.1.list1.a">
+                <num>(a)</num>
+                <p>inspect the same;</p>
+              </item>
+              <item id="section-24.1.list1.b">
+                <num>(b)</num>
+                <p>make measurements and drawings and take photographs thereof and such other suitable measures as may be necessary to explore and check-up, by digging trial pits or otherwise, the foundation of any building in the vicinity of the metro alignment;</p>
+              </item>
+              <item id="section-24.1.list1.c">
+                <num>(c)</num>
+                <p>take such other measures as the said administration deems necessary and proper.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>Without prejudice to the powers conferred on it under section 19, the metro railway administration may, by writing, request any person or body of persons controlling any sewer, storm water drain, pipe, wire or cable to carry out at the expense of the metro railway administration any alterations thereto which that administration is authorised or may be required to carry out to meet any particular situation for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.3">
+          <num>(3)</num>
+          <content>
+            <p>If any difference or dispute arises between the metro railway administration and the person or body of persons referred to in sub-section (2) in relation to any such alterations or the cost thereof, such difference or dispute shall be determined by the Central Government in consultation (wherever necessary) with the State Government and the decision of the Central Government in this regard shall not be called in question in any court.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Amount payable for damage, loss or injury.</heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <p>Where the metro railway administration exercises any power conferred on it by or under this Act and in consequence thereof any damage, loss or injury is sustained by any person interested in any land, building, street, road or passage, the metro railway administration shall be liable to pay to such person for such damage, loss or injury such amount as may be determined by the competent authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <p>If the amount determined by the competent authority under sub-section (1) is not acceptable to either of the parties, the amount payable shall,</p>
+            <p>on an appeal preferred by either of the parties, within sixty days from the date of the order of the competent authority, to the appellate authority, be determined by an order of the appellate authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.3">
+          <num>(3)</num>
+          <content>
+            <p>The competent authority or the</p>
+            <blockList id="section-25.3.list2">
+              <listIntroduction>appellate authority while determining the amount under sub-section (1) or sub-section (2), as the case may be, shall have due regard to the damage, loss or injury sustained by any person interested in the land, building, street, road or passage by reason of</listIntroduction>
+              <item id="section-25.3.list2.i">
+                <num>(i)</num>
+                <p>the removal of trees or standing crops, if any;</p>
+              </item>
+              <item id="section-25.3.list2.ii">
+                <num>(ii)</num>
+                <p>the temporary severance of the land, building, street, road or passage;</p>
+              </item>
+              <item id="section-25.3.list2.iii">
+                <num>(iii)</num>
+                <p>any injury to any other property whether movable or immovable.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-25.4">
+          <num>(4)</num>
+          <content>
+            <p>The procedure and the manner of deposit and payment of the amount payable for acquiring any land, building, street, road or passage or any right of user in or any right in the nature of easement on any land, building, street, road or passage shall be followed in the case of the procedure and the manner of deposit and payment of the amount determined by the competent authority or the appellate authority under this section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Right to claim for damages.No claim in respect of any damage, loss or injury alleged to have been caused as a consequence of construction of any metro railway or any other work connected therewith under this Act shall lie against the metro railway administration unless such claim is made within a period of twelve months from the date of completion of the construction of such metro railway or other work in the area in which such damage, loss or injury is caused.</heading>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Appointment and duties of commissioner.</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may appoint as many persons as it thinks fit by name or by virtue of their office to be commissioners of metro railway.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27.2.list1">
+              <listIntroduction>Every commissioner shall</listIntroduction>
+              <item id="section-27.2.list1.a">
+                <num>(a)</num>
+                <p>inspect the metro railway with a view to determining whether it is fit to be opened for public carriage of passengers and report thereon to the Central Government;</p>
+              </item>
+              <item id="section-27.2.list1.b">
+                <num>(b)</num>
+                <p>make such periodical or other inspections of any metro railway or of any rolling stock used thereon as the Central Government may direct;</p>
+              </item>
+              <item id="section-27.2.list1.c">
+                <num>(c)</num>
+                <p>perform such other duties as may be imposed on him by or under this Act or any other enactment for the time being in force relating to railways or required by the Central Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Powers of Commissioners.Subject to the control of the Central Government every commissioner shall have the power</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <blockList id="section-28.paragraph-0.list0">
+              <item id="section-28.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>to enter upon and inspect any metro railway or any rolling stock used thereon;</p>
+              </item>
+              <item id="section-28.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>to make any enquiry or to take any measurement as he thinks fit for the performance of his duties under this Act;</p>
+              </item>
+              <item id="section-28.paragraph-0.list0.c">
+                <num>(c)</num>
+                <p>by an order in writing under his hand and official seal addressed to any metro railway administration, to require the attendance before him of any officer or other employee of the metro railway and to require answers or returns, to such enquiries as he thinks fit to make, from such officer or other employee or from the said administration;</p>
+              </item>
+              <item id="section-28.paragraph-0.list0.d">
+                <num>(d)</num>
+                <p>to require the production of any book or other documents belonging to, or in the possession or control of, any metro railway administration which it appears to him to be necessary to inspect for the performance of his duties by or under this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Facilities to be afforded to commissioner.Every metro railway administration shall afford to every commissioner all reasonable facilities for performing the duties or exercising the powers imposed or conferred upon him by or under this Act.</heading>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Surplus land to be sold or otherwise disposed of.Every metro railway administration may, with the previous approval of the Central Government, sell or otherwise dispose of any land vested in the Central Government under the provisions of this Act when such land is no longer required for the purposes of the metro railway.</heading>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Notice of accidents and enquiries.</heading>
+        <subsection id="section-31.1">
+          <num>(1)</num>
+          <content>
+            <p>If any accident occurs during the construction of any metro railway or at any stage subsequent thereto as a consequence of such construction and the accident results in, or is likely to have resulted in, loss of human being or animal or damage to any property, it shall be the duty of the metro railway administration to give notice to the Central Government of the occurrence of any such loss or damage in such form and within such time as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-31.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-31.2.list1">
+              <listIntroduction>On receipt of a notice under sub-section (1), the Central Government may, if it thinks fit, appoint a commission to enquire into the accident and report as to</listIntroduction>
+              <item id="section-31.2.list1.a">
+                <num>(a)</num>
+                <p>the cause of such accident;</p>
+              </item>
+              <item id="section-31.2.list1.b">
+                <num>(b)</num>
+                <p>the manner in which and the extent to which the provisions of this Act or any other Act for the time being in force in so far as those provisions regulate and govern the safety of any person, animal or property, have been complied with.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-31.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-31.3.list1">
+              <listIntroduction>The commission appointed under sub-section (2), while holding an enquiry, shall have all the powers of a civil court while trying a suit under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:</listIntroduction>
+              <item id="section-31.3.list1.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+              </item>
+              <item id="section-31.3.list1.b">
+                <num>(b)</num>
+                <p>requiring the discovery or production of any document;</p>
+              </item>
+              <item id="section-31.3.list1.c">
+                <num>(c)</num>
+                <p>reception of evidence on affidavits;</p>
+              </item>
+              <item id="section-31.3.list1.d">
+                <num>(d)</num>
+                <p>requisitioning any public record from any court or office;</p>
+              </item>
+              <item id="section-31.3.list1.e">
+                <num>(e)</num>
+                <p>issuing commission for examination of witnesses.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Power to alter the entries in the Schedule.</heading>
+        <subsection id="section-32.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-32.1.list1">
+              <listIntroduction>The Central Government may, by notification in the Official Gazette,</listIntroduction>
+              <item id="section-32.1.list1.a">
+                <num>(a)</num>
+                <p>add to the Schedule the metro alignment in respect of a metropolitan city to which this Act is made applicable under sub-section (3) of section 1;</p>
+              </item>
+              <item id="section-32.1.list1.b">
+                <num>(b)</num>
+                <p>alter any metro alignment specified in the Schedule if it is of opinion that such alteration is necessary for the construction and maintenance of the metro railway to which such alignment relates.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-32.2">
+          <num>(2)</num>
+          <content>
+            <p>Every notification issued under sub-section (1) shall, as soon as may be after it is issued, be laid before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Prohibition of obstruction.No person shall, without any reasonable cause or excuse, obstruct any person with whom the metro railway administration has entered into a contract, in the performance or execution by such person of such contract.</heading>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Local authorities to assist.Every local authority shall render such help and assistance and furnish such information to the metro railway administration as that administration may require for discharging its functions and shall make available to the said administration for inspection and examination such records, maps, plans and other documents as may be necessary for the discharge of such functions.</heading>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Prohibition of removal of marks.No person shall remove any marks placed or fill up any trench cut for the purpose of marking levels, boundaries or lines by the metro railway administration.</heading>
+      </section>
+      <section id="section-36">
+        <num>36.</num>
+        <heading>Penalty for failure to comply with directions issued under section 21.</heading>
+        <subsection id="section-36.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person wilfully fails to comply with any direction contained in any notification issued under section 21, he shall be punished with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.2">
+          <num>(2)</num>
+          <content>
+            <p>Without prejudice to the provisions of sub-section (1), if any person fails to demolish any building or make additions or alterations thereto in pursuance of any direction contained in any notification issued under section 21 within the period specified in the notification, then, subject to such rules as the Central Government may make in this behalf, it shall be competent for any officer authorised by the metro railway administration in this behalf to demolish such building or make necessary additions or alterations thereto.</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.2A">
+          <num>(2A)</num>
+          <content>
+            <p>Without prejudice to the provisions of sub-section (2), if any person fails to vacate temporarily any building together with any movable property or animal that may be in his custody, control or possession in pursuance of any direction contained in any notification issued under section 2 within the period specified in the notification, the competent authority may enforce the direction of temporary evacuation physically by taking such police help, as may be considered by him necessary, and for this purpose the provisions of sub-section (2) of section 11 shall, as far as may be, apply.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-37">
+        <num>37.</num>
+        <heading>General provision for punishment of offences.Whoever contravenes any provision of this Act or of any rule made thereunder shall, if no other penalty is provided for such contravention elsewhere in this Act or the rules, be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.</heading>
+      </section>
+      <section id="section-38">
+        <num>38.</num>
+        <heading>Offences by companies.</heading>
+        <subsection id="section-38.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-38.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <blockList id="section-38.2.list2">
+              <listIntroduction>Explanation.For the purposes of this section,</listIntroduction>
+              <item id="section-38.2.list2.a">
+                <num>(a)</num>
+                <p>company means any body corporate and includes a firm or other association of individuals; and</p>
+              </item>
+              <item id="section-38.2.list2.b">
+                <num>(b)</num>
+                <p>director, in relation to a firm, means a partner in the firm.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-39">
+        <num>39.</num>
+        <heading>Bar of jurisdiction.No suit or application for injunction shall lie in any court against the Central Government or the metro railway administration or any officer or other employee of that Government or the metro railway or any person working for or on behalf of the metro railway administration, in respect of any work done or purported to have been done or intended to be done by it or the said administration or such officer or other employee or such person in connection with the construction of any metro railway or any other work connected therewith.</heading>
+      </section>
+      <section id="section-40">
+        <num>40.</num>
+        <heading>Effect of Act and rules, etc., inconsistent with other enactments.The provisions of this Act or any rule made or any notification issued thereunder shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act or in any instrument having effect by virtue of any enactment other than this Act.</heading>
+      </section>
+      <section id="section-41">
+        <num>41.</num>
+        <heading>Protection of action taken in good faith.</heading>
+        <subsection id="section-41.1">
+          <num>(1)</num>
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the Central Government, the metro railway administration or any officer or other employee of that Government or the metro railway for anything which is in good faith done or intended to be done under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-41.2">
+          <num>(2)</num>
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the Central Government or the metro railway administration or any officer or other employee of that Government or the metro railway for any damage caused or likely to be caused by anything which is in good faith done or intended to be done under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-42">
+        <num>42.</num>
+        <heading>Power to remove difficulties.If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, do anything not inconsistent with such provisions, which appears to it to be necessary or expedient for the purpose of removing the difficulty:</heading>
+        <paragraph id="section-42.paragraph-0">
+          <content>
+            <p>Provided that no such order shall, in relation to any metropolitan city, be made after the expiry of a period of two years from the date on which this Act applies or is made applicable to such metropolitan city under sub-section (3) of section 1.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-43">
+        <num>43.</num>
+        <heading>Application of the *Indian Railways Act, 1890.Save as otherwise provided in this Act, the provisions of this Act shall be in addition to, and not in derogation of, the *Indian Railways Act, 1890 (9 of 1890).</heading>
+      </section>
+      <section id="section-44">
+        <num>44.</num>
+        <heading>Power to make rules.</heading>
+        <subsection id="section-44.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-44.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-44.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for the following matters, namely:</listIntroduction>
+              <item id="section-44.2.list1.a">
+                <num>(a)</num>
+                <p>the times and places at which the Advisory Board shall meet and the procedure in regard to transaction of business by the Advisory Board under sub-section (5) of section 4;</p>
+              </item>
+              <item id="section-44.2.list1.b">
+                <num>(b)</num>
+                <p>the term of office of the members of the Advisory Board under sub-section (6) of section 4;</p>
+              </item>
+              <item id="section-44.2.list1.c">
+                <num>(c)</num>
+                <p>the times and places at which the committees shall meet and the procedure in regard to transaction of business by the committees under sub-section (2) of section 5;</p>
+              </item>
+              <item id="section-44.2.list1.d">
+                <num>(d)</num>
+                <p>the payment of fees, allowances and travelling allowances to the members of the committee under sub-section (3) of section 5;</p>
+              </item>
+              <item id="section-44.2.list1.e">
+                <num>(e)</num>
+                <p>the form in which an application for acquisition shall be made under section 6;</p>
+              </item>
+              <item id="section-44.2.list1.f">
+                <num>(f)</num>
+                <p>the places at which and the manner in which the substance of the notification shall be published under sub-section (3) of section 7;</p>
+              </item>
+              <item id="section-44.2.list1.g">
+                <num>(g)</num>
+                <p>the manner in which the amount shall be deposited with the competent authority under sub-sections (1) and (6) of section 14;</p>
+              </item>
+              <item id="section-44.2.list1.h">
+                <num>(h)</num>
+                <p>the matters to be specified under clause (b) of sub-section (2) of section 20;</p>
+              </item>
+              <item id="section-44.2.list1.i">
+                <num>(i)</num>
+                <p>the matters to be specified under clause (c) of sub-section (3) of section 21;</p>
+              </item>
+              <item id="section-44.2.list1.j">
+                <num>(j)</num>
+                <p>the form in which and the time within which a notice shall be given under sub-section (1) of section 31;</p>
+              </item>
+              <item id="section-44.2.list1.k">
+                <num>(k)</num>
+                <p>any other matter which is required to be or may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-44.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-45">
+        <num>45.</num>
+        <heading>Saving.Notwithstanding anything contained in this Act any proceeding, for the acquisition of any land, under the Land Acquisition Act, 1894 (1 of 1894), for the purpose of any metro railway, pending immediately before the commencement of this Act before any court or other authority shall be continued and be disposed of under that Act as if this Act had not come into force.</heading>
+        <paragraph id="section-45.paragraph-0">
+          <content>
+            <p>The Schedule</p>
+            <p>See section 2(h) and sub-section (1) of section 32</p>
+            <p>Metropolitan City of Calcutta</p>
+            <p>***</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

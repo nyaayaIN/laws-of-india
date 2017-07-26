@@ -1,0 +1,94 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1897/3/main"/>
+          <FRBRuri value="/in-union/act/1897/3"/>
+          <FRBRalias value="The Epidemic Diseases Act, 1897"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1897/3/eng@1897-02-04/main"/>
+          <FRBRuri value="/in-union/act/1897/3/eng@1897-02-04"/>
+          <FRBRdate date="1897-02-04" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1897/3/eng@1897-02-04/main"/>
+          <FRBRuri value="/in-union/act/1897/3/eng@1897-02-04"/>
+          <FRBRdate date="2016-09-26" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Epidemic Diseases Act, 1897</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 3 OF 1897</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 4th February, 1897.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to provide for the better prevention of the spread of Dangerous</p>
+        <p>Epidemic Diseases.</p>
+        <p>WHEREAS it is expedient to provide for the better prevention of  the spread of dangerous epidemic disease; It is hereby enacted as  follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading/>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>Short title and extent. This Act may be called the Epidemic</p>
+            <p>Diseases Act, 1897.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except  the territories</p>
+          </content>
+        </subsection>
+      </section>
+      <part id="part-B">
+        <num>B</num>
+        <heading>States.]]</heading>
+        <paragraph id="part-B.paragraph-0">
+          <content>
+            <p>.</p>
+          </content>
+        </paragraph>
+        <section id="section-2A">
+          <num>2A.</num>
+          <heading>Powers of Central Government. When the Central Government  is satisfied that India or any part thereof is visited by, or  threatened with, an outbreak of any dangerous epidemic disease and  that the ordinary provisions of the law for the time being in force  are insufficient to prevent the outbreak of such disease or the spread  thereof, the Central Government may take measures and prescribe  regulations for the inspection of any ship or vessel leaving or  arriving at any port in  the territories to which this Act extends]</heading>
+          <paragraph id="section-2A.paragraph-0">
+            <content>
+              <p>and for such detention thereof, or of any person intending to sail  therein, or arriving thereby, as may be necessary.]</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Penalty. Any person disobeying any regulation or order made  under this Act shall be deemed to have committed an offence punishable  under section 188 of the Indian Penal Code (45 of 1860).</heading>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Protection to persons acting under Act. No suit or other legal  proceeding shall lie against any person for anything done or in good  faith intended to be done under this Act.</heading>
+        </section>
+      </part>
+    </body>
+  </act>
+</akomaNtoso>

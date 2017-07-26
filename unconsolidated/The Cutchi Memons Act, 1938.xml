@@ -1,0 +1,83 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1938/10/main"/>
+          <FRBRuri value="/in-union/act/1938/10"/>
+          <FRBRalias value="The Cutchi Memons Act, 1938"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1938/10/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1938/10/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1938/10/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1938/10/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Cutchi Memons Act, 1938</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Cutchi Memons Act, 1938.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall come into force on the 1st day of November, 1938.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Cutchi Memons to be governed in certain matters by Muhammadan Law.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>Subject to the provisions of section 3, all Cutchi Memons shall, in matters of succession and inheritance, be governed by the Muhammadan Law.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Savings.—</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>Nothing in this Act shall affect any right or liability acquired or incurred before its commencement, or any legal proceeding or remedy in respect of any such right or liability; and any such legal proceeding or remedy may be continued or enforced as if this Act had not been passed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Repeal.—</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>Rep. by the Repealing and Amending Act, 1942 (25 of 1942), sec. 2 and Sch. I.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

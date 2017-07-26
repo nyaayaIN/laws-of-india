@@ -1,0 +1,149 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1973/50/main"/>
+          <FRBRuri value="/in-union/act/1973/50"/>
+          <FRBRalias value="The Authoritative Texts (Central Laws) Act, 1973"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1973/50/eng@1973-12-05/main"/>
+          <FRBRuri value="/in-union/act/1973/50/eng@1973-12-05"/>
+          <FRBRdate date="1973-12-05" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1973/50/eng@1973-12-05/main"/>
+          <FRBRuri value="/in-union/act/1973/50/eng@1973-12-05"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Authoritative Texts (Central Laws) Act, 1973</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 50 OF 1973</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 5th December, 1973.]</docDate>
+      </p>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Twenty- fourth Year of the</p>
+        </formula>
+      </preamble>
+      <longTitle>
+        <p>An Act to provide for  authoritative texts] of Central laws in  certain languages.</p>
+        <p>Republic of India as follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the</p>
+            <p>Authoritative Texts] (Central Laws) Act, 1973.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall come into force on such date  as the Central</p>
+            <p>Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Authoritative texts of Central laws in certain languages. A</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>translation in any language (other than Hindi) specified in the Eighth</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-scheduleto">
+      <doc name="scheduleto">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1973/50/schedules"/>
+              <FRBRuri value="/in-union/act/1973/50"/>
+              <FRBRalias value="the Constitution, published under the authority of the"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1973/50/eng@1973-12-05/schedules"/>
+              <FRBRuri value="/in-union/act/1973/50/eng@1973-12-05"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1973/50/eng@1973-12-05/schedules"/>
+              <FRBRuri value="/in-union/act/1973/50/eng@1973-12-05"/>
+              <FRBRdate date="2016-09-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="scheduleto">
+            <heading>President in the Official Gazette,--</heading>
+            <paragraph id="scheduleto.paragraph-0">
+              <content>
+                <blockList id="scheduleto.paragraph-0.list0">
+                  <item id="scheduleto.paragraph-0.list0.a">
+                    <num>(a)</num>
+                    <p>of any Central Act or of any Ordinance promulgated by  the President, or</p>
+                  </item>
+                  <item id="scheduleto.paragraph-0.list0.b">
+                    <num>(b)</num>
+                    <p>of any order, rule, regulation or bye- law issued under  the Constitution or under any Central Act,</p>
+                  </item>
+                </blockList>
+                <p>shall be deemed to be the  authoritative text] thereof in such  language.</p>
+              </content>
+            </paragraph>
+            <section id="section-3">
+              <num>3.</num>
+              <heading>Power to make rules.</heading>
+              <subsection id="section-3.1">
+                <num>(1)</num>
+                <content>
+                  <p>The Central Government may, by  notification in the Official Gazette, make rules for carrying out the  purposes of this Act.</p>
+                </content>
+              </subsection>
+              <subsection id="section-3.2">
+                <num>(2)</num>
+                <content>
+                  <p>Every rule made under this section shall be laid, as soon as  may be after it is made, before each House of Parliament, while it is  in session, for a total period of thirty days which may be comprised  in one session or in two or more successive sessions, and if, before  the expiry of the session immediately following the session or the  successive sessions aforesaid, both Houses agree in making any  modification in the rule or both Houses agree that the rule should not  be made, the rule shall thereafter have effect only in such modified  form or be of no effect, as the case may be; so, however, that any  such modification or annulment shall be without prejudice to the  validity of anything previously done under that rule.</p>
+                </content>
+              </subsection>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

@@ -1,0 +1,757 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1968/50/main"/>
+          <FRBRuri value="/in-union/act/1968/50"/>
+          <FRBRalias value="The Central Industrial Security Force Act, 1968"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1968/50/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1968/50/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1968/50/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1968/50/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Central Industrial Security Force Act, 1968</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Central Industrial Security Force Act, 1968.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions. —</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-2.1.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.1.list1.a">
+                <num>(a)</num>
+                <blockList id="section-2.1.list1.a.list0">
+                  <listIntroduction>“Director-General” means the Director-General of the Force appointed under section 4;</listIntroduction>
+                  <item id="section-2.1.list1.a.list0.aa">
+                    <num>(aa)</num>
+                    <p>“enrolled member of the Force” means any subordinate officer, under officer or any other member of the Force of a rank lower than that of an under officer;</p>
+                  </item>
+                  <item id="section-2.1.list1.a.list0.ab">
+                    <num>(ab)</num>
+                    <p>“Force” means the Central Industrial Security Force constituted under section 3;</p>
+                  </item>
+                  <item id="section-2.1.list1.a.list0.ac">
+                    <num>(ac)</num>
+                    <p>“Force custody” means the arrest or confinement of a member of the Force in accordance with rules made under this Act;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.1.list1.b">
+                <num>(b)</num>
+                <p>“industrial undertaking” means any undertaking pertaining to a scheduled industry and includes an undertaking engaged in any other industry, or in any trade, business or service which may be regulated by Parliament by law;</p>
+              </item>
+              <item id="section-2.1.list1.c">
+                <num>(c)</num>
+                <blockList id="section-2.1.list1.c.list1">
+                  <listIntroduction>“industrial undertaking in public sector” means an industrial undertaking owned, controlled or managed by—</listIntroduction>
+                  <item id="section-2.1.list1.c.list1.i">
+                    <num>(i)</num>
+                    <p>a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956);</p>
+                  </item>
+                  <item id="section-2.1.list1.c.list1.ii">
+                    <num>(ii)</num>
+                    <blockList id="section-2.1.list1.c.list1.ii.list0">
+                      <listIntroduction>a corporation established by or under a Central Provincial or State Act, which is controlled or managed by the Government;</listIntroduction>
+                      <item id="section-2.1.list1.c.list1.ii.list0.ca">
+                        <num>(ca)</num>
+                        <p>“industrial establishment” means an industrial undertaking or a company as defined under section 3 of the Companies Act, 1956 (1 of 1956) or a firm registered under section 59 of the Indian Partnership Act, 1932 (9 of 1932) which is engaged in any industry, or in any trade, business or service;</p>
+                      </item>
+                      <item id="section-2.1.list1.c.list1.ii.list0.cb">
+                        <num>(cb)</num>
+                        <p>“joint venture” means a venture jointly undertaken by the Central Government or State Government with private industrial undertaking;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <blockList id="section-2.1.list3">
+              <listIntroduction>***</listIntroduction>
+              <item id="section-2.1.list3.e">
+                <num>(e)</num>
+                <p>“Managing Director”, in relation to an industrial undertaking, means the person (whether called a managing agent, general manager, manager, chief executive officer or by any other name) who exercises control over the affairs of that undertaking;</p>
+              </item>
+              <item id="section-2.1.list3.f">
+                <num>(f)</num>
+                <p>“members of the Force” means a person appointed to the Force under this Act ***;</p>
+              </item>
+              <item id="section-2.1.list3.g">
+                <num>(g)</num>
+                <blockList id="section-2.1.list3.g.list0">
+                  <listIntroduction>“prescribed” means prescribed by rules made under this Act;</listIntroduction>
+                  <item id="section-2.1.list3.g.list0.ga">
+                    <num>(ga)</num>
+                    <p>“private industrial undertaking” means an industry owned, controlled or managed by a person other than the Central or State Government or any industrial undertaking in public sector;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.1.list3.h">
+                <num>(h)</num>
+                <blockList id="section-2.1.list3.h.list1">
+                  <listIntroduction>“scheduled industry” means any industry engaged in the manufacture or production of the articles mentioned in the First Schedule to the Industries (Development and Regulation) Act, 1951;</listIntroduction>
+                  <item id="section-2.1.list3.h.list1.ha">
+                    <num>(ha)</num>
+                    <p>“subordinate officer” means a person appointed to the Force as an Inspector, a Sub-Inspector or an Assistant Sub-inspector;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.1.list3.i">
+                <num>(i)</num>
+                <p>“supervisory officer” means any of the officers appointed under section 4 and includes any other officer appointed by the Central Government as a supervisory officer of the Force; (j)  “under officer” means a person appointed to the Force as a Head Constable, Naik or Lance Naik.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>Any reference in this Act to a law which is not in force in any area shall, in relation to that area, be construed as a reference to the corresponding law, if any, in force in that area.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Constitution of the Force. —</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>There shall be constituted and maintained by the Central Government an armed force of the Union to be called the Central Industrial Security Force for the better protection and security of industrial undertakings owned by that Government , Joint venture or private industrial undertaking and to perform such other duties as may be entrusted to it by the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The force shall be constituted in such manner, shall consist of such number of supervisory officers, subordinate officers, under officers and other enrolled members of the Force who shall receive such pay and other remuneration as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Appointment and powers of supervisory officers. —</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may appoint a person to be the Director-General of the Force and such other supervisory officers as considered necessary.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The Director General and every other supervisory officer so appointed shall have, and may exercise, such powers and authority as is provided by or under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Appointment of enrolled member of the Force.—</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <p>The appointment of the enrolled members of the Force shall rest with the Director-General who shall exercise that power in accordance with rules made under this Act:</p>
+            <p>Provided that the power of appointment under this section may also be exercised by such other supervisory officer as the Central Government may by order specify in this behalf.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Certificates of members of the Force.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Every enrolled member of the Force shall receive on his appointment a certificate in the form specified in the Schedule, under the seal of the Director-General or such other supervisory officer as the Director-General may specify in this behalf by virtue of which the person holding such certificate shall be vested with the powers of an enrolled member of the Force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Such certificate shall cease to have effect whenever the person named in it ceases for any reason to be an enrolled member of the Force.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Superintendence and administration of the Force. —</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The super-intendence of the Force shall vest in the Central Government, and subject thereto and to the provisions of this Act and of any rules made thereunder, the command, supervision and administration of the Force shall vest in the Director-General.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (1), the administration of the Force within such local limits as may be prescribed shall be carried on by such other supervisory officers as considered necessary in accordance with the provisions of this Act and of any rules made thereunder and every supervisory officer placed in charge of the protection and security of an industrial undertakings , joint venture or private industrial undertaking shall, subject to any directions that may be given by the Central Government or the Director-General in this behalf, discharge his functions under the general supervision, direction and control of the Managing Director of that undertaking.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Dismissal, removal, etc., of members of the Force.—</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <blockList id="section-8.paragraph-0.list1">
+              <listIntroduction>Subject to the provisions of article 311 of the Constitution and to such rules as the Central Government may make under this Act, any supervisory officer may—</listIntroduction>
+              <item id="section-8.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>dismiss,</p>
+              </item>
+            </blockList>
+            <p>remove , order for compulsory retirement of, or reduce in rank, any</p>
+            <blockList id="section-8.paragraph-0.list4">
+              <listIntroduction>enrolled member of the Force whom he thinks remiss or negligent in the discharge of his duty, or unfit for the same; or</listIntroduction>
+              <item id="section-8.paragraph-0.list4.ii">
+                <num>(ii)</num>
+                <p>award any one or more of the following punishments to any</p>
+              </item>
+            </blockList>
+            <blockList id="section-8.paragraph-0.list6">
+              <listIntroduction>enrolled member of the Force who discharges his duty in a careless or negligent manner, to who by any act of his own renders himself unfit for the discharge thereof, namely:—</listIntroduction>
+              <item id="section-8.paragraph-0.list6.a">
+                <num>(a)</num>
+                <p>fine to any amount not exceeding seven days’ pay or reduction in pay scale;</p>
+              </item>
+              <item id="section-8.paragraph-0.list6.b">
+                <num>(b)</num>
+                <p>drill, extra guard, fatigue or other duty;</p>
+              </item>
+              <item id="section-8.paragraph-0.list6.c">
+                <num>(c)</num>
+                <p>removal from any office of distinction or deprivation of any special emolument;</p>
+              </item>
+              <item id="section-8.paragraph-0.list6.d">
+                <num>(d)</num>
+                <p>withholding of increment of pay with or without cumulative effect;</p>
+              </item>
+              <item id="section-8.paragraph-0.list6.e">
+                <num>(e)</num>
+                <p>withholding of promotion;</p>
+              </item>
+              <item id="section-8.paragraph-0.list6.f">
+                <num>(f)</num>
+                <p>censure.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Appeal and revision.—</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Any</p>
+            <p>enrolled member of the Force aggrieved by an order made under section 8 may, within thirty days from the date on which the order is communicated to him, prefer an appeal against the order to such authority as may be prescribed, and</p>
+            <p>subject to the provisions of sub-section (2A), sub-section (2B) and sub-section (3) the decision of the said authority thereon shall be final:</p>
+            <p>Provided that the prescribed authority may entertain the appeal after the expiry of the said period of thirty days, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>In disposing of an appeal, the prescribed authority shall follow such procedure as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2A">
+          <num>(2A)</num>
+          <content>
+            <p>Any enrolled member of the Force aggrieved by an order passed in appeal under sub-section (1) may, within a period of six months from the date on which the order is communicated to him, prefer a revision petition against the order to such authority as may be prescribed and in disposing of the revision petition, the said authority shall follow such procedure as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2B">
+          <num>(2B)</num>
+          <content>
+            <p>The authority, as may be prescribed for the purpose of this sub-section, on a revision petition preferred by an aggrieved enrolled member of the force or suo moto, may call for, within a prescribed period, the records of any proceeding under section 8 or sub-section (2) or sub-section (2A) and such authority may, after making inquiry in the prescribed manner, and subject to the provisions of this Act, pass such order thereon as it thinks fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>The Central Government may call for and examine the record of any proceeding</p>
+            <p>under section 8, sub-section (2), sub-section (2A) or sub-section (2B) of this section and may make such inquiry or cause such inquiry to be made and subject to the provisions of this Act, may pass such order thereon as it thinks fit:</p>
+            <p>Provided that no order imposing an enhanced penalty under sub-section (2) or sub-section (3) shall be made unless a reasonable opportunity of being heard has been given to the person affected by such order.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Duties of members of the Force. —It shall be the duty of every *** member of the Force—</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <blockList id="section-10.paragraph-0.list0">
+              <item id="section-10.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>promptly to obey and execute all orders lawfully issued to him by his superior authority;</p>
+              </item>
+              <item id="section-10.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>to protect and safeguard the industrial undertakings owned by the Central Government together with such other installations as are specified by that Government to be vital for the carrying on of work in those undertakings, situate within the local limits of his jurisdiction:</p>
+              </item>
+            </blockList>
+            <blockList id="section-10.paragraph-0.list2">
+              <listIntroduction>Provided that before any installation not owned or controlled by the Central Government is so specified, the Central Government shall obtain the consent of the Government of the State in which such installation is situate;</listIntroduction>
+              <item id="section-10.paragraph-0.list2.c">
+                <num>(c)</num>
+                <p>to protect and safeguard any joint venture, private industrial undertaking and such other industrial undertakings and installations for the protection and security of which he is deputed under section 14;</p>
+              </item>
+              <item id="section-10.paragraph-0.list2.d">
+                <num>(d)</num>
+                <p>to protect and safeguard the employees of the industrial undertakings and installations referred to in clauses (b) and (c);</p>
+              </item>
+              <item id="section-10.paragraph-0.list2.e">
+                <num>(e)</num>
+                <p>to do any other act conducive to the better protection and security of the industrial undertakings and installations referred to in clauses (b) and (c) and the employees referred to in clause (d);</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Power to arrest without warrant.—</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-11.1.list1">
+              <listIntroduction>Any member of the Force may, without any order from a Magistrate and without a warrant, arrest—</listIntroduction>
+              <item id="section-11.1.list1.i">
+                <num>(i)</num>
+                <p>any person who voluntarily causes hurt to, or attempts voluntarily to cause hurt to, or wrongfully restrains or attempts wrongfully to restrain or assaults, threatens to assault, or uses, or threatens or attempts to use, criminal force to any employee, referred to in clause (d) of section 10, or to him or any other member of the Force, in discharge of his duty as such employee or in execution of his duty as such member, as the case may be, or with intent to prevent or to deter him from discharging his duty as such member, or in consequence of anything done or attempted to be done by him in the lawful discharge of his duty as such member;</p>
+              </item>
+              <item id="section-11.1.list1.ii">
+                <num>(ii)</num>
+                <p>any person who has been concerned in, or against when a reasonable suspicion exists of his having been concerned in, or who is bound taking precautions to conceal his presence under circumstances which afford reason to believe that he is taking such precautions with a view to committing a cognizable offence which relates to property belonging to, or in the premises of, any industrial undertaking referred to in clauses (b) (c) of section 10, or relates to the other installations or to property in the premises of the other installations, referred to in those clauses;</p>
+              </item>
+              <item id="section-11.1.list1.iii">
+                <num>(iii)</num>
+                <p>any person who commits or attempts to commit a cognisable offence which involves or which is likely to involve</p>
+              </item>
+            </blockList>
+            <p>*** danger to the life of any person engaged in carrying on any work relating to any undertaking or installations referred to in clauses (b) and (c) of section 10.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>If any person is found trespassing on the premises of any industrial undertaking referred to in clauses (b) and (c) of section 10, he may, without prejudice to any other proceedings which may be taken against him, be removed from such premises by an</p>
+            <p>*** member of the Force.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Power to search without warrant.—</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever</p>
+            <p>*** any member of the Force, not below the prescribed rank, has reasons to believe that any such offence as is referred to in section 11 has been or is being committed and that a search warrant cannot be obtained without affording the offender an opportunity of escaping or of concealing evidence of the offence, he may detain the offender and search his person and belongings forthwith and, if he thinks proper, arrest any person whom he has reason to believe to have committed the offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of the</p>
+            <p>Code of Criminal Procedure, 1973 (2 of 1974), relating to searches under that Code shall, so far as may be, apply to searches under this section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Procedure to be followed after arrest.—</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Any</p>
+            <p>*** member of the force making an arrest under this Act, shall, without unnecessary delay, make over the person so arrested to a police officer, or, in the absence of a police officer, take such person or cause him to be taken to the nearest police station together with a report of the circumstances occasioning the arrest.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Deputation of the Force to industrial undertakings in public sector , joint venture or private sector. —</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to any general directions which may be issued by the Central Government, it shall be lawful for the Director-General, on a request received in this behalf from the Managing Director concerned of an industrial undertaking in public sector , joint venture or private sector showing the necessity thereof, to depute such number of *** members of the Force as the Director-General may consider necessary for the protection and security of that industrial undertaking and any installations attached thereto and the *** members of the Force so deputed shall be at the charge of the Managing Director:</p>
+            <blockList id="section-14.1.list2">
+              <listIntroduction>Provided that in the case of an undertaking owned, controlled or managed,—</listIntroduction>
+              <item id="section-14.1.list2.i">
+                <num>(i)</num>
+                <p>by a Government company of which the Central Government is not a member;</p>
+              </item>
+              <item id="section-14.1.list2.ii">
+                <num>(ii)</num>
+                <p>by a corporation established by or under a Provincial or State Act,</p>
+              </item>
+            </blockList>
+            <p>no such request shall be entertained unless it is made with the consent of the Government of the State in which the undertaking is situate.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>If the Director-General is of the opinion that circumstances necessitating the deputation of the *** members of the Force in relation to an industrial undertaking under sub-section (1) have ceased to exist, or for any other reason it is necessary so to do, he may, after informing the Managing Director of that industrial undertaking, withdraw the *** members of the Force so deputed:</p>
+            <p>Provided that the Managing Director may, on giving three month's notice in writing to the Director-General require that the *** members of the Force so deputed shall be withdrawn, and the Managing Director shall be relieved from the charge from the date of expiration of such notice or from any earlier date on which the Force is so withdrawn.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.3">
+          <num>(3)</num>
+          <content>
+            <p>Every *** member of the Force, while discharging his functions during the period of deputation, shall continue to exercise the same powers and be subject to the same responsibilities, discipline and penalties as would have been applicable to him under this Act, if he had been discharging those functions in relation to an industrial undertaking owned by the Central Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14A">
+        <num>14A.</num>
+        <heading>Technical Consultancy Service to industrial establishments.—</heading>
+        <subsection id="section-14A.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to any general directions which may be issued by the Central Government, it shall be lawful for the Director-General, on a request received from the Managing Director of an industrial establishment in the private sector or any other person authorised by him in this behalf, to direct the members of the Force to provide technical consultancy services relating to security, to such industrial establishments in such manner and on payment of such fee as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14A.2">
+          <num>(2)</num>
+          <content>
+            <p>The fee received under sub-section (1) shall be credited to the Consolidated Fund of India.</p>
+            <p>Explanation.—</p>
+            <p>For the purposes of this section, the expression “Managing Director”, in relation to an industrial establishment, means the person (whether called General Manager, Manager, Chief Executive Officer or a partner of a firm or by any other name) who exercises control over the affairs of the establishment.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Officers and members of the Force to be considered always on duty and liable to be employed anywhere in India. —</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <p>Every *** member of the Force shall, for the purpose of this act, be considered to be always on duty, and shall, at any time, be liable to be employed at any place within or outside India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>Save as provided in section 14, no *** member of the force shall engage himself in any employment or office other than his duties under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15A">
+        <num>15A.</num>
+        <heading>Restrictions respecting right to form association, etc.—</heading>
+        <subsection id="section-15A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-15A.1.list1">
+              <listIntroduction>No member of the Force shall, without the previous sanction in writing of the Central Government of the prescribed authority,—</listIntroduction>
+              <item id="section-15A.1.list1.a">
+                <num>(a)</num>
+                <p>be a member of, or be associated in any way with, any trade union, labour union, political association or with any class of trade unions, labour unions or political associations; or</p>
+              </item>
+              <item id="section-15A.1.list1.b">
+                <num>(b)</num>
+                <p>be a member of, or be associated in any way with, any other society, institution, association or organisation that is not recognised as part of the Force or is not of a purely social, recreational or religious nature; or</p>
+              </item>
+              <item id="section-15A.1.list1.c">
+                <num>(c)</num>
+                <p>communicate with the press or publish or cause to be published any book, letter or other document except where such communication or publication is in the bona fide discharge of his duties or is of a purely literary, artistic or scientific character or is of a prescribed nature.</p>
+              </item>
+            </blockList>
+            <p>Explanation.—</p>
+            <p>If any question arises as to whether any society, institution, association or organisation is of a purely social, recreational or religious nature under clause (b) of this sub-section, the decision of the Central Government thereon shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15A.2">
+          <num>(2)</num>
+          <content>
+            <p>No member of the Force shall participate in, or address, any meeting or take part in any demonstration organised by any body of persons for any political purposes or for such other purposes as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Responsibilities of members of the Force during suspension.—</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>A member of the Force shall not by reason of his suspension from office cease to be a member of the Force; and he shall, during that period, be subject to the same responsibilities, discipline and penalties to which he would have been subject if he were on duty.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Surrender of certificate, arms, etc., by persons ceasing to be members of the Force.—</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>Every person who for any reason ceases to be</p>
+            <p>an enrolled member of the Force, shall forthwith surrender to any supervisory officer empowered to revive the same, his certificate of appointment, the arms, accoutrements, clothing and other articles which have been furnished to him for the performance of duties as a member of the Force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person who wilfully neglects or refuses to surrender his certificate of appointment or the arms, accoutrements, clothing and other articles furnished to him, as required by sub-section (1), shall on conviction, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing in this section shall be deemed to apply to any article which, under the orders of the</p>
+            <p>Director General, has become the property of the person to whom the same was furnished.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Penalties for neglect of duty, etc.—</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>Without prejudice to the provisions contained in section 8, every member of the Force who shall be guilty of any violation of duty or wilful breach or neglect of any rule or regulation or lawful order made by a supervisory officer, or who shall withdraw from the duties of his office without permission, or who, being absent on leave, fails, without reasonable cause, to report himself for duty on the expiration of the leave, or who engages himself without authority in any employment other than his duty as a member of the Force, or who shall be guilty of cowardice, may be taken into Force custody and shall, on conviction, be punished with imprisonment for a term which may extend to one year.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973, an offence punishable under this section shall be cognizable and non-bailable.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2A">
+          <num>(2A)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the Central Government may invest the Commandant with the powers of a Magistrate of any class for the purpose of inquiring into or trying any offence committed by an enrolled member of the Force and punishable under this Act, or any offence committed by an enrolled member of the Force against the person or property of another member of the Force:</p>
+            <blockList id="section-18.2A.list2">
+              <listIntroduction>Provided that—</listIntroduction>
+              <item id="section-18.2A.list2.i">
+                <num>(i)</num>
+                <p>when the offender is on leave or absent from duty; or</p>
+              </item>
+              <item id="section-18.2A.list2.ii">
+                <num>(ii)</num>
+                <p>when the offence is not connected with the offender’s duties as an enrolled member of the Force; or</p>
+              </item>
+              <item id="section-18.2A.list2.iii">
+                <num>(iii)</num>
+                <p>when it is a petty offence even if connected with the offender’s duties as an enrolled member of the Force; or</p>
+              </item>
+              <item id="section-18.2A.list2.iv">
+                <num>(iv)</num>
+                <p>when, for reasons to be recorded in writing, it is not practicable for the Commandant invested with the powers of a Magistrate to inquire into or try an offence,</p>
+              </item>
+            </blockList>
+            <p>the offence may, if the prescribed authority within the limits of whose jurisdiction the offence has been committed so requires, be inquired into or tried by an ordinary criminal court having jurisdiction in the matter.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing contained in this section shall be construed to prevent any member of the Force from being prosecuted under any other law for any offence made punishable by that law, or for being liable under any such law to any other or higher penalty or punishment than is provided for such offence by this section:</p>
+            <p>Provided that no person shall be punished twice for the same offence.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Application of Act 22 of 1922 to</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>*** members of the Force.—</p>
+            <p>The Police (Incitement to Disaffection) Act, 1922, shall apply to</p>
+            <p>*** members of the Force as it applies to members of a police force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Certain Acts not to apply to members of the Force.—</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Nothing contained in the Payment of Wages Act, 1936 (4 of 1936), or the Industrial Disputes Act, 1947 (14 of 1947), or the Factories Act, 1948 (63 of 1948), or any corresponding law relating to investigation and settlement of industrial disputes in force in a State shall apply to members of the Force.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Protection of acts of</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>*** members of the Force.—</p>
+          </content>
+        </paragraph>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>In any suit or proceeding against any</p>
+            <p>*** member of the force for any act done by him in the discharge of his duties, it shall be lawful for him to plead that such act was done by him under the orders of a competent authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>Any such plea may be proved by the production of the order directing the act, and if it is so proved, the</p>
+            <p>*** member of the Force shall thereupon be discharged from any liability in respect of the act so done by him, notwithstanding any defect in the jurisdiction of the authority which issued such order.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything contained in any other law for the time being in force, any legal proceeding, whether civil or criminal, which may lawfully be brought against any</p>
+            <p>*** member of the Force for anything done or intended to be done under the powers conferred by, or in pursuance of, any provision of this Act or the rules thereunder shall be commenced with three months after the act complained of shall have been committed and not otherwise; and notice in writing of such proceeding and of the cause thereof shall be given to the person concerned and his supervisory officer at least one month before the commencement of such proceeding.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-22.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for—</listIntroduction>
+              <item id="section-22.2.list1.a">
+                <num>(a)</num>
+                <p>regulating the classes, ranks, grades, pay and remuneration of</p>
+              </item>
+            </blockList>
+            <blockList id="section-22.2.list3">
+              <listIntroduction>*** members of the Force and their conditions of service in the Force;</listIntroduction>
+              <item id="section-22.2.list3.b">
+                <num>(b)</num>
+                <p>regulating the powers and duties of</p>
+              </item>
+            </blockList>
+            <blockList id="section-22.2.list5">
+              <listIntroduction>*** members of the Force authorised to exercise any functions by or under this Act;</listIntroduction>
+              <item id="section-22.2.list5.c">
+                <num>(c)</num>
+                <p>fixing the period of service for *** members of the Force;</p>
+              </item>
+              <item id="section-22.2.list5.d">
+                <num>(d)</num>
+                <p>prescribing the description and quantity of arms, accoutrements, clothing and other necessary articles to be furnished to the members of the Force;</p>
+              </item>
+              <item id="section-22.2.list5.e">
+                <num>(e)</num>
+                <p>prescribing the places of residence of members of the Force;</p>
+              </item>
+              <item id="section-22.2.list5.f">
+                <num>(f)</num>
+                <p>institution, management and regulation of any fund for any purpose connected with the administration of the Force;</p>
+              </item>
+              <item id="section-22.2.list5.g">
+                <num>(g)</num>
+                <blockList id="section-22.2.list5.g.list0">
+                  <listIntroduction>regulating the punishments and prescribing authorities to whom appeals shall be preferred from orders of punishment, or remission of fines or other punishments, and the procedure to be followed for the disposal of such appeals;</listIntroduction>
+                  <item id="section-22.2.list5.g.list0.gg">
+                    <num>(gg)</num>
+                    <p>regulating matters with respect to Force custody under this Act including the procedure to be followed for taking persons into such custody;</p>
+                  </item>
+                  <item id="section-22.2.list5.g.list0.ggg">
+                    <num>(ggg)</num>
+                    <p>regulating matters with respect to disposal of cases relating to offences under this Act and specifying the places in which persons convicted under this Act may be confined;</p>
+                  </item>
+                  <item id="section-22.2.list5.g.list0.gggg">
+                    <num>(gggg)</num>
+                    <p>prescribing authority under sub-section (2A) of section 9 and the procedure to be followed by such authority in disposing of the revision petition;</p>
+                  </item>
+                  <item id="section-22.2.list5.g.list0.ggggg">
+                    <num>(ggggg)</num>
+                    <p>prescribing authority under sub-section (2B) of section 9, the period within which such authority may call for the records and the manner in which such authority may make inquiry;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-22.2.list5.h">
+                <num>(h)</num>
+                <p>the terms and conditions subject to which</p>
+              </item>
+            </blockList>
+            <blockList id="section-22.2.list7">
+              <listIntroduction>*** of the Force may be deputed under section 14 and the charges therefor; ***</listIntroduction>
+              <item id="section-22.2.list7.hh">
+                <num>(hh)</num>
+                <p>the manner in which and the fee on payment of which the technical consultancy services shall be provided under sub-section (1) of section 14A; and</p>
+              </item>
+              <item id="section-22.2.list7.i">
+                <num>(i)</num>
+                <p>any other matter which has to be, or may be, prescribed</p>
+              </item>
+            </blockList>
+            <p>or in respect of which rules are required to be made under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days, which may be comprised in one session</p>
+            <p>or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            <p>THE CENTRAL INDUSTRIAL SECURITY FORCE ACT, 1968</p>
+            <p>The Schedule</p>
+            <p>(See section 6)</p>
+            <p>A.B. has been appointed</p>
+            <p>an enrolled member of the Central Industrial Security Force under the Central Industrial Security Force Act, 1968, and is vested with the powers, functions and privileges of an enrolled member of the Force.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-1">
+        <num>1.</num>
+        <heading/>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>Subs. by Act 14 of 1983, sec. 13 and Sch., for “a member” (w.e.f. 15-6-1983).</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

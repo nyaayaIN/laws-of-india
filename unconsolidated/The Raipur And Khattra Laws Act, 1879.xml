@@ -1,0 +1,120 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1879/19/main"/>
+          <FRBRuri value="/in-union/act/1879/19"/>
+          <FRBRalias value="The Raipur And Khattra Laws Act, 1879"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1879/19/eng@1879-10-29/main"/>
+          <FRBRuri value="/in-union/act/1879/19/eng@1879-10-29"/>
+          <FRBRdate date="1879-10-29" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1879/19/eng@1879-10-29/main"/>
+          <FRBRuri value="/in-union/act/1879/19/eng@1879-10-29"/>
+          <FRBRdate date="2016-09-26" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Raipur And Khattra Laws Act, 1879</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 19 OF 1879</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 29th October, 1879.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to amend the law in force in thanas Raipur and Khattra.</p>
+      </longTitle>
+    </preface>
+    <body>
+      <paragraph id="paragraph-0">
+        <content>
+          <p>PREAMBLE.</p>
+          <p>WHEREAS the territory comprised in the thana of Raipur (including   the independent police- outpost of Simlapal) and the thana of Khattra  has been transferred from the district of Manbhum to the district of</p>
+          <p>Bankura;</p>
+          <p>AND WHEREAS the said territory, when included in the district of</p>
+          <p>Manbhum, formed portion of the Chota Nagpur Division, which is a</p>
+        </content>
+      </paragraph>
+    </body>
+  </act>
+  <components>
+    <component id="component-scheduled">
+      <doc name="scheduled">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1879/19/schedules"/>
+              <FRBRuri value="/in-union/act/1879/19"/>
+              <FRBRalias value="District under Act No. 14 of 1874  (the Scheduled"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1879/19/eng@1879-10-29/schedules"/>
+              <FRBRuri value="/in-union/act/1879/19/eng@1879-10-29"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1879/19/eng@1879-10-29/schedules"/>
+              <FRBRuri value="/in-union/act/1879/19/eng@1879-10-29"/>
+              <FRBRdate date="2016-09-26" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="scheduled">
+            <heading>Districts Act, 1874);</heading>
+            <paragraph id="scheduled.paragraph-0">
+              <content>
+                <p>AND WHEREAS it is expedient that the law in force in the said  territory should be the same as the law in force in the district of</p>
+                <p>Bankura; It is hereby enacted as follows:--</p>
+              </content>
+            </paragraph>
+            <section id="section-1">
+              <num>1.</num>
+              <heading>Short title, commencement. This Act may be called the Raipur  and Khattra Laws Act, 1879: and it shall come into force at once.</heading>
+            </section>
+            <section id="section-2">
+              <num>2.</num>
+              <heading>Laws of Bankura to apply. Other laws repealed. All enactments  which on the first day of October, 1879, were in force in the district  of Bankura and not in the said territory shall be deemed to have come  into force in the said territory on that day; and all enactments which  on that day were in force in the said territory and not in the  district of Bankura shall be deemed to have been repealed on and from  that day in the said territory.</heading>
+            </section>
+            <section id="section-3">
+              <num>3.</num>
+              <heading>Pending proceedings. Rep. by the Repealing and Amending Act,</heading>
+            </section>
+            <section id="section-1891">
+              <num>1891.</num>
+              <heading>(12 of 1891).</heading>
+            </section>
+            <section id="section-4">
+              <num>4.</num>
+              <heading>Territory to cease to be a Scheduled District. The said  territory shall be deemed to have ceased to be a Scheduled District on  the said first day of October, 1879.</heading>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

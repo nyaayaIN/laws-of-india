@@ -1,0 +1,109 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1919/15/main"/>
+          <FRBRuri value="/in-union/act/1919/15"/>
+          <FRBRalias value="The Calcutta High Court (Jurisdictional Limits) Act, 1919"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1919/15/eng@1919-09-17/main"/>
+          <FRBRuri value="/in-union/act/1919/15/eng@1919-09-17"/>
+          <FRBRdate date="1919-09-17" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1919/15/eng@1919-09-17/main"/>
+          <FRBRuri value="/in-union/act/1919/15/eng@1919-09-17"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Calcutta High Court (Jurisdictional Limits) Act, 1919</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 15 OF 1919 AN ACT TO DECLARE AND PRESCRIBE THE LIMITS OF THE</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 17th September, 1919.]</docDate>
+      </p>
+      <longTitle>
+        <p>ORDINARYORIGINAL CI</p>
+        <p>WHEREAS clause 11 of the Letters Patent for the High Court of</p>
+        <p>Judicature at Fort William in Bengal, dated the 28th December, 1865,</p>
+        <p>provides that the said High Court shall have and exercise ordinary  original civil jurisdiction within such local limits as may from time  to time be declared and prescribed by any law made by competent  legislative authority for India;</p>
+        <p>AND WHEREAS it is expedient so to declare and prescribe the local  limits of the ordinary original civil jurisdiction of the said High</p>
+        <p>Court;</p>
+        <p>It is hereby enacted as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title. This Act may be called the Calcutta High Court</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>(Jurisdictional Limits) Act, 1919.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Limits of ordinary original civil jurisdiction. The ordinary  original civil jurisdiction of the High Court of Judicature at Fort</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>William in Bengal shall be exercised within the limits set out in the</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedule">
+      <doc name="schedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1919/15/schedules"/>
+              <FRBRuri value="/in-union/act/1919/15"/>
+              <FRBRalias value="Schedule"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1919/15/eng@1919-09-17/schedules"/>
+              <FRBRuri value="/in-union/act/1919/15/eng@1919-09-17"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1919/15/eng@1919-09-17/schedules"/>
+              <FRBRuri value="/in-union/act/1919/15/eng@1919-09-17"/>
+              <FRBRdate date="2016-09-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedule">
+            <heading>Provided that nothing in this Act shall affect any suit or other  legal proceeding pending in any Court at the date of the commencement  of this Act.</heading>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

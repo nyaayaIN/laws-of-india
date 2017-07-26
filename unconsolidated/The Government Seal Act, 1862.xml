@@ -1,0 +1,66 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1862/3/main"/>
+          <FRBRuri value="/in-union/act/1862/3"/>
+          <FRBRalias value="The Government Seal Act, 1862"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1862/3/eng@1862-02-28/main"/>
+          <FRBRuri value="/in-union/act/1862/3/eng@1862-02-28"/>
+          <FRBRdate date="1862-02-28" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1862/3/eng@1862-02-28/main"/>
+          <FRBRuri value="/in-union/act/1862/3/eng@1862-02-28"/>
+          <FRBRdate date="2016-11-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Government Seal Act, 1862]</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 3 OF 1862</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 28th February, 1862.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to amend the law relating to the use of a Government Seal.</p>
+        <p>Preamble.- WHEREAS it is expedient to adapt the law relating to  the use of a Government seal to the present form of the Government in</p>
+        <p>India; It is enacted as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Seal to be used instead of seal of East India Company.-- Whenever  it is required by any Regulation of a Local Government or by  any</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>Act of the Central Legislature] that the seal of the East India</p>
+            <p>Company shall be affixed on behalf or by the authority of the</p>
+            <p>Government to any instrument or document, it shall be lawful, if the  seal is to be affixed on behalf or by the authority of a State</p>
+            <p>Government to affix in lieu of the seal of the East India Company a  seal bearing the designation of such State Government or, if the seal  is to be affixed on behalf or by the authority of the Central</p>
+            <p>Government a seal bearing  the inscription" Government of India"</p>
+            <p>] and such instrument or document so sealed shall to all intents  and purposes be as valid and effectual as if the seal so used had been  that of the East India Company.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,1919 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1998/14/main"/>
+          <FRBRuri value="/in-union/act/1998/14"/>
+          <FRBRalias value="The Electricity Regulatory Commissions Act, 1998"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1998/14/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1998/14/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1998/14/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1998/14/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Electricity Regulatory Commissions Act, 1998</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Electricity Regulatory Commissions Act, 1998.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall be deemed to have come into force on the 25th day of April, 1998.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“Central Commission” means the Central Electricity Regulatory Commission established under sub-section (1) of section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Chairperson” means the Chairperson of the Commission;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“Commission” means the Central Commission</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list3">
+              <listIntroduction>or the State Commission or the Joint Electricity Regulatory Commission, as the case may be;</listIntroduction>
+              <item id="section-2.paragraph-0.list3.d">
+                <num>(d)</num>
+                <blockList id="section-2.paragraph-0.list3.d.list0">
+                  <listIntroduction>“High Court” means—</listIntroduction>
+                  <item id="section-2.paragraph-0.list3.d.list0.i">
+                    <num>(i)</num>
+                    <p>the High Court within the jurisdiction of which the aggrieved party ordinarily resides or carries on business or personally works for gain; and</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>where the Central Government is the aggrieved party, the High Court within the jurisdiction of which the respondent, or in a case where there are more than one respondent, any of the respondents ordinarily resides or carries on business or personally works for gain;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list3.e">
+                <num>(e)</num>
+                <blockList id="section-2.paragraph-0.list3.e.list1">
+                  <listIntroduction>“inter-State transmission” includes—</listIntroduction>
+                  <item id="section-2.paragraph-0.list3.e.list1.i">
+                    <num>(i)</num>
+                    <p>the conveyance of energy by means of a main transmission line from the territory of one State to the territory of another State;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.e.list1.ii">
+                    <num>(ii)</num>
+                    <p>the conveyance of energy across the territory of an intervening State as well as conveyance within the State which is incidental to such inter-State transmission of energy;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list3.e.list1.iii">
+                    <num>(iii)</num>
+                    <blockList id="section-2.paragraph-0.list3.e.list1.iii.list0">
+                      <listIntroduction>the transmission of energy within the territory on a system built, owned, operated, maintained or controlled by a central transmission utility or by any person under the supervision and control of a central transmission utility;</listIntroduction>
+                      <item id="section-2.paragraph-0.list3.e.list1.iii.list0.ea">
+                        <num>(ea)</num>
+                        <p>“Joint Electricity Regulatory Commission” means the Joint Electricity Regulatory Commission constituted under section 21A;</p>
+                      </item>
+                    </blockList>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list3.f">
+                <num>(f)</num>
+                <p>“licensee” means a person licensed under Part II of the Indian Electricity Act, 1910 (9 of 1910) to supply energy or a person who has obtained sanction under section 28 of that Act to engage in the business of supplying energy (but does not include the Board or a Generating company.);</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.g">
+                <num>(g)</num>
+                <p>“Member” means the Member of the Commission and includes the Chairperson but does not include a Member, ex officio;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.h">
+                <num>(h)</num>
+                <p>“prescribed” means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>“regulations” means regulations made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.j">
+                <num>(j)</num>
+                <p>“State Commission” means the State Electricity Regulatory Commission established under sub-section (1) of section 17;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.k">
+                <num>(k)</num>
+                <p>“transmission utility” means any generating company, board, licensee or other person engaged in the transmission of energy;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.l">
+                <num>(l)</num>
+                <p>“utility” means any person or entity engaged in the generation, transmission, sale, distribution or supply, as the case may be, of energy;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.m">
+                <num>(m)</num>
+                <p>words and expressions used and not defined in this Act but defined in the Electricity (Supply) Act, 1948 (54 of 1948) or the Indian Electricity Act, 1910 (9 of 1910) shall have the meanings respectively assigned to them in those Acts.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Establishment and incorporation of Central Commission.—</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government shall, within three months from the date of the commencement of this Act by notification in the Official Gazette, establish a body to be known as the Central Electricity Regulatory Commission to exercise the powers conferred on, and the functions assigned to it under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Commission shall be a body corporate by the name aforesaid, having perpetual succession and a common seal with power to acquire, hold and dispose of property, both movable and immovable, and to contract and shall, by the said name, sue or be sued.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>The head office of the Central Commission shall be at such place as the Central Government may, by notification in the Official Gazette, specify.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-3.4.list1">
+              <listIntroduction>The Central Commission shall consist of the following Members, namely:—</listIntroduction>
+              <item id="section-3.4.list1.a">
+                <num>(a)</num>
+                <p>a Chairperson and three other Members;</p>
+              </item>
+              <item id="section-3.4.list1.b">
+                <num>(b)</num>
+                <p>the Chairman of the Central Electricity Authority appointed under sub-section (3) of section 3 of the Electricity (Supply) Act, 1948 (54 of 1948) who shall be the Member, ex officio.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>The Chairperson and the other Members of the Central Commission shall be appointed by the Central Government on the recommendation of the Selection Committee referred to in section 5:</p>
+            <p>Provided that nothing contained in this sub-section shall apply to the appointment of a person as the Chairperson, where such person is or has been a Judge of the Supreme Court or the Chief Justice of a High Court.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Qualification for appointment of Chairperson and other Members of Central Commission.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list1">
+              <listIntroduction>The Chairperson and the Members of the Central Commission shall be persons having adequate knowledge, experience or shown capacity in dealing with problems relating to engineering, law, economics, commerce, finance or management and shall be appointed in the following manner, namely:—</listIntroduction>
+              <item id="section-4.1.list1.a">
+                <num>(a)</num>
+                <p>one person having qualification and experience in the field of engineering with specialisation in generation, transmission or distribution of electricity;</p>
+              </item>
+              <item id="section-4.1.list1.b">
+                <num>(b)</num>
+                <p>one person having qualification and experience in the field of finance; and</p>
+              </item>
+              <item id="section-4.1.list1.c">
+                <num>(c)</num>
+                <p>two persons having qualification and experience in the field of economics, commerce, law or management:</p>
+              </item>
+            </blockList>
+            <p>Provided that not more than one Member shall be appointed under the same category under clause (c).</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the Central Government may appoint any person as the Chairperson from amongst persons who is or has been a Judge of the Supreme Court or the Chief Justice of a High Court;</p>
+            <p>Provided that no appointment under this sub-section shall be made except after consultation with the Chief Justice of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>The Chairperson or any other Member of the Central Commission shall not hold any other office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>The Chairperson shall be the Chief Executive of the Central Commission.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Constitution of Selection Committee to recommend Members.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-5.1.list1">
+              <listIntroduction>The Central Government shall, for the purpose of sub-section (5) of section 3, constitute a Selection Committee consisting of—</listIntroduction>
+              <item id="section-5.1.list1.a">
+                <num>(a)</num>
+                <p>Member of the Planning Commission incharge</p>
+              </item>
+            </blockList>
+            <blockList id="section-5.1.list3">
+              <listIntroduction>of the energy sector —Chairperson;</listIntroduction>
+              <item id="section-5.1.list3.b">
+                <num>(b)</num>
+                <p>Secretary-in-charge of the Ministry of the Central</p>
+              </item>
+            </blockList>
+            <p>Government dealing with the Department of</p>
+            <blockList id="section-5.1.list6">
+              <listIntroduction>Legal Affairs —Member;</listIntroduction>
+              <item id="section-5.1.list6.c">
+                <num>(c)</num>
+                <p>Chairman of the Public Enterprises Selection Board —Member;</p>
+              </item>
+              <item id="section-5.1.list6.d">
+                <num>(d)</num>
+                <p>a person to be nominated by the Central</p>
+              </item>
+            </blockList>
+            <blockList id="section-5.1.list8">
+              <listIntroduction>Government in accordance with sub-section (2) —Member;</listIntroduction>
+              <item id="section-5.1.list8.e">
+                <num>(e)</num>
+                <p>a person to be nominated by the Central</p>
+              </item>
+            </blockList>
+            <blockList id="section-5.1.list10">
+              <listIntroduction>Government in accordance with sub-section (3) —Member;</listIntroduction>
+              <item id="section-5.1.list10.f">
+                <num>(f)</num>
+                <p>Secretary-in-charge of the Ministry of the Central</p>
+              </item>
+            </blockList>
+            <p>Government dealing with Power —Member.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of clause (d) of sub-section (1), the Central Government shall nominate from amongst persons holding the post or Chairman of Managing Director, by whatever name called, of any public financial institution specified in section 4A of the Companies Act, 1956 (1 of 1956).</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of clause (e) of sub-section (1), the Central Government shall nominate from amongst persons holding the post of Director or the head of the institution, by whatever name called, of any research, technical or management institution notified by the Central Government in the Official Gazette for this purpose.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.4">
+          <num>(4)</num>
+          <content>
+            <p>Secretary-in-charge of the Ministry of the Central Government dealing with Power shall be the Convenor of the Selection Committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.5">
+          <num>(5)</num>
+          <content>
+            <p>The Central Government shall, within one month from the date of occurrence of any vacancy by reason of death, resignation or removal of the Chairperson or a Member and six months before the superannuation or end of tenure of any Chairperson or Member, make a reference to the Selection Committee for filling up of the vacancy.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.6">
+          <num>(6)</num>
+          <content>
+            <p>The Selection Committee shall finalise the selection of the Chairperson and Members within one month from the date on which the reference is made to it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.7">
+          <num>(7)</num>
+          <content>
+            <p>The Selection Committee shall recommend a panel of two names for every vacancy referred to it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.8">
+          <num>(8)</num>
+          <content>
+            <p>Before recommending any person for appointment as a Chairperson or other Member of the Central Commission, the Selection Committee shall satisfy itself that such person does not have any financial or other interest which is likely to affect prejudicially his functions as a Member.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.9">
+          <num>(9)</num>
+          <content>
+            <p>No appointment of the Chairperson or other Member shall be invalid merely by reason of any vacancy in the Selection Committee.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Term of office, salary and allowances and other conditions of service of Chairperson and Members.—</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Chairperson or other Member shall hold office as such for a term of five years from the date on which he enters upon his office, but shall not be eligible for re-appointment:</p>
+            <blockList id="section-6.1.list2">
+              <listIntroduction>Provided that no Chairperson or other Member shall hold office as such after he has attained,—</listIntroduction>
+              <item id="section-6.1.list2.a">
+                <num>(a)</num>
+                <p>in the case of the Chairperson, the age of sixty-five years; and</p>
+              </item>
+              <item id="section-6.1.list2.b">
+                <num>(b)</num>
+                <p>in the case of any other Member, the age of sixty-two years.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The salary and allowances payable to, and the other terms and conditions of service of, the Chairperson and other Members shall be such as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>The salary, allowances and other conditions of service of the Chairperson and other Members shall not be varied to their disadvantage after appointment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>The Chairperson and every Member shall, before entering upon his office, make and subscribe to an oath of office and of secrecy in such form and in such manner and before such authority as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <blockList id="section-6.5.list1">
+              <listIntroduction>Notwithstanding anything contained in sub-section (1), the Chairperson or any Member may—</listIntroduction>
+              <item id="section-6.5.list1.a">
+                <num>(a)</num>
+                <p>relinquish his office by giving in writing to the President notice of not less than three months; or</p>
+              </item>
+              <item id="section-6.5.list1.b">
+                <num>(b)</num>
+                <p>be removed from his office in accordance with the provisions of section 7.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.6">
+          <num>(6)</num>
+          <content>
+            <blockList id="section-6.6.list1">
+              <listIntroduction>The Chairperson or any Member ceasing to hold office as such shall—</listIntroduction>
+              <item id="section-6.6.list1.a">
+                <num>(a)</num>
+                <p>be ineligible for further employment under the Central Government or any State Government for a period of two years from the date he ceases to hold such office;</p>
+              </item>
+              <item id="section-6.6.list1.b">
+                <num>(b)</num>
+                <p>not accept any commercial employment for a period of two years from the date he ceases to hold such office; and</p>
+              </item>
+              <item id="section-6.6.list1.c">
+                <num>(c)</num>
+                <p>not represent any person before the Central Commission or a State Commission in any manner.</p>
+              </item>
+            </blockList>
+            <p>Explanation.—</p>
+            <blockList id="section-6.6.list4">
+              <listIntroduction>For the purposes of this sub-section,—</listIntroduction>
+              <item id="section-6.6.list4.i">
+                <num>(i)</num>
+                <p>“employment under the Central Government or the State Government” includes employment under any local or other authority within the territory of India or under the control of the Central Government or State Government or under any corporation or society owned or controlled by the Government.</p>
+              </item>
+              <item id="section-6.6.list4.ii">
+                <num>(ii)</num>
+                <p>“commercial employment” means employment in any capacity under, or agency of, a person engaged in trading, commercial, industrial or financial business in the electricity industry and includes also a director of a company or partner of a firm and it also includes setting up practice either independently or as partner of a firm or as an adviser or a consultant.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Removal of Members.—</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (3), any Member of the Central Commission shall only be removed from his office by order of the President on the ground of proved misbehaviour after the Supreme Court, on reference being made to it by the President, has, on an inquiry, held in accordance with the procedure prescribed in this behalf by the Supreme Court, reported that the Member, ought on any such ground to be removed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>The President may suspend any Member of the Central Commission in respect of whom a reference has been made to the Supreme Court under sub-section (1) until the President has passed an order on receipt of the report of the Supreme Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-7.3.list1">
+              <listIntroduction>Notwithstanding anything contained in sub-section (1), the President may by order remove from office the Chairperson or any other Member, if the Chairperson or such other Member, as the case may be,—</listIntroduction>
+              <item id="section-7.3.list1.a">
+                <num>(a)</num>
+                <p>has been adjudged an insolvent; or</p>
+              </item>
+              <item id="section-7.3.list1.b">
+                <num>(b)</num>
+                <p>has been convicted of an offence which, in the opinion of the Central Government, involves moral turpitude; or</p>
+              </item>
+              <item id="section-7.3.list1.c">
+                <num>(c)</num>
+                <p>has become physically or mentally incapable of acting as a Member; or</p>
+              </item>
+              <item id="section-7.3.list1.d">
+                <num>(d)</num>
+                <p>has acquired such financial or other interest as is likely to affect prejudicially his functions as a Member; or</p>
+              </item>
+              <item id="section-7.3.list1.e">
+                <num>(e)</num>
+                <p>has so abused his position as to render his continuance in office prejudicial to the public interest.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (3), no Member shall be removed from his office on the ground specified in clause (d) or clause (e) of that sub-section unless the Supreme Court, on a reference being made to it in this behalf by the President, has, on an inquiry, held by it in accordance with such procedure as prescribed in this behalf by the Supreme Court, reported that the Member ought on such ground or grounds to be removed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Officers of Central Commission and other staff.—</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Commission may appoint a Secretary to exercise and perform under the control of the Chairperson such powers and duties as may be specified by regulations made by the Central Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Commission may, with the approval of the Central Government, determine the number, nature and categories of other officers and employees required to assist the Central Commission in the discharge of its functions.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>The salaries and allowances payable to, and other conditions of service of, the Secretary, officers and other employees shall be such as may be determined with the approval of the Central Government, by regulations.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.4">
+          <num>(4)</num>
+          <content>
+            <p>The Central Commission may appoint consultants required to assist the Central Commission in the discharge of its functions on the terms and conditions as may be determined by regulations made by the Central Commission.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Proceedings of Central Commission.—</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Commission shall meet at the head office or any of its offices at such time as the Chairperson may direct, and shall observe such rules of procedure in regard to the transaction of business at its meetings (including the quorum at its meetings) as may be determined by regulations.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>The Chairperson or, if he is unable to attend a meeting of the Central Commission, any other Member nominated by the Chairperson in this behalf and, in the absence of such nomination or where there is no Chairperson, any Member chosen by the Members present from among themselves, shall preside at the meeting.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>All questions which come up before any meeting of the Central Commission shall be decided by a majority of votes of the Members (including the Member, ex officio) present and voting, and in the event of an equality of votes, the Chairperson or the person presiding shall have the right to exercise a second or casting vote.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.4">
+          <num>(4)</num>
+          <content>
+            <p>Save as otherwise provided in sub-section (3), every Member shall have one vote.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.5">
+          <num>(5)</num>
+          <content>
+            <p>All orders and decisions of the Central Commission shall be authenticated by the Secretary or any other officer of the Central Commission duly authorised by the Chairperson in this behalf.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Vacancies, etc. not to invalidate proceedings of Central Commission.—</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>No act or proceedings of the Central Commission shall be questioned or shall be invalidated merely on the ground of existence of any vacancy or defect in the constitution of the Central Commission.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Expenses of Central Commission to be charged upon Consolidated Fund of India.—</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>The expenses of the Central Commission including all salaries and allowances payable to, or in respect of, the Chairperson and the Member of the Central Commission shall be charged upto the Consolidated Fund of India.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Powers of Central Commission.—</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <blockList id="section-12.paragraph-0.list1">
+              <listIntroduction>The Central Commission, shall, for the purposes of any inquiry or proceedings under this Act have the powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:—</listIntroduction>
+              <item id="section-12.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the summoning and enforcing the attendance of any witness and examining him on oath;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the discovery and production of any document or other material object producible as evidence;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>the reception of evidence on affidavits;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>the requisition of any public record;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>the issue of commission for examination of witnesses;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>review its decisions, directions and orders;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>any other matter which may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Functions of Central Commission.—</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <blockList id="section-13.paragraph-0.list1">
+              <listIntroduction>The Central Commission shall discharge all or any of the following functions, namely:—</listIntroduction>
+              <item id="section-13.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to regulate the tariff of generating companies owned or controlled by the Central Government;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>to regulate the tariff of generating companies, other than those owned or controlled by the Central Government specified in clause (a), if such generating companies enter into or otherwise have a composite scheme for generation and sale of electricity in more than one State;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>to regulate the inter-State transmission of energy including tariff of the transmission utilities;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>to promote competition, efficiency and economy in the activities of the electricity industry;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-13.paragraph-0.list1.e.list0">
+                  <listIntroduction>to aid and advise the Central Government in the formulation of tariff policy which shall be—</listIntroduction>
+                  <item id="section-13.paragraph-0.list1.e.list0.i">
+                    <num>(i)</num>
+                    <p>fair to the consumers; and</p>
+                  </item>
+                  <item id="section-13.paragraph-0.list1.e.list0.ii">
+                    <num>(ii)</num>
+                    <p>facilitate mobilisation of adequate resources for the power sector;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-13.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>to associate with the environmental regulatory agencies to develop appropriate policies and procedures for environmental regulation of the power sector;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>to frame guidelines in matters relating to electricity tariff;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>to arbitrate or adjudicate upon disputes involving generating companies or transmission utilities in regard to matters connected with clauses (a) to (c) above;</p>
+              </item>
+              <item id="section-13.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>to aid and advise the Central Government on any other matter referred to the Central Commission by that Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Central Advisory Committee.—</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Commission may, by notification, establish with effect from such date as it may specify in such notification, a Committee to be known as the Central Advisory Committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Advisory Committee shall consist of not more than thirty-one members to represent the interests of commerce, industry, transport, agriculture, labour, consumers, non-governmental organisations and academic and research bodies in the energy sector.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.3">
+          <num>(3)</num>
+          <content>
+            <p>The Chairperson and Members of the Central Commission shall be the ex officio Chairperson and ex officio Members of the Central Advisory Committee.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Objects of Central Advisory Committee.—</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <blockList id="section-15.paragraph-0.list1">
+              <listIntroduction>The objects of the Central Advisory Committee shall be to advise the Central Commission on,—</listIntroduction>
+              <item id="section-15.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>major questions of policy;</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>matters relating to quality, continuity and extent of service provided by the licensees;</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.iii">
+                <num>(iii)</num>
+                <p>compliance by the licensees with the conditions and requirements of their licence;</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.iv">
+                <num>(iv)</num>
+                <p>protection of consumer interest; and</p>
+              </item>
+              <item id="section-15.paragraph-0.list1.v">
+                <num>(v)</num>
+                <p>energy supply and overall standards of performance by utilities.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Appeal to High Court in certain cases.—</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person aggrieved by any decision or order of the Central Commission may file an appeal to the High Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <p>Except as aforesaid, no appeal or revision shall lie to any court from any decision or order of the Central Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.3">
+          <num>(3)</num>
+          <content>
+            <p>Every appeal under this section shall be preferred within sixty days from the date of communication of the decision or order of the Central Commission to the person aggrieved by the said decision or order;</p>
+            <p>Provided that the High Court may entertain an appeal after the expiry of the said period of sixty days if it is satisfied that the aggrieved person had sufficient cause for not preferring the appeal within the period of sixty days.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Establishment and incorporation of State Commission.—</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, if it deems fit, by notification in the Official Gazette, establish, for the purposes of this Act, a Commission for the State to be known as the (name of the State) Electricity Regulatory Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Commission shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract and shall, by the said name, sue or be sued.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>The head office of the State Commission shall be at such place as the State Government may, by notification in the Official Gazette, specify.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.4">
+          <num>(4)</num>
+          <content>
+            <p>The State Commission shall consist of not more than three Members including the Chairperson.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.5">
+          <num>(5)</num>
+          <content>
+            <p>The Chairperson and the Members of the State Commission shall be persons of ability, integrity and standing who have adequate knowledge of, and have shown capacity in dealing with problems relating to engineering, finance, commerce, economics, law or management.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.6">
+          <num>(6)</num>
+          <content>
+            <p>The Chairperson and the Members of the State Commission shall be appointed by the State Government on the recommendation of a Selection Committee referred to in section 18.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.7">
+          <num>(7)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (5) or sub-section (6), the State Government may appoint any person as the Chairperson from amongst persons who is or has been a Judge of a High Court:</p>
+            <p>Provided that no appointment under this sub-section shall be made except after consultation with the Chief Justice of that High Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.8">
+          <num>(8)</num>
+          <content>
+            <p>The Chairperson shall be the Chief Executive of the State Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.9">
+          <num>(9)</num>
+          <content>
+            <p>The Chairperson or any other Member of the State Commission shall not hold any other office.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Constitution of Selection Committee by State Government.—</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-18.1.list1">
+              <listIntroduction>The State Government shall, for the purposes of selecting the Members of the State Electricity Commission, constitute a Selection Committee consisting of—</listIntroduction>
+              <item id="section-18.1.list1.a">
+                <num>(a)</num>
+                <p>a person who has been a Judge of the High Court —Chairperson;</p>
+              </item>
+              <item id="section-18.1.list1.b">
+                <num>(b)</num>
+                <p>the Chief Secretary of the concerned State —Member;</p>
+              </item>
+              <item id="section-18.1.list1.c">
+                <num>(c)</num>
+                <p>the Chairperson or a Member of</p>
+              </item>
+            </blockList>
+            <p>the Central Electricity Authority —Member:</p>
+            <p>Provided that nothing contained in this clause shall apply to the appointment of a person as the Chairperson who is or has been a Judge of the High Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>No appointment of a Member shall be invalid merely by reason of any vacancy in the Selection Committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>The State Government shall, within one month from the date of occurrence of any vacancy by reason of death, resignation or removal and six months before the superannuation or end of tenure of any Chairperson or a Member, make a reference to the Selection Committee for filling up of the vacancy.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.4">
+          <num>(4)</num>
+          <content>
+            <p>The Selection Committee shall finalise the selection of the Member, within one month from the date on which the reference is made to it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.5">
+          <num>(5)</num>
+          <content>
+            <p>The Selection Committee shall recommend a panel of two names for every vacancy referred to it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.6">
+          <num>(6)</num>
+          <content>
+            <p>Before recommending any person for appointment as a Member, the Selection Committee shall satisfy itself that such person does not have any financial or other interest which is likely to affect prejudicially his functions as a Member.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Term of office, salary and allowances and other conditions of service of Chairperson and Members.—</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>The Chairperson or other Member shall hold office as such for a term of five years from the date on which he enters upon his office, but shall not be eligible for reappointment:</p>
+            <blockList id="section-19.1.list2">
+              <listIntroduction>Provided that no Chairperson or other Member shall hold office as such after he has attained,—</listIntroduction>
+              <item id="section-19.1.list2.a">
+                <num>(a)</num>
+                <p>in the case of the Chairperson, the age of sixty-five years; and</p>
+              </item>
+              <item id="section-19.1.list2.b">
+                <num>(b)</num>
+                <p>in the case of any other Member, the age of sixty-two years.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>The salary and allowances payable to, and the other terms and conditions of service of, the Members of the State Commission shall be such as may be prescribed by the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.3">
+          <num>(3)</num>
+          <content>
+            <p>The salary, allowances and other conditions of service of the Members, shall not be varied to their disadvantage after appointment.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.4">
+          <num>(4)</num>
+          <content>
+            <p>Every Member of the State Commission shall, before entering upon his office, make and subscribe to an oath of office and of secrecy in such form and in such manner and before such authority as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.5">
+          <num>(5)</num>
+          <content>
+            <blockList id="section-19.5.list1">
+              <listIntroduction>Notwithstanding anything contained in sub-section (1) or sub-section (2), a Member may—</listIntroduction>
+              <item id="section-19.5.list1.a">
+                <num>(a)</num>
+                <p>relinquish his office by giving in writing to the Governor notice of not less than three months; or</p>
+              </item>
+              <item id="section-19.5.list1.b">
+                <num>(b)</num>
+                <p>be removed from his office in accordance with the provisions of section 20.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-19.6">
+          <num>(6)</num>
+          <content>
+            <blockList id="section-19.6.list1">
+              <listIntroduction>Any Member ceasing to hold office as such shall—</listIntroduction>
+              <item id="section-19.6.list1.a">
+                <num>(a)</num>
+                <p>be ineligible for further employment under the Central Government or any State Government for a period of two years from the date he ceases to hold such office;</p>
+              </item>
+              <item id="section-19.6.list1.b">
+                <num>(b)</num>
+                <p>not accept any commercial employment for a period of two years from the date he ceases to hold such office; and</p>
+              </item>
+              <item id="section-19.6.list1.c">
+                <num>(c)</num>
+                <p>not represent any person before the Central Commission or State Commission in any manner.</p>
+              </item>
+            </blockList>
+            <p>Explanation.—</p>
+            <blockList id="section-19.6.list4">
+              <listIntroduction>For the purposes of this sub-section,—</listIntroduction>
+              <item id="section-19.6.list4.i">
+                <num>(i)</num>
+                <p>“employment under the Central Government or under the State Government” includes employment under any local or other authority within the territory of India or under the control of the Central Government or a State Government or under any corporation or society owned or controlled by the Government.</p>
+              </item>
+              <item id="section-19.6.list4.ii">
+                <num>(ii)</num>
+                <p>“commercial employment” means employment in any capacity under, or agency of, a person engaged in trading, commercial, industrial or financial business in the electricity industry and includes also a director of a company or partner of a firm and it also includes setting up practice either independently or as partner of a firm or as an adviser or a consultant.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Removal of Members.—</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (3), any Member of the State Commission shall only be removed from his office by order of the Governor on the ground of proved misbehaviour after the High Court, on reference being made to it by the Governor, has, on inquiry, held in accordance with the procedure prescribed in that behalf by the High Court, reported that the Member, ought on any such ground to be removed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>The Governor may suspend any member of the State Commission in respect of whom a reference has been made to the High Court under sub-section (1) until the Governor has passed orders on the receipt of the report of the High Court on such reference.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-20.3.list1">
+              <listIntroduction>Notwithstanding anything contained in sub-section (1), the Governor may by order remove from office, the Member if he—</listIntroduction>
+              <item id="section-20.3.list1.a">
+                <num>(a)</num>
+                <p>has been adjudged an insolvent; or</p>
+              </item>
+              <item id="section-20.3.list1.b">
+                <num>(b)</num>
+                <p>has been convicted of an offence which, in the opinion of the State Government, involves moral turpitude; or</p>
+              </item>
+              <item id="section-20.3.list1.c">
+                <num>(c)</num>
+                <p>has become physically or mentally incapable of acting as a Member; or</p>
+              </item>
+              <item id="section-20.3.list1.d">
+                <num>(d)</num>
+                <p>has acquired such financial or other interest as is likely to affect prejudicially his functions as a Member; or</p>
+              </item>
+              <item id="section-20.3.list1.e">
+                <num>(e)</num>
+                <p>has so abused his position as to render his continuance in office prejudicial to the public interest.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-20.4">
+          <num>(4)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (3), no Member shall be removed from his office on the ground specified in clause (d) or clause (e) of that sub-section unless the High Court on a reference being made to it in this behalf by the Governor, has, on an inquiry, held by it in accordance with such procedure as prescribed in this behalf by the High Court, reported that the Member ought on such ground or grounds to be removed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Officers of State Commission and other staff.—</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Commission may appoint a Secretary to exercise and perform under the control of the Chairperson such duties and powers as may be specified by regulations made by the State Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Commission may, with the approval of the State Government, determine the number, nature and categories of other officers and employees required to assist the State Commission in the discharge of its functions.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <p>The salaries and allowances payable to, and other conditions of service of, the Secretary, officers and other employees shall be such as may be determined by regulations with the approval of the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.4">
+          <num>(4)</num>
+          <content>
+            <p>The State Commission may appoint consultants required to assist the State Commission in the discharge of its functions on the terms and conditions as may be determined by regulations by the State Commission.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21A">
+        <num>21A.</num>
+        <heading>Constitution of Joint State Commission.—</heading>
+        <subsection id="section-21A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-21A.1.list1">
+              <listIntroduction>Notwithstanding anything contained in this Act, an agreement may be entered into—</listIntroduction>
+              <item id="section-21A.1.list1.a">
+                <num>(a)</num>
+                <p>by two or more State Governments,</p>
+              </item>
+              <item id="section-21A.1.list1.b">
+                <num>(b)</num>
+                <p>by the Central Government (in respect of one or more Union territories) and one or more State Governments,</p>
+              </item>
+            </blockList>
+            <blockList id="section-21A.1.list3">
+              <listIntroduction>to be in force for such period and to be subject to renewal for such further period, if any, as may be specified in the agreement to provide for the constitution of a Joint Electricity Regulatory Commission,—</listIntroduction>
+              <item id="section-21A.1.list3.i">
+                <num>(i)</num>
+                <p>in a case referred to in clause (a), for all the participating States; and</p>
+              </item>
+              <item id="section-21A.1.list3.ii">
+                <num>(ii)</num>
+                <p>in a case referred in clause (b), for the participating Union territory or Union territories and the State or States.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-21A.2">
+          <num>(2)</num>
+          <content>
+            <p>The Joint Electricity Regulatory Commission shall consist of one Member from each of the participating States and Union territories and the Chairperson shall be appointed from amongst the Members by consensus, failing which by rotation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21A.3">
+          <num>(3)</num>
+          <content>
+            <p>An agreement under sub-section (l) shall contain provisions as to the name of the Joint Electricity Regulatory Commission, the manner in which the participating States may be associated in the selection of the Chairperson and Members of the Joint Electricity Regulatory Commission, manner of appointment of Chairperson and Members by consensus, failing which by rotation, places at which the Commission shall sit, apportionment among the participating States of the expenditure in connection with the Joint Electricity Regulatory Commission and may also contain such other supplemental, incidental and consequential provisions not inconsistent with this Act as may be deemed necessary or expedient for giving effect to the agreement.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21B">
+        <num>21B.</num>
+        <heading>Special provision relating to giving of directions.—</heading>
+        <paragraph id="section-21B.paragraph-0">
+          <content>
+            <blockList id="section-21B.paragraph-0.list1">
+              <listIntroduction>Notwithstanding anything contained in this Act, where any Joint Electricity Regulatory Commission is constituted under section 21A,—</listIntroduction>
+              <item id="section-21B.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the Government of the State for which the Joint Electricity Regulatory Commission is constituted shall be competent to give any direction under this Act only in cases where such direction relates to a matter within the exclusive territorial jurisdiction of the State;</p>
+              </item>
+              <item id="section-21B.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the Central Government alone shall be competent to give any direction under this Act where such direction relates to a matter within the territorial jurisdiction of two or more States or pertains to a Union territory if the participating Governments fail to reach an agreement or the participating States or majority of them request the Central Government to issue such directions.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Functions of State Commission.—</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-22.1.list1">
+              <listIntroduction>Subject to the provisions of Chapter III, the State Commission shall discharge the following functions, namely:—</listIntroduction>
+              <item id="section-22.1.list1.a">
+                <num>(a)</num>
+                <p>to determine the tariff for electricity, wholesale, bulk, grid or retail, as the case may be, in the manner provided in section 29;</p>
+              </item>
+              <item id="section-22.1.list1.b">
+                <num>(b)</num>
+                <p>to determine the tariff payable for the use of the transmission facilities in the manner provided in section 29;</p>
+              </item>
+              <item id="section-22.1.list1.c">
+                <num>(c)</num>
+                <p>to regulate power purchase and procurement process of the transmission utilities and distribution utilities including the price at which the power shall be procured from the generating companies, generating stations or from other sources for transmission, sale, distribution and supply in the State;</p>
+              </item>
+              <item id="section-22.1.list1.d">
+                <num>(d)</num>
+                <p>to promote competition, efficiency and economy in the activities of the electricity industry to achieve the objects and purposes of this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-22.2.list1">
+              <listIntroduction>Subject to the provisions of Chapter III and without prejudice to the provisions of sub-section (1), the State Government may, by notification in the Official Gazette, confer any of the following functions upon the State Commission, namely:—</listIntroduction>
+              <item id="section-22.2.list1.a">
+                <num>(a)</num>
+                <p>to regulate the investment approval for generation, transmission, distribution and supply of electricity to the entities operating within the State;</p>
+              </item>
+              <item id="section-22.2.list1.b">
+                <num>(b)</num>
+                <p>to aid and advise the State Government, in matters concerning electricity generation, transmission, distribution and supply in the State;</p>
+              </item>
+              <item id="section-22.2.list1.c">
+                <num>(c)</num>
+                <p>to regulate the operation of the power system within the State;</p>
+              </item>
+              <item id="section-22.2.list1.d">
+                <num>(d)</num>
+                <p>to issue licences for transmission, bulk supply, distribution or supply of electricity and determine the conditions to be included in the licences;</p>
+              </item>
+              <item id="section-22.2.list1.e">
+                <num>(e)</num>
+                <p>to regulate the working of the licensees and other persons authorised or permitted to engage in the electricity industry in the State and to promote their working in an efficient, economical and equitable manner;</p>
+              </item>
+              <item id="section-22.2.list1.f">
+                <num>(f)</num>
+                <p>to require licensees to formulate perspective plans and schemes in co-ordination with others for the promotion of generation, transmission, distribution, supply and utilisation of electricity, quality of service and to devise proper power purchase and procurement process;</p>
+              </item>
+              <item id="section-22.2.list1.g">
+                <num>(g)</num>
+                <p>to set standards for the electricity industry in the State including standards relating to quality, continuity and reliability of service;</p>
+              </item>
+              <item id="section-22.2.list1.h">
+                <num>(h)</num>
+                <p>to promote competitiveness and make avenues for participation of private sector in the electricity industry in the State, and also to ensure a fair deal to the customers;</p>
+              </item>
+              <item id="section-22.2.list1.i">
+                <num>(i)</num>
+                <p>to lay down and enforce safety standards;</p>
+              </item>
+              <item id="section-22.2.list1.j">
+                <num>(j)</num>
+                <p>to aid and advise the State Government in the formulation of the State power policy;</p>
+              </item>
+              <item id="section-22.2.list1.k">
+                <num>(k)</num>
+                <p>to collect and record information concerning the generation, transmission, distribution and utilisation of electricity;</p>
+              </item>
+              <item id="section-22.2.list1.l">
+                <num>(l)</num>
+                <p>to collect and publish data and forecasts on the demand for, and use of, electricity in the State and to require the licences to collect and publish such data;</p>
+              </item>
+              <item id="section-22.2.list1.m">
+                <num>(m)</num>
+                <p>to regulate the assets, properties and interest in properties concerning or related to the electricity industry in the State including the conditions governing entry into, and exit from, the electricity industry in the such manner as to safeguard the public interest;</p>
+              </item>
+              <item id="section-22.2.list1.n">
+                <num>(n)</num>
+                <p>to adjudicate upon the disputes and differences between the licensees and utilities and to refer the matter for arbitration;</p>
+              </item>
+              <item id="section-22.2.list1.o">
+                <num>(o)</num>
+                <p>to co-ordinate with environmental regulatory agencies and to evolve policies and procedures for appropriate environmental regulation of the electricity sector and utilities in the State; and</p>
+              </item>
+              <item id="section-22.2.list1.p">
+                <num>(p)</num>
+                <p>to aid and advise the State Government on any other matter referred to the State Commission by such Government;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>The State Commission shall exercise its functions in conformity with the national power plan.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Application of certain provisions relating to Central Commission to State Commissions.—</heading>
+        <paragraph id="section-23.paragraph-0">
+          <content>
+            <blockList id="section-23.paragraph-0.list1">
+              <listIntroduction>The provisions of sections 9, 10 and 12 shall apply to a State Commission and shall have effect, subject to the following modifications, namely:—</listIntroduction>
+              <item id="section-23.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>references to “Central Commission” shall be construed as references to “State Commission”;</p>
+              </item>
+              <item id="section-23.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>in sub-section (3) of section 9, the brackets and words “(including the Member ex officio)” shall be omitted.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>State Advisory Committee.—</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Commission may, by notification, establish with effect from such date as it may specify in such notification, a Committee to be known as the State Advisory Committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Advisory Committee shall consist of not more than twenty-one members to represent the interests of commerce, industry, transport, agriculture, labour, consumers, non-governmental organisations and academic and research bodies in the energy sector.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.3">
+          <num>(3)</num>
+          <content>
+            <p>The Chairperson and the Members of the State Commission shall be ex officio Chairperson and ex officio Members of the State Advisory Committee.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Objects of State Advisory Committee.—</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <blockList id="section-25.paragraph-0.list1">
+              <listIntroduction>The objects of the State Advisory Committee shall be to advise the Commission on—</listIntroduction>
+              <item id="section-25.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>major questions of policy;</p>
+              </item>
+              <item id="section-25.paragraph-0.list1.ii">
+                <num>(ii)</num>
+                <p>matters relating to quality, continuity and extent of service provided by the licensees;</p>
+              </item>
+              <item id="section-25.paragraph-0.list1.iii">
+                <num>(iii)</num>
+                <p>compliance by licensees with the conditions and requirements of their licence;</p>
+              </item>
+              <item id="section-25.paragraph-0.list1.iv">
+                <num>(iv)</num>
+                <p>protection of consumer interest; and</p>
+              </item>
+              <item id="section-25.paragraph-0.list1.v">
+                <num>(v)</num>
+                <p>energy supply and overall standards of performance by utilities.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Representation before State Commission.—</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <p>The State Commission shall authorise any person as it deems fit to represent the interest of the consumers in all the proceedings before it.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Appeal to High Court in certain cases.—</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>Any person aggrieved by any decision or order of the State Commission may file an appeal to the High Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <p>Except as aforesaid, no appeal or revision shall lie to any court from any decision or order of the State Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.3">
+          <num>(3)</num>
+          <content>
+            <p>Every appeal under this section shall be preferred within sixty days from the date of communication of the decision or order of the State Commission to the person aggrieved by the said decision or order:</p>
+            <p>Provided that the High Court may entertain an appeal after the expiry of the said period of sixty days if it is satisfied that the aggrieved person had sufficient cause for not preferring the appeal within the said period of sixty days.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Determination of tariff by Central Commission.—</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <blockList id="section-28.paragraph-0.list1">
+              <listIntroduction>The Central Commission shall determine by regulations the terms and conditions for fixation of tariff under clauses</listIntroduction>
+              <item id="section-28.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>, (b) and (c) of section 13, and in doing so, shall be guided by the following, namely:—</p>
+              </item>
+              <item id="section-28.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the generating companies and transmission entities shall adopt such principles in order that they may earn an adequate return and at the same time that they do not exploit their dominant position in the generation, sale of electricity or in the inter-State transmission of electricity;</p>
+              </item>
+              <item id="section-28.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the factors which would encourage efficiency, economical use of the resources, good performance, optimum investments and other matters which the Central Commission considers appropriate;</p>
+              </item>
+              <item id="section-28.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>national power plans formulated by the Central Government; and</p>
+              </item>
+              <item id="section-28.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>such financial principles and their applications contained in Schedule VI to the Electricity (Supply) Act, 1948 (54 of 1948) as the Commission considers appropriate.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Determination of tariff by State Commission.—</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in any other law, the tariff for intra-State transmission of electricity and the tariff for supply of electricity, grid, wholesale, bulk or retail, as the case may be, in a State (hereinafter referred to as the tariff), shall be subject to the provisions of this Act and the tariff shall be determined by the State Commission of that State in accordance with the provisions of this Act.</p>
+            <p>Provided that in States or Union territories where Joint Electricity Regulatory Commission has been constituted, such Joint Electricity Regulatory Commission shall determine different tariff for each of the participating States or Union territories.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-29.2.list1">
+              <listIntroduction>The State Commission shall determine by regulations the terms and conditions for the fixation to tariff, and in doing so, shall be guided by the following, namely:—</listIntroduction>
+              <item id="section-29.2.list1.a">
+                <num>(a)</num>
+                <p>the principles and their applications provided in sections 46, 57 and 57A of the Electricity (Supply) Act, 1948 (54 of 1948) and the Sixth Schedule thereto;</p>
+              </item>
+              <item id="section-29.2.list1.b">
+                <num>(b)</num>
+                <p>in the case of the Board or its successor entities, the principles under section 59 of the Electricity (Supply) Act, 1948 (54 of 1948);</p>
+              </item>
+              <item id="section-29.2.list1.c">
+                <num>(c)</num>
+                <p>that the tariff progressively reflects the cost of supply of electricity at an adequate and improving level of efficiency;</p>
+              </item>
+              <item id="section-29.2.list1.d">
+                <num>(d)</num>
+                <p>the factors which would encourage efficiency, economical use of the resources, good performance, optimum investments, and other matters which the State Commission considers appropriate for the purpose of this Act;</p>
+              </item>
+              <item id="section-29.2.list1.e">
+                <num>(e)</num>
+                <p>the interests of the consumers are safeguarded and at the same time, the consumers pay for the use of electricity in a reasonable manner based on the average cost of supply of energy;</p>
+              </item>
+              <item id="section-29.2.list1.f">
+                <num>(f)</num>
+                <p>the electricity generation, transmission, distribution and supply are conducted on commercial principles;</p>
+              </item>
+              <item id="section-29.2.list1.g">
+                <num>(g)</num>
+                <p>national power plans formulated by the Central Government;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-29.3">
+          <num>(3)</num>
+          <content>
+            <p>The State Commission, while determining the tariff under this Act, shall not show undue preference to any consumer of electricity, but may differentiate according to the consumer’s load factor, power factor, total consumption of energy during any specified period or the time at which the supply is required or the geographical position of any area, the nature of supply and the purpose for which the supply is required.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.4">
+          <num>(4)</num>
+          <content>
+            <p>The holder of each licence and other persons including the Board or its successor body authorised to transmit, sell, distribute or supply electricity wholesale, bulk or retail, in the State shall observe the methodologies and procedures specified by the State Commission from time to time in calculating the expected revenue from charges which he is permitted to recover and in determining tariffs to collect those revenues.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.5">
+          <num>(5)</num>
+          <content>
+            <p>If the State Government requires the grant of any subsidy to any consumer or class of consumers in the tariff determined by the State Commission under this section, the State Government shall pay the amount to compensate the person affected by the grant of subsidy in the manner the State Commission may direct, as a condition for the licence or any other person concerned to implement the subsidy provided for by the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.6">
+          <num>(6)</num>
+          <content>
+            <p>Notwithstanding anything contained in sections 57A and 57B of the Electricity (Supply) Act, 1948 (54 of 1948) no rating committee shall be constituted after the date of commencement of this Act and the Commission shall secure that the licensees comply with the provisions of their licence regarding the charges for the sale of electricity both wholesale and retail and for connections and use of their assets or systems in accordance with the provisions of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Reasons for deviation by Commissions.—</heading>
+        <paragraph id="section-30.paragraph-0">
+          <content>
+            <blockList id="section-30.paragraph-0.list1">
+              <listIntroduction>Where the Commissions depart from factors specified in clauses</listIntroduction>
+              <item id="section-30.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to (d) of section 28 and clauses</p>
+              </item>
+              <item id="section-30.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to (f) of sub-section (2) of section 29, they shall record the reasons for such departure in writing.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Budget of Central Commission.—</heading>
+        <paragraph id="section-31.paragraph-0">
+          <content>
+            <p>The Central Commission shall prepare, in such form and at such time in each financial year as may be prescribed, its budget for the next financial year, showing the estimated receipts and expenditure of the Central Commission and forward the same to the Central Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Accounts and audit of Central Commission.—</heading>
+        <subsection id="section-32.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.2">
+          <num>(2)</num>
+          <content>
+            <p>The accounts of the Central Commission shall be audited by the Comptroller and Auditor-General at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Central Commission to the Comptroller and Auditor-General.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.3">
+          <num>(3)</num>
+          <content>
+            <p>The Comptroller and Auditor-General and any person appointed by him in connection with the audit of the accounts of the Central Commission under this Act shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Central Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.4">
+          <num>(4)</num>
+          <content>
+            <p>The accounts of the Central Commission, as certified by the Comptroller and Auditor-General or any other person appointed by him in this behalf, together with the audit report thereon shall be forwarded annually to the Central Government by the Central Commission and the Central Government shall cause the audit report to be laid, as soon as may be after it is received, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Budget of State Commission.—</heading>
+        <paragraph id="section-33.paragraph-0">
+          <content>
+            <p>The State Commissions shall prepare, in such form and at such time in each financial year as may be prescribed, its budget for the next financial year, showing the estimated receipts and expenditure of the State Commission and forward the same to the State Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Accounts and audit of State Commission.—</heading>
+        <subsection id="section-34.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Commission shall maintain proper accounts and other relevant records and prepare and annual statement of accounts in such form as may be prescribed by the State Government in consultation with the Comptroller and Auditor-General of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.2">
+          <num>(2)</num>
+          <content>
+            <p>The accounts of the State Commission shall be audited by the Comptroller and Auditor-General at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the State Commission to the Comptroller and Auditor-General.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.3">
+          <num>(3)</num>
+          <content>
+            <p>The Comptroller and Auditor-General and any person appointed by him in connection with the audit of the accounts of the State Commission under this Act shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the State Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.4">
+          <num>(4)</num>
+          <content>
+            <p>The accounts of the State Commission, as certified by the Comptroller and Auditor-General or any other person appointed by him in this behalf, together with the audit report thereon shall be forwarded annually to the State Government by the State Commission and the State Government shall cause the audit report to be laid, as soon as may be after it is received, before the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Annual report of Central Commission.—</heading>
+        <subsection id="section-35.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Commission shall prepare once every year, in such form and at such time as may be prescribed, an annual report giving a summary of its activities during the previous year and copies of the report shall be forwarded to the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-35.2">
+          <num>(2)</num>
+          <content>
+            <p>A copy of the report received under sub-section (1) shall be laid, as soon as may be after it is received, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-36">
+        <num>36.</num>
+        <heading>Annual report of State Commission.—</heading>
+        <subsection id="section-36.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Commission shall prepare once every year in such form and at such time as may be prescribed, an annual report giving a summary of its activities during the previous year and copies of the report shall be forwarded to the State Government,</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.2">
+          <num>(2)</num>
+          <content>
+            <p>A copy of the report received under sub-section (l) shall be laid, as soon as may be after it is received, before the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-37">
+        <num>37.</num>
+        <heading>Transparency in Commissions.—</heading>
+        <paragraph id="section-37.paragraph-0">
+          <content>
+            <p>The Commissions shall ensure transparency while exercising their powers and discharging their functions.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-38">
+        <num>38.</num>
+        <heading>Directions by Central Government.—</heading>
+        <subsection id="section-38.1">
+          <num>(1)</num>
+          <content>
+            <p>In the discharge of its functions, the Central Commission shall be guided by such directions in matters of policy involving public interest as the Central Government may give to it in writing.</p>
+          </content>
+        </subsection>
+        <subsection id="section-38.2">
+          <num>(2)</num>
+          <content>
+            <p>If any question arises as to whether any such direction relates to a matter of policy involving public interest, the decision of the Central Government thereon shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-39">
+        <num>39.</num>
+        <heading>Directions by State Government.—</heading>
+        <subsection id="section-39.1">
+          <num>(1)</num>
+          <content>
+            <p>In the discharge of its functions, the State Commission shall be guided by such directions in matters of policy involving public interest as the State Government may give to it in writing.</p>
+          </content>
+        </subsection>
+        <subsection id="section-39.2">
+          <num>(2)</num>
+          <content>
+            <p>If any question arises as to whether any such direction relates to a matter of policy involving public interest, the decision of the State Government thereon shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-40">
+        <num>40.</num>
+        <heading>Members, officers and employees of Central Commission to be public servants.—</heading>
+        <paragraph id="section-40.paragraph-0">
+          <content>
+            <p>The Chairperson, Members, officers and other employees of the Commissions shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-41">
+        <num>41.</num>
+        <heading>Special provision relating to the Orissa Electricity Reform Act, 1995 or Haryana State Electricity Reform Act, 1997.—</heading>
+        <paragraph id="section-41.paragraph-0">
+          <content>
+            <p>The provisions of this Act in so far as they relate to the State Commission shall not apply to the Commissions established under the Orissa Electricity Reform Act, 1995 or the Haryana State Electricity Reform Act, 1997.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-42">
+        <num>42.</num>
+        <heading>Proceedings before Commission.—</heading>
+        <paragraph id="section-42.paragraph-0">
+          <content>
+            <p>All proceedings before the Commission shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Commission shall be deemed to be a civil court for the purposes of sections 345 and 346 of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-43">
+        <num>43.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <paragraph id="section-43.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against the Central or State Government or the Central or State Commission or any officer of Central or State Government or any Members, officer or other employees of the Central or State Commission for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-44">
+        <num>44.</num>
+        <heading>Punishment for non-compliance of orders or directions under the Act.—</heading>
+        <paragraph id="section-44.paragraph-0">
+          <content>
+            <p>Whoever fails to comply with any order or direction given under this Act, within such time as may be specified in the said order or direction or contravenes, or attempts to contravene or abets the contravention of any of the provisions of this Act or any rules or regulations made thereunder shall be punishable with imprisonment for a term which may extend to three months or with fine, which may extend to rupees one lakh or, with both in respect of each offence and in the case of a continuing failure, with an additional fine which may extend to rupees four thousand for every day during which the failure continues after conviction of the first such offence.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-45">
+        <num>45.</num>
+        <heading>Punishment for non-compliance of directions given by a Commission.—</heading>
+        <subsection id="section-45.1">
+          <num>(1)</num>
+          <content>
+            <p>In case any complaint is filed before the Commission by any person or if the Commission is satisfied that any person has contravened any directions issued by the Commission under this Act, rules or regulations made thereunder, the Commission may after giving such person an opportunity of being heard in the matter, by order in writing, direct that, without prejudice to any other penalty to which he may be liable under this Act, such person shall pay, by way of penalty, which shall not exceed rupees one lakh for each contravention and in case of a continuing failure with an additional penalty which may extend to rupees six thousand for every day during which the failure continues after contravention of the first such direction.</p>
+          </content>
+        </subsection>
+        <subsection id="section-45.2">
+          <num>(2)</num>
+          <content>
+            <p>Any amount payable under this section, if not paid, may be recovered as if it were an arrear of land revenue.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-46">
+        <num>46.</num>
+        <heading>Power of seizure.—</heading>
+        <paragraph id="section-46.paragraph-0">
+          <content>
+            <p>The Commission or any other officer, not below the rank of a Gazetted Officer, specially authorised in this behalf by the Commission may enter any building or place where the Commission has reasons to believe that any document relating to the subject matter of the inquiry may be found, and may seize any such document or take extracts or copies therefrom subject to the provisions of section 100 of the Code of Criminal Procedure 1973 (2 of 1974), in so far as it may be applicable.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-47">
+        <num>47.</num>
+        <heading>Offences by companies.—</heading>
+        <subsection id="section-47.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an offence under this Act has been committed by a company, every person who at the time, the offence was committed was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act if he proves that the offence was committed without his knowledge or that he has exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-47.2">
+          <num>(2)</num>
+          <content>
+            <p>Nothwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <p>Explanation.—</p>
+            <blockList id="section-47.2.list3">
+              <listIntroduction>For the purposes of this section,—</listIntroduction>
+              <item id="section-47.2.list3.a">
+                <num>(a)</num>
+                <p>“company” means any body corporate and includes a firm or other association of individuals; and</p>
+              </item>
+              <item id="section-47.2.list3.b">
+                <num>(b)</num>
+                <p>“director”, in relation to a firm, means a partner in the firm.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-48">
+        <num>48.</num>
+        <heading>Cognizance of offences.—</heading>
+        <paragraph id="section-48.paragraph-0">
+          <content>
+            <p>No court shall take cognizance of an offence punishable under this Act except upon a complaint, in writing, made by the Commission or by any other officer duly authorised by the Commission for this purpose.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-49">
+        <num>49.</num>
+        <heading>Inconsistency in laws.—</heading>
+        <paragraph id="section-49.paragraph-0">
+          <content>
+            <p>Nothing contained in this Act or any rule or regulation made thereunder or any instrument having effect by virtue of this Act, rule or regulation shall have effect in so far as it is inconsistent with any other provisions of the Consumer Protection Act, 1986 (68 of 1986) or the Atomic Energy Act, 1962 (33 of 1962).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-50">
+        <num>50.</num>
+        <heading>Delegation.—</heading>
+        <paragraph id="section-50.paragraph-0">
+          <content>
+            <p>The Central or the State Commission may, by general or special order in writing, delegate to any Members, officer of the Central or the State Commission or any other person subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act (except the power to settle disputes under Chapters III and V and the power to make regulations under section 55 or section 58) as it may deem necessary.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-51">
+        <num>51.</num>
+        <heading>Amendment of Act 54 of 1948.—</heading>
+        <paragraph id="section-51.paragraph-0">
+          <content>
+            <p>With effect from such date as the Central Government may, by notification, in the Official Gazette appoint, sub-section (2) of section 43A of the Electricity (Supply) Act, 1948 shall be omitted:</p>
+            <p>Provided that different dates may be appointed for different States.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-52">
+        <num>52.</num>
+        <heading>Overriding effect.—</heading>
+        <paragraph id="section-52.paragraph-0">
+          <content>
+            <p>Save as otherwise provided in section 49, the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-53">
+        <num>53.</num>
+        <heading>Power to give directions.—</heading>
+        <paragraph id="section-53.paragraph-0">
+          <content>
+            <p>The Central Government may give directions to a State Government as to the carrying out into execution of this Act in the State.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-54">
+        <num>54.</num>
+        <heading>Power of Central Government to make rules.—</heading>
+        <subsection id="section-54.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-54.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-54.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-54.2.list1.a">
+                <num>(a)</num>
+                <p>the salary and allowances payable to and the other conditions of service of the Chairperson and Members under sub-section (2) of section 6;</p>
+              </item>
+              <item id="section-54.2.list1.b">
+                <num>(b)</num>
+                <p>the form and the manner in which and the authority before whom oath of office and secrecy should be subscribed under sub-section (4) of section 6;</p>
+              </item>
+              <item id="section-54.2.list1.c">
+                <num>(c)</num>
+                <p>the form in which and the time at which, the Central Commission shall prepare its budget under section 31;</p>
+              </item>
+              <item id="section-54.2.list1.d">
+                <num>(d)</num>
+                <p>the form in which annual statement of accounts to be prepared by the Central Commission under sub-section (1) of section 32;</p>
+              </item>
+              <item id="section-54.2.list1.e">
+                <num>(e)</num>
+                <p>the form and the time within which annual report should be filed under sub-section (1) of section 35;</p>
+              </item>
+              <item id="section-54.2.list1.f">
+                <num>(f)</num>
+                <p>any other matter which is to be, or may be, prescribed, or in respect of which provision is to be made, by rules.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-55">
+        <num>55.</num>
+        <heading>Power of Central Commission to make regulations.—</heading>
+        <subsection id="section-55.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Commission may, by notification in the Official Gazette, make regulations consistent with this Act and the rules generally to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-55.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-55.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-55.2.list1.a">
+                <num>(a)</num>
+                <p>the powers and duties of the Secretary under sub-section (1) of section 8;</p>
+              </item>
+              <item id="section-55.2.list1.b">
+                <num>(b)</num>
+                <p>the salaries, allowances and other conditions of service of the Secretary, officers and other employees under sub-section (3) of section 8;</p>
+              </item>
+              <item id="section-55.2.list1.c">
+                <num>(c)</num>
+                <p>the terms and conditions of the consultants appointed under sub-section (4) of section 8;</p>
+              </item>
+              <item id="section-55.2.list1.d">
+                <num>(d)</num>
+                <p>the rules of procedure to be observed by the Central Commission under sub-section (1) of section 9;</p>
+              </item>
+              <item id="section-55.2.list1.e">
+                <num>(e)</num>
+                <p>the manner in which charges for energy may be determined under section 28.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-56">
+        <num>56.</num>
+        <heading>Rules and regulations to be laid before Parliament.—</heading>
+        <paragraph id="section-56.paragraph-0">
+          <content>
+            <p>Every rule made by the Central Government and every regulation made by the Central Commission under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-57">
+        <num>57.</num>
+        <heading>Power of State Government to make rules.—</heading>
+        <subsection id="section-57.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, make rules to carry out the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-57.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-57.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-57.2.list1.a">
+                <num>(a)</num>
+                <p>the salary, allowances and other conditions of service of the Members under sub-section (2) of section 19;</p>
+              </item>
+              <item id="section-57.2.list1.b">
+                <num>(b)</num>
+                <p>the form and the manner in which and the authority before whom the oath of office and secrecy should be subscribed under sub-section (4) of section 19;</p>
+              </item>
+              <item id="section-57.2.list1.c">
+                <num>(c)</num>
+                <p>the form in which and the time at which, the State Commission shall prepare its budget under section 33;</p>
+              </item>
+              <item id="section-57.2.list1.d">
+                <num>(d)</num>
+                <p>the form in which annual statement of accounts to be prepared by the State Commission under sub-section (1) of section 34;</p>
+              </item>
+              <item id="section-57.2.list1.e">
+                <num>(e)</num>
+                <p>the form and the time within which annual report shall be furnished under sub-section (1) of section 36;</p>
+              </item>
+              <item id="section-57.2.list1.f">
+                <num>(f)</num>
+                <p>any other matter which is to be, or may be, prescribed or in respect of which provision is to be made by rules.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-58">
+        <num>58.</num>
+        <heading>Power of State Commission to make regulations.—</heading>
+        <subsection id="section-58.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Commission may, by notification in the Official Gazette, make regulations consistent with this Act and the rules made thereunder to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-58.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-58.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-58.2.list1.a">
+                <num>(a)</num>
+                <p>the duties and powers of the Secretary under sub-section (1) of section 21;</p>
+              </item>
+              <item id="section-58.2.list1.b">
+                <num>(b)</num>
+                <p>the salary, allowances and other conditions of service of the Secretary, officers and other employees under sub-section (3) of section 21;</p>
+              </item>
+              <item id="section-58.2.list1.c">
+                <num>(c)</num>
+                <p>the terms and conditions of consultants appointed under sub-section (4) of section 21;</p>
+              </item>
+              <item id="section-58.2.list1.d">
+                <num>(d)</num>
+                <p>the manner in which charges for energy may be determined under sub-section (2) of section 29;</p>
+              </item>
+              <item id="section-58.2.list1.e">
+                <num>(e)</num>
+                <p>any other matter which is to be, or may be, specified.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-59">
+        <num>59.</num>
+        <heading>Rules and regulations to be laid before State Legislature.—</heading>
+        <paragraph id="section-59.paragraph-0">
+          <content>
+            <p>Every rule made by the State Government and every regulation made by the State Commission under this Act shall be laid, as soon as may be after it is made, before each House of the State Legislature where it consists of two Houses, or where such Legislature consists of one House, before that House</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-60">
+        <num>60.</num>
+        <heading>Power to remove difficulties.—</heading>
+        <subsection id="section-60.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:</p>
+            <p>Provided that no order shall be made under this section after the expiry of two years from the date of commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-60.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-61">
+        <num>61.</num>
+        <heading>Repeal and Saving.—</heading>
+        <subsection id="section-61.1">
+          <num>(1)</num>
+          <content>
+            <p>The Electricity Regulatory Commissions Ordinance, 1998 (Ord. 14 of 1998) is hereby repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-61.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

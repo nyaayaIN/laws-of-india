@@ -1,0 +1,951 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kl/act/2006/24/main"/>
+          <FRBRuri value="/in-kl/act/2006/24"/>
+          <FRBRalias value="Kerala Shops And Commercial Establishments Workers' Welfare Fund Act, 2006"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kl/act/2006/24/eng@2017-03-31/main"/>
+          <FRBRuri value="/in-kl/act/2006/24/eng@2017-03-31"/>
+          <FRBRdate date="2017-03-31" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kl/act/2006/24/eng@2017-03-31/main"/>
+          <FRBRuri value="/in-kl/act/2006/24/eng@2017-03-31"/>
+          <FRBRdate date="2017-03-31" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Kerala Shops And Commercial Establishments Workers' Welfare Fund Act, 2006</shortTitle>
+      </p>
+      <longTitle>
+        <p>(Act 24 of 2006)</p>
+        <p>As amended by Act 5 of 2009</p>
+        <p>An Act to provide for the Constitution of a Fund to grant relief to, to promote the welfare of and to pay pension to workers coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960 and self-employed persons.</p>
+        <p>Preamble: Whereas, it is expedient to provide for the constitution of a Fund to grant relief to, to promote the welfare of and to pay pension to workers coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960 and self-employed persons and for certain other matters incidental thereto;</p>
+        <p>Be it enacted in the Fifty-seventh Year of the Republic of India as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Kerala Shops and Commercial Establishments Workers' Welfare Fund Act, 2006.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall come into force on such date as the Government may, by notification in the Gazette, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>"Board" means the Kerala Shops and Commercial Establishments Workers' Welfare Fund Board constituted under Section 6;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>"Chief Executive Officer" means the Chief Executive Officer appointed under sub¬section (1) of Section 9;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>"Contribution" means the sum of money payable to the Fund under Section 4;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>"employer" means a person who employs, directly or indirectly, whether on behalf of himself or for any other person, one or more workers to do any work in institutions including hospital, nursing home, ayurvedic pharmacy, dispensary, medical shop, paramedical institution, parcel service, petrol-diesel-auto gas bunks, fish processing establishment, food processing establishment, textile manufacturing establishment, hotel, restaurant, meat shop, computer-computer allied service establishment, printing press, telephone booth, courier service, cooking gas distribution agency, hostel, hill produce-procurement and marketing establishment, small scale copra processing unit, small scale oil mill, leather procurement establishment, small scale foot wear-bag manufacturing establishment, cinema theatre, photo/ video studio, bakery, automobile-engineering establishment, establishment providing sound, light and decoration or in trade/commercial establishments coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960, (34 of 1960);</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-2.paragraph-0.list1.e.list0">
+                  <listIntroduction>"family" means,</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.e.list0.i">
+                    <num>(i)</num>
+                    <p>husband/wife, their minor children, unmarried daughters; and</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.ii">
+                    <num>(ii)</num>
+                    <p>father, mother and widowed daughters who are dependent on the worker or self-employed person, coming under the purview of the Kerala Shops and Commercial Establishments Act;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>"Fund" means the Kerala Shops and Commercial Establishments Workers' Welfare Fund established under Section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>"Worker" means an employee coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960 (34 of 1960) and includes a person employed in Establishments including hospitals, nursing home, ayurvedic pharmacy, dispensary, medical shop, paramedical institution, parcel service, petrol-diesel auto gas bunks, fish processing establishment, food processing establishment, textile manufacturing establishment, hotel, restaurant, meat shop, computer-computer allied service establishment, printing press, telephone booth, courier service, cooking gas distribution agency, hostel, hill produce-procurement and marketing establishment, small scale copra processing unit, small scale oil mill, leather procurement establishment, small scale foot Wear-bag manufacturing establishment, cinema theatre, photo/ video studio, bakery, automobile-engineering establishment, establishment providing sound, light and decoration or in trade/commercial establishments and who receives wages from the employer directly or otherwise or through contractor or agent or by agreement or otherwise or a self employed person and any other person, declared by the Government from time to time, by notification in the Gazette, for the purposes of this Act to be an employee coming under the purview of the Kerala Shops and Commercial Establishments Act:</p>
+              </item>
+            </blockList>
+            <blockList id="section-2.paragraph-0.list3">
+              <listIntroduction>Provided that the workers employed in the establishments where the Factories Act, 1948 or the Plantation Labour Act, 1951 are applicable, shall not include under the purview of this Act;</listIntroduction>
+              <item id="section-2.paragraph-0.list3.h">
+                <num>(h)</num>
+                <p>"member" means a member of the Fund;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.i">
+                <num>(i)</num>
+                <p>"person" includes a company, a firm, and association of individuals or a co-operative society registered or deemed to have been registered under the Kerala Co-operative Societies Act, 1969 (21 of 1969);</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.j">
+                <num>(j)</num>
+                <p>"schedule" means the schedule to this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.k">
+                <num>(k)</num>
+                <p>"scheme" means a scheme framed under Section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.l">
+                <num>(l)</num>
+                <p>"self-employed person" means a person who actually engages himself mainly in a work coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960 for the livelihood, without employing any workers, and which does not include a person who is a member of Vyapari Vyavasayi Welfare Fund or Ration Dealers Welfare Fund;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.m">
+                <num>(m)</num>
+                <p>"wages" means the total amount received by an employee including dearness allowance and other allowances in a calendar month;</p>
+              </item>
+              <item id="section-2.paragraph-0.list3.n">
+                <num>(n)</num>
+                <p>"year" means a financial year commencing on the 1st day of April.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Kerala Shops and Commercial Establishment Workers' Welfare Fund</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, by notification in the Gazette, frame a scheme to be called "the Kerala Shops and Commercial Establishments Workers' Welfare Fund Scheme" for the establishment of a Fund for the welfare of the workers coming under this Act and there shall be established, as soon as may be, after the framing of the scheme, a Fund in accordance with the provisions of this Act and the Scheme.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-3.2.list1">
+              <listIntroduction>These shall be credited to the Fund, namely:-</listIntroduction>
+              <item id="section-3.2.list1.a">
+                <num>(a)</num>
+                <p>the contributions as per Section 4;</p>
+              </item>
+              <item id="section-3.2.list1.b">
+                <num>(b)</num>
+                <p>amounts borrowed by the Board under Section 10;</p>
+              </item>
+              <item id="section-3.2.list1.c">
+                <num>(c)</num>
+                <p>damages realised under Section 20;</p>
+              </item>
+              <item id="section-3.2.list1.d">
+                <num>(d)</num>
+                <p>grants, loans or advances made by the Government of India or the State Government or any institution;</p>
+              </item>
+              <item id="section-3.2.list1.e">
+                <num>(e)</num>
+                <p>any donations from whatever source;</p>
+              </item>
+              <item id="section-3.2.list1.f">
+                <num>(f)</num>
+                <p>any amount raised by the Board from any other sources to augment the resources of the Board;</p>
+              </item>
+              <item id="section-3.2.list1.g">
+                <num>(g)</num>
+                <p>fee levied under the scheme;</p>
+              </item>
+              <item id="section-3.2.list1.h">
+                <num>(h)</num>
+                <p>any other amount which under the provisions of the scheme, shall be credited to the Fund.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>The Fund shall vest in, and be administered by the Board constituted under Section 6.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-3.4.list1">
+              <listIntroduction>The Fund may be utilised for all or any of the following purposes namely:-</listIntroduction>
+              <item id="section-3.4.list1.a">
+                <num>(a)</num>
+                <p>for payment of pension to a member who is unable to work, for period of more than two years due to permanent physical infirmity, or has completed the age of sixty years and had remitted contribution to the Fund for at least ten years continuously or for payment of family pension, on the death of a member who had remitted contribution for at least fifteen years continuously;</p>
+              </item>
+              <item id="section-3.4.list1.b">
+                <num>(b)</num>
+                <p>for payment of maternity wages in such manner as may be provided in the scheme, to the female employees who have paid contribution to the Fund at least for a period of one year continuously and not coming within the purview of Employees State Insurance Scheme, for a period of twelve weeks, in the case of delivery and for a period of six weeks, in the case of premature delivery, abortion or medical termination of pregnancy as the case may be:</p>
+              </item>
+            </blockList>
+            <blockList id="section-3.4.list3">
+              <listIntroduction>Provided that no one shall be eligible for maternity wages beyond a maximum of two times;</listIntroduction>
+              <item id="section-3.4.list3.c">
+                <num>(c)</num>
+                <p>for payment of financial assistance to meet the expenses in connection with the marriage of daughters or in connection with the death of dependants of members who had contributed to the Fund continuously, at least for a period of three years;</p>
+              </item>
+              <item id="section-3.4.list3.d">
+                <num>(d)</num>
+                <p>for providing educational benefits and for payment of a sum equal to an amount of his wages towards medical benefit for a period not exceeding ninety days in a year, to members who have contributed to the fund continuously for one year and their family members subject to certain conditions as may be fixed by the Government in consultation with the Welfare Fund Board;</p>
+              </item>
+              <item id="section-3.4.list3.e">
+                <num>(e)</num>
+                <p>for the payment of assistance on the death of a member due to illness or accident who has paid contribution to the Fund continuously for a period of three years or more, at such rates as may be provided in the scheme;</p>
+              </item>
+              <item id="section-3.4.list3.f">
+                <num>(f)</num>
+                <p>for the refund of the amount of contribution remitted by the members who are unable to work, for a period of more than two years due to permanent physical infirmity or had completed the age of sixty years;</p>
+              </item>
+            </blockList>
+            <p>Explanation. — Those who have contributed to the Fund continuously for a period of six months or more in a year shall be deemed to have continued as members till the completion of that year and according to this pension and financial assistance on death shall be computed. Service less than six months shall be ignored.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>Subject to the provisions of this Act, the scheme framed under sub-section (1) may provide for all or any of the matters specified in sub-section (4) and the schedule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3A">
+        <num>3A.</num>
+        <heading>A worker who is a member of the Kerala Labour Welfare Fund and coming under the purview of the Kerala Shops and Commercial Establishments Act be a member of the Fund</heading>
+        <subsection id="section-3A.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Kerala Labour Welfare Fund Act, 1975 (11 of 1977), a worker who is a member of the Kerala Labour Welfare Fund and coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960 (34 of 1960) shall be a worker coming under the purview of this Act and shall have to become member of the Welfare Fund constituted under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3A.2">
+          <num>(2)</num>
+          <content>
+            <p>A worker who became member under sub-section (1) shall cease to be a member of the Labour Welfare Fund under the Kerala Labour Welfare Fund Act, 1975.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Contribution to the Fund</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>Every member shall contribute to the Fund rupees twenty per month.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>Every employer shall contribute to the Fund rupees twenty per month, in respect of each worker employed by him.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>A self-employed person shall pay rupees twenty every month in addition to the contribution to the Fund as per Sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <p>The Government shall contribute to the Fund by way of grant, an amount of rupees five per month paid by each member under sub-section (1) or twenty five per cent of the employee's contribution whichever is higher.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.5">
+          <num>(5)</num>
+          <content>
+            <p>The amount of contribution to be remitted as such shall be deposited in a Co-operative Bank recognized by the Board or Nationalised Banks or any institutions decided by the Government; for collecting such amount.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.6">
+          <num>(6)</num>
+          <content>
+            <p>The Government may, by notification in the Gazette, revise the rate of contribution specified in sub-section (1) and (2) and the rate of grant specified in sub-section (4), once in every three years taking into account the expenses required for the implementation of the scheme.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.7">
+          <num>(7)</num>
+          <content>
+            <p>Every notification under sub-section (6) shall be laid, as soon as may be, after it is issued, before the Legislative Assembly while it is in session for a total period of fourteen days, which may be comprised in one session or in two successive sessions, and if, before the expiry of the session in which it is so laid or the session immediately following, the Legislative Assembly makes any modification in the notification or decides that the notification should not be issued, the notification shall, thereafter, have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Modification of the scheme</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, by notification in the Gazette, modify or vary the scheme framed under this Act either protectively or retrospectively.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Every notification under sub-section (1) shall be laid, as soon as may be, after i it is issued, before the Legislative Assembly while it is in session for a total period of fourteen days, which may be comprised in one session or in two successive sessions, and If, before the expiry of the session in which it is so laid or the session immediately following, the Legislative Assembly makes any modification in the notification or decides that the notification should not be issued, the notification shall, thereafter, have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Constitution of Board</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, by notification in the Gazette, constitute with effect from such date as may be specified therein, a Board by name "The Kerala Shops and Commercial Establishments Workers' Welfare Fund Board” for the administration of the Fund and to supervise and management the activities financed from the Fund.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The Board shall be a body corporate by name aforesaid, having perpetual succession and a common seal and shall, by the said name, sue and be sued.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-6.3.list1">
+              <listIntroduction>The Board shall consist of fifteen directors nominated by Government as hereinafter provided:-</listIntroduction>
+              <item id="section-6.3.list1.i">
+                <num>(i)</num>
+                <p>five members representing workers and self-employed persons;</p>
+              </item>
+              <item id="section-6.3.list1.ii">
+                <num>(ii)</num>
+                <p>five members representing the employees;</p>
+              </item>
+              <item id="section-6.3.list1.iii">
+                <num>(iii)</num>
+                <p>five members representing the Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>One of the Directors of the Board shall be appointed by the Government to be its Chairman.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <p>The Government shall publish in the Gazette, the names of the Chairman and the Directors of the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.6">
+          <num>(6)</num>
+          <content>
+            <p>The Board shall administrate the Fund vested in it, in such manner as may be provided in the scheme.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.7">
+          <num>(7)</num>
+          <content>
+            <p>The Board may, with the previous approval of the Government, delegate to the Chairman or to any Director or to the Chief Executive Officer of the Board or any other officer of the Board, such of its powers and functions under this Act or the scheme, as it may consider necessary for the efficient administration of the Fund, subject to any restrictions and conditions, if any, as it may direct.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.8">
+          <num>(8)</num>
+          <content>
+            <p>An amount upto seven percentage of the contribution collected by the Board every year or the amount as may be fixed by the Government, from time to time, may be expended towards payment of salary of the Staff of the Board and other approved expenses.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Term of office of the Directors</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>A Director appointed under sub-section (3) of Section 6 shall hold office for a period of three years.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in Section 8, the Government may, at any time, for reasons to be recorded in writing, remove from his office, any Director of the Board and such removal shall be made after giving him a reasonable opportunity of showing cause against proposed removal:</p>
+            <p>Provided that it shall not be necessary to record in writing, the reasons for removal or to give an opportunity of showing cause against the proposed removal, if the Government are of the opinion that it is not expedient in the public interest, to record the reasons in writing or to give such opportunity.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Any Director may resign his office by giving notice in writing to the Government but, he shall continue in office till the resignation is accepted by the Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Removal of non-official Directors</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <blockList id="section-8.paragraph-0.list1">
+              <listIntroduction>The Government may, by notification in the Gazette, remove any non-official Director of the Board from his office for the following reasons:</listIntroduction>
+              <item id="section-8.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>if he absents himself, without the permission of the Board, from three consecutive meetings of the Board:</p>
+              </item>
+            </blockList>
+            <blockList id="section-8.paragraph-0.list3">
+              <listIntroduction>Provided, however, that such absence may be condoned for sufficient reasons by the Board before the publication of the notification in the Gazette;</listIntroduction>
+              <item id="section-8.paragraph-0.list3.b">
+                <num>(b)</num>
+                <p>if, in the opinion of the Government, he is ineligible or has become incapable of acting as a Director or has so abused his position as a Director as to render his continuance as Director, as such detrimental to public interest:</p>
+              </item>
+            </blockList>
+            <p>Provide that, before removing a Director under this sub-section, he shall be given a reasonable opportunity to show-cause why he should not be removed.</p>
+          </content>
+        </paragraph>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>A non-official Director of the Board removed under clause (a) of sub-section (1) shall be disqualified for re-appointment as a Director of the Board for a period of three years from the date of his removal, unless otherwise ordered by the Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>A non-official Director of the Board removed under clause (b) of sub-section (1) shall not be eligible for re-appointment until he is declared by an order of the Government to be no longer ineligible.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Appointment of officers and staff</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may appoint a Chief Executive Officer and such number of other officers and staff as they consider necessary, to assist the Board in the discharge of its functions and duties under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (3), the method of appointment, salary and allowances, discipline and other conditions of service of the Chief Executive Officer and other officers and staff appointed under sub-section (1) shall beef such, as may be prescribed by Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>In the case of direct recruitment to the posts in the Board, provisions in the Rules 14 to 17 in Part I of the Kerala State and Subordinate Service Rules, 1958 as amended from time to time shall be complied with. Appointment may be made provisionally on deputation basis, when the Board is constituted and starts functioning.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Power of the Board to borrow</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>The Board may, from time to time, with the previous approval of the Government and subject to such terms and conditions as may be specified by the Government, borrow money for the purposes of the scheme.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Determination of the amount due</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>The Chief Executive Officer or any other officer authorised by the Board in this behalf, may after making such inquiry as may be necessary and after giving every person liable to pay contribution under Section 4, an opportunity of being heard, by order determine the amount of contribution due under the provisions of this Act or the scheme.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-11.2.list1">
+              <listIntroduction>The Officer conducting an enquiry under sub-section (1) shall, for the purposes of such enquiry, have the same powers as are vested in a Civil Court, while trying a suit under the Code of Civil Procedure, 1908 (Central Act 5 of 1908) in respect of the following matters, namely:</listIntroduction>
+              <item id="section-11.2.list1.a">
+                <num>(a)</num>
+                <p>enforce the attendance of any person and examine him on oath;</p>
+              </item>
+              <item id="section-11.2.list1.b">
+                <num>(b)</num>
+                <p>requiring the discovery and production of documents;</p>
+              </item>
+              <item id="section-11.2.list1.c">
+                <num>(c)</num>
+                <p>receiving evidence on affidavits;</p>
+              </item>
+              <item id="section-11.2.list1.d">
+                <num>(d)</num>
+                <p>issuing commissions for the examination of witnesses.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>Any enquiry under this section shall be deemed to be a judicial proceeding within the meaning of Sections 193 and 228 of Indian Penal Code (Central Act 45 of 1860) and coming under the purview of Section 196 of the said code.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.4">
+          <num>(4)</num>
+          <content>
+            <p>Any person aggrieved by an order under sub-section (1), may, within thirty days from the date of receipt of the order, prefer an appeal before the Labour Commissioner or an Officer, not below the rank of the District Labour Officer of the Labour Department authorised by him in this behalf, and such officer may, after making such enquiry, pass such orders thereon as he thinks fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.5">
+          <num>(5)</num>
+          <content>
+            <p>The Government may, either suo motu or on application of the aggrieved person, call for the records of any proceedings of the Labour Commissioner or the officer authorised by him under sub-section (4) and make such enquiry and pass such orders as they deem fit:</p>
+            <p>Provided that, an application for revision under this sub-section shall be made within thirty days from the date of receipt of the order, by the applicant:</p>
+            <p>Provided further that, no order shall be passed under the sub-section, without giving the person who may be affected thereby, an opportunity of being heard.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Provisional assessment and collection of contribution</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>Every employer liable to pay contribution under Section 4 shall, pending determination of amount due from him under Section 11, pay on or before the fifth day of each succeeding month, an amount equal to one-twelfth of the amount payable annually by him as determined for the last time under the said section, in the manner as specified in the scheme.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the contribution is not paid by the employer, worker or self-employed person on or before the due date, any officer of the Board authorised by the Board in this behalf shall issue a notice, showing the amount in arrears and if the amount is not paid within fifteen days of the receipt of such notice, that amount may be recovered with twelve per cent interest per annum in the same manner as arrears of public revenue due on land.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.3">
+          <num>(3)</num>
+          <content>
+            <p>The amount paid by an employer under sub-section (1) may be adjusted against the amount determined under Section 11, for that year.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Manner of filing appeal petition</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Any amount is due from a worker, employer or self-employed person, under the provisions of the Act or scheme and the amount being defaulted, and it is felt that an appeal is to be preferred on such debt, an appeal may be preferred before the District Labour Officer (General), within fifteen days from the date of receipt of notice by paying at least half of that amount and the District Labour Officer shall, after conducting enquiry through notice to the concerned parties and after conducting hearing, by taking evidence, finally dispose of within three months.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Priority of payment of Contribution over other debts</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>Where any employer, liable to pay contribution to the fund under Section 4 is adjudicated as insolvent or in case such employer is a company, an order of winding up is made, the liability in respect of the amount due from such employer under this Act or the scheme shall, where the liability therefore has accrued before the order of adjudication or winding up is made be deemed to be included among the debts under Section 64 of the Insolvency Act, 1955 (2 of 1956) or under Section 530 of the Companies Act, 1956 (Central Act 1 of 1956) which are to be paid in priority to all other debts, in the distribution of the property of the insolvent or the asset of the company being wound up, as the case may be.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Employer not to reduce wages etc.</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>No employer shall by reason only of his liability for the payment of any contribution to the Fund, reduce whether directly or indirectly the wages of any worker to whom the scheme applies or the total quantum of benefits to which the worker is entitled under the terms of his employment, express or implied.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Directors of Board etc. to be public servants</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>Each Director of the Board and the Chief Executive Officer and each other Officer and employee of the Board appointed under sub-section (1) of Section 9 shall be deemed to be a public servant within the meaning of Section 21 of the Indian Penal Code, 1860 (Central Act 45 of 1860).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Penalty</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>A person, who for the purpose of avoiding any payment to be made by him under this Act or under the scheme, or of enabling any other person to avoid such payment, knowingly makes or causes to be made any false statement or false representation, shall be punishable with imprisonment for a term, which may extend to three months, or with fine, which may extend to five hundred rupees or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person who contravenes or makes default in complying with any of the provisions of this Act or of the scheme, shall, if no other penalty is elsewhere provided by or under this Act, for such contravention or non-compliance, be punishable with imprisonment for a term which may extend to two months or with fine which may extend to four hundred rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>No Court inferior to that of a Judicial Magistrate of the First Class shall try any offence punishable under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.4">
+          <num>(4)</num>
+          <content>
+            <p>No Court shall take cognizance of any offence punishable under this Act except on a report in writing of the facts constituting such offence made with the previous sanction of the Chief Executive Officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Enhanced punishment for second or subsequent offence</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>Whoever, having been convicted by a Court, of an offence punishable under this Act, again commits the same offence, shall be punishable, for every such subsequent offence with imprisonment for a term which may extend to one year but, which shall not be less than two months or with fine which may extend to three thousand rupees or with both:</p>
+            <p>Provided that the Court may, for any adequate and special reason to be recorded in the judgement, impose sentence of imprisonment for a term of less than two months.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Offences by companies</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an offence under this Act has been committed by a company, every person, who at the time of offence was committed was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge, or that he had exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or commission of, or is attractable to, any neglect on the part of every officer of the company, such officer of the company shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <blockList id="section-19.2.list2">
+              <listIntroduction>Explanation. — For the purpose of this section,</listIntroduction>
+              <item id="section-19.2.list2.a">
+                <num>(a)</num>
+                <p>"Company" means any body corporate and includes a firm, a Co-operative Society or other Association of individuals;</p>
+              </item>
+              <item id="section-19.2.list2.b">
+                <num>(b)</num>
+                <p>"Officer of the Company" means the Managing Director, Director, Secretary, Treasurer or Manager of the Company and includes, the office bearers of a firm, Co-operative Society or other Association of individuals;</p>
+              </item>
+              <item id="section-19.2.list2.c">
+                <num>(c)</num>
+                <p>"Director" in relation to a firm means a partner of that firm.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Power to recover damages</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Where any person makes default in the payment of any contribution to the Fund under this Act or the scheme, the Board may recover from him damages not exceeding twenty-five per cent of the amount of arrears; as it may think fit.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Protection of Acts done In good faith</heading>
+        <paragraph id="section-21.paragraph-0">
+          <content>
+            <p>No suit or other legal proceeding shall lie against any Director of the Board or any other person in respect of anything which is in good faith done or intended to be done under this Act or under the scheme.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Directions by Government</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, after consultation with the Board, give to the Board, general directions to be followed by the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <p>In the exercise of the power and performance of its duties under this Act, the Board shall not depart from any general directions issued under sub-section (1), except with the previous permission of Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Power to order Inquiry</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, at any time, appoint an officer not below the rank of a Joint Secretary to the Government to enquire into the working of the Board and to submit a report to the Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>The Board shall give the person so appointed, all facilities for the proper conduct of the enquiry and furnish to him such documents, accounts and information in the possession of the Board, as he may require.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Power to supersede Board</heading>
+        <subsection id="section-24.1">
+          <num>(1)</num>
+          <content>
+            <p>If, on consideration of the report under Section 26 or the enquiry report under Section 23 or otherwise, the Government are of opinion that the Board has persistently made default in the performance of the duties imposed on it by or under the provisions of this Act or the scheme or has exceeded or abused its powers, the Government may, by notification in the Gazette, supersede the Board for such period not exceeding six months as may be specified in the notification:</p>
+            <p>Provided that, before issuing a notification under this sub-section, the Government shall give a reasonable opportunity to the Board to show-cause why it should not be</p>
+            <p>superseded and shall consider the explanation and objections, if any, of the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-24.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-24.2.list1">
+              <listIntroduction>Upon the publication of a notification under sub-section (1), :</listIntroduction>
+              <item id="section-24.2.list1.a">
+                <num>(a)</num>
+                <p>all the Directors of the Board shall, as from the date of such publication, be deemed to have vacated their officers as such Directors; and</p>
+              </item>
+              <item id="section-24.2.list1.b">
+                <num>(b)</num>
+                <p>all the powers and duties which may be exercised or performed by the Board shall, during the period of supersession, be exercised or performed by such officer or officers, as may be specified in the notification; and</p>
+              </item>
+              <item id="section-24.2.list1.c">
+                <num>(c)</num>
+                <p>all funds and other properties vested in the Board shall, during the period of supersession, vest in the Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-24.3">
+          <num>(3)</num>
+          <content>
+            <p>On the expiration of the period of supersession specified in the notification issued under sub-section (1), the Government shall reconstitute the Board in the manner provided under Section 6.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Audit of accounts of the Board and appointment and remuneration of Auditors</heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government shall appoint auditors to audit the accounts of the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <p>The Board shall pay to the said auditors, such remuneration as the Government may direct.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.3">
+          <num>(3)</num>
+          <content>
+            <p>The accounts of the Board shall be examined and audited once in every year by such auditors.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Annual report and audited statement of accounts</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>The annual report of the Board shall be prepared by the Chief Executive Officer, under the direction of the Board, and after approval by the Board, a copy of the report together with the audited statement of accounts shall be submitted to the Government before the end of July every year.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>The Government shall, as soon as the annual report is received, together with the audited statement of accounts, to be laid on the table of the Legislative Assembly.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Bar of jurisdiction of Civil Court</heading>
+        <paragraph id="section-27.paragraph-0">
+          <content>
+            <p>No Civil Court shall have jurisdiction to settle, decide or deal with any question or to determine any matter which is by or under this Act or the scheme required to be settled, decided or dealt with or to be determined by the Government or the Board or</p>
+            <p>the Labour Commissioner or any other officer authorized by the Labour Commissioner or the Chief Executive Officer or any officer authorized by the Board.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Special provisions for transfer of accumulations from existing Welfare Funds</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <p>The sums standing to the credit of a member in any existing welfare fund on the date of commencement of this Act shall stand transferred to and credited to the fund established under this Act and the liability of such member to pay contribution to such welfare fund shall cease from such date.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Removal of difficulties</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any difficulty arises in giving effect to the provisions of this Act, the Government may, by notification in the Gazette, as occasion may require, do anything, which are considered necessary for them and not inconsistent with the provisions of this Act or the rules made thereunder, for the purpose of removing the difficulty:</p>
+            <p>Provided that no such order shall be passed after the expiry of two years from the date of commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order passed under sub-section (1) shall be placed before the Legislative Assembly.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Power to make rules</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government, may by notification in the Gazette, make rules, either prospectively or retrospectively for the purpose of carrying into effect the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>Every rule made under this Act shall be laid as soon as may be, after it is made, before the Legislative Assembly while it is in session for a total period of fourteen days, which may be comprised in one session or in two successive sessions, and if, before the expiry of the session in which it is so laid or the session immediately following, the Legislative Assembly makes any modification in the rule or decides that the rule should not be made, the rule shall, thereafter have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Repeal and savings</heading>
+        <subsection id="section-31.1">
+          <num>(1)</num>
+          <content>
+            <p>The Kerala Shops and Commercial Establishment Workers' Welfare Fund Ordinance, 2006 (30 of 2006) is hereby repealed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-31.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding such repeal anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedule">
+      <doc name="schedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-kl/act/2006/24/schedule"/>
+              <FRBRuri value="/in-kl/act/2006/24"/>
+              <FRBRalias value="Schedule"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-kl/act/2006/24/eng@2017-03-31/schedule"/>
+              <FRBRuri value="/in-kl/act/2006/24/eng@2017-03-31"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-kl/act/2006/24/eng@2017-03-31/schedule"/>
+              <FRBRuri value="/in-kl/act/2006/24/eng@2017-03-31"/>
+              <FRBRdate date="2017-03-31" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedule">
+            <heading>MATTERS FOR WHICH PROVISION MAY BE MADE IN THE SCHEME</heading>
+            <section id="section-1">
+              <num>1.</num>
+              <heading>Registration of workers coming under - the purview of the Kerala Shops and Commercial Establishments Act, 1960 and self employed persons.</heading>
+            </section>
+            <section id="section-2">
+              <num>2.</num>
+              <heading>The time and manner in which contribution shall be made to the Fund by workers coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960, and self-employed persons' and the amount of contribution to be paid under Section 4 and the manner in which it may be recovered.</heading>
+            </section>
+            <section id="section-3">
+              <num>3.</num>
+              <heading>The constitution of any committee for assisting the Board.</heading>
+            </section>
+            <section id="section-4">
+              <num>4.</num>
+              <heading>The manner in which accounts shall be kept, the investment of moneys belonging to the Fund in accordance with any direction issued or conditions specified by the Government, the preparation of Budget, the audit of accounts and the submission of reports to the Government etc.</heading>
+            </section>
+            <section id="section-5">
+              <num>5.</num>
+              <heading>The conditions under which withdrawals from the Fund may be permitted, any deduction or forfeiture may be made and the maximum amount of such deduction or forfeiture.</heading>
+            </section>
+            <section id="section-6">
+              <num>6.</num>
+              <heading>The form in which a member shall furnish particulars about himself and his family, whenever required.</heading>
+            </section>
+            <section id="section-7">
+              <num>7.</num>
+              <heading>The nomination of a person to receive any family pension of a member on his death and cancellation or variation of such nomination.</heading>
+            </section>
+            <section id="section-8">
+              <num>8.</num>
+              <heading>The registers and records to be maintained with respect to members and the returns to be furnished by the employers.</heading>
+            </section>
+            <section id="section-9">
+              <num>9.</num>
+              <heading>The form or design of any identity card for the purpose of identifying any member of the Fund and for issue, custody and replacement thereof.</heading>
+            </section>
+            <section id="section-10">
+              <num>10.</num>
+              <heading>The fees to be levied for any of the purposes specified in the Act.</heading>
+            </section>
+            <section id="section-11">
+              <num>11.</num>
+              <heading>The further powers, if any, which may be exercised by the officers appointed under this Act.</heading>
+            </section>
+            <section id="section-12">
+              <num>12.</num>
+              <heading>The fund may be utilized for any matter of welfare of the workers coming under the purview of the Kerala Shops and Commercial Establishments Act, 1960 or self-employed persons or their dependents.</heading>
+            </section>
+            <section id="section-13">
+              <num>13.</num>
+              <heading>The manner in which the sums transferred under Section 28 is to be credited to the Fund.</heading>
+            </section>
+            <section id="section-14">
+              <num>14.</num>
+              <heading>The procedure for defraying the expenditure incurred in the administration of the Fund.</heading>
+            </section>
+            <section id="section-15">
+              <num>15.</num>
+              <heading>The procedure for paying pension, family pension, grants or loans from the Fund.</heading>
+            </section>
+            <section id="section-16">
+              <num>16.</num>
+              <heading>Any other matter which is to be provided for in the scheme or which may be necessary or proper for the purpose of implementing the scheme.</heading>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

@@ -1,0 +1,56 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1850/25/main"/>
+          <FRBRuri value="/in-union/act/1850/25"/>
+          <FRBRalias value="The Forfeited Deposits Act, 1850"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1850/25/eng@1850-06-14/main"/>
+          <FRBRuri value="/in-union/act/1850/25/eng@1850-06-14"/>
+          <FRBRdate date="1850-06-14" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1850/25/eng@1850-06-14/main"/>
+          <FRBRuri value="/in-union/act/1850/25/eng@1850-06-14"/>
+          <FRBRdate date="2016-11-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Forfeited Deposits Act, 1850]</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 25 OF 1850</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 14th June, 1850.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act for the forfeiture to Government of deposits made on incomplete  sales of land under  Regulation 8, 1819.</p>
+        <p>Preamble.-- WHEREAS patnidars  fraudulently avail themselves  of the  provision in section 9, Regulation 8, 1819, of the Bengal</p>
+        <p>Code  that forfeited deposits at sales of land  for arrears of  rent shall be applied as if they were purchase- money. It is enacted as  follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Application of forfeited deposits.-- Any such forfeited deposit  shall be applied to defray the expenses of the sale, and the surplus  shall be forfeited to Government.</heading>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

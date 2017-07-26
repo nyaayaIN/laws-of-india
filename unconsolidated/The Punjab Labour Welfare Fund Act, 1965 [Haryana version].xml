@@ -1,0 +1,889 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-har/act/1980/01/main"/>
+          <FRBRuri value="/in-har/act/1980/01"/>
+          <FRBRalias value="The Punjab Labour Welfare Fund Act, 1965 [Haryana version]"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-har/act/1980/01/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-har/act/1980/01/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-har/act/1980/01/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-har/act/1980/01/eng@1980-01-01"/>
+          <FRBRdate date="2017-02-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Punjab Labour Welfare Fund Act, 1965</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>(PUNJAB ACT NO. 17 OF 1965)</docNumber>
+      </p>
+      <longTitle>
+        <p>AN ACT to provide for the constitution of a Fund for the financing of activities to promote welfare of labour in the State of Punjab and for conducting such activities and for certain other purposes.</p>
+        <p>Be it enacted by the Legislature of the State of Punjab in the Sixteenth Year of the Republic of India as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Punjab Labour Welfare Fund Act, 1965.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the territories which, immediately before the 1st day of November, 1966, were comprised in the State of Punjab, excluding the territory transferred to the Union territory of Himachal Pradesh under section 5 of the Punjab Reorganisation Act, 1966 (31 of 1966).</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on the first day of July, 1965.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>In this Act, unless the context otherwise requires,—</p>
+          </content>
+        </paragraph>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>“Board” means the Labour Welfare Board established and constituted under section 4 for each of the States of Punjab and Haryana and the Union Territory of Chandigarh;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>‘employee’ means any person who is employed for hire or reward to do any work, skilled or unskilled, manual or clerical, in an establishment;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-2.3.list1">
+              <listIntroduction>‘employer’ means any person who employs, either directly or through another person on behalf of himself or any other person, one or more employees in an establishment, and includes,—</listIntroduction>
+              <item id="section-2.3.list1.I">
+                <num>(I)</num>
+                <p>in a factory, any person named under clause (f) of sub-section (1) of section 7 of the Factories Act, 1948, as the manager;</p>
+              </item>
+              <item id="section-2.3.list1.II">
+                <num>(II)</num>
+                <p>in any establishment, other than a factory, any person responsible to the owner of the establishment for the supervision and control of the employees or for the payment of wages;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-2.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-2.4.list1">
+              <listIntroduction>‘establishment’ means—</listIntroduction>
+              <item id="section-2.4.list1.I">
+                <num>(I)</num>
+                <p>a factory;</p>
+              </item>
+              <item id="section-2.4.list1.II">
+                <num>(II)</num>
+                <p>a motor omnibus service; or</p>
+              </item>
+              <item id="section-2.4.list1.III">
+                <num>(III)</num>
+                <p>any establishment, including a society registered under the Societies Registration Act, 1860, and a charitable or other trust, which carries on any business or trade or any work connected therewith or ancillary thereto and has been employing on any working day during the preceding twelve months more than twenty persons;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-2.5">
+          <num>(5)</num>
+          <content>
+            <p>‘factory’ means a factory as defined in clause (m) of section 2 of the Factories Act, 1948, or any place which is deemed to be a factory under sub-section (2) of section 85 of that Act;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.6">
+          <num>(6)</num>
+          <content>
+            <p>“Fund” means the Labour Welfare Fund constituted under section 3 for each of the States of Punjab and Haryana and the Union territory of Chandigarh;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.7">
+          <num>(7)</num>
+          <content>
+            <p>‘independent member’ means a member of the Board who is not connected with the management of any establishment or who is not an employee;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.8">
+          <num>(8)</num>
+          <content>
+            <p>‘Inspector’ means an Inspector appointed under section 15;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.9">
+          <num>(9)</num>
+          <content>
+            <p>‘prescribed’ means prescribed by rules made under this</p>
+            <p>Act;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.10">
+          <num>(10)</num>
+          <content>
+            <p>‘unpaid accumulations’ means all payments due to the employees but not made to them within a period of two years from the date on which they became due, whether before or after the commencement of this Act, including the wages, bonus and gratuity legally payable, but not including the amount of contribution, if any, paid by an employer to a provident fund established under the Employees Provident Fund Act, 1952.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.11">
+          <num>(11)</num>
+          <content>
+            <p>‘wages’ means wages as defined in clause (6) of section 2 of the Payment of Wages Act, 1936;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.12">
+          <num>(12)</num>
+          <content>
+            <p>‘Welfare Commissioner’ means the Welfare Commissioner appointed under section 14.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2A">
+        <num>2A.</num>
+        <heading>Construction of certain references in the Act.</heading>
+        <subsection id="section-2A.1">
+          <num>(1)</num>
+          <content>
+            <p>In the application of the provisions of this Act to the Union territory of Chandigarh, any reference therein to the State or State Government shall be construed as a reference to the Administrator of the Union territory of Chandigarh.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2A.2">
+          <num>(2)</num>
+          <content>
+            <p>Sub-section (3) of section 27 shall not apply in relation to the Union territory of Chandigarh but shall apply to the State of Haryana with the modifications that for the words “each house of the State Legislature”, the words “the Legislative Assembly” and for the words “both Houses agree” at both the places where they occur, the words “the Legislative Assembly agrees” shall be substituted.”</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Welfare fund.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall constitute a Fund called the Labour Welfare Fund and, notwithstanding anything contained in any other law for the time being in force or in any contract or instrument, all unpaid accumulations shall be paid to the Board which shall keep a separate account therefor until claims thereto have been decided in the manner provided in section 9, and the other sums specified in sub-section (2) shall be paid into the Fund.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-3.2.list1">
+              <listIntroduction>The Fund shall consist of—</listIntroduction>
+              <item id="section-3.2.list1.a">
+                <num>(a)</num>
+                <p>all fines realized from the employees;</p>
+              </item>
+              <item id="section-3.2.list1.b">
+                <num>(b)</num>
+                <p>unpaid accumulations transferred to the Fund under section 9;</p>
+              </item>
+              <item id="section-3.2.list1.c">
+                <num>(c)</num>
+                <p>grants and subsidies to the Board made by the State Government;</p>
+              </item>
+              <item id="section-3.2.list1.d">
+                <num>(d)</num>
+                <p>any voluntary donations;</p>
+              </item>
+              <item id="section-3.2.list1.e">
+                <num>(e)</num>
+                <p>any fund transferred under sub-section (5) of section 10;</p>
+              </item>
+              <item id="section-3.2.list1.f">
+                <num>(f)</num>
+                <p>any sum borrowed under section 11;</p>
+              </item>
+              <item id="section-3.2.list1.g">
+                <num>(g)</num>
+                <p>any contribution of employers and employees;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>The sums specified in sub-section (2) shall be collected by such agencies and in such manner and the accounts of the Fund shall be maintained and audited in such manner as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <p>The employer shall be required to pay interest at the rate of twelve per cent per annum on the amount of unpaid accumulations in case he fails to deposit the same within a period of one year from the prescribed date. The rate of interest thereafter shall be twenty per cent per annum.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>An employer who has already incurred the liability of payment of fine at the rate of twenty-five per cent at the time of commencement of the Punjab Labour Welfare (Haryana Amendment) Act, 1988, shall be liable to pay interest at the rate of twenty per cent per annum from the date of commencement or from the expiry of two years from the date of incurring the liability of payment of fine, whichever is later.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Establishment of Board.</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>For the purpose of administering the Fund and for performing such other functions as are assigned to it by or under this Act, the State Government shall by notification establish a Board to be known as “the Labour Welfare Board for Punjab or Haryana or the Union territory of Chandigarh” as the case may be.(2) The Board shall be a body corporate with the name aforesaid, having perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire, hold or dispose of property, and to contract, and may by that name sue or be sued.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-4.3.list1">
+              <listIntroduction>The Board shall consist of the following members, including the Chairman, to be nominated by the State Government, namely:—</listIntroduction>
+              <item id="section-4.3.list1.a">
+                <num>(a)</num>
+                <p>such equal number of representatives of employers and employees as may be prescribed; and</p>
+              </item>
+              <item id="section-4.3.list1.b">
+                <num>(b)</num>
+                <p>such number of independent members, whether official, non-official or both, as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-4.4.list1">
+              <listIntroduction>No person shall be nominated as a member of the Board who—</listIntroduction>
+              <item id="section-4.4.list1.a">
+                <num>(a)</num>
+                <p>is a salaried official of the Board; or</p>
+              </item>
+              <item id="section-4.4.list1.b">
+                <num>(b)</num>
+                <p>has been adjudged as an insolvent; or</p>
+              </item>
+              <item id="section-4.4.list1.c">
+                <num>(c)</num>
+                <p>is of unsound mind and stands so declared by a competent court or is, in the opinion of the State Government, physically or mentally unfit to be appointed as a member; or</p>
+              </item>
+              <item id="section-4.4.list1.d">
+                <num>(d)</num>
+                <p>has been convicted of an offence which, in the opinion of the State Government, involves moral turpitude.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Power of State Government to remove members from office in certain cases.</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <blockList id="section-5.paragraph-0.list1">
+              <listIntroduction>The State Government may remove from office the Chairman or any member of the Board who—</listIntroduction>
+              <item id="section-5.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>absents himself from three consecutive meetings of the Board without permission of the Chairman of the Board in the case of a member and of the State Government in the case of the Chairman;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>is or has become subject to any of the disqualifications mentioned in sub-section (4) of section 4; or</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>so abuses his position as to render his continuance in office detrimental to the public interest.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Vacancies etc., not to invalidate proceedings of Board.</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <blockList id="section-6.paragraph-0.list1">
+              <listIntroduction>No act done, or proceeding taken, under this Act by the Board shall be invalid merely on the ground—</listIntroduction>
+              <item id="section-6.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>of any vacancy or defect in the constitution of the Board; or</p>
+              </item>
+              <item id="section-6.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>of any defect or irregularity in the nomination of a person acting as a member thereof; or</p>
+              </item>
+              <item id="section-6.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>of any defect or irregularity in such act or proceeding, not affecting the merits of the case.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Term of office, casual vacancies and resignation.</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The term of office of a member of the Board shall be three years commencing on the date on which his nomination is notified in the Official Gazette:</p>
+            <p>Provided that a member nominated to fill a casual vacancy shall hold office for the unexpired portion of the term of office of the member in whose place the former is nominated.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>A member of the Board, including the Chairman thereof, may resign his office by notifying in writing his intention to do so to the State Government, and on such resignation being accepted by the State Government, he shall be deemed to have vacated his office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>If a vacancy arises in the office of the Chairman or a member of the Board, whether by death, resignation, removal or otherwise, the vacancy shall be filled up by the State Government in accordance with the provisions of section 4.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>An outgoing, member, including the Chairman shall be eligible for re-nomination.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7A">
+        <num>7A.</num>
+        <heading>Members to hold office during the pleasure of the State Government.</heading>
+        <paragraph id="section-7A.paragraph-0">
+          <content>
+            <p>Notwithstanding anything to the contrary contained in this Act, the members of the Board shall hold office during the pleasure of the State Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Procedure at the meetings of the Board.</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The Chairman, and in his absence, a member of the Board nominated by the State Government shall preside at a meeting of the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>All questions at a meeting of the Board shall be decided by a majority of the members of the Board present voting:</p>
+            <p>Provided that in the case of an equality of votes, the Chairman or the person presiding, as the case may be, shall, in addition to his vote as a member have a second or casting vote.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>The quorum at a meeting of the Board and the manner in which the business of the Board shall be conducted shall be such as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Unpaid accumulations and claims thereto.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>All unpaid accumulations shall be deemed to be abandoned property.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>Any unpaid accumulations paid to the Board in accordance with the provisions of section 3 shall, on such payment, discharge an employer of the liability to make payment to an employee in respect there of but to the extent only of the mount paid to the Board, and the liability to make payment to the employee to the extent aforesaid shall, subject to the succeeding provisions of this section, be deemed to be transferred to the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-9.3.list1">
+              <listIntroduction>As soon as possible after the payment of any unpaid accumulations is made to the Board, the Board shall, by notice (containing such particulars as may be prescribed)—</listIntroduction>
+              <item id="section-9.3.list1.a">
+                <num>(a)</num>
+                <p>exhibited on the notice board of the establishment in which the unpaid accumulations was earned;</p>
+              </item>
+              <item id="section-9.3.list1.b">
+                <num>(b)</num>
+                <p>published in the Official Gazette and also in any two newspapers in both the regional languages of the State having large circulation in the area in which the establishment is situated or in such other manner as may be prescribed, regard being had to the amount of the claim;</p>
+              </item>
+            </blockList>
+            <p>invite claims by employees for any payment due to them. The notice shall be inserted in the manner aforesaid in June and December of every year, for a period of three years from the date of the payment of the unpaid accumulations to the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.4">
+          <num>(4)</num>
+          <content>
+            <p>If any question arises whether the notice referred to in sub-section (3) was given as required by that sub-section a certificate of the Board that it was so given, shall be conclusive.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.5">
+          <num>(5)</num>
+          <content>
+            <blockList id="section-9.5.list1">
+              <listIntroduction>If a claim is received, whether in answer to the notice or otherwise, within a period of four years from the date of first publication of the notice in respect of such claim,—</listIntroduction>
+              <item id="section-9.5.list1.a">
+                <num>(a)</num>
+                <p>where the amount of claim so received is equal to the amount deposited by the management with the Board, the amount of the claim shall be paid by the Board to the employee concerned; and</p>
+              </item>
+              <item id="section-9.5.list1.b">
+                <num>(b)</num>
+                <p>in any other case, the Board shall transfer such claim to the Authority appointed under section 15 of the Payment of Wages Act, 1936, having jurisdiction in the area in which the establishment is or has been situated, and the Authority shall proceed to adjudicate upon, and decide, such claim. In hearing such claim the Authority shall have the powers conferred by, and follow the procedure (in so far as it is applicable) followed in giving effect to the provision of, that Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-9.6">
+          <num>(6)</num>
+          <content>
+            <p>If the Authority aforesaid is satisfied that any such claim is valid so that the right to receive payment is established, it shall decide that the unpaid accumulations in relation to which the claim is made shall cease to be deemed to be abandoned property, and shall order the Board to pay the whole of the dues claimed, or such part thereof as the Authority decides are properly due, to the employee; and the Board shall make payment accordingly:</p>
+            <p>Provided that the Board shall not be liable to pay any sum in excess of that paid under sub-section (1) of section 3 to the Board as unpaid accumulations in respect of the claim.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.7">
+          <num>(7)</num>
+          <content>
+            <p>If a claim for payment is refused, the employee shall have a right of appeal to the Court of District Judge and the Board shall comply with any order made in appeal. An appeal shall lie within sixty days of the decision of the Authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.8">
+          <num>(8)</num>
+          <content>
+            <p>The decision of the Authority, subject to the appeal aforesaid, and the decision in appeal shall be final and conclusive as to the right to receive payment, the liability of the Board to pay and also as to the amount if any.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.9">
+          <num>(9)</num>
+          <content>
+            <p>If no claim is made within the time specified in sub-section (5) or a claim has been duly refused as aforesaid by the Authority, or on appeal by the Court, then the unpaid accumulations in respect of such claim shall accrue to, and vest in, the State as bona vacantia, and shall thereafter, without further assurance, be deemed to be transferred to, and form part of, the Fund.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9A">
+        <num>9A.</num>
+        <heading>Contribution to Fund by employers and employees.</heading>
+        <subsection id="section-9A.1">
+          <num>(1)</num>
+          <content>
+            <p>Every employee shall contribute one rupee per month to the Fund and every employer shall, in respect of each such employee, contribute two rupees per month to the Fund.</p>
+            <p>Explanation.—For the purpose of sub-section (1), “employee” means an employee on the register of an establishment on the last working day of the month.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9A.2">
+          <num>(2)</num>
+          <content>
+            <p>Every employer shall pay to the Fund both his contribution and the contribution of the employee before the 31st December of every year by crossed cheque or demand draft in favour of Welfare Commissioner.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9A.3">
+          <num>(3)</num>
+          <content>
+            <p>The employer shall be entitled to recover from the employee the employee’s contribution by deduction from his wages and not otherwise:</p>
+            <p>Provided that no such deduction shall be made in excess of the amount of the contribution payable by such employee:</p>
+            <p>Provided further that, if through inadvertence or on account of some other reason, no such deduction has been made from the wages of an employee for any month, such deduction maybe made from the wages of such employee in any subsequent month after intimation in writing to the employee and the Inspector:</p>
+            <p>Provided further that it shall be no excuse for the employer for non-payment of contribution to the Fund that he had not deducted the contribution of the employee from his wages.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Vesting and application of Fund.</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>The Fund shall vest in, and be held and applied by, the Board as trustees subject to the provisions and for the purposes of this Act. The moneys therein shall be utilized by the Board to defray the cost of carrying out measures which may be specified by the State Government from time to time to promote the welfare of labour and of their dependents.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-10.2.list1">
+              <listIntroduction>Without prejudice to the generality of sub-section (1),the money in the Fund may be utilized by the Board to defray expenditure on the following:—</listIntroduction>
+              <item id="section-10.2.list1.a">
+                <num>(a)</num>
+                <p>community and social education centers including reading rooms and libraries;</p>
+              </item>
+              <item id="section-10.2.list1.b">
+                <num>(b)</num>
+                <p>community necessities;</p>
+              </item>
+              <item id="section-10.2.list1.c">
+                <num>(c)</num>
+                <p>games and sports;</p>
+              </item>
+              <item id="section-10.2.list1.d">
+                <num>(d)</num>
+                <p>excursions, tours and holiday homes;</p>
+              </item>
+              <item id="section-10.2.list1.e">
+                <num>(e)</num>
+                <p>entertainment and other forms of recreation;</p>
+              </item>
+              <item id="section-10.2.list1.f">
+                <num>(f)</num>
+                <p>home industries and subsidiary occupations for women and unemployed persons;</p>
+              </item>
+              <item id="section-10.2.list1.g">
+                <num>(g)</num>
+                <p>corporate activities of a social nature;</p>
+              </item>
+              <item id="section-10.2.list1.h">
+                <num>(h)</num>
+                <p>cost of administering this Act including the allowances, if any, payable to the Chairman and members of the Board and the salaries and allowances of the staff appointed for the purposes of this Act; and</p>
+              </item>
+              <item id="section-10.2.list1.i">
+                <num>(i)</num>
+                <p>such other objects as would in the opinion of the State Government improve the standard of living and ameliorate the social conditions of labour:</p>
+              </item>
+            </blockList>
+            <p>Provided that the Fund shall not be utilized in financing any measure which the employer is required under any law for the time being in force to carry out:</p>
+            <p>Provided further that unpaid accumulations and fines shall be paid to the Board and be expended by it under this Act notwithstanding anything contained in the Payment of Wages Act, 1936, or any other law for the time being in force.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>The Board may, with the approval of the State Government make a grant of the Fund to any local authority or any other body except an employer in aid of any activity for the welfare of labour and of their dependents approved by the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>If any question arises whether any particular expenditure is or is not debatable to the Fund, the matter shall be referred to the State Government and the decisions of the State Government on such reference shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.5">
+          <num>(5)</num>
+          <content>
+            <p>It shall be lawful for the Board to continue any activity financed from the welfare fund of any establishment if the said fund is duly transferred to the Board.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Power of Board to Borrow.</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>The Board may, with the previous sanction of the State Government, and subject to the provisions of this Act and to such conditions as may be specified in this behalf, borrow any sum required for the purposes of this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Investment of Fund.</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>Where the Fund or any portion thereof cannot be applied for some time for the purposes of this Act, the Board shall invest the same in such manner and in such securities as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Power of State Government to give directions to the Board.</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>The State Government may give the Board such directions as in its opinion are necessary or expedient in connection with expenditure from the Fund or for carrying out the other purposes of this Act; and it shall be the duty of the Board to comply with such directions.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Appointment and powers of Welfare Commissioner.</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>There shall be a Welfare Commissioner to be appointed by the Board with the previous approval of the State Government who shall be the principal executive officer of the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), the first Welfare Commissioner shall be appointed by the State Government as soon as practicable after the passing of this Act for a period not exceeding five years and on such conditions as the State Government thinks fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall be the duty of the Welfare Commissioner to ensure that the provisions of this Act and the rules made thereunder are duly carried out and for this purpose he shall have the power to issue such orders not inconsistent with the provisions of this Act and rules made thereunder as he deems fit, including any order authenticating and implementing the decisions taken by the Board under this Act or rules made thereunder.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Appointment of Inspectors.</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may appoint Inspectors to inspect records in connection with the sums payable into the Fund.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-15.2.list1">
+              <listIntroduction>Any Inspector may—</listIntroduction>
+              <item id="section-15.2.list1.a">
+                <num>(a)</num>
+                <p>with such assistance, if any, as he thinks fit, enter at any reasonable time any premises for carrying out the purposes of this Act; and</p>
+              </item>
+              <item id="section-15.2.list1.b">
+                <num>(b)</num>
+                <p>exercise such other powers as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Absorption of the existing staff under Labour Commissioner.</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>The Board shall take over and employ such of the existing staff under the control of Labour Commissioner Haryana, as the State Government may direct and every person so taken over and employed shall be subject to the provisions of this Act and the rules made thereunder:</p>
+            <blockList id="section-16.paragraph-0.list2">
+              <listIntroduction>Provided that—</listIntroduction>
+              <item id="section-16.paragraph-0.list2.a">
+                <num>(a)</num>
+                <p>during the period of such employment all matters relating to pay, leave, retirement, allowances, pensions, provident fund and other conditions of service of the said staff shall be regulated by the Punjab Civil Service Rules or such other rules as may from time to time be made by the State Government; and</p>
+              </item>
+              <item id="section-16.paragraph-0.list2.b">
+                <num>(b)</num>
+                <p>every such member of the said staff shall have a right of appeal to the State Government against any order of reduction, dismissal or removal from service, fine or any other punishment:</p>
+              </item>
+            </blockList>
+            <p>Provided further that person so taken over may elect within the prescribed period that he desires to be governed by the rules made under this Act in respect of conditions of service of the staff appointed by the Board under this Act, and on his electing to be so governed the provisions of first proviso shall cease to apply to him.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Appointment of clerical and other staff by Board.</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>The Board shall have power to appoint the necessary clerical and executive staff to carry out and supervise the activities financed from th e Fund:</p>
+            <p>Provided that if any appointment is not agreed to by the majority of the total number of members of the Board, the Appointment shall be made by the State Government:</p>
+            <p>Provided further that the expenses of the staff thus appointed and otheradministrativeexpensesshallnotexceedaprescribedpercentageofthe annual income of the Fund.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power of State Government to remove any person on staff of Board.</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>The State Government shall have the power to remove any person whom it may deem unsuitable from the service of the Board.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Power of State Government or Authorised Officer to call for records, etc.</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <p>The State Government or any officer authorized by the State Government in this behalf may call for records of any proceedings which are pending before, or have been disposed of, by the Board for purpose of satisfying itself or himself, as the case may be, as to the legality or propriety of such proceedings or of any order made therein and may pass such orders in relation thereto as the State Government or such officer may think fit:</p>
+            <p>Provided that no order adversely affecting any person shall be made under this section without giving such person a reasonable opportunity of being heard.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Mode of recovery of sums payable into fund, etc.</heading>
+        <paragraph id="section-20.paragraph-0">
+          <content>
+            <p>Any sum payable into the Fund under this Act, shall, without prejudice to any other mode of recovery, be recoverable on behalf of the Board as an arrear of land revenue.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Supersession of Board.</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>If the State Government is satisfied that the Board has made default in performing any duties imposed on it by or under this Act or has abused its power, the State Government may by notification supersede and reconstitute the Board in the prescribed manner:</p>
+            <p>Provided that before issuing such notification, the State Government shall give a reasonable opportunity to the Board to show cause why it should not be superseded and shall consider the explanation and objections, if any, of the Board.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>After the supersession of the Board and until it is reconstituted, the powers duties and functions of the Board shall be exercised or performed by such officer or officers as the State Government may appoint for this purpose.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Members of the Board, Welfare Commissioner, Inspectors and all officers and servants of Board to be public servants.</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>The members of the Board, including the Chairman thereof, the Welfare Commissioner, Inspectors and all officers and servants of the Board, shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Delegation.</heading>
+        <paragraph id="section-23.paragraph-0">
+          <content>
+            <p>The Board may, by resolution passed by it at a meeting of the Board, direct that any power or duty which by this Act or by any rule made under this Act is conferred or imposed upon the Board shall, in such circumstances and under such conditions, if any, as may be specified in the direction, be exercised or discharged also by the Welfare Commissioner.</p>
+            <p>Application of Act to certain establishments of Central and State Governments. 24. No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Protection of persons acting in good faith.</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>The State Government may by notification and in public interest exempt any class of establishments from all or any of the provisions of this Act subject to such conditions, if any, as may be specified in the notification.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Exemptions.</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <p>This Act shall apply to such establishments belonging to the Central Government or any State Government as are referred to in sub-clauses (i) and (ii) of clause (4) of section 2.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26A">
+        <num>26A.</num>
+        <heading>Penalty.</heading>
+        <paragraph id="section-26A.paragraph-0">
+          <content>
+            <blockList id="section-26A.paragraph-0.list1">
+              <listIntroduction>Save as otherwise provided, any person, who contravenes any of the provisions of this Act or any rule made thereunder or who willfully obstructs an Inspector in the exercise of his powers or discharge of his duties under this Act or any rule made thereunder or fails to produce for inspection on demand by an Inspector any registers, records or other documents maintained in pursuance of the provisions of this Act or the rules made thereunder or to supply to him on demand true copies of any such document, shall, on conviction, be punished—</listIntroduction>
+              <item id="section-26A.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>for the first offence, with fine which may extend to five hundred rupees; and</p>
+              </item>
+              <item id="section-26A.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>for a second or subsequent offences, with imprisonment for a term which may extend to three months, or with fine which may extend to one thousand rupees or with both.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26B">
+        <num>26B.</num>
+        <heading>Cognizance of offences</heading>
+        <subsection id="section-26B.1">
+          <num>(1)</num>
+          <content>
+            <p>No court inferior to that of a Judicial Magistrate of the 1st Class shall try any offence punishable under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26B.2">
+          <num>(2)</num>
+          <content>
+            <p>No court shall take cognizance of any such offence except on a complaint made by the Inspector.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Power to make rules</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification and subject to the condition of previous publication, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-27.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules maybe made for all or any of the following matters, namely:—</listIntroduction>
+              <item id="section-27.2.list1.a">
+                <num>(a)</num>
+                <p>the agency for and the manner of collection of sums specified in sub-section (3) of section 3; and the period within which the same shall be paid to the credit of the Fund;</p>
+              </item>
+              <item id="section-27.2.list1.b">
+                <num>(b)</num>
+                <p>the manner in which the accounts of the fund shall be maintained and audited under sub-section (3) of section 3;</p>
+              </item>
+              <item id="section-27.2.list1.c">
+                <num>(c)</num>
+                <p>the number of representatives of employers, employees and independent members of the Board and the allowances, if any, payable to the Chairman and members there of;</p>
+              </item>
+              <item id="section-27.2.list1.d">
+                <num>(d)</num>
+                <p>the quorum at meetings of the Board and the manner in which it shall conduct its business;</p>
+              </item>
+              <item id="section-27.2.list1.e">
+                <num>(e)</num>
+                <p>the particulars which shall be contained in the notice referred to in sub-section (3) of section 9, and the other manner of publication of such notice;</p>
+              </item>
+              <item id="section-27.2.list1.f">
+                <num>(f)</num>
+                <p>the procedure for making grants from the Fund under sub-section (3) of section 10 and the securities in which the Fund may be invested and the manner of investment;</p>
+              </item>
+              <item id="section-27.2.list1.g">
+                <num>(g)</num>
+                <p>the procedure for defraying the expenditure incurred in administering the Fund;</p>
+              </item>
+              <item id="section-27.2.list1.h">
+                <num>(h)</num>
+                <p>the duties and powers of Inspectors and the conditions of service of the Welfare Commissioner and Inspectors and other staff appointed under this Act;</p>
+              </item>
+              <item id="section-27.2.list1.i">
+                <num>(i)</num>
+                <p>the percentage of the annual income of the Fund beyond which the Board may not spend on the staff and other administrative measures;</p>
+              </item>
+              <item id="section-27.2.list1.j">
+                <num>(j)</num>
+                <p>the registers and records to be maintained under this Act and the form and manner in which they shall be maintained;</p>
+              </item>
+              <item id="section-27.2.list1.k">
+                <num>(k)</num>
+                <p>the publication of the report of activities financed from the Fund together with statement of receipts and expenditure of the fund statement of accounts; and</p>
+              </item>
+              <item id="section-27.2.list1.l">
+                <num>(l)</num>
+                <p>any other matter which is to be or may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-27.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this section shall be laid as soon as may be after it is made before the Legislative Assembly while it is in session for a total period of ten days which may be comprised in one session or in two successive sessions, and if before the expiry of the session in which it is so laid or the session immediately following, the Legislative Assembly agrees in making any modification in the rule or the Legislative Assembly agrees that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, so however, that any such modification or annulment shall be without prejudice to the validity of any thing previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

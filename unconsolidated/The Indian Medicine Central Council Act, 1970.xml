@@ -1,0 +1,1147 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1970/48/main"/>
+          <FRBRuri value="/in-union/act/1970/48"/>
+          <FRBRalias value="The Indian Medicine Central Council Act, 1970"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1970/48/eng@1970-12-21/main"/>
+          <FRBRuri value="/in-union/act/1970/48/eng@1970-12-21"/>
+          <FRBRdate date="1970-12-21" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1970/48/eng@1970-12-21/main"/>
+          <FRBRuri value="/in-union/act/1970/48/eng@1970-12-21"/>
+          <FRBRdate date="2016-11-28" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Indian Medicine Central Council Act, 1970</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act, No. 48 of 1970]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[21st December, 1970]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for the constitution of a Central Council of Indian Medicine and the maintenance of a Central Register of Indian Medicine and for matters connected therewith.</p>
+      <p>BE it enacted by Parliament in the Twenty-first Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Indian Medicine Central Council Act, 1970.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force in a State on such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf for such State, and different dates may be appointed for different States and for different provisions of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions. —</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-2.1.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,—</listIntroduction>
+              <item id="section-2.1.list1.a">
+                <num>(a)</num>
+                <p>“approved institution” means a teaching institution, health center or hospital recognized by a University or Board as an institution in which a person may undergo the training, if any, required by his course of study before the award of any medical qualification to him;</p>
+              </item>
+              <item id="section-2.1.list1.b">
+                <num>(b)</num>
+                <p>“Board” means a Board, Council, Examining Body or Faculty of Indian Medicine (by whatever name called) constituted by the State Government under any law for the time being in force regulating the award of medical qualifications in, and registration of practitioners of, Indian medicine;</p>
+              </item>
+              <item id="section-2.1.list1.c">
+                <num>(c)</num>
+                <p>“Central Council” means the Central Council of Indian Medicine constituted under section 3;</p>
+              </item>
+              <item id="section-2.1.list1.d">
+                <num>(d)</num>
+                <p>“Central Register of Indian Medicine” means the register maintained by the Central Council under this Act;</p>
+              </item>
+              <item id="section-2.1.list1.e">
+                <num>(e)</num>
+                <p>“Indian Medicine” means the system of Indian medicine commonly known as Ashtang Ayurveda, Siddha , Unani Tibb or Sowa-Rigpa whether supplemented or not by such modern advances as the Central Council may declare by notification from time to time;</p>
+              </item>
+              <item id="section-2.1.list1.ea">
+                <num>(ea)</num>
+                <p>“medical college” means a college of Indian medicine, whether known as such or by any other name, in which a person may undergo a course of study or training including any post-graduate course of study or training which will qualify him for the award of a recognised medical qualification;</p>
+              </item>
+              <item id="section-2.1.list1.f">
+                <num>(f)</num>
+                <p>“medical institution” means any institution within or without India which grants degrees, diplomas or licences in Indian medicine;</p>
+              </item>
+              <item id="section-2.1.list1.g">
+                <num>(g)</num>
+                <p>“prescribed” means prescribed by regulations;</p>
+              </item>
+              <item id="section-2.1.list1.h">
+                <num>(h)</num>
+                <p>“recognized medical qualification” means any of the medical qualifications, including post-graduate medical qualification, of Indian medicine included in the Second, Third or Fourth Schedule;</p>
+              </item>
+              <item id="section-2.1.list1.i">
+                <num>(i)</num>
+                <p>“regulation” means a regulation made under section 36;</p>
+              </item>
+              <item id="section-2.1.list1.j">
+                <num>(j)</num>
+                <p>“State Register of Indian Medicine” means a register or registers maintained under any law for the time being in force in any State regulating the registration of practitioners of Indian Medicine;</p>
+              </item>
+              <item id="section-2.1.list1.k">
+                <num>(k)</num>
+                <p>“University” means any University in India established by law and having a Faculty of Indian Medicine and includes a University in India established by law in which instruction, teaching, training or research in Indian medicine is provided.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>Any reference in this Act to a law which is not in force in the State of Jammu and Kashmir shall, in relation to that State, be construed as a reference to the corresponding law, if any, in force in that State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Constitution of Central Council. —</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-3.1.list1">
+              <listIntroduction>The Central Government shall, by notification in the Official Gazette, constitute for the purposes of this Act a Central Council consisting of the following members, namely:—</listIntroduction>
+              <item id="section-3.1.list1.a">
+                <num>(a)</num>
+                <p>such number of members not exceeding five as may be determined by the Central Government in accordance with the provisions of the First Schedule for each of the Ayurveda, Siddha , Unani and Sowa-Rigpa systems of medicine from each State in which a State Register of Indian Medicine is maintained, to be elected from amongst themselves by persons enrolled on that Register as practitioners of Ayurveda, Siddha , Unani or Sowa-Rigpa, as the case may be;</p>
+              </item>
+              <item id="section-3.1.list1.b">
+                <num>(b)</num>
+                <p>one member for each of the Ayurveda, Siddha , Unani and Sowa-Rigpa systems of medicine from each University to be elected from amongst themselves by the members of the Faculty or Department (by whatever name called) of the respective system of medicine of that University;</p>
+              </item>
+              <item id="section-3.1.list1.c">
+                <num>(c)</num>
+                <p>such number of members, not exceeding thirty per cent. of the total number of members elected under clauses (a) and (b), as may be nominated by the Central Government, from amongst persons having special knowledge or practical experience in respect of Indian medicine:</p>
+              </item>
+            </blockList>
+            <p>Provided that until members are elected under clause (a) or clause (b) in accordance with the provisions of this Act and the rules made thereunder, the Central Government shall nominate such number of members, being persons qualified to be chosen as such under the said clause (a) or clause (b), as the case may be, as that Government thinks fit; and references to elected members in this Act shall be construed as including references to members so nominated.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The President of the Central Council shall be elected by the members of the Central Council from amongst themselves in such manner as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>There shall be a Vice-President for each of the Ayurveda, Siddha , Unani and Sowa-Rigpa system of medicine who shall be elected from amongst themselves by members representing that system of medicine, elected under clause (a) or clause (b) of sub-section (1) or nominated under clause (c) of that sub-section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Mode of election.—</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <p>An election under clause (a) or clause (b) of sub-section (1) of section 3 shall be conducted by the Central Government in accordance with such rules as may be made by it in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any dispute arises regarding any election to the Central Council, it shall be referred to the Central Government whose decision shall be final.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Restriction on elections and membership.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>No person shall be eligible for election to the Central Council unless he possesses any of the medical qualifications included in the Second, Third or Fourth Schedule, is enrolled on any State Register of Indian Medicine and resides in the State concerned.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>No person may at the same time serve as a member in more than one capacity.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Incorporation of Central Council.—</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <p>The Central Council shall be a body corporate by the name of the Central Council of Indian Medicine having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract, and shall by the said name sue and be sued.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Term of office of President, Vice-President and members of Central Council.—</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The President, a Vice-President or a member of the Central Council shall hold office for a term of five years from the date of his election or nomination, as the case may be, or until his successor shall have been duly elected or nominated, whichever is longer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>An elected or nominated member shall be deemed to have vacated his seat if he is absent without excuse, sufficient in the opinion of the Central Council, from three consecutive ordinary meetings of the Central Council or, in the case of a member elected under clause (a) of sub-section (1) of section 3, if he ceases to be enrolled on the concerned State Register of Indian Medicine, or in the case of a member elected under clause (b) of that sub-section, if he ceases to be a member of the Faculty or Department (by whatever name called) of Indian Medicine of the University concerned.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>A casual vacancy in the Central Council shall be filled by election or nomination, as the case may be, and the person elected or nominated to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was elected or nominated.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>Members of the Central Council shall be eligible for re-election or re-nomination.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.5">
+          <num>(5)</num>
+          <content>
+            <p>Where the said term of five years is about to expire in respect of any member, a successor may be elected or nominated at any time within three months before the said term expires but he shall not assume office until the said term has expired.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Meetings of Central Council.—</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall meet at least once in each year at such time and place as may be appointed by the Central Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>Unless otherwise prescribed, one-third of the total number of members of the Central Council shall form a quorum and all the acts of the Central Council shall be decided by a majority of the members present and voting:</p>
+            <p>Provided that no decision of the Central Council in relation to any Indian medicine, shall be effective unless three members representing Ayurveda, Siddha , Unani or Sowa-Rigpa system of medicine as the case may be, are present at the meeting and support the decision.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Committees for Ayurveda, Siddha and Unani. —</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-9.1.list1">
+              <listIntroduction>The Central Council shall constitute from amongst its members,—</listIntroduction>
+              <item id="section-9.1.list1.a">
+                <num>(a)</num>
+                <p>a committee for Ayurveda;</p>
+              </item>
+              <item id="section-9.1.list1.b">
+                <num>(b)</num>
+                <p>a committee for Siddha; and</p>
+              </item>
+              <item id="section-9.1.list1.c">
+                <num>(c)</num>
+                <p>a committee for Unani; and</p>
+              </item>
+              <item id="section-9.1.list1.d">
+                <num>(d)</num>
+                <p>a committee for Sowa-Rigpa, and each such committee shall consist of members elected under clause (a) or clause (b) or nominated under clause (c) of sub-section (1) of section 3 representing the Ayurveda, Siddha, Unani or Sowa-Rigpa system of medicine, as the case may be.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>The Vice-President for each of the Ayurveda, Siddha , Unani and Sowa-Rigpa system of medicine elected under sub-section (3) of section 3 shall be, respectively, the Chairman of the committees referred to in clauses (a), (b) and (c) of sub-section (1).</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-9.3.list1">
+              <listIntroduction>Subject to such general or special directions as the Central Council may from time to time give, each such committee shall be competent to deal with any matter relating to Ayurveda, Siddha , Unani or Sowa-Rigpa system of medicine, as the case may be, within the competence of the Central Council.</listIntroduction>
+              <item id="section-9.3.list1.a">
+                <num>(a)</num>
+                <p>a committee for Ayurveda;</p>
+              </item>
+              <item id="section-9.3.list1.b">
+                <num>(b)</num>
+                <p>a committee for Siddha; and</p>
+              </item>
+              <item id="section-9.3.list1.c">
+                <num>(c)</num>
+                <p>a committee for Unani; and</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Other committees.—</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>The Central Council may constitute from amongst its members such other committees for general or special purposes as the Central Council deems necessary to carry out the purposes of this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Meetings of committees.—</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>The committees constituted under sections 9 and 10 shall meet at least once in each year at such time and place as may be appointed by the Central Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>Unless otherwise prescribed, one-third of the total number of members of a committee shall form a quorum, and all the acts of the committee shall be decided by a majority of the members present and voting.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Officers and other employees of Central Council.—</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <blockList id="section-12.paragraph-0.list1">
+              <listIntroduction>The Central Council shall—</listIntroduction>
+              <item id="section-12.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>appoint a Registrar who shall act as Secretary and who may also, if deemed expedient, act as Treasurer;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>employ such other persons as it deems necessary to carry out the purposes of this Act;</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>require and take from the Registrar, or from any other employee, such security for the due performance of his duties as the Central Council deems necessary; and</p>
+              </item>
+              <item id="section-12.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>with the previous sanction of the Central Government, fix the remuneration and allowances to be paid to the President, Vice-President and members of the Central Council and to the members of the committees thereof and determine the conditions of service of the employees of the Central Council.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Vacancies in the Central Council and committees thereof not to invalidate acts, etc.—</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>No act or proceeding of the Central Council or any committee thereof shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constitution of, the Central Council or the committee, as the case may be.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13A">
+        <num>13A.</num>
+        <heading>Permission for establishment of new medical college, new course of study, etc. —</heading>
+        <subsection id="section-13A.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in this Act or any other law for the time being in force,—</p>
+            <blockList id="section-13A.1.list2">
+              <listIntroduction>­</listIntroduction>
+              <item id="section-13A.1.list2.a">
+                <num>(a)</num>
+                <p>no person shall establish a medical college; or</p>
+              </item>
+              <item id="section-13A.1.list2.b">
+                <num>(b)</num>
+                <blockList id="section-13A.1.list2.b.list0">
+                  <listIntroduction>no medical college shall­—</listIntroduction>
+                  <item id="section-13A.1.list2.b.list0.i">
+                    <num>(i)</num>
+                    <p>open a new or higher course of study or training, including a post-graduate course of study or training, which would enable a student of such course or training to qualify himself for the award of any recognised medical qualification; or</p>
+                  </item>
+                  <item id="section-13A.1.list2.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>increase its admission capacity in any course of study or training including a post-graduate course of study or training,</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <p>except with the previous permission of the Central Government obtained in accordance with the provisions of this section.</p>
+            <p>Explanation 1.—</p>
+            <p>For the purposes of this section, “person” includes any University or a trust, but does not include the Central Government.</p>
+            <p>Explanation 2 .—</p>
+            <p>For the purposes of this section, “admission capacity”, in relation to any course of study or training, including post-graduate course of study or training, in a medical college, means the maximum number of students as may be fixed by the Central Government from time to time for being admitted to such course or training.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.2">
+          <num>(2)</num>
+          <content>
+            <p>Every person or medical college shall, for the purpose of obtaining permission under sub-section (1), submit to the Central Government a scheme in accordance with the provisions of sub-section (3) and the Central Government shall refer the scheme to the Central Council for its recommendations.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.3">
+          <num>(3)</num>
+          <content>
+            <p>The scheme referred to in sub-section (2), shall be in such form and contain such particulars and be preferred in such manner and accompanied with such fee, as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.4">
+          <num>(4)</num>
+          <content>
+            <blockList id="section-13A.4.list1">
+              <listIntroduction>On receipt of a scheme from the Central Government under sub-section (2), the Central Council may obtain such other particulars as may be considered necessary by it from the person or the medical college concerned, and thereafter, it may,—</listIntroduction>
+              <item id="section-13A.4.list1.a">
+                <num>(a)</num>
+                <p>if the scheme is defective and does not contain necessary particulars, give a reasonable opportunity to the person or medical college concerned for making a written representation and it shall be open to such person or medical college to rectify the defects, if any, specified by the Central Council;</p>
+              </item>
+              <item id="section-13A.4.list1.b">
+                <num>(b)</num>
+                <p>consider the scheme, having regard to the factors referred to in sub-section (8) and submit it to the Central Government together with its recommendations thereon within a period not exceeding six months from the date of receipt of the reference from the Central Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-13A.5">
+          <num>(5)</num>
+          <content>
+            <p>The Central Government may, after considering the scheme and recommendations of the Central Council under sub-section (4) and after obtaining, where necessary, such other particulars as may be considered necessary by it from the person or medical college concerned and having regard to the factors referred to in sub-section (8), either approve the scheme with such conditions, if any, as it may consider necessary or disapprove the scheme and any such approval shall constitute as a permission under sub-section (1):</p>
+            <p>Provided that no scheme shall be disapproved by the Central Government except after giving the person or medical college concerned a reasonable opportunity of being heard:</p>
+            <p>Provided further that nothing in this sub-section shall prevent any person or medical college whose scheme has not been approved by the Central Government to submit a fresh scheme and the provisions of this section shall apply to such scheme as if such scheme had been submitted for the first time under sub-section (2).</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.6">
+          <num>(6)</num>
+          <content>
+            <p>Where, within a period of one year from the date of submission of the scheme to the Central Government under sub-section (2), no order is communicated by the Central Government to the person or medical college submitting the scheme, such scheme shall be deemed to have been approved by the Central Government in the form in which it was submitted, and, accordingly, the permission of the Central Government required under sub-section (1) shall also be deemed to have been granted.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.7">
+          <num>(7)</num>
+          <content>
+            <p>In computing the time-limit specified in sub-section (6), the time taken by the person or medical college concerned submitting the scheme, in furnishing any particulars called for by the Central Council, or by the Central Government, shall be excluded.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13A.8">
+          <num>(8)</num>
+          <content>
+            <blockList id="section-13A.8.list1">
+              <listIntroduction>The Central Council while making its recommendations under clause (b) of sub-section (4) and the Central Government while passing an order, either approving or disapproving the scheme under sub-section (5), shall have due regard to the following factors, namely:—</listIntroduction>
+              <item id="section-13A.8.list1.a">
+                <num>(a)</num>
+                <p>whether the proposed medical college or the existing medical college seeking to open a new or higher course of study or training, would be in a position to offer the minimum standards of medical education as prescribed by the Central Council under section 22;</p>
+              </item>
+              <item id="section-13A.8.list1.b">
+                <num>(b)</num>
+                <p>whether the person seeking to establish a medical college or the existing medical college seeking to open a new or higher course of study or training or to increase its admission capacity has adequate financial resources;</p>
+              </item>
+              <item id="section-13A.8.list1.c">
+                <num>(c)</num>
+                <p>whether necessary facilities in respect of staff, equipment, accommodation, training, hospital or other facilities to ensure proper functioning of the medical college or conducting the new course of study or training or accommodating the increased admission capacity have been provided or would be provided within the time-limit specified in the scheme;</p>
+              </item>
+              <item id="section-13A.8.list1.d">
+                <num>(d)</num>
+                <p>whether adequate hospital facilities, having regard to the number of students likely to attend such medical college or course of study or training or the increased admission capacity have been provided or would be provided within the time-limit specified in the scheme;</p>
+              </item>
+              <item id="section-13A.8.list1.e">
+                <num>(e)</num>
+                <p>whether any arrangement has been made or programme drawn to impart proper training to students likely to attend such medical college or the course of study or training by persons having recognised medical qualifications;</p>
+              </item>
+              <item id="section-13A.8.list1.f">
+                <num>(f)</num>
+                <p>the requirement of manpower in the field of practice of Indian medicine in the medical college;</p>
+              </item>
+              <item id="section-13A.8.list1.g">
+                <num>(g)</num>
+                <p>any other factors as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-13A.9">
+          <num>(9)</num>
+          <content>
+            <p>Where the Central Government passes an order either approving or disapproving a scheme under this section, a copy of the order shall be communicated to the person or medical college concerned.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13B">
+        <num>13B.</num>
+        <heading>Non-recognition of medical qualifications in certain cases. —</heading>
+        <subsection id="section-13B.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any medical college is established without the previous permission of the Central Government in accordance with the provisions of section l3A, medical qualification granted to any student of such medical college shall not be deemed to be a recognised medical qualification for the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13B.2">
+          <num>(2)</num>
+          <content>
+            <p>Where any medical college opens a new or higher course of study or training including a post-graduate course of study or training without the previous permission of the Central Government in accordance with the provisions of section l3A, medical qualification granted to any student of such medical college on the basis of such study or training shall not be deemed to be a recognised medical qualification for the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13B.3">
+          <num>(3)</num>
+          <content>
+            <p>Where any medical college increases its admission capacity in any course of study or training without the previous permission of the Central Government in accordance with the provisions of section 13A, medical qualification granted to any student of such medical college on the basis of the increase in its admission capacity shall not be deemed to be a recognised medical qualification for the purposes of this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13C">
+        <num>13C.</num>
+        <heading>Time for seeking permission for certain existing medical colleges. —</heading>
+        <subsection id="section-13C.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person has established a medical college or any medical college has opened a new or higher course of study or training or increased the admission capacity on or before the commencement of the Indian Medicine Central Council (Amendment) Act, 2003, such person or medical college, as the case may be, shall seek, within a period of three years from the said commencement, permission of the Central Government in accordance with the provisions of section l3A.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13C.2">
+          <num>(2)</num>
+          <content>
+            <p>If any person or medical college, as the case may be, fails to seek permission under sub-section (1), the provisions of section 13B shall apply, so far as may be, as if permission of the Central Government under section 13A has been refused.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Recognition of medical qualifications granted by certain medical institutions in India.—</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>The medical qualifications granted by any University, Board or other medical institution in India which are included in the Second Schedule shall be recognized medical qualifications for the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>Any University, Board or other medical institution in India which grants a medical qualification not included in the Second Schedule may apply to the Central Government to have any such qualification recognized, and the Central Government, after consulting the Central Council, may, by notification in the Official Gazette, amend the Second Schedule so as to include such qualification therein, and any such notification may also direct that an entry shall be made in the last column of the Second Schedule against such medical qualification declaring that it shall be a recognized medical qualification only when granted after a specified date.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Recognition of medical qualifications granted by certain medical institutions whose qualifications are not included in Second Schedule.—</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>The medical qualifications included in the Third Schedule granted to a citizen of India before the 15th day of August, 1947, by any medical institution in any area which was comprised before that date within India as defined in the Government of India Act, 1935, shall also be recognized medical qualifications for the purposes of this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Recognition of medical qualifications granted by medical institutions in countries with which there is a scheme of reciprocity.—</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <p>The medical qualifications granted by medical institutions outside India which are included in the Fourth Schedule shall be recognized medical qualifications for the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Council may enter into negotiations with the authority in any State or country outside India, which, by the law of such State or country is entrusted with the maintenance of a Register of practitioners of Indian medicine, for the settling of a scheme of reciprocity for the recognition of medical qualifications in Indian medicine, and in pursuance of any such scheme, the Central Government may, by notification in the Official Gazette, amend the Fourth Schedule so as to include therein any medical qualification which the Central Council has decided should be recognized, and any such notification may also direct that an entry shall be made in the last column of the Fourth Schedule against such medical qualification declaring that it shall be recognized medical qualification only when granted after a specified date.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Rights of persons possessing qualifications included in Second, Third and Fourth Schedules to be enrolled. —</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the other provisions contained in this Act, any medical qualification included in the Second, Third or Fourth Schedule shall be sufficient qualification for enrolment on any State Register of Indian Medicine.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-17.2.list1">
+              <listIntroduction>Save as provided in section 28, no person other than a practitioner of Indian medicine who possesses a recognized medical qualification and is enrolled on a State Register or the Central Register of Indian Medicine,—</listIntroduction>
+              <item id="section-17.2.list1.a">
+                <num>(a)</num>
+                <p>shall hold office as Vaid, Siddha, Hakim or physician or Amchi or any other office (by whatever designation called) in Government or in any institution maintained by a local or other authority;</p>
+              </item>
+              <item id="section-17.2.list1.b">
+                <num>(b)</num>
+                <p>shall practise Indian medicine in any State;</p>
+              </item>
+              <item id="section-17.2.list1.c">
+                <num>(c)</num>
+                <p>shall be entitled to sign or authenticate a medical or fitness certificate or any other certificate required by any law to be signed or authenticated by a duly qualified medical practitioner;</p>
+              </item>
+              <item id="section-17.2.list1.d">
+                <num>(d)</num>
+                <p>shall be entitled to give evidence at any inquest or in any court of law as an expert under section 45 of the Indian Evidence Act, 1872 (1 of 1872), on any matter relating to Indian medicine.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-17.3.list1">
+              <listIntroduction>Nothing contained in sub-section (2) shall affect,—</listIntroduction>
+              <item id="section-17.3.list1.a">
+                <num>(a)</num>
+                <p>the right of a practitioner of Indian medicine enrolled on a State Register of Indian Medicine to practise Indian medicine in any State merely on the ground that, on the commencement of this Act, he does not possess a recognized medical qualification;</p>
+              </item>
+              <item id="section-17.3.list1.b">
+                <num>(b)</num>
+                <p>the privileges (including the right to practice any system of medicine) conferred by or under any law relating to registration of practitioners of Indian medicine for the time being in force in any State on a practitioner of Indian medicine enrolled on a State Register of Indian Medicine;</p>
+              </item>
+              <item id="section-17.3.list1.c">
+                <num>(c)</num>
+                <p>the right of a person to practise Indian medicine in a State in which, on the commencement of this Act, a State Register of Indian Medicine is not maintained if, on such commencement, he has been practising Indian medicine for not less than five years;</p>
+              </item>
+              <item id="section-17.3.list1.d">
+                <num>(d)</num>
+                <p>the rights conferred by or under the Indian Medical Council Act, 1956 (102 of 1956) including the right to practice medicine as defined in clause (f) of section 2 of the said Act, on persons possessing any qualifications included in the Schedules to the said Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-17.4">
+          <num>(4)</num>
+          <content>
+            <p>Any person who acts in contravention of any provision of sub-section (2) shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power to require information as to courses of study and examinations.—</heading>
+        <paragraph id="section-18.paragraph-0">
+          <content>
+            <p>Every University, Board or medical institution in India which grants a recognized medical qualification shall furnish such information as the Central Council may, from time to time, require as to the courses of study and examinations to be undergone in order to obtain such qualification, as to the ages at which such courses of study and examinations are required to be undergone and such qualification is conferred and generally as to the requisites for obtaining such qualification.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Inspectors at examinations.—</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall appoint such number of medical inspectors as it may deem requisite to inspect any medical college, hospital or other institution where education in Indian medicine is given, or to attend any examination held by any University, Board or medical institution for the purpose of recommending to the Central Government recognition of medical qualifications granted by that University, Board or medical institution.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <p>The medical inspectors shall not interfere with the conduct of any training or examination, but shall report to the Central Council on the adequacy of the standards of education including staff, equipment, accommodation, training and other facilities prescribed for giving education in Indian medicine or on the sufficiency of every examination which they attend.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.3">
+          <num>(3)</num>
+          <content>
+            <p>The Central Council shall forward a copy of any such report to the University, Board or medical institution concerned and shall also forward a copy with the remarks of the University, Board or medical institution thereon, to the Central Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Visitors at examinations.—</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council may appoint such number of visitors as it may deem requisite to inspect any medical college, hospital or other institution where education in Indian medicine is given or to attend any examination for the purpose of granting recognized medical qualifications.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person, whether he is a member of the Central Council or not, may be appointed as a visitor under this section but a person who is appointed as an inspector under section 19 for any inspection or examination shall not be appointed as a visitor for the same inspection or examination.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.3">
+          <num>(3)</num>
+          <content>
+            <p>The visitors shall not interfere with the conduct of any training or examination, but shall report to the President of the Central Council on the adequacy of the standards of education including staff, equipment, accommodation, training and other facilities prescribed for giving education in Indian medicine or on the sufficiency of every examination which they attend.</p>
+          </content>
+        </subsection>
+        <subsection id="section-20.4">
+          <num>(4)</num>
+          <content>
+            <p>The report of a visitor shall be treated as confidential unless in any particular case the President of the Central Council otherwise directs:</p>
+            <p>Provided that if the Central Government requires a copy of the report of a visitor, the Central Council shall furnish the same.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Withdrawal of recognition.—</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-21.1.list1">
+              <listIntroduction>When upon report by the inspector or the visitor, it appears to the Central Council—</listIntroduction>
+              <item id="section-21.1.list1.a">
+                <num>(a)</num>
+                <p>that the courses of study and examination to be undergone in, or the proficiency required from candidates at any examination held by, any University, Board or medical institution, or</p>
+              </item>
+              <item id="section-21.1.list1.b">
+                <num>(b)</num>
+                <p>that the staff, equipment, accommodation, training and other facilities for instruction and training provided in such University, Board or medical institution or in any college or other institution affiliated to the University, do not conform to the standard prescribed by the Central Council, the Central Council shall make a representation to that effect to the Central Government.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>After considering such representation, the Central Government may send it to the Government of the State in which the University, Board or medical institution is situated and the State Government shall forward it along with such remarks as it may choose to make to the University, Board or medical institution, with an intimation of the period within which the University, Board or medical institution may submit its explanation to the State Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <p>On the receipt of the explanation or, where no explanation is submitted within the period fixed, then, on the expiry of that period, the State Government shall make its recommendations to the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.4">
+          <num>(4)</num>
+          <content>
+            <p>The Central Government, after making such further inquiry, if any, as it may think fit, may, by notification in the Official Gazette, direct that an entry shall be made in the appropriate Schedule against the said medical qualification declaring that it shall be a recognized medical qualification only when granted before a specified date, or that the said medical qualification if granted to students of a specified college or institution affiliated to any University shall be recognized medical qualification only when granted before a specified date or, as the case may be, that the said medical qualification shall be recognized medical qualification in relation to a specified college or institution affiliated to any University only when granted after a specified date.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Minimum standards of education in Indian medicine.—</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council may prescribe the minimum standards of education in Indian medicine, required for granting recognized medical qualifications by Universities, Boards or medical institutions in India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <p>Copies of the draft regulations and of all subsequent amendments thereof shall be furnished by the Central Council to all State Governments and the Central Council shall, before submitting the regulations or any amendment thereof, as the case may be, to the Central Government for sanction, take into consideration the comments of any State Government received within three months from the furnishing of the copies as aforesaid.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>Each of the committees referred to in clauses (a), (b) and (c) of sub-section (1) of section 9 shall, from time to time, report to the Central Council on the efficacy of the regulations and may recommend to the Central Council such amendments thereof as it may think fit.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>The Central Register of Indian Medicine.—</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall cause to be maintained in the prescribed manner, a register of practitioners in separate parts for each of the system of Indian medicine to be known as the Central Register of Indian Medicine which shall contain the names of all persons who are for the time being enrolled on any State Register of Indian Medicine and who possess any of the recognized medical qualifications.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall be the duty of the Registrar of the Central Council to keep and maintain the Central Register of Indian Medicine in accordance with the provisions of this Act and of any orders made by the Central Council and from time to time to revise the register and publish it in the Gazette of India in such other manner as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.3">
+          <num>(3)</num>
+          <content>
+            <p>Such register shall be deemed to be a public document within the meaning of the Indian Evidence Act, 1872 (1 of 1872) and may be proved by a copy published in the Gazette of India.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Supply of copies of State Register of Indian Medicine.—</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>Each Board shall supply to the Central Council three printed copies of the State Register of Indian Medicine as soon as may be after the commencement of this Act and subsequently after the first day of April of each year, and each Board shall inform the Central Council without delay of all additions to and other amendments in the State Register of Indian Medicine made from time to time.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Registration in the Central Register of Indian Medicine.—</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>The Registrar of the Central Council may on receipt of the report of registration of a person in a State Register of Indian Medicine or on application made in the prescribed manner by any person, enter his name in the Central Register of Indian Medicine, provided that the Registrar is satisfied that the person concerned is eligible under this Act for such registration.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Professional conduct.—</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council may prescribe standards of professional conduct and etiquette and a code of ethics for practitioners of Indian medicine.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>Regulations made by the Central Council under sub-section (1) may specify which violations thereof shall constitute infamous conduct in any professional respect, that is to say, professional misconduct and such provision shall have effect notwithstanding anything contained in any law for the time being in force.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Removal of names from the Central Register of Indian Medicine.—</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>If the name of any person enrolled on a State Register of Indian Medicine is removed therefrom in pursuance of any power conferred by or under any law relating to registration of practitioners of Indian medicine for the time being in force in any State, the Central Council shall direct the removal of the name of such person from the Central Register of Indian Medicine.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the name of any person has been removed from a State Register of Indian Medicine on any ground other than that he is not possessed of the requisite medical qualifications or where any application by the said person for restoration of his name to the State Register of Indian Medicine has been rejected, he may appeal in the prescribed manner and subject to such conditions, including conditions as to the payment of a fee, as may be prescribed, to the Central Government whose decision, which shall be given after consulting the Central Council, shall be binding on the State Government and on the authorities concerned with the preparation of the State Register of Indian Medicine.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Provisional registration for practice.—</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <p>If the courses of study to be undergone for obtaining a recognized medical qualification in Indian medicine include a period of training after a person has passed the qualifying examination and before such qualification is conferred on him, any such person shall, on application made by him in this behalf, be granted provisional registration in a State Register of Indian Medicine by the Board concerned in order to enable him to practice Indian medicine in an approved institution for the purpose of such training and for no other purpose for the period aforesaid.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Privileges of persons who are enrolled on the Central Register of Indian Medicine.—</heading>
+        <paragraph id="section-29.paragraph-0">
+          <content>
+            <p>Subject to the conditions and restrictions laid down in this Act regarding practice of Indian medicine by persons possessing certain recognized medical qualifications, every person whose name is for the time being borne on the Central Register of Indian Medicine shall be entitled according to his qualifications to practise Indian medicine in any part of India and to recover in due course of law in respect of such practice any expenses, charges in respect of medicaments or other appliances or any fees to which he may be entitled.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Registration of additional qualifications.—</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person whose name is entered in the Central Register of Indian Medicine obtains any title, diploma or other qualifications for proficiency in Indian medicine which is a recognized medical qualification, he shall, on application made in this behalf in the prescribed manner, be entitled to have an entry stating such other title, diploma or other qualification made against his name in the Central Register of Indian Medicine either in substitution for or in addition to any entry previously made.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>The entries in respect of any such person in a State Register of Indian Medicine shall be altered in accordance with the alterations made in the Central Register of Indian Medicine.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Persons enrolled on Central Register of Indian Medicine to notify change of place of residence and practice.—</heading>
+        <paragraph id="section-31.paragraph-0">
+          <content>
+            <p>Every person registered in the Central Register of Indian Medicine shall notify any transfer of the place of his residence or practice to the Central Council and to the Board concerned, within ninety days of such transfer, failing which his right to participate in the election of members to the Central Council or a Board shall be liable to be forfeited by order of the Central Government either permanently or for such period as may be specified therein.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Information to be furnished by Central Council and publication thereof.—</heading>
+        <subsection id="section-32.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall furnish such reports, copies of its minutes, abstracts of its accounts and other information to the Central Government as that Government may require.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government may publish in such manner, as it may think fit, any report, copy, abstract or other information furnished to it under this section or under section 20.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Commission of inquiry.—</heading>
+        <subsection id="section-33.1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever it is made to appear to the Central Government that the Central Council is not complying with any of the provisions of this Act, the Central Government may refer the particulars of the complaint to a commission of inquiry consisting of three persons, two of whom shall be appointed by the Central Government, one being a Judge of a High Court and one by the Central Council, and such commission shall proceed to inquire in a summary manner and to report to the Central Government as to the truth of the matters charged in the complaint and in case of any charge of default or of improper action being found by the commission to have been established, the commission shall recommend the remedies, it any, which are in its opinion necessary.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government may require the Central Council to adopt the remedies so recommended within such time as, having regard to the report of the commission, it may think fit, and if the Central Council fails to comply with any such requirement, the Central Government may amend the regulations of the Central Council, or make such provision or order or take such other steps as may seem necessary to give effect to the recommendations of the commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.3">
+          <num>(3)</num>
+          <content>
+            <p>A commission of inquiry shall have power to administer oaths, to enforce the attendance of witnesses and the production of documents, and shall have all such other necessary powers for the purpose of any inquiry conducted by it as are exercised by a civil court under the Code of Civil Procedure, 1908 (5 of 1908).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Protection of action taken in good faith.—</heading>
+        <paragraph id="section-34.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the Government, the Central Council or a Board or any committee thereof or any officer or servant of the Government or the Central Council or the Board aforesaid for anything which is in good faith done or intended to be done under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-35.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-35.2">
+          <num>(2)</num>
+          <content>
+            <p>Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-36">
+        <num>36.</num>
+        <heading>Power to make regulations.—</heading>
+        <subsection id="section-36.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-36.1.list1">
+              <listIntroduction>The Central Council, may, with the previous sanction of the Central Government, by notification in the Official Gazette, make regulations generally to carry out the purposes of this Act, and, without prejudice to the generality of this power, such regulations may provide for—</listIntroduction>
+              <item id="section-36.1.list1.a">
+                <num>(a)</num>
+                <p>the manner of election of the President and the Vice-Presidents of the Central Council;</p>
+              </item>
+              <item id="section-36.1.list1.b">
+                <num>(b)</num>
+                <p>the management of the property of the Central Council and the maintenance and audit of its accounts;</p>
+              </item>
+              <item id="section-36.1.list1.c">
+                <num>(c)</num>
+                <p>the resignation of members of the Central Council;</p>
+              </item>
+              <item id="section-36.1.list1.d">
+                <num>(d)</num>
+                <p>the powers and duties of the President and Vice-President;</p>
+              </item>
+              <item id="section-36.1.list1.e">
+                <num>(e)</num>
+                <p>the summoning and holding of meetings of the Central Council and the committees thereof, the times and places where such meetings are to be held, and the conduct of business thereat and the number of members necessary to constitute a quorum;</p>
+              </item>
+              <item id="section-36.1.list1.f">
+                <num>(f)</num>
+                <p>the functions of the committees constituted under section 9 or section 10;</p>
+              </item>
+              <item id="section-36.1.list1.g">
+                <num>(g)</num>
+                <p>the tenure of office, and the powers and duties of the Registrar and other officers and servants of the Central Council;</p>
+              </item>
+              <item id="section-36.1.list1.ga">
+                <num>(ga)</num>
+                <blockList id="section-36.1.list1.ga.list0">
+                  <listIntroduction>the form of the scheme, the particulars to be given in such scheme, the manner in which the scheme is to be preferred and the fees payable with the scheme under sub-section (3) of section 13A;</listIntroduction>
+                  <item id="section-36.1.list1.ga.list0.gb">
+                    <num>(gb)</num>
+                    <p>any other factor under clause (g) of sub-section (8) of section 13A;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-36.1.list1.h">
+                <num>(h)</num>
+                <p>the appointment, powers, duties and procedure of inspectors and visitors;</p>
+              </item>
+              <item id="section-36.1.list1.i">
+                <num>(i)</num>
+                <p>the courses and period of study and of practical training to be undertaken, the subjects of examination and the standards of proficiency therein to be obtained, in any University, Board or medical institutions for grant of recognized medical qualifications;</p>
+              </item>
+              <item id="section-36.1.list1.j">
+                <num>(j)</num>
+                <p>the standards of staff, equipments, accommodation, training and other facilities for education in Indian medicine;</p>
+              </item>
+              <item id="section-36.1.list1.k">
+                <num>(k)</num>
+                <p>the conduct of professional examinations, qualifications of examiners and the conditions of admission to such examinations;</p>
+              </item>
+              <item id="section-36.1.list1.l">
+                <num>(l)</num>
+                <p>the standards of professional conduct and etiquette and code of ethics to be observed by practitioners of Indian medicine;</p>
+              </item>
+              <item id="section-36.1.list1.m">
+                <num>(m)</num>
+                <p>the particulars to be stated and the proof of qualifications to be given in applications for registration under this Act;</p>
+              </item>
+              <item id="section-36.1.list1.n">
+                <num>(n)</num>
+                <p>the manner in which and the conditions subject to which an appeal under section 27 may be preferred;</p>
+              </item>
+              <item id="section-36.1.list1.o">
+                <num>(o)</num>
+                <p>the fees to be paid on applications and appeals under this Act; and</p>
+              </item>
+              <item id="section-36.1.list1.p">
+                <num>(p)</num>
+                <p>any matter for which under this Act provision may be made by regulations.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-36.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government shall cause every regulation made under this Act to be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-thefirstschedule">
+      <doc name="thefirstschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1970/48/schedules"/>
+              <FRBRuri value="/in-union/act/1970/48"/>
+              <FRBRalias value="THE FIRST SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1970/48/eng@1970-12-21/schedules"/>
+              <FRBRuri value="/in-union/act/1970/48/eng@1970-12-21"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1970/48/eng@1970-12-21/schedules"/>
+              <FRBRuri value="/in-union/act/1970/48/eng@1970-12-21"/>
+              <FRBRdate date="2016-11-18" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thefirstschedule">
+            <heading>[See Section 3(1)(a)]</heading>
+            <subsection id="thefirstschedule.1">
+              <num>(1)</num>
+              <content>
+                <p>The Central Government shall, by notification in the Official Gazette, determine the number of seats allocated in the Central Council to each of the Ayurveda, Sidha Unani and Sowa-Rigpa systems of medicine in each State on the following basis, namely:-</p>
+                <table id="thefirstschedule.1.table1">
+                  <tr>
+                    <td>
+                      <p>(a)</p>
+                    </td>
+                    <td>
+                      <p>Where the number of persons enrolled on a State Register of Indian Medicine for any of such systems exceeds 100 but does not exceed 10,000</p>
+                    </td>
+                    <td>
+                      <p>...1 seat</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>(b)</p>
+                    </td>
+                    <td>
+                      <p>Where the number of persons enrolled on a State Register of Indian Medicine for any of such systems exceeds 10,000 but does not exceed 20,000</p>
+                    </td>
+                    <td>
+                      <p>...2 seats</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>(c)</p>
+                    </td>
+                    <td>
+                      <p>Where the number of persons enrolled on a State Registered of Indian Medicine for any of such systems exceeds 20,000 but does not exceed 30,000</p>
+                    </td>
+                    <td>
+                      <p>...3 seats</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>(d)</p>
+                    </td>
+                    <td>
+                      <p>Where the number of persons enrolled on a Stat Register of Indian Medicine for any such systems exceeds 30,000 but does not exceed 40,000</p>
+                    </td>
+                    <td>
+                      <p>...4 seats</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>(e)</p>
+                    </td>
+                    <td>
+                      <p>Where the number of persons enrolled on a State Register of Indian Medicine for any of such systems exceeds 40,000</p>
+                    </td>
+                    <td>
+                      <p>...5 seats</p>
+                    </td>
+                  </tr>
+                </table>
+              </content>
+            </subsection>
+            <subsection id="thefirstschedule.2">
+              <num>(2)</num>
+              <content>
+                <p>For every subsequent election to the Central Council under clause (a) of sub-section (1) of section 3, the Central Government shall, by notification in the Official Gazette, determine the number of seats allocated in the Central Council to each of the Ayurveda, Siddha Unani and Sowa-Rigpa systems of medicine on the basis laid down in paragraph 1 above.</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

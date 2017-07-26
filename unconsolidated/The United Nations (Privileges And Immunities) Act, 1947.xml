@@ -1,0 +1,178 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1947/46/main"/>
+          <FRBRuri value="/in-union/act/1947/46"/>
+          <FRBRalias value="The United Nations (Privileges And Immunities) Act, 1947"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1947/46/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1947/46/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1947/46/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1947/46/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The United Nations (Privileges And Immunities) Act, 1947</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 46 OF 1947</docNumber>
+      </p>
+      <longTitle>
+        <p>]</p>
+        <p>An Act to give effect to the Convention on the Privileges and</p>
+        <p>Immunities of the United Nations.</p>
+        <p>WHEREAS it is expedient to give effect to the Convention on the</p>
+        <p>Privileges and Immunities of the United Nations, and to enable similar  privileges and immunities to be enjoyed by other international  organisations and their representatives and officials:--</p>
+        <p>It is hereby enacted as follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title.- This Act may be called the United Nations</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>(Privileges and Immunities) Act, 1947.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Conferment on United Nations and its representatives and  officers of certain privileges and immunities.-</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding  anything to the contrary contained in any other law, the provisions  set out in the Schedule to this Act of the Convention on the</p>
+            <p>Privileges and Immunities, adopted by the General Assembly of the</p>
+            <p>United Nations on the 13th day of February, 1946, shall have the force  of law in India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government may, from time to time, by  notification in the Official Gazette, amend the Schedule in conformity  with any amendments, duly made and adopted, of the provisions of the  said Convention set out therein.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Power to confer certain privileges and immunities on other  international organisation and their representatives and officers.-</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>Where in pursuance of any international agreement, convention or other  instrument it is necessary to accord to any international organisation  and its representatives and officers privileges and immunities in</p>
+            <p>India similar to those contained in the provisions set out in the</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-thecentralgovernmentmaybynotification">
+      <doc name="thecentralgovernmentmaybynotification">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1947/46/schedules"/>
+              <FRBRuri value="/in-union/act/1947/46"/>
+              <FRBRalias value=", the Central Government may, by notification"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1947/46/eng@1980-01-01/schedules"/>
+              <FRBRuri value="/in-union/act/1947/46/eng@1980-01-01"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1947/46/eng@1980-01-01/schedules"/>
+              <FRBRuri value="/in-union/act/1947/46/eng@1980-01-01"/>
+              <FRBRdate date="2016-09-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thecentralgovernmentmaybynotification">
+            <paragraph id="thecentralgovernmentmaybynotification.paragraph-0">
+              <content>
+                <p>in the Official Gazette, declare that the provisions set out in the</p>
+              </content>
+            </paragraph>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+    <component id="component-scheduleshall">
+      <doc name="scheduleshall">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1947/46/scheduleshall"/>
+              <FRBRuri value="/in-union/act/1947/46"/>
+              <FRBRalias value=", subject to such modifications, if any, as it may  consider necessary or expedient for giving effect to the said  agreement, convention or other instrument, apply mutatis mutandis to  the international organisation specified in the notification and its  representatives and officers, and thereupon the said provisions shall  apply accordingly and, notwithstanding anything to the contrary  contained in any other law, shall in such application have the force  of law in India."/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1947/46/eng@1980-01-01/scheduleshall"/>
+              <FRBRuri value="/in-union/act/1947/46/eng@1980-01-01"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1947/46/eng@1980-01-01/scheduleshall"/>
+              <FRBRuri value="/in-union/act/1947/46/eng@1980-01-01"/>
+              <FRBRdate date="2016-09-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="scheduleshall">
+            <section id="section-4">
+              <num>4.</num>
+              <heading>Power to make rules.-</heading>
+              <subsection id="section-4.1">
+                <num>(1)</num>
+                <content>
+                  <p>The Central Government may ,</p>
+                  <p>by notification in the Official Gazette,] make rules for carrying out  the purposes of this Act.</p>
+                </content>
+              </subsection>
+              <subsection id="section-4.2">
+                <num>(2)</num>
+                <content>
+                  <p>Every rule made under this Act shall be laid, as soon as  may be after it is made, before each House of Parliament, while it is  in session, for a total period of thirty days which may be comprised  in one session or in two or more successive sessions, and if, before  the expiry of the session immediately following the session or the  successive sessions aforesaid, both Houses agree in making any  modification in the rule or both Houses agree that the rule should not  be made the rule shall thereafter have effect only in such modified  form or be of no effect, as the case may be; so, however, that any  such modification or annulment shall be without prejudice to the  validity of anything previously done under that rule.]</p>
+                </content>
+              </subsection>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

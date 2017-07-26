@@ -1,0 +1,88 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1871/21/main"/>
+          <FRBRuri value="/in-union/act/1871/21"/>
+          <FRBRalias value="Dehra Dun"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1871/21/eng@1871-07-11/main"/>
+          <FRBRuri value="/in-union/act/1871/21/eng@1871-07-11"/>
+          <FRBRdate date="1871-07-11" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1871/21/eng@1871-07-11/main"/>
+          <FRBRuri value="/in-union/act/1871/21/eng@1871-07-11"/>
+          <FRBRdate date="2016-09-26" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Dehra Dun</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 21 OF 1871</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 11th July, 1871.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to give validity to the operation of the general</p>
+        <p>Regulations and Acts within the Dehra dun.</p>
+        <p>Preamble.</p>
+        <p>WHEREAS it is necessary to give validity to the operation of the  general Regulations and Acts within the district under the</p>
+        <p>Superintendent of the Dehra Dun ; It is hereby enacted as  follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Extension of Regulations and Acts in force in Saharanpur to</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>Dehra Dun. The Regulations and Acts now in force in the district</p>
+            <p>Saharanpur are hereby declared to extend to the said district of Dehra</p>
+            <p>Dun .</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Jurisdiction of High Court and Board of Revenue over Dehra</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>Dun. The High Court and the Board of Revenue of  Uttar Pradesh]</p>
+            <p>shall exercise  respectively, in the said district, all the powers  which the said High Court or Board of Revenue are at present,</p>
+            <p>respectively, authorized to exercise in any part of  Agra].</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>District Court of Saharanpur to be District Court of Dehra</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>Dun. The District Court of Saharanpur shall be  the District Court  of such district until the State Government otherwise directs .</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Exemption of Jaunsar Bawar. Nothing in this Act shall apply to  that portion of the Dehra Dun district called  Jaunsar Bawar .</heading>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

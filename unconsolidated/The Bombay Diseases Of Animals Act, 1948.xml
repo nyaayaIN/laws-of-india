@@ -1,0 +1,998 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/1948/59/main"/>
+          <FRBRuri value="/in-mah/act/1948/59"/>
+          <FRBRalias value="The Bombay Diseases Of Animals Act, 1948"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/1948/59/eng@2017-04-17/main"/>
+          <FRBRuri value="/in-mah/act/1948/59/eng@2017-04-17"/>
+          <FRBRdate date="2017-04-17" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/1948/59/eng@2017-04-17/main"/>
+          <FRBRuri value="/in-mah/act/1948/59/eng@2017-04-17"/>
+          <FRBRdate date="2017-04-17" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Bombay Diseases Of Animals Act, 1948</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[30th November, 1948]</docDate>
+      </p>
+      <longTitle>
+        <p>Act LIX Of 1948</p>
+        <p>An Act to provide for the eradication prevention and control of diseases affecting animals.</p>
+        <p>WHEREAS it is expedient to provide for the eradication, prevention and control of diseases affecting animals;</p>
+        <p>It is hereby enacted as follows: —</p>
+      </longTitle>
+    </preface>
+    <body>
+      <part id="part-I">
+        <num>I</num>
+        <heading>Preliminary.</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title. —</heading>
+          <paragraph id="section-1.paragraph-0">
+            <content>
+              <p>This Act may be called the Bombay Diseases of Animals Act, 1948.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Extent and commencement. —</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act extends to the State of Maharashtra.</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Section 1, this section and section 5A shall come into force at once. The State Government may, from time to time, by notification in the Official Gazette direct that all or any of the remaining provisions of this act shall come into force in such area in respect of such scheduled disease and on such date as may be specified in the notification and may by similar notification direct that such provisions shall cease to be in force in any area from such date as may be specified therein.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Definitions. —</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <blockList id="section-3.paragraph-0.list1">
+                <listIntroduction>In this Act, unless there is anything repugnant in the subject or context, —</listIntroduction>
+                <item id="section-3.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>“animal” means any domesticated animal or bird, or any animal or bird kept in confinement;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>“export” means to take out of the State of Maharashtra, otherwise than across a customs frontier;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>“import” means to bring into the State of Maharashtra, otherwise than across a customs frontier;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>“infective animal” means an animal which is affected with a scheduled disease or has recently been in contact with or in close proximity to an animal so affected;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>“Inspector” means an Inspector appointed under section 4;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>“prescribed” means prescribed by rules made under section 36;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>“rules” means rules made under section 36;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>“scheduled disease” means any disease specified in the Schedule to this Act;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>“transport” means to remove to one place from another place within the State of Maharashtra;</p>
+                </item>
+                <item id="section-3.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>“Veterinary Surgeon” means a Veterinary Surgeon appointed under section 4.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Appointment of Veterinary Surgeons and Inspectors. —</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government or the Commissioner in his division may, by notification in the Official Gazette, appoint a person to be Veterinary Surgeon for the purposes of this Act for such local area as may be specified in the notification and may specify the area within which he shall exercise the powers and perform the duties of the Veterinary Surgeon under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government or the Commissioner in his division may, by a similar notification in the Official Gazette, appoint a person to be an Inspector for all or any of the purposes of this Act and specify the area within which he shall exercise the powers and perform the duties of an Inspector under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>A Veterinary Surgeon shall, within the area for which he is appointed, exercise all the powers which an Inspector may exercise under this Act and may exercise such powers in addition to his powers as Veterinary Surgeon.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Veterinary Surgeons and Inspectors to be public servants. —</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Every Veterinary Surgeon and every Inspector appointed under this Act, shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (LXV of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+      </part>
+      <part id="part-II">
+        <num>II</num>
+        <heading>Eradication, Prevention and Control of Scheduled Diseases.</heading>
+        <section id="section-5A">
+          <num>5A.</num>
+          <heading>Eradication of diseases in certain areas. —</heading>
+          <subsection id="section-5A.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-5A.1.list1">
+                <listIntroduction>The State Government with the object of eradicating as far as practicable any scheduled disease, may be notification in the Official Gazette,</listIntroduction>
+                <item id="section-5A.1.list1.a">
+                  <num>(a)</num>
+                  <p>declare any local area to be an eradication area, and thereupon in such area any class or classes of animals specified in the notification shall be liable to be immunized in the manner described in the notification, and shall also for the purposes of identification be marked in the prescribed manner; and</p>
+                </item>
+                <item id="section-5A.1.list1.b">
+                  <num>(b)</num>
+                  <p>Prohibit or regulate the movement of any class or classes of animals into, or out of, or within, any local area which is for the time being declared to be as an eradication area.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-5A.2">
+            <num>(2)</num>
+            <content>
+              <p>For the purpose of immunizing any animal as provided in subsection (1) the Veterinary Surgeon or Inspector may by notice in writing served on any person, or published in any such local area or part thereof, in the manner prescribed, require any person or all persons, as the case may be, who own or are in charge of any such animal to produce the animal for immunization and marking at such time and place as is specified in the notice, and thereupon the person, or all persons, to whom the notice refers shall comply with the requisition, and shall also give all reasonable facilities and assistance for carrying out of the immunization and marking:</p>
+              <p>Provided that, on an application made by the owner, or any person having charge, of any animal required to be immunized and marked, the Veterinary Surgeon or Inspector may, for good and sufficient reason, exempt any animal from such immunization or marking and he shall, if so requested, furnish in writing to the owner, or person in charge, of such animal, the reason for such exemption.</p>
+              <p>Explanation. — "Immunization" for the purposes of this section means treatment with serum or vaccine, or with both vaccine and serum.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Power to prohibit or regulate import, export or transport of, holding of markets, fairs, etc. of and traffic in, infective animals, etc. —</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-6.1.list1">
+                <listIntroduction>The State Government or the Commissioner in his division may, for the purpose of preventing the outbreak or spread of any scheduled disease by notification in the Official Gazette, prohibit, control or regulate in such manner and to such extent as it or he may think fit:</listIntroduction>
+                <item id="section-6.1.list1.a">
+                  <num>(a)</num>
+                  <p>the import, export or transport of any animals, or the carcasses thereof, or of any part of animals or carcasses thereof or of any fodder, bedding or other thing used in connection with animals, which may, in the opinion of the State Government or Commissioner carry infection, or</p>
+                </item>
+                <item id="section-6.1.list1.b">
+                  <num>(b)</num>
+                  <p>the holding of animal markets, animal fairs, animal exhibitions or other concentration of animals in any specified area, or</p>
+                </item>
+                <item id="section-6.1.list1.c">
+                  <num>(c)</num>
+                  <p>the sale or other dealings in, infective animals or the carcasses of animals, which at the time of their death were infective, or any fodder, bedding or other thing used in connection which such animals which may, in the opinion of the State Government or Commissioner carry infection.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government or Commissioner may, by notification in the Official Gazette, specify the season or seasons during which and the route or routes by which animals may be imported into the State of Maharashtra, or as the case may be, into the division and no person shall import animals into the State of Maharashtra, or as the case may be, into the division otherwise than during the season and by the route so appointed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Establishment of quarantine stations. —</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government or the Commissioner in his division may establish quarantine stations for the inspection and detention of animals along the route appointed under sub-section (2) of section 6.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-7.2.list1">
+                <listIntroduction>All the animals inspected or detained at a quarantine station shall be liable —</listIntroduction>
+                <item id="section-7.2.list1.a">
+                  <num>(a)</num>
+                  <p>to be vaccinated against any scheduled disease if in the opinion of the officer in charge of such station it is necessary to do so; and</p>
+                </item>
+                <item id="section-7.2.list1.b">
+                  <num>(b)</num>
+                  <p>to be marked in the prescribed manner.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The period of detention of animals at a quarantine station for the purpose of inspection, vaccination and marking shall be as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.4">
+            <num>(4)</num>
+            <content>
+              <p>The animals detained at a quarantine station shall remain under the care of the person in charge who shall be responsible for their feeding and upkeep and for the payment of such fee for their vaccination and marking as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.5">
+            <num>(5)</num>
+            <content>
+              <p>The officer in charge of the quarantine station shall, at the time of the release of an animal from the station, grant in such form as may be prescribed a permit to the person in charge of the animal and such person shall, while in charge of the animal, produce it whenever required to do so by an Inspector or a Police Officer.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Power to isolate infective animals and their examination. —</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>When an Inspector has reason to believe that any animal is infective he may, by order in writing, direct the owner or person in charge of such animal to keep it where it is for the time being or to remove it or allow it to be removed to such place of isolation or segregation as may be specified in the order:</p>
+              <p>Provided that, where there is no person in charge of the animal and the owner is unknown, or where the order cannot be communicated to the owner of the animal without undue delay or where the person in charge of the animal refuses to comply with the order under this sub-section, the Inspector may seize the animal and remove it to a place of isolation or segregation.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The Inspector shall forthwith report to the Veterinary Surgeon every order or seizure under sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Power of Veterinary Surgeons to examine animals. —</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>On receipt of a report under sub-section (2) of section 8 the Veterinary Surgeon shall, as soon as practicable, examine the animal and all animals with which it has been in contact or to which it has been in close proximity, and for this purpose may submit any animal to any prescribed test.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-9.2.list1">
+                <listIntroduction>If after such examination the Veterinary Surgeon —</listIntroduction>
+                <item id="section-9.2.list1.a">
+                  <num>(a)</num>
+                  <p>is of opinion that any animal is not infective, the Inspector shall forthwith return it to the person who, in his opinion, is entitled to its possession:</p>
+                </item>
+              </blockList>
+              <blockList id="section-9.2.list3">
+                <listIntroduction>Provided that where such person cannot, in the opinion of the Inspector, be found after reasonable inquiry, he shall send the animal to the nearest cattle pound or deal with it in such other manner as may be prescribed,</listIntroduction>
+                <item id="section-9.2.list3.b">
+                  <num>(b)</num>
+                  <p>certifies in writing that any animal is affected with a scheduled disease the Inspector shall destroy the animal, or deal with it in such other manner as may be prescribed, or</p>
+                </item>
+                <item id="section-9.2.list3.c">
+                  <num>(c)</num>
+                  <p>certifies in writing that any animal is infective, though not diseased the animal shall be dealt with in such manner as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The decision of the Veterinary surgeon whether any animal has been in contact with or in close proximity to an animal suspected to be affected with a scheduled disease shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Compensation for animals destroyed. —</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>The owner of an animal destroyed under sub-section (2) of section 9 may be paid such compensation as shall be determined in the manner prescribed:</p>
+              <blockList id="section-10.1.list2">
+                <listIntroduction>Provided that no compensation shall be paid</listIntroduction>
+                <item id="section-10.1.list2.i">
+                  <num>(i)</num>
+                  <p>to any person convicted of any offence punishable under this Act committed in respect of such animal; or</p>
+                </item>
+                <item id="section-10.1.list2.ii">
+                  <num>(ii)</num>
+                  <p>in respect of any animal which, when it was imported, was effected with a scheduled disease on account of which it was destroyed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The decision under sub-section (1) regarding the right of a person to be paid any compensation or the amount of such compensation shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Declaration of private infected places and examination of such places by Veterinary Surgeon. —</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>If an Inspector has reason to believe that an infective animal is kept on any land, or in any building or other place he shall, forthwith, by order in writing, declare such land, building or place to be an infected place. The Inspector shall deliver a copy of the order to the owner, occupier or person in charge of the infected place and report his action to the Veterinary Surgeon.</p>
+              <p>Nothing in this sub-section shall apply to any place which is owned by or is under the control or management of, any local authority or a railway administration and in which animals are kept temporarily for purposes of sale or exhibition or while in transit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>On receipt of a report under sub-section (1), the Veterinary Surgeon shall, as soon as practicable, examine the infected place and the animals kept therein. After such examination, he shall either confirm or cancel the order passed by the Inspector.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>If the Veterinary Surgeon confirms the order passed by the Inspector, he may declare all places in which animals are kept, temporarily or otherwise, within a radius not exceeding one mile from the infected place, to be infected places. The Veterinary Surgeon shall give a written notice of such declaration to the owners, occupiers or persons in charge of such places. The Veterinary Surgeon shall thereafter report the action taken by him under this section to the prescribed authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>If the Veterinary Surgeon cancels the order passed by the Inspector, the place specified in such order shall cease to be an infected place and the Inspector shall give notice accordingly to the owner, occupier or person in charge of such place.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Declaration of public infected places. —</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Veterinary Surgeon has reason to believe that an infective animal is or has been kept in any place which is owned by or is under the control or management of any local authority or railway administration or a port authority and in which animals are kept temporarily for purposes of sale, or exhibition or while in transit, he may, by order in writing, declare such place to be an infected place.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-12.2.list1">
+                <listIntroduction>The Veterinary Surgeon shall —</listIntroduction>
+                <item id="section-12.2.list1.a">
+                  <num>(a)</num>
+                  <p>cause a copy of the order passed by him under sub-section (1) to be exhibited prominently in the infected place in the regional language of the locality;</p>
+                </item>
+                <item id="section-12.2.list1.b">
+                  <num>(b)</num>
+                  <p>cause a copy of such order to be delivered at the office of the local authority or to the station master of the nearest railway station or to the Officer in charge of the port of in charge of a shipping office at such port, as the case may be;</p>
+                </item>
+                <item id="section-12.2.list1.c">
+                  <num>(c)</num>
+                  <p>cause a copy of the order to be sent to the nearest police station; and</p>
+                </item>
+                <item id="section-12.2.list1.d">
+                  <num>(d)</num>
+                  <p>forthwith report the action taken by him to the prescribed authority.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Power of State Governments to declare infected areas. —</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>On receipt of the report of the Veterinary Surgeon under sub-section (3) of section 11 or sub-section (2) of section 12, the prescribed authority shall, after making such further inquiry as it thinks fit, submit such report with his remarks thereon, to the Commissioner concerned.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>The Commissioner on receipt of the report from the prescribed authority may- (a) confirm the declaration under sub-section (1) or (3) of section 11 or sub-section (1) of section 12 either with or without modification; or (b) cancel any such declaration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the Commissioner confirms any such declaration, either with or without modification, a notification shall be published in the Official Gazette defining the limits of the area to which the declaration, with the modifications, if any, made therein, shall apply and declaring such area to be an infected area.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.4">
+            <num>(4)</num>
+            <content>
+              <p>The Commissioner may by notification in the Official Gazette. add to, amend, vary or rescind any notification published under sub-section (3) either on his own motion or on a further report of the Veterinary Surgeon submitted to him through the prescribed authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.5">
+            <num>(5)</num>
+            <content>
+              <p>On publication of a notification under sub-section (3) or (4), any place declared by the Inspector or the Veterinary Surgeon to be an infected place and not included in the infected area as defined in such notification shall cease to be an infected place and the Inspector shall give notice accordingly to the owner, occupier or person in charge of such place.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.6">
+            <num>(6)</num>
+            <content>
+              <p>The Inspector shall cause to be exhibited in some prominent place in the infected area in the regional language thereof a copy of the notification issued under sub-section (3) or (4).</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.7">
+            <num>(7)</num>
+            <content>
+              <p>Where the Commissioner cancels any declaration referred to in sub-section (2), any place specified in such declaration shall cease to be an infected place and the Inspector shall give notice accordingly to all person to whom copies of such declaration were delivered or on whom notices of such declaration were served.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.8">
+            <num>(8)</num>
+            <content>
+              <p>The State Government may, subject to such conditions (if any) as it thinks fit, delegate all or any of its powers under this section to the Collector of a District; and thereupon all or, as the case may be, the relevant provisions of this section, shall apply in relation to such officer as they apply in relation to such officer as they apply in relation to the State Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Removal of animal and other things from infected area or place prohibited without license. —</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any area or place has been declared to be an infected area or place under the foregoing provisions, no person shall, while such a declaration remains in force, remove any infected animals, alive or dead, or any part of an animal, or any food, bedding or other thing used in connection with an animal, save in accordance with the conditions of a licence granted by the Inspector.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in sub-section (1) shall apply to the carriage by a railway of any animal or thing referred to in that sub-section through an infected area or place:</p>
+              <p>Provided that, where any such animal or thing while in transit through an infected area or place is unloaded therein, it shall not be removed therefrom save in accordance with the provisions of sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Power to require animals etc. to be brought to infected areas. —</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>Where any animals or thing referred to in section 14 is removed from an infected area or place otherwise than in accordance with the conditions of a licence granted under the said section 14, any Inspector or Police Officer may require the owner or person in charge of such animal or thing to take it back to such area or place:</p>
+              <p>Provided that, nothing in this section shall affect the powers of an Inspector under section 8 to deal with infective animals.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Cleansing and disinfection of vessels and vehicles. —</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Every vessel or vehicle used by a common carrier for the transport of animal shall be cleansed and disinfected by him at such periods and in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The person in charge of every such vessel or vehicle shall, when required to do so by an Inspector, cause the vessel or vehicle to be taken to such place as the Inspector may direct and to stop and remain stationary for so long as may reasonably be necessary for the purpose of enabling the Inspector to inspect such vessel or vehicle. The Inspector may, after such inspection, if in his opinion the vessel or vehicle is not in a sanitary condition, require it to be cleansed and disinfected in the prescribed manner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Nothing in this section shall apply to the rolling stock of any railway.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Power to require disinfection of infected premises, vessels or vehicles. —</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>Subject to such rules as may be prescribed, the Veterinary Surgeon may by order in writing, require the owner, occupier or person in charge of any land, building, or other place or of any vessel or vehicle in which an infective animal has been kept to have such land, building place, vessel or vehicle disinfected, and the internal fittings thereof and other things found therein or near thereto to be disinfected or destroyed in, such manner and to such extent as may be specified in the order.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power of Veterinary Surgeon to hold post-mortem. —</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>Subject to such rules as may be prescribed the Veterinary Surgeon may make or cause to be made a post mortem examination of any animal which at the time of its death was infective or is suspected to have been infective, and for this purpose he may cause the carcass of such animal to be exhumed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Duty of certain persons to report scheduled disease. —</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <p>Every owner or person in charge of, and every Veterinary practitioner who has been called to treat, an animal which he has reason to believe to be affected with a scheduled disease shall forthwith report the fact to the Inspector having jurisdiction in the area.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19A">
+          <num>19A.</num>
+          <heading>Duty of a person in charge to isolate infective animals. —</heading>
+          <paragraph id="section-19A.paragraph-0">
+            <content>
+              <p>Every owner, or person in charge of an animal which he has reason to believe to be affected with a scheduled disease shall keep that animal in a closed space separate from animals not so affected.</p>
+              <p>Explanation. — “Closed space” for the purposes of this section means any place, enclosed in such manner, and situated at such distance, as to effectively prevent any animal affected with a scheduled disease from coming into contact with any animal not so affected, or any animal not so affected from coming into contact with an animal so affected.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Keeping or grazing infective animals prohibited. —</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>No person shall keep or graze in open or unenclosed land to which other persons have a right of access for their animals, any animal which he knows to be infective.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Bringing of infective animals in market etc., prohibited. —</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>No person shall bring or attempt to bring into any market, fair, exhibition or other concentration of animals, any animal which he knows to be infective.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Placing of carcass of infective animals in river, etc., prohibited. —</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>No person shall place or cause or permit to be placed in any river, lake, canal or other water or in the sea within such distance from the shore, as may be prescribed, the carcass or any part of the carcass of any animal which at the time of its death was infective or which was destroyed on account of its being infective or suspected to be infective.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Disinterring without lawful authority carcass of animal prohibited. —</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>No person shall without lawful authority disinter or cause to be disinterred the carcass or any part of the carcass of any animal which, at the time of its death was infective or which was destroyed on account of its being infected or suspected to be infective.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Powers of entry and inspection. —</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Subject to such rules as may be prescribed, an Inspector may enter upon and inspect any land, building or other place or any vessel or vehicle for the purpose of exercising the powers and performing the duties conferred or imposed on him by or under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Enforcement of orders and recovery of expenses. —</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>Where by any notice, requisition, or order made under this Act or under any rule or notification issued thereunder, any person is required to take any measures or to do anything in respect of any property owned or occupied by him or in his charge, a reasonable time shall be specified in such notice, requisition or order within which such measures shall be taken or such things shall be done, as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>If such measures are not taken or such thing is not done within the time so specified, the authority issuing the notice, requisition or order may cause the measures to be taken or the thing to be done at the cost of the person concerned.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>The costs of any measures taken or thing done under sub-section (2) shall be recoverable from the person concerned in the manner provided by the Code of Criminal Procedure, 1898, for the recovery of fines imposed by a Court as if such costs were a fine imposed by a Court.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Power of Inspector to decide whether or not animal is infective. —</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>If any question arise under this Act whether or not an animal is an infective animal, the question shall be decided by the Veterinary Surgeon and his decision shall be final.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Penalties. —</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <blockList id="section-27.paragraph-0.list1">
+                <listIntroduction>Whoever—</listIntroduction>
+                <item id="section-27.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-27.paragraph-0.list1.a.list0">
+                    <item id="section-27.paragraph-0.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>fails to comply with or contravenes the terms of any notification issued under section 5A, or fails to carry out any requisition made, or directions given, by or under the said section, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>fails to carry out any direction specified in, or contravenes the terms of, any notification issued under section 6 or imports any animal in contravention of the provisions of sub-section (2) thereof, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>fails to feed or look after the upkeep of the animal under subsection (4) of section 7 or fails to produce the permit under sub-section (5) thereof, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.iv">
+                      <num>(iv)</num>
+                      <p>fails to comply with an order made by the Inspector under subsection (1) of section 8, or removes any animal or thing from an infected area or place in contravention of the provisions of section 14, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.v">
+                      <num>(v)</num>
+                      <p>fails to comply with any direction given by an Inspector or a Police Officer under section 15, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.vi">
+                      <num>(vi)</num>
+                      <p>fails to cleanse or disinfect any vessel, or vehicle used for removing animals in the manner prescribed as required under sub-section (1), or fails to cause any vessel or vehicle to stop and remain stationary when required to do so under sub-section (2), of section 16, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.vii">
+                      <num>(vii)</num>
+                      <p>fails to comply with an order made by a Veterinary Surgeon under section 17, or</p>
+                    </item>
+                    <item id="section-27.paragraph-0.list1.a.list0.viii">
+                      <num>(viii)</num>
+                      <p>fails to report that an animal is infective as required by section 19, or</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-27.paragraph-0.list3">
+                <listIntroduction>(viii-a) fails to keep an infective animal separate as required by section 19-A, or</listIntroduction>
+                <item id="section-27.paragraph-0.list3.ix">
+                  <num>(ix)</num>
+                  <p>keeps or grazes any animal which he knows to be infective in contravention of the provisions of section 20, or</p>
+                </item>
+                <item id="section-27.paragraph-0.list3.x">
+                  <num>(x)</num>
+                  <p>brings or attempts to bring any animal which he knows to be infective in contravention of the provisions of section 21, or</p>
+                </item>
+                <item id="section-27.paragraph-0.list3.xi">
+                  <num>(xi)</num>
+                  <p>disinters or causes to be disinterred the carcass or any part of the carcass of any animal which at the time of its death was infective or was destroyed on account of its being infective or suspected to be infective in contravention of the provisions of section 23,</p>
+                </item>
+              </blockList>
+              <p>shall, on conviction, be punished in the case of a first conviction with fine which may extend to one hundred rupees, and in the case of a second or subsequent conviction whether under the same or any other clause of this section, with simple imprisonment for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Penalty for placing carcass of infective animal in river, etc. —</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>Whoever places or causes or permits to be placed in any river, lake, canal or other water or in the sea within such distance from the shore, as may be prescribed the carcass or any part of the carcass of any animal which at the time of its death was infected or which was destroyed on account of its being infective or suspected to be infective, in contravention of the provisions of section 22 shall, on conviction, be punished, in the case of a first conviction with imprisonment for a term which may extend to six months or with fine which may extend to one hundred rupees or with both, and in the case of a subsequent conviction with imprisonment for a term which may extend to six months or with fine which may extend to five hundred rupees or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Penalty for vexatious entry, inspection and seizure. —</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>Whoever, being an Inspector or a Veterinary Surgeon, appointed under this Act, vexatiously and unnecessarily enters or inspects any land, building or other place or any place or any vessel or vehicle or seizes or detains any animal shall, on conviction, be punished with imprisonment for a term which may extend to six months or with fine which may extend to five hundred rupees or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>No prosecution under this section shall be instituted after the expiry of three months from the date on which the offence has been committed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Officers bound to assist Inspectors and Veterinary Surgeon. —</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <blockList id="section-30.paragraph-0.list1">
+                <listIntroduction>All village officers and all officers of the departments of revenue, agriculture and veterinary shall be bound—</listIntroduction>
+                <item id="section-30.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to give immediate information to the Veterinary Surgeon and Inspector having jurisdiction in the area regarding the prevalence of scheduled disease among animals in the area.</p>
+                </item>
+                <item id="section-30.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to take all necessary measures to prevent the spread of disease, and</p>
+                </item>
+                <item id="section-30.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to assist the Veterinary Surgeon and Inspector to carry out the provisions of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Powers of arrest and seizure. —</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>Any Police Officer, not below the rank of sub-inspector, may, without an order from a Magistrate and without a warrant, arrest any person for whose arrest a requisition has been received from an Inspector or a Veterinary Surgeon, provided that the requisition specifies the person to be arrested, and the offence punishable under this Act in which such person has been concerned.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>Such Police Officer may seize any animal in respect of which an offence has been committed, and shall without delay obtain the orders of a judicial Magistrate for its custody.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Jurisdiction of Magistrate. —</heading>
+          <paragraph id="section-32.paragraph-0">
+            <content>
+              <p>No Magistrate, other than the Presidency Magistrate, a Magistrate of the First Class or a Magistrate of the Second Class specially empowered in this behalf by the State Government shall try any offence punishable under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Bar of claim to compensation. —</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <p>No person shall except as provided in section 10 be entitled to any compensation on account of the destruction of any animal or thing under the provisions of this Act or of any loss, injury or inconvenience caused to him by reason of anything lawfully done under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Officers to act subject to orders of Government. —</heading>
+          <paragraph id="section-34.paragraph-0">
+            <content>
+              <p>All officers shall exercise the powers and perform the duties conferred and imposed on them by or under this Act in accordance with such orders, not inconsistent with the provisions of this Act, of the State Government may from time to time make.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Protection for action taken under this Act. —</heading>
+          <paragraph id="section-35.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act or the rules made under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Rules. —</heading>
+          <subsection id="section-36.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may make rules for the purpose of carrying into effect the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-36.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the foregoing provision, such rules may be made for all or any of the following matters, namely: —</listIntroduction>
+                <item id="section-36.2.list1.ai">
+                  <num>(ai)</num>
+                  <p>the manner of marking animals under sub-section (1), and the manner of serving or publishing notices under sub-section (2), of section 5A;</p>
+                </item>
+                <item id="section-36.2.list1.i">
+                  <num>(i)</num>
+                  <p>the manner of marking animals under sub-section (2), the period of detention under sub-section (3), the amount of fee for the vaccination and marking of animals under sub-section (4) and the form of permit under subsection (5), of section 7;</p>
+                </item>
+                <item id="section-36.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the test to which an animal may be submitted under sub-section (1), and the manner in which an animal may be dealt with under sub-section (2), of section 9;</p>
+                </item>
+                <item id="section-36.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>the manner in which the compensation shall be determined under section 10;</p>
+                </item>
+                <item id="section-36.2.list1.iv">
+                  <num>(iv)</num>
+                  <p>the authority to be prescribed for the purposes of sections 11, 12 and 13;</p>
+                </item>
+                <item id="section-36.2.list1.v">
+                  <num>(v)</num>
+                  <p>the periods at which and the manner in which the vessels and vehicles shall be cleansed and disinfected under section 16;</p>
+                </item>
+                <item id="section-36.2.list1.vi">
+                  <num>(vi)</num>
+                  <p>for disinfecting land, building or other place or vessel or vehicle under section 17;</p>
+                </item>
+                <item id="section-36.2.list1.vii">
+                  <num>(vii)</num>
+                  <p>the making of post-mortem examinations under section 18;</p>
+                </item>
+                <item id="section-36.2.list1.viii">
+                  <num>(viii)</num>
+                  <p>the distance from the shore within which carcasses shall not be placed under section 22;</p>
+                </item>
+                <item id="section-36.2.list1.ix">
+                  <num>(ix)</num>
+                  <p>for regulating the powers of an Inspector under section 24.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-36.3">
+            <num>(3)</num>
+            <content>
+              <p>In making a rule under sub-section (1) or sub-section (2), the State Government may provide that a breach thereof shall be punishable with fine which may extend in case of a first conviction to Rs.50 and in the case of a second or subsequent conviction to Rs.100.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.4">
+            <num>(4)</num>
+            <content>
+              <p>The rules made under this section shall, subject to the condition of previous publication, be published in the Official Gazette.</p>
+            </content>
+          </subsection>
+          <subsection id="section-36.5">
+            <num>(5)</num>
+            <content>
+              <p>All rules made under this section shall be laid for not less than thirty days before each House of the State Legislature as soon as possible after they are made, and shall be subject to such modifications as the State Legislature may make during the session in which they are so laid or the session immediately following.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Power of State Government to add to the Schedule. —</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>The State Government may, by notification in the Official Gazette, specify in the Schedule any disease affecting animals and on the issue of such notification, the Schedule shall be deemed to be amended by the inclusion of the said disease therein.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Repeal of C.P. and Berar (VI of 1934) and saving. —</heading>
+          <paragraph id="section-38.paragraph-0">
+            <content>
+              <blockList id="section-38.paragraph-0.list1">
+                <listIntroduction>On the commencement, by notification under sub-section (2) of section 2 of any of the provisions of this Act in the Vidarbha region of the State, the Central Provinces and Berar Cattle Diseases Act, 1934, in its application to that region shall stand repealed: Provided that, such repeal shall not affect</listIntroduction>
+                <item id="section-38.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>the previous operation of the Act so repealed; or</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the right or liability acquired or incurred under the Act so repealed; or</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>any penalty, forfeiture or punishment incurred in respect of any offence committed against any of the provisions of the Act so repealed; or</p>
+                </item>
+                <item id="section-38.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>any investigation, legal proceeding or remedy in respect of any such right, liability, penalty, forfeiture or punishment as aforesaid; and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if this Act has not commenced in that region.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </part>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedule">
+      <doc name="schedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-mah/act/1948/59/schedules"/>
+              <FRBRuri value="/in-mah/act/1948/59"/>
+              <FRBRalias value="Schedule"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-mah/act/1948/59/eng@2017-04-17/schedules"/>
+              <FRBRuri value="/in-mah/act/1948/59/eng@2017-04-17"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-mah/act/1948/59/eng@2017-04-17/schedules"/>
+              <FRBRuri value="/in-mah/act/1948/59/eng@2017-04-17"/>
+              <FRBRdate date="2017-04-17" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedule">
+            <subsection id="schedule.1">
+              <num>(1)</num>
+              <content>
+                <p>Rinderpest or cattle plague.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Foot and Mouth Disease.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.3">
+              <num>(3)</num>
+              <content>
+                <p>Hoemorrhagic Septicaemia.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.4">
+              <num>(4)</num>
+              <content>
+                <p>Blackquarter.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.5">
+              <num>(5)</num>
+              <content>
+                <p>Anthrax.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.6">
+              <num>(6)</num>
+              <content>
+                <p>Tuberculosis.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.7">
+              <num>(7)</num>
+              <content>
+                <p>Johne's Disease.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.8">
+              <num>(8)</num>
+              <content>
+                <p>Rabies.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.9">
+              <num>(9)</num>
+              <content>
+                <p>South African Horse Sickness.</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.10">
+              <num>(10)</num>
+              <content>
+                <p>Salmonellosis (that is to say, ‘Fowl Typhoid’ or ‘Pullorum Disease’)</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

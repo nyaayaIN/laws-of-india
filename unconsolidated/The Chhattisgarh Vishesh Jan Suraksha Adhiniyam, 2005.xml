@@ -1,0 +1,534 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-chg/act/2006/14/main"/>
+          <FRBRuri value="/in-chg/act/2006/14"/>
+          <FRBRalias value="The Chhattisgarh Vishesh Jan Suraksha Adhiniyam, 2005"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-chg/act/2006/14/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-chg/act/2006/14/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-chg/act/2006/14/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-chg/act/2006/14/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Chhattisgarh Vishesh Jan Suraksha Adhiniyam, 2005</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 14 OF 2006</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[21st March, 2006.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to provide for more effective prevention of certain unlawful activities of individuals and organizations and matter connected thereto.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by the Chhattisgarh legislature in Fifty-sixth year of Republic of India as follows:-</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Chhattisgarh Vishesh Jan Suraksha Adhiniyam, 2005 (No. 14 of 2006).</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to whole of Chhattisgarh.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force from the date of its publication in the Official Gazette.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“Advisory Board” means the board constituted under section 5;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Organization” means any combination, body or group of persons whether known by any distinctive name or not and whether registered under any relevant law or not and whether governed by any written constitution or not;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“Government” means the State Government;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>“Notification” means notification published in the Chhattisgarh Gazette and the word “Notified” shall be construed accordingly;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-2.paragraph-0.list1.e.list0">
+                  <listIntroduction>“Unlawful Activity” in relation to and individual or organization means any action taken by such individual or organization whether by committing an act or by words either spoken or written or by signs or by visible representation or otherwise;</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.e.list0.i">
+                    <num>(i)</num>
+                    <p>which constitute a danger or menace to public order, peace and tranquility; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.ii">
+                    <num>(ii)</num>
+                    <p>which interferes or tends to interfere with maintenance of public order; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.iii">
+                    <num>(iii)</num>
+                    <p>which interferes or tends to interfere which the administration of law or its established institutions and personnel; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.iv">
+                    <num>(iv)</num>
+                    <p>which is designed to overawe by criminal force or show of criminal force or otherwise to any public servant including the force of the State Government or the Central Government in the exercise of the lawful powers of such public servant; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.v">
+                    <num>(v)</num>
+                    <p>of indulging in or propagating acts of violence, terrorism, vandalism or other acts generating fear and apprehension in the public or indulging in or encouraging the use of firearms, explosives and other devices or disrupting communications by rail or road; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.vi">
+                    <num>(vi)</num>
+                    <p>of encouraging or preaching disobedience to established law and its institutions; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list0.vii">
+                    <num>(vii)</num>
+                    <p>of collecting money or goods forcibly to carry out any one or more of the unlawful activities mentioned above;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“Unlawful Organization” means any organization which indulges in or has for its object, abets or assets or gives aid, succor or encouragement directly or indirectly, through any medium device or otherwise to any unlawful activity.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Declaration of an organization as unlawful.-</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>If the Government is of opinion that any organization is, or has become an unlawful organization, it may be notification, declare such organization to be unlawful.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>Every such notification shall specify the grounds on which it is issued:</p>
+            <p>Provided that nothing in this sub-section shall require the Government to disclose any fact which it considers to be against the public interest to disclose.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>Where such unlawful organization has a registered office, the notification shall be served by sending the same through Registered Post or by handing over to any office bearer in such registered office any in case any office bearer is not available or refuses to receive the notification, the same shall be affixed to some conspicuous part of the office; and where the organization does not have a registered office the notification shall be published in any one local newspaper.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <p>The notification shall be in force for a period of one year and may be extended for such further period or periods not exceeding one year at a time, as may be deemed necessary after reviewing the position.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>The notification issued under sub-section (1) may be revoked by the Government where it considers that the need of its continuance has ceased.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Representation by Organization.-</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>Any organization declared to be unlawful may, if it so chooses, send a representation to the Government within fifteen days from the date of publication of the notification or the date of receipt or affixture thereof, in the manner specified in Section 3, whichever is later and such representation shall be placed before the Advisory Board for its consideration. The Organization may if it so desires request for a personal hearing before the Advisory Board.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Constitution and reference to the Advisory Board.-</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-5.1.list0">
+              <item id="section-5.1.list0.a">
+                <num>(a)</num>
+                <p>The State Government shall whenever necessary constitute an Advisory Board for the purpose of this Act.</p>
+              </item>
+              <item id="section-5.1.list0.b">
+                <num>(b)</num>
+                <p>The Advisory Board shall consist of three persons who are or have been or qualified to be appointed as judges of the High Court. The Government shall appoint the members and designate one of them as the Chairman.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>The Government shall within six weeks from the date of publication of the notification under sub-section (1) of section 3 make a reference to the Advisory Board and place before it a copy of the notification, supporting material and the representation, if any, received from the unlawful organization for its consideration.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Procedure of the Advisory Board.-</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>The Advisory Board shall after considering the material placed before it and after calling for further information, if necessary, from the Government or from any office bearer or members of the organization concerned and after giving an opportunity of personal hearing to the authorized office bearer of the organization, shall submit its report to the Government within three months from the date of receipt of reference from the Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Where the organization seeks personal hearing, an intimation specifying the date and time of hearing shall be sent to the address indicated in the representation of the organization. The concerned organization shall not be entitled to appear through a lawyer or any person other than an authorized office bearer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>The report of the Advisory Board shall specify in a separate part thereof its opinion as to whether or not there was sufficient cause for the issuance of the notification in respect of the organization concerned.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Action upon the report of the Advisory Board.-</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>In any case where the Advisory Board has reported that there is, in its opinion sufficient cause for the issuance of the notification declaring the concerned organization as unlawful the Government may confirm the notification and continue the same for such period as it thinks fit, subject to the provisions of sub-section (4) of section 3.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>In any case where the Advisory Board has reported that there is, in its opinion no sufficient cause for the issuance of a notification as aforesaid the Government shall revoke the notification forthwith.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Penalties.-</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>Whoever is member of an unlawful organization or takes part in meetings or activities of any such organization or contributes or receives or solicits any contribution for the purpose of any such organization shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>Whoever not being a member of an unlawful organization in any manner contributes or receives or solicits any contribution or aid for such organization or harbours any member of such be punished with imprisonment for a term which may extend to two years and shall also be liable to fine.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>Whoever manages or assists in the management of an unlawful organization or promotes or assists in promoting a meeting of any such organization or any member thereof, or in any way indulges in any unlawful activity of such organization in any manner or through whatever medium or device shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.4">
+          <num>(4)</num>
+          <content>
+            <p>No police officer shall investigate any crime under sub-section (1) and (2) of this section, until the Superintendent of Police of the District concerned has not granted him a clear permission thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.5">
+          <num>(5)</num>
+          <content>
+            <p>Whoever commits or abets or attempts to commits or plans to commit any unlawful activity in any specified area shall be punished with imprisonment for a term which may extend to seven years and also be liable to fine.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Powers to notify and take possession of places used for the purpose of unlawful activities.-</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>The District Magistrate may notify any place which in his opinion is used for the actives of an unlawful organization.</p>
+            <p>Explanation.-</p>
+            <p>For the purpose of this section, place includes a house or building or part thereof or tent or a vessel.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>When any place is notified under sub-section (1) the District Magistrate of any officer authorized in this behalf in writing by him may take possession of the notify place and evict therefrom any person found therein, and the District Magistrate shall forthwith make a report of the taking of possession to the Government:</p>
+            <p>Provided that where such place contains any apartment occupied by women or children, reasonable time and facilities shall be provided for their withdrawal with least possible inconvenience.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>A notified place whereof possession is taken under sub-section (2) shall remain in the possession of the Government as long as the notification under section 3 in respect of such unlawful organization remain in force or for such earlier period as the Government decides.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Movable property found in the notification.-</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>The District Magistrate or the officer authorized by him while taking possession of notified place shall also take possession of movable property including money, securities or other assets found therein and shall make a list thereof in the presence of two respectable witnesses.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>If in the opinion of the District Magistrate any article specified in the list is or may be used for or in aid of the purposes of the unlawful organization he may proceed, subject to the provisions hereinafter contained in this section, to order such articles to be forfeited to the Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>All other articles specified in the list shall be delivered to the person whom the District Magistrate considers to be entitled to possession thereof and if no such person is found entitled thereto, it shall be disposed of in such manner as he may direct.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>The District Magistrate shall publish a notice in two local newspapers one of which in is Hindi language and shall also affix a copy of such notice on the conspicuous part of the place where from such property was taken possession of specifying the articles which are proposed to be forfeited and calling upon any person claiming; that any article, is not liable for forfeiture to submit in writing within fifteen days from the date of publication of notice any representation he desires to make against forfeiture of the article.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.5">
+          <num>(5)</num>
+          <content>
+            <p>The District Magistrate shall consider the representation and pass such orders as he deems fit. If the decision is to forfeit the article he shall give reasons therefore.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.6">
+          <num>(6)</num>
+          <content>
+            <p>Against any order of forfeiture passed under sub-section (5) the person who made the representation may file an appeal to the Government within thirty days from the date of receipt of the order. The Government may pass such orders thereon as it deems tit after giving an opportunity to the appellant. Such order of the Government shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.7">
+          <num>(7)</num>
+          <content>
+            <p>The Government may, in its discretion at any time, suo moto call for and examine the records of any order passed by the District Magistrate under sub-section (5) for the purpose of satisfying itself as to the legality, correctness or propriety thereof and pass any order with reference thereto as it may deem fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.8">
+          <num>(8)</num>
+          <content>
+            <p>If the article seized is livestock or is of a perishable nature, the District Magistrate, may if he thinks if expedient order the immediate sale thereof any the proceeds of the sale shall be disposed of in the manner herein provided for the disposal of the other articles.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Powers to forfeit funds of an unlawful organization.-</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>Where the Government is satisfied, after such enquiry as it may think fit, that any moneys, securities or other assets are being used or intended to be used for the purpose of an unlawful organization the Government may, by order in writing, declare such money, securities or other assets to whomsoever they belong to be forfeited to Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>A copy of an order under sub-section (1) may be served on the person having custody of the money, securities or other assets and on the service of such copy such person shall pay or deliver the moneys, securities or other assets to the officer as specified in the order of the Government:</p>
+            <p>Provided that in the case of money or securities, a copy of the order may be endorsed for execution to such officers as the Government may select and such officer shall have power to enter upon and search for such moneys and securities in any premises where they may reasonably be suspected to be and to seize the same.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.3">
+          <num>(3)</num>
+          <content>
+            <p>Before an order of forfeiture is made under sub-section (1), Government shall give a written notice to the person, if any in whose custody the moneys, securities or others assets are found of its intention to forfeit and such person may make a representation to the Government against the proposed order of forfeiture within fifteen days of the receipt of the notice. The Government shall after considering the representation, if any, received from the affected person pass such orders as it deems fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.4">
+          <num>(4)</num>
+          <content>
+            <p>Where the Government has reason to believe that any person has custody of any moneys, securities or other assets which are being used or are intended to be used for the purpose of an unlawful organization, the Government may, by order in writing, prohibit such person from paying, delivering, transferring or otherwise dealing in any manner whatever with the same, save in accordance with the written orders of the Government. A copy of such order shall be served upon the person to whom it is directed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.5">
+          <num>(5)</num>
+          <content>
+            <p>The Government may endorse a copy of an order under sub-section (4) for investigation to any officer it may select, and such copy shall be deemed to be warrant where under such officer may enter upon any premises of the person to whom the order is directed, examine the books of such person or any officer, agent or servant or such person, search for moneys and securities and make inquiries from such person touching the origin of and dealings in any moneys, securities or other assets which the investigating officer may suspect are being used or are any intended to be used for the purpose of an unlawful organization.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.6">
+          <num>(6)</num>
+          <content>
+            <p>A copy of an order under this section may be served in the manner provided in the Code of Criminal Procedure, 1973 (No. 2 of 1974) for the service of summons, or where the person to be served is a Corporation, Company, Bank or Organization of persons, it may be served on any Secretary, Director or other officer or person concerned with the management thereof, or by leaving it with or sending it by post addressed to the Corporation, Company, Bank of Organization at its registered office, or where there is registered office, at the place where it carries on business. Where the Government is satisfied that in the circumstances it is not reasonably practicable to follow such procedure, it may cause the order to be published in the local newspaper.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.7">
+          <num>(7)</num>
+          <content>
+            <p>Where an order of forfeiture is made under sub-section (1) in respect of any moneys, securities of other assets in respect of which a prohibitory order has been made under sub-section (4), such order of forfeiture shall have effect from the date of the prohibitory orders, and the person to whom the prohibitory order was directed shall pay or deliver the whole of the moneys, securities, or other assets forfeited, to the officer specified in the order of the Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.8">
+          <num>(8)</num>
+          <content>
+            <p>Where any person liable under this section to pay or deliver any moneys, securities or other assets upon the order of the Government refuses, or fails to comply with an direction of the Government in this behalf, the Government may recover from such person, as arrears of land revenue or as a fine, the amount of such moneys or other financial assets or the market value of such securities.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.9">
+          <num>(9)</num>
+          <content>
+            <p>In this section, security includes a document whereby any person acknowledges that he is under a legal liability to pay money, or where under any person obtains a legal right to the payment of money and the market value of any security means the value as fixed by an officer or person deputed by the Government in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.10">
+          <num>(10)</num>
+          <content>
+            <p>Except so far as in necessary for the purpose of any proceeding under this section, no information obtained in the course of any investigation made under sub-section (5) shall be divulged by any officer of Government without the consent of the Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.11">
+          <num>(11)</num>
+          <content>
+            <p>The Government may by order, delegate its powers under this section to any officer not below the rank of a District Magistrate and likewise withdraw the same.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.12">
+          <num>(12)</num>
+          <content>
+            <p>The Government may, in its discretion at any time, either suo moto or on an application made by the person who made the representation, call for an examine the records of any order passed by the District Magistrate under sub-¬section (11) for the purpose of satisfying itself as to the legality, correctness or propriety thereof and pass such orders in reference there to as it may deems fit:</p>
+            <p>Provided that no order under sub-section shall be passed by the Government unless the party likely to be affected thereby has had an opportunity of making a representation.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Revision.-</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>An application for revision shall lie to the High Court against any order passed by the Government under sub-section (1) of section 7 as confirming the notification issued under sub-section (1) of section 3 or against any order passed under sub-section (4) of section 3 extending the period of notification or against any order of forfeiture under sub-section (1) of section 11 questioning the legality, correctness or propriety thereof.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>A revision petition under this section shall be filed within a period of thirty day from the date of receipt of the order of the Government referred to in sub-section (1).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Trespass upon notified places.-</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>Any person who enters or remains upon a notified place without the permission of the District Magistrate or of an officer authorized in this behalf by the District Magistrate shall be deemed to commit an offence of criminal trespass.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Bar of jurisdiction.-</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>Save as otherwise expressly provided in this Act an without prejudice to the jurisdiction and powers of the Supreme Court and High Court under the Constitution of India, no proceedings taken under this Act by the Government or by the District Magistrate or any officer authorized in this behalf by the Government or the District Magistrate shall be called in question in any court in any suit or proceedings or application or by way of appeal or revision and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any powers conferred by or under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Protection of action taken in good faith.-</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>No civil or criminal proceeding shall be instituted against any person for anything done in good faith or intended to be done under this Act or against the Government or any person acting on behalf of or by the authority of the Government or any person acting on behalf of or by the authority of the Government for any loss or damage caused to or in respect of any property, whereof possession has been taken by the Government under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Cognizance and investigation of offences.-</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <p>All offences under this Act shall he cognizable and non-bailable.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <p>All offences under this Act shall he investigated by the Police Officer not below the rank of Inspector.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.3">
+          <num>(3)</num>
+          <content>
+            <p>Offences under this Act committed or abetted or attempted or designed to be committed shall only be registered under the written permission by the Superintendent of Police of that district.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.4">
+          <num>(4)</num>
+          <content>
+            <p>No court shall take cognizance of any such offence except on the report of District Magistrate of that area or district.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Constitution of Organization.-</heading>
+        <paragraph id="section-17.paragraph-0">
+          <content>
+            <p>An organization shall not be deemed to have ceased to exist by reasons only of any formal act of dissolution or change of title by any oral or written declaration but shall be deemed to exist so long as such organization or any member thereof is actually engaged in or continuing in any manner any unlawful activity.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power to make rules.-</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The Government may, by notification, make rules for carrying out all or any of the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>All rules made under this Act shall be laid on the table of the Legislative Assembly.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

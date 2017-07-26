@@ -1,0 +1,685 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-hmp/act/1970/8/main"/>
+          <FRBRuri value="/in-hmp/act/1970/8"/>
+          <FRBRalias value="The Himachal Pradesh Habitual Offenders Act, 1969"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-hmp/act/1970/8/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-hmp/act/1970/8/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-hmp/act/1970/8/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-hmp/act/1970/8/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preamble>
+      <p>The Himachal Pradesh Habitual Offenders Act, 1969</p>
+      <p>Act No. 08 of 1970</p>
+      <p>An Act to make better provision for the treatment and training of habitual offenders, and for certain other matters.</p>
+      <p>Be it enacted by the Legislative Assembly of Himachal Pradesh in the Twentieth Year of the Republic of India as follows:</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.-</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Himachal Pradesh Habitual Offenders Act, 1969.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Himachal Pradesh.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force at once.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.-</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>"Code" means the Code of Criminal Procedure, 1898 (5 of 1898);</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>"corrective settlement" means any place established, approved or certified as a corrective settlement under section 14;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"District Magistrate" means a District Magistrate appointed under section 10 of the Code;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-2.paragraph-0.list1.d.list0">
+                    <listIntroduction>"habitual offender" means any person who since his attaining the age of eighteen years,-</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.d.list0.i">
+                      <num>(i)</num>
+                      <p>during any consecutive period (whether before or after the commencement of this Act, or partly before and partly after such commencement) of five years, has been sentenced on conviction, on not less than three occasions, to a substantive term of imprisonment for one or more of the scheduled offences committed on separate occasions, being offences which are not so connected together as to form parts of the same transaction; and</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>Such sentence has not been reversed in appeal or revision:</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-2.paragraph-0.list3">
+                <listIntroduction>Provided that in computing the consecutive period of five years aforesaid, any period spent in jail either under a sentence of imprisonment or under detention shall not be taken into account;</listIntroduction>
+                <item id="section-2.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <p>"Government" means the Government of Himachal Pradesh;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.f">
+                  <num>(f)</num>
+                  <p>"notification" means a notification published in the Official Gazette, under the proper authority;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.g">
+                  <num>(g)</num>
+                  <p>"Official Gazette" means the Rajpatra, Himachal Pradesh;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.h">
+                  <num>(h)</num>
+                  <p>"prescribed" means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>"registered offender" means a habitual offender registered or re-registered under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.j">
+                  <num>(j)</num>
+                  <p>"scheduled offence" means an offence specified in the Schedule or an offence analogous thereto;</p>
+                </item>
+                <item id="section-2.paragraph-0.list3.k">
+                  <num>(k)</num>
+                  <p>"Superintendent of Police" means the Superintendent of Police and includes any person appointed by the Government to perform the duties of a Superintendent of Police under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Words and expressions used but not defined in this Act shall have the meanings assigned to them in the Code.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Registration of Habitual Offenders and Restriction of Their Movements</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Power of Government to direct registration of habitual offenders.-</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>The Government may direct the District Magistrate to make or cause to be made a register of habitual offenders within his district, by entering therein the names and other prescribed particulars of such offenders.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Procedure for preparing a register of habitual offenders.-</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <blockList id="section-4.paragraph-0.list1">
+                <listIntroduction>For the purpose of carrying out the direction given under section 3, the District Magistrate or any officer appointed by him in this behalf shall, by notice in the prescribed form to be served in the prescribed manner, call upon every habitual offender in the district,-</listIntroduction>
+                <item id="section-4.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>to appear before him at a time and place specified in the notice;</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>to furnish such information as may be necessary to enable him to enter the name and other prescribed particulars of the habitual offender in the register; and</p>
+                </item>
+                <item id="section-4.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>to allow the finger and palm impression, footprints and photographs of the habitual offender to be taken:</p>
+                </item>
+              </blockList>
+              <p>Provided that the name and other prescribed particulars of a habitual offender shall not be entered in the register, unless he has been given reasonable opportunity of showing cause why such entry should not be made.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Charge of Register and alterations therein.-</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The register shall be placed in the keeping of the Superintendent of Police of the district who shall, from time to time, report to the District Magistrate, any alterations which ought, in his opinion, to be made therein.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>After the register has been placed in the keeping of the Superintendent of Police, no fresh entry shall be made in the register, nor shall any entry be cancelled, except by or under, an order in writing of the District Magistrate.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Powers to take finger and palm impressions, footprints and photographs at any time.-</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>The District Magistrate or any officer appointed by him in this behalf, may at any time order the finger and palm impressions, footprints and photographs, of any registered offender to be taken.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Registered offenders to notify change of residence and to report themselves.-</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>Every registered offender shall notify to such authority, and in such manner, as may be prescribed, any change or intended change of his ordinary residence:</p>
+              <p>Provided that where such offender changes, or intends to change, his ordinary residence to another district (whether within the State of Himachal Pradesh or not) he shall notify the change or intended change to the District Magistrate.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-7.2.list1">
+                <listIntroduction>The District Magistrate may by order in writing, direct that any registered offender shall,-</listIntroduction>
+                <item id="section-7.2.list1.a">
+                  <num>(a)</num>
+                  <p>report himself once in each month, or where the District Magistrate for reasons specified in the order so directs, more frequently to such authority, and in such manner, as may be specified in the order; and</p>
+                </item>
+                <item id="section-7.2.list1.b">
+                  <num>(b)</num>
+                  <p>notify any absence or intended absence from his ordinary residence to the aforesaid authority:</p>
+                </item>
+              </blockList>
+              <p>Provided that the District Magistrate may exempt any such offender from notifying any absence or intended absence from his ordinary residence for such period, and under such conditions, as appear to him reasonable.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Procedure by District Magistrate on change of residence of habitual offender to other district.-</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>Where any registered offender changes his ordinary residence to another district within the State of Himachal Pradesh, the District Magistrate of the district in which the offender is registered shall inform the District Magistrate of the other district of such change, and at the same time furnish him with the name and other particulars relating to the registered offender in the register.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>On the receipt of such information, the District Magistrate of the other district shall enter in his register the name and other particulars of the registered offender furnished to him, and inform the District Magistrate of the first district of such registration, and thereupon such District Magistrate shall cancel from his register the entry relating to that offender:</p>
+              <p>Provided that where a registered offender changes his ordinary residence to another district outside the State of Himachal Pradesh the District Magistrate of the first district shall, while furnishing the District Magistrate of the other district with the name and other particulars of the registered offender make a request to that District Magistrate that he may be informed of the steps, if any , which may have been taken in relation to the offender under any law for the time being in force in that other district; and upon the receipt of such information the District Magistrate of the first district shall cancel from register entry relating to that offender.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>Upon the entry of the name and other particulars of a registered offender in any register in State of Himachal Pradesh under subsection (2), the provisions of this Act and the rules made thereunder shall apply to him as if he has been registered, in pursuance of a direction given under section 3, in the register of the district to which he has changed his ordinary residence.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Duration of registration and re-registration of habitual offenders.-</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of subsection (3), the registration of a habitual offender under this Act shall, unless earlier cancelled, cease to be in force on the expiry of five years from the date of such registration, and on such cancellation or expiry the habitual offender shall cease to be a registered offender.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding the cancellation, or expiry of duration of registration, a habitual offender may be re-registered in accordance with the provisions of this Act relating to registration, as often as he is convicted of one or more of the scheduled offences at any time after such concellation, or expiry; and subject to the provisions of subsection (3), the re-registration shall, unless earlier cancelled, cease to be in force on the expiry of five years from the date of such re-registration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>Where a registered offender is, during the period of registration or re-registration, convicted of one or more of the scheduled offences and sentenced to a substantive term of imprisonment, the duration of registration or re-registration shall be extended for a period of five years form the date of his release from such imprisonment.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Right to make representations against re-registration etc.-</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person aggrieved by the registration or re-registration of his name under section 4, or as the case may be, section 9 or by an order under subsection (2) of section 7, may within the prescribed period make a representation to the Commissioner against such registration, re-registration or orders.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The Commissioner shall, after considering the representation, and giving the aggrieved person an opportunity of being heard, either confirm or cancel the registration, re-registration or order, as the case may be, and shall in the case of confirmation record, a brief statement of the reasons therefor.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Power to restrict movements of registered offenders.-</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>If in the opinion of the Government it is necessary or expedient in the interests of the general public so to do, the Government may, subject to the provisions of subsection (4), by order direct that any registered offender shall be restricted in his movements to such area, and for such period not exceeding three years as may be specified in the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-11.2.list1">
+                <listIntroduction>Before making any such order the Government shall take into consideration the following matters, that is to say,-</listIntroduction>
+                <item id="section-11.2.list1.a">
+                  <num>(a)</num>
+                  <p>the nature of the offences of which the registered offender has been convicted and the circumstances in which the offences were committed;</p>
+                </item>
+                <item id="section-11.2.list1.b">
+                  <num>(b)</num>
+                  <p>whether the registered offender follows any lawful occupation, and whether such occupation is conducive to an honest and settled way of life and is not merely a pretence for the purpose of facilitating the commission of crime;</p>
+                </item>
+                <item id="section-11.2.list1.c">
+                  <num>(c)</num>
+                  <p>the suitability of the area to which his movements are to be restricted; and</p>
+                </item>
+                <item id="section-11.2.list1.d">
+                  <num>(d)</num>
+                  <p>the manner in which the registered offender may earn his living within the restricted area and the adequacy of arrangements which are or are likely to be, available therefor.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>A copy of the order shall be served on the registered offender in the prescribed manner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>The period specified in an order under subsection (1) shall in no case extend beyond the period of registration or re-registration, as the case may be, referred to in section 9.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Power to cancel or alter restrictions of movements.-</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The Government may, by order, cancel any order made under section 11, or alter any area specified in an order under that section:</p>
+              <p>Provided that before making such order, the Government shall consider the matter referred to in subsection (2) of section 11 in so far as they may be applicable.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Powers under sections 11 and 12 also exercisable by certain Magistrates.-</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of subsection (3), the powers of the Government under sections 11 and 12 may be exercised also by a Magistrate having power to act under section 110 of the Code, but without prejudice to the exercise of his powers under that section of the Code.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>A Magistrate acting under section 11 or 12 shall follow, as nearly as may be, the procedure laid down in sections 112, 113, 114, 115 and 117 of the Code for an order requiring security for good behaviour:</p>
+              <p>Provided that the order in writing referred to in section 112 of Code shall, in addition to setting forth the substance of the information received, state the term, not exceeding three years, during which the order of restriction shall be in force.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.3">
+            <num>(3)</num>
+            <content>
+              <p>Where the Government has already made an order under section 11 in respect of a habitual offender, the Magistrate shall not exercise any powers conferred by this section in respect of the same habitual offender, during any period in which the order of the Government is in force.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Corrective Training of Habitual Offenders</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Establishment of corrective settlements.-</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of placing therein such habitual offenders as are directed to receive corrective training under this Act, the Government may, by notification in the Official Gazette, establish and maintain in the State of Himachal Pradesh as many corrective settlements as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The Government may also approve or certify any privately managed institution (whether known as a settlement or otherwise) as a corrective settlement for the purposes of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Power to direct habitual offenders to receive corrective training.-</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>Where the Government is satisfied from the report of the District Magistrate or otherwise that it is expedient with a view to the reformation of a registered offender and the prevention of crime, that the registered offender should receive training of a corrective character for a substantial period, the Government may by order in writing direct that the registered offender shall receive training of a corrective character for such period not exceeding the duration of his registration or re-registration as may be specified in the order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-15.2.list1">
+                <listIntroduction>Where a habitual offender, who is not more than forty years of age,-</listIntroduction>
+                <item id="section-15.2.list1.a">
+                  <num>(a)</num>
+                  <p>is convicted of any offence punishable with imprisonment, or</p>
+                </item>
+                <item id="section-15.2.list1.b">
+                  <num>(b)</num>
+                  <p>is required in pursuance of section 110 of the Code to execute a bond for his good behaviour, and the court or the Magistrate is satisfied from the evidence in the case and other materials on record that it is expedient with a view to his reformation and the prevention of crime, that he should receive training of a corrective character for substantial period, the court or the Magistrate may, in lieu of sentencing him for such offence or, as the case may be, requiring him to execute such bond, direct that he shall receive corrective training for such term of not less than two or more than five years, as the court or the Magistrate may determine.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-15.3.list1">
+                <listIntroduction>Before giving any direction under subsection (1) or subsection (2) the Government, the court or the Magistrate, as the case may be, shall,-</listIntroduction>
+                <item id="section-15.3.list1.a">
+                  <num>(a)</num>
+                  <p>consult the officer prescribed on the capacity of the corrective settlements to receive the habitual offender;</p>
+                </item>
+                <item id="section-15.3.list1.b">
+                  <num>(b)</num>
+                  <p>take into consideration the physical and mental condition of the offender, and the suitability for receiving corrective training in a corrective settlement; and</p>
+                </item>
+                <item id="section-15.3.list1.c">
+                  <num>(c)</num>
+                  <p>give a reasonable opportunity to the offender to show cause why such direction should not be given.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-15.4">
+            <num>(4)</num>
+            <content>
+              <p>A habitual offender, in respect of whom a direction to recieve corrective training has been made, shall be placed in a corrective settlement for the term of his training, and while in such settlement shall be treated in such manner and receive such training as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Power to transfer or discharge from corrective settlement.-</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>The Government or any officer authorised by it in this behalf, may at any time by order in writing direct any habitual offender who may be in a corrective settlement to be transferred to another corrective settlement to be discharged therefrom, and accordingly he shall be so transferred or, as the case; may be, discharged.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Penalties and Procedure</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Penalty for failure to comply with certain provisions of the Act.-</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <blockList id="section-17.paragraph-0.list1">
+                <listIntroduction>A habitual offender who without lawful excuse, the burden of proving which shall lie upon him,-</listIntroduction>
+                <item id="section-17.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>fails to appear in compliance with a notice issued under section 4; or</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>intentionally omits to furnish any information required under that section or furnishes as true any information which he knows, or has reasons to believe to be false or does not believe to be true; or</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>refuses to allow his finger and palm impression, footprints and photographs to be taken by any person acting under an order passed under section 6; or</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-17.paragraph-0.list1.d.list0">
+                    <listIntroduction>fails to comply with the provision of subsection (1) of section 7 or with an order of the District Magistrate under subsection (2) thereof or with an order under section 11; may be arrested without warrant, and shall be punished,-</listIntroduction>
+                    <item id="section-17.paragraph-0.list1.d.list0.i">
+                      <num>(i)</num>
+                      <p>on first conviction, with imprisonment for a term which may extend to six months or with fine which may extend to two hundred rupees, or with both, and</p>
+                    </item>
+                    <item id="section-17.paragraph-0.list1.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>on a second or subsequent conviction, with imprisonment for a term which may extend to one year or with fine which may extend to five hundred rupees, or with both:</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <p>Provided that, if the Court, after taking into consideration the offender's age and physical and mental condition and his suitability for receiving training of a corrective character in a corrective settlement, is satisfied that it is expedient with a view to his reformation and the prevention of crime, that he should receive training of a corrective character for a substantial period the court may, in lieu of sentencing the offender to any punishment under this section, direct, after giving him an opportunity of showing cause (and after consulting the officer prescribed on the capacity of the corrective settlements to receive him) that he shall receive corrective training in a corrective settlement for such term not exceeding three years, as it may determine.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Arrest of persons found outside restricted area or corrective settlement.-</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <blockList id="section-18.paragraph-0.list1">
+                <listIntroduction>If any person,-</listIntroduction>
+                <item id="section-18.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>is found outside the areas to which his movements have been restricted in contravention of the conditions under which he is permitted to leave such area; or</p>
+                </item>
+                <item id="section-18.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>escapes from any corrective settlement in which he is placed, he may be arrested without warrant by a police officer and taken before a Magistrate who on proof of the facts, may order him to be removed to such area or to such corrective settlement, there to be dealt with in accordance with this Act and rules made thereunder.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Enhanced punishment for certain previously convicted persons.-</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>Whoever, being a person in respect of whom a direction has been made under section 11 or section 15, and having been convicted of any of the scheduled offences, falling under Part I of the schedule, is convicted of the same or of any other scheduled offence falling in that part shall, on conviction, be punished with imprisonment for life or with imprisonment for a term which may extend to ten years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this section shall affect the liability of such person to any further or other punishment to which he may be liable under the Indian Penal Code (45 of 1860), or any other law.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Punishment for certain registered offenders found under suspicious circumstances.-</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <blockList id="section-20.paragraph-0.list1">
+                <listIntroduction>Whoever, being a person in respect of whom a direction has been made under section 11 or section 15, is found in any place under such circumstances as to satisfy the court,-</listIntroduction>
+                <item id="section-20.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>that he was about to commit, or aid in the commission of, theft or robbery, or</p>
+                </item>
+                <item id="section-20.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>that he was making preparation for committing theft or robbery, shall, on conviction, be punished with imprisonment for a term which may extend to three years, and shall also be liable to a fine which may extend to one thousand rupees.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Bar of jurisdiction.-</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>No court shall question the validity of any direction or order issued under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Bar of legal proceedings.-</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>No court shall question the competence of any authority making or issuing any notification, order or direction under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Power to delegate.-</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>The Government may, by notification in the Official Gazette, direct that any power exercisable by it under this Act except the power under section 24 may also be also exercised subject to such conditions, if any, as may be specified in the notification, by such officer not below the rank of a District Magistrate as may be specified therein.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Power to make rules.-</heading>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <p>The Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-24.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely,-</listIntroduction>
+                <item id="section-24.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form of notice under section 4 and the manner in which such notice may be served;</p>
+                </item>
+                <item id="section-24.2.list1.b">
+                  <num>(b)</num>
+                  <p>the form of the register of habitual offenders and the particulars to be entered therein;</p>
+                </item>
+                <item id="section-24.2.list1.c">
+                  <num>(c)</num>
+                  <p>the authority to whom and the manner in which any change or intended change of ordinary residence shall be notified under subsection (1) of section 7;</p>
+                </item>
+                <item id="section-24.2.list1.d">
+                  <num>(d)</num>
+                  <p>the nature of restrictions to be observed by registered offenders whose movements have been restricted;</p>
+                </item>
+                <item id="section-24.2.list1.e">
+                  <num>(e)</num>
+                  <p>the grant of certificate of identity to registered offenders and inspection of such certificates;</p>
+                </item>
+                <item id="section-24.2.list1.f">
+                  <num>(f)</num>
+                  <p>the conditions under which the offenders may be permitted to leave the area to which their movements have been restricted or the corrective settlement in which they have been placed;</p>
+                </item>
+                <item id="section-24.2.list1.g">
+                  <num>(g)</num>
+                  <p>the terms upon which offenders may be discharged from corrective settlements;</p>
+                </item>
+                <item id="section-24.2.list1.h">
+                  <num>(h)</num>
+                  <p>the working, management, control and supervision of corrective settlements including the discipline and conduct of persons placed therein;</p>
+                </item>
+                <item id="section-24.2.list1.i">
+                  <num>(i)</num>
+                  <p>the conditions for, and the manner of, approving of certifying privately managed settlements;</p>
+                </item>
+                <item id="section-24.2.list1.j">
+                  <num>(j)</num>
+                  <p>the appointment of non-official visitors for corrective settlements;</p>
+                </item>
+                <item id="section-24.2.list1.k">
+                  <num>(k)</num>
+                  <p>the conditions and circumstances under which members of the family of a habitual offender may be permitted to stay with him in a corrective settlement;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-24.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-24.1.list1">
+                <listIntroduction>the periodical review of the cases of all persons whose movements have been restricted or who are placed in corrective settlements under this Act; and</listIntroduction>
+                <item id="section-24.1.list1.m">
+                  <num>(m)</num>
+                  <p>any other matter which is to be or may be prescribed under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-24.3">
+            <num>(3)</num>
+            <content>
+              <p>In making rules under this Act, the Government may provide that a contravention of any of the rules shall be punishable with fine which may extend to one hundred rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-24.4">
+            <num>(4)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before the Legislative Assembly while it is in session, for a total period of not less than fourteen days which may be comprised in one session or in two or more successive sessions and if before the expiry of the session in which it so laid or the sessions aforesaid, the Assembly makes any modification in the rule or decides that the rules should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Corresponding provisions under any law for the time being in force.-</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>Nothing in this Act shall affect the powers of any competent authority under any other law for the time being.in force to make an order of restriction or detention, and any order passed or direction made under this Act in so far as it conflicts with any order made by a competent authority under such law shall be deemed to be inoperative while the order under such law remains in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Repeal and Savings.-</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>The Punjab Habitual Offenders (Control and Reform) Act, 1952 (12 of 1952) as in force in the areas added to Himachal Pradesh under section 5 of the Punjab Reorganisation Act, 1966 (31 of 1966) and the Bombay Habitual Offenders Act, 1959 (61 of 1959) as extended to areas comprised in Himachal Pradesh immediately before 1st November, 1966, are hereby repealed:</p>
+              <p>Provided that any order made, notification or direction issued, appointment made or action taken in exercise of the powers conferred by or under the Acts hereby repealed, shall be deemed to have been made, issued, done or taken under the corresponding provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,597 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/2011/9/main"/>
+          <FRBRuri value="/in-kar/act/2011/9"/>
+          <FRBRalias value="The Karnataka State Public Records Act, 2010"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/2011/9/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/2011/9/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/2011/9/eng@2017-07-24/main"/>
+          <FRBRuri value="/in-kar/act/2011/9/eng@2017-07-24"/>
+          <FRBRdate date="2017-07-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Karnataka State Public Records Act, 2010</shortTitle>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[9th February 2011]</docDate>
+      </p>
+      <longTitle>
+        <p>Act No. 9 of 2011</p>
+        <p>Preamble—</p>
+        <p>An Act to regulate the management, administration and preservation of public records of the State Government, State Public Sector Undertakings, Statutory bodies and corporations, commissions and committees constituted by the State Government and matters connected therewith or incidental thereto.</p>
+        <p>Be it enacted by the Karnataka State Legislature in the Sixty first year of the Republic of India as follows:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called may be called the Karnataka State Public Records Act, 2010.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“Board" means the State Archival Advisory Board constituted under sub-section (1) of sec-tion 13;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“Director” means the Director of Archives appointed by the State Government and includes any officer authorized by that Government to perform the duties of the Director;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“Head of the Archives” means a person holding the charge of the Archives of the State;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-2.paragraph-0.list1.d.list0">
+                  <listIntroduction>“Public records” includes,-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.d.list0.i">
+                    <num>(i)</num>
+                    <p>any document, manuscript and file;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>any microfilm, microfiche and facsimile copy of a document;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.iii">
+                    <num>(iii)</num>
+                    <p>any reproduction of image or images embodied in such microfilm, whether enlarged or not; and</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.d.list0.iv">
+                    <num>(iv)</num>
+                    <p>any other material produced by a computer or by any other device of any records creat-ing agency.</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <blockList id="section-2.paragraph-0.list1.e.list1">
+                  <listIntroduction>’records creating agency’ includes,-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.e.list1.i">
+                    <num>(i)</num>
+                    <p>in relation to the State Government, any Ministry, Department or office of the State Government;</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.e.list1.ii">
+                    <num>(ii)</num>
+                    <p>in relation to any statutory body or corporation wholly or substantially controlled or fi-nanced by the State Government or any commission or any committee constituted by the State Government, the offices of the said body, corporation, commission or committee;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>“Records Officer” means the officer nominated by the records creating agency under sub-section (1) of section 5;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“State” means the State of Karnataka.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Power of the State Government to co-ordinate, regulate and supervise operations con-nected with administration, management etc., of public records.-</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government shall have the power to co-ordinate, regulate and supervise the op-erations connected with the administration, management, preservation, selection, disposal and destroying of public records under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-3.2.list1">
+              <listIntroduction>The State Government in relation to the public records of the records creating agencies may, by order, authorize the Director of Archives subject to such conditions as may be specified in the order, to carry out all or any of the following functions, namely:-</listIntroduction>
+              <item id="section-3.2.list1.a">
+                <num>(a)</num>
+                <p>supervision, management and control of the Archives;</p>
+              </item>
+              <item id="section-3.2.list1.b">
+                <num>(b)</num>
+                <p>acceptance for deposit of public records of permanent nature after such period as may be prescribed;</p>
+              </item>
+              <item id="section-3.2.list1.c">
+                <num>(c)</num>
+                <p>custody, use and withdrawal of public records;</p>
+              </item>
+              <item id="section-3.2.list1.d">
+                <num>(d)</num>
+                <p>arrangement, preservation and exhibition of public records;</p>
+              </item>
+              <item id="section-3.2.list1.e">
+                <num>(e)</num>
+                <p>preparation of inventories, indices, catalogues and other reference media of public records;</p>
+              </item>
+              <item id="section-3.2.list1.f">
+                <num>(f)</num>
+                <p>analyzing, developing, promoting and co-ordinating the standards, procedures and the techniques for improvement of the records management system;</p>
+              </item>
+              <item id="section-3.2.list1.g">
+                <num>(g)</num>
+                <p>ensuring the maintenance, arrangement and security of public records in the Archives and in the office of the records creating agency;</p>
+              </item>
+              <item id="section-3.2.list1.h">
+                <num>(h)</num>
+                <p>promoting utilization of available space and maintenance of equipments for preserving public records;</p>
+              </item>
+              <item id="section-3.2.list1.i">
+                <num>(i)</num>
+                <p>tendering advice to Records creating Agencies on the compilation, classification and disposal of records and application of standards, procedures and techniques of records management;</p>
+              </item>
+              <item id="section-3.2.list1.j">
+                <num>(j)</num>
+                <p>survey and inspection of public records;</p>
+              </item>
+              <item id="section-3.2.list1.k">
+                <num>(k)</num>
+                <p>organizing training programmes in various disciplines of Archives administration and records management;</p>
+              </item>
+              <item id="section-3.2.list1.l">
+                <num>(l)</num>
+                <p>accepting records from any private source;</p>
+              </item>
+              <item id="section-3.2.list1.m">
+                <num>(m)</num>
+                <p>regulating access to public records;</p>
+              </item>
+              <item id="section-3.2.list1.n">
+                <num>(n)</num>
+                <p>receiving records from defunct bodies and making arrangement for securing public records in the event of national/State emergency;</p>
+              </item>
+              <item id="section-3.2.list1.o">
+                <num>(o)</num>
+                <p>receiving reports on records management and disposal practices from the records of-ficer;</p>
+              </item>
+              <item id="section-3.2.list1.p">
+                <num>(p)</num>
+                <p>providing authenticated copies of, or extracts from public records;</p>
+              </item>
+              <item id="section-3.2.list1.q">
+                <num>(q)</num>
+                <p>destroying or disposal of public records</p>
+              </item>
+              <item id="section-3.2.list1.r">
+                <num>(r)</num>
+                <p>obtaining on lease or purchasing or accepting as gift any document of historical, State or national importance;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Prohibition against taking of public records out of the State.-</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>No person shall take or cause to be taken out of the State any public records without the prior approval of the State Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Records Officer.-</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>Every Records creating agency shall nominate one of its officers as Records Officer to dis-charge the functions under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Every Records Creating Agency may set up such number of record rooms in such places as it deems fit and shall place each record room under the charge of a Records Officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Responsibilities of Records Officer.-</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-6.1.list1">
+              <listIntroduction>The records officer shall be responsible for,-</listIntroduction>
+              <item id="section-6.1.list1.a">
+                <num>(a)</num>
+                <p>proper arrangement, maintenance and preservation of public records under his charge;</p>
+              </item>
+              <item id="section-6.1.list1.b">
+                <num>(b)</num>
+                <p>periodical review of all public records and weeding out public records of ephemeral value;</p>
+              </item>
+              <item id="section-6.1.list1.c">
+                <num>(c)</num>
+                <p>appraisal of public records which are more than twenty five years old in consultation with the State Archives with a view to retaining public records of permanent value;</p>
+              </item>
+              <item id="section-6.1.list1.d">
+                <num>(d)</num>
+                <p>destruction of public records in such manner and subject to such conditions as may be prescribed under sub-section (1) of section 8;</p>
+              </item>
+              <item id="section-6.1.list1.e">
+                <num>(e)</num>
+                <p>compilation of a schedule of retention for public records in consultation with State Archives;</p>
+              </item>
+              <item id="section-6.1.list1.f">
+                <num>(f)</num>
+                <p>periodical review for downgrading of classified public records in such manner as may be prescribed;</p>
+              </item>
+              <item id="section-6.1.list1.g">
+                <num>(g)</num>
+                <p>adoption of such standards, procedures and techniques as may be recommended from time to time by the State Archives for improvement of record management system and maintenance of securing of public records.</p>
+              </item>
+              <item id="section-6.1.list1.h">
+                <num>(h)</num>
+                <p>compilation of annual indices of public records.</p>
+              </item>
+              <item id="section-6.1.list1.i">
+                <num>(i)</num>
+                <p>compilation of organizational history and annual supplement thereto;</p>
+              </item>
+              <item id="section-6.1.list1.j">
+                <num>(j)</num>
+                <p>assisting the State Archives in public records management</p>
+              </item>
+              <item id="section-6.1.list1.k">
+                <num>(k)</num>
+                <p>submission of annual reports to the Director in such manner as may be prescribed;</p>
+              </item>
+              <item id="section-6.1.list1.l">
+                <num>(l)</num>
+                <p>transferring of records of any defunct body to the State Archives for preservation.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The records officer shall act under the direction of the Director while discharging the re-sponsibilities specified in sub-section (1).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Records Officer to take appropriate action in the event of unauthorized removal, destruc-tion etc., of Public Records in his custody.-</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The Records Officer shall, in the event of any unauthorized removal, destruction, deface-ment or alteration of any public records under his charge, forthwith take appropriate action for the recovery or restoration of such public records.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>The Records Officer shall submit a report in writing to the Director without any delay on any information of unauthorized removal, destruction, defacement or alteration of any public records under his charge and the action initiated by him and shall take action as he may deem necessary subject to the directions, if any given by the Director.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>The Records Officer may seek assistance from any Government officer or any other person for the purpose of recovery or restoration of public records and such officer or person shall render all assistance to the records officer.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Destruction or disposal of public records.-</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>No public record shall be destroyed or otherwise disposed of except in such manner and subject to such conditions as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>No records, which is more than hundred years old shall be destroyed except where in the opinion of the Director, it is so defaced or is in such condition that it cannot be put to any arc-hival use.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Penalty for contraventions.-</heading>
+        <paragraph id="section-9.paragraph-0">
+          <content>
+            <p>Whoever contravenes any of the provisions of section 4 or section 8 shall be punishable with imprisonment for a term which may extend to five years or with fine which may extend to twentyfive thousand rupees or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Public records bearing security classification.-</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>No public records bearing security classification shall be transferred to the State Archives.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Receipt of records from private sources.-</heading>
+        <subsection id="section-11.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Archives may accept any record of historical or national importance from any pri-vate source by way of gift, purchase or otherwise.</p>
+          </content>
+        </subsection>
+        <subsection id="section-11.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Archives may in such manner and subject to such conditions as may be prescribed, make any record referred to in sub-section (1) available to any bona-fide research scholar.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Access to Public Records.-</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>All unclassified public records as are more than thirty years old and are transferred to the State Archives may be subject to such exceptions and restrictions as may be prescribed made available to any bona-fide research scholar.</p>
+            <p>Explanation:- For the purposes of this sub-section, the period of thirty years shall be reckoned from the year of the opening of the public record.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>Any records creating agency may grant permission to any person to access to any public record in its custody in such manner and subject to such conditions as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Archival Advisory Board.-</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, constitute an Archival Advisory Board for the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <p>The Board shall consist of the following members, namely:-</p>
+            <table id="section-13.2.table1">
+              <tr>
+                <td>
+                  <p>a</p>
+                </td>
+                <td>
+                  <p>Secretary to the Government incharge of culture</p>
+                </td>
+                <td>
+                  <p>Chairman, Ex-officio;</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>b</p>
+                </td>
+                <td>
+                  <p>one officer not below the rank of Joint Secretary to Government of Karnataka, each from the departments of Personnel and Administrative Reforms, Finance, Law&amp; Parliamentary Affairs and Legislation</p>
+                </td>
+                <td>
+                  <p>Member, Ex-officio;</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>c</p>
+                </td>
+                <td>
+                  <p>three persons to be nominated by the State Government for a period not exceeding three years, one being an Archivist by profession and two being professors in the postgraduate Department of History in any recognized Universities from the State</p>
+                </td>
+                <td>
+                  <p>Members</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>d</p>
+                </td>
+                <td>
+                  <p>Director of Archives</p>
+                </td>
+                <td>
+                  <p>Member-Secretary, Ex-officio</p>
+                </td>
+              </tr>
+            </table>
+          </content>
+        </subsection>
+        <subsection id="section-13.3">
+          <num>(3)</num>
+          <content>
+            <p>The members nominated under clause (c) of sub-section (2) shall be paid such allowances as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Functions of the Board.-</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <blockList id="section-14.paragraph-0.list1">
+              <listIntroduction>The Board shall perform the following functions, namely:-</listIntroduction>
+              <item id="section-14.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>advise the State Government on matters concerning the administration, management, con-servation and use of public records;</p>
+              </item>
+              <item id="section-14.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>lay down guidelines for training of Archivists;</p>
+              </item>
+              <item id="section-14.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>give directions for acquisition of records from private custody;</p>
+              </item>
+              <item id="section-14.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>deal with such other matters as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Power of the Director to lay down norms and standards for courses in archival science.-</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>The Director shall have the power to lay down norms, and standards for courses, curricula, as-sessment and examinations relating to the training in archival science and other ancillary sub-jects.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Protection of action taken in good faith.-</heading>
+        <paragraph id="section-16.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceedings shall lie against any person in respect of anything which is in good faith done or intended to be done in pursuance of this Act or the rules made there under.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Power to make rules.-</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-17.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-</listIntroduction>
+              <item id="section-17.2.list1.a">
+                <num>(a)</num>
+                <p>the period after which public records of permanent nature may be accepted under clause (b) of sub-section (2) of section 3;</p>
+              </item>
+              <item id="section-17.2.list1.b">
+                <num>(b)</num>
+                <p>the manner in which and the conditions subject to which public records can be de-stroyed under clause (d) of sub-section (1) of section 6;</p>
+              </item>
+              <item id="section-17.2.list1.c">
+                <num>(c)</num>
+                <p>the manner in which periodical review of classified public records for downgrading shall be undertaken under clause (f) of sub-section (1) of section 6;</p>
+              </item>
+              <item id="section-17.2.list1.d">
+                <num>(d)</num>
+                <p>the manner in which the records officer will report to the Director under clause (k) of sub-section (1) of section 6;</p>
+              </item>
+              <item id="section-17.2.list1.e">
+                <num>(e)</num>
+                <p>the manner in which and the conditions subject to which public records may be de-stroyed or disposed of under sub-section (1) of section 8;</p>
+              </item>
+              <item id="section-17.2.list1.f">
+                <num>(f)</num>
+                <p>the manner in which and the conditions subject to which records of historical or na-tional or State importance may be made available to research scholar under sub-section (2) of section 11;</p>
+              </item>
+              <item id="section-17.2.list1.g">
+                <num>(g)</num>
+                <p>exceptions and restrictions subject to which public records may be made available to a research scholar under sub-section (1) of section 12;</p>
+              </item>
+              <item id="section-17.2.list1.h">
+                <num>(h)</num>
+                <p>the allowances payable to members of the Board under sub-section (3) of section 13;</p>
+              </item>
+              <item id="section-17.2.list1.i">
+                <num>(i)</num>
+                <p>the matters with respect to which the Board may perform its functions under clause (d) of section 14;</p>
+              </item>
+              <item id="section-17.2.list1.j">
+                <num>(j)</num>
+                <p>any other matter which is required to be, or may be, prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of State Legislature while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power to remove difficulty.-</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the State Government may, by order published in the official Gazette, make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:</p>
+            <p>Provided that, no such order shall be made after the expiry of a period of two years from the date of commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under sub-section (1) shall be laid, as soon as may be, after it is made, be-fore each House of the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

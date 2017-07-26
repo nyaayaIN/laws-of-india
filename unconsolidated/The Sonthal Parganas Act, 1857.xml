@@ -1,0 +1,59 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1857/10/main"/>
+          <FRBRuri value="/in-union/act/1857/10"/>
+          <FRBRalias value="The Sonthal Parganas Act, 1857"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1857/10/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1857/10/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1857/10/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1857/10/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Sonthal Parganas Act, 1857</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 10 OF 1857</docNumber>
+      </p>
+    </preface>
+    <body>
+      <section id="section-20th">
+        <num>20th.</num>
+        <heading>May, 1857.]</heading>
+        <paragraph id="section-20th.paragraph-0">
+          <content>
+            <p>An Act to amend Act 37 of 1855.</p>
+            <p>Preamble.-- WHEREAS by Act 37 of 1855 certain districts described  in the schedule to the said Act were removed from the operation of the  general Regulations and Acts; and whereas it is expedient to make  certain alterations in respect to the districts so removed; It is  enacted as follows:</p>
+            <p>Districts removed from operation of general Regulations and</p>
+            <p>Acts.--  All the provisions of the said Act, which are applicable  to the districts described in the said schedule, shall, after the  passing of this Act, be applicable only to the districts described in  the schedule to this Act, in the same manner as if the schedule to  this Act had been the schedule to Act 37 of 1855.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-1">
+        <num>1.</num>
+        <heading/>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

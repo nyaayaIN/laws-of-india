@@ -1,0 +1,82 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1947/15/main"/>
+          <FRBRuri value="/in-union/act/1947/15"/>
+          <FRBRalias value="The Armed Forces (Emergency Duties) Act, 1947"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1947/15/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1947/15/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1947/15/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1947/15/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Armed Forces (Emergency Duties) Act, 1947</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent.—</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>*** This Act may be called the Armed Forces (Emergency Duties) Act, 1947.</p>
+            <p>***</p>
+            <p>The Armed Forces (Emergency Duties) Act, 1947</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Emergency duties of Armed Forces.—</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification in the Official Gazette, declare any specified service</p>
+            <p>in a State to be a service of vital importance to the community:</p>
+            <p>Provided that such notification shall remain in force for one month in the first instance, but may be extended, from time to time, by a like notification.</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>Upon a declaration being made under sub-section (1) and until it is rescinded, it shall be the duty of every person subject to</p>
+            <p>the Army Act, 1950, or the Air Force Act 1950, or</p>
+            <p>***</p>
+            <p>the Navy Act, 1957 to obey any command given by any superior officer in relation to employment upon or in connection with the services specified in the declaration, and every such command shall be deemed to be a lawful command within the meaning and for the purposes of the said Acts.</p>
+            <p>The Armed Forces (Emergency Duties) Act, 1947</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Validation of certain past commands.—</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <p>Every command given, after the 30th day of September, 1946, and before the commencement of this Act, to any person referred to in sub-section (2) of section 2 by any superior officer in relation to employment upon or in connection with any such service as the Central Government may, by notification in the Official Gazette, specify in his behalf, shall be deemed to have been a lawful command within the meaning and for the purposes of the Acts referred to in that sub-section, so, however, that no such person shall be punished by reason only of his not having obeyed any such command.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

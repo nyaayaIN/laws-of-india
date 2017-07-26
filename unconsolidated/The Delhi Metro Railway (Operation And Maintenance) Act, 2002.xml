@@ -1,0 +1,2203 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2002/60/main"/>
+          <FRBRuri value="/in-union/act/2002/60"/>
+          <FRBRalias value="The Delhi Metro Railway (Operation And Maintenance) Act, 2002"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2002/60/eng@2002-12-17/main"/>
+          <FRBRuri value="/in-union/act/2002/60/eng@2002-12-17"/>
+          <FRBRdate date="2002-12-17" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2002/60/eng@2002-12-17/main"/>
+          <FRBRuri value="/in-union/act/2002/60/eng@2002-12-17"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Delhi Metro Railway (Operation And Maintenance) Act, 2002</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 60 OF 2002</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 17th December, 2002.]</docDate>
+      </p>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Fifty- third Year of the Republic of</p>
+        </formula>
+      </preamble>
+      <longTitle>
+        <p>An Act to provide for the operation and maintenance and to regulate  the working of the metro railway in the metropolitan city of Delhi and  for matters connected therewith and incidental thereto.</p>
+        <p>India as follows:-</p>
+        <p>CHAP</p>
+        <p>PRELIMINARY</p>
+      </longTitle>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <paragraph id="chapter-I.paragraph-0">
+          <content>
+            <p>PRELIMINARY</p>
+          </content>
+        </paragraph>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title and commencement.-</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Delhi</p>
+              <p>Metro Railway (Operation and Maintenance) Act, 2002.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the National Capital Territory of Delhi.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall be deemed to have come into force on the 29th day of</p>
+              <p>October, 2002.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.-</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise  requires,-</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>" Claims Commissioner" means a Claims Commissioner appointed under  section 48;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>" Commissioner" means the Commissioner of the Metro Railway Safety  appointed under section 7;</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <p>" development" with its grammatical variations means the carrying  out of building, engineering, mining or other operations in, on, over  or under land or the making of any material change on any building, or  land, or planting of any tree on land and in ludes redevelopment;</p>
+                </item>
+                <item id="section-2.1.list1.d">
+                  <num>(d)</num>
+                  <p>" electric supply- line" shall have the meaning assigned to it under  clause (f) of section 2 of the Indian Electricity Act, 1910 (9 of</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-1910">
+          <num>1910.</num>
+          <heading/>
+          <paragraph id="section-1910.paragraph-0">
+            <content>
+              <blockList id="section-1910.paragraph-0.list1">
+                <listIntroduction>);</listIntroduction>
+                <item id="section-1910.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>" fare" means the charge levied for the carriage of passengers;</p>
+                </item>
+                <item id="section-1910.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>" Government metro railway" means a metro railway owned by the</p>
+                </item>
+              </blockList>
+              <blockList id="section-1910.paragraph-0.list3">
+                <listIntroduction>Central Government;</listIntroduction>
+                <item id="section-1910.paragraph-0.list3.g">
+                  <num>(g)</num>
+                  <p>" land" includes any right or interest in any land;</p>
+                </item>
+                <item id="section-1910.paragraph-0.list3.h">
+                  <num>(h)</num>
+                  <p>" metropolitan city of Delhi" means the area of the National</p>
+                </item>
+              </blockList>
+              <blockList id="section-1910.paragraph-0.list5">
+                <listIntroduction>Capital Territory of Delhi;</listIntroduction>
+                <item id="section-1910.paragraph-0.list5.i">
+                  <num>(i)</num>
+                  <p>" metro railway" means rail- guided mass rapid transit system having  dedicated right- of- way, with steel wheel or rubber- tyred wheel  coaches, but excluding tramways, for carriage of passengers, and  includes-</p>
+                </item>
+                <item id="section-1910.paragraph-0.list5.A">
+                  <num>(A)</num>
+                  <p>all land within the boundary marks indicating the limits of the  land appurtenant to a metro railway,</p>
+                </item>
+                <item id="section-1910.paragraph-0.list5.B">
+                  <num>(B)</num>
+                  <p>all rails tracks, sidings, yards or branches worked over for the  purposes of, or in connection with, a metro railway,</p>
+                </item>
+                <item id="section-1910.paragraph-0.list5.C">
+                  <num>(C)</num>
+                  <p>all stations, offices, ventilation shafts and ducts, warehouses,</p>
+                </item>
+              </blockList>
+              <p>workshops, manufactories, fixed plants and machineries, sheds, depots  and other works constructed for the purpose of, or in connection with,</p>
+              <blockList id="section-1910.paragraph-0.list8">
+                <listIntroduction>a metro railway;</listIntroduction>
+                <item id="section-1910.paragraph-0.list8.j">
+                  <num>(j)</num>
+                  <blockList id="section-1910.paragraph-0.list8.j.list0">
+                    <listIntroduction>" metro railway administration" in relation to-</listIntroduction>
+                    <item id="section-1910.paragraph-0.list8.j.list0.i">
+                      <num>(i)</num>
+                      <p>a Government metro railway means the General Manager of that  railway; or</p>
+                    </item>
+                    <item id="section-1910.paragraph-0.list8.j.list0.ii">
+                      <num>(ii)</num>
+                      <p>a non- Government metro railway means the person who is the owner  or lessee of that metro railway or the person working that metro  railway under an arrangement with the owner or lessee of that metro  railway;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-1910.paragraph-0.list8.k">
+                  <num>(k)</num>
+                  <p>" metro railway official" means any person employed by the Central</p>
+                </item>
+              </blockList>
+              <blockList id="section-1910.paragraph-0.list10">
+                <listIntroduction>Government or by a metro railway administration in connection with the  services of a metro railway;</listIntroduction>
+                <item id="section-1910.paragraph-0.list10.l">
+                  <num>(l)</num>
+                  <p>" non- Government metro railway" means a metro railway other than a</p>
+                </item>
+              </blockList>
+              <blockList id="section-1910.paragraph-0.list12">
+                <listIntroduction>Government metro railway;</listIntroduction>
+                <item id="section-1910.paragraph-0.list12.m">
+                  <num>(m)</num>
+                  <p>" notification" means a notification published in the Official</p>
+                </item>
+              </blockList>
+              <blockList id="section-1910.paragraph-0.list14">
+                <listIntroduction>Gazette;</listIntroduction>
+                <item id="section-1910.paragraph-0.list14.n">
+                  <num>(n)</num>
+                  <p>" pass" means an authority given by the metro railway  administration or by an officer appointed by that administration in  this behalf, to a person allowing him to travel as a passenger on the  metro railway, but does not include a ticket;</p>
+                </item>
+                <item id="section-1910.paragraph-0.list14.o">
+                  <num>(o)</num>
+                  <p>" prescribed" means prescribed by rules made by the Central</p>
+                </item>
+              </blockList>
+              <blockList id="section-1910.paragraph-0.list16">
+                <listIntroduction>Government under this Act;</listIntroduction>
+                <item id="section-1910.paragraph-0.list16.p">
+                  <num>(p)</num>
+                  <p>" railway" shall have the meaning assigned to it in clause (31) of  section 2 of the Railways Act, 1989 (24 of 1989);</p>
+                </item>
+                <item id="section-1910.paragraph-0.list16.q">
+                  <num>(q)</num>
+                  <p>" regulations" means the regulations made by the Government metro  railway administration under this Act;</p>
+                </item>
+                <item id="section-1910.paragraph-0.list16.r">
+                  <num>(r)</num>
+                  <p>" rolling stock" includes locomotives, engines, carriages (whether   powered or not), wagons, trollies and vehicles of all kinds moving or  intended to move on rails; and</p>
+                </item>
+                <item id="section-1910.paragraph-0.list16.s">
+                  <num>(s)</num>
+                  <p>" telegraph line" shall have the meaning assigned to it in clause</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+          <subsection id="section-1910.4">
+            <num>(4)</num>
+            <content>
+              <p>of section 3 of the Indian Telegraph Act, 1885 (13 of 1885).</p>
+            </content>
+          </subsection>
+          <subsection id="section-1910.2">
+            <num>(2)</num>
+            <content>
+              <p>All other words and expressions used herein and not defined but  defined in the Metro Railways (Construction of Works) Act, 1978 (33 of</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-1978">
+          <num>1978.</num>
+          <heading/>
+          <paragraph id="section-1978.paragraph-0">
+            <content>
+              <p>) shall have the meanings, respectively, assigned to them in that</p>
+              <p>Act.</p>
+              <p>CHAP</p>
+              <p>GOVERNMENT METRO RAILWAY ADMINISTRATION</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <paragraph id="chapter-II.paragraph-0">
+          <content>
+            <p>GOVERNMENT METRO RAILWAY ADMINISTRATION</p>
+          </content>
+        </paragraph>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Constitution of Government metro railway.-</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central</p>
+              <p>Government may, for the purpose of efficient administration of a</p>
+              <p>Government metro railway, in the metropolitan city of Delhi, by  notification, constitute such railways as it may deem fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>A Government metro railway administration may, for efficient  performance of its functions under this Act, appoint such officers and  other employees as it considers necessary on such terms and conditions  of service as may be determined by regulation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Appointment of General Manager.-</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall,</p>
+              <p>by notification, appoint a person to be the General Manager of a</p>
+              <p>Government metro railway.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The general superintendence and control of a Government metro  railway shall vest in the General Manager.</p>
+              <p>CHAP</p>
+              <p>FUNCTIONS AND POWERS OF THE METRO RAILWAY ADMINISTRATION</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <paragraph id="chapter-III.paragraph-0">
+          <content>
+            <p>FUNCTIONS AND POWERS OF THE METRO RAILWAY ADMINISTRATION</p>
+          </content>
+        </paragraph>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Functions of metro railway administration.- The functions of a  metro railway administration shall be-</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <blockList id="section-5.paragraph-0.list0">
+                <item id="section-5.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>to maintain and operate metro railway, for public carriage of  passengers, constructed in, upon, across, under or over any land,</p>
+                </item>
+              </blockList>
+              <p>building, street, road or passage in the metropolitan city of Delhi;</p>
+              <blockList id="section-5.paragraph-0.list3">
+                <listIntroduction>and</listIntroduction>
+                <item id="section-5.paragraph-0.list3.b">
+                  <num>(b)</num>
+                  <p>to engage in any such other activities or perform such other  functions as may be considered necessary for the purpose of the  operation and maintenance of the metro railway in the metropolitan  city of Delhi.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Powers of metro railway administration.-</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>The metro railway  administration shall have the power to do anything which may be  necessary or expedient for the purpose of carrying out its functions  under the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the generality of the foregoing provision,</p>
+              <blockList id="section-6.2.list2">
+                <listIntroduction>such power shall include the power to-</listIntroduction>
+                <item id="section-6.2.list2.a">
+                  <num>(a)</num>
+                  <p>acquire, hold and dispose of all kinds of properties owned by it,</p>
+                </item>
+              </blockList>
+              <blockList id="section-6.2.list4">
+                <listIntroduction>both movable and immovable;</listIntroduction>
+                <item id="section-6.2.list4.b">
+                  <num>(b)</num>
+                  <p>improve, develop or alter any property or asset held by it;</p>
+                </item>
+                <item id="section-6.2.list4.c">
+                  <num>(c)</num>
+                  <p>enter temporarily in or upon the lands adjoining the metro railway  alignment in order to remove obstruction, or prevent imminent danger  from any source, such as tree, post or structure, which may obstruct  the movement of the rolling stock, or passeng rs, or the view of the  signal provided for movement of the rolling stock;</p>
+                </item>
+                <item id="section-6.2.list4.d">
+                  <num>(d)</num>
+                  <p>execute any lease or grant any licence in respect of the property  held by it;</p>
+                </item>
+                <item id="section-6.2.list4.e">
+                  <num>(e)</num>
+                  <p>enter into, assign and rescind any contract or obligation;</p>
+                </item>
+                <item id="section-6.2.list4.f">
+                  <num>(f)</num>
+                  <p>employ an agent or contractor for discharging its functions;</p>
+                </item>
+                <item id="section-6.2.list4.g">
+                  <num>(g)</num>
+                  <p>obtain licence from the Central Government to establish and  maintain telegraph lines;</p>
+                </item>
+                <item id="section-6.2.list4.h">
+                  <num>(h)</num>
+                  <p>lay down or place electric supply lines for conveyance and  transmission of energy and to obtain licence for that purpose; and</p>
+                </item>
+                <item id="section-6.2.list4.i">
+                  <num>(i)</num>
+                  <p>do all incidental acts as are necessary for discharge of any  function conferred, or imposed, on it by this Act.</p>
+                </item>
+              </blockList>
+              <p>CHAP</p>
+              <p>COMMISSIONER OF METRO RAILWAY SAFETY</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <paragraph id="chapter-IV.paragraph-0">
+          <content>
+            <p>COMMISSIONER OF METRO RAILWAY SAFETY</p>
+          </content>
+        </paragraph>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Appointment of Commissioner of Metro Railway Safety.- The Central</heading>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <p>Government may appoint one or more Commissioners of Metro Railway</p>
+              <p>Safety.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Duties of Commissioner.- The Commissioner shall-</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <blockList id="section-8.paragraph-0.list0">
+                <item id="section-8.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>inspect the metro railway with a view to determine whether it is  fit to be opened for the public carriage of passengers and report  thereon to the Central Government as required by or under this Act;</p>
+                </item>
+                <item id="section-8.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>make such periodical or other inspections of metro railway, its  rolling stock used thereon and its other installations as the Central</p>
+                </item>
+              </blockList>
+              <blockList id="section-8.paragraph-0.list2">
+                <listIntroduction>Government may direct;</listIntroduction>
+                <item id="section-8.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>make an inquiry under the provisions of this Act into the cause of  any accident on the metro railway; and</p>
+                </item>
+                <item id="section-8.paragraph-0.list2.d">
+                  <num>(d)</num>
+                  <p>discharge such other duties as are conferred on him by or under  this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Powers of Commissioner.- Subject to the control of the Central</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <blockList id="section-9.paragraph-0.list1">
+                <listIntroduction>Government, the Commissioner, whenever it is necessary so to do for  any of the purposes of this Act, may-</listIntroduction>
+                <item id="section-9.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>enter upon and inspect the metro railway or any rolling stock used  thereon and its other installations;</p>
+                </item>
+                <item id="section-9.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>by order in writing addressed to the metro railway administration,</p>
+                </item>
+              </blockList>
+              <blockList id="section-9.paragraph-0.list3">
+                <listIntroduction>require the attendance before him of metro railway official and to  require answers or returns to such inquiries as he thinks fit to make  from such metro railway official or from the m tro railway  administration; and</listIntroduction>
+                <item id="section-9.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>require the production of any book, document or material object  belonging to or in the possession or control of any metro railway  administration which appears to him to be necessary to inspect.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Commissioner to be public servant.- The Commissioner shall be  deemed to be a public servant within the meaning of section 21 of the</heading>
+          <paragraph id="section-10.paragraph-0">
+            <content>
+              <p>Indian Penal Code (45 of 1860).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Facilities to be provided to Commissioner.- The metro railway  administration shall provide to the Commissioner all reasonable  facilities for the discharge of the duties or for the exercise of the  powers imposed or conferred on him by or under this Act</heading>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Annual report of Commissioner.- The Commissioner shall prepare, in  such form and in such time, for each financial year, as may be  prescribed, an annual report giving a full account of his activities  during the previous financial year and forward copy hereof to the</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>Central Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Annual report to be laid before Parliament.- The Central</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>Government shall cause the annual report of the Commissioner to be  laid after its receipt before each House of Parliament.</p>
+              <p>CHAP</p>
+              <p>OPENING OF METRO RAILWAY</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <paragraph id="chapter-V.paragraph-0">
+          <content>
+            <p>OPENING OF METRO RAILWAY</p>
+          </content>
+        </paragraph>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Sanction of Central Government to the opening of metro  railway.- The metro railway in the metropolitan city of Delhi shall not  be opened for the public carriage of passengers except with the  previous sanction of the Central Government.</heading>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Formalities to be complied with before giving sanction to the  opening of metro railway.-</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, before  giving its sanction to the opening of the metro railway under section</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading/>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <blockList id="section-14.paragraph-0.list1">
+                <listIntroduction>, obtain a report from the Commissioner that-</listIntroduction>
+                <item id="section-14.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>he has made a careful inspection of the metro railway and the  rolling stock that may be used thereon;</p>
+                </item>
+                <item id="section-14.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>the moving and fixed dimensions as laid down by the Central</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.paragraph-0.list3">
+                <listIntroduction>Government have not been infringed;</listIntroduction>
+                <item id="section-14.paragraph-0.list3.c">
+                  <num>(c)</num>
+                  <p>the track structure, strength of bridges, standards of signalling  system, traction system, general structural character of civil works  and the size of, and maximum gross load upon, the axles of any rolling  stock, comply with the requirements laid dow by the Central</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.paragraph-0.list5">
+                <listIntroduction>Government; and</listIntroduction>
+                <item id="section-14.paragraph-0.list5.d">
+                  <num>(d)</num>
+                  <p>in his opinion, metro railway can be opened for the public  carriage of passengers without any danger to the public using it.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>If the Commissioner is of the opinion that the metro railway  cannot be opened without any danger to the public using it, he shall,</p>
+              <p>in his report, state the grounds therefor, as also the requirements  which, in his opinion, are to be complied with befo e sanction is  given by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government, after considering the report of the</p>
+              <p>Commissioner, may sanction the opening of the metro railway under  section 14 as such or subject to such conditions as may be considered  necessary by it for the safety of the public.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Sections 14 and 15 to apply to the opening of certain works.- The  provisions of sections 14 and 15 shall apply to the opening of the  following works if they form part of, or are directly connected with,</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>the metro railway used for the public carriage o passengers and have  been constructed subsequent to the giving of a report by the</p>
+              <blockList id="section-16.paragraph-0.list2">
+                <listIntroduction>Commissioner under section 15, namely:-</listIntroduction>
+                <item id="section-16.paragraph-0.list2.a">
+                  <num>(a)</num>
+                  <p>opening of additional lines of metro railway;</p>
+                </item>
+                <item id="section-16.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>opening of stations and junctions;</p>
+                </item>
+                <item id="section-16.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>re- modelling of yards and re- building of bridges; and</p>
+                </item>
+                <item id="section-16.paragraph-0.list2.d">
+                  <num>(d)</num>
+                  <p>any alteration or reconstruction materially affecting the  structural character of any work to which the provisions of sections</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>and 15 apply or are extended by this section.</heading>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Temporary suspension of traffic.- When an accident has occurred on  the metro railway resulting in a temporary suspension of traffic, and  either the original tracks and works have been restored to their  original standard or a temporary diversion has be n laid for the  purpose of restoring communication, the original tracks and works so  restored, or the temporary diversion, as the case may be, may, without  prior inspection by the Commissioner, be opened for the public  carriage of passengers, subject to t e following conditions, namely:-</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <blockList id="section-17.paragraph-0.list0">
+                <item id="section-17.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>the metro railway official in charge of the works undertaken by  reasons of the accident has certified in writing that the opening of  the restored tracks and works, or of the temporary diversion will not  in his opinion be attended with danger to the p blic; and</p>
+                </item>
+                <item id="section-17.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>a notice of the opening of the tracks and works or the diversion  shall be sent immediately to the Commissioner.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Power to close metro railway opened for public carriage of  passengers.- Where, after the inspection of the metro railway opened  and used for the public carriage of passengers or any rolling stock  used thereon, the Commissioner is of the opinion that t e use of the  metro railway or of any rolling stock will be attended with danger to  the public using it, the Commissioner shall send a report to the</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <blockList id="section-18.paragraph-0.list1">
+                <listIntroduction>Central Government who may thereupon direct that-</listIntroduction>
+                <item id="section-18.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>the metro railway be closed for the public carriage of passengers;</p>
+                </item>
+              </blockList>
+              <blockList id="section-18.paragraph-0.list3">
+                <listIntroduction>or</listIntroduction>
+                <item id="section-18.paragraph-0.list3.ii">
+                  <num>(ii)</num>
+                  <p>the use of the rolling stock be discontinued; or</p>
+                </item>
+                <item id="section-18.paragraph-0.list3.iii">
+                  <num>(iii)</num>
+                  <p>the metro railway or the rolling stock may be used for the  public carriage of passengers subject to such conditions as it may  consider necessary for the safety of the public.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Re- opening of closed metro railway.- When the Central Government  has, under section 18 directed the closure of the metro railway or the  discontinuance of the use of any rolling stock-</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <blockList id="section-19.paragraph-0.list0">
+                <item id="section-19.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>the metro railway shall not be re- opened for the public carriage  of passengers until it has been inspected by the Commissioner and its  re- opening is sanctioned in accordance with the provisions of this</p>
+                </item>
+              </blockList>
+              <blockList id="section-19.paragraph-0.list2">
+                <listIntroduction>Chapter; and</listIntroduction>
+                <item id="section-19.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>the rolling stock shall not be used until it has been inspected by  the Commissioner and its re- use is sanctioned in accordance with the  provisions of this Chapter.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Use of rolling stock.- The metro railway administration may use  such rolling stock as it may consider necessary for operation and  working of the metro railway:</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Provided that before using any rolling stock of a design or type  different from that already running on any section of the metro  railway, the previous sanction of the Central Government shall be  obtained for such use: Provided further that before giving any such  sanction, the Central Government shall obtain a report from the</p>
+              <p>Commissioner that he has made a careful inspection of the rolling  stock and, in his opinion, such rolling stock can be used.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Delegation of powers.- The Central Government may, by  notification, direct that any of its powers or functions under this</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Chapter, except power to make rule under section 22, shall, in  relation to such matters and subject to such conditions, if any, a may  be specified in the notification, be exercised or discharged also by  the Commissioner.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Power to make rules in respect of matters in this Chapter.-</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules to carry out  the provisions of this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-22.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the  foregoing power, such rules may provide for all or any of the  following matters, namely:-</listIntroduction>
+                <item id="section-22.2.list1.a">
+                  <num>(a)</num>
+                  <p>the duties of a metro railway administration and the Commissioner  in regard to the opening of a metro railway for the public carriage of  passengers;</p>
+                </item>
+                <item id="section-22.2.list1.b">
+                  <num>(b)</num>
+                  <p>the arrangements to be made for and the formalities to be complied  with before opening a metro railway for the public carriage of  passengers;</p>
+                </item>
+                <item id="section-22.2.list1.c">
+                  <num>(c)</num>
+                  <p>for regulating the mode in which, and the speed at which rolling  stock used on metro railway is to be moved or propelled; and</p>
+                </item>
+                <item id="section-22.2.list1.d">
+                  <num>(d)</num>
+                  <p>the cases in which and the extent to which the procedure provided  in this Chapter may be dispensed with.</p>
+                </item>
+              </blockList>
+              <p>CHAP</p>
+              <p>WORKING OF THE METRO RAILWAY.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <paragraph id="chapter-VI.paragraph-0">
+          <content>
+            <p>WORKING OF THE METRO RAILWAY</p>
+          </content>
+        </paragraph>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Exhibition of fare tables at station and supply of tickets.-</heading>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <p>The metro railway administration shall cause to be pasted in a  conspicuous and accessible place at every station in Hindi and English  a table of the fare chargeable for travelling from t e station to  every place for which tickets are issued to passengers.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person desirous of travelling on the metro railway shall, upon  payment of fare, be issued with a ticket by the metro railway  administration or an agent authorised in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-23.3">
+            <num>(3)</num>
+            <content>
+              <p>The ticket issued under sub- section (2) shall indicate its value,</p>
+              <p>period of validity and such other particulars as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Exhibition and surrender of pass and ticket.- Every passenger  shall, on demand by any metro railway official authorised in this  behalf, present his pass or ticket to such metro railway official for  examination at the beginning, or during or at the end of the journey  and surrender such ticket,-</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <blockList id="section-24.paragraph-0.list0">
+                <item id="section-24.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>at the end of journey if the ticket is for a single journey, or</p>
+                </item>
+                <item id="section-24.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>if such ticket is issued for a particular amount, on the  exhaustion of the amount for which the ticket was issued.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Prohibition against traveling without pass or ticket.- No person  shall enter or remain in any carriage on the metro railway, for the  purpose of travelling therein as a passenger, unless he has with him a  proper pass or ticket.</heading>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Carriage of goods.-</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>No person shall, while travelling in the  metro railway, carry with him any goods other than a small baggage  containing personal belongings not exceeding such volume and weight as  may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any person travels on the metro railway in contravention of  the provisions of sub- section (1), he shall, notwithstanding that he  holds a valid pass or ticket for any travel in such railway, be liable  to be removed from the train by any metro ra lway official authorised  by the metro railway administration in this behalf or by any other  person whom such metro railway official may call to his aid.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Prohibition against traveling of person suffering from infectious  or contagious diseases and powers to remove them.-</heading>
+          <subsection id="section-27.1">
+            <num>(1)</num>
+            <content>
+              <p>No person  suffering from infectious or contagious diseases as may be prescribed,</p>
+              <p>shall travel by the metro railway.</p>
+            </content>
+          </subsection>
+          <subsection id="section-27.2">
+            <num>(2)</num>
+            <content>
+              <p>Any person travelling in contravention of any rule made under  sub- section (1) shall be liable to be removed from the metro railway.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Communication between passengers and metro railway officials in  charge of trains.- The metro railway administration shall provide and  maintain in proper order, in any metro train, such efficient means of  communication between the passengers and the me ro railway official in  charge of the train as may be approved by the Central Government.</heading>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Right of metro railway administration to display commercial  advertisements on metro railway or on the premises occupied by it.- The  metro railway administration may use its premises, lands, buildings,</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>posts, bridges, structures, vehicles, rolling stoc and other property  for displaying commercial advertisements and for that purpose may  erect or construct or fix any hoardings, billboards, show cases, and  such other things for the display of posters or other publicity  materials.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Carriage of dangerous or offensive material.-</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>No person shall  take or cause to be taken on the metro railway such dangerous or  offensive material as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>If any metro railway official has reason to believe that any  person is carrying with him, in a container of any form, or otherwise,</p>
+              <p>any dangerous or offensive material, he may cause such container to be  opened by its carrier for the purposes of ascer aining its contents.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.3">
+            <num>(3)</num>
+            <content>
+              <p>Any metro railway official may remove from the metro railway any  person taking with him any dangerous or offensive material.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Power to remove persons from metro railway and its carriages.- Any  person, entering upon or into any part of the metro railway without  lawful authority, on being asked to leave the metro railway by any  the metro railway by such metro railway official or by any other  person whom such metro railway official may call to his aid. metro  railway official, does not leave therefrom, may be removed from</heading>
+        </section>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Power to make rules.-</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by  notification, make rules to carry out the provisions of this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-32.2.list1">
+                <listIntroduction>Without prejudice to the generality of the foregoing power, such  rules may provide for all or any of the following matters, namely:-</listIntroduction>
+                <item id="section-32.2.list1.a">
+                  <num>(a)</num>
+                  <p>the particulars of the ticket such as the value, the period of  validity and other particulars under sub- section (3) of section 23;</p>
+                </item>
+                <item id="section-32.2.list1.b">
+                  <num>(b)</num>
+                  <p>the volume and weight of baggage under sub- section (1) of section</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading/>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <blockList id="section-26.paragraph-0.list1">
+                <listIntroduction>;</listIntroduction>
+                <item id="section-26.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>diseases which are infectious or contagious under sub- section (1)</p>
+                </item>
+              </blockList>
+              <blockList id="section-26.paragraph-0.list3">
+                <listIntroduction>of section 27;</listIntroduction>
+                <item id="section-26.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>material which is dangerous or offensive under sub- section (1) of  section 30; and</p>
+                </item>
+                <item id="section-26.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <p>generally, for regulating the travelling upon, and the use,</p>
+                </item>
+              </blockList>
+              <p>working and management of the metro railway.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <p>Every metro railway administration shall keep at every station on  its metro railway a copy of all the rules made under this section and  shall also allow any person to inspect it free of charge.</p>
+              <p>CHAP</p>
+              <p>FARE FIXATION</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <paragraph id="chapter-VII.paragraph-0">
+          <content>
+            <p>FARE FIXATION</p>
+          </content>
+        </paragraph>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Fixation of fare for carriage of passengers.- The metro railway  administration shall, from time to time, on the recommendations made  to it by the Fare Fixation Committee constituted under sub- section</heading>
+          <subsection id="section-33.1">
+            <num>(1)</num>
+            <content>
+              <p>travelling from one station to another of the metro railway: of  section 34, fix, for the carriage of passeng rs, fare for</p>
+              <p>Provided that the metro railway administration may fix the fare under  this section without recommendations of the Fare Fixation Committee on  the initial opening of the metro railway.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Constitution of Fare Fixation Committee.-</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central</p>
+              <p>Government may, from time to time, constitute a Fare Fixation</p>
+              <p>Committee for the purpose of recommending fare for the carriage of  passengers by the metro railway.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The Fare Fixation Committee shall consist of a Chairperson and two  other members.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.3">
+            <num>(3)</num>
+            <content>
+              <p>A person shall not be qualified for appointment as the Chairperson  unless he is or has been a Judge of a High Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.4">
+            <num>(4)</num>
+            <content>
+              <p>One member each shall be nominated by the Central Government and  the Government of the National Capital Territory of Delhi  respectively:</p>
+              <p>Provided that a person who is or has been an Additional Secretary to  the Government of India or holds any equivalent post in the Central</p>
+              <p>Government shall be qualified to be nominated by the said Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.5">
+            <num>(5)</num>
+            <content>
+              <p>A sitting Judge of a High Court shall be appointed after  consultation with the Chief Justice of that High Court.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Other terms and conditions and procedure to be followed.-</heading>
+          <subsection id="section-35.1">
+            <num>(1)</num>
+            <content>
+              <p>The  other terms and conditions of the Fare Fixation Committee, and the  procedure to be followed by that committee shall be such as may be  prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-35.2">
+            <num>(2)</num>
+            <content>
+              <p>The metro railway administration shall provide to the Fare</p>
+              <p>Fixation Committee all reasonable facility for the discharge of its  duties under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Period for making recommendations.- The Fare Fixation Committee  shall submit its report along with recommendations to the metro  railway administration within such period, not exceeding three months,</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>as may be specified by order made by the Central Gov rnment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Recommendations to be binding on metro railway  administration.- The recommendations made by the Fare Fixation</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>Committee shall be binding on the metro railway administration.</p>
+              <p>CHAP</p>
+              <p>ACCIDENTS</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <paragraph id="chapter-VIII.paragraph-0">
+          <content>
+            <p>ACCIDENTS</p>
+          </content>
+        </paragraph>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Notice of metro railway accident.-</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-38.1.list1">
+                <listIntroduction>Where, in the course of  working a metro railway,-</listIntroduction>
+                <item id="section-38.1.list1.a">
+                  <num>(a)</num>
+                  <p>any accident attended with loss of any human life, or with  grievous hurt, as defined in the Indian Penal Code (45 of 1860); or</p>
+                </item>
+                <item id="section-38.1.list1.b">
+                  <num>(b)</num>
+                  <p>any collision between trains; or</p>
+                </item>
+                <item id="section-38.1.list1.c">
+                  <num>(c)</num>
+                  <p>the derailment of any train carrying passengers, or of any part of  such train; or</p>
+                </item>
+                <item id="section-38.1.list1.d">
+                  <num>(d)</num>
+                  <p>any accident of a description usually attended with loss of human  life or with such grievous hurt as aforesaid; or</p>
+                </item>
+                <item id="section-38.1.list1.e">
+                  <num>(e)</num>
+                  <p>any accident of any other description which the Central Government  may notify in this behalf,</p>
+                </item>
+              </blockList>
+              <p>occurs, the metro railway official in charge of the section of the  metro railway on which the accident occurs, shall, without delay, give  notice of the accident in such form and containing such particulars as  may be prescribed to the Deputy Commissioner nd the Deputy</p>
+              <p>Commissioner of Police, within whose jurisdiction the accident occurs,</p>
+              <p>the officer in charge of the police station within the local limits of  which the accident occurs and to such other Magistrate or police  officer as may be appointed in th s behalf by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>The metro railway administration, within whose jurisdiction the  accident occurs, shall, without delay, give notice of the accident to  the Government of the National Capital Territory of Delhi and the</p>
+              <p>Commissioner having jurisdiction over the place of the accident.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Inquiry by Commissioner.-</heading>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>On the receipt of a notice under  section 38 of the occurrence of an accident resulting in loss of human  life or grievous hurt causing total or partial disablement of  permanent nature to a passenger, the Commissioner shall as soon as may  be, notify the metro railway administration in whose jurisdiction the  accident occurred of his intention to hold an inquiry into the causes  that led to the accident and shall at the same time fix and  communicate the date, time and place o inquiry:</p>
+              <p>Provided that it shall be open to the Commissioner to hold an inquiry  into any other accident which, in his opinion, requires the holding of  such an inquiry.</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <p>If for any reason, the Commissioner is not able  to hold an inquiry as soon as may be after the occurrence of the  accident, he shall notify the metro railway administration  accordingly.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Inquiry by metro railway administration.- Where no inquiry is held  by the Commissioner under sub- section</heading>
+          <subsection id="section-40.1">
+            <num>(1)</num>
+            <content>
+              <p>of section 39 or where the</p>
+              <p>Commissioner has informed the metro railway administration under  sub- section (2) of that section that he is not abl to hold an inquiry,</p>
+              <p>the metro railway administration within whose jurisdiction the  accident occurs, shall cause an inquiry to be made in accordance with  the prescribed procedure.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Powers of Commissioner in relation to inquiries.-</heading>
+          <subsection id="section-41.1">
+            <num>(1)</num>
+            <content>
+              <p>For the  purpose of conducting an inquiry under this Chapter into the causes of  any accident, the Commissioner shall, in addition to the powers  while trying a suit under the Code of Civil Procedure, 1908 (5 of</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-1908">
+          <num>1908.</num>
+          <heading/>
+          <paragraph id="section-1908.paragraph-0">
+            <content>
+              <blockList id="section-1908.paragraph-0.list1">
+                <listIntroduction>), in respect of the following matters, namely:- specified in  section 9, have the powers as are vested n a Civil Court</listIntroduction>
+                <item id="section-1908.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of persons and examining  them on oath;</p>
+                </item>
+                <item id="section-1908.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of documents;</p>
+                </item>
+                <item id="section-1908.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-1908.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>requisitioning any public record or copies thereof from any court  or office; and</p>
+                </item>
+                <item id="section-1908.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+          <subsection id="section-1908.2">
+            <num>(2)</num>
+            <content>
+              <p>The Commissioner while conducting an inquiry under this Chapter  shall be deemed to be a Civil Court for the purposes of section 195  and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Statement made before Commissioner.- No statement made by a person  in the course of giving evidence in an inquiry before the Commissioner  shall subject him to, or be used against him, in any civil or criminal  proceeding, except in a prosecution for gi ing false evidence by such  person: Provided that the statement is-</heading>
+          <paragraph id="section-42.paragraph-0">
+            <content>
+              <blockList id="section-42.paragraph-0.list0">
+                <item id="section-42.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>made in reply to a question which is required by the Commissioner  to answer; or</p>
+                </item>
+                <item id="section-42.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>relevant to the subject matter of the inquiry.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Procedure for conducting inquiry.- The metro railway  administration or the Commissioner conducting an inquiry under this</heading>
+        </section>
+      </chapter>
+      <chapter id="chapter-may">
+        <num>may</num>
+        <heading>send notice of the inquiry to such persons, follow such  procedure, and prepare the report in such manner as may be pre cribed.</heading>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>No inquiry, investigation, etc., to be made if the Commission of</heading>
+          <paragraph id="section-44.paragraph-0">
+            <content>
+              <p>Inquiry is appointed.- Notwithstanding anything contained in the  foregoing provisions of this Chapter, where a Commission of Inquiry is  appointed under the Commissions of Inquiry Act, 19 2 (60 of 1952), to  inquire into an accident, any inquiry, investigation or other  proceeding pending in relation to that accident shall not be proceeded  with, and all records or other documents relating to such inquiry  shall be forwarded to such authority as may be specified by the</p>
+              <p>Central Government in this behalf.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Inquiry into accident not covered by section 38.- Where any  accident of the nature not specified in section 38 occurs in the  course of working the metro railway, the metro railway administration  within whose jurisdiction the accident occurs, may cause such inquiry  to be made into the causes of the accident, as may be prescribed.</heading>
+        </section>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Returns.- The metro railway administration shall send to the</heading>
+          <paragraph id="section-46.paragraph-0">
+            <content>
+              <p>Central Government a return of accidents occurring on its railway,</p>
+              <p>whether attended with injury to any person or not, in such form and  manner and at such intervals as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Power to make rules in respect of matters in this Chapter.-</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by notification, make rules to carry out  the provisions of this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-47.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the  foregoing power, such rules may provide for all or any of the  following matters, namely:-</listIntroduction>
+                <item id="section-47.2.list1.a">
+                  <num>(a)</num>
+                  <p>the forms of notice of accidents to be given under section 38 and  the particulars of the accident such notices shall contain;</p>
+                </item>
+                <item id="section-47.2.list1.b">
+                  <num>(b)</num>
+                  <p>the persons to whom notices in respect of any inquiry under this</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-are">
+        <num>are</num>
+        <heading>to be sent, the procedure to be followed in such inquiry  and the manner in which a report of such inquiry shall be prepared;</heading>
+        <paragraph id="chapter-are.paragraph-0">
+          <content>
+            <blockList id="chapter-are.paragraph-0.list0">
+              <item id="chapter-are.paragraph-0.list0.c">
+                <num>(c)</num>
+                <p>the nature of inquiry to be made by the metro railway  administration into the causes of an accident under section 40;</p>
+              </item>
+              <item id="chapter-are.paragraph-0.list0.d">
+                <num>(d)</num>
+                <p>for conducting an inquiry under clause (e) of sub- section (1) of  section 41;</p>
+              </item>
+              <item id="chapter-are.paragraph-0.list0.e">
+                <num>(e)</num>
+                <p>the procedure of conducting inquiry and preparation of the report  under section 43;</p>
+              </item>
+              <item id="chapter-are.paragraph-0.list0.f">
+                <num>(f)</num>
+                <p>the making of an inquiry into the causes of the accident under  section 45; and</p>
+              </item>
+              <item id="chapter-are.paragraph-0.list0.g">
+                <num>(g)</num>
+                <p>the form and manner of sending a return of accidents by the metro  railway administration under section 46.</p>
+              </item>
+            </blockList>
+            <p>CHAP</p>
+            <p>CLAIMS COMMISSIONER</p>
+          </content>
+        </paragraph>
+      </chapter>
+      <chapter id="chapter-IX">
+        <num>IX</num>
+        <paragraph id="chapter-IX.paragraph-0">
+          <content>
+            <p>CLAIMS COMMISSIONER</p>
+          </content>
+        </paragraph>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Claims Commissioner.- The Central Government may, by notification,</heading>
+          <paragraph id="section-48.paragraph-0">
+            <content>
+              <p>appoint a Claims Commissioner for the purpose of adjudicating upon  claims for compensation in respect of accidents involving the death  of, or bodily injury to person, or damage to any roperty arising out  of the working of the metro railway.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Qualifications for appointment as Claims Commissioner.- A person  shall not be qualified for appointment as Claims Commissioner unless  he-</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <blockList id="section-49.paragraph-0.list0">
+                <item id="section-49.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>is or has been, or is qualified to be, a Judge of a High Court;</p>
+                </item>
+              </blockList>
+              <blockList id="section-49.paragraph-0.list2">
+                <listIntroduction>or</listIntroduction>
+                <item id="section-49.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>has been a Member of the Indian Legal Service and has held a post  in Grade I of that Service; or</p>
+                </item>
+                <item id="section-49.paragraph-0.list2.c">
+                  <num>(c)</num>
+                  <p>has, for at least three years, held a civil judicial post carrying  a scale of pay which is not less than that of a Joint Secretary to the</p>
+                </item>
+              </blockList>
+              <p>Government of India.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Term of office.- The Claims Commissioner shall hold office as such  for a term as may be specified by the Central Government.</heading>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Resignation and removal.-</heading>
+          <subsection id="section-51.1">
+            <num>(1)</num>
+            <content>
+              <p>The Claims Commissioner may, by  notice in writing under his hand addressed to the Central Government,</p>
+              <p>resign his office.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.2">
+            <num>(2)</num>
+            <content>
+              <p>The Claims Commissioner may be removed from his office by an order  of the Central Government on the ground of proved misbehaviour or  incapacity after an inquiry in which he had been informed of the  charges against him and given a reasonable opportuni y of being heard  in respect of those charges.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.3">
+            <num>(3)</num>
+            <content>
+              <p>The procedure for the investigation of misbehaviour or incapacity  of the Claims Commissioner referred to in sub- section (2) be such as  may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Salary and allowances and other conditions of Claims</heading>
+          <paragraph id="section-52.paragraph-0">
+            <content>
+              <p>Commissioner.- The salary and allowances payable to, and the other  terms and conditions of service of, the Claims Commissioner shall be  such as may be prescribed: Provided that neither the salary and  allowances nor the other terms and conditions of service of the Claims</p>
+              <p>Commissioner shall be varied to his disadvantage after his  appointment.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Procedure and powers of Claims Commissioner.-</heading>
+          <subsection id="section-53.1">
+            <num>(1)</num>
+            <content>
+              <p>The Claims</p>
+              <p>Commissioner shall have all the powers of a civil court for the  purpose of taking evidence on oath, enforcing attendance of witnesses  and compelling the discovery or production of documents nd material  objects.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.2">
+            <num>(2)</num>
+            <content>
+              <p>The Claims Commissioner shall be deemed to be a civil court for  all the purposes of section 195 and Chapter XXVI of the Code of</p>
+              <p>Criminal Procedure, 1973 (2 of 1974).</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.3">
+            <num>(3)</num>
+            <content>
+              <p>In enquiring into and determining any claims for payment of  compensation, the Claims Commissioner may, subject to any rules that  may be made in this behalf, follow such summary procedure as he may  deem fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to any rules that may be made in this behalf, the Claims</p>
+              <p>Commissioner may, for the purpose of determining any claim for  compensation, choose one or more persons possessing special knowledge  of any matter relevant to the enquiry, to assist him in holding the  enquiry.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.5">
+            <num>(5)</num>
+            <content>
+              <p>The Claims Commissioner shall have powers to pass such interim and  final order as the circumstance may require, including orders for  payment of costs.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-54">
+          <num>54.</num>
+          <heading>Decision of Claims Commissioner.-</heading>
+          <subsection id="section-54.1">
+            <num>(1)</num>
+            <content>
+              <p>Any question as to the  liability of the metro railway administration to pay compensation or  as to the person to whom such compensation is payable, shall be  determined by an order of the Claims Commissioner.</p>
+            </content>
+          </subsection>
+          <subsection id="section-54.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under sub- section (1) shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-55">
+          <num>55.</num>
+          <heading>Savings as to certain rights.-</heading>
+          <subsection id="section-55.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything  contained in any other law for the time being in force, where the  death of, or bodily injury to, any person gives rise to a claim for  compensation under this Act and also under any other law n force, the  person entitled to compensation may claim such compensation only once  either under this Act or under any other law in force.</p>
+            </content>
+          </subsection>
+          <subsection id="section-55.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in sub- section (1) shall affect the right of any person to  claim compensation payable under any contract or scheme providing for  compensation for death or personal injury or for damage to property or  insura ce. Power to make rules. 56. any sum payable under any  policy of</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-56">
+          <num>56.</num>
+          <heading>Power to make rules.-</heading>
+          <subsection id="section-56.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by  notification, make rules to carry out the provisions of this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-56.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-56.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the  foregoing power, such rules may provide for-</listIntroduction>
+                <item id="section-56.2.list1.i">
+                  <num>(i)</num>
+                  <p>the procedure for investigation of misbehaviour or incapacity of  the Claims Commissioner under sub- section (3) of section 51;</p>
+                </item>
+                <item id="section-56.2.list1.ii">
+                  <num>(ii)</num>
+                  <p>the salary and allowances and the other terms and conditions of  service of the Claims Commissioner under section 52; and</p>
+                </item>
+                <item id="section-56.2.list1.iii">
+                  <num>(iii)</num>
+                  <p>any other purpose incidental to or connected with the objects of  this Chapter.</p>
+                </item>
+              </blockList>
+              <p>CHAP</p>
+              <p>LIABILITY OF METRO RAILWAY ADMINISTRATION DUE TO ACCIDENTS</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-X">
+        <num>X</num>
+        <paragraph id="chapter-X.paragraph-0">
+          <content>
+            <p>LIABILITY OF METRO RAILWAY ADMINISTRATION DUE TO ACCIDENTS</p>
+          </content>
+        </paragraph>
+        <section id="section-57">
+          <num>57.</num>
+          <heading>Extent of liability.- The metro railway administration shall,</heading>
+          <paragraph id="section-57.paragraph-0">
+            <content>
+              <p>notwithstanding anything contained in any other law, be liable to pay  compensation for loss occasioned by the death of, or bodily injury to  any person to such extent as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-58">
+          <num>58.</num>
+          <heading>Application for compensation.- An application for compensation  arising out of an accident may be made to the Claims Commissioner by,-</heading>
+          <paragraph id="section-58.paragraph-0">
+            <content>
+              <blockList id="section-58.paragraph-0.list0">
+                <item id="section-58.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>the person who has sustained the injury or suffered any loss; or</p>
+                </item>
+                <item id="section-58.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>all or any of the dependants of the deceased where death has  resulted from the accident; or</p>
+                </item>
+                <item id="section-58.paragraph-0.list0.c">
+                  <num>(c)</num>
+                  <p>an agent duly authorised by the person injured or all or any of  the dependants of the deceased, as the case may be:</p>
+                </item>
+              </blockList>
+              <p>Provided that where all the dependants of the deceased have not joined  in any such application for compensation, the application shall be  made on behalf of or for the benefit of all the dependants of the  deceased and the dependants who have not so joined shall be impleaded  as respondents to the application.</p>
+              <p>Explanation.- For the purpose of this section, the word" dependant"</p>
+              <p>shall have the same meaning as given to it in clause (b) of section</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-123">
+          <num>123.</num>
+          <heading>of the Railways Act, 1989 (24 of 1989).</heading>
+          <paragraph id="section-123.paragraph-0">
+            <content>
+              <p>CHAP</p>
+              <p>OFFENCES AND PENALTIES</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-XI">
+        <num>XI</num>
+        <paragraph id="chapter-XI.paragraph-0">
+          <content>
+            <p>OFFENCES AND PENALTIES</p>
+          </content>
+        </paragraph>
+        <section id="section-59">
+          <num>59.</num>
+          <heading>Drunkenness or nuisance on metro railway.-</heading>
+          <subsection id="section-59.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-59.1.list1">
+                <listIntroduction>If any person, in  any carriage or upon any part of the metro railway,-</listIntroduction>
+                <item id="section-59.1.list1.a">
+                  <num>(a)</num>
+                  <p>is in a state of intoxication; or</p>
+                </item>
+                <item id="section-59.1.list1.b">
+                  <num>(b)</num>
+                  <p>commits any nuisance or vandalism or act of indecency, or uses  abusive or obscene language; or</p>
+                </item>
+                <item id="section-59.1.list1.c">
+                  <num>(c)</num>
+                  <p>wilfully or without excuse interferes in any way with the comfort  of any passenger,</p>
+                </item>
+              </blockList>
+              <p>he shall be punishable with fine which may extend to five hundred  rupees and shall also be liable to forfeiture of the fare which he may  have paid or any pass or ticket which he may have obtained or  purchased, or be removed from such carriage or part by ny metro  railway official authorised by the metro railway administration in  this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-59.2">
+            <num>(2)</num>
+            <content>
+              <p>If any metro railway official is in a state of intoxication while  on duty, he shall be punishable with fine which may extend to two  hundred and fifty rupees or, where the improper performance of the  duty would be likely to endanger the safety of any assenger travelling  or being upon the metro railway, with imprisonment for a term which  may extend to two years, or with fine which may extend to five hundred  rupees, or with both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-60">
+          <num>60.</num>
+          <heading>Penalty for taking or causing to take offensive material upon  metro railway.-</heading>
+          <subsection id="section-60.1">
+            <num>(1)</num>
+            <content>
+              <p>If, in contravention of sub- section (1) of section</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading/>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>, a person takes or causes to be taken any offensive material upon  the metro railway, he shall be punishable with fi e which may extend  to five hundred rupees.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to the penalties specified in sub- section (1), a  person takes or causes to be taken any offensive material upon the  metro railway shall be responsible also for any loss, injury or damage  which may be caused by reason of such material havi g been so brought  upon the metro railway.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-61">
+          <num>61.</num>
+          <heading>Penalty for taking or causing to take dangerous material upon  metro railway.-</heading>
+          <subsection id="section-61.1">
+            <num>(1)</num>
+            <content>
+              <p>If, in contravention of sub- section (1) of section</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading/>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>, a person takes or causes to be taken any dangerous material upon  the metro railway, he shall be punishable with im risonment for a term  which may extend to four years and with fine which may extend to five  thousand rupees.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to the penalties specified in sub- section (1), a  person takes or causes to be taken any dangerous material upon the  metro railway shall be responsible also for any loss, injury or damage  which may be caused by reason of such material havi g been so brought  upon the metro railway.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-62">
+          <num>62.</num>
+          <heading>Prohibition of demonstrations upon metro railway.-</heading>
+          <subsection id="section-62.1">
+            <num>(1)</num>
+            <content>
+              <p>No  demonstration of any kind whatsoever shall be held on any part of the  metro railway or other premises thereof and it shall be open to the  metro railway administration to exclude from such premi es any person  attending such demonstrations whether or not he is in possession of a  pass or ticket entitling him to be in the said premises.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.2">
+            <num>(2)</num>
+            <content>
+              <p>No person shall paste or put up any poster or write or draw  anything or matter in any compartment or carriage of the metro  railway, or any premises thereof, without any lawful authority and any  person found engaged in doing any such act may be remove from the  compartment, carriage or premises by any metro railway official  authorised by the metro railway administration in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-62.3">
+            <num>(3)</num>
+            <content>
+              <p>Whoever contravenes any of the provisions of sub- section (1) or  sub- section (2), or on being asked by any metro railway official to  leave any compartment, carriage or premises refuses to do so, shall be  punishable with imprisonment for a term which m y extend to six  months, or with fine which may extend to one thousand rupees, or with  both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-63">
+          <num>63.</num>
+          <heading>Penalty for traveling on roof, etc., of a train.- If any passenger  travels on the roof of a train or persists in travelling in any part  of a train not intended for the use of passengers or projects any part  of his body out of a train after being warne by any metro railway  official to desist, he shall be punishable with imprisonment for a  term which may extend to one month, or with fine which may extend to  fifty rupees, or with both, and shall also be liable to be removed  from the train by any metro r ilway official authorised by the metro  railway administration in this behalf.</heading>
+        </section>
+        <section id="section-64">
+          <num>64.</num>
+          <heading>Penalty for unlawfully entering or remaining upon metro railway  or walking on metro track.-</heading>
+          <subsection id="section-64.1">
+            <num>(1)</num>
+            <content>
+              <p>If a person enters into or upon the  metro railway without any lawful authority or having entered with  lawful authority remains there unlawfully and refuses to leave on  being requested to do so by any metro railway official, he shall be  punishable with imprisonment for a term which may extend to three  months, or with fine which may extend to two hundred and fifty rupees,</p>
+              <p>or with both.</p>
+            </content>
+          </subsection>
+          <subsection id="section-64.2">
+            <num>(2)</num>
+            <content>
+              <p>If any person walks on the metro track without any lawful  authority, he shall be punishable with imprisonment for a term which  may extend to six months, or with fine which may extend to five  hundred rupees, or with both.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-65">
+          <num>65.</num>
+          <heading>Endangering the safety of passengers by metro railway  official.- If any metro railway official, when on duty endangers the  safety of any passenger,-</heading>
+          <paragraph id="section-65.paragraph-0">
+            <content>
+              <blockList id="section-65.paragraph-0.list0">
+                <item id="section-65.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>by any rash or negligent act or omission; or</p>
+                </item>
+                <item id="section-65.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>by disobeying any rule, regulation or order which such official  was bound by the terms of his employment to obey, and of which he had  notice, he shall be punishable with imprisonment for a term which may  extend to five years, or with fine which may extend to six thousand  rupees, or with both.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-66">
+          <num>66.</num>
+          <heading>Abandoning train, etc., without authority.- If any metro railway  official, when on duty, is entrusted with any responsibility connected  with the running of a train, or any other rolling stock from one  station or place to another station or place, and e abandons his duty  before reaching such station or place, without authority or without  properly handing over such train or rolling stock to another  authorised metro railway official, he shall be punishable with  imprisonment for a term which may extend t four years, or with fine  which may extend to five thousand rupees, or with both.</heading>
+        </section>
+        <section id="section-67">
+          <num>67.</num>
+          <heading>Obstructing running of train, etc.- If any person obstructs or  causes to be obstructed or attempts to obstruct any train or rolling  stock upon the metro railway by squatting, picketing or keeping  without authority any rolling stock on the metro railwa or tampering  with any signalling installations or by interfering with the working  mechanism thereof, or otherwise, he shall be liable to be removed by  any metro railway official, authorised by the metro railway  administration in this behalf and shall al o be punishable with  imprisonment for a term which may extend to four years, or with fine  which may extend to five thousand rupees, or with both.</heading>
+        </section>
+        <section id="section-68">
+          <num>68.</num>
+          <heading>Obstructing metro railway official in his duties.- If any person  wilfully obstructs or prevents any metro railway official in the  discharge of his duties, he shall be punishable with imprisonment for  a term which may extend to one year, or with fine w ich may extend to  one thousand rupees, or with both.</heading>
+        </section>
+        <section id="section-69">
+          <num>69.</num>
+          <heading>Travelling without proper pass or ticket or beyond authorized  distance.-</heading>
+          <subsection id="section-69.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-69.1.list1">
+                <listIntroduction>If any passenger-</listIntroduction>
+                <item id="section-69.1.list1.a">
+                  <num>(a)</num>
+                  <p>travels in a train without having a proper pass or ticket with  him; or</p>
+                </item>
+                <item id="section-69.1.list1.b">
+                  <num>(b)</num>
+                  <p>being in or having alighted from a train, fails or refuses to  present for examination or to deliver up his pass or ticket  immediately on requisition being made therefor under section 24, or  travels in a train in contravention of the provisions of sec ion 25,</p>
+                </item>
+              </blockList>
+              <p>he shall be liable to pay, on demand of any metro railway official  appointed by the metro railway administration in this behalf, the  excess charge mentioned in sub- section (3) in addition to the ordinary  single fare for the distance which he has ravelled or, where there is  any doubt as to the station from which he started, the ordinary single  fare from the station from which the train originally started.</p>
+            </content>
+          </subsection>
+          <subsection id="section-69.2">
+            <num>(2)</num>
+            <content>
+              <p>If any passenger travels or attempts to travel in a carriage or by  a train or travels in or on a carriage beyond the place authorised by  his pass or ticket, he shall be liable to pay, on demand of any person  appointed by the metro railway administrat on in this behalf, the  excess charge mentioned in sub- section (3) in addition to any  difference between any fare paid by him and the fare payable in  respect of the journey he has made.</p>
+            </content>
+          </subsection>
+          <subsection id="section-69.3">
+            <num>(3)</num>
+            <content>
+              <p>The excess charge referred to in sub- sections (1) and (2) shall be  fifty rupees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-69.4">
+            <num>(4)</num>
+            <content>
+              <p>If any passenger liable to pay the excess charge and fare  mentioned in sub- section (1), or the excess charge and any difference  of fare mentioned in sub- section (2), fails or refuses to pay the same  on a demand being made therefor, any metro railway fficial authorised  by the metro railway administration in this behalf may apply to any</p>
+              <p>Metropolitan Magistrate for the recovery of the sum payable as if it  were a fine, and the Magistrate if satisfied that the sum is payable  shall order it to be so recov red, and may order that the person  liable for the payment shall in default of payment suffer imprisonment  for a term which may extend to one month.</p>
+            </content>
+          </subsection>
+          <subsection id="section-69.5">
+            <num>(5)</num>
+            <content>
+              <p>Any sum recovered under sub- section (4) shall, as and when it is  recovered, be paid to the Consolidated Fund of India.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-70">
+          <num>70.</num>
+          <heading>Needlessly interfering with means of communication in a train.- If  any passenger or any other person without reasonable and sufficient  cause, makes use of, or interferes with, any means provided by the  metro railway administration in a train for commu ication between  passengers and metro railway official in charge of the train, or  misuses alarm bell of the train, he shall be punishable with  imprisonment which may extend to one year, or with fine which may  extend to one thousand rupees, or with both.</heading>
+        </section>
+        <section id="section-71">
+          <num>71.</num>
+          <heading>Altering or defacing or counterfeiting pass or ticket.- If any  person wilfully breaks the security code of any pass or ticket, or  defaces or alters or counterfeits or duplicates it or acts in any way  to cause revenue loss to metro railway, he shall be punishable with  imprisonment for a term which may extend to six months.</heading>
+        </section>
+        <section id="section-72">
+          <num>72.</num>
+          <heading>Defacing public notices.- If any person without lawful authority-</heading>
+          <paragraph id="section-72.paragraph-0">
+            <content>
+              <blockList id="section-72.paragraph-0.list0">
+                <item id="section-72.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>in this behalf pulls down or wilfully damages any board or  documents set up or posted by the order of the metro railway  administration on the metro railway, or any rolling stock, or</p>
+                </item>
+                <item id="section-72.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>obliterates or alters any letters or figures upon any such board  or document or upon any rolling stock,</p>
+                </item>
+              </blockList>
+              <p>he shall be punishable with imprisonment which may extend to two  months or with fine up to two hundred and fifty rupees, or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-73">
+          <num>73.</num>
+          <heading>Any sale of articles on metro railway.- If any person sells or  exposes for sale, any article whatsoever in any metro railway carriage  or upon any part of the metro premises not authorised by metro railway  administration for such purpose, he shall be p nishable with fine  which may extend to five hundred rupees, and in default of payment of  fine, he shall be punishable with imprisonment which may extend to six  months:</heading>
+          <paragraph id="section-73.paragraph-0">
+            <content>
+              <p>Provided that, in the absence of special and adequate reasons to the  contrary to be mentioned in the judgment of the court, such fine shall  not be less than one hundred rupees.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-74">
+          <num>74.</num>
+          <heading>Maliciously wrecking a train or causing sabotage.-</heading>
+          <subsection id="section-74.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-74.1.list1">
+                <listIntroduction>If any  person-</listIntroduction>
+                <item id="section-74.1.list1.a">
+                  <num>(a)</num>
+                  <p>loosens or displaces any rail or any other matter or thing  belonging to the metro railway; or</p>
+                </item>
+                <item id="section-74.1.list1.b">
+                  <num>(b)</num>
+                  <p>turns, moves, unlocks or diverts any point or other machinery  belonging to the metro railway; or</p>
+                </item>
+                <item id="section-74.1.list1.c">
+                  <num>(c)</num>
+                  <p>does or causes to be done any act of sabotage in relation to the  metro railway with intent or with knowledge that it is likely to  endanger safety of any person upon the metro railway,</p>
+                </item>
+              </blockList>
+              <p>he shall be punishable with imprisonment for life, or with rigorous  imprisonment for a term which may extend to ten years:</p>
+              <blockList id="section-74.1.list4">
+                <listIntroduction>Provided that, in the absence of special and adequate reasons to the  contrary to be mentioned in the judgment of the court, where a person  is punished with rigorous imprisonment, such imprisonment shall not be  less than-</listIntroduction>
+                <item id="section-74.1.list4.i">
+                  <num>(i)</num>
+                  <p>three years in the case of a first conviction; and</p>
+                </item>
+                <item id="section-74.1.list4.ii">
+                  <num>(ii)</num>
+                  <p>seven years in the case of conviction for the second or  subsequent offence.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-74.2">
+            <num>(2)</num>
+            <content>
+              <p>If a person unlawfully does any act of sabotage or any other act  referred to in sub- section (1) with intent to cause the death of any  person, or with knowledge that such act is so imminently dangerous  that it must in all probability cause the death o any person or such  bodily injury to any person as is likely to cause the death of any  person, he shall be punishable with death or imprisonment for life.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-75">
+          <num>75.</num>
+          <heading>Penalty for unauthorized sale of tickets.- If any person not being  a metro railway official, or an agent authorised in this behalf under  sub- section (2) of section 23 sells or attempts to sell any ticket in  order to enable any other person to travel t erewith, he shall be  punishable for a term which may extend to three months, or fine which  may extend to five hundred rupees, or with both, and shall also  forfeit the ticket which he sells or attempts to sell.</heading>
+        </section>
+        <section id="section-76">
+          <num>76.</num>
+          <heading>Maliciously hurting or attempting to hurt persons traveling by  metro railway.- If any person unlawfully throws or causes to fall or  strike at, against, into or upon any rolling stock forming part of a  train, any wood, stone or other matter or thing wi h intent, or with  knowledge that it is likely to endanger the safety of any person being  in or upon such rolling stock or in or upon any other rolling stock  forming part of the same train, he shall be punishable with  imprisonment for life or with impriso ment for a term which may extend  to ten years.</heading>
+        </section>
+        <section id="section-77">
+          <num>77.</num>
+          <heading>Endangering safety of persons traveling by metro railway by rash  or negligent act or omission.- If any person in a rash or negligent  manner does any act, or omits to do what he is legally bound to do,</heading>
+          <paragraph id="section-77.paragraph-0">
+            <content>
+              <p>and the act or omission is likely to endanger the afety of any person  travelling or being upon the metro railway, he shall be punishable  with imprisonment for a term which may extend to one year, or with  fine, or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-78">
+          <num>78.</num>
+          <heading>Damage to or destruction of certain metro railway properties.-</heading>
+          <subsection id="section-78.1">
+            <num>(1)</num>
+            <content>
+              <p>Whoever, with intent to cause or knowing that he is likely to cause  damage to or destruction of any of the properties of the metro railway  referred to in sub- section (2), causes by fir, explosive substance or  otherwise causes damage to such property, he shall be punishable with  imprisonment for a term which may extend to ten years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-78.2">
+            <num>(2)</num>
+            <content>
+              <p>The properties of the metro railway referred to in sub- section (1)</p>
+              <p>are the metro railway track, tunnels, sub- way, box- structures, station  buildings and installations, carriage and wagons, rolling stock,</p>
+              <p>signalling, telecommunication, air- conditioning and ventilation  equipments, electrical sub- station, drainage pump, escalators, lifts,</p>
+              <p>lighting installations, ticket vending machine, ticket barriers,</p>
+              <p>electric traction and block equipments, and such other properties as  the Central Government may, by not fication, specify.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-79">
+          <num>79.</num>
+          <heading>Endangering the safety of persons traveling by metro railway by  willful act or omission.- If any person by unlawful act or by any  wilful omission or neglect or by tampering with safety devices,</heading>
+          <paragraph id="section-79.paragraph-0">
+            <content>
+              <p>endangers or causes to be endangered the safety of any pe son  travelling on or being upon any metro railway, or obstructs or causes  to be obstructed or attempts to obstruct any rolling stock upon any  metro railway, he shall be punishable with imprisonment for a term  which may extend to seven years:</p>
+              <blockList id="section-79.paragraph-0.list2">
+                <listIntroduction>Provided that, in the absence of special and adequate reasons to the  contrary to be mentioned in the judgment of the court, such  imprisonment shall not be less than-</listIntroduction>
+                <item id="section-79.paragraph-0.list2.i">
+                  <num>(i)</num>
+                  <p>six months in the case of first conviction; and</p>
+                </item>
+                <item id="section-79.paragraph-0.list2.ii">
+                  <num>(ii)</num>
+                  <p>two years in the case of conviction for the second or subsequent  offence.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-80">
+          <num>80.</num>
+          <heading>Penalty for making a false claim for compensation.- If any person  requiring compensation from the metro railway administration under</heading>
+        </section>
+      </chapter>
+      <chapter id="chapter-X">
+        <num>X</num>
+        <heading>makes a claim which is false or which he knows or believes  to be false or does not believe to be true, he sh ll be punishable  with imprisonment for a term which may extend to three years, or with  fine, or with both.</heading>
+        <section id="section-81">
+          <num>81.</num>
+          <heading>Offences by companies.-</heading>
+          <subsection id="section-81.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an offence under this Act has  been committed by a company, every person who, at the time the offence  was committed, was in charge of, and was responsible to, the company,</p>
+              <p>for the conduct of the business of the company as well as the company,</p>
+              <p>shall be deemed to be guilty of the offence and shall be liable to be  proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub- section shall render any  such person liable to any punishment, if he proves that the offence  was committed without his knowledge or that he had exercised all due  diligence to prevent the commission of such offe ce.</p>
+            </content>
+          </subsection>
+          <subsection id="section-81.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub- section (1), where any  offence under this Act has been committed by a company and it is  proved that the offence has been committed with the consent or  connivance of, or is attributable to any neglect on the p rt of, any  director, manager, secretary or other officer of the company, such  director, manager, secretary or other officer shall be deemed to be  guilty of that offence and shall be liable to be proceeded against and  punished accordingly.</p>
+              <blockList id="section-81.2.list2">
+                <listIntroduction>Explanation.- For the purpose of this section,-</listIntroduction>
+                <item id="section-81.2.list2.a">
+                  <num>(a)</num>
+                  <p>" company" means any body corporate and includes a firm or other  association of individuals; and</p>
+                </item>
+                <item id="section-81.2.list2.b">
+                  <num>(b)</num>
+                  <p>" director", in relation to a firm, means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-82">
+          <num>82.</num>
+          <heading>Power of arrest without warrant.-</heading>
+          <subsection id="section-82.1">
+            <num>(1)</num>
+            <content>
+              <p>If a person commits any  offence mentioned in sections 59, 61, 65 to 79, he may be arrested  without warrant or other written authority by any metro railway  official or by a police officer not below the rank of a he d constable  or by any other person whom such metro railway official or police  officer may call to his aid:</p>
+              <p>Provided that where a person has been arrested, by any person other  than the police officer, he shall be made over to a police officer,</p>
+              <p>or, in the absence of a police officer, take such person or cause him  to be taken in custody to the nearest police sta ion.</p>
+            </content>
+          </subsection>
+          <subsection id="section-82.2">
+            <num>(2)</num>
+            <content>
+              <p>A person so arrested under sub- section (1) shall be produced  before the nearest Magistrate, having authority to try him or commit  him for trial, as early as possible but within a period not exceeding  twenty- four hours of such arrest exclusive of the ime necessary for  the journey from the place of arrest to the court of the Magistrate.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-83">
+          <num>83.</num>
+          <heading>Arrest of person likely to abscond, etc.-</heading>
+          <subsection id="section-83.1">
+            <num>(1)</num>
+            <content>
+              <p>If any person  commits any offence under this Act, other than an offence mentioned in  section 82 or fails or refuses to pay any excess charge or other sum  demanded under section 69 and there is reason to be ieve that he may  abscond, or his name and address are unknown and he refuses on demand  to give his name and address, or there is reason to believe that name  and address given by him is incorrect, any metro railway official or  police officer not below the rank of head constable, or any other  person whom such metro railway official may call to his aid, may,</p>
+              <p>without warrant or written authority, arrest him.</p>
+            </content>
+          </subsection>
+          <subsection id="section-83.2">
+            <num>(2)</num>
+            <content>
+              <p>A person so arrested shall be produced before the nearest</p>
+              <p>Magistrate, having authority to try him or commit him for trial, as  early as possible but within a period not exceeding twenty- four hours,</p>
+              <p>arrest to the court of the Magistrate. exclusive of the time  necessary for the journey from he place of</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-84">
+          <num>84.</num>
+          <heading>Magistrate having jurisdiction under the Act.- Notwithstanding  anything contained in the Code of Criminal Procedure, 1973 (2 of</heading>
+        </section>
+        <section id="section-1974">
+          <num>1974.</num>
+          <heading/>
+          <paragraph id="section-1974.paragraph-0">
+            <content>
+              <p>), no court inferior to that of a Metropolitan Magistrate shall  try an offence under this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-85">
+          <num>85.</num>
+          <heading>Place of trial.-</heading>
+          <subsection id="section-85.1">
+            <num>(1)</num>
+            <content>
+              <p>Any person committing an offence under this</p>
+              <p>Act, or any rule or regulation made thereunder, shall be triable for  such offence in any place in which he may be, or which the Government  of the National Capital Territory of Delhi may otify in this behalf,</p>
+              <p>as well as any other place in which he is liable to be tried under any  law for the time being in force.</p>
+            </content>
+          </subsection>
+          <subsection id="section-85.2">
+            <num>(2)</num>
+            <content>
+              <p>Every notification under sub- section (1) shall be published by the</p>
+              <p>Government of the National Capital Territory of Delhi in the Delhi</p>
+              <p>Gazette and a copy thereof shall be exhibited for the information of  the public in some conspicuous place at such me ro railway stations as  that Government may direct.</p>
+              <p>CHAP</p>
+              <p>MISCELLANEOUS</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-XII">
+        <num>XII</num>
+        <paragraph id="chapter-XII.paragraph-0">
+          <content>
+            <p>MISCELLANEOUS</p>
+          </content>
+        </paragraph>
+        <section id="section-86">
+          <num>86.</num>
+          <heading>Power of Central Government to issue directions.- Without  prejudice to the foregoing provisions of this Act, the metro railway  administration in case of the non- Government metro railway shall, in  the discharge of its duties and functions under this Ac, be bound by  such directions on questions of policy as the Central Government may  give in writing to it from time to time: Provided that the metro  railway administration shall, as far as practicable, be given  opportunity to express its views before any direction is given under  this section.</heading>
+        </section>
+        <section id="section-87">
+          <num>87.</num>
+          <heading>Prohibition to work as non- Government metro railway.- No  non- Government metro railway shall work without obtaining permission  from the Central Government.</heading>
+        </section>
+        <section id="section-88">
+          <num>88.</num>
+          <heading>Protection of action taken in good faith.- No suit, prosecution or  other legal proceedings shall lie against the Central Government, any  metro railway administration, a metro railway official or against any  other person, for anything which is in good aith done or intended to  be done in pursuance of this Act or any rules, regulations or orders  made thereunder.</heading>
+        </section>
+        <section id="section-89">
+          <num>89.</num>
+          <heading>Restriction on execution against metro railway property.-</heading>
+          <subsection id="section-89.1">
+            <num>(1)</num>
+            <content>
+              <p>No  rolling stock, metro railway tracks, machinery, plant, tools,</p>
+              <p>fittings, materials or effects used or provided by a metro railway  administration for the purpose of traffic on its railway, or its  stations or workshops, or offices shall be liable to be taken in  execution of any decree or order of any court or of any local  authority or person having by law the power to attach or distrain  property or otherwise to cause the property to be take in execution,</p>
+              <p>without the previous sanction of the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-89.2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in sub- section (1) is to be construed as affecting the  authority of any court to attach the earnings of the metro railway  administration in execution of a decree or order.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-90">
+          <num>90.</num>
+          <heading>Officials of metro railway administration to be public  servants.- All persons in the employment of the metro railway  administration shall, when acting or purporting to act in pursuance of  the provisions of this Act, be deemed to be public servants wit in the  meaning of section 21 of the Indian Penal Code (45 of 1860).</heading>
+        </section>
+        <section id="section-91">
+          <num>91.</num>
+          <heading>Procedure for delivery to metro railway administration of  property detained by a metro railway official.- If a metro railway  official is discharged from service or is suspended, or dies or  absconds or absents himself, and he or his spouse or widow or ny  member of his family or his representative, refuses or neglects, after  notice in writing for that purpose, to deliver up to the metro railway  administration or to a person appointed by the metro railway  administration, in this behalf, any station, dwe ling house, office or  other building with its appurtenances, or any books, papers, keys,</heading>
+          <paragraph id="section-91.paragraph-0">
+            <content>
+              <p>equipments or other matters, belonging to the metro railway  administration and in the possession or custody of such metro railway  official on the occurrence of any s ch event as aforesaid, any</p>
+              <p>Metropolitan Magistrate may, on application made by or on behalf of  the metro railway administration, order any police officer, with  proper assistance, to enter upon the station, office or other building  and remove any person f und therein and take possession thereof, or to  take possession of the books, papers and other matters, and to deliver  the same to the metro railway administration or to a person appointed  by the metro railway administration in that behalf.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-92">
+          <num>92.</num>
+          <heading>Proof of entries in records and documents.-</heading>
+          <subsection id="section-92.1">
+            <num>(1)</num>
+            <content>
+              <p>Entries made in  the records or other documents of the metro railway administration  shall be admitted in evidence in all proceedings by or against the  metro railway administration, and all such entries ma be proved either  by the production of the records or other documents of the metro  railway administration containing such entries or by the production of  a copy of the entries certified by the officer having custody of the  records or other documents unde his signature and stating that it is a  true copy of the original entries and that such original entries are  contained in the records or other documents of the metro railway  administration in his possession.</p>
+            </content>
+          </subsection>
+          <subsection id="section-92.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law, a court shall  presume that the entries in the records of the metro railway  administration admitted in evidence under sub- section (1) are true,</p>
+              <p>unless there is evidence to the contrary.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-93">
+          <num>93.</num>
+          <heading>Service of notice, etc., on metro railway administration.- Any  notice or other document required or authorised by this Act to be  served on a metro railway administration may be served-</heading>
+          <paragraph id="section-93.paragraph-0">
+            <content>
+              <blockList id="section-93.paragraph-0.list0">
+                <item id="section-93.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>by leaving it at the office of the metro railway administration;</p>
+                </item>
+              </blockList>
+              <blockList id="section-93.paragraph-0.list2">
+                <listIntroduction>or</listIntroduction>
+                <item id="section-93.paragraph-0.list2.b">
+                  <num>(b)</num>
+                  <p>by registered post to the office address of the metro railway  administration.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-94">
+          <num>94.</num>
+          <heading>Service of notice, etc., by metro railway administration.- Any  notice or other document required or authorised by this Act to be  served on any person by the metro railway administration may be served  by-</heading>
+          <paragraph id="section-94.paragraph-0">
+            <content>
+              <blockList id="section-94.paragraph-0.list0">
+                <item id="section-94.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>delivering it to the person; or</p>
+                </item>
+                <item id="section-94.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>leaving it at the usual or the last known place of abode of the  person; or</p>
+                </item>
+                <item id="section-94.paragraph-0.list0.c">
+                  <num>(c)</num>
+                  <p>registered post addressed to the person at his usual or the last  known place of abode.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-95">
+          <num>95.</num>
+          <heading>Presumption where notice is served by registered post.- Where a  notice or other document is served by registered post, it shall be  deemed to have been served at the time when the letter containing it  would be delivered in the ordinary course of post, nd in proving such  service, it shall be sufficient to prove that the letter containing  the notice or other document was properly addressed and registered.</heading>
+        </section>
+        <section id="section-96">
+          <num>96.</num>
+          <heading>Representation of metro railway administration.-</heading>
+          <subsection id="section-96.1">
+            <num>(1)</num>
+            <content>
+              <p>The metro  railway administration may, by order in writing, authorise any of its  official or other person to act for, or represent it, as the case may  be, in any proceeding before any civil, criminal or other court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-96.2">
+            <num>(2)</num>
+            <content>
+              <p>A person authorised under sub- section (1) to conduct prosecution  on its behalf shall, notwithstanding anything in section 302 of the</p>
+              <p>Code of Criminal Procedure, 1973 (2 of 1974), be entitled to conduct  such prosecutions without the permission of the agistrate.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-97">
+          <num>97.</num>
+          <heading>Appointment of security staff.- The metro railway administration  may constitute and maintain security staff for its railway, and the  powers, duties and functions of such staff shall be such as may be  prescribed.</heading>
+        </section>
+        <section id="section-98">
+          <num>98.</num>
+          <heading>Delegation of powers.-</heading>
+          <subsection id="section-98.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by  notification, direct that all or any of the powers under this Act or  rules made thereunder, except sections 22, 32, 47, 56, 99 and 100,</p>
+              <p>exercisable by it, shall, in relation to such matters and subject to  such conditions, if any, as may be specified in the notification, be  exercisable also by such officer or authority subordinate to the</p>
+              <p>Central Government or by such officer of the metro railway  administration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-98.2">
+            <num>(2)</num>
+            <content>
+              <p>The metro railway administration may, by general or special order  in writing, delegate to any of its official subject to such conditions  and limitations, if any, as may be specified in the order, such of its  powers and functions under this Act, excep its power under section</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-101">
+          <num>101.</num>
+          <heading/>
+        </section>
+        <section id="section-99">
+          <num>99.</num>
+          <heading>Power to remove difficulties.-</heading>
+          <subsection id="section-99.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in  giving effect to the provisions of this Act, the Central Government  may, by order, not inconsistent with the provisions of this Act,</p>
+              <p>remove the difficulty:</p>
+              <p>Provided that no such order shall be made after the expiry of a period  of two years from the commencement of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-99.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order made under this section shall be laid before each</p>
+              <p>House of Parliament.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-100">
+          <num>100.</num>
+          <heading>Power of Central Government to make rules.-</heading>
+          <subsection id="section-100.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central</p>
+              <p>Government may, by notification, make rules for carrying out the  purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-100.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-100.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the  foregoing power, such rules may provide for all or any of the  following matters, namely:-</listIntroduction>
+                <item id="section-100.2.list1.a">
+                  <num>(a)</num>
+                  <p>the form and time for preparing and sending annual report under  section 12;</p>
+                </item>
+                <item id="section-100.2.list1.b">
+                  <num>(b)</num>
+                  <p>the terms and conditions of the Fare Fixation Committee under  section 35;</p>
+                </item>
+                <item id="section-100.2.list1.c">
+                  <num>(c)</num>
+                  <p>the procedure to be followed by the Fare Fixation Committee under  section 35;</p>
+                </item>
+                <item id="section-100.2.list1.d">
+                  <num>(d)</num>
+                  <p>the extent of compensation payable under section 57;</p>
+                </item>
+                <item id="section-100.2.list1.e">
+                  <num>(e)</num>
+                  <p>the powers, duties and functions of the security staff of the</p>
+                </item>
+              </blockList>
+              <blockList id="section-100.2.list3">
+                <listIntroduction>Government metro railway under section 97; and</listIntroduction>
+                <item id="section-100.2.list3.f">
+                  <num>(f)</num>
+                  <p>without prejudice to any power to make rules contained elsewhere  in this Act, generally to carry out the purposes of this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-101">
+          <num>101.</num>
+          <heading>Power of metro railway administration to make regulations.- The</heading>
+          <paragraph id="section-101.paragraph-0">
+            <content>
+              <p>Government metro railway administration may, with the previous  approval of the Central Government, make regulations not inconsistent  with this Act and the rules made thereunder, to provi e for all  matters for which provisions are necessary or expedient for the  purpose of giving effect to the provisions of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-102">
+          <num>102.</num>
+          <heading>Rules and regulations to be laid before Parliament.- Every rule  made by the Central Government and every regulation made by a</heading>
+          <paragraph id="section-102.paragraph-0">
+            <content>
+              <p>Government metro railway administration under this Act shall be laid,</p>
+              <p>as soon as may be after it is made, before each House f Parliament,</p>
+              <p>while it is in session, for a total period of thirty days which may be  comprised in one session or in two or more successive sessions, and  if, before the expiry of the session immediately following the session  or the successive sessions afo esaid, both Houses agree in making any  modification in the rule or regulation or both Houses agree that the  rule or regulation should not be made, the rule or regulation shall  thereafter have effect only in such modified form or be of no effect,</p>
+              <p>as the c se may be; so, however, that any such modification or  annulment shall be without prejudice to the validity of anything  previously done under that rule or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-103">
+          <num>103.</num>
+          <heading>Effect of Act inconsistent with other enactments.- The provisions  of this Act shall have effect notwithstanding anything inconsistent  therewith contained in any enactment other than this Act or in any  instrument having effect by virtue of any enactme t other than this</heading>
+          <paragraph id="section-103.paragraph-0">
+            <content>
+              <p>Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-104">
+          <num>104.</num>
+          <heading>Application of other Acts.- Save as otherwise provided in this</heading>
+          <paragraph id="section-104.paragraph-0">
+            <content>
+              <p>Act, the provisions of this Act shall be in addition to and not in  derogation of the Metro Railways (Construction of Works) Act, 1978 (33   of 1978).</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-105">
+          <num>105.</num>
+          <heading>Repeal and savings.-</heading>
+          <subsection id="section-105.1">
+            <num>(1)</num>
+            <content>
+              <p>The Delhi Metro Railway (Operation and</p>
+              <p>Maintenance) Ordinance, 2002 (Ord. 7 of 2002) is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-105.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding such repeal, anything done or any action taken  under the said Ordinance, shall be deemed to have been done or taken  under the corresponding provisions of this Act.</p>
+              <p>----</p>
+              <p>SUBHASH C. JAIN,</p>
+              <p>Secy. to the Govt. of India.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

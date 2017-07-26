@@ -1,0 +1,792 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/1975/05/main"/>
+          <FRBRuri value="/in-mah/act/1975/05"/>
+          <FRBRalias value="The Maharashtra Provision Of Facilities For Agricultural Credits By Bank Act, 1974"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/1975/05/eng@2017-03-10/main"/>
+          <FRBRuri value="/in-mah/act/1975/05/eng@2017-03-10"/>
+          <FRBRdate date="2017-03-10" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/1975/05/eng@2017-03-10/main"/>
+          <FRBRuri value="/in-mah/act/1975/05/eng@2017-03-10"/>
+          <FRBRdate date="2017-03-10" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Maharashtra Provision Of Facilities For Agricultural Credits By Bank Act, 1974</shortTitle>
+      </p>
+      <longTitle>
+        <p>(Act No. 05 of 1975)</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[10th March, 1975]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to make better provision for the adequate supply of credit or increasing agricultural production and development in the State; and for that purpose to remove any restrictions on alienations of certain agricultural lands; so that banks may provide credit on such agricultural lands; to provide for the speedy recovery of the dues of such bank which provide credit; and to provide for matters connected with and incidental to the purposes aforesaid.</p>
+      <p>WHEREAS it is expedient to make better provision for the adequate supply of credit for increasing agricultural production and development in the State; and for the purpose to remove any restrictions on the alienations of certain agricultural lands, so that banks may provide credit on such agricultural lands; to provide for the speedy recovery of the dues of such bank which provide credit; and to provide for matters connected with and incidental to the purposes aforesaid. It is hereby enacted in the Twenty-fifth Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Maharashtra Provision of Facilities for Agricultural Credit by Banks Act, 1974.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of the State of Maharashtra.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context requires otherwise,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>"agriculture" or "agricultural purpose" includes making land fit for cultivation, cultivation of land, improvement of land including development of sources of irrigation, raising and harvesting of crops, horticulture, forestry, planting and farming and cattle breeding, animal husbandry, dairy farming, seed farming, pisciculture, apiculture, sericulture, piggery, poultry farming and such other activities as are generally carried on by agriculturists, dairy farmers, cattle breeders, poultry farmers and other categories of persons engaged in similar activities including marketing of agricultural products, their storage and transport and the acquisition of implements and machinery in connection with any such activity; and also includes the purposes enumerated in section 111 of the Maharashtra Co-operative Societies Act, 1960;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>"agriculturist" means a person who is engaged in agriculture;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"Agro-Industries Corporation" means a company or other body corporate, one of the principal objectives of which is to undertake activities connected with or intended for the development of agriculture, and not less than fifty-one per cent of the paid-up share capital of which is held by the Central Government or by any State Government or Governments, or partly by the Central Government and partly by one or more State Governments:</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <blockList id="section-2.paragraph-0.list1.d.list0">
+                    <listIntroduction>"bank" means-</listIntroduction>
+                    <item id="section-2.paragraph-0.list1.d.list0.i">
+                      <num>(i)</num>
+                      <p>a banking company as defined in the Banking Regulation Act, 1949;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>the State Bank of India constituted under the State Bank of India Act, 1955;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.iii">
+                      <num>(iii)</num>
+                      <p>a Subsidiary Bank as defined in the State Bank of India (Subsidiary Banks) Act, 1959;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.iv">
+                      <num>(iv)</num>
+                      <p>a corresponding new bank constituted under the Banking Companies (Acquisition and Transfer of Undertaking) Act, 1970;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.v">
+                      <num>(v)</num>
+                      <p>any banking institution notified by the Central Government under section 51 of the Banking Regulation Act, 1949;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.vi">
+                      <num>(vi)</num>
+                      <p>the Agricultural Refinance Corporation constituted under the Agricultural Refinance Corporation Act, 1963;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.vii">
+                      <num>(vii)</num>
+                      <p>any Agro-Industries Corporation;</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.viii">
+                      <num>(viii)</num>
+                      <p>the Agricultural Finance Corporation Limited, a company incorporated under the Companies Act, 1956; or</p>
+                    </item>
+                    <item id="section-2.paragraph-0.list1.d.list0.ix">
+                      <num>(ix)</num>
+                      <p>any other financial institution notified by the State Government in the Official Gazette as a bank, for the purpose of this Act;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>"co-operative society" means a co-operative society registered or deemed to be registered under the Maharashtra Co-operative Societies Act, 1960, and the object of which is to provide financial assistance to its members, and includes a co-operative land development bank;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>"financial assistance" means assistance granted by way of loans, advances, guarantee or otherwise for any agricultural purpose or for purchase of shares of any co-operative agricultural processing society or any co-operative society undertaking land development or improvement works including lift irrigation;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>"prescribed" means prescribed by rules made under this Act;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>"Registrar" means a person appointed to be the Registrar of Co-operative Societies under the Maharashtra Co-operative Societies Act, 1960, and includes any person appointed to assist the Registrar under section 3 of that Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Rights of agriculturists to alienate land or interest therein in favour of banks</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Removal of restrictions on alienation.</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force or in any custom or usage, which restricts the right to alienate any land (or any interest therein), it shall be lawful for an agriculturist to alienate (whether by creation of a charge or mortgage on such land, or any other interest) any land to the extent of his right therein, or any right, title and interest he may have in the land, in favour of a bank for the purpose of obtaining financial assistance from that bank.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Charge on crop and other movable property in favour of a bank.</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be lawful for such agriculturist to create a charge on the movable property owned by him, or on the crops raised by him, standing or otherwise, or other produce from land cultivated by him, to the extent of interest therein, in favour of a bank, to secure financial assistance from that bank, notwithstanding that he may not be the owner of the land or from which the crop of other produce is raised.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a charge is created for any financial assistance given to an agriculturist by a bank, then notwithstanding anything to the contrary in the Maharashtra Co-operative Societies Act, 1960, no subsequent charge in respect of financial assistance provided by a Co-operative Society shall have priority over such charge on the crops raised by him, standing or otherwise, or any other movable property, in respect of any financial assistance given to him by the bank.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>A bank may distraint and sell, through an officer designated by the State Government in this behalf, the crop or other produce or any movables charged to that bank to the extent of the agriculturist's interest therein, and appropriate the proceeds of such sale towards all money due to the bank from that agriculturist.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Creation of charge on land in favour of a bank by declaration.</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>Where an agriculturist create a charge on land or any other immovable property, which he owns or in which he has an interest, in respect of any financial assistance given to him by a bank, he may make a declaration in accordance with the form set out in the Schedule or as near thereto circumstances permit, declaring that thereby he creates, in favour of the bank, a charge on such land or his interest therein, or other immovable property, as the case may be, to secure the financial assistance provided to him by the bank.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>A declaration made under sub-section (1) may be varied from time to time by the agriculturist with the consent of the Bank in whose favour the declaration has been made.</p>
+              <p> </p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Charges and mortgages in favour of banks and priorities thereof</heading>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Removal of disability in creation of charges and mortgages.</heading>
+          <paragraph id="section-6.paragraph-0">
+            <content>
+              <p>Notwithstanding anything to the contrary contained in the Maharashtra Co-operative Societies Act, 1960, or any other law for the time being in force, and notwithstanding that any land (or any interest therein) stands already charged on or mortgaged to a co-operative society, an agriculturist may create a charge on or mortgage such land (or any interest therein) in favour of a bank as security for any financial assistance given to the agriculturist by that bank, provided that prior notice thereof is given by such agriculturist and by that bank to the co-operative society concerned.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Priority of charges and mortgages in favour of a bank, Government and Co-operative Society.</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-7.1.list1">
+                <listIntroduction>Notwithstanding anything to the contrary contained in any law for the time being in force,-</listIntroduction>
+                <item id="section-7.1.list1.a">
+                  <num>(a)</num>
+                  <p>any charge created or mortgage given by an agriculturist in favour of or to a bank, as security for any financial assistance given to him by the bank, shall, after the commencement of this Act, if prior in time, have priority over any subsequent charge or mortgage in favour of the Government or a co-operative Society; and;</p>
+                </item>
+                <item id="section-7.1.list1.b">
+                  <num>(b)</num>
+                  <p>any charge created or mortgage given on any land (or 'any interest therein), in favour of a bank, in respect of financial assistance given to an agriculturist by a bank, shall have priority over any other charge or mortgage in or over such land (or any interest therein), in favour of such person other than Government or a Co-operative Society or any other bank, notwithstanding that such charge or mortgage is prior in time to the charge or mortgage created in favour of the bank.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>Where different charges or mortgages on the same land (or interest therein), are created by an agriculturist in favour of Government, one or more co-operative societies or one or more banks, any such charges created or mortgages given as security for financial assistance given by the Government, co-operative society or bank by way of term loan for development purposes, shall have priority over any other charges or mortgages created or given in favour of Government, co-operative society or bank; provided a notice of such financial assistance by way of term loan for development purposes has been given to such Government, co-operative society or bank, and that Government, co-operative' society or bank has consented to the financial assistance being given; and where more than one such charge or mortgage is created or given as security for financial assistance by way of term loan, the charges or mortgages by way of security for the term loan for development purposes shall rank in priority inter se in accordance with the dates of their creation.</p>
+              <p>Explanation-For the purposes of this section "term loan for development purposes" means financial assistance which will generally result in improvement of agriculture or the building up of tangible assets in agriculture; but does not include financial assistance for working capital expenses, seasonal agricultural operations or marketing crops,</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-7.3.list1">
+                <listIntroduction>Nothing in this section shall apply-</listIntroduction>
+                <item id="section-7.3.list1.i">
+                  <num>(i)</num>
+                  <p>to borrowings only from one or more Co-operative Societies, and</p>
+                </item>
+                <item id="section-7.3.list1.ii">
+                  <num>(ii)</num>
+                  <p>to the recovery of sums due to the Government as arrears of land revenue.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Registration of charge or mortgage in favour of a bank.</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Registration Act, 1908, it shall not be necessary to register a charge in respect of which a declaration has been made under sub-section (1) of section 5, or in respect of which a variation has been made under sub-section (2) of that section, or a mortgage executed by an agriculturist in favour of a bank, and such charge, variation or mortgage shall have effect from the date it is created or made, provided that the bank sends within such time and in such manner as may be prescribed, a copy of the instrument whereby the charge, variation or mortgage is created or made to the Registering Officer within the local limits of whose jurisdiction the whole or any part of the property charged or mortgaged is situated, and such Registering Officer shall file a copy or copies, as the case may be, in his Book No. 1 prescribed under section 51 of the Registration Act, 1908.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Nothing of charge or mortgage created in favour of a bank in Record of Rights</heading>
+          <paragraph id="section-9.paragraph-0">
+            <content>
+              <p>Whenever a charge is created or mortgage is given on land (or interest therein), in favour of a bank in respect of financial assistance given to an agriculturist by that bank, the bank shall give intimation to the Talathi or such other Revenue Officer as may be designated in this behalf by the State Government, of the particulars of the charge or mortgage in its favour. The Talathi or the other Revenue Officer shall make a note of the particulars of the charge or mortgage in the Record of Rights relating to the land over which the charge or mortgage has been created. The bank shall likewise give intimation to the Talathi or the other Revenue Officer as soon as financial assistance given by it to the agriculturist ceases to be outstanding and thereupon the Talathi or the other revenue officer shall make a suitable note in the Record of Rights about release of the land from the charge or mortgage, as the case may be.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Restrictions on creation of tenancy by agriculturist borrower.</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, an agriculturist, who has availed himself of financial assistance from a bank by creating a charge or mortgage on land (or interest therein), shall not, after he had availed of such assistance and so long as such assistance continues to be outstanding, lease that land (or interest therein), or create any tenancy rights thereon, or enter into an agreement of sale without prior permission in writing of the bank.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Any lease granted or tenancy rights created in contravention of this section shall be void.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Arrangements for recovery of dues by banks</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Recovery of dues of a bank through prescribed authority.</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>An officer designated by the State Government as the prescribed authority for the purpose of this section may, on the application of a bank, after making such inquiry as he deems fit, make an order on any agriculturist or his heirs or legal representatives, directing the payment of any sum due to the bank on account of financial assistance availed of by the agriculturist, by the sale of any land (or interest therein), upon which the payment of such money is charged or mortgaged:</p>
+              <p>Provided that, no order shall be made by the prescribed authority under this section for sale of any land (or interest therein) or any immovable property upon which the payment of money is charged or mortgaged, unless the agriculturist or his heirs or legal representatives of the agriculturist, as the case may be, have been served with a notice by the prescribed authority calling upon them to pay the amount due.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order passed by the prescribed authority under sub-section (1) shall be deemed to be a decree of a Civil Court and shall be executed in the same manner as a decree of such Court.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>Nothing in this section shall debar a bank from seeking to enforce its rights in any other manner under any other law for the time being in force.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Rights of a bank to acquire and dispose of immovable property.</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, a bank shall have power to itself acquire agricultural land (or interest therein) or any other immovable property which has been charged or mortgaged to it by an agriculturist in respect of financial assistance availed of by him, provided the said land (or interest therein) or any other immovable property has been sought to be sold by public auction and no person has offered to purchase it for a price which is sufficient to pay to the bank the money due to it.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>A bank which acquires land (or interest therein) or any other immovable property in pursuance of the power vested in it under sub-section (1) shall dispose of it by sale, within a period to be specified by the State Government in this behalf.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>If the bank leases out any land acquired by it under sub-section (1), pending sale thereof as indicated in sub-section (2), the period of lease shall not exceed one year at a time and the lessee, shall not acquire any right to purchase that property, notwithstanding any provisions to the contrary in any other law for the time being in force.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.4">
+            <num>(4)</num>
+            <content>
+              <p>A sale by a bank of land (or interest therein) under this section shall be subject to any provisions of any law in force which may place restrictions on purchase of land by non-agriculturists or ceiling for acquisition of land (or interest therein) or by a person not belonging to a particular tribe or scheduled caste or fragmentation of land.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Exemption to banks from restrictions on acquisition of land in excess of ceiling.</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>Nothing in any law for the time being in force placing a ceiling or limit on the holding of land shall apply to a bank acquiring land under this Act and holding such land till such time the bank sells the land in the manner provided in the last preceding section or otherwise at a price which is adequate to cover its dues.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Financing of co-operative societies by banks</heading>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Bank eligible to become member of co-operative society.</heading>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Maharashtra Co-operative Societies Act, 1960, or the by-laws of a resource society as defined in that Act or any law for the time being in force, it shall be lawful for a bank to become a member of a Co-operative Society.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Inspection of books of a Co-operative society by a bank.</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>A bank shall have the right to inspect the books of any Co-Operative Society, which has either applied to the bank for financial assistance or is indebted to the bank on account of financial assistance given earlier.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The inspection may be carried out by an officer or any other member of the paid staff of the bank, with the previous sanction in writing of the Registrar.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>The officer or member of the paid staff of the bank undertaking such inspection, shall, at all reasonable times have access to the books of accounts, documents, securities, cash and other properties belonging to or in the custody of the Co-operative Society inspected by him, and shall also be supplied by such society such information, statements and returns as may be required by him to assess the financial condition of the society and the safety of financial assistance to be given to the society or already given to it.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Disputes between a bank and a Co-operative society.</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, any dispute touching the constitution, management or business of a Co-operative society, between a bank financing a Co-operative society and the Co-operative society so financed, other than disputes regarding disciplinary action taken by the society or its committee against a paid employee of the society, shall be referred by either of the parties to the dispute, to the Registrar for decision.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>Where any question arises whether, for purposes, of the foregoing sub-section, a matter referred to for decision is a dispute or not, the question shall be decided by the Registrar, whose decision shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Settlement of disputes.</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <p>If the Registrar is satisfied that any matter referred to him or brought to his notice is a dispute within the last preceding section, the Registrar shall decide the dispute himself or refer it for disposal to a nominee or a board of nominees appointed by him or any other authority competent to decide such dispute under the Maharashtra Co-operative Societies Act, 1960, and thereafter all the provisions of that Act relating to disputes, such as determination of disputes, appeals and enforcement of the decisions, awards or orders in such proceedings, shall mutatis mutandis apply, as if it were a dispute within the meaning of and under that Act itself.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Recovery of money awarded.</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>The provisions of section 156 of the Maharashtra Co-operative Societies Act, 1960 and the rules made there under shall apply to the recovery of any amount found due to a bank under the last preceding section.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Powers of a bank to proceed against defaulting members of a Co-operative society.</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>If a co-operative society is unable to pay its debts to a bank from which it has borrowed by reason of its members defaulting in the payment of the money due by them, the bank may direct the committee of such society to proceed against such members by taking all such action as is provided by the Maharashtra Co-operative Societies Act, 1960.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>If the committee of the co-operative society fails to proceed against its defaulting members within a period of ninety days from the date of receipt of such direction from the bank, the bank itself may under intimation to the Registrar proceed against such defaulting members in which event, the provisions of the Maharashtra Co-operative Societies Act, 1960 and the rules and the by-laws made there under shall apply, as if all references to the society or its committee in the said provisions, rules and by-laws were references to the bank.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.3">
+            <num>(3)</num>
+            <content>
+              <p>Where a bank has obtained a decree or award against a co-operative society indebted to it, the bank may proceed to recover such money first from the assets of the co-operative society and secondly from the members of the co-operative society to the extent of their debts due to the society.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Audit, inquiry and inspection reports of societies be available to banks.</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>The Registrar shall draw the attention of a bank financing a co-operative society to the defects noticed in every audit or inquiry or inspection conducted under the Maharashtra Co-operative Societies Act, 1960, and shall also supply to the bank a copy of each of such audit, inquiry or inspection report, if demanded, in writing, by it.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Exemption from legislations relating to money lending and relief of agricultural indebtedness.</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Nothing in the Bombay Money-lenders Act, 1946 or any law relating to money-lending and money-lenders or in any law relating to relief of agricultural indebtedness for the time being in force shall apply to financial assistance availed of by an agriculturist from a bank.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Mortgage executed by managers of joint Hindu families.</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, mortgages executed after the commencement of this Act by the manager of joint Hindu family in favour of a bank for securing financial assistance shall be binding on every member of such joint Hindu family.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <p>Where a mortgage executed in favour of a bank is called in question on the ground that it was executed by the manager of a joint Hindu family for a purpose not binding on the members (whether such members have attained majority or not) thereof, the burden of proving the same shall be on the party alleging it.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Modified application of section 8 of Act XXXII of 1956.</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Section 8 of the Hindu Minority and Guardianship Act, 1956, shall apply to mortgages in favour of a bank, subject to the modification that reference to the Court therein shall be construed as reference to the Collector or his nominee, and the appeal against the order of the Collector or his nominee shall lie to the Commissioner.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Mortgages not to be questioned on insolvency of mortgagors.</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Notwithstanding anything contained in the Presidency-towns Insolvency Act, 1909, or the Provincial Insolvency Act, 1920, or any corresponding law for the time being in force, a mortgage executed in favour of a bank shall not be called in question in any insolvency proceedings on the ground that it was not executed in good faith for valuable consideration or on the ground that it was not executed in order to give the bank a preference over the other creditors of the mortgagor.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power of State Government to make rules.</heading>
+          <subsection id="section-25.1">
+            <num>(1)</num>
+            <content>
+              <p>The power to make rules under this Act shall be exercisable by the State Government by notification in the Official Gazette, and shall be subject to the condition of previous publication.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to any power to make rules contained elsewhere in this Act, the State Government may make rules consistent with this Act generally to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-25.3">
+            <num>(3)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if, before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making modification in the rule or both Houses agree that the rule should not be made and notify such decision in the Official Gazette, the rule shall from the date of publication of such notification have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.</p>
+              <p> </p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+  <components>
+    <component id="component-schedule">
+      <doc name="schedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-mah/act/1975/05/schedule"/>
+              <FRBRuri value="/in-mah/act/1975/05"/>
+              <FRBRalias value="SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-mah/act/1975/05/eng@2017-03-10/schedule"/>
+              <FRBRuri value="/in-mah/act/1975/05/eng@2017-03-10"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-mah/act/1975/05/eng@2017-03-10/schedule"/>
+              <FRBRuri value="/in-mah/act/1975/05/eng@2017-03-10"/>
+              <FRBRdate date="2017-03-10" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="schedule">
+            <heading>Declaration under sub-section (1) of section 5</heading>
+            <paragraph id="schedule.paragraph-0">
+              <content>
+                <p>I, ............................................................ (Aged ..............................years) residing at ................................................ being desirous of availing myself of financial assistance from the declaration as required by section 5 (1) of the Maharashtra Provision of Facilities for Agricultural Credit by Banks Act, 1974, that I, ............................................ own the land/have interest as a tenant in the land, in the area specified below, and I hereby create a charge on the said land/interest in the said land, in favour of the bank for securing the financial assistance which the bank may give and for all future assistance, if any, which the bank may give to me together with interest and costs and expenses thereon.</p>
+                <table id="schedule.paragraph-0.table1">
+                  <tr>
+                    <th>
+                      <p>Name of Village</p>
+                    </th>
+                    <td>
+                      <p>Name of Taluka</p>
+                    </td>
+                    <td>
+                      <p>Name of District</p>
+                    </td>
+                    <td>
+                      <p>Survey No./City Survey No.</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Boundaries</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Areas</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Plot No.</p>
+                    </td>
+                    <td>
+                      <p>Plot Hissa No.</p>
+                    </td>
+                    <td>
+                      <p>South-East</p>
+                    </td>
+                    <td>
+                      <p>North-West</p>
+                    </td>
+                    <td>
+                      <p>Hectares</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                </table>
+                <table id="schedule.paragraph-0.table2">
+                  <tr>
+                    <th>
+                      <p>Assessment</p>
+                    </th>
+                    <td>
+                      <p>Approximate Value</p>
+                    </td>
+                    <td>
+                      <p>Encumbrances, if any</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Remarks, if any</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>Rupees Paise</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p>Nature</p>
+                    </td>
+                    <td>
+                      <p>When created</p>
+                    </td>
+                    <td>
+                      <p>Amount</p>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                    <td>
+                      <p/>
+                    </td>
+                  </tr>
+                </table>
+                <p>In witness whereof, I, Shri................................................................... hereunder set my hand this .............................................. day of ...................................... in the year two thousand ......................................................................</p>
+                <p>Witness</p>
+                <p>Signed and delivered by the above named in the presence of-</p>
+              </content>
+            </paragraph>
+            <subsection id="schedule.1">
+              <num>(1)</num>
+              <content>
+                <p>'</p>
+              </content>
+            </subsection>
+            <subsection id="schedule.2">
+              <num>(2)</num>
+              <content>
+                <p>Attested by</p>
+                <p>Signature of the declarant.</p>
+                <p>Forwarded with compliments to the Talathi or other designated revenue officer with a request to include the particulars of the charge ............................................... created under the declaration in the Record of Rights and to return to the bank for its record.</p>
+                <p>Date .......................... Manager/Agent</p>
+                <p>................................ Bank.</p>
+                <p>Place ..................................</p>
+                <p>Returned with compliments to the Manager/Agent............................. Bank. The charge created under the declaration is duly included in the Record of Rights on the ........................................ Day of ............................. 20 ........................</p>
+                <p>Date ........................ Talathi or other designated</p>
+                <p>Revenue Officer.</p>
+                <p>Forwarded with compliments to the Sub-Registrar, with a request to record the particulars of the charge..................................................... created under the declaration in his office.</p>
+                <p>Date ............................. Manager/Agent</p>
+                <p>............................... Bank.</p>
+                <p>Place .........................................</p>
+                <p>Returned with compliments to the Manager/Agent ......................................... Bank. The charge created under the declaration is duly recorded.</p>
+                <p>Date ......................................... Sub-Registrar</p>
+              </content>
+            </subsection>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

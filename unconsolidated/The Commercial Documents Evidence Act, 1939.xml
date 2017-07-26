@@ -1,0 +1,87 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1939/30/main"/>
+          <FRBRuri value="/in-union/act/1939/30"/>
+          <FRBRalias value="The Commercial Documents Evidence Act, 1939"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1939/30/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1939/30/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1939/30/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1939/30/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Commercial Documents Evidence Act, 1939</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and extent.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Commercial Documents Evidence Act, 1939.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except *[the territories which, immediately before the 1st November, 1956, were comprised in Part B States].</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Statements of relevant facts in scheduled documents to be themselves relevant facts.-Notwithstanding anything contained in the Indian Evidence Act, 1872 (1 of 1872), statements of facts in issue or of relevant facts made in any document included in the Schedule as to matters usually stated in such document shall be themselves relevant facts within the meaning of that Act.</heading>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Presumption as to genuineness of documents.- For the purposes of the Indian Evidence Act, 1872 (1 of 1872), and notwithstanding anything contained therein, a Court--</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list0">
+              <item id="section-3.paragraph-0.list0.a">
+                <num>(a)</num>
+                <p>shall presume, within the meaning of that Act, in relation to documents included in Part I of the Schedule, and</p>
+              </item>
+              <item id="section-3.paragraph-0.list0.b">
+                <num>(b)</num>
+                <p>may presume, within the meaning of that Act, in relation to documents included in Part II of the Schedule,-- that any document purporting to be a document included in Part I or Part II of the Schedule, as the case may be, and to have been duly made by or under the appropriate authority, was so made and that the statements contained therein are accurate.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Definition.-</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>In the Schedule the expression "recognised Chamber of Commerce" means a Chamber of Commerce recognised by the Government of its country as being competent to issue certificates of origin, and includes any other association similarly recognised.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

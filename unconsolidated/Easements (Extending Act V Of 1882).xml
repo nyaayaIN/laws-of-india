@@ -1,0 +1,70 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1891/8/main"/>
+          <FRBRuri value="/in-union/act/1891/8"/>
+          <FRBRalias value="Easements (Extending Act V Of 1882)"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1891/8/eng@1891-03-06/main"/>
+          <FRBRuri value="/in-union/act/1891/8/eng@1891-03-06"/>
+          <FRBRdate date="1891-03-06" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1891/8/eng@1891-03-06/main"/>
+          <FRBRuri value="/in-union/act/1891/8/eng@1891-03-06"/>
+          <FRBRdate date="2016-09-26" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Easements (Extending Act V Of 1882)</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT No. 8 OF 1891</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 6th March, 1891]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to extend the Indian Easements Act, 1882, to certain areas in  which that Act is not in force;</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-6th">
+        <num>6th.</num>
+        <heading>March, 1891.</heading>
+        <paragraph id="section-6th.paragraph-0">
+          <content>
+            <p>WHEREAS it is expedient to extend the Indian Easements Act, 1882,</p>
+            <p>(5 of 1882) to certain areas in which that Act is not in force; It is  hereby enacted as follows:-</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Extension of Act V, 1882, to Bombay and the North Western</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>Provinces and Oudh.- The Indian Easements Act, 1882 (5 of 1882), is  hereby extended to the territories respectively administered by the</p>
+            <p>Governor of Bombay in council and the Lieutenant- Governor of the</p>
+            <p>North- Western Provinces and Chief Commissioner of Oudh.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

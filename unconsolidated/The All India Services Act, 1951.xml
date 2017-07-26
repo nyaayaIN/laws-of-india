@@ -1,0 +1,69 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1951/61/main"/>
+          <FRBRuri value="/in-union/act/1951/61"/>
+          <FRBRalias value="The All India Services Act, 1951"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1951/61/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1951/61/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1951/61/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1951/61/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The All India Services Act, 1951</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title- This Act may be called the All-India Services Act, 1951.</heading>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definition :-- In this Act, the expression "an all-India Service' means the service known as the Indian Administrative Service or the service known as the Indian Police Service.</heading>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Regulation of recruitment and conditions of service :--</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, after consultation with the Governments of the States concerned, make rules for the regulation of recruitment and the conditions of service of persons appointed, to an all-India Service.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>All rules made under this section shall be laid for not less than fourteen days before Parliament as soon as possible after they are made, and shall be subject to such modifications, whether by way of repeal or amendment, as parliament may make on a motion made during the session in which they are so laid.</p>
+            <p>Comment : " ...When the appropriate authorities committed error in not preparing the Select List for the year 1983 and the appellants being aggrieved assailed the same and ultimately this Court directed to reconsider the matter, thereafter, the appropriate authority reconsidered the matter and included the appellants name in the Select List for the year 1986, in the eye of law the said Select List can be held to be the Select List for the year 1983. Consequently the year of allotment of those who were included in the said list has to be determined on the basis that they were in the Select List of the year 1983 though factually the list was prepared in the year 1985 and was approved by Union Public Service Commission in February, 1986. The Union Government, therefore, in our considered opinion committed serious error in determining the year of allotment of the appellants on the basis that they were in the Select List from the date of approval of the list by the Union Public Service Commission i.e. February 1986." Devendra Narayan Singh v. State of Bihar , AIR 1997 SUPREME COURT 595</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Continuance of existing rules-All rules in force immediately before the commencement of this Act, and applicable to an all-India Service shall continue to be in force and shall be deemed to be rules made under this Act.</heading>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

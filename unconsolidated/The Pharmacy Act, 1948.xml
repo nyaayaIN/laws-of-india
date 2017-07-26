@@ -1,0 +1,1648 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1948/8/main"/>
+          <FRBRuri value="/in-union/act/1948/8"/>
+          <FRBRalias value="The Pharmacy Act, 1948"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1948/8/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1948/8/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1948/8/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1948/8/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Pharmacy Act, 1948</shortTitle>
+      </p>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.—</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Pharmacy Act, 1948.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India except the State of Jammu and Kashmir.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force at once, but Chapters III, IV and V shall take effect in a particular State from such date *** as the State Government may, by notification in the Official Gazette, appoint in this behalf:</p>
+            <p>Provided that where on account of the territorial changes brought about by the reorganisation of States on the 1st day of November, 1956, Chapters III, IV and V have effect only in a part of a State, the said Chapters shall take effect in the remaining part of that State from such date as the State Government may in like manner appoint.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Interpretation.—</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless there is anything repugnant in the subject or context,—</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>"agreement” means an agreement entered into under section 20;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>“approved” means approved by the Central Council under section 12 or section 14;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>“Central Council” means the Pharmacy Council of India constituted under section 3;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-2.paragraph-0.list1.d.list0">
+                  <listIntroduction>“Central Register” means the register of pharmacists maintained by the Central Council under section 15A;</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.d.list0.da">
+                    <num>(da)</num>
+                    <p>“Executive Committee” means the Executive Committee of the Central Council or of the State Council, as the context may require;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>“Indian University” means a University within the meaning of section 3 of the University Grants Commission Act, 1956 (3 of 1956) and includes such other institutions, being institutions established by or under a Central Act, as the Central Government may, by notification in the Official Gazette, specify in this behalf;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.f">
+                <num>(f)</num>
+                <blockList id="section-2.paragraph-0.list1.f.list1">
+                  <listIntroduction>“medical practitioner” means a person—</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.f.list1.i">
+                    <num>(i)</num>
+                    <p>holding a qualification granted by an authority specified or notified under section 3 of the Indian Medical Degrees Act, 1916 (7 of 1916), or specified in the Schedules to the Indian Medical Council Act, 1956 (102 of 1956); or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.f.list1.ii">
+                    <num>(ii)</num>
+                    <p>registered or eligible for registraton in a medical register of a State meant for the registration of persons practising the modern scientific system of medicine; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.f.list1.iii">
+                    <num>(iii)</num>
+                    <p>registered in a medical register of a State, who, although not falling within sub-clause (i) or sub-clause (ii) is declared by a general or special order made by the State Government in this behalf as a person practising the modern scientific system of medicine for the purposes of this Act; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.f.list1.iv">
+                    <num>(iv)</num>
+                    <p>registered or eligible for registration in the register of dentists for a State under the Dentists Act,1948 (16 of 1948); or  v) who is engaged in the practice of veterinary medicine and who possesses qualifications approved by the State Government;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-2.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>“prescribed” means in Chapter II prescribed by regulations made under section 18, and elsewhere prescribed by rules made under section 46;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>“register” means a register of pharmacists prepared and maintained under Chapter IV;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.i">
+                <num>(i)</num>
+                <p>“registered pharmacist” means a person whose name is for the time being entered in the register of the State in which he is for the time being residing or carrying on his profession or business of pharmacy;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.j">
+                <num>(j)</num>
+                <p>“State Council” means a State Council of Pharmacy constituted under section 19, and includes a Joint State Council of Pharmacy constituted in accordance with an agreement under section 20;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.k">
+                <num>(k)</num>
+                <p>“University Grants Commission” means the University Grants Commission established under section 4 of the University Grants Commission Act, 1956 (3 of 1956).</p>
+              </item>
+            </blockList>
+            <p>***</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Constitution and Composition of Central Council.—</heading>
+        <paragraph id="section-3.paragraph-0">
+          <content>
+            <blockList id="section-3.paragraph-0.list1">
+              <listIntroduction>The Central Government shall, as soon as may be, constitute a Central Council consisting of the following members, namely:—</listIntroduction>
+              <item id="section-3.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>six members, among whom there shall be at least one teacher of each of the subjects, pharmaceutical chemistry, pharmacy, pharmacology and pharmacognosy elected by the University Grants Commission from among persons on the teaching staff of an Indian University or a college affiliated thereto which grants a degree or diploma in pharmacy;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>six members, of whom at least four shall be persons possessing a degree or diploma in, and practising pharmacy or pharmaceutical chemistry, nominated by the Central Government;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>one member elected from amongst themselves by the members of the Medical Council of India;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-3.paragraph-0.list1.d.list0">
+                  <listIntroduction>the Director General, Health Services, ex officio or if he is unable to attend any meeting, a person authorised by him in writing to do so;</listIntroduction>
+                  <item id="section-3.paragraph-0.list1.d.list0.dd">
+                    <num>(dd)</num>
+                    <p>the Drugs Controller, India, ex officio or if he is unable to attend any meeting, a person authorised by him in writing to do so;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-3.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>the Director of the Central Drugs Laboratory, ex officio;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>a representative of the University Grants Commission and a representative of the All India Council for Technical Education;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.g">
+                <num>(g)</num>
+                <p>one member to represent each *** State elected from amongst themselves by the members of each State Council, who shall be a registered pharmacist;</p>
+              </item>
+              <item id="section-3.paragraph-0.list1.h">
+                <num>(h)</num>
+                <p>one member to represent each *** State nominated by the State Government, who shall be *** a registered pharmacist:</p>
+              </item>
+            </blockList>
+            <p>Provided that for five years from the date on which the Pharmacy (Amendment) Act, 1976, comes into force the Government of each Union territory shall, instead of electing a member under clause (g) nominate one member, being a person eligible for registration under section 31, to represent that territory.</p>
+            <p>***</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Incorporation of Central Council.—</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <p>The Council constituted under section 3 shall be a body corporate by the name of the Pharmacy Council of India, having perpetual succession and a common seal, with power to acquire and hold property both movable and immovable, and shall by the said name sue and be sued.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>President and Vice-President of Central Council.—</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>The President and Vice-President of the Central Council shall be elected by the members of the said Council from among themselves.</p>
+            <p>***</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>The President or Vice-President shall hold office as such for a term not exceeding five years and not extending beyond the expiry of his term as member of the Central Council, but subject to his being a member of the Central Council, he shall be eligible for re-election:</p>
+            <p>Provided that if his term of office as a member of the Central Council expires before the expiry of the full term for which he is elected as President or Vice-President, he shall, if he is re-elected or re-nominated as a member of the Central Council, continue to hold office as President or Vice-President for the full term for which he is elected to such office.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Mode of elections.—</heading>
+        <paragraph id="section-6.paragraph-0">
+          <content>
+            <p>Elections under this Chapter shall be conducted in the prescribed manner, and where any dispute arises regarding any such election it shall be referred to the Central Government whose decision shall be final.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Term of office and casual vacancies.—</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of this section, a nominated or elected member *** shall hold office for a term of five years from the date of his nomination or election or until his successor has been duly nominated or elected, whichever is longer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>A nominated or elected member may at any time resign his membership by writing under his hand addressed to the President, and the seat of such member shall thereupon become vacant.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>A nominated or elected member shall be deemed to have vacated his seat if he is absent without excuse, sufficient in the opinion of the Central Council, from three consecutive meetings of the Central Council or if he is elected under clause (a), (c) or (g) of section 3, if he ceases to be a member of the teaching staff, Medical Council of India or a registered pharmacist, as the case may be.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>A casual vacancy in the Central Council shall be filled by fresh nomination or election, as the case may be, and the person nominated or elected to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was nominated or elected.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.5">
+          <num>(5)</num>
+          <content>
+            <p>No act done by the Central Council shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constitution of the Central Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.6">
+          <num>(6)</num>
+          <content>
+            <p>Members of the Central Council shall be eligible for re-nomination or re-election.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Staff remuneration and allowances.—</heading>
+        <paragraph id="section-8.paragraph-0">
+          <content>
+            <blockList id="section-8.paragraph-0.list1">
+              <listIntroduction>The Central Council shall—</listIntroduction>
+              <item id="section-8.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>appoint a Registrar who shall act as the Secretary to that Council and who may also, if deemed expedient by that Council, act as the Treasurer thereof;</p>
+              </item>
+              <item id="section-8.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>appoint such other officers and servants as that Council deems necessary to enable it to carry out its functions under this Act;</p>
+              </item>
+              <item id="section-8.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>require and take from the Registrar, or any other officer or servant, such security for the due performance of his duties as that Council may consider necessary; and</p>
+              </item>
+              <item id="section-8.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-8.paragraph-0.list1.d.list0">
+                  <listIntroduction>with the previous sanction of the Central Government, fix—</listIntroduction>
+                  <item id="section-8.paragraph-0.list1.d.list0.i">
+                    <num>(i)</num>
+                    <p>the remuneration and allowances to be paid to the President, Vice-President, and other members of that Council,</p>
+                  </item>
+                  <item id="section-8.paragraph-0.list1.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>the pay and allowances and other conditions of service of officers and servants of that Council.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>The Executive Committee.—</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall, as soon as may be, constitute an Executive Committee consisting of the President (who shall be Chairman of the Executive Committee) and Vice-President, ex officio, and five other members elected by the Central Council from amongst its members.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>A member of the Executive Committee shall hold office as such until the expiry of his term of office as member of the Central Council, but, subject to his being a member of the Central Council, he shall be eligible for re-election.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to the powers and duties conferred and imposed upon it by this Act the Executive Committee shall exercise and discharge such powers and duties as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9A">
+        <num>9A.</num>
+        <heading>Other Committees.—</heading>
+        <subsection id="section-9A.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council may constitute from among its members other committees for such general or special purposes as that Council may deem necessary and for such periods not exceeding five years as it may specify, and may co-opt for a like period persons, who are not members of the Central Council, as members of such committees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9A.2">
+          <num>(2)</num>
+          <content>
+            <p>The remuneration and allowances to be paid to the members of such committees shall be fixed by the Central Council with the previous sanction of the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9A.3">
+          <num>(3)</num>
+          <content>
+            <p>The business before such committees shall be conducted in accordance with such regulations as may be made under this Act.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Education Regulations.—</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of this section, the Central Council may, subject to the approval of the Central Government, make regulations, to be called the Education Regulations, prescribing the minimum standard of education required for qualificaion as a pharmacist.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-10.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, the Education Regulations may prescribe—</listIntroduction>
+              <item id="section-10.2.list1.a">
+                <num>(a)</num>
+                <p>the nature and period of study and of practical training to be undertaken before admission to an examination;</p>
+              </item>
+              <item id="section-10.2.list1.b">
+                <num>(b)</num>
+                <p>the equipment and facilities to be provided for students undergoing approved courses of study;</p>
+              </item>
+              <item id="section-10.2.list1.c">
+                <num>(c)</num>
+                <p>the subjects of examination and the standards therein to be attained;</p>
+              </item>
+              <item id="section-10.2.list1.d">
+                <num>(d)</num>
+                <p>any other conditions of admission to examinations.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>Copies of the draft of the Education Regulations and of all subsequent amendments thereof shall be furnished by the Central Council to all State Governments, and the Central Council shall before submitting the Education Regulations or any amendment thereof, as the case may be, to the Central Government for approval under sub-section (1) take into consideration the comments of any State Government received within three months from the furnishing of the copies as aforesaid.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>The Education Regulations shall be published in the Official Gazette and in such other manner as the Central Council may direct.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.5">
+          <num>(5)</num>
+          <content>
+            <p>The Executive Committee shall from time to time report to the Central Council on the efficacy of the Education Regulations and may recommend to the Central Council such amendments thereof as it may think fit.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Application of Education Regulations to States.—</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>At any time after the constitution of the State Council under Chapter III and after consultation with the State Council, the State Government may, by notification in the Official Gazette, declare that the Education Regulations shall take effect in the State:</p>
+            <p>Provided that where no such declaration has been made, the Education Regulations shall take effect in the State on the expiry of three years from the date of the constitution of the State Council.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Approved courses of study and examinations.—</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>Any authority in a State *** which conducts a course of study for pharmacists may apply to the Central Council for approval of the course, and the Central Council, if satisfied, after such enquiry as it thinks fit to make, that the said course of study is in conformity with the Education Regulations, shall declare the said course of study to be an approved course of study for the purpose of admission to an approved examination for pharmacists.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <p>Any authority in a State *** which holds an examination in pharmacy may apply to the Central Council for approval of the examination, and the Central Council, if satisfied, after such enquiry as it thinks fit to make, that the said examination is in conformity with the Education Regulations, shall declare the said examination to be an approved examination for the purpose of qualifying for registration as a pharmacist under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.3">
+          <num>(3)</num>
+          <content>
+            <p>Every authority in the States *** which conducts an approved course of study or holds an approved examination shall furnish such information as the Central Council may, from time to time, require as to the courses of study and training and examination to be undergone, as to the ages at which such courses of study and examination are required to be undergone and generally as to the requisites for such courses of study and examination.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Withdrawal of approval.—</heading>
+        <subsection id="section-13.1">
+          <num>(1)</num>
+          <content>
+            <p>Where the Executive Committee reports to the Central Council that an approved course of study or an approved examination does not continue to be in conformity with the Education Regulations, the Central Council shall give notice to the authority concerned of its intention to take into consideration the question of withdrawing the declaration of approval accorded to the course of study or examination, as the case may be, and the said authority shall within three months from the receipt of such notice forward to the Central Council through the State Government such representation in the matter as it may wish to make.</p>
+          </content>
+        </subsection>
+        <subsection id="section-13.2">
+          <num>(2)</num>
+          <content>
+            <p>After considering any representation which may be received from the authority concerned and any observations thereon which the State Government may think fit to make, the Council may declare that the course of study or the examination shall be deemed to be approved only when completed or passed, as the case may be, before a specified date.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Qualifications granted outside the territories to which this Act extends.—</heading>
+        <paragraph id="section-14.paragraph-0">
+          <content>
+            <p>The Central Council, if it is satisfied that any qualification in pharmacy granted by an authority outside the territories to which this Act extends affords a sufficient guarantee of the requisite skill and knowledge, may declare such qualification to be an approved qualification for the purpose of qualifying for registration under this Act, and may for reasons appearing to it sufficient at any time declare that such qualification shall be deemed subject to such additional conditions, if any, as may be specified by the Central Council, to be approved only when granted before or after a specified date:</p>
+            <p>Provided that no person other than a citizen of India possessing such qualification shall be deemed to be qualified for registration unless by the law and practice of the State or country in which the qualification is granted, persons of Indian origin holding such qualification are permitted to enter and practise the profession of pharmacy.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Mode of declarations.—</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>All declarations under section 12, section 13 or section 14 shall be made by resolution passed at a meeting of the Central Council, and shall have effect as soon as they are published in the Official Gazette.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-15A">
+        <num>15A.</num>
+        <heading>The Central Register.—</heading>
+        <subsection id="section-15A.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall cause to be maintained in the prescribed manner a register of pharmacists to be known as the Central Register, which shall contain the names of all persons for the time being entered in the register for a State.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15A.2">
+          <num>(2)</num>
+          <content>
+            <p>Each State Council shall supply to the Central Council five copies of the register for the State as soon as may be after the first day of April of each year, and the Registrar of each State Council, shall inform the Central Council, without delay, all additions to, and other amendments in, the register for the State made from time to time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15A.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall be the duty of the Registrar of the Central Council to keep the Central Register in accordance with the orders made by the Central Council, and from time to time to revise the Central Register and publish it in the Gazette of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-15A.4">
+          <num>(4)</num>
+          <content>
+            <p>The Central Register shall be deemed to be public document within the meaning of the Indian Evidence Act,1872 (1 of 1872) and may be proved by the production of a copy of the Register as published in the Gazette of India.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15B">
+        <num>15B.</num>
+        <heading>Registration in the Central Register.—</heading>
+        <paragraph id="section-15B.paragraph-0">
+          <content>
+            <p>The Registrar of the Central Council shall, on receipt of the report of registration of a person in the register for a State, enter his name in the Central Register.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Inspection.—</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <p>The Executive Committee may appoint such number of Inspectors as it may deem requisite for the purposes of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-16.2.list1">
+              <listIntroduction>An Inspector may—</listIntroduction>
+              <item id="section-16.2.list1.a">
+                <num>(a)</num>
+                <p>inspect any institution which provides an approved course of study;</p>
+              </item>
+              <item id="section-16.2.list1.b">
+                <num>(b)</num>
+                <p>attend at any approved examination;</p>
+              </item>
+              <item id="section-16.2.list1.c">
+                <num>(c)</num>
+                <p>inspect any institution whose authorities have applied for the approval of its course of study or examination under this Chapter, and attend at any examination of such institution.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-16.3">
+          <num>(3)</num>
+          <content>
+            <p>An Inspector attending at any examination under sub-section (2) shall not interfere with the conduct of the examination, but he shall report to the Executive Committee on the sufficiency of every examination he attends and on any other matter in regard to which the Executive Committee may require him to report.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.4">
+          <num>(4)</num>
+          <content>
+            <p>The Executive Committee shall forward a copy of every such report to the authority or institution concerned, and shall also forward a copy together with any comments thereon which the said authority or instituion may have made, to the Central Government and to the Government of the State in which the authority or institution is situated.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>Information to be furnished.—</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall furnish copies of its minutes and of the minutes of the Executive Committee and annual report of its activities *** to the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government may publish in such manner as it may think fit any report, or copy, furnished to it under this section or under section 16.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17A">
+        <num>17A.</num>
+        <heading>Accounts and audit.—</heading>
+        <subsection id="section-17A.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council shall maintain proper accounts and other relevant records and prepare an annual statement of accounts, in accordance with such general directions as may be issued and in such form as may be specified by the Central Government in consultation with the Comptroller and Auditor-General of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17A.2">
+          <num>(2)</num>
+          <content>
+            <p>The accounts of the Central Council shall be audited annually by the Comptroller and Auditor-General of India or any person authorised by him in this behalf and any expenditure incurred by him or any person so authorised in connection with such audit shall be payable by the Central Council to the Comptroller and Auditor-General of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17A.3">
+          <num>(3)</num>
+          <content>
+            <p>The Comptroller and Auditor-General of India and any person authorised by him in connection with the audit of the accounts of the Central Council shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General of India has in connection with the audit of Government accounts, and in particular, shall have the right to demand the production of books of accounts, connected vouchers and other documents and papers.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17A.4">
+          <num>(4)</num>
+          <content>
+            <p>The accounts of the Central Council as certified by the Comptroller and Auditor-General of India or any person authorised by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Council which shall forward the same with its comments to the Central Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Power to make regulations.—</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Council may, with the approval of the Central Government by notification in the Official Gazette, make regulations consistent with this Act to carry out the purposes of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-18.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such regulations may provide for—</listIntroduction>
+              <item id="section-18.2.list1.a">
+                <num>(a)</num>
+                <p>the management of the property of the Central Council;</p>
+              </item>
+              <item id="section-18.2.list1.b">
+                <num>(b)</num>
+                <p>the manner in which elections under this Chapter shall be conducted;</p>
+              </item>
+              <item id="section-18.2.list1.c">
+                <num>(c)</num>
+                <p>the summoning and holding of meeting of the Central Council, the times and places at which such meetings shall be held, the conduct of business thereat and the number of members necessary to constitute a quorum;</p>
+              </item>
+              <item id="section-18.2.list1.d">
+                <num>(d)</num>
+                <p>the functions of the Executive Committee, the summoning and holding meetings thereof, the times and places at which such meetings shall be held, and the number of members necessary to constitute a quorum;</p>
+              </item>
+              <item id="section-18.2.list1.e">
+                <num>(e)</num>
+                <p>the powers and duties of the President and Vice-President;</p>
+              </item>
+              <item id="section-18.2.list1.f">
+                <num>(f)</num>
+                <p>the qualifications, the term of office and the powers and duties of the Registrar, Secretary, Inspectors and other officers and servants of the Central Council, including the amount and nature of the security to be furnished by the Registrar or any other officer or servant.</p>
+              </item>
+              <item id="section-18.2.list1.g">
+                <num>(g)</num>
+                <p>the manner in which the Central Register shall be maintained and given publicity;</p>
+              </item>
+              <item id="section-18.2.list1.h">
+                <num>(h)</num>
+                <p>constitution and functions of the committees other than Executive Committee, the summoning and holding of meetings thereof, the time and place at which such meetings shall be held, the number of members necessary to constitute the quorum.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>Until regulations are made by the Central Council under this section, the President may, with the previous sanction of the Central Government, make such regulations under this section, including those to provide for the manner in which the first elections to the Central Council shall be conducted, as may be necessary for carrying into effect the provisions of this Chapter, and any regulations so made may be altered or rescinded by the Central Council in exercise of its powers under this section.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.4">
+          <num>(4)</num>
+          <content>
+            <p>Every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Constitution and Composition of State Councils.—</heading>
+        <paragraph id="section-19.paragraph-0">
+          <content>
+            <blockList id="section-19.paragraph-0.list1">
+              <listIntroduction>Except where a Joint State Council is constituted in accordance with an agreement made under section 20, the State Government shall constitute a State Council consisting of the following members, namely:—</listIntroduction>
+              <item id="section-19.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>six members, elected from amongst themselves by registered pharmacists of the State;</p>
+              </item>
+              <item id="section-19.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>five members, of whom at least three shall be persons possessing a prescribed degree or diploma in pharmacy or pharmaceutical chemistry or registered pharmacists, nominated by the State Government;</p>
+              </item>
+              <item id="section-19.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>one member elected from amongst themselves by the members of each Medical Council or the Council of Medical Registration of the State, as the case may be;</p>
+              </item>
+              <item id="section-19.paragraph-0.list1.d">
+                <num>(d)</num>
+                <blockList id="section-19.paragraph-0.list1.d.list0">
+                  <listIntroduction>the chief administrative medical officer of the State ex officio or if he is unable to attend any meeting, a person authorised by him in writing to do so;</listIntroduction>
+                  <item id="section-19.paragraph-0.list1.d.list0.dd">
+                    <num>(dd)</num>
+                    <p>the officer-in-charge of drugs control organisation of the State under the Drugs and Cosmetics Act, 1940 (23 of 1940), ex officio or if he is unable to attend any meeting, a person authorised by him in writing to do so;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-19.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>the Government Analyst under the Drugs and Cosmetics Act, 1940 (23 of 1940), ex officio, or where there is more than one, such one as the State Government may appoint in this behalf:</p>
+              </item>
+            </blockList>
+            <p>Provided that where an agreement is made under clause (b) of sub-section (1) of section 20, the agreement may provide that the State Council to serve the needs of the other participating States also shall be augmented by not more than two members, of whom at least one shall at all times be a person possessing a prescribed degree or diploma in pharmacy or pharmaceutical chemistry or a registered pharmacist, nominated by the Government of each of the said other participating States, and where the agreement so provides, the composition of the State Council shall be deemed to be augmented accordingly.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Inter-State agreements.—</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-20.1.list1">
+              <listIntroduction>Two or more State Government may enter into an agreement to be in force for such period and to be subject to renewal for such further periods, if any, as may be specified in the agreement, to provide—</listIntroduction>
+              <item id="section-20.1.list1.a">
+                <num>(a)</num>
+                <p>for the constitution of a Joint State Council for all the participating States, or</p>
+              </item>
+              <item id="section-20.1.list1.b">
+                <num>(b)</num>
+                <p>that the State Council of one State shall serve the needs of the other participating States.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-20.2.list1">
+              <listIntroduction>In addition to such matters as are in this Act specified, an agreement under this section may—</listIntroduction>
+              <item id="section-20.2.list1.a">
+                <num>(a)</num>
+                <p>provide for the apportionment between the participating States of the expenditure in connection with the State Council or Joint State Council;</p>
+              </item>
+              <item id="section-20.2.list1.b">
+                <num>(b)</num>
+                <p>determine which of the participating State Governments shall exercise the several functions of the State Government under this Act, and the references in this Act to the State Government shall be construed accordingly;</p>
+              </item>
+              <item id="section-20.2.list1.c">
+                <num>(c)</num>
+                <p>provide for consultation between the participating State Governments either generally or with reference to particular matters arising under this Act;</p>
+              </item>
+              <item id="section-20.2.list1.d">
+                <num>(d)</num>
+                <p>make such incidental and ancillary provisions, not inconsistent with this Act, as may be deemed necessary or expedient for giving effect to the agreement.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-20.3">
+          <num>(3)</num>
+          <content>
+            <p>An agreement under this section shall be published in the Official Gazettes of the participating States.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Composition of Joint State Councils.—</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-21.1.list1">
+              <listIntroduction>A Joint State Council shall consist of the following members, namely:—</listIntroduction>
+              <item id="section-21.1.list1.a">
+                <num>(a)</num>
+                <p>such number of members, being not less than three and not more than five as the agreement shall provide elected from amongst themselves by the registered pharmacists of each of the participating States;</p>
+              </item>
+              <item id="section-21.1.list1.b">
+                <num>(b)</num>
+                <p>such number of members, being not less than two and not more than four as the agreement shall provide, nominated by each participating State Government;</p>
+              </item>
+              <item id="section-21.1.list1.c">
+                <num>(c)</num>
+                <p>one member elected from amongst themselves by the members of each Medical Council or the Council of Medical Registration of each participating State as the case may be;</p>
+              </item>
+              <item id="section-21.1.list1.d">
+                <num>(d)</num>
+                <blockList id="section-21.1.list1.d.list0">
+                  <listIntroduction>the chief administrative medical officer of each participating State, ex officio, or if he is unable to attend any meeting, a person authorized by him in writing to do so;</listIntroduction>
+                  <item id="section-21.1.list1.d.list0.dd">
+                    <num>(dd)</num>
+                    <p>the officer-in-charge of drugs control organisation of each participating State under the Drugs and Cosmetics Act, 1940, ex officio, or if he is unable to attend any meeting, a person authorised by him in writing to do so;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-21.1.list1.e">
+                <num>(e)</num>
+                <p>the Government Analyst under the Drugs and Cosmetics Act, 1940 (23 of 1940), of each participating State, ex officio, or where there is more than one in any such State, such one as the State Government may appoint in this behalf.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>The agreement may provide that within the limits specified in clauses (a) and (b) of sub-section (1), the number of members to be elected or nominated under those clauses may or may not be the same in respect of each participating State.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <p>Of the members, nominated by each State Government under clause (b) of sub-section (1), more than half shall be persons possessing a prescribed degree or diploma in pharmacy or pharmaceutical chemistry or registered pharmacists.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Incorporation of State Councils.—</heading>
+        <paragraph id="section-22.paragraph-0">
+          <content>
+            <p>Every State Council shall be a body corporate by such name as may be notified by the State Government in the Official Gazette or, in the case of a Joint State Council, as may be determined in the agreement, having perpetual succession and a common seal, with power to acquire or hold property both movable and immovable and shall by the said name sue and be sued.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>President and Vice-President of State Council.—</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>The President and Vice-President of the State Council be elected by the members from amongst themselves:</p>
+            <p>Provided that for five years from the first constitution of the State Council the President shall be a person nominated by the State Government who shall hold office at the pleasure of the State Government and where he is not already a member, shall be a member of the State Council in addition to the members referred to in section 19 or section 21, as the case may be.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <p>The President or Vice-President shall hold office as such for a term not exceeding five years and not extending beyond the expiry of his term as a member of the State Council, but subject to his being a member of the State Council, he shall be eligible for re-election:</p>
+            <p>Provided that if his term of office as a member of the State Council expires before the expiry of the full term for which he is elected as President or Vice-President, he shall, if he is re-elected or re-nominated as a member of the State Council, continue to hold office for the full term for which he is elected as President or Vice-President.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Mode of elections.—</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <p>Elections under this Chapter shall be conducted in the prescribed manner, and where any dispute arises regarding any such election, it shall be referred to the State Government whose decision shall be final.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Term of office and casual vacancies.—</heading>
+        <subsection id="section-25.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of this section, a nominated or elected member, other than nominated President, shall hold office for a term of five years from the date of his nomination or election or until his successor has been duly nominated or elected, whichever is longer.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.2">
+          <num>(2)</num>
+          <content>
+            <p>A nominated or elected member may at any time resign his membership by writing under his hand addressed to the President, and the seat of such member shall thereupon become vacant.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.3">
+          <num>(3)</num>
+          <content>
+            <p>A nominated or elected member shall be deemed to have vacated his seat if he is absent without excuse sufficient in the opinion of the State Council from three consecutive meetings of the State Council, or if he is elected under clause (a) or (c) of section 19 or 21, if he ceases to be a registered pharmacist or causes to be a member of the Medical Council or Council of Medical Registration of the State, as the case may be.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.4">
+          <num>(4)</num>
+          <content>
+            <p>A casual vacancy in the State Council shall be filled by fresh nomination or election, as the case may be, and the person nominated or elected to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was nominated or elected.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.5">
+          <num>(5)</num>
+          <content>
+            <p>No act done by the State Council shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constituion of, the State Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-25.6">
+          <num>(6)</num>
+          <content>
+            <p>Members of the State Council shall be eligible for re-nomination or re-election.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Staff, remuneration and allowances.—</heading>
+        <paragraph id="section-26.paragraph-0">
+          <content>
+            <blockList id="section-26.paragraph-0.list1">
+              <listIntroduction>The State Council may, with the previous sanction of the State Government,—</listIntroduction>
+              <item id="section-26.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>appoint a Registrar who shall also act as Secretary and, if so decided by the State Council, Treasurer, of the State Council;</p>
+              </item>
+              <item id="section-26.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>appoint such other officers and servants as may be required to enable the State Council to carry out its functions under this Act;</p>
+              </item>
+              <item id="section-26.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>fix the salaries and allowances and other conditions of service of the Secretary and other officers and servants of the State Council;</p>
+              </item>
+              <item id="section-26.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>fix the rates of allowances payable to members of the State Council:</p>
+              </item>
+            </blockList>
+            <p>Provided that for the first four years from the first constitution of the State Council, the Registrar shall be a person appointed by the State Government, who shall hold office during the pleasure of the State Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26A">
+        <num>26A.</num>
+        <heading>Inspection.—</heading>
+        <subsection id="section-26A.1">
+          <num>(1)</num>
+          <content>
+            <p>A State Council may, with the previous sanction of the State Government, appoint Inspectors having the prescribed qualificaions for the purposes of Chapters III, IV and V of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26A.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-26A.2.list1">
+              <listIntroduction>An Inspector may—</listIntroduction>
+              <item id="section-26A.2.list1.a">
+                <num>(a)</num>
+                <p>inspect any premises where drugs are compounded or dispensed and submit a written report to the Registrar;</p>
+              </item>
+              <item id="section-26A.2.list1.b">
+                <num>(b)</num>
+                <p>enquire whether a person who is engaged in compounding or dispensing of drugs is a registered pharmacist;</p>
+              </item>
+              <item id="section-26A.2.list1.c">
+                <num>(c)</num>
+                <p>investigate any complaint made in writing in respect of any contravention of this Act and report to the Registrar;</p>
+              </item>
+              <item id="section-26A.2.list1.d">
+                <num>(d)</num>
+                <p>institute prosecution under the order of the Executive Committee of the State Council;</p>
+              </item>
+              <item id="section-26A.2.list1.e">
+                <num>(e)</num>
+                <p>exercise such other powers as may be necessary for carrying out the purposes of Chapters III, IV and V of this Act or any rules made thereunder.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-26A.3">
+          <num>(3)</num>
+          <content>
+            <p>Any person wilfully obstructing an Inspector in the exercise of the powers conferred on him by or under this Act or any rules made thereunder shall be punishable with imprisonment for a term which may extend to six months, or with fine not exceeding one thousand rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26A.4">
+          <num>(4)</num>
+          <content>
+            <p>Every Inspector shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>The Executive Committee.—</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Council shall, as soon as may be, constitute an Executive Committee consisting of the President (who shall be Chairman of the Executive Committee) and Vice-President, ex officio and such number of other members elected by the State Council from amongst themselves as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <p>A member of the Executive Committee shall hold office as such until the expiry of his term of office as member of the State Council, but, subject to his being a member of the State Council, he shall be eligible for re-election.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to the powers and duties conferred and imposed upon it by this Act, the Executive Committee shall exercise and discharge such powers and duties as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Information to be furnished.—</heading>
+        <subsection id="section-28.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Council shall furnish such reports, copies of its minutes and of the minutes of the Executive Committee, and abstracts of its accounts to the State Government as the State Government may from time to time require and copies thereof shall be sent to the Central Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-28.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government may publish, in such manner as it may think fit, any report, copy, abstract or other information furnished to it under this section.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Preparation and maintenance of register.—</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>As soon as may be after this chapter has taken effect in any State, the State Government shall cause to be prepared in the manner hereinafter provided a register of pharmacists for the State.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Council shall as soon as possible after it is constituted assume the duty of maintaining the register in accordance with the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-29.3.list1">
+              <listIntroduction>The register shall include the following particulars, namely:—</listIntroduction>
+              <item id="section-29.3.list1.a">
+                <num>(a)</num>
+                <p>the full name and residential address of the registered person;</p>
+              </item>
+              <item id="section-29.3.list1.b">
+                <num>(b)</num>
+                <p>the date of his first admission to the register;</p>
+              </item>
+              <item id="section-29.3.list1.c">
+                <num>(c)</num>
+                <p>his qualifications for registration;</p>
+              </item>
+              <item id="section-29.3.list1.d">
+                <num>(d)</num>
+                <p>his professional address, and if he is employed by any person, the name of such person;</p>
+              </item>
+              <item id="section-29.3.list1.e">
+                <num>(e)</num>
+                <p>such further particulars as may be prescribed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Preparation of first register.—</heading>
+        <subsection id="section-30.1">
+          <num>(1)</num>
+          <content>
+            <p>For the purpose of preparing the first register, the State Government shall by notification in the Official Gazette constitute a Registration Tribunal consisting of three persons, and shall also appoint a Registrar who shall act as Secretary of the Registration Tribunal.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.2">
+          <num>(2)</num>
+          <content>
+            <p>The State Government shall, by the same or a like notification, appoint a date on or before which applications for registration, which shall be accompanied by the prescribed fee, shall be made to the Registration Tribunal.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.3">
+          <num>(3)</num>
+          <content>
+            <p>The Registration Tribunal shall examine every application received on or before the appointed date, and if it is satisfied that the applicant is qualified for registration under section 31, shall direct the entry of the name of the applicant on the register.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.4">
+          <num>(4)</num>
+          <content>
+            <p>The first register so prepared shall thereafter be published in such manner as the State Government may direct, and any person aggrieved by a decision of the Registration Tribunal expressed or implied in the register as so published may, within sixty days from the date of such publication, appeal to an authority appointed by the State Government in this behalf by notification in the Official Gazette.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.5">
+          <num>(5)</num>
+          <content>
+            <p>The Registrar shall amend the register in accordance with the decisions of the authority appointed under sub-section (4) and shall thereupon issue to every person whose name is entered in the register a certificate of registration in the prescribed form.</p>
+          </content>
+        </subsection>
+        <subsection id="section-30.6">
+          <num>(6)</num>
+          <content>
+            <p>Upon the constitution of the State Council, the register shall be given into its custody, and the State Government may direct that all or any specified part of the application fees for registration in the first register shall be paid to the credit of the State Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Qualifications for entry on first register.—</heading>
+        <paragraph id="section-31.paragraph-0">
+          <content>
+            <blockList id="section-31.paragraph-0.list1">
+              <listIntroduction>A person who has attained the age of eighteen years shall be entitled on payment of the prescribed fee to have his name entered in the first register if he resides, or carries on the business or profession of pharmacy, in the State and if he—</listIntroduction>
+              <item id="section-31.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>holds a degree or diploma in pharmacy or pharmaceutical chemistry or a chemist and druggist diploma of an Indian University or a State Government, as the case may be, or a prescribed qualificaion granted by an authority outside *** India, or</p>
+              </item>
+              <item id="section-31.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>holds a degree of an Indian University other than a degree in pharmacy or pharmaceutical chemistry, and has been engaged in the compounding of drugs in a hospital or dispensary or other place in which drugs are regularly dispensed on prescriptions of medical practitioners for a total period of not less than three years, or</p>
+              </item>
+              <item id="section-31.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>has passed an examination recognised as adequate by the State Government for compounders or dispensers, or</p>
+              </item>
+              <item id="section-31.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>has been engaged in the compounding of drugs in a hospital or dispensary or other place in which drugs are regularly dispensed on prescriptions of medical practitioners for a total period of not less than five years prior to the date notified under sub-section (2) of secton 30.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Qualfications for subsequent registration.—</heading>
+        <subsection id="section-32.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-32.1.list1">
+              <listIntroduction>After the date appointed under sub-section (2) of section 30 and before the Education Regulations have, by or under section 11, taken effect in the State, a person who has attained the age of eighteen years shall on payment of the prescribed fee be entitled to have his name entered in the register if he resides or carries on the business or profession of pharmacy in the State and if he—</listIntroduction>
+              <item id="section-32.1.list1.a">
+                <num>(a)</num>
+                <p>satisfies the conditions prescribed with the prior approval of the Central Council, or where no conditions have been prescribed, the conditions entitling a person to have his name entered on the first register as set out in section 31, or</p>
+              </item>
+              <item id="section-32.1.list1.b">
+                <num>(b)</num>
+                <p>is a registered pharmacist in another State, or</p>
+              </item>
+              <item id="section-32.1.list1.c">
+                <num>(c)</num>
+                <p>possesses a qualificaion approved under section 14:</p>
+              </item>
+            </blockList>
+            <p>Provided that no person shall be entitled under clause (a) or clause (c) to have his name entered on the register unless he has passed a matriculation examination or an examination prescribed as being equivalent to a matriculation examination.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32.2">
+          <num>(2)</num>
+          <content>
+            <p>After the Education Regulations have by or under section 11 taken effect in the State, a person shall on payment of the prescribed fee be entitled to have his name entered on the register if he has attained the age of eighteen years, if he resides, or carries on the business or profession of pharmacy, in the State and if he has passed an approved examination or possesses a qualification approved under section 14 or is a registered pharmacist in another State.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32A">
+        <num>32A.</num>
+        <heading>Special provisions for registration of certain persons.—</heading>
+        <subsection id="section-32A.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-32A.1.list1">
+              <listIntroduction>Notwithstanding anything contained in section 32, a State Council may also permit to be entered on the register—</listIntroduction>
+              <item id="section-32A.1.list1.a">
+                <num>(a)</num>
+                <p>the names of displaced persons who have been carrying on the business or profession of pharmacy as their principal means of livelihood from a date prior to the 4th day of March, 1948, and who satisfy the conditions for registration as set out in section 31;</p>
+              </item>
+              <item id="section-32A.1.list1.b">
+                <num>(b)</num>
+                <p>the names of citizens of India who have been carrying on the business or profession of pharmacy in any country outside India and who satisfy the conditions for registration as set out in section 31;</p>
+              </item>
+              <item id="section-32A.1.list1.c">
+                <num>(c)</num>
+                <p>the names of persons who resided in an area which has subsequently become a territory of India and who satisfy the conditions for registration as set out in section 31;</p>
+              </item>
+              <item id="section-32A.1.list1.d">
+                <num>(d)</num>
+                <blockList id="section-32A.1.list1.d.list0">
+                  <listIntroduction>the names of persons who carry on the business or profession of pharmacy in the State, and</listIntroduction>
+                  <item id="section-32A.1.list1.d.list0.i">
+                    <num>(i)</num>
+                    <p>would have satisfied the conditions for registraton as set out in section 31, on the date appointed under sub-section (2) of section 30, had they applied for registration on or before that date; or</p>
+                  </item>
+                  <item id="section-32A.1.list1.d.list0.ii">
+                    <num>(ii)</num>
+                    <p>have been engaged in the compounding of drugs in a hospital or dispensary or other place in which drugs are regularly dispensed on prescriptions of medical practitioners as defined in sub-clause (iii) of clause (f) of section 2 for a total period of not less then five years prior to the date appointed under sub-section (2) of section 30;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-32A.1.list1.e">
+                <num>(e)</num>
+                <p>the names of persons who were qualified to be entered in the register for a State as it existed immediately before the 1st day of November, 1956, but who, by reason of the area in which they resided or carried on their business or profession of pharmacy having become part of a State as formed on that date, are not qualified to be entered having in the register for the latter State only by reason of their not having passed either a matriculation examination or an examination prescribed as being equivalent to a matriculation examination or an approved examination or of their not possessing a qualificaion approved under section 14;</p>
+              </item>
+              <item id="section-32A.1.list1.f">
+                <num>(f)</num>
+                <blockList id="section-32A.1.list1.f.list1">
+                  <listIntroduction>the names of persons—</listIntroduction>
+                  <item id="section-32A.1.list1.f.list1.i">
+                    <num>(i)</num>
+                    <p>who were included in the register for a State as it existed immediately before the 1st day of November, 1956; and</p>
+                  </item>
+                  <item id="section-32A.1.list1.f.list1.ii">
+                    <num>(ii)</num>
+                    <p>who, by reason of the area in which they resided or carried on their business or profession of pharmacy having become part of a State as formed on that date, reside or carry on such business or profession in the latter State;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-32A.1.list1.g">
+                <num>(g)</num>
+                <p>the names of persons who reside or carry on their business or profession of pharmacy in an area in which this Chapter takes effect after the commencement of the Pharmacy (Amendment) Act, 1959 (24 of 1959), and who satisfy the conditions for registration as set out in section 31.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-32A.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person who desires his name to be entered in the register in pursuance of sub-section (1) shall make an application in that behalf to the State Council, and such application shall be accompanied by the prescribed fee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-32A.3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions of this section shall remain in operation for a period of two years from the commencement of the Pharmacy (Amendment) Act, 1959 ( 24 of 1959).</p>
+            <p>Provided that the State Government may, by notification in the Official Gazette, extend the period of operation of clause (a), clause (b) or clause (c) of sub-section (1) by such further period or periods, not exceeding two years in the aggregate, as may be specified in the notification.</p>
+            <p>Explanation 1.—</p>
+            <p>For the purposes of clause (a) of sub-section (1), “displaced person” means any person who on account of the setting up of the Dominions of India and Pakistan or on account of civil disturbances or the fear of such disturbances in any area now forming part of Pakistan, has, on or after the 1st day of March, 1947, left or been displaced from his place of residence in such area and who has since then been residing in India.</p>
+            <p>Explanation 2.—</p>
+            <p>For the purposes of clauses (b), (c) and (g) of sub-section (1), the period referred to in clause (d) of section 31 shall be computed with reference to the date of application.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-32B">
+        <num>32B.</num>
+        <heading>Special provisions for registration of displaced persons, repatriates and other persons.—</heading>
+        <subsection id="section-32B.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-32B.1.list1">
+              <listIntroduction>Notwithstanding anything contained in section 32 or section 32A, a State Council may permit to be entered on the register—</listIntroduction>
+              <item id="section-32B.1.list1.a">
+                <num>(a)</num>
+                <p>the names of persons who possess the qualifications specified in clause (a) or clause (c) of section 31 and who were eligible for registration between the closing of the First Register and the date when the Education Regulations came into effect.</p>
+              </item>
+              <item id="section-32B.1.list1.b">
+                <num>(b)</num>
+                <p>the names of persons approved as “qualified persons” before the 31st December, 1969 for compounding or dispensing of medicines under the Drugs and Cosmetics Act, 1940 (23 of 1940)and the rules made thereunder;</p>
+              </item>
+              <item id="section-32B.1.list1.c">
+                <num>(c)</num>
+                <p>the names of displaced persons or repatriates who were carrying on business or profession of pharmacy as their principal means of livelihood in any country outside India for a total period of not less than five years from a date prior to the date of application for registration.</p>
+              </item>
+            </blockList>
+            <p>Explanation.—</p>
+            <blockList id="section-32B.1.list4">
+              <listIntroduction>In this sub-section,—</listIntroduction>
+              <item id="section-32B.1.list4.i">
+                <num>(i)</num>
+                <p>“displaced person” means any person who, on account of civil disturbances or the fear of such disturbances in any area now forming part of Bangla Desh, has, after the 14th day of April, 1957 but before the 25th day of March, 1971, left, or has been displaced from, his place of residence in such area and who has since then been residing in India;</p>
+              </item>
+              <item id="section-32B.1.list4.ii">
+                <num>(ii)</num>
+                <p>“repatriate” means any person of Indian origin who, on account of civil disturbances or the fear of such disturbances in any area now forming part of Burma, Sri Lanka or Uganda, or any other country has after the 14th day of April, 1957, left or has been displaced from, his place of residence in such area and who has since then been residing in India.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-32B.2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of clauses (a) and (b) of sub-section (1) shall remain in operation for a period of two years from the commencement of the Pharmacy (Amendment) Act, 1976.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Scrutiny of applications for registration.—</heading>
+        <subsection id="section-33.1">
+          <num>(1)</num>
+          <content>
+            <p>After the date appointed under sub-section (2) of section 30, applications for registration shall be addressed to the Registrar of the State Council and shall be accompanied by the prescribed fee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.2">
+          <num>(2)</num>
+          <content>
+            <p>If upon such application the Registrar is of opinion that the applicant is entitled to have his name entered in the register under the provisions of this Act for the time being applicable, he shall enter the name of the applicant in the register:</p>
+            <p>Provided that no person whose name has under the provisions of this Act been removed from the register of any State shall be entitled to have his name entered in the register except with the approval of the State Council recorded at a meeting.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.3">
+          <num>(3)</num>
+          <content>
+            <p>Any person whose application for registration is rejected by the Registrar, may within three months from the date of such rejection appeal to the State Council, and the decision of the State Council thereon shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-33.4">
+          <num>(4)</num>
+          <content>
+            <p>Upon entry in the register of a name under this section, the Registrar shall issue a certificate of registration in the prescribed form.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Renewal fees.—</heading>
+        <subsection id="section-34.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notificaion in the Official Gazette, direct that for the retention of a name on the register after the 31st day of December of the year following the year in which the name is first entered on the register, there shall be paid annually to the State Council such renewal fee as may be prescribed, and where such direction has been made, such renewal fee shall be due to be paid before the first day of April of the year to which it relates.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.2">
+          <num>(2)</num>
+          <content>
+            <p>Where a renewal fee is not paid by the due date, the Registrar shall remove the name of the defaulter from the register:</p>
+            <p>Provided that a name so removed may be restored to the register on such conditions as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-34.3">
+          <num>(3)</num>
+          <content>
+            <p>On payment of the renewal fee, the Registrar shall</p>
+            <p>issue a receipt therefor and such receipt shall be proof of renewal of registration.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Entry of additional qualifications.—</heading>
+        <paragraph id="section-35.paragraph-0">
+          <content>
+            <p>A registered pharmacist shall on payment of the prescribed fee be entitled to have entered in the register any further degrees or diplomas in pharmacy on pharmaceutical chemistry which he may obtain.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-36">
+        <num>36.</num>
+        <heading>Removal from register.—</heading>
+        <subsection id="section-36.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-36.1.list1">
+              <listIntroduction>Subject to the provisions of this section, the Executive Committee may order that the name of a registered pharmacist shall be removed from the register, where it is satisfied, after giving him a reasonable opportunity of being heard and after such further inquiry, if any, as it may think fit to make,—</listIntroduction>
+              <item id="section-36.1.list1.i">
+                <num>(i)</num>
+                <p>that his name has been entered into the register by error or on account of misrepresentation or suppression of a material fact, or</p>
+              </item>
+              <item id="section-36.1.list1.ii">
+                <num>(ii)</num>
+                <p>that he has been convicted of any offence or has been guilty of any infamous conduct in any professional respect which in the opinion of the Executive Committee, renders him unfit to be kept in the register, or</p>
+              </item>
+              <item id="section-36.1.list1.iii">
+                <num>(iii)</num>
+                <p>that a person employed by him for the purposes of his business of pharmacy or employed to work under him in connection with any business of pharmacy has been convicted of any such offence or has been guilty of any such infamous conduct as would, if such person were a registered pharmacist, render him liable to have his name removed from the register under clause (ii):</p>
+              </item>
+            </blockList>
+            <blockList id="section-36.1.list3">
+              <listIntroduction>Provided that no such order shall be made under clause (iii) unless the Executive Committee is satisfied—</listIntroduction>
+              <item id="section-36.1.list3.a">
+                <num>(a)</num>
+                <p>that the offence or infamous conduct was instigated or connived at by the registered pharmacist, or</p>
+              </item>
+              <item id="section-36.1.list3.b">
+                <num>(b)</num>
+                <p>that the registered pharmacist has at any time during the period of twelve months immediately preceding the date on which the offence or infamous conduct took place committed a similar offence or been guilty of similar infamous conduct, or</p>
+              </item>
+              <item id="section-36.1.list3.c">
+                <num>(c)</num>
+                <p>that any person employed by the registered pharmacist for the purposes of his business of pharmacy or employed to work under him in connection with any business of pharmacy has at any time during the period of twelve months immediately preceding the date on which the offence or infamous conduct took place, committed a similar offence or been guilty of similar infamous conduct, and that the registered pharmacist had, or reasonably ought to have had, knowledge of such previous offence or infamous conduct, or</p>
+              </item>
+              <item id="section-36.1.list3.d">
+                <num>(d)</num>
+                <p>that where the offence or infamous conduct continued over a period, the registered pharmacist had, or reasonably ought to have had, knowledge of the continuing offence or infamous conduct, or</p>
+              </item>
+              <item id="section-36.1.list3.e">
+                <num>(e)</num>
+                <p>that where the offence is an offence under the Drugs and Cosmetics Act, 1940 (23 of 1940), the registered pharmacist has not used due diligence in enforcing compliance with the provisions of that Act in his place of business and by persons employed by him or by persons under his control.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-36.2">
+          <num>(2)</num>
+          <content>
+            <p>An order under sub-section (1) may direct that the person whose name is ordered to be removed from the register shall be ineligible for registration in the State under this Act either permanently or for such period as may be specified.</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.3">
+          <num>(3)</num>
+          <content>
+            <p>An order under sub-section (1) shall be subject to confirmation by the State Council and shall not take effect until the expiry of three months from the date of such confirmation.</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.4">
+          <num>(4)</num>
+          <content>
+            <p>A person aggrieved by an order under sub-section (1) which has been confirmed by the State Council may, within thirty days from the communication to him of such confirmation, appeal to the State Government, and the order of the State Government upon such appeal shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.5">
+          <num>(5)</num>
+          <content>
+            <p>A person whose name has been removed from the register under this section or under sub-section (2) of section 34 shall forthwith surrender his certificate or registration to the Registrar, and the name so removed shall be published in the Official Gazette.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-37">
+        <num>37.</num>
+        <heading>Restoration to register.—</heading>
+        <paragraph id="section-37.paragraph-0">
+          <content>
+            <p>The State Council may at any time for reasons appearing to it sufficient order that upon payment of the prescribed fee the name of a person removed from the register shall be restored thereto:</p>
+            <p>Provided that where an appeal against such removal has been rejected by the State Government, an order under this section shall not take effect until it has been confirmed by the State Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-38">
+        <num>38.</num>
+        <heading>Bar of other jurisdiction.—</heading>
+        <paragraph id="section-38.paragraph-0">
+          <content>
+            <p>No order refusing to enter a name on the register or removing a name from the register shall be called in question in any Court.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-39">
+        <num>39.</num>
+        <heading>Issue of duplicate certificates of registration.—</heading>
+        <paragraph id="section-39.paragraph-0">
+          <content>
+            <p>Where it is shown to the satisfaction of the Registrar that a certificate of registration has been lost or destroyed, the Registrar may, on payment of the prescribed fee, issue a duplicate certificate in the prescribed form.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-40">
+        <num>40.</num>
+        <heading>Printing of register and evidentiary value of entries therein.—</heading>
+        <subsection id="section-40.1">
+          <num>(1)</num>
+          <content>
+            <p>As soon as may be after the 1st day of April subsequent to the commencement of the Pharmacy (Amendment) Act, 1959 (24 of 1959), the Registrar shall cause to be printed copies of the register as it stood on the said date.</p>
+          </content>
+        </subsection>
+        <subsection id="section-40.2">
+          <num>(2)</num>
+          <content>
+            <p>The Registrar shall thereafter cause to be printed as soon as may be after the 1st day of April in each year copies of the annual supplement to the register referred to in sub-section (1), showing all additions to and other amendments in, the said register.</p>
+          </content>
+        </subsection>
+        <subsection id="section-40.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-40.3.list0">
+              <item id="section-40.3.list0.a">
+                <num>(a)</num>
+                <p>the register shall be brought up-to-date three months before ordinary elections to the State Council are held and copies of this register shall be printed.</p>
+              </item>
+              <item id="section-40.3.list0.b">
+                <num>(b)</num>
+                <p>The provisions of sub-section (2) shall apply to the register as so printed as they apply to the register referred to in sub-section (1).</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-40.4">
+          <num>(4)</num>
+          <content>
+            <p>The copies referred to in sub-section (1) or sub-section (2) or sub-section (3) shall be made available to persons applying therefor on payment of the prescribed charge and shall be evidence that on the date referred to in the register or annual supplement, as the case may be, the persons whose names are entered therein were registered pharmacists.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-41">
+        <num>41.</num>
+        <heading>Penalty for falsely claiming to be registered.—</heading>
+        <subsection id="section-41.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person whose name is not for the time being entered into the register of the State falsely pretends that it is so entered or uses in connection with his name or title any words or letters reasonably calculated to suggest that his name is so entered, he shall be punishable on first conviction with fine which may extend to five hundred rupees and on any subsequent conviction with imprisonment extending to six months or with fine not exceeding one thousand rupees or with both:</p>
+            <p>Provided that it shall be a defence to show that the name of the accused is entered in the register of another State and that at the time of the alleged offence under this section an application for registration in the State had been made.</p>
+          </content>
+        </subsection>
+        <subsection id="section-41.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-41.2.list1">
+              <listIntroduction>For the purposes of this section—</listIntroduction>
+              <item id="section-41.2.list1.a">
+                <num>(a)</num>
+                <p>it shall be immaterial whether or not any person is deceived by such pretence or use as aforesaid;</p>
+              </item>
+              <item id="section-41.2.list1.b">
+                <num>(b)</num>
+                <p>the use of the description “pharmacist”, “chemist”, “druggist” “pharmaceutist”, “dispenser”, “dispensing chemist”, or any combination of such words or of any such word with any other word shall be deemed to be reasonably calculated to suggest that the person using such description is a person whose name is for the time being entered in the register of the State;</p>
+              </item>
+              <item id="section-41.2.list1.c">
+                <num>(c)</num>
+                <p>the onus of proving that the name of a person is for the time being entered in the register of a State shall be on him who asserts it.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-41.3">
+          <num>(3)</num>
+          <content>
+            <p>Cognizance of an offence punishable under this section shall not be taken except upon complaint made by order of the State Government or any officer authorized in this behalf by the State Government or by order of the Executive Committee of the State Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-42">
+        <num>42.</num>
+        <heading>Dispensing by unregistered persons.—</heading>
+        <subsection id="section-42.1">
+          <num>(1)</num>
+          <content>
+            <p>On or after such date as the State Government may by notification in the Official Gazette appoint in this behalf, no person other than a registered pharmacist shall compound, prepare, mix, or dispense any medicine on the prescription of a medical practitioner ***;</p>
+            <p>Provided that this sub-section shall not apply to the dispensing by a medical practitioner of medicine for his own patients, or with the general or special sanction of the State Government, for the patients of another medical practitioner.</p>
+            <p>Provided further that where no such date is appointed by the Government of a State, this sub-section shall take effect in that State on the expiry of a period of eight years from the commencement of the pharmacy (Amendment) Act, 1976.</p>
+          </content>
+        </subsection>
+        <subsection id="section-42.2">
+          <num>(2)</num>
+          <content>
+            <p>Whoever contravenes the provisions of sub-section (1) shall be punishable with imprisonment for a term which may extend to six months, or with fine not exceeding one thousand rupees or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-42.3">
+          <num>(3)</num>
+          <content>
+            <p>Cognizance of an offence punishable under this section shall not be taken except upon complaint made by order of the State Government or any officer authorised in this behalf by the State Government or by order of the Executive Committee of the State Council:</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-43">
+        <num>43.</num>
+        <heading>Failure to surrender certificate of registration.—</heading>
+        <subsection id="section-43.1">
+          <num>(1)</num>
+          <content>
+            <p>If any person whose name has been removed from the register fails without sufficient cause forthwith to surrender his certificate of registration he shall be punishable with fine which may extend to fifty rupees.</p>
+          </content>
+        </subsection>
+        <subsection id="section-43.2">
+          <num>(2)</num>
+          <content>
+            <p>Cognizance of an offence punishable under this section shall not be taken except upon complaint made by an order of the Executive Committee.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-44">
+        <num>44.</num>
+        <heading>Payment of part of fees to Central Council.—</heading>
+        <paragraph id="section-44.paragraph-0">
+          <content>
+            <p>The State Council shall before the end of June in each year pay to the Central Council a sum equivalent to one-fourth of the total fees realised by the State Council under this Act during the period of twelve months ending on the 31st day of March of that year.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-45">
+        <num>45.</num>
+        <heading>Appointment of Commission of Enquiry.—</heading>
+        <subsection id="section-45.1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever it appears to the Central Government that the Central Council is not complying with any of the provisions of this Act, the Central Government may appoint a Commission of Enquiry consisting of three persons, two of whom shall be appointed by the Central Government, one being the Judge of a High Court, and, one by the Council; and refer to it the matters on which the enquiry is to be made.</p>
+          </content>
+        </subsection>
+        <subsection id="section-45.2">
+          <num>(2)</num>
+          <content>
+            <p>The Commission shall proceed to enquire in such manner as it may deem fit and report to the Central Government on the matters referred to it together with such remedies, if any, as the Commission may like to recommend.</p>
+          </content>
+        </subsection>
+        <subsection id="section-45.3">
+          <num>(3)</num>
+          <content>
+            <p>The Central Government may accept the report or remit the same to the Commission for modification or reconsideration.</p>
+          </content>
+        </subsection>
+        <subsection id="section-45.4">
+          <num>(4)</num>
+          <content>
+            <p>After the report is finally accepted, the Central Government may order the Central Council to adopt the remedies so recommended within such time as may be specified in the order and if the Council fails to comply within the time so specified, the Central Government may pass such order or take such action as may be necessary to give effect to the recommendations of the Commission.</p>
+          </content>
+        </subsection>
+        <subsection id="section-45.5">
+          <num>(5)</num>
+          <content>
+            <p>Whenever it appears to the State Government that the State Council is not complying with any of the provisions of this Act, the State Government may likewise appoint a similar Commission of Enquiry and pass such order or take such action as specified in sub-sections (3) and (4).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-46">
+        <num>46.</num>
+        <heading>Power to make rules.—</heading>
+        <subsection id="section-46.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification in the Official Gazette, make rules to carry out the purposes of Chapters III, IV and V.</p>
+          </content>
+        </subsection>
+        <subsection id="section-46.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-46.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power such rules may provide for—</listIntroduction>
+              <item id="section-46.2.list1.a">
+                <num>(a)</num>
+                <p>the management of the property of the State Council, and the maintenance and audit of its accounts;</p>
+              </item>
+              <item id="section-46.2.list1.b">
+                <num>(b)</num>
+                <p>the manner in which elections under Chapter III shall be conducted;</p>
+              </item>
+              <item id="section-46.2.list1.c">
+                <num>(c)</num>
+                <p>the summoning and holding of meetings of the State Council, the times and places at which such meetings shall be held, the conduct of business thereat and the number of members necessary to form a quorum;</p>
+              </item>
+              <item id="section-46.2.list1.d">
+                <num>(d)</num>
+                <p>the powers and duties of the President and Vice-President of the State Council;</p>
+              </item>
+              <item id="section-46.2.list1.e">
+                <num>(e)</num>
+                <p>the constitution and functions of the Executive Committee, the summoning and holding of meetings thereof, the times and places at which such meetings shall be held, and number of members necessary to constitute a quorum;</p>
+              </item>
+              <item id="section-46.2.list1.f">
+                <num>(f)</num>
+                <blockList id="section-46.2.list1.f.list0">
+                  <listIntroduction>the qualifications, the term of office and the powers and duties of the Registrar and other officers and servants of the State Council including the amount and nature of the security to be given by the Treasurer;</listIntroduction>
+                  <item id="section-46.2.list1.f.list0.ff">
+                    <num>(ff)</num>
+                    <p>the qualifications, powers and duties of an Inspector;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-46.2.list1.g">
+                <num>(g)</num>
+                <p>the particulars to be stated, and the proof of qualifications to be given, in application for registration under Chapter IV;</p>
+              </item>
+              <item id="section-46.2.list1.h">
+                <num>(h)</num>
+                <p>the conditions for registration under sub-section (1) of section 32;</p>
+              </item>
+              <item id="section-46.2.list1.i">
+                <num>(i)</num>
+                <p>fees payable under Chapter IV and the charge for supplying copies of the register;</p>
+              </item>
+              <item id="section-46.2.list1.j">
+                <num>(j)</num>
+                <p>the form of certificates of registration ***;</p>
+              </item>
+              <item id="section-46.2.list1.k">
+                <num>(k)</num>
+                <blockList id="section-46.2.list1.k.list1">
+                  <listIntroduction>the maintenance of a register;</listIntroduction>
+                  <item id="section-46.2.list1.k.list1.kk">
+                    <num>(kk)</num>
+                    <p>the conduct of pharmacists and their duties in relation to medical practitioners the public and the profession of pharmacy;</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-46.2.list1.l">
+                <num>(l)</num>
+                <p>any other matter which is to be or may be prescribed under Chapters III, IV and V except sub-sections (1), (2), (3) and (4) of section 45.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-46.3">
+          <num>(3)</num>
+          <content>
+            <p>Every rule made by the State Government under this section shall be laid, as soon as may be after it is made, before the State Legislature.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

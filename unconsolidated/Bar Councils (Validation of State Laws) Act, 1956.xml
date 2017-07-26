@@ -1,0 +1,117 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1956/4/main"/>
+          <FRBRuri value="/in-union/act/1956/4"/>
+          <FRBRalias value="Bar Councils (Validation of State Laws) Act, 1956"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1956/4/eng@1956-03-13/main"/>
+          <FRBRuri value="/in-union/act/1956/4/eng@1956-03-13"/>
+          <FRBRdate date="1956-03-13" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1956/4/eng@1956-03-13/main"/>
+          <FRBRuri value="/in-union/act/1956/4/eng@1956-03-13"/>
+          <FRBRdate date="2016-12-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Bar Councils (Validation Of State Laws) Act, 1956</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act No. 4 of 1956]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[13th March, 1956]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to validate certain State laws amending the Indian Bar Councils Act, 1926.</p>
+      <p>Be it enacted by Parliament in the Seventh Year of the Republic of India as follows:--</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>This Act may be called the Bar Councils (Validation of State Laws) Act, 1956.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Validation of certain State laws amending the Indian Bar Councils Act, 1926 (38 of 1926)</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>The laws specified in the Schedule shall be, and shall be deemed always to have been, as valid as if the provisions contained therein had been enacted by Parliament.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-theschedule">
+      <doc name="theschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/1956/4/schedules"/>
+              <FRBRuri value="/in-union/act/1956/4"/>
+              <FRBRalias value="THE SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/1956/4/eng@1956-03-13/schedules"/>
+              <FRBRuri value="/in-union/act/1956/4/eng@1956-03-13"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/1956/4/eng@1956-03-13/schedules"/>
+              <FRBRuri value="/in-union/act/1956/4/eng@1956-03-13"/>
+              <FRBRdate date="2016-12-01" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="theschedule">
+            <heading>(See Section 2)</heading>
+            <section id="section-1">
+              <num>1.</num>
+              <heading>The Indian Bar Councils (Andhra Amendment) Act, 1954 (President's Act VII of 1954).</heading>
+            </section>
+            <section id="section-2">
+              <num>2.</num>
+              <heading>The Indian Bar Councils (Uttar Pradesh Amendment) Act, 1950 (U.P. Act XXIV of 1950).</heading>
+            </section>
+            <section id="section-3">
+              <num>3.</num>
+              <heading>The Indian Bar Councils (Madras Amendment) Act, 1954 (Madras Act XXXV of 1954).</heading>
+            </section>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

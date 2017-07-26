@@ -1,0 +1,73 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1947/43/main"/>
+          <FRBRuri value="/in-union/act/1947/43"/>
+          <FRBRalias value="The United Nations (Security Council) Act, 1947"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1947/43/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1947/43/eng@1980-01-01"/>
+          <FRBRdate date="1980-01-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1947/43/eng@1980-01-01/main"/>
+          <FRBRuri value="/in-union/act/1947/43/eng@1980-01-01"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The United Nations (Security Council) Act, 1947</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 43 OF 1947</docNumber>
+      </p>
+    </preface>
+    <body>
+      <section id="section-20TH">
+        <num>20TH.</num>
+        <heading>December, 1947.</heading>
+        <paragraph id="section-20TH.paragraph-0">
+          <content>
+            <p>An Act to enable effect to be given to certain provisions of the</p>
+            <p>Charter of the United Nations.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title.- This Act may be called the United Nations</heading>
+        <paragraph id="section-1.paragraph-0">
+          <content>
+            <p>(Security Council) Act, 1947.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Measures under Art. 41 of the Charter of the United Nations.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>If, under Article 41 of the Charter of the United Nations signed at</p>
+            <p>San Francisco on the 26th day of June 1945 the Security Council of the</p>
+            <p>United Nations calls upon the Central Government to apply any  measures, not involving the use of armed force, to give effect to any  decision of that Council, the Central Government may, by order  published in the Official Gazette, make such provisions (including   provisions having extra- territorial operation) as appear to it  necessary or expedient for enabling those measures to be effectively  applied, and without prejudice to the generality of the foregoing  power, provision may be made for the punishment of persons offending  against the order.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,1876 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/2006/35/main"/>
+          <FRBRuri value="/in-union/act/2006/35"/>
+          <FRBRalias value="THE ACTUARIES ACT, 2006"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/2006/35/eng@2006-08-27/main"/>
+          <FRBRuri value="/in-union/act/2006/35/eng@2006-08-27"/>
+          <FRBRdate date="2006-08-27" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/2006/35/eng@2006-08-27/main"/>
+          <FRBRuri value="/in-union/act/2006/35/eng@2006-08-27"/>
+          <FRBRdate date="2017-04-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Actuaries Act, 2006</shortTitle>
+      </p>
+      <longTitle>
+        <p>[Act No. 35 OF 2006]</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[27th August, 2006.]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for regulating and developing the profession of Actuaries and for matters connected therewith or incidental thereto.</p>
+      <p>BE it enacted by Parliament in the Fifty-seventh Year of the Republic of India as follows:--</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Actuaries Act, 2006.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint:</p>
+            <p>Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-2.1.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,--</listIntroduction>
+              <item id="section-2.1.list1.a">
+                <num>(a)</num>
+                <p>"Actuary" means a person skilled in determining the present effects of future contingent events or in finance modelling and risk analysis in different areas of insurance, or calculating the value of life interests and insurance risks, or designing and pricing of policies, working out the benefits, recommending rates relating to insurance business, annuities, insurance and pension rates on the basis of empirically based tables and includes a statistician engaged in such technology, taxation, employees' benefits and such other risk management and investments and who is a fellow member of the Institute; and the expression "actuarial science" shall be construed accordingly;</p>
+              </item>
+              <item id="section-2.1.list1.b">
+                <num>(b)</num>
+                <p>"Actuarial Society" means the Actuarial Society of India registered under the Societies Registration Act, 1860(21 of 1860. Bombay Act No. XXXIX of 1950) and the Bombay Public Trusts Act, 1950;</p>
+              </item>
+              <item id="section-2.1.list1.c">
+                <num>(c)</num>
+                <p>"appointed day" means the date on which the Institute is constituted under sub-section (1) of section 3;</p>
+              </item>
+              <item id="section-2.1.list1.d">
+                <num>(d)</num>
+                <p>"Authority" means the Appellate Authority referred to in section 32;</p>
+              </item>
+              <item id="section-2.1.list1.e">
+                <num>(e)</num>
+                <p>"Board" means the Quality Review Board constituted under sub-section (1) of section 43;</p>
+              </item>
+              <item id="section-2.1.list1.f">
+                <num>(f)</num>
+                <p>"Council" means the Council of the Institute as referred to in section 12;</p>
+              </item>
+              <item id="section-2.1.list1.g">
+                <num>(g)</num>
+                <p>"fellow" means a fellow member of the Institute;</p>
+              </item>
+              <item id="section-2.1.list1.h">
+                <num>(h)</num>
+                <p>"Institute" means the Institute of Actuaries of India constituted under section 3;</p>
+              </item>
+              <item id="section-2.1.list1.i">
+                <num>(i)</num>
+                <p>"member" means an individual whose name appears in the register of members maintained by the Institute;</p>
+              </item>
+              <item id="section-2.1.list1.j">
+                <num>(j)</num>
+                <p>"prescribed" means prescribed by rules made under this Act;</p>
+              </item>
+              <item id="section-2.1.list1.k">
+                <num>(k)</num>
+                <p>"President" means the President of the Council;</p>
+              </item>
+              <item id="section-2.1.list1.l">
+                <num>(l)</num>
+                <p>"register" means the register of members maintained by the Institute under this Act;</p>
+              </item>
+              <item id="section-2.1.list1.m">
+                <num>(m)</num>
+                <p>"specified" means specified by regulations made under this Act;</p>
+              </item>
+              <item id="section-2.1.list1.n">
+                <num>(n)</num>
+                <p>"Tribunal" means a Tribunal established under sub-section (1) of section 16;</p>
+              </item>
+              <item id="section-2.1.list1.o">
+                <num>(o)</num>
+                <p>"Vice-President" means the Vice-President of the Council;</p>
+              </item>
+              <item id="section-2.1.list1.p">
+                <num>(p)</num>
+                <p>"year" means the period commencing on the 1st day of April of any year and ending on the 31st day of March of the succeeding year.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-2.2.list1">
+              <listIntroduction>Save as otherwise provided in this Act, a member of the Institute shall be deemed "to be in practice" when individually or in partnership with Actuaries in practice as a member or an employee of a company, he, whether or not in consideration of remuneration received or to be received,--</listIntroduction>
+              <item id="section-2.2.list1.i">
+                <num>(i)</num>
+                <p>engages himself in actuarial profession; or</p>
+              </item>
+              <item id="section-2.2.list1.ii">
+                <num>(ii)</num>
+                <p>offers to perform or performs services involving the application of actuarial techniques in the fields of insurance, pension, investment, finance and management; or</p>
+              </item>
+              <item id="section-2.2.list1.iii">
+                <num>(iii)</num>
+                <p>renders such other services as, in the opinion of the Council, are or may be rendered by an actuary in practice; or</p>
+              </item>
+              <item id="section-2.2.list1.iv">
+                <num>(iv)</num>
+                <p>is in employment of a person engaged in one or more of the activities mentioned in clauses (i), (ii) and (iii) above,</p>
+              </item>
+            </blockList>
+            <p>and the words "to be in practice" with their grammatical variations and cognate expressions shall be construed accordingly.</p>
+            <p>Explanation.--For the purposes of this sub-section, the expression "company" includes a public financial institution as defined in section 4A of the Companies Act, 1956 (1 of 1956).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Incorporation of Institute</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <p>With effect from such date as the Central Government may, by notification in the Official Gazette, appoint, all persons whose names are entered in the register of the Actuarial Society at the commencement of this Act and all persons who may thereafter have their names entered in the register to be maintained under this Act, so long as they continue to have their names borne on the register, are hereby constituted a body corporate by the name of the Institute of Actuaries of India and all such persons shall be known as members of the Institute.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The Institute shall have perpetual succession and a common seal and shall have power to acquire, hold and dispose of property, both movable and immovable, and shall by its name sue or be sued.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>The head office of the Institute shall be situated at such place as may be decided by the Central Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Transfer of assets, liabilities, etc., of Actuarial Society</heading>
+        <paragraph id="section-4.paragraph-0">
+          <content>
+            <blockList id="section-4.paragraph-0.list1">
+              <listIntroduction>On the appointed day,--</listIntroduction>
+              <item id="section-4.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>all the assets and liabilities of the Actuarial Society shall stand transferred to, and vested in, the Institute.</p>
+              </item>
+            </blockList>
+            <blockList id="section-4.paragraph-0.list3">
+              <listIntroduction>Explanation.--The assets of the Actuarial Society shall be deemed to include all rights and powers and all properties, whether movable or immovable, including, in particular, cash balances, deposits and all other interests and rights in, or arising out of, such properties as may be in the possession of the said Society and all books of account and other documents relating to the same; and liabilities shall be deemed to include all debts, liabilities and obligations of whatever kind;</listIntroduction>
+              <item id="section-4.paragraph-0.list3.b">
+                <num>(b)</num>
+                <p>without prejudice to the provisions of clause (a), all debts, obligations and liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for the Actuarial Society immediately before that day, for or in connection with the purpose of the said Society, shall be deemed to have been incurred, entered into or engaged to be done by, with or for, the Institute;</p>
+              </item>
+              <item id="section-4.paragraph-0.list3.c">
+                <num>(c)</num>
+                <p>all sums of money due to the Actuarial Society immediately before that day shall be deemed to be due to the Institute; and</p>
+              </item>
+              <item id="section-4.paragraph-0.list3.d">
+                <num>(d)</num>
+                <p>all suits and other legal proceedings instituted or which could have been instituted by or against the Actuarial Society immediately before that day may be continued or may be instituted by or against the Institute.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Objects of Institute</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <blockList id="section-5.paragraph-0.list1">
+              <listIntroduction>The objects of the Institute shall be--</listIntroduction>
+              <item id="section-5.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to promote, uphold and develop the standards of professional education, training, knowledge, practice and conduct amongst Actuaries;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>to promote the status of the Actuarial profession;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>to regulate the practice by the members of the profession of Actuary;</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>to promote, in the public interest, knowledge and research in all matters relevant to Actuarial science and its application; and</p>
+              </item>
+              <item id="section-5.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>to do all such other things as may be incidental or conducive to the above objects or any of them.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Entry of names in register</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-6.1.list1">
+              <listIntroduction>Any of the following persons shall be entitled to have his name entered in the register, namely:--</listIntroduction>
+              <item id="section-6.1.list1.a">
+                <num>(a)</num>
+                <p>any person who immediately before the appointed day was an associate or a fellow (including an honorary fellow) of the Actuarial Society;</p>
+              </item>
+              <item id="section-6.1.list1.b">
+                <num>(b)</num>
+                <p>any person who has passed the examination conducted by the Actuarial Society and has completed training either as specified by the said Society or as specified by the Council, except any such person who is not a permanent resident of India;</p>
+              </item>
+              <item id="section-6.1.list1.c">
+                <num>(c)</num>
+                <p>any person who has passed such examination and completed such training, as may be specified for membership of the Institute;</p>
+              </item>
+              <item id="section-6.1.list1.d">
+                <num>(d)</num>
+                <p>any person who has passed such other examination and completed such other training outside India as is specified as being equivalent to the examination and training specified under this Act for membership of the Institute:</p>
+              </item>
+            </blockList>
+            <p>Provided that in the case of any person belonging to any of the classes mentioned in this sub-section who is not permanently residing in India, the Central Government or the Council may impose such further conditions as it may deem necessary or expedient in the public interest.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>Every person mentioned in clause (a) of sub-section (1) may have his name entered in the register without the payment of any entrance fee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>Every person belonging to any of the classes mentioned in clauses (b), (c) and (d) of sub-section (1) shall have his name entered in the register on an application being made and granted in the specified manner and on payment of such fees, as may be specified.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>The Council shall take such steps as may be necessary for the purpose of having the names of all persons belonging to the class mentioned in clause (a) of sub-section (1) entered in the register before the appointed day.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.5">
+          <num>(5)</num>
+          <content>
+            <p>Notwithstanding anything contained in this section, the Council may confer on any person honorary fellow membership, if the Council is of the opinion that such person has made a significant contribution to the profession of Actuary and thereupon the Council shall enter the name of such person in the register but such person shall not have any voting rights in any election or meetings of the Institute and shall not also be required to pay any fee to the Institute.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Associates and fellows</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>The members of the Institute shall be divided into two classes designated respectively as associates and fellows.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person other than a person to whom the provisions of sub-section (3) apply, shall, on his name being entered in the register, be deemed to have become an associate and as long as his name remains so entered, shall be entitled to use the letters "AIAI" after his name to indicate that he is an associate.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Any person who was a fellow of the Actuarial Society and who is entitled to have his name entered in the register under clause (a) of sub-section (1) of section 6 shall be entered in the register as a fellow.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>Any person whose name is entered in the register as fellow shall, so long as his name remains so entered, be entitled to use the letters "FIAI" after his name to indicate that he is a fellow.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Honorary, affiliate and student members</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council may choose, in such manner as may be specified, any person of eminence in matters relating to and of interest to the profession of Actuary as an honorary member of the Institute provided that he is not practicing as an Actuary.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person, who is a fellow member, or is a holder of membership considered equivalent to the fellow membership of the Institute, of any other institution similar to the Institute, whether within or outside India, may be admitted as an affiliate member for such period, and on such terms and conditions as may be specified.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <p>Any person who enrolls himself for examination of the Institute, and possesses such academic qualifications as may be specified, may be admitted as a student member of the Institute on such terms and conditions as may be specified.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.4">
+          <num>(4)</num>
+          <content>
+            <p>An honorary member or an affiliate member or a student member shall have no right to vote on any matter or resolution in any meeting of the Institute.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Certificate of practice</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>No member of the Institute shall be entitled to practice unless he fulfils the qualifications as may be specified and obtains from the Council a certificate of practice.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>A member who desires to be entitled to practice shall make an application in such form and pay such annual fee for certificate of practice as may be specified and such fee shall be payable on or before the first day of April in each year.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.3">
+          <num>(3)</num>
+          <content>
+            <p>The certificate of practice obtained under sub-section (1) may be cancelled by the Council under such circumstances as may be specified.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Members to be known as Actuaries</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>Every member of the Institute in practice shall, and any other member may, use the designation of an Actuary and no member using such designation shall use any other description whether in addition thereto or in substitution therefore:</p>
+            <p>Provided that nothing contained in this section shall be deemed to prohibit any such member from adding any other description or letters to his name, if entitled thereto, to indicate membership of such other Institute, whether in India or elsewhere, as may be recognised in this behalf by the Council, or any other qualification that he may possess, or to prohibit a firm, all the partners of which are members of the Institute and in practice, from being known by its firm name as Actuaries.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Disqualifications</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <blockList id="section-11.paragraph-0.list1">
+              <listIntroduction>Notwithstanding anything contained in section 6, a person shall not be entitled to have his name entered in, or borne on, the register if he--</listIntroduction>
+              <item id="section-11.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>has not attained the age of twenty-one years at the time of his application for the entry of his name in the register; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>is of unsound mind and stands so adjudged by a competent court; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>is an undischarged insolvent; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>being a discharged insolvent, has not obtained from the court a certificate stating that his insolvency was caused by misfortune and without any misconduct on his part; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>has been convicted by a competent court whether within or outside India, of an offence involving moral turpitude and punishable with imprisonment or of an offence, not of a technical nature, committed by him in his professional capacity unless in respect of the offence committed he has either been granted a pardon or, on an application made by him in this behalf, the Central Government has, by an order in writing, removed the disqualification; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list1.f">
+                <num>(f)</num>
+                <p>has been removed from the membership of the Institute on being found on inquiry to have been guilty of a professional or other misconduct:</p>
+              </item>
+            </blockList>
+            <p>Provided that a person who has been removed from the membership for a specified period shall not be entitled to have his name entered in the Register until the expiry of such period.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Composition of Council of Institute</heading>
+        <subsection id="section-12.1">
+          <num>(1)</num>
+          <content>
+            <p>There shall be a Council of the Institute for the management of the affairs of the Institute and for discharging the functions assigned to it by or under this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-12.2.list1">
+              <listIntroduction>The Council shall be composed of the following persons, namely:--</listIntroduction>
+              <item id="section-12.2.list1.a">
+                <num>(a)</num>
+                <p>a minimum of nine and not more than twelve persons from amongst fellow members to be elected by the fellow and the associate members of the Institute in such manner as may be prescribed:</p>
+              </item>
+            </blockList>
+            <blockList id="section-12.2.list3">
+              <listIntroduction>Provided that a fellow of the Institute, who has been found guilty of any professional or other misconduct and whose name is removed from the Register or has been awarded penalty of fine, shall not be eligible to contest election,--</listIntroduction>
+              <item id="section-12.2.list3.i">
+                <num>(i)</num>
+                <p>in case of misconduct falling under the Schedule of this Act except Part IV(B), for a period of three years; or</p>
+              </item>
+              <item id="section-12.2.list3.ii">
+                <num>(ii)</num>
+                <p>in case of misconduct falling under Part IV(B) of the Schedule of this Act, for a period of six years,</p>
+              </item>
+            </blockList>
+            <blockList id="section-12.2.list5">
+              <listIntroduction>after the completion of the period of removal of name of the fellow from the Register or the payment of fine is made, as the case may be; and</listIntroduction>
+              <item id="section-12.2.list5.b">
+                <num>(b)</num>
+                <blockList id="section-12.2.list5.b.list0">
+                  <item id="section-12.2.list5.b.list0.i">
+                    <num>(i)</num>
+                    <p>an officer not below the rank of Joint Secretary to the Government of India, to be nominated by the Central Government to represent the Ministry of Finance;</p>
+                  </item>
+                  <item id="section-12.2.list5.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>one person from the Insurance Regulatory and Development Authority constituted under the Insurance Regulatory and Development Authority Act, 1999(41 of 1999) nominated by the Central Government; and</p>
+                  </item>
+                  <item id="section-12.2.list5.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>not more than two persons having knowledge in the field of life insurance, general insurance, finance, economics, law, accountancy or any other discipline which in the opinion of the Central Government, would be useful to the Council, to be nominated in such manner as may be prescribed:</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <p>Provided that till such time as the Council is constituted under this Act, the Executive Committee of the Actuarial Society shall discharge all the functions and shall have all the powers of the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.3">
+          <num>(3)</num>
+          <content>
+            <p>No person holding a post under the Central Government or a State Government, as the case may be, shall be eligible for election to the Council under clause (a) of sub-section (2).</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.4">
+          <num>(4)</num>
+          <content>
+            <p>One-third of the members of the Council referred to in clause (a) of sub-section (2) shall retire as soon as may be on the expiration of every second year by rotation but shall be eligible for re-election.</p>
+          </content>
+        </subsection>
+        <subsection id="section-12.5">
+          <num>(5)</num>
+          <content>
+            <p>Any person nominated under clause (b) of sub-section (2) shall hold office for a period of six years from the date of his nomination unless he is removed earlier by the Central Government and shall be eligible for re-nomination:</p>
+            <p>Provided that he shall be given an opportunity of being heard before such removal.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Annual general meetings</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>The Council shall every year hold an annual general meeting of the Institute to elect its members under clause (a) of sub-section (2) of section 12, or to discuss any matter which it deems fit, and not more than fifteen months shall elapse between the date of one annual general meeting of the Institute and that of the next :</p>
+            <p>Provided that from the appointed day the Institute may hold its first annual general meeting within a period of not more than eighteen months and if such general meeting is held within that period, it shall not be necessary for the Institute to hold any general meeting in that year :</p>
+            <p>Provided further that the Central Government may, for sufficient reasons, extend the time within which any general meeting shall be held.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Re-election to Council</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (2), a member of the Council elected under clause (a) of sub- section (2) of section 12 shall be eligible for re-election but not for more than two consecutive terms.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>A member of the Council, who is or has been elected, as the President under subsection (1) of section 17, shall not be eligible for election or nomination as a member of the Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Settlement of disputes regarding election</heading>
+        <paragraph id="section-15.paragraph-0">
+          <content>
+            <p>In case of any dispute regarding any election under clause (a) of sub-section (2) of section 12, the aggrieved person may make an application within thirty days from the date of the declaration of the result of the election to the Council which shall forward the same forthwith to the Central Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-16">
+        <num>16.</num>
+        <heading>Establishment of Tribunal</heading>
+        <subsection id="section-16.1">
+          <num>(1)</num>
+          <content>
+            <p>On receipt of any application under section 15, the Central Government shall, by notification, establish a Tribunal consisting of a Presiding Officer and two other Members to decide such dispute and the decision of such Tribunal shall be final.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-16.2.list1">
+              <listIntroduction>A person shall not be qualified for appointment,--</listIntroduction>
+              <item id="section-16.2.list1.a">
+                <num>(a)</num>
+                <p>as a Presiding Officer of the Tribunal unless he has been a member of the Indian Legal Service and has held a post in Grade I of the service for at least three years;</p>
+              </item>
+              <item id="section-16.2.list1.b">
+                <num>(b)</num>
+                <p>as a Member unless he has been a member of the Council for at least one full term and who is not a sitting Member of the Council or who has not been a candidate in the election under dispute; and</p>
+              </item>
+              <item id="section-16.2.list1.c">
+                <num>(c)</num>
+                <p>as a Member unless he holds the post of a Joint Secretary to the Government of India or any other post under the Central Government carrying a scale of pay which is not less than that of a Joint Secretary to the Government of India.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-16.3">
+          <num>(3)</num>
+          <content>
+            <p>The terms and conditions of service of the Presiding Officer and Members of the Tribunal, their place of meetings, remuneration and allowances shall be such as may be prescribed.</p>
+          </content>
+        </subsection>
+        <subsection id="section-16.4">
+          <num>(4)</num>
+          <content>
+            <p>The expenses of the Tribunal shall be borne by the Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-17">
+        <num>17.</num>
+        <heading>President Vice-President and Honorary Secretary</heading>
+        <subsection id="section-17.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council shall, at its first meeting, elect three of its members from amongst persons referred to in clause (a) of sub-section (2) of section 12, to be respectively the President, Vice-President and Honorary Secretary thereof, and as often as the office of the President, Vice-President and Honorary Secretary falls vacant, the Council shall choose one of the member in the same manner:</p>
+            <p>Provided that the Chairperson of the Council of the Actuarial Society shall continue to hold such office as President after the commencement of this Act, until such time as a President is elected under the provisions of this sub-section.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.2">
+          <num>(2)</num>
+          <content>
+            <p>The President shall be the Chief Executive Officer of the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.3">
+          <num>(3)</num>
+          <content>
+            <p>The President, the Vice-President or the Honorary Secretary shall hold office for a period of two years from the date on which he is chosen provided that he continues to be a member of the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.4">
+          <num>(4)</num>
+          <content>
+            <p>The President and the Vice-President shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.5">
+          <num>(5)</num>
+          <content>
+            <p>In the event of occurrence of any vacancy in the office of the President, the Vice-President shall act as the President until a new President is elected in accordance with the provisions of this section to fill such vacancy and enters upon his office.</p>
+          </content>
+        </subsection>
+        <subsection id="section-17.6">
+          <num>(6)</num>
+          <content>
+            <p>When the President is unable to discharge his functions owing to absence, illness or any other cause, the Vice-President shall discharge his functions until the President resumes his duties.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-18">
+        <num>18.</num>
+        <heading>Resignation from membership and filling up of casual vacancies</heading>
+        <subsection id="section-18.1">
+          <num>(1)</num>
+          <content>
+            <p>Any member of the Council may at any time resign his membership by writing under his hand addressed to the President, and the seat of such member shall become vacant when such resignation is accepted and notified by the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.2">
+          <num>(2)</num>
+          <content>
+            <p>A member of the Council, other than a member nominated under clause (b) of subsection (2) of section 12 shall be deemed to have vacated his seat if he is declared by the Council to have been absent without sufficient reason from three consecutive meetings of the Council, or of any of the Committees constituted by the Council, and of which he is a member or he has been found guilty of any professional or other misconduct and awarded penalty of fine or if his name is, for any cause, removed from the register under the provisions of sections 24 and 30.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.3">
+          <num>(3)</num>
+          <content>
+            <p>A casual vacancy in the office of a member of the Council shall be filled by fresh election or by nomination by the Central Government, as the case may be, and the person elected or nominated to fill the vacancy shall hold office only for the remainder of the term for which the member in whose place he was elected or nominated would have held that office:</p>
+            <p>Provided that no election shall be held to fill a casual vacancy occurring within one year prior to the date of the expiration of the term of such member.</p>
+          </content>
+        </subsection>
+        <subsection id="section-18.4">
+          <num>(4)</num>
+          <content>
+            <p>No act done by the Council shall be called in question on the ground merely of the existence of any vacancy in, or defect in the constitution of the Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-19">
+        <num>19.</num>
+        <heading>Functions of Council</heading>
+        <subsection id="section-19.1">
+          <num>(1)</num>
+          <content>
+            <p>The duty of carrying out the functions under the provisions of this Act shall be vested in the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-19.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-19.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, the functions of the Council shall include--</listIntroduction>
+              <item id="section-19.2.list1.a">
+                <num>(a)</num>
+                <p>the holding of examination of the candidates for enrolment and specifying fees therefore;</p>
+              </item>
+              <item id="section-19.2.list1.b">
+                <num>(b)</num>
+                <p>the specifying of qualifications for entry in the register;</p>
+              </item>
+              <item id="section-19.2.list1.c">
+                <num>(c)</num>
+                <p>the recognition of foreign qualifications and training for the purposes of enrolment;</p>
+              </item>
+              <item id="section-19.2.list1.d">
+                <num>(d)</num>
+                <p>the granting of or refusal to grant the certificate of practice under this Act;</p>
+              </item>
+              <item id="section-19.2.list1.e">
+                <num>(e)</num>
+                <p>the maintenance and publication of a register of persons qualified to practice as Actuaries;</p>
+              </item>
+              <item id="section-19.2.list1.f">
+                <num>(f)</num>
+                <p>the levy and collection of fees from members, students, examinees and other persons;</p>
+              </item>
+              <item id="section-19.2.list1.g">
+                <num>(g)</num>
+                <p>the removal of names from the register and the restoration to the register of names which have been removed;</p>
+              </item>
+              <item id="section-19.2.list1.h">
+                <num>(h)</num>
+                <p>the regulation arid maintenance of the status and standard of professional qualifications of members of the Institute;</p>
+              </item>
+              <item id="section-19.2.list1.i">
+                <num>(i)</num>
+                <p>to issue guidelines for the observance of the members, including the student members;</p>
+              </item>
+              <item id="section-19.2.list1.j">
+                <num>(j)</num>
+                <p>to receive gifts, grants, donations or benefactions from the Central or State Governments and to receive bequests, donations and transfer of movable or immovable properties from testators, donors or transferors, as the case may be;</p>
+              </item>
+              <item id="section-19.2.list1.k">
+                <num>(k)</num>
+                <p>co-operating with educational or other institutions in any part of the world having objects wholly or partly similar to those of the Institute by exchange of members and generally in such manner as may be conducive to achievement of their common objects;</p>
+              </item>
+              <item id="section-19.2.list1.l">
+                <num>(l)</num>
+                <p>instituting and awarding fellowships, scholarships, prizes and medals;</p>
+              </item>
+              <item id="section-19.2.list1.m">
+                <num>(m)</num>
+                <p>giving gifts, grants, donations or benefactions to other institutions or bodies having objects similar to those of the Institute;</p>
+              </item>
+              <item id="section-19.2.list1.n">
+                <num>(n)</num>
+                <p>the carrying out, by granting financial assistance to persons other than members of the Council, or in any other manner, of research in the actuarial science;</p>
+              </item>
+              <item id="section-19.2.list1.o">
+                <num>(o)</num>
+                <p>the maintenance of a library and publication of books, journals and periodicals relating to actuarial science;</p>
+              </item>
+              <item id="section-19.2.list1.p">
+                <num>(p)</num>
+                <p>the exercise of disciplinary powers conferred by this Act;</p>
+              </item>
+              <item id="section-19.2.list1.q">
+                <num>(q)</num>
+                <p>establishing such regional council or councils as may be decided from time to time and fixing their headquarters; and</p>
+              </item>
+              <item id="section-19.2.list1.r">
+                <num>(r)</num>
+                <p>doing all such things as may be necessary, incidental or conducive to the attainment of all or any of the objects of the Institute.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-20">
+        <num>20.</num>
+        <heading>Staff, remuneration and allowances</heading>
+        <subsection id="section-20.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-20.1.list1">
+              <listIntroduction>For the efficient performance of its functions, the Council may--</listIntroduction>
+              <item id="section-20.1.list1.a">
+                <num>(a)</num>
+                <p>appoint an Executive Director, a Treasurer and such other officers and employees as it deems necessary and fix their salaries, fees, allowances and other conditions of service; and</p>
+              </item>
+              <item id="section-20.1.list1.b">
+                <num>(b)</num>
+                <p>fix the allowances of the President, the Vice-President, the Honorary Secretary and other members of the Council and its Committees, in such manner as may be specified.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-20.2">
+          <num>(2)</num>
+          <content>
+            <p>The Executive Director of the Council shall be entitled to participate in the meetings of the Council but shall not be entitled to vote thereat.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-21">
+        <num>21.</num>
+        <heading>Committees of Council</heading>
+        <subsection id="section-21.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council may constitute such committees from amongst its members, and co-opt therein persons who are not members of the Institute, as it deems necessary for the purpose of carrying out the provisions of this Act:</p>
+            <p>Provided that the number of co-opted members shall not exceed one-third of the total membership of the committee.</p>
+          </content>
+        </subsection>
+        <subsection id="section-21.2">
+          <num>(2)</num>
+          <content>
+            <p>Every committee constituted under this section shall elect its own Chairman:</p>
+            <blockList id="section-21.2.list2">
+              <listIntroduction>Provided that--</listIntroduction>
+              <item id="section-21.2.list2.i">
+                <num>(i)</num>
+                <p>where the President is a member of such committee, he shall be the Chairman of such committee, and in his absence, the Vice-President, if he is a member of such committee, shall be its Chairman; and</p>
+              </item>
+              <item id="section-21.2.list2.ii">
+                <num>(ii)</num>
+                <p>where the President is not a number of such committee but the Vice-President is a member, he shall be its Chairman.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-21.3">
+          <num>(3)</num>
+          <content>
+            <p>The committees shall exercise such functions and be subject to such conditions as may be specified.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-22">
+        <num>22.</num>
+        <heading>Finances of Council</heading>
+        <subsection id="section-22.1">
+          <num>(1)</num>
+          <content>
+            <p>There shall be established a fund under the management and control of the Council into which shall be paid all moneys (including donations and grants) received by the Council and out of which shall be met all expenses and liabilities incurred by the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.2">
+          <num>(2)</num>
+          <content>
+            <p>The Council may invest any money for the time being standing to the credit of the fund in any security as it may deem prudent consistent with the considerations of security of such investments and maximum returns thereon.</p>
+            <p>Explanation.-- For the purposes of this sub-section, the expression "securities" shall have the meaning assigned to it in section 2 of the Securities Contracts (Regulation) Act, 1956(42 of 1956), as amended from time to time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.3">
+          <num>(3)</num>
+          <content>
+            <p>The Council shall keep proper accounts of the fund distinguishing capital account from revenue account.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.4">
+          <num>(4)</num>
+          <content>
+            <p>The annual accounts of the Institute shall be subject to audit by a Chartered Accountant in practice within the meaning of the Chartered Accountants Act, 1949(38 of 1949) to be appointed annually by the Council:</p>
+            <p>Provided that no member of the Council who is a Chartered Accountant or a person who is in partnership with such member shall be eligible for appointment as an auditor under this sub-section.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.5">
+          <num>(5)</num>
+          <content>
+            <p>As soon as may be practicable at the end of each year, but not later than the 30th day of September of the year next following, the Council shall cause to be published in the Gazette of India, a copy of the audited accounts and the report of the Council for that year and copies of the said accounts and report shall be forwarded to the Central Government and to all the members of the Institute.</p>
+          </content>
+        </subsection>
+        <subsection id="section-22.6">
+          <num>(6)</num>
+          <content>
+            <blockList id="section-22.6.list1">
+              <listIntroduction>The Council may borrow from a scheduled bank, as defined in the Reserve Bank of India Act, 1934(2 of 1934), or from any public financial institution--</listIntroduction>
+              <item id="section-22.6.list1.a">
+                <num>(a)</num>
+                <p>any money required for meeting its liabilities on capital account on the security of the fund or on the security of any other asset, for the time being belonging to it; or</p>
+              </item>
+              <item id="section-22.6.list1.b">
+                <num>(b)</num>
+                <p>for the purpose of meeting current liabilities, pending the receipt of income, by way of temporary loan or overdraft.</p>
+              </item>
+            </blockList>
+            <p>Explanation.--The expression "public financial institution" means a financial institution specified in section 4A of the Companies Act, 1956(1 of 1956).</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-23">
+        <num>23.</num>
+        <heading>Register</heading>
+        <subsection id="section-23.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council shall maintain in the specified manner a register of the members of the Institute.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-23.2.list1">
+              <listIntroduction>The register shall include the following particulars about every member of the Institute, namely:--</listIntroduction>
+              <item id="section-23.2.list1.a">
+                <num>(a)</num>
+                <p>his full name, date of birth, domicile, residential and professional addresses;</p>
+              </item>
+              <item id="section-23.2.list1.b">
+                <num>(b)</num>
+                <p>the date on which his name is entered in the register;</p>
+              </item>
+              <item id="section-23.2.list1.c">
+                <num>(c)</num>
+                <p>his qualifications;</p>
+              </item>
+              <item id="section-23.2.list1.d">
+                <num>(d)</num>
+                <p>whether he holds a certificate of practice; and</p>
+              </item>
+              <item id="section-23.2.list1.e">
+                <num>(e)</num>
+                <p>any other particulars which may be specified.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-23.3">
+          <num>(3)</num>
+          <content>
+            <p>The Council shall cause to be published in such manner as may be specified a list of members as on the 1st day of April each year, and shall, if requested to do so by any such member, send him a copy of such list, on payment of such amount as may be specified.</p>
+          </content>
+        </subsection>
+        <subsection id="section-23.4">
+          <num>(4)</num>
+          <content>
+            <p>Every member of the Institute shall, on his name being entered in the register, pay such annual membership fee as may be specified by the Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-24">
+        <num>24.</num>
+        <heading>Removal of name from Register</heading>
+        <paragraph id="section-24.paragraph-0">
+          <content>
+            <blockList id="section-24.paragraph-0.list1">
+              <listIntroduction>The Council may, by order, remove from the register the name of any member of the Institute--</listIntroduction>
+              <item id="section-24.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>who is dead; or</p>
+              </item>
+              <item id="section-24.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>from whom a request has been received to that effect; or</p>
+              </item>
+              <item id="section-24.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>who has not paid any specified fee required to be paid by him; or</p>
+              </item>
+              <item id="section-24.paragraph-0.list1.d">
+                <num>(d)</num>
+                <p>who is found to have been subject to, at the time when his name was entered in the register, or who at any time thereafter has become subject to, any of the disqualifications mentioned in section 11; or</p>
+              </item>
+              <item id="section-24.paragraph-0.list1.e">
+                <num>(e)</num>
+                <p>who for any other reason has ceased to be entitled to have his name borne on the register.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-25">
+        <num>25.</num>
+        <heading>Re-entry in register</heading>
+        <paragraph id="section-25.paragraph-0">
+          <content>
+            <p>The Council may re-enter the name of a member whose name has been removed from the register for reasons mentioned in clauses (b), (c), (d) and (e) of section 24, by an order, and on paying such fees, and after satisfying such conditions and requirements as may be specified.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-26">
+        <num>26.</num>
+        <heading>Disciplinary Committee</heading>
+        <subsection id="section-26.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council shall constitute a Disciplinary Committee consisting of the President or the Vice-President of the Council as the Presiding Officer and two members of the Council elected by the Council and two members to be nominated by the Central Government from amongst the persons of eminence having experience in the field of law, education, economics, business, finance, accountancy or public administration:</p>
+            <p>Provided that the Council may constitute more regional Disciplinary Committees as and when it deems fit.</p>
+          </content>
+        </subsection>
+        <subsection id="section-26.2">
+          <num>(2)</num>
+          <content>
+            <p>The Disciplinary Committee in making the inquiry under the provisions of this Act shall follow such procedure and submit the report to the Council within such time as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-27">
+        <num>27.</num>
+        <heading>Appointment of Prosecution Director</heading>
+        <subsection id="section-27.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council may, by notification, appoint a Prosecution Director and such other employees to assist the Disciplinary Committee in making inquiries in respect of any information or complaint received by the Council under the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-27.2">
+          <num>(2)</num>
+          <content>
+            <p>In order to make inquiries under the provisions of this Act, the Prosecution Director shall follow such procedure as may be prescribed.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-28">
+        <num>28.</num>
+        <heading>Authority, Council, Disciplinary Committee and Prosecution Director to have powers of civil court</heading>
+        <paragraph id="section-28.paragraph-0">
+          <content>
+            <blockList id="section-28.paragraph-0.list1">
+              <listIntroduction>For the purposes of an inquiry under the provisions of this Act, the Authority, the Disciplinary Committee and the Prosecution Director shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908(5 of 1908), in respect of the following matters, namely:--</listIntroduction>
+              <item id="section-28.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>summoning and enforcing the attendance of any person and examining him on oath;</p>
+              </item>
+              <item id="section-28.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the discovery and production of any document; and</p>
+              </item>
+              <item id="section-28.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>receiving evidence on affidavit.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-29">
+        <num>29.</num>
+        <heading>Action by Council on Disciplinary Committee's report</heading>
+        <subsection id="section-29.1">
+          <num>(1)</num>
+          <content>
+            <p>On receipt of a report from the Disciplinary Committee, if the Council is satisfied that the member of the Institute is guilty of any professional or other misconduct, it shall record its findings accordingly and shall proceed in accordance with the provisions of section 30.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.2">
+          <num>(2)</num>
+          <content>
+            <p>In case the Council is not satisfied with the report of the Disciplinary Committee and is of the opinion that it requires further inquiry, it may refer the report again to the Disciplinary Committee for such further inquiry as may be directed through an order of the Council.</p>
+          </content>
+        </subsection>
+        <subsection id="section-29.3">
+          <num>(3)</num>
+          <content>
+            <p>If the Council disagrees with the findings of the Disciplinary Committee, it may direct the Prosecution Director or itself make an appeal to the Authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-30">
+        <num>30.</num>
+        <heading>Member to be afforded opportunity of being heard</heading>
+        <paragraph id="section-30.paragraph-0">
+          <content>
+            <blockList id="section-30.paragraph-0.list1">
+              <listIntroduction>Where the Council is of the opinion that a member is guilty of a professional or other misconduct mentioned in the Schedule, it shall afford to the member a reasonable opportunity of being heard before making any order against him and may thereafter take any one or more of the following actions, namely:--</listIntroduction>
+              <item id="section-30.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>reprimand the member; or</p>
+              </item>
+              <item id="section-30.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>remove the name of the member from the register permanently or for such period, as it thinks fit.</p>
+              </item>
+              <item id="section-30.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>impose such fine as it may think fit, which may extend to five lakh rupees,</p>
+              </item>
+            </blockList>
+            <p>Explanation.--For the purposes of this section, "member of the Institute" includes a person who was a member of the Institute on the date of the alleged misconduct although he has ceased to be a member of the Institute at the time of the inquiry.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-31">
+        <num>31.</num>
+        <heading>Professional or other misconduct defined</heading>
+        <paragraph id="section-31.paragraph-0">
+          <content>
+            <p>For the purposes of this Act, the expression "professional or other misconduct" shall be deemed to include any act or omission provided in the Schedule, but nothing in this section shall be construed to limit or abridge in any way the power conferred or duty cast on the Disciplinary Committee or the Prosecution Director to inquire into the conduct of any member of the Institute under any other circumstances.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-32">
+        <num>32.</num>
+        <heading>Constitution of Appellate Authority</heading>
+        <paragraph id="section-32.paragraph-0">
+          <content>
+            <p>The Appellate Authority constituted under sub-section (1) of section 22A of the Chartered Accountants Act, 1949(38 of 1949), shall be deemed to be the Appellate Authority for the purposes of this Act subject to the modification that for clause (b) of said sub-section (1), the following clause had been substituted, namely:--</p>
+            <p>"(b) the Central Government shall, by notification, appoint two part-time Members from amongst the persons who have been members of the Council of the Institute of Actuaries for at least one full term and who are not sitting members of the Council;".</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-33">
+        <num>33.</num>
+        <heading>Term of office of Members of Authority</heading>
+        <paragraph id="section-33.paragraph-0">
+          <content>
+            <p>A person appointed as a Member shall hold office for a term of three years from the date on which he enters upon his office or until he attains the age of sixty-seven years, whichever is earlier.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-34">
+        <num>34.</num>
+        <heading>Allowances, conditions of service of Members and procedure, etc., of Authority</heading>
+        <paragraph id="section-34.paragraph-0">
+          <content>
+            <p>The provisions of section 22C, section 22D and section 22F of the Chartered Accountants Act, 1949(38 of 1949) shall apply to the Authority in relation to allowances and terms and conditions of service of its Chairperson and members, and in discharge of its functions under this Act as they apply to it in the discharge of its functions under the Chartered Accountants Act, 1949.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-35">
+        <num>35.</num>
+        <heading>Officers and other staff of Authority</heading>
+        <subsection id="section-35.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council shall make available to the Authority such officers and other staff members as may be necessary for the efficient performance of the functions of the Authority.</p>
+          </content>
+        </subsection>
+        <subsection id="section-35.2">
+          <num>(2)</num>
+          <content>
+            <p>The salaries and allowances and conditions of service of the officers and other staff members of the Authority shall be such as may be specified.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-36">
+        <num>36.</num>
+        <heading>Appeal to Authority</heading>
+        <subsection id="section-36.1">
+          <num>(1)</num>
+          <content>
+            <p>Any member of the Institute aggrieved by any order of the Council imposing on him any of the penalties referred to in section 30, may, within ninety days of the date on which the order is communicated to him, prefer an appeal to the Authority:</p>
+            <p>Provided that the Authority may entertain any such appeal after the expiry of the said period of ninety days, if it is satisfied that there was sufficient cause for not filing the appeal in time.</p>
+          </content>
+        </subsection>
+        <subsection id="section-36.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-36.2.list1">
+              <listIntroduction>The Authority may, after calling for the records of any case, revise any order made by the Council under section 30 and may--</listIntroduction>
+              <item id="section-36.2.list1.a">
+                <num>(a)</num>
+                <p>confirm, modify or set aside the order;</p>
+              </item>
+              <item id="section-36.2.list1.b">
+                <num>(b)</num>
+                <p>impose any penalty or set aside, reduce or enhance the penalty imposed by the order;</p>
+              </item>
+              <item id="section-36.2.list1.c">
+                <num>(c)</num>
+                <p>remit the case to the Disciplinary Committee for such further inquiry as the Authority considers proper in the circumstances of the case; or</p>
+              </item>
+              <item id="section-36.2.list1.d">
+                <num>(d)</num>
+                <p>pass such other order as the Authority thinks fit:</p>
+              </item>
+            </blockList>
+            <p>Provided that the Authority shall give an opportunity of being heard to the parties concerned before passing any order.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-37">
+        <num>37.</num>
+        <heading>Penalty for falsely claiming to be a member, etc.</heading>
+        <paragraph id="section-37.paragraph-0">
+          <content>
+            <blockList id="section-37.paragraph-0.list1">
+              <listIntroduction>Subject to the provisions of section 10, any person who,--</listIntroduction>
+              <item id="section-37.paragraph-0.list1.a">
+                <num>(a)</num>
+                <blockList id="section-37.paragraph-0.list1.a.list0">
+                  <listIntroduction>not being a member of the Institute,--</listIntroduction>
+                  <item id="section-37.paragraph-0.list1.a.list0.i">
+                    <num>(i)</num>
+                    <p>represents that he is a member of the Institute in any of the manners mentioned in section 7; or</p>
+                  </item>
+                  <item id="section-37.paragraph-0.list1.a.list0.ii">
+                    <num>(ii)</num>
+                    <p>uses the designation "Actuary"; or</p>
+                  </item>
+                  <item id="section-37.paragraph-0.list1.a.list0.iii">
+                    <num>(iii)</num>
+                    <p>uses the letters "AIAI" or "FIAI" after his name; or</p>
+                  </item>
+                  <item id="section-37.paragraph-0.list1.a.list0.iv">
+                    <num>(iv)</num>
+                    <p>practices the profession of an Actuary; or</p>
+                  </item>
+                </blockList>
+              </item>
+              <item id="section-37.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>being a member of the Institute, but not having a certificate of practice, represents that he is in practice, or practices as an Actuary,</p>
+              </item>
+            </blockList>
+            <p>shall be punishable on first conviction with fine which may extend to one lakh rupees, and on any subsequent conviction with imprisonment which may extend to one year, or with fine which may extend to two lakh rupees, or with both.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-38">
+        <num>38.</num>
+        <heading>Penalty for using name of Institution, awarding degrees of actuarial science, etc.</heading>
+        <subsection id="section-38.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-38.1.list1">
+              <listIntroduction>Save as otherwise provided in this Act, no person shall--</listIntroduction>
+              <item id="section-38.1.list1.a">
+                <num>(a)</num>
+                <p>use a name or a common seal which is identical with the name or the common seal of the Institute or so nearly resembles it so as to deceive or as is likely to deceive the public; or</p>
+              </item>
+              <item id="section-38.1.list1.b">
+                <num>(b)</num>
+                <p>award any degree, diploma or certificate or bestow any designation which indicates or purports to indicate the position or attainment of any qualification or competence in actuary ship similar to that of a member of the Institute; or</p>
+              </item>
+              <item id="section-38.1.list1.c">
+                <num>(c)</num>
+                <p>seek to regulate in any manner whatsoever the profession of Actuaries.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-38.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person contravening the provisions of sub-section (1) shall, without prejudice to any other proceedings, which may be taken against him, be punishable with fine, which may extend on first conviction to fifty thousand rupees and on any subsequent conviction with imprisonment which may extend to one year, or, with fine which may extend to one lakh rupees, or with both.</p>
+          </content>
+        </subsection>
+        <subsection id="section-38.3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing contained in this section shall apply to any University or other institution established by law or to any body affiliated to the Institute.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-39">
+        <num>39.</num>
+        <heading>Companies not to engage in actuarial practice</heading>
+        <subsection id="section-39.1">
+          <num>(1)</num>
+          <content>
+            <p>No company, whether incorporated in India or elsewhere, shall practice as Actuaries.</p>
+          </content>
+        </subsection>
+        <subsection id="section-39.2">
+          <num>(2)</num>
+          <content>
+            <p>Any company contravening the provisions of sub-section (1) shall be punishable on first conviction with fine which may extend to ten thousand rupees, and on any subsequent conviction with fine which may extend to twenty-five thousand rupees.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-40">
+        <num>40.</num>
+        <heading>Unqualified person not to sign documents</heading>
+        <subsection id="section-40.1">
+          <num>(1)</num>
+          <content>
+            <p>No person other than a fellow member of the Institute shall sign any document on behalf of an Actuary in practice or a firm of such Actuaries in his or its professional capacity.</p>
+          </content>
+        </subsection>
+        <subsection id="section-40.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person contravening the provisions of sub-section (1) shall, without prejudice to any other proceedings which may be taken against him, be punishable on first conviction with fine which may extend to fifty thousand rupees, and on any subsequent conviction with imprisonment which may extend to one year, or with fine which may extend to one lakh rupees, or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-41">
+        <num>41.</num>
+        <heading>Offences by companies</heading>
+        <subsection id="section-41.1">
+          <num>(1)</num>
+          <content>
+            <p>If the person committing an offence under this Act is a company, the company as well as every person in charge of, and responsible to, the company for the conduct of its business at the time of the commission of the offence shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+            <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-41.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or that the commission of the offence is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+            <blockList id="section-41.2.list2">
+              <listIntroduction>Explanation.--For the purposes of this section--</listIntroduction>
+              <item id="section-41.2.list2.a">
+                <num>(a)</num>
+                <p>"company" means any body corporate and includes a firm or other association of individuals; and</p>
+              </item>
+              <item id="section-41.2.list2.b">
+                <num>(b)</num>
+                <p>"director", in relation to a firm, means a partner in the firm.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-42">
+        <num>42.</num>
+        <heading>Sanction to prosecute</heading>
+        <paragraph id="section-42.paragraph-0">
+          <content>
+            <p>No person shall be prosecuted under this Act except on a complaint made by or under the order of the Council or of the Central Government.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-43">
+        <num>43.</num>
+        <heading>Establishment of Quality Review Board</heading>
+        <subsection id="section-43.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government shall, by notification, constitute a Quality Review Board consisting of a Chairperson and not more than four Members:</p>
+            <p>Provided that in case the Board is constituted with two Members, one each shall be nominated by the Council and the Central Government, respectively.</p>
+          </content>
+        </subsection>
+        <subsection id="section-43.2">
+          <num>(2)</num>
+          <content>
+            <p>The Chairperson and Members of the Board shall be appointed from amongst the persons of eminence having experience in the field of law, education, economics, business, finance, accountancy or public administration.</p>
+          </content>
+        </subsection>
+        <subsection id="section-43.3">
+          <num>(3)</num>
+          <content>
+            <p>Two Members of the Board shall be nominated by the Council and other two Members shall be nominated by the Central Government.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-44">
+        <num>44.</num>
+        <heading>Functions of Board</heading>
+        <paragraph id="section-44.paragraph-0">
+          <content>
+            <blockList id="section-44.paragraph-0.list1">
+              <listIntroduction>The Board shall perform the following functions, namely:--</listIntroduction>
+              <item id="section-44.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>to fix standards for the services provided by the members of the Institute;</p>
+              </item>
+              <item id="section-44.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>to review the quality of services provided by the members of the Institute including actuarial audit services; and</p>
+              </item>
+              <item id="section-44.paragraph-0.list1.c">
+                <num>(c)</num>
+                <p>to guide the members of the Institute to improve the quality of services and adherence to the various statutory and other regulatory requirements.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-45">
+        <num>45.</num>
+        <heading>Procedure of Board</heading>
+        <paragraph id="section-45.paragraph-0">
+          <content>
+            <p>The Board shall follow in its meeting and in discharging its functions such procedure as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-46">
+        <num>46.</num>
+        <heading>Terms and conditions of Chairperson and Members of Board</heading>
+        <paragraph id="section-46.paragraph-0">
+          <content>
+            <p>The terms and conditions of service of the Chairperson and the Members of the Board, their place of meetings, remuneration and allowances shall be such as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-47">
+        <num>47.</num>
+        <heading>Expenditure of Board</heading>
+        <paragraph id="section-47.paragraph-0">
+          <content>
+            <p>The expenditure of the Board shall be borne by the Council.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-48">
+        <num>48.</num>
+        <heading>Dissolution of Actuarial Society of India</heading>
+        <paragraph id="section-48.paragraph-0">
+          <content>
+            <blockList id="section-48.paragraph-0.list1">
+              <listIntroduction>On the appointed day.--</listIntroduction>
+              <item id="section-48.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>the Society known as the Actuarial Society of India registered under the Societies Registration Act, 1860(21 of 1860. Bombay Act XXXIX of 1950) and the Bombay Public Trusts Act, 1950 shall stand dissolved and thereafter no person shall make, assert or take any claims or demands or proceedings against the dissolved society or against any officer thereof in his capacity as such officer except in so far as may be necessary, for enforcing the provisions of this Act;</p>
+              </item>
+              <item id="section-48.paragraph-0.list1.b">
+                <num>(b)</num>
+                <p>the right of every member to, or in respect of, the dissolved society shall be extinguished, and thereafter no member of the society shall make, assert or take any claims or demands or proceedings in respect of that society except as provided in this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-49">
+        <num>49.</num>
+        <heading>Provisions respecting employees of dissolved society</heading>
+        <subsection id="section-49.1">
+          <num>(1)</num>
+          <content>
+            <p>Every person employed in the dissolved society and continuing in its employment immediately before the commencement of this Act shall, as from such commencement, become an employee of the Institute, shall hold his office or service therein by the same tenure and upon the same terms and conditions and with the same rights and privileges as to retirement benefits as he would have held the same under the dissolved society if this Act had not been passed, and shall, continue to do so unless and until his employment in the Institute is terminated or until his remuneration, terms and conditions of employment are duly altered by the Institute.</p>
+          </content>
+        </subsection>
+        <subsection id="section-49.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in the Industrial Disputes Act, 1947(14 of 1947) or in any other law for the time being in force, the transfer of the services of any employee of the dissolved society to the Institute shall not entitle any such employee to any compensation under that Act or other law, and no such claims shall be entertained by any court, tribunal or other authority.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-50">
+        <num>50.</num>
+        <heading>Maintenance of more than one offices by Actuary</heading>
+        <subsection id="section-50.1">
+          <num>(1)</num>
+          <content>
+            <p>Where an Actuary in practice or a firm of such Actuaries has more than one offices within or outside India, each one of such offices shall be in the separate charge of a fellow member of the Institute:</p>
+            <p>Provided that the Council may in suitable cases exempt any Actuary in practice or from of such Actuaries from the operation of this sub-section.</p>
+          </content>
+        </subsection>
+        <subsection id="section-50.2">
+          <num>(2)</num>
+          <content>
+            <p>Every Actuary in practice or a firm of such Actuaries maintaining more than one office shall send to the Council a list of offices and the person in charge thereof and shaft keep the Council informed of any changes in relation thereto.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-51">
+        <num>51.</num>
+        <heading>Reciprocity</heading>
+        <subsection id="section-51.1">
+          <num>(1)</num>
+          <content>
+            <p>Where any country, notified by the Central Government in this behalf in the Official Gazette, prevents persons of Indian domicile from becoming members of any institution similar to the Institute or from practicing the profession of Actuaries or subjects them to unfair discrimination in that country, no subject of any such country shall be entitled to become a member of the Institute or practice the profession of Actuaries in India.</p>
+          </content>
+        </subsection>
+        <subsection id="section-51.2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the provisions of sub-section (1), the Council may specify the conditions, if any, subject to which foreign qualifications relating to actuarial science shall be recognised for the purposes of entry in the register.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-52">
+        <num>52.</num>
+        <heading>Power of Central Government to issue directions</heading>
+        <subsection id="section-52.1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this Act, the Central Government may, from time to time-give to the Council such general or special directions as it thinks fit, and the Council shall, in the discharge of its functions under this Act, comply with such directions.</p>
+          </content>
+        </subsection>
+        <subsection id="section-52.2">
+          <num>(2)</num>
+          <content>
+            <p>If, in the opinion of the Central Government, the Council has persistently made default in giving effect to the directions issued under sub-section (1), it may, after giving an opportunity of being heard to the Council, by notification, dissolve the Council, hereafter a new Council shall be constituted in accordance with the provisions of this Act with effect from such date as may be decided by the Central Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-52.3">
+          <num>(3)</num>
+          <content>
+            <p>Where the Central Government has issued a notification under sub-section (2) dissolving the Council, it may, pending the constitution of a new Council in accordance with the provisions of this Act, authorise any person or body of persons to take over the management of the affairs of the Council and to exercise such functions as may be mentioned in the notification.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-53">
+        <num>53.</num>
+        <heading>Protection of action taken in good faith</heading>
+        <paragraph id="section-53.paragraph-0">
+          <content>
+            <p>No suit, prosecution or other legal proceeding shall lie against the Central Government or the Council or the Disciplinary Committee or the Tribunal or the Authority or the Board or the Prosecution Director or any officer of that Government, Council, Committee, Tribunal, Authority or Board, for anything which is in good faith done or intended to be done under this Act or any rule, regulation, notification, direction or order made thereunder.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-54">
+        <num>54.</num>
+        <heading>Members, etc., to be public servants</heading>
+        <paragraph id="section-54.paragraph-0">
+          <content>
+            <p>The Chairperson, Presiding Officer, Members and other officers and employees of the Authority, Tribunal and Board, and the Prosecution Director shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-55">
+        <num>55.</num>
+        <heading>Power of Central Government to make rules</heading>
+        <subsection id="section-55.1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, by notification, make rules to carry out the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-55.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-55.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such, rules may provide for all or any of the following matters, namely:--</listIntroduction>
+              <item id="section-55.2.list1.a">
+                <num>(a)</num>
+                <p>the manner of election and nomination in respect of members to the Council under sub-section (2) of section 12;</p>
+              </item>
+              <item id="section-55.2.list1.b">
+                <num>(b)</num>
+                <p>the terms and conditions of service of the Presiding Officers and Members of the Tribunal, place of meeting, remuneration and allowances to be paid to them under sub-section (3) of section 16;</p>
+              </item>
+              <item id="section-55.2.list1.c">
+                <num>(c)</num>
+                <p>the procedure of inquiry and submission of report by the Disciplinary Committee under sub-section (2) of section 26;</p>
+              </item>
+              <item id="section-55.2.list1.d">
+                <num>(d)</num>
+                <p>the procedure of inquiry by the Prosecution Director under sub-section (2) of section 27;</p>
+              </item>
+              <item id="section-55.2.list1.e">
+                <num>(e)</num>
+                <p>any act or omission which may be determined as professional misconduct under section 31;</p>
+              </item>
+              <item id="section-55.2.list1.f">
+                <num>(f)</num>
+                <p>the procedure to be followed by the Board in its meetings and discharging its functions under section 45; and</p>
+              </item>
+              <item id="section-55.2.list1.g">
+                <num>(g)</num>
+                <p>terms and conditions of service of the Chairman and Members of the Board under section 46.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-56">
+        <num>56.</num>
+        <heading>Power to make regulations</heading>
+        <subsection id="section-56.1">
+          <num>(1)</num>
+          <content>
+            <p>The Council may, with the previous approval of the Central Government and subject to the previous publication, by notification in the Official Gazette, make regulations to carry out the provisions of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-56.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-56.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:--</listIntroduction>
+              <item id="section-56.2.list1.a">
+                <num>(a)</num>
+                <p>the examination and training for the purposes of clauses (b), (c) and (d) of sub-section (1) of section 6;</p>
+              </item>
+              <item id="section-56.2.list1.b">
+                <num>(b)</num>
+                <p>the manner of making an application under sub-section (3) of section 6;</p>
+              </item>
+              <item id="section-56.2.list1.c">
+                <num>(c)</num>
+                <p>the fees payable under sub-section (3) of section 6, sub-section (2) of section 9, clause (a) of sub-section (2) of section 19, sub-section (4) of section 23;</p>
+              </item>
+              <item id="section-56.2.list1.d">
+                <num>(d)</num>
+                <p>the manner in which the honorary member may be chosen under subsection (1) of section 8;</p>
+              </item>
+              <item id="section-56.2.list1.e">
+                <num>(e)</num>
+                <p>the terms and conditions on which an affiliate member may be admitted under sub-section (2) of section 8;</p>
+              </item>
+              <item id="section-56.2.list1.f">
+                <num>(f)</num>
+                <p>the academic qualifications for admission of a student member under subsection (3) of section 8;</p>
+              </item>
+              <item id="section-56.2.list1.g">
+                <num>(g)</num>
+                <p>qualifications required for a certificate of practice under sub-section (1) and the form in which an application may be made under sub-section (2) of section 9;</p>
+              </item>
+              <item id="section-56.2.list1.h">
+                <num>(h)</num>
+                <p>the transaction of business by the Council for the discharge of its functions mentioned in sub-section (2) of section 19;</p>
+              </item>
+              <item id="section-56.2.list1.i">
+                <num>(i)</num>
+                <p>terms and conditions of the services under sub-section (1) of section 20;</p>
+              </item>
+              <item id="section-56.2.list1.j">
+                <num>(j)</num>
+                <p>the functions and conditions of the committees under sub-section (3) of section 21;</p>
+              </item>
+              <item id="section-56.2.list1.k">
+                <num>(k)</num>
+                <p>the manner in which the register of the members of the Institute and other particulars to be maintained under sub-sections (1) and (2) of section 23;</p>
+              </item>
+              <item id="section-56.2.list1.l">
+                <num>(l)</num>
+                <p>the manner in which the annual list of members of the Institute may be published under sub-section (3) of section 23;</p>
+              </item>
+              <item id="section-56.2.list1.m">
+                <num>(m)</num>
+                <p>the conditions and requirements and payment of fee for re-entry in the register under section 25;</p>
+              </item>
+              <item id="section-56.2.list1.n">
+                <num>(n)</num>
+                <p>salaries and allowances and conditions of service of the officers and other staff members of the Authority under sub-section (2) of section 35;</p>
+              </item>
+              <item id="section-56.2.list1.o">
+                <num>(o)</num>
+                <p>the conditions subject to which foreign qualifications may be recognised under sub-section (2) of section 51; and</p>
+              </item>
+              <item id="section-56.2.list1.p">
+                <num>(p)</num>
+                <p>any other matter which is required to be, or may be, prescribed under this Act.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-57">
+        <num>57.</num>
+        <heading>Power of Central Government to issue directions for making or amending regulations</heading>
+        <subsection id="section-57.1">
+          <num>(1)</num>
+          <content>
+            <p>Where the Central Government considers it expedient so to do, it may, by order in writing, direct the Council to make any regulations or to amend of revoke any regulations already made within such period as it may specify in this behalf.</p>
+          </content>
+        </subsection>
+        <subsection id="section-57.2">
+          <num>(2)</num>
+          <content>
+            <p>If the Council fails or neglects to comply with such order within the specified period, the Central Government may itself make the regulations or amend or revoke the regulations made by the Council.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-58">
+        <num>58.</num>
+        <heading>Laying of rules and regulations</heading>
+        <paragraph id="section-58.paragraph-0">
+          <content>
+            <p>Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rate or regulation shall, thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-59">
+        <num>59.</num>
+        <heading>Power to remove difficulties</heading>
+        <subsection id="section-59.1">
+          <num>(1)</num>
+          <content>
+            <p>If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as may appear to be necessary for removing the difficulty:</p>
+            <p>Provided that no such order shall be made under this section after the expiry of a period of two years from the commencement of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-59.2">
+          <num>(2)</num>
+          <content>
+            <p>Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+  <components>
+    <component id="component-thefirstschedule">
+      <doc name="thefirstschedule">
+        <meta>
+          <identification source="#slaw">
+            <FRBRWork>
+              <FRBRthis value="/in-union/act/2006/35/schedules"/>
+              <FRBRuri value="/in-union/act/2006/35"/>
+              <FRBRalias value="THE FIRST SCHEDULE"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRcountry value="in"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/in-union/act/2006/35/eng@2006-08-27/schedules"/>
+              <FRBRuri value="/in-union/act/2006/35/eng@2006-08-27"/>
+              <FRBRdate date="1980-01-01" name="Generation"/>
+              <FRBRauthor href="#council"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/in-union/act/2006/35/eng@2006-08-27/schedules"/>
+              <FRBRuri value="/in-union/act/2006/35/eng@2006-08-27"/>
+              <FRBRdate date="2017-04-21" name="Generation"/>
+              <FRBRauthor href="#slaw"/>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+          <article id="thefirstschedule">
+            <heading>(See 31)</heading>
+            <part id="part-I">
+              <num>I</num>
+              <heading>Professional misconduct in relation to members of the Institute in practice</heading>
+              <paragraph id="part-I.paragraph-0">
+                <content>
+                  <p>An Actuary in practice shall be deemed to be guilty of professional misconduct, if he--</p>
+                </content>
+              </paragraph>
+              <subsection id="part-I.1">
+                <num>(1)</num>
+                <content>
+                  <p>allows any person to practice in his name as an actuary unless such person is also an actuary in practice and is in partnership with or employed by himself; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.2">
+                <num>(2)</num>
+                <content>
+                  <p>pays by way of remuneration to an employee, pays or allows or agrees to pay or allow, directly or indirectly, any share, commission or brokerage in the fees or profits of his professional business, to any person other than a member of the Institute or a partner or a retired partner or the legal representative of a deceased partner; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.3">
+                <num>(3)</num>
+                <content>
+                  <p>enters into partnership with any person other than an Actuary in practice or a person resident outside India who but for his residence abroad would be entitled to be admitted as a member under clause (c) of sub-section (1) of section 6 or whose qualifications are recognised by the Central Government or the Council for the purpose of permitting such partnership, provided the Actuary shares in the fees or profits of the business of the partnership both within and outside of India; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.4">
+                <num>(4)</num>
+                <content>
+                  <p>secures either through the services of a person who is not an employee of such Actuary or who is not qualified to be his partner or by means which are not open to an Actuary, any professional business; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.5">
+                <num>(5)</num>
+                <content>
+                  <p>accepts an assignment as Actuary previously held by another Actuary without first communicating with him in writing; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.6">
+                <num>(6)</num>
+                <content>
+                  <p>charges or offers to charge, accepts or offers to accept in respect of any professional employment fees which are based on a percentage of profit or which are contingent upon the findings or results of such employment, except as permitted under any regulation made under this Act; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.7">
+                <num>(7)</num>
+                <content>
+                  <p>engages in any business or occupation other than the profession of Actuaries unless permitted by the Council so to engage:</p>
+                  <p>Provided that nothing contained herein shall disentitle an Actuary from being a director of a company; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.8">
+                <num>(8)</num>
+                <content>
+                  <p>accepts a position as an actuary previously held by some other Actuary in practice in such conditions as to constitute undercutting; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.9">
+                <num>(9)</num>
+                <content>
+                  <p>allows a person not being a member of the Institute in practice, or a member not being his partner to sign on his behalf or on behalf of his firm, any valuation report or financial statement; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.10">
+                <num>(10)</num>
+                <content>
+                  <p>discloses information acquired in the course of his professional engagement to any person other than his client so engaging him, without the consent of such client, or otherwise than as required by any law for the time being in force; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.11">
+                <num>(11)</num>
+                <content>
+                  <p>certifies or submits in his name, or in the name of his firm, a valuation report or a financial statement unless the examination of such statement and the related records has been made by him or by a partner or an employee in his firm or by another Actuary in practice; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.12">
+                <num>(12)</num>
+                <content>
+                  <p>expresses his opinion or valuation reports or financial statements of any business or any enterprise in which he, his firm, or a partner in his firm has a substantial interest, unless he has disclosed the interest also in his report; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.13">
+                <num>(13)</num>
+                <content>
+                  <p>fails to disclose a material fact known to him in a valuation report or a financial statement, but disclosures of which is necessary to make the valuation report or the financial statement not misleading where he is concerned with such valuation report or the financial statement in a professional capacity; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.14">
+                <num>(14)</num>
+                <content>
+                  <p>fails to report a material misstatement known to him to appear in a valuation report or financial statement with which he is concerned in a professional capacity; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.15">
+                <num>(15)</num>
+                <content>
+                  <p>is grossly negligent in the conduct of his professional duties; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.16">
+                <num>(16)</num>
+                <content>
+                  <p>fails to obtain sufficient information to warrant the formation of an opinion in regard to any matter contained in any valuation report or financial statement prepared by him or on his behalf; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-I.17">
+                <num>(17)</num>
+                <content>
+                  <p>fails to invite attention to any material departure from the generally accepted procedure or professional work applicable to the circumstances, in any valuation report or financial statement prepared by him or on his behalf.</p>
+                </content>
+              </subsection>
+            </part>
+            <part id="part-II">
+              <num>II</num>
+              <paragraph id="part-II.paragraph-0">
+                <content>
+                  <p>Professional misconduct in relation to the members of the Institute in service</p>
+                  <p>A member of the Institute (other than a member in practice) shall be deemed to be guilty of professional misconduct, if he being an employee of any company, firm or person,--</p>
+                </content>
+              </paragraph>
+              <subsection id="part-II.1">
+                <num>(1)</num>
+                <content>
+                  <p>pays or allows or agrees to pay directly or indirectly to any person any share in the emoluments of the employment undertaken by him; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.2">
+                <num>(2)</num>
+                <content>
+                  <p>accepts or agrees to accept any part of fees, profits or gains by way of commission or gratification; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-II.3">
+                <num>(3)</num>
+                <content>
+                  <p>discloses confidential information acquired in the course of his employment except as and when required by law or except as permitted by his employer.</p>
+                </content>
+              </subsection>
+            </part>
+            <part id="part-III">
+              <num>III</num>
+              <paragraph id="part-III.paragraph-0">
+                <content>
+                  <p>Professional misconduct in relation to members of the Institute generally</p>
+                  <p>A member of the Institute, whether in practice or not, shall be deemed to be guilty of professional misconduct, if he--</p>
+                </content>
+              </paragraph>
+              <subsection id="part-III.1">
+                <num>(1)</num>
+                <content>
+                  <p>includes in any statement, return or form to be submitted to the Council any particulars knowing them to be false; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-III.2">
+                <num>(2)</num>
+                <content>
+                  <p>not being a fellow member of the Institute acts himself as a fellow member of the Institute; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-III.3">
+                <num>(3)</num>
+                <content>
+                  <p>does not supply the information called for or does not comply with the requirements asked for by the Council or any of its Committees; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-III.4">
+                <num>(4)</num>
+                <content>
+                  <p>contravenes any of the provisions of this Act or the regulations made thereunder or any guidelines issued by the Council under clause (i) of sub-section (2) of section 19; or</p>
+                </content>
+              </subsection>
+              <subsection id="part-III.5">
+                <num>(5)</num>
+                <content>
+                  <p>is guilty of such other act or omission as may be specified by the Council.</p>
+                </content>
+              </subsection>
+            </part>
+            <part id="part-IV">
+              <num>IV</num>
+              <paragraph id="part-IV.paragraph-0">
+                <content>
+                  <p>Other misconduct in relation to member of the Institute generally</p>
+                  <blockList id="part-IV.paragraph-0.list2">
+                    <listIntroduction>A member of the Institute, whether in practice or not, shall be deemed to be guilty of other misconduct, if--</listIntroduction>
+                    <item id="part-IV.paragraph-0.list2.A">
+                      <num>(A)</num>
+                      <p>(1) he is held guilty by any civil or criminal court for an offence which is punishable with imprisonment for a term not exceeding six months;</p>
+                    </item>
+                  </blockList>
+                </content>
+              </paragraph>
+              <subsection id="part-IV.2">
+                <num>(2)</num>
+                <content>
+                  <blockList id="part-IV.2.list1">
+                    <listIntroduction>in the opinion of the Council, he brings disrepute to the profession or the Institute as result of his action whether or not related to his professional work;</listIntroduction>
+                    <item id="part-IV.2.list1.B">
+                      <num>(B)</num>
+                      <p>he is held guilty by any civil or criminal court for an offence which is punishable with imprisonment for a term exceeding six months.</p>
+                    </item>
+                  </blockList>
+                </content>
+              </subsection>
+            </part>
+          </article>
+        </mainBody>
+      </doc>
+    </component>
+  </components>
+</akomaNtoso>

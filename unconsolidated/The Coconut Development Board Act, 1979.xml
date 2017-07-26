@@ -1,0 +1,994 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1979/5/main"/>
+          <FRBRuri value="/in-union/act/1979/5"/>
+          <FRBRalias value="The Coconut Development Board Act, 1979"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1979/5/eng@1979-03-17/main"/>
+          <FRBRuri value="/in-union/act/1979/5/eng@1979-03-17"/>
+          <FRBRdate date="1979-03-17" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1979/5/eng@1979-03-17/main"/>
+          <FRBRuri value="/in-union/act/1979/5/eng@1979-03-17"/>
+          <FRBRdate date="2016-09-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Coconut Development Board Act, 1979</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 5 OF 1979</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 17th March, 1979.]</docDate>
+      </p>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by Parliament in the Thirtieth Year of the Republic  of India as follows:--</p>
+        </formula>
+      </preamble>
+      <longTitle>
+        <p>An Act to provide for the development under the control of the Union  of the coconut industry and for matters connected therewith.</p>
+        <p>CHAP</p>
+        <p>PRELIMINARY</p>
+      </longTitle>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <paragraph id="chapter-I.paragraph-0">
+          <content>
+            <p>PRELIMINARY</p>
+          </content>
+        </paragraph>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be  called the Coconut Development Board Act, 1979.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It shall come into force on such date  as the Central</p>
+              <p>Government may, by notification in the Official Gazette, appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Declaration as to expediency of control by the Union. It is  hereby declared that it is expedient in the public interest that the</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <p>Union should take under its control the coconut industry.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Definitions. In this Act, unless the context otherwise  requires,--</heading>
+          <paragraph id="section-3.paragraph-0">
+            <content>
+              <blockList id="section-3.paragraph-0.list0">
+                <item id="section-3.paragraph-0.list0.a">
+                  <num>(a)</num>
+                  <p>" Board" means the Coconut Development Board established  under section 4;</p>
+                </item>
+                <item id="section-3.paragraph-0.list0.b">
+                  <num>(b)</num>
+                  <p>" Chairman" means the Chairman of the Board;</p>
+                </item>
+                <item id="section-3.paragraph-0.list0.c">
+                  <num>(c)</num>
+                  <p>" coconut" means the fruit of coconut palm and includes  green coconut, ripe coconut and copra.</p>
+                </item>
+              </blockList>
+              <p>Explanation.--" Coconut palm" means the coconut tree, Cocos</p>
+              <blockList id="section-3.paragraph-0.list3">
+                <listIntroduction>Nucifera Linn;</listIntroduction>
+                <item id="section-3.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <blockList id="section-3.paragraph-0.list3.d.list0">
+                    <listIntroduction>" coconut industry" does not include--</listIntroduction>
+                    <item id="section-3.paragraph-0.list3.d.list0.i">
+                      <num>(i)</num>
+                      <p>coir industry; or</p>
+                    </item>
+                    <item id="section-3.paragraph-0.list3.d.list0.ii">
+                      <num>(ii)</num>
+                      <p>an industry from which products (including   by- products) out of coconut oil are manufactured;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-3.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <p>" member" means a member of the Board and includes the</p>
+                </item>
+              </blockList>
+              <blockList id="section-3.paragraph-0.list5">
+                <listIntroduction>Chairman;</listIntroduction>
+                <item id="section-3.paragraph-0.list5.f">
+                  <num>(f)</num>
+                  <p>" prescribed" means prescribed by rules made under this</p>
+                </item>
+              </blockList>
+              <p>Act.</p>
+              <p>CHAP</p>
+              <p>THE COCONUT DEVELOPMENT BOARD</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <paragraph id="chapter-II.paragraph-0">
+          <content>
+            <p>THE COCONUT DEVELOPMENT BOARD</p>
+          </content>
+        </paragraph>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Establishment and constitution of the Board.</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>With effect  from such date as the Central Government may, by notification in the</p>
+              <p>Official Gazette appoint in this behalf, there shall be established  for the purposes of this Act, a Board to be called the Coconut</p>
+              <p>Development Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall be a body corporate by the name aforesaid,</p>
+              <p>having perpetual succession and common seal, with power to acquire,</p>
+              <p>hold and dispose of property, both movable and immovable and to  contract, and shall by the said name sue and be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>The head office of the Board shall be at such place as the</p>
+              <p>Central Government may, by notification in the Official Gazette,</p>
+              <p>specify.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-4.4.list1">
+                <listIntroduction>The Board shall consist of the following members, namely:--</listIntroduction>
+                <item id="section-4.4.list1.a">
+                  <num>(a)</num>
+                  <p>a Chairman, to be appointed by the Central Government;</p>
+                </item>
+                <item id="section-4.4.list1.b">
+                  <num>(b)</num>
+                  <p>the Horticulture Commissioner] to the Government of</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.4.list3">
+                <listIntroduction>India, ex officio;</listIntroduction>
+                <item id="section-4.4.list3.c">
+                  <num>(c)</num>
+                  <p>the Director, Central Plantation Crops Research</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.4.list5">
+                <listIntroduction>Institute (Indian Council of Agricultural Research), ex  officio;</listIntroduction>
+                <item id="section-4.4.list5.d">
+                  <num>(d)</num>
+                  <p>the Chairman of the Coir Board constituted under section</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>of the Coir Industry Act, 1953 (45 of 1953), ex  officio;</heading>
+          <paragraph id="section-4.paragraph-0">
+            <content>
+              <blockList id="section-4.paragraph-0.list0">
+                <item id="section-4.paragraph-0.list0.e">
+                  <num>(e)</num>
+                  <p>three members of Parliament of whom two shall be elected  by the House of the People and one by the Council of</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.paragraph-0.list2">
+                <listIntroduction>States;</listIntroduction>
+                <item id="section-4.paragraph-0.list2.f">
+                  <num>(f)</num>
+                  <p>two members to be appointed by the Central Government to  represent respectively the Ministries of the Central</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.paragraph-0.list4">
+                <listIntroduction>Government dealing with--</listIntroduction>
+                <item id="section-4.paragraph-0.list4.i">
+                  <num>(i)</num>
+                  <p>Revenue: and</p>
+                </item>
+                <item id="section-4.paragraph-0.list4.ii">
+                  <num>(ii)</num>
+                  <p>Civil Supplies and Co- operation;</p>
+                </item>
+                <item id="section-4.paragraph-0.list4.g">
+                  <num>(g)</num>
+                  <p>three members to be appointed by the Central Government  one each to represent the Governments of the States of</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.paragraph-0.list6">
+                <listIntroduction>Kerala, Tamil Nadu and Karnataka, being States wherein  coconut is grown on a large scale;</listIntroduction>
+                <item id="section-4.paragraph-0.list6.h">
+                  <num>(h)</num>
+                  <p>five members to be appointed by the Central Government  by rotation in the alphabetical order to represent the</p>
+                </item>
+              </blockList>
+              <p>States of Andhra Pradesh, Assam, Maharashtra, Orissa  and West Bengal and the Union territories of the</p>
+              <p>Andaman and Nicobar Islands, Goa, Daman and Diu,</p>
+              <blockList id="section-4.paragraph-0.list10">
+                <listIntroduction>Lakshadweep and Pondicherry;</listIntroduction>
+                <item id="section-4.paragraph-0.list10.i">
+                  <num>(i)</num>
+                  <p>four members to be appointed by the Central Government,</p>
+                </item>
+              </blockList>
+              <p>two to represent the coconut growers of the State of</p>
+              <blockList id="section-4.paragraph-0.list13">
+                <listIntroduction>Kerala and one each to represent the coconut growers of  the States of Tamil Nadu and Karnataka;</listIntroduction>
+                <item id="section-4.paragraph-0.list13.j">
+                  <num>(j)</num>
+                  <p>one member to be appointed by the Central Government to  represent the coconut processing industry;</p>
+                </item>
+                <item id="section-4.paragraph-0.list13.k">
+                  <num>(k)</num>
+                  <p>two members to be appointed by the Central Government to  represent such other interests connected with the  coconut industry as, in the opinion of that Government,</p>
+                </item>
+              </blockList>
+              <p>ought to be represented:</p>
+              <p>Provided that every appointment under clauses (g) and (h) shall  be made on the recommendation of the State Government  or, as the case may be, of the Union territory  concerned.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>The Board shall elect, from amongst its members, a Vice-</p>
+              <p>Chairman who shall exercise such of the powers and perform such of the  functions of the Chairman as may be prescribed or as may be delegated  to him by the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.6">
+            <num>(6)</num>
+            <content>
+              <p>The term of office of the members and the manner of filling  vacancies among, and the procedure to be followed in the discharge of  their functions by, the members shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.7">
+            <num>(7)</num>
+            <content>
+              <p>Any officer of the Central Government, not being a member of  the Board, when deputed by that Government in this behalf, shall have  the right to attend the meetings of the Board and take part in the  proceedings thereof but shall not be entitled to vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.8">
+            <num>(8)</num>
+            <content>
+              <p>The Board may associate with itself in such manner, subject  to such conditions and for such purposes as may be prescribed, any  person whose assistance or advice it may desire in complying with any  of the provisions of this Act and a person so associated shall have  the right to take part in the discussions of the Board relevant to the  purposes for which he has been associated but shall not have the right  to vote and shall be entitled to receive such allowances or fees as  may be fixed by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.9">
+            <num>(9)</num>
+            <content>
+              <blockList id="section-4.9.list1">
+                <listIntroduction>No act or proceeding of the Board or any committee appointed  by it under section 9 shall be invalidated merely by reason of-</listIntroduction>
+                <item id="section-4.9.list1.a">
+                  <num>(a)</num>
+                  <p>any vacancy in, or any defect in the constitution of,</p>
+                </item>
+              </blockList>
+              <blockList id="section-4.9.list3">
+                <listIntroduction>the Board or such committee; or</listIntroduction>
+                <item id="section-4.9.list3.b">
+                  <num>(b)</num>
+                  <p>any defect in the appointment of a person acting as a  member of the Board or such committee; or</p>
+                </item>
+                <item id="section-4.9.list3.c">
+                  <num>(c)</num>
+                  <p>any irregularity in the procedure of the Board or such  committee not affecting the merits of the case.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-4.10">
+            <num>(10)</num>
+            <content>
+              <p>The Board shall meet at such times and places and shall  observe such rules of procedure in regard to the transaction of  business at its meeting (including the quorum at meetings) as may be  provided by regulations made, by the Board under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Salary and allowances and other conditions of service of</heading>
+          <paragraph id="section-5.paragraph-0">
+            <content>
+              <p>Chairman and allowances of members.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairman shall be entitled  to such salary and allowances and shall be subject to such conditions  of service in respect of leave, pension, provident fund and other  matters as may, from time to time, be fixed by the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The members of the Board shall receive such allowances as may  be fixed by the Central Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Registration of members. A member, other than an ex officio  member, may resign his office by giving notice thereof in writing to  the Central Government and on such resignation being accepted, he  shall be deemed to have vacated his office.</heading>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Officers of the Board and other staff.</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Chairman shall  be the chief executive of the Board and shall exercise such powers and  perform such duties as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government shall appoint a Chief Coconut</p>
+              <p>Development Officer to exercise such powers and perform such duties as  may be prescribed or as may be delegated to him by the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The Chief Coconut Development Officer appointed under  sub- section (2) shall have the right to attend the meetings of the</p>
+              <p>Board and its committees appointed under section 9 and take part in  the proceedings thereof but shall not be entitled to vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.4">
+            <num>(4)</num>
+            <content>
+              <p>The Central Government shall appoint a Secretary to the Board  who shall exercise such powers and perform such duties as may be  prescribed or as may be delegated to him by the Board or the Chairman.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.5">
+            <num>(5)</num>
+            <content>
+              <p>The Chief Coconut Development Officer and the Secretary shall  be entitled to such salary and allowances and shall be subject to such  conditions of service in respect of leave, pension, provident fund and  other matters as may, from time to time, be fixed by the Central</p>
+              <p>Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.6">
+            <num>(6)</num>
+            <content>
+              <p>Subject to such control and restrictions as may be  prescribed, the Board may appoint such other officers and employees as  may be necessary for the efficient performance of its functions and  the method of appointment, the conditions of service and the scales of  pay and allowances of such other officers and employees of the Board  shall be such as may be provided by the Board by regulations made  under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.7">
+            <num>(7)</num>
+            <content>
+              <p>The Chairman, the Chief Coconut Development Officer, the</p>
+              <p>Secretary and other officers and employees of the Board shall not  undertake any</p>
+              <p>work unconnected with their duties under this Act except with the  permission of the Central Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Special provision for transfer of employees to the Board.</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>On the establishment of the Board, it shall be lawful for the Central</p>
+              <p>Government to transfer to the Board, by order, and with effect from  such date or dates as may be specified in the order, any officer or  other employee holding office as such in the Directorate of Coconut</p>
+              <p>Development immediately before the date on which the Board is  established:</p>
+              <p>Provided that the scale of pay of the post to which such officer  or other employee is transferred shall not be lower than the scale of  pay of the post he was holding immediately before such transfer and  the other terms and conditions of service (including pension, leave,</p>
+              <p>provident fund and medical benefits) of the post to which he is  transferred shall not be less favourable than the terms and conditions  of service in relation to the post held by him immediately before such  transfer:</p>
+              <p>Provided further that if, immediately before the date of his  transfer, any such officer or other employee is officiating in a  higher post under the Central Government either in a leave vacancy or  in any vacancy of specified duration, his pay and other allowances, if  any, on transfer, shall be protected for the unexpired period of such  vacancy and thereafter he shall be entitled to the scale of pay  applicable to the post under the Central Government to which he would  have reverted.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>Before any order is issued under sub- section (1), all  officers and other employees of the Directorate of Coconut Development  shall be given an option in such form as may be prescribed, and within  such time as may be specified in that behalf by the Central</p>
+              <p>Government, to express their willingness or otherwise to become  employees of the Board and such option once exercised shall be final:</p>
+              <p>Provided that no order under sub- section (1) shall be made in  relation to any officer or other employee of the Directorate of</p>
+              <p>Coconut Development who has intimated his intention of not becoming an  employee of the Board within the time specified in that behalf:</p>
+              <p>Provided further that such of the persons employed by the Central</p>
+              <p>Government in the said Directorate, who do not express, within the  time specified in that behalf, their intention of becoming the  employees of the Board, shall be dealt with in the same manner and in  accordance with the same rules as would apply to the employees of the</p>
+              <p>Central Government in the event of the reduction of the strength of  the Department in which such persons have been employed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>An officer or other employee transferred by an order made  under sub- section (1) shall, on and from the date of transfer, cease  to be an</p>
+              <p>employee of the Central Government and become an officer or other  employee of the Board with such designation as the Board may determine  and shall, subject to the provisions of the first and second provisos  to sub- section (1), be governed by the regulations made by the Board  under this Act in respect of remuneration and other conditions of  service (including pension, leave, provident fund and medical   benefits) and shall continue to be an officer or other employee of the</p>
+              <p>Board unless and until his employment is duly terminated by the Board:</p>
+              <p>Provided that till such time as the regulations referred to above  governing the conditions of service of its officers or other employees  are framed by the Board, the relevant rules and orders framed by the</p>
+              <p>Central Government shall continue to be applicable to such officers or  other employees.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.4">
+            <num>(4)</num>
+            <content>
+              <p>If a question arises whether the terms and conditions of  service prescribed in the regulations framed by the Board in respect  of any matter, including remuneration, pension, leave, provident fund  and medical benefits, are less favourable than those attached to the  post held by an officer or other employee immediately before his  transfer to the Board, the decision of the Central Government in the  matter shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Committees of the Board.</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board may appoint such  committees as may be necessary for the efficient discharge of its  duties and performance of its functions under this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall have the power to co- opt as members of any  committee appointed under sub- section (1) such number of persons who  are not members of the Board as it may think fit and the persons so  co- opted shall have the right to attend meetings of the committee and  take part in its proceedings but shall not have the right to vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.3">
+            <num>(3)</num>
+            <content>
+              <p>The persons co- opted as members of a committee under  sub- section (2) shall be entitled to receive such allowances or fees  for attending meetings of the committee as may be fixed by the Central</p>
+              <p>Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Functions of the Board.</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be the duty of the Board  to promote, by such measures as it thinks fit, the development under  the control of the Central Government of the coconut industry.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>Without prejudice to the generality of the provisions of sub-</p>
+              <blockList id="section-10.2.list2">
+                <listIntroduction>section (1), the measures referred to therein may provide for--</listIntroduction>
+                <item id="section-10.2.list2.a">
+                  <num>(a)</num>
+                  <p>adopting measures for the development of coconut  industry so that farmers, particularly small farmers,</p>
+                </item>
+              </blockList>
+              <blockList id="section-10.2.list4">
+                <listIntroduction>may become participants in, and beneficiaries of, the  development and growth of coconut industry;</listIntroduction>
+                <item id="section-10.2.list4.b">
+                  <num>(b)</num>
+                  <p>recommending measures for improving the marketing of  coconut and its products in India;</p>
+                </item>
+                <item id="section-10.2.list4.c">
+                  <num>(c)</num>
+                  <p>imparting technical advice to any person who is engaged  in the cultivation of coconut or the processing or  marketing of coconut and its products;</p>
+                </item>
+                <item id="section-10.2.list4.d">
+                  <num>(d)</num>
+                  <p>providing financial or other assistance for the  development of high yielding coconut hybrids, adoption  of improved methods of cultivation of coconut, modern  technology for processing of coconut and extension of  areas under coconut cultivation (including replanting)</p>
+                </item>
+              </blockList>
+              <blockList id="section-10.2.list6">
+                <listIntroduction>with a view to improving the growth of coconut  industry;</listIntroduction>
+                <item id="section-10.2.list6.e">
+                  <num>(e)</num>
+                  <p>adopting such measures as may be practicable for  assisting coconut growers to get incentive prices  including recommending, as and when necessary, minimum  and maximum prices for coconut and its products;</p>
+                </item>
+                <item id="section-10.2.list6.f">
+                  <num>(f)</num>
+                  <p>recommending measures for regulating import and export  of coconut and its products;</p>
+                </item>
+                <item id="section-10.2.list6.g">
+                  <num>(g)</num>
+                  <p>collecting statistics from growers of coconut, dealers  in coconut, manufacturers of coconut products and such  other persons and institutions as may be prescribed, on  any matter relating to coconut industry and publishing  the statistics so collected or portions thereof or  extracts therefrom;</p>
+                </item>
+                <item id="section-10.2.list6.h">
+                  <num>(h)</num>
+                  <p>fixing grades, specifications and standards for coconut  and its products;</p>
+                </item>
+                <item id="section-10.2.list6.i">
+                  <num>(i)</num>
+                  <p>financing suitable schemes in consultation with the</p>
+                </item>
+              </blockList>
+              <blockList id="section-10.2.list8">
+                <listIntroduction>Central Government and the Governments of the States  where coconut is grown on a large scale, so as to  increase the production of coconut and to improve its  quality and yield; and for this purpose evolving  schemes for award of prizes or grant of incentives to  growers of coconut and the manufacturers of its  products and for providing marketing facilities for  coconut and its products;</listIntroduction>
+                <item id="section-10.2.list8.j">
+                  <num>(j)</num>
+                  <p>assisting, encouraging, promoting or financing  agricultural, technological, industrial or economic  research on coconut and its products in such manner as  the Board may deem fit by making use of available  institutions;</p>
+                </item>
+                <item id="section-10.2.list8.k">
+                  <num>(k)</num>
+                  <p>undertaking such publicity and publishing such  periodicals, books or bulletins, on the research and  development of coconut and its products, as may be  found necessary;</p>
+                </item>
+                <item id="section-10.2.list8.l">
+                  <num>(l)</num>
+                  <p>setting up of regional offices and other agencies for  the promotion and development of production, grading  and marketing of coconut and its products in coconut  growing States and Union territories for the efficient  discharge of the functions and objectives of the Board;</p>
+                </item>
+                <item id="section-10.2.list8.m">
+                  <num>(m)</num>
+                  <p>such other measures as may, having regard to the  purposes of this Act, be prescribed by the Central</p>
+                </item>
+              </blockList>
+              <p>Government in consultation with the Governments of the</p>
+              <p>States where coconut is grown on a large scale.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>The Board shall perform its functions under this section in  accordance with, and subject to, such rules as may be made by the</p>
+              <p>Central Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Dissolution of the Board.</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by  notification in the Official Gazette and for reasons to be specified  therein, direct that the Board shall be dissolved from such date and  for such period as may be specified in the notification:</p>
+              <p>Provided that before issuing any such notification, the Central</p>
+              <p>Government shall give a reasonable opportunity to the Board to make  representations against the proposed dissolution and shall consider  the representations, if any, of the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>When the Board is dissolved under the provisions of sub-</p>
+              <blockList id="section-11.2.list2">
+                <listIntroduction>section (1),--</listIntroduction>
+                <item id="section-11.2.list2.a">
+                  <num>(a)</num>
+                  <p>all members, notwithstanding that their term of office  has not expired, shall, from the date of dissolution,</p>
+                </item>
+              </blockList>
+              <blockList id="section-11.2.list4">
+                <listIntroduction>vacate their offices as such members;</listIntroduction>
+                <item id="section-11.2.list4.b">
+                  <num>(b)</num>
+                  <p>all powers and duties of the Board shall, during the  period of dissolution, be exercised and performed by  such person or persons as the Central Government may  appoint in his behalf and their remuneration shall be  such as may be prescribed;</p>
+                </item>
+                <item id="section-11.2.list4.c">
+                  <num>(c)</num>
+                  <p>all funds and other properties vested in the Board  shall, during the period of dissolution, vest in the</p>
+                </item>
+              </blockList>
+              <blockList id="section-11.2.list6">
+                <listIntroduction>Central Government; and</listIntroduction>
+                <item id="section-11.2.list6.d">
+                  <num>(d)</num>
+                  <p>as soon as the period of dissolution expires, the Board  shall be reconstituted in accordance with the  provisions of this Act.</p>
+                </item>
+              </blockList>
+              <p>CHAP</p>
+              <p>FINANCE, ACCOUNTS AND AUDIT</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <paragraph id="chapter-III.paragraph-0">
+          <content>
+            <p>FINANCE, ACCOUNTS AND AUDIT</p>
+          </content>
+        </paragraph>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Grants and loans by the Central Government. The Central</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>Government may, after due appropriation made by Parliament by law in  this behalf, pay to the Board by way of grants or loans such sums of  money as the Central Government may think fit for being utilised for  the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Constitution of Coconut Development Fund.</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-13.1.list1">
+                <listIntroduction>There shall be  formed a Fund to be called the Coconut Development Fund and there  shall be credited thereto--</listIntroduction>
+                <item id="section-13.1.list1.b">
+                  <num>(b)</num>
+                  <p>any grants or loans granted by the Central Government  for the purposes of this Act:</p>
+                </item>
+                <item id="section-13.1.list1.c">
+                  <num>(c)</num>
+                  <p>any grants or loans that may be made by any person for  the purposes of this Act including loans under section</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading/>
+          <paragraph id="section-14.paragraph-0">
+            <content>
+              <blockList id="section-14.paragraph-0.list1">
+                <listIntroduction>;</listIntroduction>
+                <item id="section-14.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>any grants or donations from State Governments,</p>
+                </item>
+              </blockList>
+              <p>voluntary organisations or other institutions:</p>
+              <p>Provided that no such grant, loan or donation shall be credited  to the Fund except with the prior approval of the Central Government.</p>
+            </content>
+          </paragraph>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-14.2.list1">
+                <listIntroduction>The Fund shall be applied--</listIntroduction>
+                <item id="section-14.2.list1.a">
+                  <num>(a)</num>
+                  <p>for meeting the cost of the measures referred to in  section 10;</p>
+                </item>
+                <item id="section-14.2.list1.b">
+                  <num>(b)</num>
+                  <p>for meeting the salaries, allowances and other  remuneration of the members, officers and other  employees, as the case may be, of the Board;</p>
+                </item>
+                <item id="section-14.2.list1.c">
+                  <num>(c)</num>
+                  <p>for meeting the other administrative expenses of the</p>
+                </item>
+              </blockList>
+              <blockList id="section-14.2.list3">
+                <listIntroduction>Board and any other expenses authorised by or under  this Act;</listIntroduction>
+                <item id="section-14.2.list3.d">
+                  <num>(d)</num>
+                  <p>for repayment of any loans.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Borrowing powers of the Board.</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board may, for the  purposes of carrying out its functions under this Act, and with the  previous approval of, and subject to the directions of the Central</p>
+              <blockList id="section-14.1.list2">
+                <listIntroduction>Government, borrow money from--</listIntroduction>
+                <item id="section-14.1.list2.a">
+                  <num>(a)</num>
+                  <p>the public by the issue or sale of bonds or debentures  or both, carrying interest at such rates as may be  specified therein;</p>
+                </item>
+                <item id="section-14.1.list2.b">
+                  <num>(b)</num>
+                  <p>any bank or other institution;</p>
+                </item>
+                <item id="section-14.1.list2.c">
+                  <num>(c)</num>
+                  <p>such other authority, organisation or institution as may  be approved by the Central Government in this behalf.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The Central Government may guarantee the repayment of the  monies borrowed by the Board under sub- section (1) and the payment of  interest thereon and other incidental charges.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Accounts and audit.</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall maintain proper  accounts and other relevant records and prepare an annual statement of  accounts, in such form as may be prescribed by the Central Government  in consultation with the Comptroller and Auditor- General of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The accounts of the Board shall be audited by the Comptroller  and Auditor- General of India at such intervals as may be specified by  him and any expenditure incurred in connection with such audit shall  be payable by the Board to the Comptroller and Auditor- General.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.3">
+            <num>(3)</num>
+            <content>
+              <p>The Comptroller and Auditor- General of India and any person  appointed by him in connection with the audit of the accounts of the</p>
+              <p>Board shall have the same rights and privileges and authority in  connection with such audit as the Comptroller and Auditor- General  generally has in connection with the audit of the Government accounts  and, in particular, shall have the right to demand the production of  books, accounts, connected vouchers and other documents and papers and  to inspect any of the offices of the Board.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.4">
+            <num>(4)</num>
+            <content>
+              <p>The accounts of the Board as certified by the Comptroller and</p>
+              <p>Auditor- General of India or any other person appointed by him in this  behalf together with the audit report thereon shall be forwarded  annually to the Central Government and that Government shall cause the  same to be laid before each House of Parliament.</p>
+              <p>CHAP</p>
+              <p>CONTROL BY CENTRAL GOVERNMENT</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <paragraph id="chapter-IV.paragraph-0">
+          <content>
+            <p>CONTROL BY CENTRAL GOVERNMENT</p>
+          </content>
+        </paragraph>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Directions by Central Government. The Board shall carry out  such directions as may be issued to it from time to time by the</heading>
+          <paragraph id="section-16.paragraph-0">
+            <content>
+              <p>Central Government for the efficient administration of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Returns and reports.</heading>
+          <subsection id="section-17.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board shall furnish to the</p>
+              <p>Central Government at such time and in such form and manner as may be  prescribed or as the Central Government may direct, such returns and  statements and such particulars in regard to any proposed or existing  programme for the promotion and development of the coconut industry,</p>
+              <p>as the Central Government may, from time to time, require.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.2">
+            <num>(2)</num>
+            <content>
+              <p>The Board shall furnish a programme of its activities for  each financial year to the Central Government for their information  and directions, if any.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.3">
+            <num>(3)</num>
+            <content>
+              <p>Without prejudice to the provisions of sub- section (1), the</p>
+              <p>Board shall, as soon as possible, after the end of each financial  year, submit to the Central Government a report in such form and  before such date, as may be prescribed, giving a true and full account  of its activities, policy and programmes during the previous financial  year.</p>
+            </content>
+          </subsection>
+          <subsection id="section-17.4">
+            <num>(4)</num>
+            <content>
+              <p>A copy of the report received under sub- section (3) shall be  laid, as soon as may be, after it is received, before each House of</p>
+              <p>Parliament.</p>
+              <p>CHAP</p>
+              <p>MISCELLANEOUS</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <paragraph id="chapter-V.paragraph-0">
+          <content>
+            <p>MISCELLANEOUS</p>
+          </content>
+        </paragraph>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Protection of action taken in good faith. No suit,</heading>
+          <paragraph id="section-18.paragraph-0">
+            <content>
+              <p>prosecution or other legal proceeding shall lie against the Central</p>
+              <p>Government, or the Board or any committee appointed by it, or any  member of the Board or such committee, or any officer or other  employee of the Central Government or of the Board or any other person  authorised by the Central Government or the Board, for anything which  is in good faith done or intended to be done under this Act or the  rules made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Power to make rules.</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government may, by  notification in the Official gazette, make rules to carry out the  provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-19.2.list1">
+                <listIntroduction>In particular and without prejudice to the generality of the  foregoing power, such rules may provide for all or any of the  following matters, namely:--</listIntroduction>
+                <item id="section-19.2.list1.a">
+                  <num>(a)</num>
+                  <p>the powers which may be exercised and functions which  may be performed by the Vice- Chairman of the Board  under sub- section (5) of section 4;</p>
+                </item>
+                <item id="section-19.2.list1.b">
+                  <num>(b)</num>
+                  <p>the term of office of the members, the manner of filling  vacancies among, and the procedure to be followed in  the discharge of their functions by, the members, under  sub- section (6) of section 4;</p>
+                </item>
+                <item id="section-19.2.list1.c">
+                  <num>(c)</num>
+                  <p>the manner in which and the purposes for which any  person may be associated by the Board under sub- section</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-19.8">
+            <num>(8)</num>
+            <content>
+              <blockList id="section-19.8.list1">
+                <listIntroduction>of section 4;</listIntroduction>
+                <item id="section-19.8.list1.d">
+                  <num>(d)</num>
+                  <p>the powers which may be exercised and the duties which  may be performed by the Chairman as the chief executive  of the Board under sub- section (1) of section 7;</p>
+                </item>
+                <item id="section-19.8.list1.e">
+                  <num>(e)</num>
+                  <p>the powers which may be exercised and the duties which  may be performed by the Chief Coconut Development</p>
+                </item>
+              </blockList>
+              <p>Officer of the Board under sub- section (2) of section</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading/>
+          <paragraph id="section-7.paragraph-0">
+            <content>
+              <blockList id="section-7.paragraph-0.list1">
+                <listIntroduction>;</listIntroduction>
+                <item id="section-7.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>the powers which may be exercised and the duties which  may be performed by the Secretary of the Board under  sub- section (4) of section 7;</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>the control and restrictions subject to which officers  and other employees may be appointed by the Board under  sub- section (6) of section 7;</p>
+                </item>
+                <item id="section-7.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>the form in which option may be given by the officers  and other employees of the Directorate of Coconut</p>
+                </item>
+              </blockList>
+              <blockList id="section-7.paragraph-0.list3">
+                <listIntroduction>Development under sub- section (2) of section 8;</listIntroduction>
+                <item id="section-7.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>the collection of statistics in respect of any matter  relating to coconut industry under clause (g) of sub-</p>
+                </item>
+              </blockList>
+              <blockList id="section-7.paragraph-0.list5">
+                <listIntroduction>section (2) of section 10;</listIntroduction>
+                <item id="section-7.paragraph-0.list5.j">
+                  <num>(j)</num>
+                  <p>the matters in respect of which the Board may undertake  measures in the discharge of its functions under clause</p>
+                </item>
+                <item id="section-7.paragraph-0.list5.m">
+                  <num>(m)</num>
+                  <p>of sub- section (2) of section 10;</p>
+                </item>
+                <item id="section-7.paragraph-0.list5.k">
+                  <num>(k)</num>
+                  <p>the remuneration and other allowances payable to the  person or persons referred to in clause (b) of sub-</p>
+                </item>
+              </blockList>
+              <blockList id="section-7.paragraph-0.list7">
+                <listIntroduction>section (2) of section 11;</listIntroduction>
+                <item id="section-7.paragraph-0.list7.l">
+                  <num>(l)</num>
+                  <p>the form in which the accounts of the Board shall be  maintained under sub- section (1) of section 15;</p>
+                </item>
+                <item id="section-7.paragraph-0.list7.m">
+                  <num>(m)</num>
+                  <p>the form and manner in which and the time at which the</p>
+                </item>
+              </blockList>
+              <p>Board may furnish returns and reports to the Central</p>
+              <blockList id="section-7.paragraph-0.list10">
+                <listIntroduction>Government under sub- section (1) of section 17;</listIntroduction>
+                <item id="section-7.paragraph-0.list10.n">
+                  <num>(n)</num>
+                  <p>the form in which and the date before which the Board  shall furnish to the Central Government the report of  its activities and programmes under sub- section (3) of  section 17;</p>
+                </item>
+                <item id="section-7.paragraph-0.list10.o">
+                  <num>(o)</num>
+                  <p>any other matter which has to be, or may be, prescribed  by rules under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Power to make regulations.</heading>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>The Board may, with the  previous sanction of the Central Government, by notification in the</p>
+              <p>Official Gazette, make regulations not inconsistent with the  provisions of this Act and the rules made thereunder, to provide for  all matters for which provision is necessary or expedient for the  purposes of giving effect to the provisions of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-20.2.list1">
+                <listIntroduction>In particular, and without prejudice to the generality of the  foregoing powers, such regulations may provide for all or any of the  following matters, namely:--</listIntroduction>
+                <item id="section-20.2.list1.a">
+                  <num>(a)</num>
+                  <p>the times and places at which meetings of the Board or  any committee thereof, shall be held and the procedure  to be followed thereat, and the number of members which  shall form a quorum at a meeting under sub- section (10)</p>
+                </item>
+              </blockList>
+              <blockList id="section-20.2.list3">
+                <listIntroduction>of section 4;</listIntroduction>
+                <item id="section-20.2.list3.b">
+                  <num>(b)</num>
+                  <p>the method of appointment, the conditions of service and  the scales of pay and allowances of any of the officers  and other employees of the Board under sub- section (6)</p>
+                </item>
+              </blockList>
+              <blockList id="section-20.2.list5">
+                <listIntroduction>of section 7;</listIntroduction>
+                <item id="section-20.2.list5.c">
+                  <num>(c)</num>
+                  <p>generally, for the efficient conduct of the affairs of  the Board.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>The Central Government may, by notification in the Official</p>
+              <p>Gazette, modify or rescind any regulation sanctioned by it and the  regulation so modified or rescinded shall have effect only in such  modified form or be of no effect, as the case may be; so however, that  any such modification or rescission shall be without prejudice to the  validity of anything done under the regulation before its modification  or rescission.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Rules and regulations to be laid before Parliament. Every  rule and every regulation made under this Act shall be laid, as soon  as may be after it is made, before each House of Parliament, while it  is in session, for a total period of thirty days which may be  comprised in one session or in two or more successive sessions, and  if, before the expiry of the session immediately following the session  or the successive sessions aforesaid, both Houses agree in making any  modification in the rule or regulation, as the case may be, or both</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>Houses agree that the rule or regulation, as the case may be, should  not be made, the rule or regulation shall thereafter have effect only  in such modified form or be of no effect, as the case may be; so,</p>
+              <p>however, that any such modification or annulment shall be without  prejudice to the validity of anything previously done under that rule  or regulation.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

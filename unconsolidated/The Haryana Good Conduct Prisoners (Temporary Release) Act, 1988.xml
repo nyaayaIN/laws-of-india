@@ -1,0 +1,426 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-har/act/1988/28/main"/>
+          <FRBRuri value="/in-har/act/1988/28"/>
+          <FRBRalias value="The Haryana Good Conduct Prisoners (Temporary Release) Act, 1988"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-har/act/1988/28/eng@2017-01-22/main"/>
+          <FRBRuri value="/in-har/act/1988/28/eng@2017-01-22"/>
+          <FRBRdate date="2017-01-22" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-har/act/1988/28/eng@2017-01-22/main"/>
+          <FRBRuri value="/in-har/act/1988/28/eng@2017-01-22"/>
+          <FRBRdate date="2017-01-22" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Haryana Good Conduct Prisoners (Temporary Release) Act, 1988</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>[ACT NO. 28 OF 1988]</docNumber>
+      </p>
+      <longTitle>
+        <p>[September 13, 1988]</p>
+        <p>An Act to provide for the temporary release of prisoners for good conduct on certain conditions.</p>
+        <p>Be it enacted by the Legislature of the state of Haryana in the Thirty-ninth Year of the Republic of India as follow:-</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title, extent and commencement.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Haryana Good conduct Prisoners (Temporary Release) Act, 1988.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>It extends to the whole of the State of Haryana.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>It shall come into force on such date as the State Government may, by notification, in the Official Gazette, appoint in this behalf.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.-</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <blockList id="section-2.paragraph-0.list1">
+              <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+              <item id="section-2.paragraph-0.list1.a">
+                <num>(a)</num>
+                <p>“District Magistrate” means the District Magistrate of the district within whose jurisdiction the prisoner after his temporary release under this Act, is likely to reside during the period of his release;</p>
+              </item>
+              <item id="section-2.paragraph-0.list1.aa">
+                <num>(aa)</num>
+                <blockList id="section-2.paragraph-0.list1.aa.list0">
+                  <listIntroduction>“hardcore prisoner” means a person, who-</listIntroduction>
+                  <item id="section-2.paragraph-0.list1.aa.list0.i">
+                    <num>(i)</num>
+                    <p>has been convicted of dacoity, robbery, kidnapping for ransom, murder with rape, serial killing, contract killing, murder or attempt to murder for ransom or extortion, causing grievous hurt, death or waging or attempting to wage war against Government of India, buying or selling minor for purposes of prostitution or rape with a woman below sixteen years of age or such other offence as the State Government may, by notification, specify; or</p>
+                  </item>
+                  <item id="section-2.paragraph-0.list1.aa.list0.ii">
+                    <num>(ii)</num>
+                    <p>during any continuous period of five years has been convicted and sentenced to imprisonment twice or more for commission of one or more of offences mentioned in chapter XII or XVII of the Indian Penal Code, except the offences covered under clause (i) above, committed on different occasions not constituting part of same transaction and as a result of such convictions has undergone imprisonment atleast for a period of twelve months:</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <p>Provided that the period of five years shall be counted backwards from the date of second conviction and while counting the period of five years, the period of actual imprisonment or detention shall be excluded.</p>
+            <blockList id="section-2.paragraph-0.list4">
+              <listIntroduction>Explanation. A conviction which has been set-aside in appeal or revision and any imprisonment undergone in connection therewith shall not be taken into account for the above purpose; or</listIntroduction>
+              <item id="section-2.paragraph-0.list4.iii">
+                <num>(iii)</num>
+                <p>has been sentenced to death penalty; or</p>
+              </item>
+              <item id="section-2.paragraph-0.list4.iv">
+                <num>(iv)</num>
+                <p>has been detected of using cell phone or in possession of cell phone/SIM card inside the jail premises; or</p>
+              </item>
+              <item id="section-2.paragraph-0.list4.v">
+                <num>(v)</num>
+                <p>failed to surrender himself within a period of ten days from the date on which he should have so surrendered on the expiry of the period for which he was released earlier under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list4.b">
+                <num>(b)</num>
+                <p>“member of prisoner’s family” means the husband, wife, son, daughter, father, mother, brother or sister of the prisoner;</p>
+              </item>
+              <item id="section-2.paragraph-0.list4.c">
+                <num>(c)</num>
+                <p>“prescribed” means prescribed by the rules made under this Act;</p>
+              </item>
+              <item id="section-2.paragraph-0.list4.d">
+                <num>(d)</num>
+                <p>“prisoner” means a person confined in prison or jail or other institution of like nature under a sentence of imprisonment for life or any other authority exercising the powers of a Criminal Court;</p>
+              </item>
+              <item id="section-2.paragraph-0.list4.e">
+                <num>(e)</num>
+                <p>“Superintendent of Jail” means the officer incharge of the prison or Jail or other institution of like nature in which the prisoner is undergoing his sentence of imprisonment for life or imprisonment.</p>
+              </item>
+            </blockList>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Temporary release of prisoners on certain grounds.-</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-3.1.list1">
+              <listIntroduction>The State Government may, in consultation with the District Magistrate or any other officer appointed in this behalf, by notification in the official Gazette and subject to such conditions and in such manner as may be prescribed, release temporarily for a period specified in sub-Section (2), any prisoner, if the State Government is satisfied that-</listIntroduction>
+              <item id="section-3.1.list1.a">
+                <num>(a)</num>
+                <p>a member of the prisoner’s family had died or is seriously ill or the prisoner himself is seriously ill; or</p>
+              </item>
+              <item id="section-3.1.list1.b">
+                <num>(b)</num>
+                <p>the marriage of prisoner himself, his son, daughter, grandson, grand daughter, brother, sister, sister’s son or daughter is to be celebrated; or</p>
+              </item>
+              <item id="section-3.1.list1.c">
+                <num>(c)</num>
+                <p>the temporary release of the prisoner is necessary for sloughing, sowing or harvesting or carrying on any other agricultural operation on his land or his father’s undivided land actually in possession of the prisoner; or</p>
+              </item>
+              <item id="section-3.1.list1.d">
+                <num>(d)</num>
+                <p>it is desirable to do so for any other sufficient cause.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-3.2.list1">
+              <listIntroduction>The period for which a prisoner may be released shall be determined by the State Government so as not to exceed-</listIntroduction>
+              <item id="section-3.2.list1.a">
+                <num>(a)</num>
+                <p>where the prisoner is to be released on the grounds specified in clause (a) of sub-section (1), three weeks;</p>
+              </item>
+              <item id="section-3.2.list1.b">
+                <num>(b)</num>
+                <p>where the prisoner is to be released on the ground specified in clause (b) or clause (d) of sub-section (1), four weeks; and</p>
+              </item>
+              <item id="section-3.2.list1.c">
+                <num>(c)</num>
+                <p>where the prisoner is to be released on the grounds specified in clause (c) of sub-section (1), six weeks;</p>
+              </item>
+            </blockList>
+            <p>Provided that the temporary release under clause (c) can be availed more than once during the year, which shall not, however, cumulatively exceed six weeks.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>The period of release under this section shall not count towards the total period of the sentence of a prisoner.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <p>The State Government may, by notification, authorize any officer to exercise its powers under this section in respect of all or any other ground specified there under.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Temporary release of prisoners on furlough.-</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list1">
+              <listIntroduction>The State Government or any other officer authorized by it in this behalf may, in consultation with such other officer as may be appointed by the state Government, by notification, and subject to such conditions and in such manner as may be prescribed, release temporarily, on furlough, any prisoner who has been sentenced to a term of imprisonment of not less than four years and who-</listIntroduction>
+              <item id="section-4.1.list1.a">
+                <num>(a)</num>
+                <p>has, immediately before the date of his temporary release, undergone continuous imprisonment for a period of three years, inclusive of the persistence detention, if any;</p>
+              </item>
+              <item id="section-4.1.list1.b">
+                <num>(b)</num>
+                <p>has not during such period committed any jail offence (except an offence punished by a warning) and has earned at least three annual good conduct remission;</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>The period of furlough for which a prisoner is eligible under sub-section (1) shall be three weeks during the first year of his release and two weeks during each successive year thereafter.</p>
+          </content>
+        </subsection>
+        <subsection id="section-4.3">
+          <num>(3)</num>
+          <content>
+            <p>Subject to the provisions of clause (d) of sub-section (3) of section 8, the period of release referred to in sub-section (1) shall count towards the total period of the sentence undergone by a prisoner.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Exclusion of certain days in computing period under sections 3 and 4.-</heading>
+        <paragraph id="section-5.paragraph-0">
+          <content>
+            <p>For the purpose of calculating the period of temporary release of a prisoner under sections 3 and 4, the dates of departure from and arrival at the prison shall be excluded.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-5A">
+        <num>5A.</num>
+        <heading>Special provisions for temporary release of hardcore prisoners.—</heading>
+        <subsection id="section-5A.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in sections 3 and 4, no hardcore prisoner shall be entitled to temporary release or furlough:</p>
+            <p>Provided that a hardcore prisoners may be released on temporary basis to attend the marriage of his grand child or sibling, or death of his grand parent, parent, grand parent-in-laws, parent-in-laws, sibling, spouse, child or grand child under an armed police escort, for a period of forty-eight hours, to be decided by the concerned Superintendent of Jail:</p>
+            <p>Provided further that a hardcore prisoner may be released on temporary basis to attend the marriage of his daughter for ninety-six hours and for the marriage of his son for seventy-two hours under an armed police escort, to be decided by the concerned Superintendent of Jail. He shall intimate within twenty-four hours, the concerned District Magistrate and Superintendent of Police in this regard with full particulars of the hardcore prisoner being so released.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5A.2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contained in sub-section (1), a convicted hardcore prisoner who has not been awarded death penalty, may be entitled for temporary release or furlough only if he has completed his five years imprisonment and has not been awarded any major punishment by the Superintendent of Jail, as judicially appraised by the concerned District and Sessions Judge:</p>
+            <p>Provided that the five years imprisonment period shall not include imprisonment during trial period for more than two years, while counting five years of imprisonment:</p>
+            <p>Provided further that if the prisoner so released under this sub-section violates any condition of temporary release or furlough, he shall be debarred from such release in future.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Prisoners not entitle to be released in certain cases.-</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in sections 3 and 4, no prisoner shall be entitled to be released under this Act if, on the report of the District Magistrate, the State Government or an officer authorized by it in this behalf is satisfied that his release is likely to endanger the security of the State or the maintenance of public order or cause reasonable apprehension of breach of peace.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <p>The District Magistrate, the State Government or the officer authorized to release the prisoner as provided in sections 3 and 4 of the Act shall take report from the Police within a specified time frame.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <p>In case of non-recommendation for release by the Police, the release granting authority shall pass a speaking order, if he disagrees with the report submitted to him.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Journey expenses of poor prisoners to be borne by State Government.-</heading>
+        <paragraph id="section-7.paragraph-0">
+          <content>
+            <p>If on the report of the District Magistrate, the State Government is satisfied that prisoner’s family cannot bear the expenses of his journey from and to the prison after his temporary release under this Act, the expenses may be borne by the State Government to such extent and in such manner as may be prescribed.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Liability of prisoner to surrender on expiry of release period and consequences of overstaying.-</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <p>On the expiry of the period for which a prisoner is released under this Act, he shall surrender himself to the Superintendent of the Jail from which he was released.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>If a prisoner does not surrender himself as required by sub-section (1) within a period of ten days from the date on which he should have so surrendered, he may be arrested by any Police Officer or Prison Officer without a warrant and shall be delivered over to the officer incharge of the prison from which he was released to undergo the un expired portion of his sentence.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-8.3.list1">
+              <listIntroduction>If a prisoner surrenders himself to the Superintendent of the Jail from which he was released within a period of ten days of the date on which he should have so surrendered, but fails to satisfy the Superintendent of the Jail that he was prevented by any sufficient cause from surrendering himself immediately on the expiry of the period for which he was released, all or any of the following penalties shall after affording the prisoner a reasonable opportunity of being, be awarded to him by the Superintendent of the Jail, namely:-</listIntroduction>
+              <item id="section-8.3.list1.a">
+                <num>(a)</num>
+                <p>a maximum cut of five days remission for each day of overstay;</p>
+              </item>
+              <item id="section-8.3.list1.b">
+                <num>(b)</num>
+                <p>stoppage of canteen concession for a maximum period of one month;</p>
+              </item>
+              <item id="section-8.3.list1.c">
+                <num>(c)</num>
+                <p>with holding concession of either interviews or letters or both for a maximum period of three months;</p>
+              </item>
+              <item id="section-8.3.list1.d">
+                <num>(d)</num>
+                <p>the period of temporary release on furlough of the prisoner under section 4 shall not be counted towards his sentence;</p>
+              </item>
+              <item id="section-8.3.list1.e">
+                <num>(e)</num>
+                <p>warning;</p>
+              </item>
+              <item id="section-8.3.list1.f">
+                <num>(f)</num>
+                <p>reduction from higher to a lower class or grade.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Penalty for failure to surrender.-</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Any prisoner who is liable to be arrested under sub-section (2) of section 8, shall be punishable with imprisonment of either description which may extend to three years but shall not be less than two years.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>An offence punishable under sub-section (1) shall be deemed to be cognizable and non-bailable.</p>
+            <p>Explanation. – The punishment in this section is in addition to the punishment awarded to the prisoner for the offence for which he was convicted.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Power to make rules.-</heading>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>The State Government may, by notification, make rules for carrying out the purposes of this Act.</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-10.2.list1">
+              <listIntroduction>In particular, and without prejudice to the generality of the foregoing power, such rules may provide for-</listIntroduction>
+              <item id="section-10.2.list1.a">
+                <num>(a)</num>
+                <p>the execution by the prisoner (including his sureties) of bond for his good behavior during the release period and for his surrender on the expiry of such period;</p>
+              </item>
+              <item id="section-10.2.list1.b">
+                <num>(b)</num>
+                <p>the amount for which and the form and manner in which such bonds shall be furnished;</p>
+              </item>
+              <item id="section-10.2.list1.c">
+                <num>(c)</num>
+                <p>the forfeiture of the amount of bonds in case of breach of any of its terms;</p>
+              </item>
+              <item id="section-10.2.list1.d">
+                <num>(d)</num>
+                <p>the conditions on which and the manner in which prisoners may be released temporarily under this Act;</p>
+              </item>
+              <item id="section-10.2.list1.e">
+                <num>(e)</num>
+                <p>the manner in which the District Magistrate or any other officer may be consulted in the matter of temporary release of a prisoner;</p>
+              </item>
+              <item id="section-10.2.list1.f">
+                <num>(f)</num>
+                <p>the extent to which and the manner in which journey expenses of poor prisoner shall be borne by the State Government;</p>
+              </item>
+              <item id="section-10.2.list1.g">
+                <num>(g)</num>
+                <p>any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Repeal and savings.-</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>The Punjab Good Conduct Prisoner (Temporary Release) Act 1962 (Punjab Act No. 11 of 1962), in its application to the state of Haryana, is hereby repealed;</p>
+            <blockList id="section-11.paragraph-0.list2">
+              <listIntroduction>Provided that such repeal shall not affect,-</listIntroduction>
+              <item id="section-11.paragraph-0.list2.a">
+                <num>(a)</num>
+                <p>the previous operation of the act so repealed or anything duly done or suffered there under; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list2.b">
+                <num>(b)</num>
+                <p>any right, privilege, obligation or liability acquired or incurred under the Act so repealed; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list2.c">
+                <num>(c)</num>
+                <p>any penalty, forfeiture or punishment, incurred in respect of any offence committed against the Act so repealed; or</p>
+              </item>
+              <item id="section-11.paragraph-0.list2.d">
+                <num>(d)</num>
+                <p>any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid;</p>
+              </item>
+            </blockList>
+            <p>and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed as if this Act had not been passed:</p>
+            <p>Provided further that anything done or any action taken under the Act so repealed shall be deemed to have been done or taken under the corresponding provision of this Act and shall continue to be in force accordingly unless and until superseded by anything done or any action taken under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

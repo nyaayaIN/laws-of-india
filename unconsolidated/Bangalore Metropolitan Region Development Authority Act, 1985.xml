@@ -1,0 +1,908 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-kar/act/1985/39/main"/>
+          <FRBRuri value="/in-kar/act/1985/39"/>
+          <FRBRalias value="Bangalore Metropolitan Region Development Authority Act, 1985"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-kar/act/1985/39/eng@1985-10-29/main"/>
+          <FRBRuri value="/in-kar/act/1985/39/eng@1985-10-29"/>
+          <FRBRdate date="1985-10-29" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-kar/act/1985/39/eng@1985-10-29/main"/>
+          <FRBRuri value="/in-kar/act/1985/39/eng@1985-10-29"/>
+          <FRBRdate date="2017-06-18" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>Bangalore Metropolitan Region Development Authority Act, 1985</shortTitle>
+      </p>
+      <longTitle>
+        <p>(Act, No. 39 of 1985)</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[18th October, 1985]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for the establishment of an authority for the e purpose of planning, co-ordinating and supervising the proper and orderly development of the areas within Bangalore Metropolitan Region and to provide for matters connected therewith.</p>
+      <p>WHEREAS it is expedient to provide for the establishment of an authority for the purposes of planning, co-ordinating and supervising the proper and orderly development of the area within the Bangalore Metropolitan Region and to provide for matters connected therein;</p>
+      <p>BE it enacted by the Karnataka State Legislature in the Thirty-sixth Year of the Republic of India as follows:-</p>
+    </preamble>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title and commencement</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Bangalore Metropolitan Region Development Authority Act, 1985.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall come into force on such1date as the State Government may, by notification in the official Gazette appoint.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions</heading>
+          <paragraph id="section-2.paragraph-0">
+            <content>
+              <blockList id="section-2.paragraph-0.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>"Authority" means the Bangalore Metropolitan Region Development Authority constituted under section 3;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>"amenity" incudes roads, bridges, streets, transport, lighting, water and electricity supply, sewerage, drainage public works, open spaces recreational grounds, parks, and other conveniences, services or utilities;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>"Bangalore Metropolitan Region" means the area comprising the Bangalore District and Malur Taluk of Kolar District and such other areas as the State Government may, from time to time, by notification, specify;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>"Chairman" means the Chairman of the Authority;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>"Corporation" means the Corporation of the City of Bangalore;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>"development" with its grammatical variations means the carrying out of building, engineering or other operations in or over or under any land or the making of any material change in any building or land or in the use of any building, or land and includes redevelopment and forming of layouts and sub-division of any land including amenities;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>"Executive Committee" means the Executive Committee constituted under section 6;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.h">
+                  <num>(h)</num>
+                  <p>"Fund" means the Bangalore Metropolitan Region Development Authority Fund;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.i">
+                  <num>(i)</num>
+                  <p>"land" includes benefits arising out of land and things attached to the earth or permanently fastened to anything attached to the earth;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.j">
+                  <num>(j)</num>
+                  <p>"local authority" means the City of Bangalore Municipal Corporation, the Bangalore Development Authority, the Bangalore Water Supply and Sewerage Board, a Sanitary Board, the Karnataka Electricity Board, the Karnataka Road Transport Corporation, a Zilla Parishad, a Municipal Council, a Sanitary Board or a Mandal Panchayat constituted or continued under any law for the time being in force;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.k">
+                  <num>(k)</num>
+                  <p>"member" means a member of the Authority;</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.l">
+                  <num>(l)</num>
+                  <p>"Metropolitan Commissioner" means the Metropolitan Commissioner appointed under section 8; and</p>
+                </item>
+                <item id="section-2.paragraph-0.list1.m">
+                  <num>(m)</num>
+                  <p>"regulation" means a regulation made under this Act.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>The bangalore metropolitan region development authority</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Constitution and incorporation of the Authority</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>As soon as may be, after the date of commencement this Act, the State Government shall, by notification, constitute for the Bangalore Metropolitan Region an authority to be called the Bangalore Metropolitan Region Development Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority shall be a body corporate having perpetual succession and a common seal, with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both moveable and immoveable and to contract and, may, by the said name, sue or be sued.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-3.3.list1">
+                <listIntroduction>The Authority shall consist of the following members, namely:-</listIntroduction>
+                <item id="section-3.3.list1.a">
+                  <num>(a)</num>
+                  <p>the Chief Minister of Karnataka who shall be the Chairman;</p>
+                </item>
+                <item id="section-3.3.list1.b">
+                  <num>(b)</num>
+                  <p>the Minister in charge of Urban Development who shall be the Vice-Chairman;</p>
+                </item>
+                <item id="section-3.3.list1.c">
+                  <num>(c)</num>
+                  <p>the Chairman, Bangalore Development Authority;</p>
+                </item>
+                <item id="section-3.3.list1.d">
+                  <num>(d)</num>
+                  <p>the Mayor, Corporation of the City of Bangalore</p>
+                </item>
+                <item id="section-3.3.list1.e">
+                  <num>(e)</num>
+                  <p>the Chief Secretary to the Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.f">
+                  <num>(f)</num>
+                  <p>the Divisional Commissioner, Bangalore Division, Bangalore.</p>
+                </item>
+                <item id="section-3.3.list1.g">
+                  <num>(g)</num>
+                  <p>the Secretary, Finance Department, Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.h">
+                  <num>(h)</num>
+                  <p>the Secretary, Housing and Urban Development Department, Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.i">
+                  <num>(i)</num>
+                  <p>the Secretary, Public Works Command Area Development and Electricity Department, Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.j">
+                  <num>(j)</num>
+                  <p>the Secretary, Commerce and Industries Department, Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.k">
+                  <num>(k)</num>
+                  <p>the Chairman, Bangalore Water Supply and Sewerage Board;</p>
+                </item>
+                <item id="section-3.3.list1.l">
+                  <num>(l)</num>
+                  <p>the Chairman, Karnataka Housing Board;</p>
+                </item>
+                <item id="section-3.3.list1.m">
+                  <num>(m)</num>
+                  <p>the Chairman, Karnataka Slum Clearance Board;</p>
+                </item>
+                <item id="section-3.3.list1.n">
+                  <num>(n)</num>
+                  <p>the Chairman, Karnataka Electricity Board;</p>
+                </item>
+                <item id="section-3.3.list1.o">
+                  <num>(o)</num>
+                  <p>the Chairman, Karnataka State Road Transport Corporation;</p>
+                </item>
+                <item id="section-3.3.list1.p">
+                  <num>(p)</num>
+                  <p>the Director of Town Planning, Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.q">
+                  <num>(q)</num>
+                  <p>the Chief Conservator of Forests (General), Government of Karnataka;</p>
+                </item>
+                <item id="section-3.3.list1.r">
+                  <num>(r)</num>
+                  <p>the Chairman, Bangalore Urban Art Commission;</p>
+                </item>
+                <item id="section-3.3.list1.s">
+                  <num>(s)</num>
+                  <p>the Divisional Railway Manager, Southern Railway, Bangalore (with the consent of the Central Government);</p>
+                </item>
+                <item id="section-3.3.list1.t">
+                  <num>(t)</num>
+                  <p>the General Manager, Bangalore Telephones, Bangalore (with the consent of the Central Government);</p>
+                </item>
+                <item id="section-3.3.list1.u">
+                  <num>(u)</num>
+                  <p>four members appointed by the Government representing labour, women and Scheduled Castes and Scheduled Tribes;</p>
+                </item>
+                <item id="section-3.3.list1.v">
+                  <num>(v)</num>
+                  <p>four members of the Karnataka State Legislature representing the Bangalore Metropolitan Region, appointed by the Government; and</p>
+                </item>
+                <item id="section-3.3.list1.w">
+                  <num>(w)</num>
+                  <p>four members from amongst the persons representing the local authorities in the Bangalore Metropolitan Region, appointed by the Government;</p>
+                </item>
+                <item id="section-3.3.list1.x">
+                  <num>(x)</num>
+                  <p>the Metropolitan Commissioner, who shall be the Member-Secretary.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Term of office and conditions of service of members</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the pleasure of the Government, the members appointed under items (u), (v) and (w) of sub-section (3) of section 3 shall hold office for a period of three years from the date on which they assume office and shall be eligible for re-appointment under such conditions as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>Any member, other than an ex-officio member may resign his office by writing under his hand addressed to the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>A casual vacancy caused by resignation of a member or otherwise may be filled by appointment by the State Government and the persons so appointed shall hold office for the remaining period for which the member in whose place he is appointed would have held office.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>No act or proceeding of the Authority or the Executive Committee or any other committee shall be invalid merely by reason of any vacancy or defect in the constitution or reconstitution of the Authority, Executive Committee or any other committee, as the case may be, or any defect or irregularity in the constitution or procedure of the Authority not affecting the merits of the matter under consideration.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.5">
+            <num>(5)</num>
+            <content>
+              <p>Any person ceasing to be member shall be eligible for reappointment as a member.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.6">
+            <num>(6)</num>
+            <content>
+              <p>The sitting fee and other allowances payable to members other than the ex-officio members for attending the meetings of the Authority, Executive Committee or any other committee shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Meetings of the Authority</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The meetings of the Authority shall be convened by the Metropolitan Commissioner and it shall ordinarily meet at least once in three months at such place within the jurisdiction of the Authority and at such time as the Chairman may decide.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority shall observe such rules of procedure in regard to the transaction of business at its meetings (including quorum at meetings) as may be prescribed by regulations.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.3">
+            <num>(3)</num>
+            <content>
+              <p>The Chairman or, if for any reason he is unable to attend any meeting, the Vice-Chairman or if for any reason he is also unable to attend the meeting, any other member chosen by the members present at the meeting, shall preside at the meeting of the Authority;</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.4">
+            <num>(4)</num>
+            <content>
+              <p>All questions which come up before any meeting of the Authority shall be decided by majority of the votes of the members present and voting and in the event of an equality of votes, the Chairman or in his absence the person presiding, shall have and exercise a second or casting vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.5">
+            <num>(5)</num>
+            <content>
+              <p>A member shall not, at any meeting of the Authority or a committee thereof, take part in the discussion of or vote on any matter in which he has directly or indirectly by himself or his partner, any share or interest.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Executive Committee</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-6.1.list1">
+                <listIntroduction>There shall be an executive committee of the Authority consisting of,-</listIntroduction>
+                <item id="section-6.1.list1.a">
+                  <num>(a)</num>
+                  <p>the Minister in charge of Urban Development, who shall be the Chairman;</p>
+                </item>
+                <item id="section-6.1.list1.b">
+                  <num>(b)</num>
+                  <p>the Metropolitan Commissioner who shall be the Vice-Chairman;</p>
+                </item>
+                <item id="section-6.1.list1.c">
+                  <num>(c)</num>
+                  <p>the Chairman, Bangalore Development Authority;</p>
+                </item>
+                <item id="section-6.1.list1.d">
+                  <num>(d)</num>
+                  <p>the Commissioner, Bangalore Development Authority;</p>
+                </item>
+                <item id="section-6.1.list1.e">
+                  <num>(e)</num>
+                  <p>the Mayor, Corporation of the City of Bangalore;</p>
+                </item>
+                <item id="section-6.1.list1.f">
+                  <num>(f)</num>
+                  <p>the Commissioner, Corporation of the City of Bangalore;</p>
+                </item>
+                <item id="section-6.1.list1.g">
+                  <num>(g)</num>
+                  <p>the Secretary, Housing and Urban Development, Government of Karnataka;</p>
+                </item>
+                <item id="section-6.1.list1.h">
+                  <num>(h)</num>
+                  <p>the Secretary, Finance Department, Government of Karnataka;</p>
+                </item>
+                <item id="section-6.1.list1.i">
+                  <num>(i)</num>
+                  <p>the Secretary, Public Works, Command Area Development and Electricity, Department;</p>
+                </item>
+                <item id="section-6.1.list1.j">
+                  <num>(j)</num>
+                  <p>the Chairman, Bangalore Water Supply and Sewerage Board;</p>
+                </item>
+                <item id="section-6.1.list1.k">
+                  <num>(k)</num>
+                  <p>the Director of Town Planning, Government of Karnataka;</p>
+                </item>
+                <item id="section-6.1.list1.l">
+                  <num>(l)</num>
+                  <p>the Divisional Commissioner, Bangalore Division, Bangalore.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the general superintendence and control of the Authority, the management of the affairs of the Authority shall vest in the Executive Committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the rules, and to the direction of the Authority, the Executive Committee may exercise any powers and do any act or thing which may be exercised or done by the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.4">
+            <num>(4)</num>
+            <content>
+              <p>The procedure to be followed by the Executive Committee and all other matters relating to the Executive Committee shall be such as may be prescribed by regulations.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Appointment of other committees</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may from time to time appoint committees consisting of such members as it thinks fit and may with the approval of the Government associate with such committee in such manner and for such period as may be prescribed, any person or persons whose assistance or advice it may desire and refer to such committees for inquiry and report any subject relating to the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>Every committee appointed under sub-section (1) shall conform to any instructions that may, from time to time, be given to it by the Authority and the Authority may at any time alter the constitution of any committee so appointed or rescind any such appointment. The Authority shall nominate one of the members as the Chairman of every such committee.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The procedure to be followed by the committees and all other matters relating to the committees shall be such as may be prescribed by regulations.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Officers and servants</heading>
+          <subsection id="section-8.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government shall appoint a Metropolitan Commissioner who shall be the Chief Administrative and Executive Officer on the Authority. The State Government shall by order determine, from time to time, the salary and other terms and conditions of service and the powers and functions of the Metropolitan Commissioner. He shall be appointed for such period not exceeding three years as the State Government may decide, and the appointment may be extended from time to time for a period not exceeding three years at a time.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may, appoint one or more Deputy or Assistant Metropolitan Commissioners, a Town Planner, a Law-Officer and an Accounts Officer. The State Government shall by order determine, from time to time, the salaries and other terms and conditions of service of the Deputy Metropolitan Commissioner, the Assistant Metropolitan Commissioner, the Town Planner, the Law Officer and the Accounts Officer.</p>
+            </content>
+          </subsection>
+          <subsection id="section-8.3">
+            <num>(3)</num>
+            <content>
+              <p>The Authority may, from time to time, sanction creation of such other posts of officers and servants as may be necessary for the efficient performance of the functions of the Authority. The condition of recruitment, appointment and service and the powers and duties of such officers, and servants shall be such as may be determined by regulations:</p>
+              <p>Provided that no post carrying a minimum salary of one thousand five hundred rupees and above shall be created without the approval of the Government.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Powers and functions of the authority</heading>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Powers and functions of the Authority</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-9.1.list1">
+                <listIntroduction>Subject to the provisions of this Act and the rules made thereunder the functions of the Authority shall be,-</listIntroduction>
+                <item id="section-9.1.list1.i">
+                  <num>(i)</num>
+                  <p>to carry out a survey of the Bangalore Metropolitan Region and prepare reports on the surveys so carried out;</p>
+                </item>
+                <item id="section-9.1.list1.ii">
+                  <num>(ii)</num>
+                  <p>to prepare a structure plan for the development of the Bangalore Metropolitan Region;</p>
+                </item>
+                <item id="section-9.1.list1.iii">
+                  <num>(iii)</num>
+                  <p>to cause to be carried out such works as are contemplated in the structure plan;</p>
+                </item>
+                <item id="section-9.1.list1.iv">
+                  <num>(iv)</num>
+                  <p>to formulate as many schemes as are necessary for implementing the structure plan of the Bangalore Metropolitan Region;</p>
+                </item>
+                <item id="section-9.1.list1.v">
+                  <num>(v)</num>
+                  <p>to secure and co-ordinate execution of the town planning scheme and the development of the Bangalore Metropolitan Region in accordance with the said schemes;</p>
+                </item>
+                <item id="section-9.1.list1.vi">
+                  <num>(vi)</num>
+                  <p>to raise finance for any project or scheme for the development of the Bangalore Metropolitan Region and to extend assistance to the local authorities in the Region for the execution of such project or scheme;</p>
+                </item>
+                <item id="section-9.1.list1.vii">
+                  <num>(vii)</num>
+                  <p>to do such other acts and things as may be entrusted by the Government or as may be necessary for, or incidental or conducive to, and matters which are necessary for furtherance of the objects for which the Authority is constituted;</p>
+                </item>
+                <item id="section-9.1.list1.viii">
+                  <num>(viii)</num>
+                  <p>to entrust to any local authority the work of execution of any development plan or town planning scheme;</p>
+                </item>
+                <item id="section-9.1.list1.ix">
+                  <num>(ix)</num>
+                  <p>to co-ordinate the activities of the Bangalore Development Authority, the Corporation of the City of Bangalore, the Bangalore Water Supply and Sewerage Board, the Karnatka Slum Clearance Board, the Karnataka Electricity Board, the Karnataka Industrial Areas Development Board, the Karnataka State Road Transport Corporation and such other bodies as are connected with developmental activities in the Bangalore Metropolitan Region.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>No other authority or persons to undertake certain development without permission of the Authority</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding anything contained in any law for the time being in force, except with the previous permission of the Authority, no authority or person shall undertake any development within the Bangalore Metropolitan Region of the types as the Authority may from time to time specify by notification published in the official Gazette.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>No local authority shall grant permission for any development referred to in sub-section (1), within the Bangalore Metropolitan Region, unless the Authority has granted permission for such development.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.3">
+            <num>(3)</num>
+            <content>
+              <p>Any authority or person desiring to undertake development referred to in sub-section (1) shall apply in writing to the Authority for permission to undertake such development.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority shall, after making such inquiry as it deems necessary grant such permission without any conditions or with such conditions as it may deem fit to impose or refuse to grant such permission.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.5">
+            <num>(5)</num>
+            <content>
+              <p>Any authority or person aggrieved by the decision of the Authority under sub-section (4) may, within thirty days from the date of the decision appeal against such decision to the State Government, whose decision thereon shall be final:</p>
+              <p>Provided that, where the aggrieved authority submitting such appeal is under the administrative control of the Central Government, the appeal shall be decided by the State Government, after consultation with the Central Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.6">
+            <num>(6)</num>
+            <content>
+              <p>In case any person or authority does anything contrary to the decision given under sub-section (4) as modified in sub-section (5), the Authority shall have power to pulldown, demolish or remove any development undertaken contrary to such decision and recover the cost of such pulling down, demolition or removal from the person or authority concerned.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>Finance, accounts, and audit</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Authority's Fund</heading>
+          <subsection id="section-11.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall have a fund called the Bangalore Metropolitan Region Development Authority Fund which shall be operated by such officers as may be authorised by the Authority.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority may accept grants, subventions, contributions, donations and gifts from the Central Government, the State Government, a local authority or any individual or body, whether incorporated or not, for all or any of the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.3">
+            <num>(3)</num>
+            <content>
+              <p>The State Government shall, every year, make a grant to the Authority of a sum equivalent to the administrative expenses of the Authority till the Authority is able to meet its administrative expenses out of its own resources.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.4">
+            <num>(4)</num>
+            <content>
+              <p>All moneys received by or on behalf of the Authority by virtue of this Act, and all interests, profits, and other moneys accruing to or borrowed by the Authority, shall be credited to the Fund.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.5">
+            <num>(5)</num>
+            <content>
+              <p>Except as otherwise directed by the State Government, all moneys and receipts specified in the foregoing provisions and forming part of the Fund shall be deposited in any Scheduled Bank as defined in the Reserve Bank of India Act, 1934 or invested in such securities, as may be approved by the State Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-11.6">
+            <num>(6)</num>
+            <content>
+              <p>The Fund, and all other assets vesting in the Authority shall be held and applied by it, subject to the provisions of and for the purposes of this Act.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Budget</heading>
+          <paragraph id="section-12.paragraph-0">
+            <content>
+              <p>The Authority shall prepare, every year, in such form and at such time as may be prescribed, an annual budget estimate in respect of the next financial year showing the estimated receipts and disbursements of the Authority and shall submit a copy thereof to the State Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Annual report</heading>
+          <paragraph id="section-13.paragraph-0">
+            <content>
+              <p>The Authority shall, after the end of each year prepare in such form and before such date as may be prescribed, a report of its activities during such year and submit to the State Government and the State Government shall cause a copy of such report to be laid before both Houses of the State Legislature.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Subventions and loans to the Authority</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, from time to time, make subventions to the Authority for the purposes of this Act on such terms and conditions as the State Government may determine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may, from time to time advance loans to the Authority on such terms and conditions, not inconsistent with the provisions of this Act, as the State Government may determine.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Power of Authority to borrow</heading>
+          <paragraph id="section-15.paragraph-0">
+            <content>
+              <p>The Authority may from time to time, with the previous sanction of the State Government, and subject to the provisions of this Act, and to such conditions as may be prescribed in this behalf, borrow any sum required for the purposes of this Act.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>Accounts and audit</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority shall cause to be maintained proper books of accounts and such other books as the rules made under this Act may require and shall prepare in accordance with such rules an annual statement of accounts.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority shall cause its accounts to be audited annually by such persons as the State Government may direct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>As soon as the accounts of the Authority have been audited, the Authority shall send a copy thereof together with a copy of the report of the auditor thereon to the State Government and shall cause the accounts to be published in the prescribed manner and place copies thereof for sale at a reasonable price.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.4">
+            <num>(4)</num>
+            <content>
+              <p>The Authority shall comply with such directions as the State Government may, after perusal of the report of the auditor, think fit to issue.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Powers of entry</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <blockList id="section-17.paragraph-0.list1">
+                <listIntroduction>The Authority may authorise any person to enter into or upon any land or building with or without assistants or workmen for the purposes of,-</listIntroduction>
+                <item id="section-17.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>making any enquiry, inspection, measurement or survey or taking levels for such land or building;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>examining works under construction and ascertaining the course of sewers and drains;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>digging or boring into the sub-soil;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>setting out boundaries and intended lines of work;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.e">
+                  <num>(e)</num>
+                  <p>making such levels, boundaries and lines by placing marks and cutting trenches;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.f">
+                  <num>(f)</num>
+                  <p>ascertaining whether any land is being or has been developed in contravention of any plan or in contravention of any conditions subject to which such permission has been granted; or</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.g">
+                  <num>(g)</num>
+                  <p>doing any other thing necessary for the efficient administration of this Act:</p>
+                </item>
+              </blockList>
+              <blockList id="section-17.paragraph-0.list3">
+                <listIntroduction>Provided that,-</listIntroduction>
+                <item id="section-17.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>no such entry shall be made except between the hours of sunrise and sunset and without giving reasonable notice to the occupier, or if there be no occupier, to the owner of the land or building;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.ii">
+                  <num>(ii)</num>
+                  <p>sufficient opportunity shall in every instance be given to enable women or children, if any, to withdraw from such land or building;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.iii">
+                  <num>(iii)</num>
+                  <p>due regard shall always be had, so far as may be, compatible with the exigencies of the purpose for which the entry is made, to the social and religious usage of the occupants of the land or building entered.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Directions by the Authority</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The Authority may, in order to carry out the development plans and schemes formulated under section 9 or any town planning scheme may issue direction to the Bangalore Development Authority, Bangalore Water Supply and Sewerage Board, Karnataka Electricity Board and such other bodies as are connected with developmental activities in the Bangalore Metropolitan Region. The directions issued by the Authority shall prevail over any directions issued by the Bangalore Development Authority under section 53 of the Bangalore Development Authority Act, 1976 (Karnataka Act 12 of 1976).</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in any other law for the time being in force, every such direction shall be complied with by the body to whom it is issued. On failure, it shall be competent for the Authority to take necessary action to carry out the directions issued under sub-section (1) and recover expenses, if any, incurred therefor from the body concerned.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.3">
+            <num>(3)</num>
+            <content>
+              <p>Any dispute which arises between the Authority and the Boards or other bodies referred to in sub-section (1) in respect of the directions issued to them shall be determined by the State Government whose decision shall be final.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Metropolitan Commissioner to attend meetings of, Corporation, BDA and BWSSB</heading>
+          <subsection id="section-19.1">
+            <num>(1)</num>
+            <content>
+              <p>The Metropolitan Commissioner shall be entitled to attend and take part in the meetings of the Corporation of the City of Bangalore, the Bangalore Development Authority, the Bangalore Water Supply and Sewerage Board, the Karnataka Electricity Board and the Karnataka Road Transport Corporation, but he shall have no right to vote.</p>
+            </content>
+          </subsection>
+          <subsection id="section-19.2">
+            <num>(2)</num>
+            <content>
+              <p>The said bodies shall invite the Metropolitan Commissioner to attend their meetings.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Penalty for breach of the provisions of the Act</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>Whoever contravenes any of the provisions of this Act or of any rule, regulation, or bye-law or scheme made or sanctioned thereunder shall be punishable with imprisonment for a term which may extend to one year or with fine which may extend to ten thousand rupees or with both and in the case of continuing contravention, with additional imprisonment for a term which may extend to one month or with fine which may extend to five hundred rupees or with both for each day after the first during which the contravention continues.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Offences by companies</heading>
+          <subsection id="section-21.1">
+            <num>(1)</num>
+            <content>
+              <p>If the person committing an offence under this Act is a company, every person who at the time the offence was committed was in charge of and responsible to the company for the conduct of its business as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:</p>
+              <p>Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-21.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in sub-section (1) where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.</p>
+              <blockList id="section-21.2.list2">
+                <listIntroduction>Explanation.- For the purpose of this section,-</listIntroduction>
+                <item id="section-21.2.list2.a">
+                  <num>(a)</num>
+                  <p>"company" means a body corporate and includes a firm or other association of individuals; and</p>
+                </item>
+                <item id="section-21.2.list2.b">
+                  <num>(b)</num>
+                  <p>"director" in relation to a firm means a partner in the firm.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Fines realised to be credited to the Fund</heading>
+          <paragraph id="section-22.paragraph-0">
+            <content>
+              <p>All fines realised in connection with prosecutions under this Act shall be credited to the Fund.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Members and officers to be public servants</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>Every member, every officer and other employee of the Authority shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Protection of action taken in good faith</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>No suit, prosecution or other legal proceedings shall lie against any person for anything which is in good faith done or intended to be done under this Act or any rule or regulation made thereunder.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Power to delegate</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>The Authority may, by notification, direct that any power exercisable by it under this Act except the power to make regulation may also be exercised by the Chairman or such officer of the Authority as may be specified in the notification subject to such restrictions and conditions as may be specified therein.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Revision</heading>
+          <subsection id="section-26.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may call for the records of any proceedings of the Authority for the purpose of satisfying itself as to the legality or propriety of the order or proceeding and may pass such order with respect thereto as it thinks fit.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.2">
+            <num>(2)</num>
+            <content>
+              <p>The Authority may call for the records of any proceeding of any officer subordinate to it for the purpose of satisfying itself as to the legality or propriety of the order or proceeding and may pass such order with respect thereto as it thinks fir.</p>
+            </content>
+          </subsection>
+          <subsection id="section-26.3">
+            <num>(3)</num>
+            <content>
+              <p>No order under sub-section (1) or sub-section (2) shall be made to the prejudice of any person unless he has had an opportunity of making representation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Government's power to give directions to the Authority</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>The State Government may give such directions to the Authority as in its opinion are necessary or expedient for carrying out the purposes of this Act, and it shall be the duty of the Authority to comply with such directions.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Act to over-ride other laws</heading>
+          <paragraph id="section-28.paragraph-0">
+            <content>
+              <p>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Power to make rules</heading>
+          <subsection id="section-29.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, subject to the condition of previous publication, make rules to carry out the purposes of this Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-29.2">
+            <num>(2)</num>
+            <content>
+              <p>Every rule made under this Act shall be laid as soon as may be after it is made before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or to be of no effect as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything done under that rule.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Regulation</heading>
+          <paragraph id="section-30.paragraph-0">
+            <content>
+              <p>The Authority may, by notification and with previous sanction of the Government, make regulations not inconsistent with this Act and the rules made thereunder for enabling it to perform its functions under this Act. Regulation may be made in respect of any matter which is required to be or may, in the opinion of the Authority be provided by regulations.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Amendment of the Karnataka Town and Country Planning Act, 1961</heading>
+          <paragraph id="section-31.paragraph-0">
+            <content>
+              <p>After section 81-B of the Karnataka Town and Country Planning Act, 1961 (Karnataka Act 11 of 1963), the following section shall be inserted, namely:-</p>
+              <p>"81-C. Outline development plan and comprehensive development plan of Bangalore Metropolitan Region.- Notwithstanding anything in this Act, the Planning Authorities within the Bangalore Metropolitan Region as defined in the Bangalore Metropolitan Region Development Authority Act, 1985 shall submit the outline development plans and comprehensive development plans under sections 9 and 19 respectively to the State Government through the Bangalore Metropolitan Region Development Authority for approval and the said Authority shall exercise the powers and discharge functions of the Director of Town Planning in respect of such outline development plans or comprehensive development plans. The provisions of sections 9 and 19 shall mutatis mutandis be applicable for the purpose of this section."</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

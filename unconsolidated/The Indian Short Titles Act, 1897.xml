@@ -1,0 +1,75 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1897/14/main"/>
+          <FRBRuri value="/in-union/act/1897/14"/>
+          <FRBRalias value="The Indian Short Titles Act, 1897"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1897/14/eng@1897-07-22/main"/>
+          <FRBRuri value="/in-union/act/1897/14/eng@1897-07-22"/>
+          <FRBRdate date="1897-07-22" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1897/14/eng@1897-07-22/main"/>
+          <FRBRuri value="/in-union/act/1897/14/eng@1897-07-22"/>
+          <FRBRdate date="2016-10-13" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Indian Short Titles Act, 1897</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 14 OF 1897</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 22nd July, 1897.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to facilitate the citation of certain Acts;</p>
+        <p>WHEREAS it is expedient to facilitate the citation of certain</p>
+        <p>Acts; It is hereby enacted as follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Title.-</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Indian Short Titles Act,</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-1897">
+        <num>1897.</num>
+        <heading/>
+        <paragraph id="section-1897.paragraph-0">
+          <content>
+            <p>; .</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Citation of Acts described in Schedule.- Each of the Acts  described in the first three coloumns of the Schedule may, without  prejudice to any other mode of citation, be cited for all purposes by  the short title mentioned in that behalf in the fourth column thereof.</heading>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

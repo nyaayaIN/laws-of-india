@@ -1,0 +1,603 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-mah/act/1947/64/main"/>
+          <FRBRuri value="/in-mah/act/1947/64"/>
+          <FRBRalias value="The Bombay Forward Contracts Control Act, 1947"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-mah/act/1947/64/eng@2017-05-01/main"/>
+          <FRBRuri value="/in-mah/act/1947/64/eng@2017-05-01"/>
+          <FRBRdate date="2017-05-01" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-mah/act/1947/64/eng@2017-05-01/main"/>
+          <FRBRuri value="/in-mah/act/1947/64/eng@2017-05-01"/>
+          <FRBRdate date="2017-05-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Bombay Forward Contracts Control Act, 1947</shortTitle>
+      </p>
+      <longTitle>
+        <p>Act No. 64 of 1947</p>
+      </longTitle>
+      <p class="DateOfEnactment">
+        <docDate>[7th February 1948]</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>An Act to provide for the regulation and control of forward contracts, for prohibition of options and for certain other purposes in the Province of Bombay.</p>
+      <p>WHEREAS it is expedient to regulate and control forward contracts, to prohibit options and to provide for certain other purposes hereinafter appearing; It is hereby enacted as follows:-</p>
+    </preamble>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Short title and operation</heading>
+        <subsection id="section-1.1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be called the Bombay Forward Contracts Control Act, 1947.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.2">
+          <num>(2)</num>
+          <content>
+            <p>This section shall come into force at once.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.3">
+          <num>(3)</num>
+          <content>
+            <p>The Provincial Government may by notification in the Official Gazette direct that all the remaining sections other than sections 4, 5 and 7 shall come into force in the whole of the Province of Bombay or such part thereof and on such date and in their application to such goods as may be specified in the notification.</p>
+          </content>
+        </subsection>
+        <subsection id="section-1.4">
+          <num>(4)</num>
+          <content>
+            <p>The Provincial Government may also by notification in the Official Gazette direct that sections 4, 5 or 7 shall come into force in the whole of the Province of Bombay or such part thereof and on such date and in its application to such goods as may be specified in the notification.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-2">
+        <num>2.</num>
+        <heading>Definitions.</heading>
+        <paragraph id="section-2.paragraph-0">
+          <content>
+            <p>In this Act, unless there is anything repugnant in the subject or context, -</p>
+          </content>
+        </paragraph>
+        <subsection id="section-2.1">
+          <num>(1)</num>
+          <content>
+            <p>"Association" means any association, organization or body of individuals, whether incorporated or not, established for the purpose of regulating and controlling business of the sale or purchase of, or other transactions relating to any goods;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.2">
+          <num>(2)</num>
+          <content>
+            <p>"Contract" means a contract entered into, made or to be performed in whole or in part in any notified area relating to the sale or purchase of any goods to which this Act applies:</p>
+            <p>Provided that, the Provincial Government may by notification in the Official Gazette direct any contract or class of contracts to be excluded from the provisions of this Act, subject to such conditions as the Provincial Government may deem fit to impose;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.3">
+          <num>(3)</num>
+          <content>
+            <p>"Forward contract" means a contract for the delivery of goods at a future date and which is not a ready delivery contract;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.4">
+          <num>(4)</num>
+          <content>
+            <p>"Goods" means any kind of moveable property includes securities but does not include money or actionable claims;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.5">
+          <num>(5)</num>
+          <content>
+            <p>"Government security" means a Government security as defined in the Indian Securities Act, 1920;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.6">
+          <num>(6)</num>
+          <content>
+            <p>"Notified area" means any area specified in the notification under sub-section (3) of section 1;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.7">
+          <num>(7)</num>
+          <content>
+            <p>"Option in goods" means a contract for the purchase or sale of a right to buy, or a right to sell, or a right to buy or sell goods in future and includes a gully, a teji, a mondi or a teji-mondi in goods;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.8">
+          <num>(8)</num>
+          <content>
+            <p>"Person" includes a firm;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.9">
+          <num>(9)</num>
+          <content>
+            <p>"Ready deliver contract" means a contract which provides for delivery and payment of price either immediately or within such number of days not exceeding seven after the date of the contract and under such conditions as the Provincial Government may, from time to time, by notification in the Official Gazette, specify in this behalf in respect of any particular goods;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.10">
+          <num>(10)</num>
+          <content>
+            <p>"Recognised association" means an association which is for the time being recognised by the Provincial Government as provided in section 3;</p>
+          </content>
+        </subsection>
+        <subsection id="section-2.11">
+          <num>(11)</num>
+          <content>
+            <p>"Securities" includes shares, scrips, stocks, bonds, debentures, debenture stocks, or other marketable security of a like nature in or of any incorporate company or other body corporate and Government securities.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-3">
+        <num>3.</num>
+        <heading>Recognition.</heading>
+        <subsection id="section-3.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-3.1.list1">
+              <listIntroduction>Any association desirous of being recognised for the purposes of this Act shall make an application in writing to the Provincial Government for such recognition and shall, along with the application, submit rules relating in general to its constitution and management and in particular to -</listIntroduction>
+              <item id="section-3.1.list1.a">
+                <num>(a)</num>
+                <p>the management of the association by a governing body and the constitution of such governing body;</p>
+              </item>
+              <item id="section-3.1.list1.b">
+                <num>(b)</num>
+                <p>the powers and duties of the office-bearers and the governing body and the manner in which its business shall be transacted;</p>
+              </item>
+              <item id="section-3.1.list1.c">
+                <num>(c)</num>
+                <p>the admission of various classes of members by the association and the exclusion, suspension, expulsion and re-admission of such members;</p>
+              </item>
+              <item id="section-3.1.list1.d">
+                <num>(d)</num>
+                <p>the formation and registration of partnerships and the appointment of authorised representatives and clerks;</p>
+              </item>
+              <item id="section-3.1.list1.e">
+                <num>(e)</num>
+                <p>such other matters as the Provincial Government may by order direct.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-3.2">
+          <num>(2)</num>
+          <content>
+            <p>The association shall also furnish such other information in regard to such association as the Provincial Government may require.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.3">
+          <num>(3)</num>
+          <content>
+            <p>The Provincial Government may direct that there shall be no limitation of the number of the members of the association or such limitation of the number as the Provincial Government may impose, and may require the association to incorporate in the rules such direction and the conditions, if any, accompanying it.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.4">
+          <num>(4)</num>
+          <content>
+            <p>The Provincial Government may require such association to provide in its rules that the Provincial Government may appoint any person, whether a member of the association or not, to be the President or a member of the governing body of such association.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.5">
+          <num>(5)</num>
+          <content>
+            <p>If the Provincial Government is satisfied that the rules of the association are suitable in the interest of the trade and are in public interest, the Provincial Government may recognised the association. No alterations or additions shall be made in the rules of a recognised association without the prior approval of the Provincial Government.</p>
+          </content>
+        </subsection>
+        <subsection id="section-3.6">
+          <num>(6)</num>
+          <content>
+            <p>If the Provincial Government considers that the recognition given to any association should, in the interest of the crade or in public interest, be withdrawn, the Provincial Government may, after giving to the association an opportunity to explain why recognition should not be withdrawn, withdraw the recognition given to the said association, and such association shall thereupon cease to be a recognised association:</p>
+            <p>Provided that, such withdrawal of the recognition of any association shall not in any manner affect the validity of any contract into or made prior to the date of the withdrawal of the recognition and the Provincial Government may make such provision as it deems fit for the due fulfilment of such contracts which may be outstanding at such date.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-4">
+        <num>4.</num>
+        <heading>Power of Provincial Government to supersede the governing body, and suspend business</heading>
+        <subsection id="section-4.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-4.1.list0">
+              <item id="section-4.1.list0.i">
+                <num>(i)</num>
+                <p>Notwithstanding anything contained in this Act, or any other law for the time being in force, the Provincial Government may, if it deems fit, by an order published in the Official Gazette, declare the governing body of any recognised association to be suspended and may appoint any person or persons to exercise and perform all the powers and duties of the governing body; and when more persons than one are appointed may appoint one of such persons to be the President:</p>
+              </item>
+            </blockList>
+            <blockList id="section-4.1.list2">
+              <listIntroduction>Provided that, a reasonable opportunity shall be given to the governing body to explain why it should not be superseded unless the Provincial Government considers that an emergency has arisen when in the interest of the trade or in public interest immediate supersession is necessary.</listIntroduction>
+              <item id="section-4.1.list2.ii">
+                <num>(ii)</num>
+                <p>The members of the governing body which has been superseded shall, as from the date of the order of supersession, cease to be such members.</p>
+              </item>
+              <item id="section-4.1.list2.iii">
+                <num>(iii)</num>
+                <p>The person or persons appointed under clause (i) shall hold office for such period as the Provincial Government may, by notification in the Official Gazette, appoint and the Provincial Government may from time to time by like notification extent such period.</p>
+              </item>
+              <item id="section-4.1.list2.iv">
+                <num>(iv)</num>
+                <p>The person or persons appointed under clause (i) may exercise and perform all the powers and duties of the governing body which has been superseded.</p>
+              </item>
+              <item id="section-4.1.list2.v">
+                <num>(v)</num>
+                <p>When a person or persons have been appointed under clause (i), all such property of the recognised association as such person or persons may by order in writing declare to be necessary for carrying out the purposes of this Act, shall vest in such person or persons, as the case may be. The property so vested, or which such person or persons may have acquired shall, on the determination of the period of office of such person or persons, revest or vest, as the case may be, in the recognised association.</p>
+              </item>
+              <item id="section-4.1.list2.vi">
+                <num>(vi)</num>
+                <p>On the determination of the period referred to in clause (iii) the recognised association shall forthwith re-constitute a governing body in accordance with its rules : Provided that until the governing body is so re-constituted the person or persons appointed under clause (i) shall continue to exercise and perform their power and duties.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-4.2">
+          <num>(2)</num>
+          <content>
+            <p>If in the interest of the trade or in public interest, the Provincial Government considers it necessary to do so, the Provincial Government may by an order published in the Official Gazette direct a recognised association to suspend its business for such period and subject to such conditions as may be specified in the order and the Provincial Government may from time to time by like order extend such period.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-5">
+        <num>5.</num>
+        <heading>Power of Provincial Government to make rules and add to etc., articles of association</heading>
+        <subsection id="section-5.1">
+          <num>(1)</num>
+          <content>
+            <p>If the Provincial Government is of opinion that it is expedient to do so, the Provincial Government may at any time add to, vary or rescind any rules made by a recognised association or may make any rules for all or any of the matters, specified in sub-sections (1) to (4) of section 3, or required such association to add to, vary or rescind its articles of association.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.2">
+          <num>(2)</num>
+          <content>
+            <p>Rules, or any addition to, or variation or rescission of, rules made under sub-section (1) shall be subject to the condition of previous publication:</p>
+            <p>Provided that, the Provincial Government may in the interest of the trade or in public interest dispense with the condition of previous publication.</p>
+          </content>
+        </subsection>
+        <subsection id="section-5.3">
+          <num>(3)</num>
+          <content>
+            <p>Rules or any addition to or variation or rescission of, rules made under this section shall be published in the Official Gazette and shall be deemed to have been made by the recognised association.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-6">
+        <num>6.</num>
+        <heading>Power of recognised association to make, add to, vary or rescind bye-laws.</heading>
+        <subsection id="section-6.1">
+          <num>(1)</num>
+          <content>
+            <p>Any recognised association may, subject to the sanction of the Provincial Government, make and, from time to time, add to, vary or rescind bye-laws for the regulation and control of forward contract in goods for which such association has been recognised.</p>
+          </content>
+        </subsection>
+        <subsection id="section-6.2">
+          <num>(2)</num>
+          <content>
+            <blockList id="section-6.2.list1">
+              <listIntroduction>In particular and without prejudice to the generality of the foregoing power, such bye-laws may provide for -</listIntroduction>
+              <item id="section-6.2.list1.a">
+                <num>(a)</num>
+                <p>the opening and closing of markets and the times during which such market shall remain open or closed and regulating the hours of trade;</p>
+              </item>
+              <item id="section-6.2.list1.b">
+                <num>(b)</num>
+                <p>a clearing house for the periodical settlement of contracts and the difference there under, for the delivery of an payment for goods and for the passing on of delivery orders and the regulation and maintenance of such clearing house;</p>
+              </item>
+              <item id="section-6.2.list1.c">
+                <num>(c)</num>
+                <p>the number and classes of contracts in respect of which settlements shall be made or differences paid through the clearing house;</p>
+              </item>
+              <item id="section-6.2.list1.d">
+                <num>(d)</num>
+                <p>fixing, altering or postponing settling days;</p>
+              </item>
+              <item id="section-6.2.list1.e">
+                <num>(e)</num>
+                <p>determining and declaring the market rates for goods;</p>
+              </item>
+              <item id="section-6.2.list1.f">
+                <num>(f)</num>
+                <p>the terms, conditions and incidents of contracts and the forms of such contracts as are in writing;</p>
+              </item>
+              <item id="section-6.2.list1.g">
+                <num>(g)</num>
+                <p>regulating the entering into, making, performance, recession and termination of contracts, including contracts between members, or between a commission agent and his constituent or between a broker and his constituent or between a jatthawala or muccadum and his constituent or between a member of the recognised association, and a person who is not a member, and the consequences of insolvency on the part of a seller or buyer or intermediary, the consequences of a breach or omission by a seller or buyer and the responsibility of commission agents, muccadums and brokers not parties to such contracts;</p>
+              </item>
+              <item id="section-6.2.list1.h">
+                <num>(h)</num>
+                <p>the admission and prohibition of specified classes or types of goods or of dealings in goods by a member of the recognised association;</p>
+              </item>
+              <item id="section-6.2.list1.i">
+                <num>(i)</num>
+                <p>the method and procedure for settlement of claims and disputes including settlement by arbitration;</p>
+              </item>
+              <item id="section-6.2.list1.j">
+                <num>(j)</num>
+                <p>the levy and recovery of fees, fines, penalties;</p>
+              </item>
+              <item id="section-6.2.list1.k">
+                <num>(k)</num>
+                <p>regulating the course of business between parties to contracts in any capacity;</p>
+              </item>
+              <item id="section-6.2.list1.l">
+                <num>(l)</num>
+                <p>fixing of a scale of brokerage and other charges;</p>
+              </item>
+              <item id="section-6.2.list1.m">
+                <num>(m)</num>
+                <p>the making, comparing, settling and closing of bargains;</p>
+              </item>
+              <item id="section-6.2.list1.n">
+                <num>(n)</num>
+                <p>the regulation of fluctuations in rates and prices;</p>
+              </item>
+              <item id="section-6.2.list1.o">
+                <num>(o)</num>
+                <p>emergencies and the exercise of powers in such emergencies;</p>
+              </item>
+              <item id="section-6.2.list1.p">
+                <num>(p)</num>
+                <p>the regulation of dealings by members for their own account.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.3">
+          <num>(3)</num>
+          <content>
+            <blockList id="section-6.3.list1">
+              <listIntroduction>The bye-laws may provide that the contravention of any of the bye-laws shall -</listIntroduction>
+              <item id="section-6.3.list1.i">
+                <num>(i)</num>
+                <p>make a contract which is entered into, made or is to be performed otherwise than in accordance with the bye-law void or illegal;</p>
+              </item>
+              <item id="section-6.3.list1.ii">
+                <num>(ii)</num>
+                <p>render the member liable to expulsion, suspension, fine or other non-monetary penalty.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-6.4">
+          <num>(4)</num>
+          <content>
+            <p>Bye-laws or any addition to or variation or rescission of such bye-laws made under this section shall be subject to the condition of previous publication unless such condition is dispensed with by the Provincial Government in the interest of the trade or in public interest and when sanctioned by the Provincial Government shall be published in the Official Gazette.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-7">
+        <num>7.</num>
+        <heading>Power of Provincial Government to make bye-laws.</heading>
+        <subsection id="section-7.1">
+          <num>(1)</num>
+          <content>
+            <p>If the Provincial Government is of opinion that it is expedient to do so, the Provincial Government may at any time add to, vary to rescind any bye-laws made by a recognised association under section 6 or may make any bye-laws for all or any of the matters specified in the said section 6.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.2">
+          <num>(2)</num>
+          <content>
+            <p>Bye-laws, or any addition to, or variation or rescission of bye-laws made under sub-section (1) may provide for the regulation and control of contracts entered into or made previously to and subsisting at the date of making of the bye-laws, addition, variation or rescission, but not so as to affect contracts entered into or made before a week previous to such date, and all rights and obligations in respect of contracts so regulated and controlled shall thereafter be determined accordingly.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.3">
+          <num>(3)</num>
+          <content>
+            <p>Bye-laws or any addition to, variation or rescission of bye-laws made under sub-section (1) shall be subject to the condition of previous publication.</p>
+          </content>
+        </subsection>
+        <subsection id="section-7.4">
+          <num>(4)</num>
+          <content>
+            <p>Bye-laws or any addition to, or variation or rescission of bye-laws made under this section shall be published in the Official Gazette and shall be deemed to have been made by the: recognised association.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Illegal contracts and penalty.</heading>
+        <subsection id="section-8.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-8.1.list1">
+              <listIntroduction>Every forward contract for the sale or purchase of, or relating to, any goods, specified in the notification under sub-section (3) of section 1 which is entered into, made or to be performed in any notified area shall be illegal if it is not entered into, made or to be performed -</listIntroduction>
+              <item id="section-8.1.list1.a">
+                <num>(a)</num>
+                <p>in accordance with such bye-laws, made under section 6 or 7 relating to the entering into, making or performance of such contracts, as may be specified in the bye-laws, or</p>
+              </item>
+              <item id="section-8.1.list1.b">
+                <num>(b)</num>
+                <blockList id="section-8.1.list1.b.list0">
+                  <item id="section-8.1.list1.b.list0.i">
+                    <num>(i)</num>
+                    <p>between members of a recognised association,</p>
+                  </item>
+                  <item id="section-8.1.list1.b.list0.ii">
+                    <num>(ii)</num>
+                    <p>through a member of a recognised association, or</p>
+                  </item>
+                  <item id="section-8.1.list1.b.list0.iii">
+                    <num>(iii)</num>
+                    <p>with a member of a recognised association, provided that such member has previously secured the written authority or consent, which shall be in writing if the bye-laws so provide, of the persons entering into or making the contract.</p>
+                  </item>
+                </blockList>
+              </item>
+            </blockList>
+            <p>and no claim of any description in respect of such contract shall be entertained in any Civil Court.</p>
+          </content>
+        </subsection>
+        <subsection id="section-8.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person entering into or making such illegal contract shall, on conviction, be punishable with imprisonment for a term which may extend to six months or with fine or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-9">
+        <num>9.</num>
+        <heading>Options in goods illegal.</heading>
+        <subsection id="section-9.1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in this Act or in any other law for the time being in force on a notification being issued by the Provincial Government in the Official Gazette, options or such kinds of options in such goods and in the whole of the Province of Bombay or such part thereof as may be specified in the notification shall be illegal.</p>
+          </content>
+        </subsection>
+        <subsection id="section-9.2">
+          <num>(2)</num>
+          <content>
+            <p>Any person entering into any option made illegal under sub-section (1) shall, on conviction, be punishable with imprisonment which may extend to six months or with fine or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-10">
+        <num>10.</num>
+        <heading>Penalty for owing or keeping place used for entering into forward contracts in contravention of Act, etc.</heading>
+        <paragraph id="section-10.paragraph-0">
+          <content>
+            <p>Any person who in any notified area -</p>
+          </content>
+        </paragraph>
+        <subsection id="section-10.1">
+          <num>(1)</num>
+          <content>
+            <p>owns or keeps a place, other than that of a recognised association, which is used for the purpose of entering into or making or performing in whole or in part forward contracts in goods specified in the notification under sub-section (3) of section 1 and knowingly permits such place to be used for such purposes; or</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.2">
+          <num>(2)</num>
+          <content>
+            <p>without the permission of the Provincial Government organises, or assists in organising or becomes an member of any association, other than a recognised association, established for the purpose of assisting in entering into or making or performing in whole or in part forward contracts such goods; or</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.3">
+          <num>(3)</num>
+          <content>
+            <p>manages, controls or assists in keeping any place, other than that of a recognised association, which is used for the purpose of entering into or making or performing in whole or in part forward contracts in such goods or at which such contracts are recorded or adjusted or rights or liabilities arising out of such contracts or options are adjusted, regulated or enforced in any manner whatsoever; or</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.4">
+          <num>(4)</num>
+          <content>
+            <p>not being a member of a recognised association wilfully represents to or induces any person to believe that he is a member of a recognised association or that a forward contract can be entered into or made or performed in whole or in part under this Act through him, or</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.5">
+          <num>(5)</num>
+          <content>
+            <p>not being a member of a recognised association or his agent authorised under the rules or bye-laws of such association canvasses, advertises, or touts in any manner either for himself or for any other person, for any business connected with forward contracts in such goods; or</p>
+          </content>
+        </subsection>
+        <subsection id="section-10.6">
+          <num>(6)</num>
+          <content>
+            <p>joins, gathers or assists in gathering any person or persons for making bids or offers or for entering into or making any forward contracts in such goods at a place other than the place of business specified in the bye-laws of any recognised association, shall, on conviction, be punishable with imprisonment which may extend to six months or with fine or with both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-11">
+        <num>11.</num>
+        <heading>Jurisdiction under Act</heading>
+        <paragraph id="section-11.paragraph-0">
+          <content>
+            <p>No Court inferior to that of a Presidency Magistrate or a Magistrate of the First Class shall take cognizance of or try any offence punishable under this Act.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-12">
+        <num>12.</num>
+        <heading>Offences by corporations and firms</heading>
+        <paragraph id="section-12.paragraph-0">
+          <content>
+            <p>Where a person committing an offence under this Act is a company, or other body corporate, or an association of persons (whether incorporated or not) or a firm, every director, manager, secretary, agent or other officer or person concerned with the management thereof and every partner of the firm shall, unless he proves that the offence was committed without his knowledge or consent, be deemed to be guilty of such offence.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-13">
+        <num>13.</num>
+        <heading>Bar of suits and proceedings against officers, etc.</heading>
+        <paragraph id="section-13.paragraph-0">
+          <content>
+            <p>No suit, prosecution, or other legal proceedings whatsoever shall be entertained in any Court against the governing body or any office bearer or servant of a recognised association or against the person or persons appointed under clause (i) of sub-section (1) of section 4 for anything in good faith done or intended to be done in pursuance or execution of this Act or rules or bye-laws made there under.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section id="section-14">
+        <num>14.</num>
+        <heading>Repeal of enactments</heading>
+        <subsection id="section-14.1">
+          <num>(1)</num>
+          <content>
+            <p>On the date on which an association is recognised under section 3 in any area in respect of securities, the Bombay Securities Contracts Control Act, 1925, and when an association is recognised under section 3 in the City of Bombay and the Island of Salsette in respect of cotton, the Bombay Cotton Contracts Act, 1932, shall cease to have force in such area.</p>
+          </content>
+        </subsection>
+        <subsection id="section-14.2">
+          <num>(2)</num>
+          <content>
+            <p>On the date on which an association is recognised under section 3 in any area in respect of cotton, the Bombay Options in Cotton Prohibition Act, 1939, shall cease to have force in such area.</p>
+          </content>
+        </subsection>
+      </section>
+      <section id="section-15">
+        <num>15.</num>
+        <heading>Savings.</heading>
+        <subsection id="section-15.1">
+          <num>(1)</num>
+          <content>
+            <blockList id="section-15.1.list1">
+              <listIntroduction>Nothing in this Act or any repeal effected thereby shall affect or be deemed to affect-</listIntroduction>
+              <item id="section-15.1.list1.a">
+                <num>(a)</num>
+                <p>the terms and incidents of any forward contracts in cotton or securities entered into or made before the date on which the provisions of this Act come into force and to which the Acts hereby repealed applied;</p>
+              </item>
+              <item id="section-15.1.list1.b">
+                <num>(b)</num>
+                <p>the terms and incidents of any options in cotton entered into or made before the date on which the Bombay Options in Cotton Prohibition Ordinance, 1939, came into force;</p>
+              </item>
+              <item id="section-15.1.list1.c">
+                <num>(c)</num>
+                <p>the validity, invalidity, effect or consequences of anything already done or suffered, in case of such contracts before the coming into force of the provisions of this Act, and in the case of such options before the date of the coming into force of the said Ordinance;</p>
+              </item>
+              <item id="section-15.1.list1.d">
+                <num>(d)</num>
+                <p>any right, title, obligation or liability already acquired, accrued or incurred in regard to such contracts before the date of the coming into force of the provisions of this Act and in regard to such options before the date of the coming into force of the said Ordinance;</p>
+              </item>
+              <item id="section-15.1.list1.e">
+                <num>(e)</num>
+                <p>any remedy or proceedings in respect of such right, title, obligation or liability;</p>
+              </item>
+              <item id="section-15.1.list1.f">
+                <num>(f)</num>
+                <p>anything done in the course of any proceeding pending in any Court, in case of such contracts on the date of the coming into force of the provisions of this Act and in the case of such options on the date of the coming into force of the said Ordinance, and any such remedy or proceeding may be enforced, instituted or continued, as the case may be, as if this Act had not been passed.</p>
+              </item>
+            </blockList>
+          </content>
+        </subsection>
+        <subsection id="section-15.2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of sub-section (1) shall apply to forward contracts for the purchase or sale of any other goods to which the provisions of this Act may, from time to time, be applied under sub-section (3) of section 1 entered into or made before the date on which a notification in respect of such goods may be published under the said sub-section.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1852/8/main"/>
+          <FRBRuri value="/in-union/act/1852/8"/>
+          <FRBRalias value="The Sheriffs' Fees Act, 1852"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1852/8/eng@1952-02-06/main"/>
+          <FRBRuri value="/in-union/act/1852/8/eng@1952-02-06"/>
+          <FRBRdate date="1952-02-06" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1852/8/eng@1952-02-06/main"/>
+          <FRBRuri value="/in-union/act/1852/8/eng@1952-02-06"/>
+          <FRBRdate date="2016-11-01" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Sheriffs' Fees Act, 1852]</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 8 OF 1852</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[ 6th February, 1952.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act for remunerating the Sheriffs of Calcutta, madras and</p>
+        <p>Bombay for the execution of Mufassal Process under Act 23 of 1840. 2</p>
+        <p>Preamble.-- For making better provision for the Sheriffs of</p>
+        <p>Calcutta, Madras and Bombay, in remuneration for the execution of  legal process issued by Courts out of the said towns, respectively; It  is enacted as follows:--</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-1">
+        <num>1.</num>
+        <heading>Repealed by the A. O. 1937.</heading>
+      </section>
+      <section id="section-8">
+        <num>8.</num>
+        <heading>Liability of Sheriff in case of escape of person taken in  execution.-- If any person taken in execution on any such process shall  escape out of the legal custody of the Sheriff, the Sheriff shall not  be liable to an action of debt for such escape, but shall be liable  only to an action upon the case for damages in consequence of such  escape sustained by the person or persons at whose suit the prisoner  was taken.</heading>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

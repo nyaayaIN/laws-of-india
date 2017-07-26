@@ -1,0 +1,1265 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-union/act/1961/43/main"/>
+          <FRBRuri value="/in-union/act/1961/43"/>
+          <FRBRalias value="Income Tax Act"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-union/act/1961/43/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/1961/43/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-union/act/1961/43/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-union/act/1961/43/eng@2017-01-25"/>
+          <FRBRdate date="2016-10-21" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Income-Tax Act, 1961</shortTitle>
+      </p>
+      <longTitle>
+        <p>(43 of 1961)</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section id="section-13th">
+        <num>13th.</num>
+        <heading>September, 1961</heading>
+        <paragraph id="section-13th.paragraph-0">
+          <content>
+            <p>An Act to consolidate and amend the law relating to income-tax and super-tax.</p>
+            <p>BE it enacted by Parliament in the Twelfth Year of the Republic of India as follows:—</p>
+          </content>
+        </paragraph>
+      </section>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.—(1) This Act may be called the Income-tax Act, 1961.</heading>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It extends to the whole of India.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>Save as otherwise provided in this Act, it shall come into force on the 1st day of April, 1962.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.—In this Act, unless the context otherwise requires,</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <p>"advance tax" means the advance tax payable in accordance with the provisions of Chapter XVIIC;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.1A">
+            <num>(1A)</num>
+            <content>
+              <blockList id="section-2.1A.list1">
+                <listIntroduction>"agricultural income" means</listIntroduction>
+                <item id="section-2.1A.list1.a">
+                  <num>(a)</num>
+                  <p>any rent or revenue derived from land which is situated in India and is used for agricultural purposes;</p>
+                </item>
+                <item id="section-2.1A.list1.b">
+                  <num>(b)</num>
+                  <blockList id="section-2.1A.list1.b.list0">
+                    <listIntroduction>any income derived from such land by—</listIntroduction>
+                    <item id="section-2.1A.list1.b.list0.i">
+                      <num>(i)</num>
+                      <p>agriculture; or</p>
+                    </item>
+                    <item id="section-2.1A.list1.b.list0.ii">
+                      <num>(ii)</num>
+                      <p>the performance by a cultivator or receiver of rent-in-kind of any process ordinarily employed by a cultivator or receiver of rent-in-kind to render the produce raised or received by him fit to be taken to market; or</p>
+                    </item>
+                    <item id="section-2.1A.list1.b.list0.iii">
+                      <num>(iii)</num>
+                      <p>the sale by a cultivator or receiver of rent-in-kind of the produce raised or received by him, in respect of which no process has been performed other than a process of the nature described in paragraph (ii) of this sub-clause;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.1A.list1.c">
+                  <num>(c)</num>
+                  <p>any income derived from any building owned and occupied by the receiver of the rent or revenue of any such land, or occupied by the cultivator or the receiver of rent-in-kind, of any land with respect to which, or the produce of which, any process mentioned in paragraphs (ii) and (iii) of sub-clause (b) is carried on:</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.1A.list3">
+                <listIntroduction>Provided that—(i) the building is on or in the immediate vicinity of the land, and is a building which the receiver of the rent or revenue or the cultivator, or the receiver of rent-in-kind, by reason of his connection with the land, requires as a dwelling house, or as a store-house, or other out-building, and</listIntroduction>
+                <item id="section-2.1A.list3.ii">
+                  <num>(ii)</num>
+                  <blockList id="section-2.1A.list3.ii.list0">
+                    <listIntroduction>the land is either assessed to land revenue in India or is subject to a local rate assessed and collected by officers of the Government as such or where the land is not so assessed to land revenue or subject to a local rate, it is not situated—(A) in any area which is comprised within the jurisdiction of a municipality (whether known as a municipality, municipal corporation, notified area committee, town area committee, town committee or by any other name) or a cantonment board and which has a population of not less than ten thousand ; or</listIntroduction>
+                    <item id="section-2.1A.list3.ii.list0.I">
+                      <num>(I)</num>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.1A.list3.B">
+                  <num>(B)</num>
+                  <p>in any area within the distance, measured aerially,—not being more than two kilometres, from the local limits of any municipality or cantonment board referred to in item (A) and which has a population of more than ten thousand but not exceeding one lakh; or</p>
+                </item>
+                <item id="section-2.1A.list3.II">
+                  <num>(II)</num>
+                  <p>not being more than six kilometres, from the local limits of any municipality or cantonment board referred to in item (A) and which has a population of more than one lakh but not exceeding ten lakh; or</p>
+                </item>
+                <item id="section-2.1A.list3.III">
+                  <num>(III)</num>
+                  <p>not being more than eight kilometres, from the local limits of any municipality or cantonment board referred to in item (A) and which has a population of more than ten lakh.</p>
+                </item>
+              </blockList>
+              <p>Explanation 1.—For the removal of doubts, it is hereby declared that revenue derived from land shall not include and shall be deemed never to have included any income arising from the transfer of any land referred to in item (a) or item (b) of sub-clause (iii) of clause (14) of this section;</p>
+              <p>Explanation 2.—For the removal of doubts, it is hereby declared that income derived from any building or land referred to in sub-clause (c) arising from the use of such building or land for any purpose (including letting for residential purpose or for the purpose of any business or profession) other than agriculture falling under sub-clause (a) or sub-clause (b) shall not be agricultural income.</p>
+              <p>Explanation 3.—For the purposes of this clause, any income derived from saplings or seedlings grown in a nursery shall be deemed to be agricultural income.</p>
+              <p>Explanation 4.—For the purposes of clause (ii) of the proviso to sub-clause (c), "population" means the population according to the last preceding census of which the relevant figures have been published before the first day of the previous year;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.1B">
+            <num>(1B)</num>
+            <content>
+              <blockList id="section-2.1B.list1">
+                <listIntroduction>"amalgamation", in relation to Companies, means the merger of one or more companies with another company or the merger of two or more companies to form one company (the company or companies which so merge being referred to as the amalgamating company or companies and the company with which they merge or which is formed as a result of the merger, as the amalgamated company) in such a manner that—(i) all the property of the amalgamating company or companies immediately before the amalgamation becomes the property of the amalgamated company by virtue of the amalgamation;</listIntroduction>
+                <item id="section-2.1B.list1.ii">
+                  <num>(ii)</num>
+                  <p>all the liabilities of the amalgamating company or companies immediately before the amalgamation become the liabilities of the amalgamated company by virtue of the amalgamation;</p>
+                </item>
+                <item id="section-2.1B.list1.iii">
+                  <num>(iii)</num>
+                  <p>shareholders holding not less than Three-fourths in value of the shares in the amalgamating company or companies (other than shares already held therein immediately before the amalgamation by, or by a nominee for, the amalgamated company or its subsidiary) become shareholders of the amalgamated company by virtue of the amalgamation,</p>
+                </item>
+              </blockList>
+              <p>otherwise than as a result of the acquisition of the property of one company by another company pursuant to the purchase of such property by the other company or as a result of the distribution of such property to the other company after the winding up of the first-mentioned company;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.1C">
+            <num>(1C)</num>
+            <content>
+              <p>"Additional Commissioner" means a person appointed to be an Additional Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.1D">
+            <num>(1D)</num>
+            <content>
+              <p>"Additional Director" means a person appointed to be an Additional Director of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>"annual value", in relation to any property, means its annual value as determined under section 23;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.4">
+            <num>(4)</num>
+            <content>
+              <p>"Appellate Tribunal" means the Appellate Tribunal constituted under section 252;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.5">
+            <num>(5)</num>
+            <content>
+              <p>"approved gratuity fund" means a gratuity fund which has been and continues to be approved by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner in accordance with the rules contained in Part C of the Fourth Schedule;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.6">
+            <num>(6)</num>
+            <content>
+              <p>"approved superannuation fund" means a superannuation fund or any part of a superannuation fund which has been and continues to be approved by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner in accordance with the rules contained in Part B of the Fourth Schedule;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.7">
+            <num>(7)</num>
+            <content>
+              <blockList id="section-2.7.list1">
+                <listIntroduction>"assessee" means a person by whom any tax or any other sum of money is payable under this Act, and includes—</listIntroduction>
+                <item id="section-2.7.list1.a">
+                  <num>(a)</num>
+                  <p>every person in respect of whom any proceeding under this Act has been taken for the assessment of his income or assessment</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.7.list3">
+                <listIntroduction>of fringe benefits or of the income of any other person in respect of which he is assessable, or of the loss sustained by him or by such other person, or of the amount of refund due to him or to such other person;</listIntroduction>
+                <item id="section-2.7.list3.b">
+                  <num>(b)</num>
+                  <p>every person who is deemed to be an assessee under any provision of this Act;</p>
+                </item>
+                <item id="section-2.7.list3.c">
+                  <num>(c)</num>
+                  <p>every person who is deemed to be an assessee in default under any provision of this Act;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.7A">
+            <num>(7A)</num>
+            <content>
+              <p>"Assessing Officer" means the Assistant Commissioner or Deputy Commissioner or Assistant Director or Deputy Director or the Income-tax Officer who is vested with the relevant jurisdiction by virtue of directions or orders issued under sub-section (1) or sub-section (2) of section 120 or any other provision of this Act, and the Additional Commissioner or Additional Director or Joint Commissioner or Joint Director who is directed under clause (b) of sub-section (4) of that section to exercise or perform all or any of the powers and functions conferred on, or assigned to, an Assessing Officer under this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.8">
+            <num>(8)</num>
+            <content>
+              <p>"assessment" includes reassessment;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.9">
+            <num>(9)</num>
+            <content>
+              <p>"assessment year" means the period of twelve months commencing on the 1st day of April every year;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.9A">
+            <num>(9A)</num>
+            <content>
+              <p>"Assistant Commissioner" means a person appointed to be an Assistant Commissioner of Income-tax or a Deputy Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.9B">
+            <num>(9B)</num>
+            <content>
+              <p>"Assistant Director" means a person appointed to be an Assistant Director of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.10">
+            <num>(10)</num>
+            <content>
+              <p>"average rate of income-tax" means the rate arrived at by dividing the amount of income-tax calculated on the total income by such total income;</p>
+              <blockList id="section-2.10.list2">
+                <listIntroduction>"block of assets" means a group of assets falling within a class of assets comprising</listIntroduction>
+                <item id="section-2.10.list2.a">
+                  <num>(a)</num>
+                  <p>tangible assets, being buildings, machinery, plant or furniture;</p>
+                </item>
+                <item id="section-2.10.list2.b">
+                  <num>(b)</num>
+                  <p>intangible assets, being know-how, patents, copyrights, trademarks, licenses, franchises or any other business or commercial rights of similar nature,</p>
+                </item>
+              </blockList>
+              <p>in respect of which the same percentage of depreciation is prescribed;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.12">
+            <num>(12)</num>
+            <content>
+              <p>"Board" means the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.12A">
+            <num>(12A)</num>
+            <content>
+              <p>"books or books of account" includes ledgers, day-books, cash books, account-books and other books, whether kept in the written form or as print-outs of data stored in a floppy, disc, tape or any other form of electro-magnetic data storage device;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.13">
+            <num>(13)</num>
+            <content>
+              <blockList id="section-2.13.list1">
+                <listIntroduction>"business" includes any trade, commerce or manufacture or any adventure or concern in the nature of trade, commerce or manufacture;</listIntroduction>
+                <item id="section-2.13.list1.i">
+                  <num>(i)</num>
+                  <p>(13A) "business trust" means a trust registered as,—an Infrastructure Investment Trust under the Securities and Exchange Board of India (Infrastructure Investment Trusts) Regulations, 2014 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992); or</p>
+                </item>
+                <item id="section-2.13.list1.ii">
+                  <num>(ii)</num>
+                  <p>a Real Estate Investment Trust under the Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations, 2014 made under the Securities and Exchange Board of India Act, 1992 (15 of 1992), and the units of which are required to be listed on recognised stock exchange in accordance with the aforesaid regulations;</p>
+                </item>
+                <item id="section-2.13.list1.a">
+                  <num>(a)</num>
+                  <p>(14) capital asset" means—property of any kind held by an assessee, whether or not connected with his business or profession;</p>
+                </item>
+                <item id="section-2.13.list1.b">
+                  <num>(b)</num>
+                  <p>any securities held by a Foreign Institutional Investor which has invested in such securities in accordance with the regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992).</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.13.list3">
+                <listIntroduction>but does not include—(i) any stock-in-trade other than the securities referred to in sub-clause (b),</listIntroduction>
+                <item id="section-2.13.list3.ii">
+                  <num>(ii)</num>
+                  <p>personal effects, that is to say, movable property (including wearing apparel and furniture) held for personal use by the assessee or any member of his family dependent on him, but excludes—</p>
+                </item>
+                <item id="section-2.13.list3.a">
+                  <num>(a)</num>
+                  <p>jewellery;</p>
+                </item>
+                <item id="section-2.13.list3.b">
+                  <num>(b)</num>
+                  <p>archaeological collections;</p>
+                </item>
+                <item id="section-2.13.list3.c">
+                  <num>(c)</num>
+                  <p>drawings;</p>
+                </item>
+                <item id="section-2.13.list3.d">
+                  <num>(d)</num>
+                  <p>paintings;</p>
+                </item>
+                <item id="section-2.13.list3.e">
+                  <num>(e)</num>
+                  <p>sculptures; or</p>
+                </item>
+                <item id="section-2.13.list3.f">
+                  <num>(f)</num>
+                  <p>any work of art.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—For the purposes of this sub-clause,</p>
+              <blockList id="section-2.13.list6">
+                <listIntroduction>"jewellery" includes—</listIntroduction>
+                <item id="section-2.13.list6.a">
+                  <num>(a)</num>
+                  <p>ornaments made of gold, silver, platinum or any other precious metal or any alloy containing one or more of such precious metals, whether or not containing any precious or semi-precious stone, and whether or not worked or sewn into any wearing apparel;</p>
+                </item>
+                <item id="section-2.13.list6.b">
+                  <num>(b)</num>
+                  <p>precious or semi-precious stones, whether or not set in any furniture, utensil or other article or worked or sewn into any wearing apparel;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.13.list8">
+                <listIntroduction>Explanation 2.—For the purposes of this clause—</listIntroduction>
+                <item id="section-2.13.list8.a">
+                  <num>(a)</num>
+                  <p>the expression "Foreign Institutional Investor" shall have the meaning assigned to it in clause (a) of the Explanation to section 115AD;</p>
+                </item>
+                <item id="section-2.13.list8.b">
+                  <num>(b)</num>
+                  <blockList id="section-2.13.list8.b.list0">
+                    <listIntroduction>the expression "securities" shall have the meaning assigned to it in clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);</listIntroduction>
+                    <item id="section-2.13.list8.b.list0.iii">
+                      <num>(iii)</num>
+                      <p>agricultural land in India, not being land situate—</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-2.13.list8.a">
+                  <num>(a)</num>
+                  <p>in any area which is comprised within the jurisdiction of a municipality (whether known as a municipality, municipal corporation, notified area committee, town area committee, town committee, or by any other name) or a cantonment board and which has a population of not less than ten thousand or</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.13.list10">
+                <listIntroduction>area within the distance, measured aerially,—(I) not being more than two kilometres, from the local limits of any municipality or cantonment board referred to in item (a) and which has a population of more than ten thousand but not exceeding one lakh; or</listIntroduction>
+                <item id="section-2.13.list10.H">
+                  <num>(H)</num>
+                  <blockList id="section-2.13.list10.H.list0">
+                    <listIntroduction>not being more than six kilometres, from the local limits of any municipality or cantonment board referred to in item (a) and which has a population of more than one lakh but not exceeding ten lakh; or</listIntroduction>
+                    <item id="section-2.13.list10.H.list0.HI">
+                      <num>(HI)</num>
+                      <p>not being more than eight kilometres, from the local limits of any municipality or cantonment board referred to in item (a) and which has a population of more than ten lakh.</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-2.13.list12">
+                <listIntroduction>Explanation.—For the purposes of this sub-clause, "population" means the population according to the last preceding census of which the relevant figures have been published before the first day of the previous year;</listIntroduction>
+                <item id="section-2.13.list12.iv">
+                  <num>(iv)</num>
+                  <p>6I/2 per cent. Gold Bonds, 1977, or 7 per cent. Gold Bonds, 1980, or National Defence Gold Bonds, 1980, issued by the Central Government;</p>
+                </item>
+                <item id="section-2.13.list12.v">
+                  <num>(v)</num>
+                  <p>Special Bearer Bonds, 1991, issued by the Central Government;</p>
+                </item>
+                <item id="section-2.13.list12.vi">
+                  <num>(vi)</num>
+                  <p>Gold Deposit Bonds issued under the Gold Deposit Scheme, 1999, notified by the Central Government; Explanation.—For the removal of doubts, it is hereby clarified</p>
+                </item>
+              </blockList>
+              <p>that "property" includes and shall be deemed to have always included any rights in or in relation to an Indian company, including rights of management or control or any other rights whatsoever;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.15">
+            <num>(15)</num>
+            <content>
+              <p>"charitable purpose" includes relief of the poor, education, yoga, medical relief, °preservation of environment (including watersheds,</p>
+              <blockList id="section-2.15.list2">
+                <listIntroduction>forests and wildlife) and preservation of monuments or places or objects of artistic or historic interest, and the advancement of any other object of general public utility:</listIntroduction>
+                <item id="section-2.15.list2.i">
+                  <num>(i)</num>
+                  <p>Provided that the advancement of any other object of general public utility shall not be a charitable purpose, if it involves the carrying on of any activity in the nature of trade, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business, for a cess or fee or any other consideration, irrespective of the nature of use or application, or retention, of the income from such activity, unless—such activity is undertaken in the course of actual carrying out of such advancement of any other object of general public utility; and</p>
+                </item>
+                <item id="section-2.15.list2.ii">
+                  <num>(ii)</num>
+                  <p>the aggregate receipts from such activity or activities during the previous year, do not exceed twenty per cent. of the total receipts, of the trust or institution undertaking such activity or activities, of that previous year;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.15A">
+            <num>(15A)</num>
+            <content>
+              <p>"Chief Commissioner" means a person appointed to be a Chief Commissioner of Income-tax or a Principal Chief Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.15B">
+            <num>(15B)</num>
+            <content>
+              <p>"child", in relation to an individual, includes a step-child and an adopted child of that individual;</p>
+              <p>"Commissioner" means a person appointed to be a Commissioner of Income-tax or a Director of Income-tax or a Principal Commissioner</p>
+              <p>of Income-tax or a Principal Director of Income-tax under sub-section (1) of section 117;</p>
+              <blockList id="section-2.15B.list4">
+                <listIntroduction>'(16A) "Commissioner (Appeals)" means a person appointed to be a Commissioner of Income-tax (Appeals) under sub-section (1) of section 117;</listIntroduction>
+                <item id="section-2.15B.list4.i">
+                  <num>(i)</num>
+                  <p>(17) "company" means—any Indian company, or</p>
+                </item>
+                <item id="section-2.15B.list4.ii">
+                  <num>(ii)</num>
+                  <p>any body corporate incorporated by or under the laws of a country outside India, or</p>
+                </item>
+                <item id="section-2.15B.list4.iii">
+                  <num>(iii)</num>
+                  <p>any institution, association or body which is or was assessable or was assessed as a company for any assessment year under the Indian Income-tax Act, 1922 (11 of 1922), or which is or was assessable or was assessed under this Act as a company for any assessment year commencing on or before the 1st day of April, 1970, or</p>
+                </item>
+                <item id="section-2.15B.list4.iv">
+                  <num>(iv)</num>
+                  <p>any institution, association or body, whether incorporated or not and whether Indian or non-Indian, which is declared by general or special order of the Board to be a company:</p>
+                </item>
+              </blockList>
+              <p>Provided that such institution, association or body shall be deemed to be a company only for such assessment year or assessment years (whether commencing before the 1st day of April, 1971, or on or after that date) as may be specified in the declaration;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.18">
+            <num>(18)</num>
+            <content>
+              <blockList id="section-2.18.list1">
+                <listIntroduction>"company in which the public are substantially interested"—A company is said to be a company in which the public are substantially interested (a) if it is a company owned by the Government or the Reserve Bank of India or in which not less than forty per cent of the shares are held (whether singly or taken together) by the Government or the Reserve Bank of India or a corporation owned by that bank; or</listIntroduction>
+                <item id="section-2.18.list1.aa">
+                  <num>(aa)</num>
+                  <p>if it is a company which is registered under section 25 of the Companies Act, 1956 (1 of 1956); or</p>
+                </item>
+                <item id="section-2.18.list1.ab">
+                  <num>(ab)</num>
+                  <p>if it is a company having no share capital and if, having regard to its objects, the nature and composition of its membership and other relevant considerations, it is declared by order of the Board to be a company in which the public are substantially interested: Provided that such company shall be deemed to be a company in which the public are substantially interested only for such assessment year or assessment years (whether commencing before the 1st day of April, 1971, or on or after that date) as may be specified in the declaration; or</p>
+                </item>
+                <item id="section-2.18.list1.ac">
+                  <num>(ac)</num>
+                  <p>if it is a mutual benefit finance company, that is to say, a company which carries on, as its principal business, the business of acceptance of deposits from its members and which</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.18.list3">
+                <listIntroduction>is declared by the Central Government under section 620A of the Companies Act, 1956 (1 of 1956), to be a Nidhi or Mutual Benefit Society; or</listIntroduction>
+                <item id="section-2.18.list3.ad">
+                  <num>(ad)</num>
+                  <p>if it is a company, wherein shares (not being shares entitled to a fixed rate of dividend whether with or without a further right to participate in profits) carrying not less than fifty per cent., of the voting power have been allotted unconditionally to, or acquired unconditionally by, and were throughout the relevant previous year beneficially held by, one or more co-operative societies; (b) if it is a company which is not a private company as defined in the Companies Act, 1956 (1 of 1956), and the conditions specified either in item (A) or in item (B) are fulfilled, namely:—(A) shares in the company (not being shares entitled to a fixed rate of dividend whether with or without a further right to participate in profits) were, as on the last day of the relevant previous year, listed in a recognised stock exchange in India in accordance with the Securities Contracts (Regulation) Act, 1956 (42 of 1956), and any rules made thereunder;</p>
+                </item>
+                <item id="section-2.18.list3.a">
+                  <num>(a)</num>
+                </item>
+                <item id="section-2.18.list3.B">
+                  <num>(B)</num>
+                  <p>shares in the company (not being shares entitled to a fixed rate of dividend whether with or without a further right to participate in profits) carrying not less than fifty per cent. of the voting power have been allotted unconditionally to, or acquired unconditionally by, and were throughout the relevant previous year beneficially held by—the Government, or</p>
+                </item>
+                <item id="section-2.18.list3.b">
+                  <num>(b)</num>
+                  <p>a corporation established by a Central, State or Provincial Act, or</p>
+                </item>
+                <item id="section-2.18.list3.c">
+                  <num>(c)</num>
+                  <p>any company to which this clause applies or any subsidiary company of such company if the whole of the share capital of such subsidiary company has been held by the parent company or by its nominees throughout the previous year.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—In its application to an Indian company whose business consists mainly in the construction of ships or in the manufacture or processing of goods or in mining or in the generation or distribution of electricity or any other form of power, item (B) shall have effect as if for the words "not less than fifty per cent.", the words "not less than forty per cent." had been substituted;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.19">
+            <num>(19)</num>
+            <content>
+              <p>"co-operative society" means a co-operative society registered under the Co-operative Societies Act, 1912 (2 of 1912), or under any other law for the time being in force in any State for the registration of co-operative societies;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.19A">
+            <num>(19A)</num>
+            <content>
+              <p>"Deputy Commissioner" means a person appointed to be a Deputy Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.19AA">
+            <num>(19AA)</num>
+            <content>
+              <blockList id="section-2.19AA.list1">
+                <listIntroduction>"demerger", in relation to companies, means the transfer, pursuant to a scheme of arrangement under sections 391 to 394 of the Companies Act, 1956 (1 of 1956), by a demerged company of its one or more undertakings to any resulting company in such a manner that—</listIntroduction>
+                <item id="section-2.19AA.list1.i">
+                  <num>(i)</num>
+                  <p>all the property of the undertaking, being transferred by the demerged company, immediately before the demerger, becomes the property of the resulting company by virtue of the demerger;</p>
+                </item>
+                <item id="section-2.19AA.list1.ii">
+                  <num>(ii)</num>
+                  <p>all the liabilities relatable to the undertaking, being transferred by the demerged company, immediately before the demerger, become the liabilities of the resulting company by virtue of the demerger;</p>
+                </item>
+                <item id="section-2.19AA.list1.iii">
+                  <num>(iii)</num>
+                  <p>the property and the liabilities of the undertaking or undertakings being transferred by the demerged company are transferred at values appearing in its books of account immediately before the demerger;</p>
+                </item>
+                <item id="section-2.19AA.list1.iv">
+                  <num>(iv)</num>
+                  <p>the resulting company issues, in consideration of the demerger, its shares to the shareholders of the demerged company on a proportionate basis except where the resulting company itself is a shareholder of the demerged company;</p>
+                </item>
+                <item id="section-2.19AA.list1.v">
+                  <num>(v)</num>
+                  <p>the shareholders holding not less than three-fourths in value of the shares in the demerged company (other than shares already held therein immediately before the demerger, or by a nominee for, the resulting company or, its subsidiary) become shareholders of the resulting company or companies by virtue of the demerger,</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.19AA.list3">
+                <listIntroduction>otherwise than as a result of the acquisition of the property or assets of the demerged company or any undertaking thereof by the resulting company;</listIntroduction>
+                <item id="section-2.19AA.list3.vi">
+                  <num>(vi)</num>
+                  <p>the transfer of the undertaking is on a going concern basis;</p>
+                </item>
+                <item id="section-2.19AA.list3.vii">
+                  <num>(vii)</num>
+                  <p>the demerger is in accordance with the conditions, if any, notified under sub-section (5) of section 72A by the Central Government in this behalf.</p>
+                </item>
+              </blockList>
+              <p>Explanation 1.—For the purposes of this clause, "undertaking" shall include any part of an undertaking, or a unit or division of an undertaking or a business activity taken as a whole, but does not include individual assets or liabilities or any combination thereof not constituting a business activity.</p>
+              <blockList id="section-2.19AA.list6">
+                <listIntroduction>Explanation 2.—For the purposes of this clause, the liabilities referred to in sub-clause (ii), shall include</listIntroduction>
+                <item id="section-2.19AA.list6.a">
+                  <num>(a)</num>
+                  <p>Sec. the liabilities which arise out of the activities or operations of the undertaking;</p>
+                </item>
+                <item id="section-2.19AA.list6.b">
+                  <num>(b)</num>
+                  <p>the specific loans or borrowings (including debentures) raised, incurred and utilised solely for the activities or operations of the undertaking; and</p>
+                </item>
+                <item id="section-2.19AA.list6.c">
+                  <num>(c)</num>
+                  <p>in cases, other than those referred to in clause (a) or clause (b), so much of the amounts of general or multipurpose borrowings, if any, of the demerged company as stand in the same proportion which the value of the assets transferred in a demerger bears to the total value of the assets of such demerged company immediately before the demerger.</p>
+                </item>
+              </blockList>
+              <p>Explanation 3.—For determining the value of the property referred to in sub-clause (iii), any change in the value of assets consequent to their revaluation shall be ignored.</p>
+              <p>Explanation 4.—For the purposes of this clause, the splitting up or the reconstruction of any authority or a body constituted or established under a Central, State or Provincial Act, or a local authority or a public sector company, into separate authorities or bodies or local authorities or companies, as the case may be, shall be deemed to be a demerger if such split up or reconstruction fulfils such conditions as may be notified in the Official Gazette, by the Central Government;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.19AAA">
+            <num>(19AAA)</num>
+            <content>
+              <p>"demerged company" means the company whose undertaking is transferred, pursuant to a demerger, to a resulting company;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.19B">
+            <num>(19B)</num>
+            <content>
+              <p>"Deputy Commissioner (Appeals)" means a person appointed to be a Deputy Commissioner of Income-tax (Appeals) or an Additional Commissioner of Income-tax (Appeals) under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.19C">
+            <num>(19C)</num>
+            <content>
+              <p>"Deputy Director" means a person appointed to be a Deputy Director</p>
+              <p>of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.20">
+            <num>(20)</num>
+            <content>
+              <p>"director", "manager" and "managing agent", in relation to a company, have the meanings respectively assigned to them in the Companies Act, 1956 (1 of 1956);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.21">
+            <num>(21)</num>
+            <content>
+              <p>"Director General or Director" means a person appointed to be a Director General of Income-tax or a Principal Director General of Income-tax or, as the case may be, a Director of Income-tax or a Principal Director of Income-tax, under sub-section (1) of section 117,</p>
+              <p>and includes a person appointed under that sub-section to be an Additional Director of Income-tax or a Joint Director of Income-tax or</p>
+              <blockList id="section-2.21.list3">
+                <listIntroduction>an Assistant Director or Deputy Director of Income-tax;</listIntroduction>
+                <item id="section-2.21.list3.a">
+                  <num>(a)</num>
+                  <p>(22) "dividend" includes—any distribution by a company of accumulated profits, whether capitalised or not, if such distribution entails the release by the company to its shareholders of all or any part of the assets of the company;</p>
+                </item>
+                <item id="section-2.21.list3.b">
+                  <num>(b)</num>
+                  <p>any distribution to its shareholders by a company of debentures, debenture-stock, or deposit certificates in any form, whether with or without interest, and any distribution to its preference shareholders of shares, by way of bonus, to the extent to which the company possesses accumulated profits, whether capitalised or not;</p>
+                </item>
+                <item id="section-2.21.list3.c">
+                  <num>(c)</num>
+                  <p>any distribution made to the shareholders of a company on its liquidation, to the extent to which the distribution is attributable to the accumulated profits of the company immediately before its liquidation, whether capitalised or not;</p>
+                </item>
+                <item id="section-2.21.list3.d">
+                  <num>(d)</num>
+                  <p>any distribution to its shareholders by a company on the reduction of its capital, to the extent to which the company possesses accumulated profits which arose after the end of the previous year ending next before the 1st day of April, 1933, whether such accumulated profits have been capitalised or not;</p>
+                </item>
+                <item id="section-2.21.list3.e">
+                  <num>(e)</num>
+                  <p>any payment by a company, not being a company in which the public are substantially interested, of any sum (whether as representing a part of the assets of the company or otherwise) made after the 31st day of May, 1987, by way of advance or loan to a shareholder, being a person who is the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits) holding not less than ten per cent. of the voting power, or to any concern in which such shareholder is a member or a partner and in which he has a substantial interest (hereafter in this clause referred to as the said concern) or any payment by any such company on behalf, or for the individual benefit, of any such shareholder, to the extent to which the company in either case possesses accumulated profits;</p>
+                </item>
+              </blockList>
+              <p>but "dividend" does not include—(i) a distribution made in accordance with sub-clause (c) or sub-clause (d) in respect of any share issued for full cash</p>
+              <p>consideration, where the holder of the share is not entitled in the</p>
+              <blockList id="section-2.21.list7">
+                <listIntroduction>event of liquidation to participate in the surplus assets;</listIntroduction>
+                <item id="section-2.21.list7.ia">
+                  <num>(ia)</num>
+                  <p>a distribution made in accordance with sub-clause (c) or</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.21.list9">
+                <listIntroduction>sub-clause (d) in so far as such distribution is attributable to the capitalised profits of the company representing bonus shares allotted to its equity shareholders after the 31st day of March, 1964, and before the 1st day of April, 1965;</listIntroduction>
+                <item id="section-2.21.list9.ii">
+                  <num>(ii)</num>
+                  <p>any advance or loan made to a shareholder or the said concern by a company in the ordinary course of its business, where the lending of money is a substantial part of the business of the company;</p>
+                </item>
+                <item id="section-2.21.list9.iii">
+                  <num>(iii)</num>
+                  <p>any dividend paid by a company which is set off by the company against the whole or any part of any sum previously paid by it and treated as a dividend within the meaning of sub-clause (c), to the extent to which it is so set off;</p>
+                </item>
+                <item id="section-2.21.list9.iv">
+                  <num>(iv)</num>
+                  <p>any payment made by a company on purchase of its own shares from a shareholder in accordance with the provisions of section 77A of the Companies Act, 1956 (1 of 1956);</p>
+                </item>
+                <item id="section-2.21.list9.v">
+                  <num>(v)</num>
+                  <p>any distribution of shares pursuant to a demerger by the resulting company to the shareholders of the demerged company (whether or not there is a reduction of capital in the demerged company); Explanation 1.—The expression "accumulated profits", wherever it occurs in this clause, shall not include capital gains arising before the 1st day of April, 1946, or after the 31st day of March, 1948, and before the 1st day of April, 1956;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.21.list11">
+                <listIntroduction>Explanation 2.—The expression "accumulated profits", in sub-clauses (a), (b), (d) and (e), shall include all profits of the company up to the date of distribution or payment referred to in those sub-clauses, and in sub-clause (c) shall include all profits of the company up to the date of liquidation, but shall not, where the liquidation is consequent on the compulsory acquisition of its undertaking by the Government or a corporation owned or controlled by the Government under any law for the time being in force, include any profits of the company prior to three successive previous years immediately preceding the previous year in which such acquisition took place;</listIntroduction>
+                <item id="section-2.21.list11.a">
+                  <num>(a)</num>
+                  <p>Explanation 3.—For the purposes of this clause,—"concern" means a Hindu undivided family, or a firm or an association of persons or a body of individuals or a company;</p>
+                </item>
+                <item id="section-2.21.list11.b">
+                  <num>(b)</num>
+                  <p>a person shall be deemed to have a substantial interest in a concern, other than a company, if he is, at any time during the previous year, beneficially entitled to not less than twenty per cent. of the income of such concern;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.22A">
+            <num>(22A)</num>
+            <content>
+              <p>"domestic company" means an Indian company, or any other company which, in respect of its income liable to tax under this Act, has made the prescribed arrangements for the declaration and payment, within India, of the dividends (including dividends on preference shares) payable out of such income;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.22AA">
+            <num>(22AA)</num>
+            <content>
+              <p>"document" includes an electronic record as defined in clause (t) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.22AAA">
+            <num>(22AAA)</num>
+            <content>
+              <p>"electoral trust" means a trust so approved by the Board in accordance with the scheme made in this regard by the Central Government;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.22B">
+            <num>(22B)</num>
+            <content>
+              <blockList id="section-2.22B.list1">
+                <listIntroduction>"fair market value", in relation to a capital asset, means—(i) the price that the capital asset would ordinarily fetch on sale in the open market on the relevant date; and</listIntroduction>
+                <item id="section-2.22B.list1.ii">
+                  <num>(ii)</num>
+                  <p>where the price referred to in sub-clause (i) is not ascertainable, such price as may be determined in accordance with the rules made under this Act;</p>
+                </item>
+                <item id="section-2.22B.list1.i">
+                  <num>(i)</num>
+                  <p>"firm" shall have the meaning assigned to it in the Indian Partnership Act, 1932 (9 of 1932), and shall include a limited liability partnership as defined in the Limited Liability Partnership Act, 2008 (6 of 2009);</p>
+                </item>
+                <item id="section-2.22B.list1.a">
+                  <num>(a)</num>
+                  <p>"partner" shall have the meaning assigned to it in the Indian Partnership Act, 1932 (9 of 1932), and shall include,—any person who, being a minor, has been admitted to the benefits of partnership; and</p>
+                </item>
+                <item id="section-2.22B.list1.b">
+                  <num>(b)</num>
+                  <p>a partner of a limited liability partnership as defined in the Limited Liability Partnership Act, 2008 (6 of 2009);</p>
+                </item>
+                <item id="section-2.22B.list1.iii">
+                  <num>(iii)</num>
+                  <p>"partnership" shall have the meaning assigned to it in the Indian Partnership Act, 1932 (9 of 1932), and shall include a limited liability partnership as defined in the Limited Liability Partnership Act, 2008 (6 of 2009);</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.23A">
+            <num>(23A)</num>
+            <content>
+              <p>"foreign company" means a company which is not a domestic company;</p>
+              <p>Sec. 2 -(23B) "fringe benefits" means any fringe benefits referred in section 115WB;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.24">
+            <num>(24)</num>
+            <content>
+              <blockList id="section-2.24.list1">
+                <listIntroduction>"income" includes—</listIntroduction>
+                <item id="section-2.24.list1.i">
+                  <num>(i)</num>
+                  <p>profits and gains;</p>
+                </item>
+                <item id="section-2.24.list1.ii">
+                  <num>(ii)</num>
+                  <p>dividend;</p>
+                </item>
+                <item id="section-2.24.list1.iia">
+                  <num>(iia)</num>
+                  <p>voluntary contributions received by a trust created wholly or partly for charitable or religious purposes or by an institution established wholly or partly for such purposes, or by an association or institution referred to in clause (21) or clause (23), or by a fund or trust or institution referred to in sub-clause (iv) or sub-clause (v) or by any university or other educational institution referred to in sub-clause (vi) or by any hospital or other institution referred to in sub-clause (via) of clause (23C), of section 10 or by an electoral trust;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.24.list3">
+                <listIntroduction>Explanation.—For the purposes of this sub-clause, "trust" includes any other legal obligation;</listIntroduction>
+                <item id="section-2.24.list3.iii">
+                  <num>(iii)</num>
+                  <p>the value of any perquisite or profit in lieu of salary taxable under clauses (2) and (3) of section 17;</p>
+                </item>
+                <item id="section-2.24.list3.iiia">
+                  <num>(iiia)</num>
+                  <p>any special allowance or benefit, other than perquisite included under sub-clause (iii), specifically granted to the assessee to meet expenses wholly, necessarily and exclusively for the performance of the duties of an office or employment of profit;</p>
+                </item>
+                <item id="section-2.24.list3.iiib">
+                  <num>(iiib)</num>
+                  <p>any allowance granted to the assessee either to meet his personal expenses at the place where the duties of his office or employment of profit are ordinarily performed by him or at a place where he ordinarily resides or to compensate him for the increased cost of living;</p>
+                </item>
+                <item id="section-2.24.list3.iv">
+                  <num>(iv)</num>
+                  <p>the value of any benefit or perquisite, whether convertible into money or not, obtained from a company either by a director or by a person who has a substantial interest in the company, or by a relative of the director or such person, and any sum paid by any such company in respect of any obligation which, but for such payment, would have been payable by the director or other person aforesaid;</p>
+                </item>
+                <item id="section-2.24.list3.iva">
+                  <num>(iva)</num>
+                  <p>the value of any benefit or perquisite, whether convertible into money or not, obtained by any representative assessee mentioned in clause (iii) or clause (iv) of sub-section (1) of section 160 or by any person on whose behalf or for whose benefit any income is receivable by the representative assessee (such person being hereafter in this sub-clause referred to as the "beneficiary") and any sum paid by the representative assessee in respect of any obligation which, but for such payment, would have been payable by the beneficiary;</p>
+                </item>
+                <item id="section-2.24.list3.v">
+                  <num>(v)</num>
+                  <p>any sum chargeable to income-tax under clauses (ii) and (iii) of section 28 or section 41 or section 59;</p>
+                </item>
+                <item id="section-2.24.list3.va">
+                  <num>(va)</num>
+                  <p>any sum chargeable to income-tax under clause (iiia) of section 28;</p>
+                </item>
+                <item id="section-2.24.list3.vb">
+                  <num>(vb)</num>
+                  <p>any sum chargeable to income-tax under clause (iiib) of section 28;</p>
+                </item>
+                <item id="section-2.24.list3.vc">
+                  <num>(vc)</num>
+                  <p>any sum chargeable to income-tax under clause (iiic) of section 28;</p>
+                </item>
+                <item id="section-2.24.list3.vd">
+                  <num>(vd)</num>
+                  <p>the value of any benefit or perquisite taxable under clause (iv) of section 28;</p>
+                </item>
+                <item id="section-2.24.list3.ve">
+                  <num>(ve)</num>
+                  <p>any sum chargeable to income-tax under clause (v) of section 28;</p>
+                </item>
+                <item id="section-2.24.list3.vi">
+                  <num>(vi)</num>
+                  <p>any capital gains chargeable under section 45;</p>
+                </item>
+                <item id="section-2.24.list3.vii">
+                  <num>(vii)</num>
+                  <p>the profits and gains of any business of insurance carried on by a mutual insurance company or by a co-operative society, computed in accordance with section 44 or any surplus taken to be such profits and gains by virtue of provisions contained in the First Schedule;</p>
+                </item>
+                <item id="section-2.24.list3.viia">
+                  <num>(viia)</num>
+                  <p>the profits and gains of any business of banking (including providing credit facilities) carried on by a co-operative society with its members;</p>
+                </item>
+                <item id="section-2.24.list3.ix">
+                  <num>(ix)</num>
+                  <p>any winnings from lotteries, crossword puzzles, races including horse races, card games and other games of any sort or from gambling or betting of any form or nature whatsoever; Explanation.—For the purposes of this sub-clause,—(i) "lottery" includes winnings, from prizes awarded to any person by draw of lots or by chance or in any other manner</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.24.list5">
+                <listIntroduction>whatsoever, under any scheme or arrangement whatever name called;</listIntroduction>
+                <item id="section-2.24.list5.ii">
+                  <num>(ii)</num>
+                  <p>"card game and other game of any sort" includes any game show, an entertainment programme on television or electronic mode, in which people compete to win prizes or any other similar game;</p>
+                </item>
+                <item id="section-2.24.list5.x">
+                  <num>(x)</num>
+                  <p>any sum received by the assessee from his employees as contributions to any provident fund or superannuation fund or any fund set up under the provisions of the Employees' State Insurance Act, 1948 (34 of 1948), or any other fund for the welfare of such employees;</p>
+                </item>
+                <item id="section-2.24.list5.xi">
+                  <num>(xi)</num>
+                  <p>any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy. Explanation.—For the purposes of this clause, the expression "Keyman insurance policy" shall have the meaning assigned to it in the Explanation to clause (10D) of section 10;</p>
+                </item>
+                <item id="section-2.24.list5.xii">
+                  <num>(xii)</num>
+                  <p>any sum referred to in clause (va) of section 28;</p>
+                </item>
+                <item id="section-2.24.list5.xiii">
+                  <num>(xiii)</num>
+                  <p>any sum referred to in clause (v) of sub-section (2) of section 56; (xiv) any sum referred to in clause (vi) of sub-section (2) of section 56; (xv) any sum of money or value of property referred to in clause (vii) or clause (viia) of sub-section (2) of section 56;</p>
+                </item>
+                <item id="section-2.24.list5.xvi">
+                  <num>(xvi)</num>
+                  <p>any consideration received for issue of shares as exceeds the fair market value of the shares referred to in clause (viib) of sub¬section (2) of section 56;</p>
+                </item>
+              </blockList>
+              <blockList id="section-2.24.list7">
+                <listIntroduction>sum of money referred to in clause (ix) of sub-section (2) of section 56;</listIntroduction>
+                <item id="section-2.24.list7.xviii">
+                  <num>(xviii)</num>
+                  <p>assistance in the form of a subsidy or grant or cash incentive or duty drawback or waiver or concession or reimbursement (by whatever name called) by the Central Government or a State Government or any authority or body or agency in cash or kind to the assessee other than the subsidy or grant or reimbursement which is taken into account for determination of the actual cost of the asset in accordance with the provisions of Explanation 10 to clause (1) of section 43;</p>
+                </item>
+              </blockList>
+              <p>"Income-tax Officer" means a person appointed to be an Income-tax Officer under section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.25A">
+            <num>(25A)</num>
+            <content>
+              <blockList id="section-2.25A.list1">
+                <listIntroduction>"India" means the territory of India as referred to in article 1 of the Constitution, its territorial waters, seabed and subsoil underlying such waters, continental shelf, exclusive economic zone or any other maritime zone as referred to in the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976 (80 of 1976), and the air space above its territory and territorial waters;</listIntroduction>
+                <item id="section-2.25A.list1.i">
+                  <num>(i)</num>
+                  <p>(26) "Indian company" means a company formed and registered under the Companies Act, 1956 (1 of 1956), and includes—a company formed and registered under any law relating to companies formerly in force in any part of India (other than the State of Jammu and Kashmir and the Union Territories specified in sub-clause (iii) of this clause);</p>
+                </item>
+                <item id="section-2.25A.list1.ia">
+                  <num>(ia)</num>
+                  <p>a corporation established by or under a Central, State or Provincial Act;</p>
+                </item>
+                <item id="section-2.25A.list1.ib">
+                  <num>(ib)</num>
+                  <p>any institution, association or body which is declared by the Board to be a company under clause (17);</p>
+                </item>
+                <item id="section-2.25A.list1.ii">
+                  <num>(ii)</num>
+                  <p>in the case of the State of Jammu and Kashmir, a company formed and registered under any law for the time being in force in that State;</p>
+                </item>
+                <item id="section-2.25A.list1.iii">
+                  <num>(iii)</num>
+                  <p>in the case of any of the Union Territories of Dadra and Nagar Haveli, Goa, Daman and Diu and Pondicherry, a company formed and registered under any law for the time being in force in that Union Territory:</p>
+                </item>
+              </blockList>
+              <p>Provided that the registered or, as the case may be, principal office of the company, corporation, institution, association or body in all cases is in India;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.26A">
+            <num>(26A)</num>
+            <content>
+              <p>"infrastructure capital company" means such company which makes investments by way of acquiring shares or providing long-term finance to any enterprise or undertaking wholly engaged in the business referred to in sub-section (4) of section 80-IA or sub-section (1) of section 80-IAB or an undertaking developing and building a housing project referred to in sub-section (10) of section 80-IB or a project for constructing a hotel of not less than three-star category as</p>
+              <p>Sec. 2 classified by the Central Government or a project for constructing a hospital with at least one hundred beds for patients;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.26B">
+            <num>(26B)</num>
+            <content>
+              <p>"infrastructure capital fund" means such fund operating under a trust deed registered under the provisions of the Registration Act, 1908 (16 of 1908) established to raise monies by the trustees for investment by way of acquiring shares or providing long-term finance to any enterprise or undertaking wholly engaged in the business referred to in sub-section (4) of section 80-IA or sub-section (1) of section 80-IAB or an undertaking developing and building a housing project referred to in sub-section (10) of section 80-IB or a project for constructing a hotel of not less than three-star category as classified by the Central Government or a project for constructing a hospital with at least one hundred beds for patients;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.28">
+            <num>(28)</num>
+            <content>
+              <p>"Inspector of Income-tax" means a person appointed to be an Inspector of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.28A">
+            <num>(28A)</num>
+            <content>
+              <p>"interest" means interest payable in any manner in respect of any moneys borrowed or debt incurred (including a deposit, claim or other similar right or obligation) and includes any service fee or other charge in respect of the moneys borrowed or debt incurred or in respect of any credit facility which has not been utilised;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.28B">
+            <num>(28B)</num>
+            <content>
+              <blockList id="section-2.28B.list1">
+                <listIntroduction>"interest on securities" means,—</listIntroduction>
+                <item id="section-2.28B.list1.i">
+                  <num>(i)</num>
+                  <p>interest on any security of the Central Government or a State Government;</p>
+                </item>
+                <item id="section-2.28B.list1.ii">
+                  <num>(ii)</num>
+                  <p>interest on debentures or other securities for money issued by or on behalf of a local authority or a company or a corporation established by a Central, State or Provincial Act;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.28BB">
+            <num>(28BB)</num>
+            <content>
+              <p>"insurer" means an insurer being an Indian insurance company, as defined under clause (7A) of section 2 of the Insurance Act, 1938 (4 of 1938), which has been granted a certificate of registration under section 3 of that Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.28C">
+            <num>(28C)</num>
+            <content>
+              <p>"Joint Commissioner" means a person appointed to be a Joint Commissioner of Income-tax or an Additional Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.28D">
+            <num>(28D)</num>
+            <content>
+              <p>"Joint Director" means a person appointed to be a joint Director of Income-tax or an Additional Director of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.29">
+            <num>(29)</num>
+            <content>
+              <p>"legal representative" has the meaning assigned to it in clause (11) of</p>
+              <p>section 2 of the Code of Civil Procedure, 1908 (5 of 1908);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.29A">
+            <num>(29A)</num>
+            <content>
+              <p>"long-term capital asset" means a capital asset which is not a short-term capital asset;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.29B">
+            <num>(29B)</num>
+            <content>
+              <p>"long-term capital gain" means capital gain arising from the transfer of a long-term capital asset;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.29BA">
+            <num>(29BA)</num>
+            <content>
+              <blockList id="section-2.29BA.list1">
+                <listIntroduction>"manufacture", with its grammatical variations, means a change in a non-living physical object or article or thing,—</listIntroduction>
+                <item id="section-2.29BA.list1.a">
+                  <num>(a)</num>
+                  <p>resulting in transformation of the object or article or thing into a new and distinct object or article or thing having a different name, character and use; or</p>
+                </item>
+                <item id="section-2.29BA.list1.b">
+                  <num>(b)</num>
+                  <p>bringing into existence of a new and distinct object or article or thing with a different chemical composition or integral structure; (29C) "maximum marginal rate" means the rate of income-tax (including surcharge on income-tax, if any) applicable in relation to the highest slab of income in the case of an individual, association of persons or, as the case may be, body of individuals as specified in the Finance Act of the relevant year;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.29D">
+            <num>(29D)</num>
+            <content>
+              <p>"National Tax Tribunal" means the National Tax Tribunal established under section 3 of the National Tax Tribunal Act, 2005 (49 of 2005);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.30">
+            <num>(30)</num>
+            <content>
+              <p>"non-resident" means a person who is not a "resident" , and for the purposes of sections 92, 93 and 168, includes a person who is not ordinarily resident within the meaning of clause (6) of section 6;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.31">
+            <num>(31)</num>
+            <content>
+              <blockList id="section-2.31.list1">
+                <listIntroduction>"person" includes—</listIntroduction>
+                <item id="section-2.31.list1.i">
+                  <num>(i)</num>
+                  <p>an individual,</p>
+                </item>
+                <item id="section-2.31.list1.ii">
+                  <num>(ii)</num>
+                  <p>a Hindu undivided family,</p>
+                </item>
+                <item id="section-2.31.list1.iii">
+                  <num>(iii)</num>
+                  <p>a company,</p>
+                </item>
+                <item id="section-2.31.list1.iv">
+                  <num>(iv)</num>
+                  <p>a firm,</p>
+                </item>
+                <item id="section-2.31.list1.v">
+                  <num>(v)</num>
+                  <p>an association of persons or a body of individuals, whether incorporated or not,</p>
+                </item>
+                <item id="section-2.31.list1.vi">
+                  <num>(vi)</num>
+                  <p>a local authority, and</p>
+                </item>
+                <item id="section-2.31.list1.vii">
+                  <num>(vii)</num>
+                  <p>every artificial juridical person, not falling within any of the preceding sub-clauses;</p>
+                </item>
+              </blockList>
+              <p>Explanation.—For the purposes of this clause, an association of persons or a body of individuals or a local authority or an artificial juridical person shall be deemed to be a person, whether or not such person or body or authority or juridical person was formed or established or incorporated with the object of deriving income, profits or gains;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.32">
+            <num>(32)</num>
+            <content>
+              <p>"person who has a substantial interest in the company" in relation to a company, means a person who is the beneficial owner of shares, not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits, carrying not less than twenty per cent. of the voting power;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.33">
+            <num>(33)</num>
+            <content>
+              <p>"prescribed" means prescribed by rules made under this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.34">
+            <num>(34)</num>
+            <content>
+              <p>"previous year" means the previous year as defined in section 3;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.34A">
+            <num>(34A)</num>
+            <content>
+              <p>"Principal Chief Commissioner of Income-tax" means a person appointed to be a Principal Chief Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.34B">
+            <num>(34B)</num>
+            <content>
+              <p>"Principal Commissioner of Income-tax" means a person appointed to be a Principal Commissioner of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.34C">
+            <num>(34C)</num>
+            <content>
+              <p>"Principal Director of Income-tax" means a person appointed to be a Principal Director of Income-tax under sub-section (1) of section 117;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.34D">
+            <num>(34D)</num>
+            <content>
+              <blockList id="section-2.34D.list1">
+                <listIntroduction>"Principal Director General of Income-tax" means a person appointed to be a Principal Director General of Income-tax under sub-section (1) of section 117;</listIntroduction>
+                <item id="section-2.34D.list1.a">
+                  <num>(a)</num>
+                  <p>(35) "principal officer", used with reference to a local authority or a company or any other public body or any association of persons or any body of individuals, means—the secretary, treasurer, manager, or agent of the authority, company, association or body, or</p>
+                </item>
+                <item id="section-2.34D.list1.b">
+                  <num>(b)</num>
+                  <p>any person connected with the management or administration of the local authority, company, association or body upon whom the Assessing Officer has served a notice of his intention of treating him as the principal officer thereof;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.36">
+            <num>(36)</num>
+            <content>
+              <p>"profession" includes vocation;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.36A">
+            <num>(36A)</num>
+            <content>
+              <p>"public sector company" means any corporation established by or under any Central, State or Provincial Act or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.37">
+            <num>(37)</num>
+            <content>
+              <p>"public servant" has the same meaning as in section 21 of the Indian Penal Code (45 of 1860);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.37A">
+            <num>(37A)</num>
+            <content>
+              <blockList id="section-2.37A.list1">
+                <listIntroduction>"rate or rates in force" or "rates in force", in relation to an assessment year or financial year, means—</listIntroduction>
+                <item id="section-2.37A.list1.i">
+                  <num>(i)</num>
+                  <p>for the purposes of calculating income-tax under the first proviso to sub-section (5) of section 132, or computing the income-tax chargeable under sub-section (4) of section 172 or sub-section (2) of section 174 or section 175 or sub-section (2) of section 176 or deducting income-tax under section 192 from income chargeable under the head "Salaries" or computation of the "advance tax" payable under Chapter XVIIC, in a case not falling under section 115A or section 115B or section 115BB or section 115BBB or section 115E or section 164 or section 164A or section 167B, the rate or rates of income-tax specified in this behalf in the Finance Act of the relevant year, and for the purposes of computation of the "advance tax" payable under Chapter XVIIC in a case falling under section 115A or section 115B or section 115BB or section 115BBB or section 115E or section 164 or section 164A or section 167B, the rate or rates specified in section 115A or section 115B or section 115BB or section 115BBB or section 115E or section 164 or section 164A or section 167B, as the case may be, or the rate or rates of income-tax specified in this behalf in the Finance Act of the relevant year, whichever is applicable;</p>
+                </item>
+                <item id="section-2.37A.list1.ii">
+                  <num>(ii)</num>
+                  <p>for the purposes of deduction of tax under sections 193, 194, 194A, 194B, 194BB and 194D, the rate or rates of income-tax specified in this behalf in the Finance Act of the relevant year;</p>
+                </item>
+                <item id="section-2.37A.list1.iii">
+                  <num>(iii)</num>
+                  <p>for the purposes of deduction of tax under section 194LBA or section 195, the rate or rates of income-tax specified in this behalf in the Finance Act of the relevant year or the rate or rates of income-tax specified in an agreement entered into by the Central Government under section 90, or an agreement notified by the Central Government under section 90A, whichever is applicable by virtue of the provisions of section 90, or section 90A, as the case may be;</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.38">
+            <num>(38)</num>
+            <content>
+              <p>"recognised provident fund" means a provident fund which has been and continues to be recognised by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner in accordance with the rules contained in Part A of the Fourth Schedule, and includes a provident fund established under a scheme framed under the Employees' Provident Funds Act, 1952 (19 of 1952);</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.40">
+            <num>(40)</num>
+            <content>
+              <p>"regular assessment" means the assessment made under sub-section (3) of section 143 or section 144;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.41">
+            <num>(41)</num>
+            <content>
+              <p>"relative", in relation to an individual, means the husband, wife, brother or sister or any lineal ascendant or descendant of that individual;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.41A">
+            <num>(41A)</num>
+            <content>
+              <p>"resulting company" means one or more companies (including a wholly owned subsidiary thereof) to which the undertaking of the demerged company is transferred in a demerger and, the resulting company in consideration of such transfer of undertaking, issues shares to the shareholders of the demerged company and includes any authority or body or local authority or public sector company or a company established, constituted or formed as a result of demerger;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.42">
+            <num>(42)</num>
+            <content>
+              <p>"resident" means a person who is resident in India within the meaning of section 6;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.42A">
+            <num>(42A)</num>
+            <content>
+              <p>"short-term capital asset" means a capital asset held by an assessee for not more than thirty-six months immediately preceding the date of its transfer:</p>
+              <p>Provided that in the case of a security (other than a unit) listed in a recognised stock exchange in India or a unit of the Unit Trust of India established under the Unit Trust of India Act, 1963 (52 of 1963), or a unit of an equity oriented fund or a zero coupon bond the provisions of this clause shall have effect as if for the words "thirty-six months", the words "twelve months" had been substituted.</p>
+              <blockList id="section-2.42A.list3">
+                <listIntroduction>Provided further that in case of a share of a company (not being a share listed in a recognized stock exchange) or a unit of Mutual Fund specified under clause (23D) of section 10, which is transferred during the period beginning on the 1st day of April, 2014 and ending on the 10th day of July, 2014, the provisions of this clause shall have effect as if for the words "thirty-six months", the words "tweleve months" had been substituted.</listIntroduction>
+                <item id="section-2.42A.list3.a">
+                  <num>(a)</num>
+                  <p>In determining the period for which any capital asset is held by the assessee—in the case of a share held in a company in liquidation, there shall be excluded the period subsequent to the date on which the company goes into liquidation;</p>
+                </item>
+                <item id="section-2.42A.list3.b">
+                  <num>(b)</num>
+                  <p>in the case of a capital asset which becomes the property of the</p>
+                </item>
+              </blockList>
+              <p>assessee in the circumstances mentioned in sub-section (1) of section 49, there shall be included the period for which the asset was held by the previous owner referred to in the said section;</p>
+              <p>ii(c) in the case of a capital asset, being a share or shares in an Indian</p>
+              <p>company, which becomes the property of the assessee in consideration of a transfer referred to in clause (vii) of section 47, there shall be included the period for which the share or shares in the amalgamating company were held by the assessee;</p>
+              <blockList id="section-2.42A.list8">
+                <listIntroduction>Explanation Explanation</listIntroduction>
+                <item id="section-2.42A.list8.d">
+                  <num>(d)</num>
+                  <p>Sec. in the case of a capital asset, being a share or any other security (hereafter in this clause referred to as the financial asset) subscribed to by the assessee on the basis of his right to subscribe to such financial asset or subscribed to by the person in whose favour the assessee has renounced his right to subscribe to such financial asset, the period shall be reckoned from the date of allotment of such financial asset;</p>
+                </item>
+                <item id="section-2.42A.list8.e">
+                  <num>(e)</num>
+                  <p>in the case of a capital asset, being the right to subscribe to any financial asset, which is renounced in favour of any other person, the period shall be reckoned from the date of the offer of such right by the company or institution, as the case may be, making such offer;</p>
+                </item>
+                <item id="section-2.42A.list8.f">
+                  <num>(f)</num>
+                  <p>in the case of a capital asset, being a financial asset, allotted without any payment and on the basis of holding of any other financial asset, the period shall be reckoned from the date of the allotment of such financial asset;</p>
+                </item>
+                <item id="section-2.42A.list8.g">
+                  <num>(g)</num>
+                  <p>in the case of a capital asset, being a share or shares in an Indian company, which becomes the property of the assessee in consideration of a demerger, there shall be included the period for which the share or shares held in the demerged company were held by the assessee;</p>
+                </item>
+                <item id="section-2.42A.list8.h">
+                  <num>(h)</num>
+                  <blockList id="section-2.42A.list8.h.list0">
+                    <listIntroduction>in the case of a capital asset, being trading or clearing rights of a recognised stock exchange in India acquired by a person pursuant to demutualisation or corporatisation of the recognised stock exchange in India as referred to in clause (xiii) of section 47, there shall be included the period for which the person was a member of the recognised stock exchange in India immediately prior to such demutualisation or corporatisation;</listIntroduction>
+                    <item id="section-2.42A.list8.h.list0.ha">
+                      <num>(ha)</num>
+                      <p>in the case of a capital asset, being equity share or shares in a company allotted pursuant to demutualisation or corporatisation of a recognised stock exchange in India as referred to in clause (xiii) of section 47, there shall be included the period for which the person was a member of the recognised stock exchange in India immediately prior to such demutualisation or corporatisation;</p>
+                    </item>
+                    <item id="section-2.42A.list8.h.list0.hb">
+                      <num>(hb)</num>
+                      <p>in the case of a capital asset, being any specified security or sweat equity shares allotted or transferred, directly or indirectly, by the employer free of cost or at concessional rate to his employees (including former employee or employees), the period shall be reckoned from the date of allotment or transfer of such specified security or sweat equity shares;</p>
+                    </item>
+                    <item id="section-2.42A.list8.h.list0.hc">
+                      <num>(hc)</num>
+                      <p>in the case of a capital asset, being a unit of a business trust, allotted pursuant to transfer of share or shares as referred to in clause (xvii) of section 47, there shall be included the period for which the share or shares were held by the assessee;</p>
+                    </item>
+                    <item id="section-2.42A.list8.h.list0.hd">
+                      <num>(hd)</num>
+                      <p>in the case of a capital asset, being a unit or units, which becomes the property of the assessee in consideration of a transfer referred to in clause (xviii) of section 47, there shall be included the period for which the unit or units in the consolidating scheme of the mutual fund were held by the assessee;</p>
+                    </item>
+                  </blockList>
+                </item>
+              </blockList>
+              <blockList id="section-2.42A.list10">
+                <listIntroduction>The) in the case of a capital asset, being share or shares of a company, which is acquired by the non-resident assessee on redemption of Global Depository Receipts referred to in clause (b) of sub-section (1) of section 115AC held by such assessee, the period shall be reckoned from the date on which a request for such redemption was made;</listIntroduction>
+                <item id="section-2.42A.list10.ii">
+                  <num>(ii)</num>
+                  <p>in respect of capital assets other than those mentioned in clause (i), the period for which any capital asset is held by the assessee shall be determined subject to any rules which the Board may make in this behalf;</p>
+                </item>
+              </blockList>
+              <p>Explanation 2.—For the purposes of this clause, the expression "security" shall have the meaning assigned to it in clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);</p>
+              <blockList id="section-2.42A.list13">
+                <listIntroduction>Explanation 3.—For the purposes of this clause, the expressions "specified security" and "sweat equity shares" shall have the meanings respectively assigned to them in the Explanation to clause</listIntroduction>
+                <item id="section-2.42A.list13.d">
+                  <num>(d)</num>
+                  <p>of sub-section (1) of section 115WB;</p>
+                </item>
+              </blockList>
+              <p>Explanation 4.—For the purposes of this clause, the expression "equity oriented fund" shall have the meaning assigned to it in the Explanation to clause (38) of section 10;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.42B">
+            <num>(42B)</num>
+            <content>
+              <p>"short-term capital gain" means capital gain arising from the transfer of a short-term capital asset;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.42C">
+            <num>(42C)</num>
+            <content>
+              <p>"slump sale" means the transfer of one or more undertakings as a result of the sale for a lump sum consideration without values being assigned to the individual assets and liabilities in such sales. Explanation 1.—For the purposes of this clause, "undertaking" shall have the meaning assigned to it in Explanation 1 to clause (19AA).</p>
+              <p>Explanation 2.—For the removal of doubts, it is hereby declared that the determination of the value of an asset or liability for the sole purpose of payment of stamp duty, registration fees or other similar taxes or fees shall not be regarded as assignment of values to individual assets or liabilities;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.43">
+            <num>(43)</num>
+            <content>
+              <p>"tax" in relation to the assessment year commencing on the 1st day of April, 1965, and any subsequent assessment year means</p>
+              <p>Sec. 2 income-tax chargeable under the provisions of this Act, and in relation to any other assessment year income-tax and super-tax chargeable under the provisions of this Act prior to the aforesaid date land in relation to the assessment year commencing or the 1st day of April, 2006, and any subsequent assessment year includes the fringe benefit tax payable under section 115WA;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.43A">
+            <num>(43A)</num>
+            <content>
+              <p>"tax credit certificate" means a tax credit certificate granted to any person in accordance with the provisions of Chapter XXII-B and any scheme made thereunder;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.44">
+            <num>(44)</num>
+            <content>
+              <p>"Tax Recovery Officer" means any Income-tax Officer who may be authorised by the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, by general or special order in writing, to exercise the powers of a Tax Recovery Officer and also to exercise or perform such powers and functions which are conferred on, or assigned to, an Assessing Officer under this Act and which may be prescribed;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.45">
+            <num>(45)</num>
+            <content>
+              <p>"total income" means the total amount of income referred to in</p>
+              <p>section 5, computed in the manner laid down in this Act;</p>
+            </content>
+          </subsection>
+          <subsection id="section-2.47">
+            <num>(47)</num>
+            <content>
+              <p>"transfer", in relation to a capital asset, includes,—</p>
+              <p>the sale, exchange or relinquishment of the asset; or</p>
+              <p>the extinguishment of any rights therein; or</p>
+              <p>the compulsory acquisition thereof under any law; or</p>
+              <p>in a case where the asset is converted by the owner thereof into, or is treated by him as, stock-in-trade of a business carried on by him, such conversion or treatment; or</p>
+              <p>the maturity or redemption of a zero coupon bond; or</p>
+              <p>any transaction involving the allowing of the possession of any immovable property to be taken or retained in part performance of a contract of the nature referred to in section 53A of the Transfer of Property Act, 1882 (4 of 1882); or (any transaction (whether by way of becoming a member of, or acquiring shares in, a co-operative society, company or other association of persons or by way of any agreement or any arrangement or in any other manner whatsoever) which has the effect of transferring, or enabling the enjoyment of, any immovable property:</p>
+              <p>Explanation 11.—For the purposes of sub-clauses (v) and (vi), "immovable property" shall have the same meaning as in clause (d) of section 269UA.</p>
+              <blockList id="section-2.47.list9">
+                <listIntroduction>Explanation 2.—For the removal of doubts, it is hereby clarified that "transfer" includes and shall be deemed to have always included disposing of or parting with an asset or any interest therein, or creating any interest in any asset in any manner whatsoever, directly or indirectly, absolutely or conditionally, voluntarily or involuntarily, by way of an agreement (whether entered into in India or outside India) or otherwise, notwithstanding that such transfer of rights has been characterised as being effected or dependent upon or flowing from the transfer of a share or shares of a company registered or incorporated outside India;</listIntroduction>
+                <item id="section-2.47.list9.a">
+                  <num>(a)</num>
+                  <p>(48) "Zero coupon bond" means a bond—issued by any infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank on or after the 1st day of June, 2005;</p>
+                </item>
+                <item id="section-2.47.list9.b">
+                  <num>(b)</num>
+                  <p>in respect of which no payment and benefit is received or receivable before maturity or redemption from infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank; and</p>
+                </item>
+                <item id="section-2.47.list9.c">
+                  <num>(c)</num>
+                  <p>which the Central Government may, by notification in the Official Gazette, specify in this behalf.</p>
+                </item>
+              </blockList>
+              <p>Explanation.—For the purposes of this clause, the expression "scheduled bank" shall have the meaning assigned to it in clause (ii) of the Explanation to sub-clause (c) of clause (viia) of sub-section (1) of section 36.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

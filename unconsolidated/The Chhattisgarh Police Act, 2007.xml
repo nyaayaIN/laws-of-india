@@ -1,0 +1,1471 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.akomantoso.org/2.0" xsi:schemaLocation="http://www.akomantoso.org/2.0 akomantoso20.xsd">
+  <act contains="originalVersion">
+    <meta>
+      <identification source="#slaw">
+        <FRBRWork>
+          <FRBRthis value="/in-chg/act/2007/13/main"/>
+          <FRBRuri value="/in-chg/act/2007/13"/>
+          <FRBRalias value="The Chhattisgarh Police Act, 2007"/>
+          <FRBRdate date="" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRcountry value="in"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/in-chg/act/2007/13/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-chg/act/2007/13/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-25" name="Generation"/>
+          <FRBRauthor href="#council"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/in-chg/act/2007/13/eng@2017-01-25/main"/>
+          <FRBRuri value="/in-chg/act/2007/13/eng@2017-01-25"/>
+          <FRBRdate date="2017-01-24" name="Generation"/>
+          <FRBRauthor href="#slaw"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="" name="" showAs="" number=""/>
+      <references source="#this">
+        <TLCOrganization id="slaw" href="https://github.com/longhotsummer/slaw" showAs="Slaw"/>
+        <TLCOrganization id="council" href="/ontology/organization/za/council" showAs="Council"/>
+      </references>
+    </meta>
+    <preface>
+      <p class="title">
+        <shortTitle>The Chhattisgarh Police Act, 2007</shortTitle>
+      </p>
+      <p class="number">
+        <docNumber>ACT NO. 13 OF 2007</docNumber>
+      </p>
+      <p class="DateOfEnactment">
+        <docDate>[28th September, 2007.]</docDate>
+      </p>
+      <longTitle>
+        <p>An Act to consolidate and amend the law relating to Police Force in the State of Chhattisgarh and</p>
+        <p>matters connected therewith and incidental thereto.</p>
+      </longTitle>
+      <preamble>
+        <formula name="EnactingText">
+          <p>BE it enacted by the Chhattisgarh State Legislature in the Fifty-eighth year of Republic of India as follows:-</p>
+        </formula>
+      </preamble>
+    </preface>
+    <body>
+      <chapter id="chapter-I">
+        <num>I</num>
+        <heading>Preliminary</heading>
+        <section id="section-1">
+          <num>1.</num>
+          <heading>Short title, extent and commencement.-</heading>
+          <subsection id="section-1.1">
+            <num>(1)</num>
+            <content>
+              <p>This Act may be called the Chhattisgarh Police Act, 2007.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.2">
+            <num>(2)</num>
+            <content>
+              <p>It shall come into force from the date of its publication in the Official Gazette.</p>
+            </content>
+          </subsection>
+          <subsection id="section-1.3">
+            <num>(3)</num>
+            <content>
+              <p>It extends to the whole of the State of Chhattisgarh, and to the police officers of the State of Chhattisgarh deployed outside the State.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-2">
+          <num>2.</num>
+          <heading>Definitions.-</heading>
+          <subsection id="section-2.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-2.1.list1">
+                <listIntroduction>In this Act, unless the context otherwise requires,-</listIntroduction>
+                <item id="section-2.1.list1.a">
+                  <num>(a)</num>
+                  <p>“Chief Secretary” means the Chief Secretary to the State Government;</p>
+                </item>
+                <item id="section-2.1.list1.b">
+                  <num>(b)</num>
+                  <p>“Director General of Police” means the officer appointed under section 12;</p>
+                </item>
+                <item id="section-2.1.list1.c">
+                  <num>(c)</num>
+                  <p>“District” means a revenue territory notified as a district under the Chhattisgarh Land Revenue Code, 1959 (No. 20 of 1959);</p>
+                </item>
+                <item id="section-2.1.list1.d">
+                  <num>(d)</num>
+                  <p>“District Magistrate” means District Magistrate appointed under sub-section (1) of section 20 of the Code of Criminal Procedure, 1973 (No. 2 of 1974);</p>
+                </item>
+                <item id="section-2.1.list1.e">
+                  <num>(e)</num>
+                  <p>“Moral Turpitude” means involvement in any crime which pertains to cheating, forgery, drugs, intoxication, rape, offending the modesty of a women, immoral trafficking, planned violence or any offence against the State Government;</p>
+                </item>
+                <item id="section-2.1.list1.f">
+                  <num>(f)</num>
+                  <p>“Outpost” means post within the jurisdiction of Police Station;</p>
+                </item>
+                <item id="section-2.1.list1.g">
+                  <num>(g)</num>
+                  <p>“Police District” means the territory notified as police district under this Act;</p>
+                </item>
+                <item id="section-2.1.list1.h">
+                  <num>(h)</num>
+                  <p>“Police Officer” means any member of the Police Force appointed under this Act or appointed before the commencement of this Act for the State and includes members of the Indian Police Service or members of any other police organization on deputation to the State Police, serving for the State and persons appointed under section 9 or 10 of this Act;</p>
+                </item>
+                <item id="section-2.1.list1.i">
+                  <num>(i)</num>
+                  <p>“Power of Superintendence” means and includes power of giving directions, guidance and instructions in all executive and administrative matters and also includes the power to annul, reverse, rescind or revise any administrative order issued in such matter by an authority under this Act, subject to the provisions pertaining to investigation as contained in the Code of Criminal Procedure, 1973 (No. 2 of 1974);</p>
+                </item>
+                <item id="section-2.1.list1.j">
+                  <num>(j)</num>
+                  <p>“Public place” means any place to which the public has access;</p>
+                </item>
+                <item id="section-2.1.list1.k">
+                  <num>(k)</num>
+                  <p>“Prescribed” means prescribed by rules;</p>
+                </item>
+                <item id="section-2.1.list1.l">
+                  <num>(l)</num>
+                  <p>“Railway Area” means an area between outer-most signals appurtenant to railway tracks including railway platforms of a railway station and shall include running trains over the entire length of the railway tracks within the State of Chhattisgarh;</p>
+                </item>
+                <item id="section-2.1.list1.m">
+                  <num>(m)</num>
+                  <p>“Ranks” means and includes subordinate ranks and supervisory ranks;</p>
+                </item>
+                <item id="section-2.1.list1.n">
+                  <num>(n)</num>
+                  <p>“Regulations” means regulations made under the Act;</p>
+                </item>
+                <item id="section-2.1.list1.o">
+                  <num>(o)</num>
+                  <p>“Rules” means the rules made under the Act;</p>
+                </item>
+                <item id="section-2.1.list1.p">
+                  <num>(p)</num>
+                  <p>“State” means the State of Chhattisgarh;</p>
+                </item>
+                <item id="section-2.1.list1.q">
+                  <num>(q)</num>
+                  <p>“State Government” means the State Government of Chhattisgarh;</p>
+                </item>
+                <item id="section-2.1.list1.r">
+                  <num>(r)</num>
+                  <p>“Subordinate Ranks” means ranks below the rank of Assistant or Deputy Superintendent of police;</p>
+                </item>
+                <item id="section-2.1.list1.s">
+                  <num>(s)</num>
+                  <p>“Superintendent of Police” means the police officer in charge of a Police District;</p>
+                </item>
+                <item id="section-2.1.list1.t">
+                  <num>(t)</num>
+                  <p>“Supervisory Ranks” means rank of Assistant and Deputy Superintendent of Police or above.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-2.2">
+            <num>(2)</num>
+            <content>
+              <p>Words and expressions used in this Act but not defined specifically shall have the same meaning as provided in the Chhattisgarh General Clauses Act, 1955 (No. 5 of 1955), the Code of Criminal Procedure 1973 (No. 2 of 1974), and the Indian Penal Code, 1860 (No. 45 of 1860).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-II">
+        <num>II</num>
+        <heading>Constitution and Organization of the Police</heading>
+        <section id="section-3">
+          <num>3.</num>
+          <heading>Constitution of State Police.-</heading>
+          <subsection id="section-3.1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be a State Police for the State, as an agency of the Government.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Police shall consist of such ranks and numbers and have such organization as the Government may, by general or special order, determine.</p>
+            </content>
+          </subsection>
+          <subsection id="section-3.3">
+            <num>(3)</num>
+            <content>
+              <p>The organization of the State Police may include training institutions, research and development bureaus, technical and support services, intelligence and criminal investigation units and other bodies and units as determined by the State Government from time to time.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-4">
+          <num>4.</num>
+          <heading>Police Zones and Ranges.-</heading>
+          <subsection id="section-4.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, divide the entire geographical area of the State into one or more Police Zones.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.2">
+            <num>(2)</num>
+            <content>
+              <p>The administration of the Police in the Police Zone shall vest in an officer of the rank of Inspector General of Police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.3">
+            <num>(3)</num>
+            <content>
+              <p>The State Government may, by notification, divide the entire geographical area of Zone into one or more Police Ranges.</p>
+            </content>
+          </subsection>
+          <subsection id="section-4.4">
+            <num>(4)</num>
+            <content>
+              <p>The administration of the Police in the Police Range shall vest in an officer not below the rank of Deputy Inspector General of Police.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-5">
+          <num>5.</num>
+          <heading>Police District.-</heading>
+          <subsection id="section-5.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, divide the geographical  area of the State into Police Districts:</p>
+              <p>Provided that existing Police Districts shall continue to be the Police Districts until areas are altered or re-notified.</p>
+            </content>
+          </subsection>
+          <subsection id="section-5.2">
+            <num>(2)</num>
+            <content>
+              <p>The administration of police in a Police District throughout the local jurisdiction of the District Magistrate shall, under the general control and direction of the District Magistrate be vested in a District Superintendent of Police.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-6">
+          <num>6.</num>
+          <heading>Sub-divisions and Police District-level Special Cells.-</heading>
+          <subsection id="section-6.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification divide each Police District into one or more sub divisions, and appoint a Assistant/ Deputy Superintendent of Police, to be in charge of such sub division:</p>
+              <p>Provided that existing sub divisions shall continue to be the sub divisions until they are altered or re-notified.</p>
+            </content>
+          </subsection>
+          <subsection id="section-6.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may, by notification, establish/create one or more Special Cells in a Police District and may appoint an officer not below the rank of Deputy Superintendent of Police to be the in-charge of such special cell.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-7">
+          <num>7.</num>
+          <heading>Police Station.-</heading>
+          <subsection id="section-7.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, establish one or more Police Stations in a sub division specifying the territorial jurisdiction of each such Police Station.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may appoint a police officer not below the rank of Sub-Inspector of Police to be in charge of a Police Station.</p>
+            </content>
+          </subsection>
+          <subsection id="section-7.3">
+            <num>(3)</num>
+            <content>
+              <p>The State Government may, by notification, establish one or more outposts within the territorial jurisdiction of a Police Station specifying the territorial jurisdiction of such outpost:</p>
+              <p>Provided that the State Government may, by notification, invest any outpost with such powers and responsibilities of a Police Station as it deems necessary:</p>
+              <p>Provided further that existing Police Stations and outposts shall continue to be the Police Stations and outposts until they are altered or re-notified.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-8">
+          <num>8.</num>
+          <heading>Special provisions pertaining to Railway Areas.-</heading>
+          <paragraph id="section-8.paragraph-0">
+            <content>
+              <p>The State Government may, by notification, create one  or more Police Districts headed by a Superintendent of Police and embracing such railway areas in the State as the Government may specify.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-9">
+          <num>9.</num>
+          <heading>Special Police Officers.-</heading>
+          <subsection id="section-9.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to Rules prescribed in this behalf, the Superintendent of Police may at any time, by an order in writing, appoint any person to act as a Special Police Officer for a period as specified in the appointment order.</p>
+            </content>
+          </subsection>
+          <subsection id="section-9.2">
+            <num>(2)</num>
+            <content>
+              <p>Every special police officer so appointed shall have the same powers, privileges and protection, and shall be liable to perform the same duties and shall be amenable to the same penalties, and be subordinate to the same authorities, as the ordinary officers of the police.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-10">
+          <num>10.</num>
+          <heading>Additional Police Officers.-</heading>
+          <subsection id="section-10.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government, or as the case may be, an authority specially empowered by the State Government in this behalf, may appoint Additional Police Officers for such purposes, and on such terms and conditions and in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-10.2">
+            <num>(2)</num>
+            <content>
+              <p>The deployment or deputation of such Additional Police Officers may be made at the request of any person showing the necessity thereof, and the cost incurred on such deployment or deputation may be recovered from the person making request for such deployment or deputation in the manner prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-III">
+        <num>III</num>
+        <heading>Direction and Supervision of the Police</heading>
+        <section id="section-11">
+          <num>11.</num>
+          <heading>Superintendence over the State Police.-</heading>
+          <paragraph id="section-11.paragraph-0">
+            <content>
+              <p>Superintendence over the State Police in respect of all matters shall vest in the State Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-12">
+          <num>12.</num>
+          <heading>Director General of Police.-</heading>
+          <subsection id="section-12.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government shall appoint a Director General of Police for the overall administration, direction and supervision of the State Police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.2">
+            <num>(2)</num>
+            <content>
+              <p>The Director General of Police shall be appointed from a panel of officers consisting of the officers already working in the rank of the Director General, or the officers who have been found suitable for promotion in the rank of Director General after screening by a Committee under the provisions of the All-India Services Act, 1951 (No. LXI of 1951) and in accordance with the rules applicable for such promotion:</p>
+              <p>Provided that number of officers in the panel shall not exceed three or double the number of cadre posts sanctioned for the rank of Director General in the State, whichever is less.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the rules made under All-India Services Act, 1951 (No. LXI of 1951), the Director General of Police so appointed under sub-section (2) shall have a minimum tenure of two years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-12.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-12.4.list1">
+                <listIntroduction>Notwithstanding anything in sub-section (3), Director General of Police may be removed from his post before the expiry of its tenure by the Government by the order in writing specifying reasons, consequent upon,-</listIntroduction>
+                <item id="section-12.4.list1.a">
+                  <num>(a)</num>
+                  <p>Conviction by a court of law in a criminal offence or where charges have been framed by a court in a case involving corruption or moral turpitude;</p>
+                </item>
+                <item id="section-12.4.list1.b">
+                  <num>(b)</num>
+                  <p>Superannuation;</p>
+                </item>
+                <item id="section-12.4.list1.c">
+                  <num>(c)</num>
+                  <p>Punishment of reduction to a lower post, awarded under the provisions of the All India-Services (Discipline and Appeal) Rules, 1969 or any other relevant rule;</p>
+                </item>
+                <item id="section-12.4.list1.d">
+                  <num>(d)</num>
+                  <p>Suspension;</p>
+                </item>
+                <item id="section-12.4.list1.e">
+                  <num>(e)</num>
+                  <p>Incapacity in discharging his functions as Director General of Police due to physical or mental illness;</p>
+                </item>
+                <item id="section-12.4.list1.f">
+                  <num>(f)</num>
+                  <p>On his own request; or</p>
+                </item>
+                <item id="section-12.4.list1.g">
+                  <num>(g)</num>
+                  <p>An administrative exigency which shall be recorded in writing.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-13">
+          <num>13.</num>
+          <heading>Supervision of Police in Railway Areas.-</heading>
+          <subsection id="section-13.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may appoint an officer not below the rank of Deputy Inspector General of Police to assist the Director General of Police to be in-charge of direction and supervision of the Police deployed in Railway Areas.</p>
+            </content>
+          </subsection>
+          <subsection id="section-13.2">
+            <num>(2)</num>
+            <content>
+              <p>The supervision of a Police District in a Railway Area shall vest in a Superintendent of Police.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-14">
+          <num>14.</num>
+          <heading>Tenure of office of certain police officers on police duties.-</heading>
+          <subsection id="section-14.1">
+            <num>(1)</num>
+            <content>
+              <p>Police officer posted as Officer-in-charge of a Police station or as a District Superintendent of Police, in-charge of a Police District shall have a minimum tenure of two years.</p>
+            </content>
+          </subsection>
+          <subsection id="section-14.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-14.2.list1">
+                <listIntroduction>Notwithstanding anything in sub-section (1), any officer referred to in sub-section (1) may be removed or transferred from his post before the expiry of the minimum tenure of two years consequent upon,-</listIntroduction>
+                <item id="section-14.2.list1.a">
+                  <num>(a)</num>
+                  <p>Promotion to a higher post;</p>
+                </item>
+                <item id="section-14.2.list1.b">
+                  <num>(b)</num>
+                  <p>Superannuation;</p>
+                </item>
+                <item id="section-14.2.list1.c">
+                  <num>(c)</num>
+                  <p>Conviction by a court of law;</p>
+                </item>
+                <item id="section-14.2.list1.d">
+                  <num>(d)</num>
+                  <p>Charges having been framed, by a court of law in. a criminal case;</p>
+                </item>
+                <item id="section-14.2.list1.e">
+                  <num>(e)</num>
+                  <p>Punishment of dismissal, removal; discharge or compulsory retirement from service or of reduction to a lower rank awarded under the rules relating to disciplinary actions applicable to him;</p>
+                </item>
+                <item id="section-14.2.list1.f">
+                  <num>(f)</num>
+                  <p>Suspension;</p>
+                </item>
+                <item id="section-14.2.list1.g">
+                  <num>(g)</num>
+                  <p>Incapacity in discharging his functions and duties due to physical or mental illness;</p>
+                </item>
+                <item id="section-14.2.list1.h">
+                  <num>(h)</num>
+                  <p>On his own request; or</p>
+                </item>
+                <item id="section-14.2.list1.i">
+                  <num>(i)</num>
+                  <p>An administrative exigency which shall be recorded in writing.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-15">
+          <num>15.</num>
+          <heading>Disciplinary proceedings against police officers of subordinate rank.-</heading>
+          <subsection id="section-15.1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the provisions of Article 311 of the Constitution of India, the Director General of Police or any other police officer authorised by the State Government in this behalf may dismiss, remove from service, reduce in rank, or confine to quarters for a term not exceeding fifteen days (with or without punishment drill, extra guard, fatigue or other duty) any police officer of subordinate ranks found to be remiss or negligent in the discharge of his duties or unfit for the same, or guilty of any misconduct.</p>
+            </content>
+          </subsection>
+          <subsection id="section-15.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may make rules to give effect to the provisions of sub-section (1).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IV">
+        <num>IV</num>
+        <heading>State Police Commission and Police Establishment Board</heading>
+        <section id="section-16">
+          <num>16.</num>
+          <heading>State Police Commission.-</heading>
+          <subsection id="section-16.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government shall establish a State Police Commission (hereinafter referred to as the “Commission”), which shall perform functions assigned to it under the provisions of this Chapter.</p>
+            </content>
+          </subsection>
+          <subsection id="section-16.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-16.2.list1">
+                <listIntroduction>The Home Minister shall be the Chairman of the Commission and other members of the Commission shall be as follows:-</listIntroduction>
+                <item id="section-16.2.list1.a">
+                  <num>(a)</num>
+                  <p>Chief Secretary;</p>
+                </item>
+                <item id="section-16.2.list1.b">
+                  <num>(b)</num>
+                  <p>Secretary in charge of the Home Department;</p>
+                </item>
+                <item id="section-16.2.list1.c">
+                  <num>(c)</num>
+                  <p>Director General of Police;</p>
+                </item>
+                <item id="section-16.2.list1.d">
+                  <num>(d)</num>
+                  <p>Member, State Human Rights Commission to be nominated by State Government;</p>
+                </item>
+                <item id="section-16.2.list1.e">
+                  <num>(e)</num>
+                  <p>Two Independent Members (persons of proven reputation for integrity and competence from any field such as academia, law, public administration, media or any other field) to be appointed by the State Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-16.3">
+            <num>(3)</num>
+            <content>
+              <p>Director General of Police shall be Secretary of the Commission.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-17">
+          <num>17.</num>
+          <heading>Disqualification for appointment as Independent Members.-</heading>
+          <paragraph id="section-17.paragraph-0">
+            <content>
+              <blockList id="section-17.paragraph-0.list1">
+                <listIntroduction>A person shall not be eligible to be an independent member of the Commission, if he -</listIntroduction>
+                <item id="section-17.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>Is not a citizen of India;</p>
+                </item>
+                <item id="section-17.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>Is above 70 years of age;</p>
+                </item>
+              </blockList>
+              <blockList id="section-17.paragraph-0.list3">
+                <listIntroduction>***</listIntroduction>
+                <item id="section-17.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>Is employed as a public servant;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <p>Holds any elected office, including that of Member of Parliament or State Legislature or any local body;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.f">
+                  <num>(f)</num>
+                  <p>Is a member of, or is associated in any manner with, an organization declared as unlawful under an existing law;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.g">
+                  <num>(g)</num>
+                  <p>is an office bearer or a member of any political party;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.h">
+                  <num>(h)</num>
+                  <p>Has been convicted for any criminal offence, involving moral turpitude or for an offence punishable with imprisonment of one year or more;</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.i">
+                  <num>(i)</num>
+                  <p>Is facing, prosecution for any offence mentioned in clause (h) above and against whom charges have been framed by a court of law; or</p>
+                </item>
+                <item id="section-17.paragraph-0.list3.j">
+                  <num>(j)</num>
+                  <p>Is of unsound mind.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-18">
+          <num>18.</num>
+          <heading>Term and privileges of Independent Member.-</heading>
+          <subsection id="section-18.1">
+            <num>(1)</num>
+            <content>
+              <p>The term of an Independent Member shall be for a period of two years from the date of appointment and he shall not be eligible for reappointment.</p>
+            </content>
+          </subsection>
+          <subsection id="section-18.2">
+            <num>(2)</num>
+            <content>
+              <p>An Independent Member shaft serve in all honorary capacity and the privileges and facilities to be extended to such member shall be such as may be prescribed.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-19">
+          <num>19.</num>
+          <heading>Removal of Independent Members.-</heading>
+          <paragraph id="section-19.paragraph-0">
+            <content>
+              <blockList id="section-19.paragraph-0.list1">
+                <listIntroduction>The State Government may by order in writing remove an Independent Member on any of the following grounds:-</listIntroduction>
+                <item id="section-19.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-19.paragraph-0.list1.a.list0">
+                    <item id="section-19.paragraph-0.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>incompetence;</p>
+                    </item>
+                    <item id="section-19.paragraph-0.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>misbehavior;</p>
+                    </item>
+                    <item id="section-19.paragraph-0.list1.a.list0.iii">
+                      <num>(iii)</num>
+                      <p>failure to attend three consecutive meetings of the Commission without sufficient cause;</p>
+                    </item>
+                    <item id="section-19.paragraph-0.list1.a.list0.iv">
+                      <num>(iv)</num>
+                      <p>incapacitation by reasons of physical or mental infirmity; or</p>
+                    </item>
+                    <item id="section-19.paragraph-0.list1.a.list0.v">
+                      <num>(v)</num>
+                      <p>otherwise becoming unable to discharge his functions as a member.</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-19.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>If he incurs any disqualifications specified in Section 17.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-20">
+          <num>20.</num>
+          <heading>Functions of the State Police Commission.-</heading>
+          <paragraph id="section-20.paragraph-0">
+            <content>
+              <p>The Commission shall perform the following functions, namely:-</p>
+            </content>
+          </paragraph>
+          <subsection id="section-20.1">
+            <num>(1)</num>
+            <content>
+              <p>To advise the State Government on policy guidelines for promoting efficient, effective, responsive and accountable policing;</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.2">
+            <num>(2)</num>
+            <content>
+              <p>To assist the State Government in identifying, performance indicators to evaluate the functioning of the Police Force;</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.3">
+            <num>(3)</num>
+            <content>
+              <p>To communicate to the State Government its views on the performance of the Police; and</p>
+            </content>
+          </subsection>
+          <subsection id="section-20.4">
+            <num>(4)</num>
+            <content>
+              <p>To formulate perspective plans for policing and submit them to the State Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-21">
+          <num>21.</num>
+          <heading>Annual report of the State Police Commission.-</heading>
+          <paragraph id="section-21.paragraph-0">
+            <content>
+              <p>The Commission shall, at the end of each year, present to the State Government a report on its work during the preceding year as well as of performance of the Police.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-22">
+          <num>22.</num>
+          <heading>Police Establishment Board.-</heading>
+          <subsection id="section-22.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government shall by a notification constitute a Police Establishment Board (hereinafter referred to as the “Board”) with the Director General of Police as its Chairman and four other senior police officers not below the rank of Deputy Inspector General of Police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-22.2">
+            <num>(2)</num>
+            <content>
+              <blockList id="section-22.2.list1">
+                <listIntroduction>The Board shall perform the following functions and duties -</listIntroduction>
+                <item id="section-22.2.list1.a">
+                  <num>(a)</num>
+                  <p>Transfer of subordinate ranks up to the level of Inspector from one Zone or Range or District to another;</p>
+                </item>
+                <item id="section-22.2.list1.b">
+                  <num>(b)</num>
+                  <p>Receive and examine representation from police officers aggrieved by any order of superior officers, other than the orders passed under the rule made under the Article 309 of the Constitution of India and:-</p>
+                </item>
+              </blockList>
+              <p>I. Decide such representation if it is received from a police officer of the subordinate rank;</p>
+              <blockList id="section-22.2.list4">
+                <listIntroduction>II. Make recommendation to the State Government in other cases.</listIntroduction>
+                <item id="section-22.2.list4.c">
+                  <num>(c)</num>
+                  <p>Such other functions and duties as may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-22.3">
+            <num>(3)</num>
+            <content>
+              <p>The State Government may review the orders passed by Police Establishment Board on representation made by aggrieved Police Officers within 90 days from the date of order.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-V">
+        <num>V</num>
+        <heading>Functions and responsibilities of Police Officers</heading>
+        <section id="section-23">
+          <num>23.</num>
+          <heading>Role, functions and duties of the Police.-</heading>
+          <paragraph id="section-23.paragraph-0">
+            <content>
+              <p>The following shall be the functions and responsibilities of a police officer:-</p>
+            </content>
+          </paragraph>
+          <subsection id="section-23.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-23.1.list0">
+                <item id="section-23.1.list0.a">
+                  <num>(a)</num>
+                  <p>To enforce the law, and to protect life, liberty, property, rights and dignity of the people;</p>
+                </item>
+                <item id="section-23.1.list0.b">
+                  <num>(b)</num>
+                  <p>To prevent crime and public nuisance;</p>
+                </item>
+                <item id="section-23.1.list0.c">
+                  <num>(c)</num>
+                  <p>To maintain public order;</p>
+                </item>
+                <item id="section-23.1.list0.d">
+                  <num>(d)</num>
+                  <p>To preserve internal security, prevent and control terrorist activities and to prevent breach of public peace;</p>
+                </item>
+                <item id="section-23.1.list0.e">
+                  <num>(e)</num>
+                  <p>To protect public property;</p>
+                </item>
+                <item id="section-23.1.list0.f">
+                  <num>(f)</num>
+                  <p>To detect offences and bring the offenders to justice;</p>
+                </item>
+                <item id="section-23.1.list0.g">
+                  <num>(g)</num>
+                  <p>To arrest persons whom he is legally authorised to arrest and for whose arrest sufficient grounds exist;</p>
+                </item>
+                <item id="section-23.1.list0.h">
+                  <num>(h)</num>
+                  <p>To help people in situations arising out of natural or man-made disasters, and to assist other agencies in relief measures;</p>
+                </item>
+                <item id="section-23.1.list0.i">
+                  <num>(i)</num>
+                  <p>To facilitate orderly movement of people and vehicles, and to control and regulate traffic;</p>
+                </item>
+                <item id="section-23.1.list0.j">
+                  <num>(j)</num>
+                  <p>To gather intelligence relating to matters affecting public peace, and crime;</p>
+                </item>
+                <item id="section-23.1.list0.k">
+                  <num>(k)</num>
+                  <p>To provide security to public authorities in discharging their functions;</p>
+                </item>
+                <item id="section-23.1.list0.l">
+                  <num>(l)</num>
+                  <p>To perform all such duties and discharge such responsibilities as may be enjoined upon him by law or by an authority empowered to issue such directions under any law.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-23.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government, or an authority specially empowered in this behalf by the State Government may assign such other duties and responsibilities to police officers as may be specified by the State Government.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-24">
+          <num>24.</num>
+          <heading>Police officers always on duty and may be employed in the State or deployed outside the State.-</heading>
+          <paragraph id="section-24.paragraph-0">
+            <content>
+              <p>Every police officer shall be considered to be always on duty, when employed as a police officer in the State or deployed outside the State.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-25">
+          <num>25.</num>
+          <heading>Police officers not to engage in other employment.-</heading>
+          <paragraph id="section-25.paragraph-0">
+            <content>
+              <p>No police officer may engage in an employment or office whatsoever, other than his duties under this Act, unless expressly permitted to do so in writing by the State Government.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-26">
+          <num>26.</num>
+          <heading>Police officers not to withdraw from duty, etc.-</heading>
+          <paragraph id="section-26.paragraph-0">
+            <content>
+              <p>No police officer shall be at liberty to withdraw himself from duties unless expressly allowed to do so by the officer authorised to grant such permission.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-27">
+          <num>27.</num>
+          <heading>Police officers may lay information etc.-</heading>
+          <paragraph id="section-27.paragraph-0">
+            <content>
+              <p>It shall be lawful for the police officer to lay any information before a Magistrate having jurisdiction, and to apply for a summon, warrant, search warrant or such other legal process as may, by law, be issued against any person committing an offence.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-28">
+          <num>28.</num>
+          <heading>Police officers to take charge of unclaimed property.-</heading>
+          <subsection id="section-28.1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be the duty of every police officer to take charge of all unclaimed property, and to furnish an inventory thereof to the Police Station having jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection id="section-28.2">
+            <num>(2)</num>
+            <content>
+              <p>The manner of disposal of such property shall be such as may be directed by the District Magistrate or Sub-Divisional Magistrate as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-29">
+          <num>29.</num>
+          <heading>Police officers to keep diary.-</heading>
+          <paragraph id="section-29.paragraph-0">
+            <content>
+              <p>It shall be the duty of every officer in charge of a police station to keep a general diary in such form and manner as may be prescribed.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-30">
+          <num>30.</num>
+          <heading>Government may prescribe form of returns.-</heading>
+          <subsection id="section-30.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may prescribe the forms and the manner of returns to be submitted to it by the Director General of Police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-30.2">
+            <num>(2)</num>
+            <content>
+              <p>The Director General of Police may specify by an order the form and the manner of returns to be furnished to him by other police officers.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-31">
+          <num>31.</num>
+          <heading>Uniforms, insignia, accoutrements, etc.-</heading>
+          <subsection id="section-31.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may prescribe uniform, insignia and accoutrements for police officers or class of police officers as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-31.2">
+            <num>(2)</num>
+            <content>
+              <p>The Director General of Police may, from time to time, issue directions for wearing of uniforms and carrying of insignia and accoutrements.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VI">
+        <num>VI</num>
+        <heading>Special Provisions of Policing</heading>
+        <section id="section-32">
+          <num>32.</num>
+          <heading>Special Crime Investigation Units.-</heading>
+          <subsection id="section-32.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by general or special order, create in any Police District, sub division or as the case may be, Police Station, a Special Crime Investigation Unit, headed by an officer not below the rank of Sub-Inspector of Police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.2">
+            <num>(2)</num>
+            <content>
+              <p>The police officers posted to such units shall not be assigned to any other duty, except under very special circumstances with the permission of the Director General of Police.</p>
+            </content>
+          </subsection>
+          <subsection id="section-32.3">
+            <num>(3)</num>
+            <content>
+              <p>The Director General of Police may, by general or special order, specify the offences which may be investigated by the Special Crime Investigation Unit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-33">
+          <num>33.</num>
+          <heading>Power to reserve public places and raise barriers.-</heading>
+          <paragraph id="section-33.paragraph-0">
+            <content>
+              <blockList id="section-33.paragraph-0.list1">
+                <listIntroduction>Subject to any checks and restrictions as may be specified by an order by the State Government -</listIntroduction>
+                <item id="section-33.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>The District Superintendent of Police may temporarily reserve, by public notice, any street or other public place for any public purpose and regulate the movement of person and vehicles in the area so reserved; and</p>
+                </item>
+                <item id="section-33.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>The District Superintendent of Police may, in the interest of general public, authorize any police officer to raise barriers and other necessary structures on public roads and streets for maintenance of public order or to check vehicles or occupants thereof for prevention and detection of any crime.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-34">
+          <num>34.</num>
+          <heading>Regulation of assemblies, processions and premises.-</heading>
+          <subsection id="section-34.1">
+            <num>(1)</num>
+            <content>
+              <p>The District Superintendent of Police may issue general or special orders for regulating all assemblies and processions on the public roads, or in public streets or thoroughfares and prescribe the routes by which, and the times at which, such processions may pass:</p>
+              <p>Provided that where the District Superintendent of Police is satisfied that it is intended by any person or class of persons to convene or collect an assembly on such road, street or thoroughfare, or to form a procession which would, if uncontrolled, be likely to cause a breach of peace, he may direct such persons or class of persons to seek permission from the District Magistrate or Sub Divisional Magistrate as the case may be.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.2">
+            <num>(2)</num>
+            <content>
+              <p>The District Magistrate or Sub Divisional Magistrate may grant the requisite permission with such conditions as he may deem appropriate:</p>
+              <p>Provided that he may refuse to grant permission to convene or collect as assembly in such road, street or thoroughfare, or form a procession which would in his opinion, be likely to cause a breach of the peace.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.3">
+            <num>(3)</num>
+            <content>
+              <p>Any police officer on whom the responsibility to regulate a public assembly or procession is enjoined upon, may stop any procession which does not possess the permission referred to in sub-section (2) or which, in his opinion, violates the conditions of the permission, and may order any such procession or any such assembly to disperse.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.4">
+            <num>(4)</num>
+            <content>
+              <p>Any procession or assembly which neglects or refuses to obey any order given under the preceding sub-section shall be deemed to be an unlawful assembly.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.5">
+            <num>(5)</num>
+            <content>
+              <p>The District Superintendent of Police may, in the interest of general public, issue orders for regulating the entry or exit or hours of operation of a public place.</p>
+            </content>
+          </subsection>
+          <subsection id="section-34.6">
+            <num>(6)</num>
+            <content>
+              <p>The District Superintendent of Police may, by an order require every owner of a household, a shop or a public premise, to furnish details of a tenant, lessee, licensee, person engaged for domestic help or otherwise in occupation of the premises in the form specified by him for this purpose.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-35">
+          <num>35.</num>
+          <heading>Regulation of traffic.-</heading>
+          <paragraph id="section-35.paragraph-0">
+            <content>
+              <p>The District Superintendent of Police may, from time to time issue directions for regulating the use of public roads and streets in respect of motorists, cyclists, pedestrians and persons accompanying animals, and for regulating the parking of vehicles including bicycles, with a view to ensure smooth and orderly movement of traffic.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-36">
+          <num>36.</num>
+          <heading>Conferment of powers of police officers.-</heading>
+          <paragraph id="section-36.paragraph-0">
+            <content>
+              <p>The State Government may, by notification, confer on any person any of the powers which may be exercised by a police officer under any Act for the time being in form and such person shall be subject to the orders of the District Superintendent of Police.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-37">
+          <num>37.</num>
+          <heading>Community Liaison Group.-</heading>
+          <paragraph id="section-37.paragraph-0">
+            <content>
+              <p>The District Superintendent of Police shall constitute, in the manner prescribed, one or more Community Liaison Group consisting of representatives of the community for each police station, to aid and assist the Police Force in the discharge of its functions.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-VII">
+        <num>VII</num>
+        <heading>Police accountability</heading>
+        <section id="section-38">
+          <num>38.</num>
+          <heading>Police Accountability Authority.-</heading>
+          <subsection id="section-38.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, as soon as may be, establish a State Police Accountability Authority (hereinafter referred to as “Authority”).</p>
+            </content>
+          </subsection>
+          <subsection id="section-38.2">
+            <num>(2)</num>
+            <content>
+              <p>Authority may be provided with such secretarial assistance as the State Government may determine, from time to time, by a general or special order.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-39">
+          <num>39.</num>
+          <heading>Composition of the Authority.-</heading>
+          <paragraph id="section-39.paragraph-0">
+            <content>
+              <p>The Authority shall have four members appointed by the State Government, with a credible record of integrity and commitment to human rights and shall consist of -</p>
+            </content>
+          </paragraph>
+          <subsection id="section-39.1">
+            <num>(1)</num>
+            <content>
+              <p>A retired judge of High Court or retired judge of Higher Judicial Service, who was at the time of superannuation, qualified to become a judge of High Court, who shall be Chairperson of the Authority;</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.2">
+            <num>(2)</num>
+            <content>
+              <p>A retired Police Officer superannuated in the rank of Additional Director General of Police or above;</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.3">
+            <num>(3)</num>
+            <content>
+              <p>A retired civil servant superannuated in the rank of Secretary to the State Government or above;</p>
+            </content>
+          </subsection>
+          <subsection id="section-39.4">
+            <num>(4)</num>
+            <content>
+              <p>A person of repute and standing from the civil society ordinarily residing in the State of Chhattisgarh:</p>
+              <p>Provided that at least one member of the Authority shall be a woman.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-40">
+          <num>40.</num>
+          <heading>Disqualification for membership.-</heading>
+          <paragraph id="section-40.paragraph-0">
+            <content>
+              <blockList id="section-40.paragraph-0.list1">
+                <listIntroduction>A person shall not be eligible to be a member of the Authority, if he -</listIntroduction>
+                <item id="section-40.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>Is not a citizen of India;</p>
+                </item>
+                <item id="section-40.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>Is above 70 years of age;</p>
+                </item>
+              </blockList>
+              <blockList id="section-40.paragraph-0.list3">
+                <listIntroduction>***</listIntroduction>
+                <item id="section-40.paragraph-0.list3.d">
+                  <num>(d)</num>
+                  <p>Is employed as a public servant;</p>
+                </item>
+                <item id="section-40.paragraph-0.list3.e">
+                  <num>(e)</num>
+                  <p>Is a Member of Parliament or the Legislature of State or a local body; or is an office bearer of any political party or any organization connected with a political party;</p>
+                </item>
+                <item id="section-40.paragraph-0.list3.f">
+                  <num>(f)</num>
+                  <p>Has been convicted for any criminal offence involving moral turpitude or for an offence punishable with imprisonment of one year or more;</p>
+                </item>
+                <item id="section-40.paragraph-0.list3.g">
+                  <num>(g)</num>
+                  <p>Is facing prosecution for any offence mentioned in clause (f) above and against whom charges have been framed by a court of law; or</p>
+                </item>
+                <item id="section-40.paragraph-0.list3.h">
+                  <num>(h)</num>
+                  <p>Is of unsound mind declared by a competent court.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-41">
+          <num>41.</num>
+          <heading>Term of office and conditions of service of members and Chairperson.-</heading>
+          <subsection id="section-41.1">
+            <num>(1)</num>
+            <content>
+              <p>The term of office of a member, and the chairperson, shall be two years and may be eligible for re-appointment for another term.</p>
+            </content>
+          </subsection>
+          <subsection id="section-41.2">
+            <num>(2)</num>
+            <content>
+              <p>He may resign from the office at any time before the expiry of his term.</p>
+            </content>
+          </subsection>
+          <subsection id="section-41.3">
+            <num>(3)</num>
+            <content>
+              <p>The remuneration, allowances and other terms and conditions of service of the members shall be such as may be notified, by the State Government from time to time.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-42">
+          <num>42.</num>
+          <heading>Removal of Chairperson or Members.-</heading>
+          <paragraph id="section-42.paragraph-0">
+            <content>
+              <blockList id="section-42.paragraph-0.list1">
+                <listIntroduction>Any member or Chairperson may be removed from office, on a recommendation being made by the Authority by a majority of three-fourths of members, by an order of the State Government on the grounds of -</listIntroduction>
+                <item id="section-42.paragraph-0.list1.a">
+                  <num>(a)</num>
+                  <p>Proven misconduct or misbehavior;</p>
+                </item>
+                <item id="section-42.paragraph-0.list1.b">
+                  <num>(b)</num>
+                  <p>Persistent neglect to perform duties of the Authority;</p>
+                </item>
+                <item id="section-42.paragraph-0.list1.c">
+                  <num>(c)</num>
+                  <p>Occurrence of any situation that would make a member ineligible for appointment to the Authority under Section 40; or</p>
+                </item>
+                <item id="section-42.paragraph-0.list1.d">
+                  <num>(d)</num>
+                  <p>The member concerned engaging himself during his term of office in any paid employment outside the duties of his office.</p>
+                </item>
+              </blockList>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-43">
+          <num>43.</num>
+          <heading>Functions of the Authority.-</heading>
+          <subsection id="section-43.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-43.1.list1">
+                <listIntroduction>The powers and functions of the Authority shall be as follows:-</listIntroduction>
+                <item id="section-43.1.list1.a">
+                  <num>(a)</num>
+                  <blockList id="section-43.1.list1.a.list0">
+                    <listIntroduction>To inquire into allegations of “serious misconduct” against police personnel on a complaint:-</listIntroduction>
+                    <item id="section-43.1.list1.a.list0.i">
+                      <num>(i)</num>
+                      <p>received from a victim or a close relative of the victim supported by an affidavit;</p>
+                    </item>
+                    <item id="section-43.1.list1.a.list0.ii">
+                      <num>(ii)</num>
+                      <p>referred to it by the State Government;</p>
+                    </item>
+                  </blockList>
+                </item>
+                <item id="section-43.1.list1.b">
+                  <num>(b)</num>
+                  <p>To carry out such other functions as the State Government may, from time to time, specify by an order.</p>
+                </item>
+              </blockList>
+              <p>Explanation.-</p>
+              <p>“Serious misconduct” for the purpose of this Chapter means:-</p>
+              <blockList id="section-43.1.list5">
+                <listIntroduction>Any mala fide act of omission or commission by a police officer that leads to or amounts to -</listIntroduction>
+                <item id="section-43.1.list5.i">
+                  <num>(i)</num>
+                </item>
+                <item id="section-43.1.list5.a">
+                  <num>(a)</num>
+                  <p>Death;</p>
+                </item>
+                <item id="section-43.1.list5.b">
+                  <num>(b)</num>
+                  <p>Rape or attempt to commit rape; or</p>
+                </item>
+                <item id="section-43.1.list5.c">
+                  <num>(c)</num>
+                  <p>Grievous hurt in Police custody; or in the Custody of Police; or</p>
+                </item>
+                <item id="section-43.1.list5.ii">
+                  <num>(ii)</num>
+                  <p>Such other acts as may be specified by State Government by an order of the State Government.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-43.2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything contained in foregoing sub-sections, the Authority shall not take cognizance of a complaint in cases which are already being enquired in to by the National Human Rights Commission, State Human Rights Commission or is a subject matter under the Commission of Enquiries Act or is sub judice.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.3">
+            <num>(3)</num>
+            <content>
+              <p>No cognizance shall he taken by the Authority in any complaint received after six months from the date of occurrence.</p>
+            </content>
+          </subsection>
+          <subsection id="section-43.4">
+            <num>(4)</num>
+            <content>
+              <blockList id="section-43.4.list1">
+                <listIntroduction>The Authority shall while enquiring in to the matter or performing any function under sub-section (1) has all the powers, of a civil court trying a suit and, in particular, in respect of the following matters, namely:-</listIntroduction>
+                <item id="section-43.4.list1.a">
+                  <num>(a)</num>
+                  <p>summoning and enforcing the attendance of any person from any part of India and examining him on oath;</p>
+                </item>
+                <item id="section-43.4.list1.b">
+                  <num>(b)</num>
+                  <p>requiring the discovery and production of any document;</p>
+                </item>
+                <item id="section-43.4.list1.c">
+                  <num>(c)</num>
+                  <p>receiving evidence on affidavits;</p>
+                </item>
+                <item id="section-43.4.list1.d">
+                  <num>(d)</num>
+                  <p>requisitioning any public record or copy thereof from any court or office;</p>
+                </item>
+                <item id="section-43.4.list1.e">
+                  <num>(e)</num>
+                  <p>issuing commissions for the examination of witnesses and documents; and</p>
+                </item>
+                <item id="section-43.4.list1.f">
+                  <num>(f)</num>
+                  <p>any other matter which may be prescribed.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+          <subsection id="section-43.5">
+            <num>(5)</num>
+            <content>
+              <p>The Authority shall submit the report to the State Government and also make recommendations, wherever it deems fit.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-VIII">
+        <num>VIII</num>
+        <heading>Welfare and Grievance Redressal</heading>
+        <section id="section-44">
+          <num>44.</num>
+          <heading>Welfare of Police.-</heading>
+          <paragraph id="section-44.paragraph-0">
+            <content>
+              <p>The State Government may, by general or special order, specify such measures as deemed appropriate, for the welfare of the Police Officers.</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-45">
+          <num>45.</num>
+          <heading>Funds for welfare of police personnel.-</heading>
+          <subsection id="section-45.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, constitute funds for the police personnel.</p>
+            </content>
+          </subsection>
+          <subsection id="section-45.2">
+            <num>(2)</num>
+            <content>
+              <p>The funds shall be administered and audited in such manner as may be prescribed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-45.3">
+            <num>(3)</num>
+            <content>
+              <blockList id="section-45.3.list1">
+                <listIntroduction>The following sums shall be credited to the funds, namely:-</listIntroduction>
+                <item id="section-45.3.list1.a">
+                  <num>(a)</num>
+                  <p>any grant made by the State Government;</p>
+                </item>
+                <item id="section-45.3.list1.b">
+                  <num>(b)</num>
+                  <p>contributions made in the fund by police personnel; or</p>
+                </item>
+                <item id="section-45.3.list1.c">
+                  <num>(c)</num>
+                  <p>any other grant, donation, bequest made for the purposes of the funds.</p>
+                </item>
+              </blockList>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-46">
+          <num>46.</num>
+          <heading>Police Welfare Bureau.-</heading>
+          <subsection id="section-46.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may, by notification, set-up a Police Welfare Bureau, for implementing welfare measures for police personnel.</p>
+            </content>
+          </subsection>
+          <subsection id="section-46.2">
+            <num>(2)</num>
+            <content>
+              <p>The State Government may specify composition, functions and responsibilities of the Police Welfare Bureau.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-47">
+          <num>47.</num>
+          <heading>Grievance redressal of police personnel.-</heading>
+          <subsection id="section-47.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may prescribe the mechanism and the procedure for the redressal of the grievances of police officers.</p>
+            </content>
+          </subsection>
+          <subsection id="section-47.2">
+            <num>(2)</num>
+            <content>
+              <p>Such mechanism shall ensure a set-up for grievance redressal at the Police District, Police Range, Police Zone and Director General of Police level and shall ensure that every police officer has the right of at least one appeal if he is not satisfied with the disposal of his grievance.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+      <chapter id="chapter-IX">
+        <num>IX</num>
+        <heading>General Offences and Penalties</heading>
+        <section id="section-48">
+          <num>48.</num>
+          <heading>Offences of disorderly conduct.-</heading>
+          <paragraph id="section-48.paragraph-0">
+            <content>
+              <p>***</p>
+            </content>
+          </paragraph>
+        </section>
+        <section id="section-49">
+          <num>49.</num>
+          <heading>Unauthorised use of Police uniform</heading>
+          <paragraph id="section-49.paragraph-0">
+            <content>
+              <p>Whoever, not being a police officer, wears a police uniform or any other dress having the appearance or bearing any of the distinctive marks of that uniform without being authorized by the State Government or as the case may be, an officer authorized by the State Government, shall, in addition to punishment provided in any other law for time being enforce, be punished with imprisonment not exceeding six months or fine or with both.</p>
+            </content>
+          </paragraph>
+        </section>
+      </chapter>
+      <chapter id="chapter-X">
+        <num>X</num>
+        <heading>Miscellaneous</heading>
+        <section id="section-50">
+          <num>50.</num>
+          <heading>Power to make Rules.-</heading>
+          <subsection id="section-50.1">
+            <num>(1)</num>
+            <content>
+              <p>The State Government may make rules for carrying out the purposes of this Act:</p>
+              <p>Provided that existing State Police regulations shall continue to be in force till altered or repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-50.2">
+            <num>(2)</num>
+            <content>
+              <p>All rules made under this Act shall be laid before the State Legislature as soon as possible.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-51">
+          <num>51.</num>
+          <heading>Power to make Regulations.-</heading>
+          <subsection id="section-51.1">
+            <num>(1)</num>
+            <content>
+              <blockList id="section-51.1.list1">
+                <listIntroduction>Subject to the provisions of the Act and rules made thereunder, the Director General of Police may with prior approval of the State Government frame regulations for:-</listIntroduction>
+                <item id="section-51.1.list1.a">
+                  <num>(a)</num>
+                  <p>Prevention and investigation of crime;</p>
+                </item>
+                <item id="section-51.1.list1.b">
+                  <num>(b)</num>
+                  <p>Inspection of the police organisation, and of the work performed by police officers;</p>
+                </item>
+                <item id="section-51.1.list1.c">
+                  <num>(c)</num>
+                  <p>Determining the description and quantity of arms, accoutrements, clothing and other articles of wearing and carrying to be provided to the state police;</p>
+                </item>
+                <item id="section-51.1.list1.d">
+                  <num>(d)</num>
+                  <p>Assigning duties of officers of all ranks and grades, and prescribing the manner and the conditions subject to which, they shall exercise and perform their respective powers and duties;</p>
+                </item>
+                <item id="section-51.1.list1.e">
+                  <num>(e)</num>
+                  <p>Collection and communication of intelligence and information by the police;</p>
+                </item>
+                <item id="section-51.1.list1.f">
+                  <num>(f)</num>
+                  <p>Prescribing the records, registers and forms to be maintained and the returns to be submitted by different police units-and officers;</p>
+                </item>
+                <item id="section-51.1.list1.g">
+                  <num>(g)</num>
+                  <p>Generally, for the purpose of rendering the police more efficient, and preventing abuse of power and neglect of duties by them; and</p>
+                </item>
+                <item id="section-51.1.list1.h">
+                  <num>(h)</num>
+                  <p>Such other matter as the State Government, by a notification, may direct:</p>
+                </item>
+              </blockList>
+              <p>Provided that existing State Police regulations shall continue to be in force till altered or repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.2">
+            <num>(2)</num>
+            <content>
+              <p>Regulations and its amendment made under this Act shall be notified in the Official Gazette and such notification shall be come into force after its publication in the Official Gazette.</p>
+            </content>
+          </subsection>
+          <subsection id="section-51.3">
+            <num>(3)</num>
+            <content>
+              <p>Any other matter as determined by the State Government by an order published in the Official Gazette.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-52">
+          <num>52.</num>
+          <heading>Power to remove difficulties.-</heading>
+          <subsection id="section-52.1">
+            <num>(1)</num>
+            <content>
+              <p>If any difficulty arises in giving effect Ito the provisions of this Act, the State Government may, by an order to be published in the Official Gazette, make such provisions, not inconsistent with this Act, as it deems necessary or expedient for removing the difficulty:</p>
+              <p>Provided that no order under this section shall be made after expiry of three years from the date of commencement of the Act.</p>
+            </content>
+          </subsection>
+          <subsection id="section-52.2">
+            <num>(2)</num>
+            <content>
+              <p>Every order issued under this section shall, as soon as possible, be laid before the State Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+        <section id="section-53">
+          <num>53.</num>
+          <heading>Repeal and Saving.-</heading>
+          <subsection id="section-53.1">
+            <num>(1)</num>
+            <content>
+              <p>The Indian Police Act, 1861 (No. 5 of 1841) in its application to the State of Chhattisgarh is hereby repealed.</p>
+            </content>
+          </subsection>
+          <subsection id="section-53.2">
+            <num>(2)</num>
+            <content>
+              <p>The repeal under sub-section (1) shall not affect the previous operation of this enactment so repealed and anything done or action taken or deemed to have been done or taken (including any appointment or delegation made, notification, order, direction or notice issued, regulation or rules made) by or under the provisions of the repealed enactment shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken under the provisions of this Act, and shall continue in force unless and until suspended by anything done on any action taken under this Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
