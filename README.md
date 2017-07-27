@@ -8,3 +8,5 @@ AKN or [Akoma Ntoso](http://www.akomantoso.org/) defines a set of simple technol
 Laws in folder 'consolidated' contains XMLs that reflect recent amendments.
 
 Laws in folder 'unconsolidated' contains XMLs that may not relfect recent amendments and/or needs to be checked for formatting issues.
+
+All contributions made to this Open Repository are subject to open source license terms expressed in the CC-BY-SA-4.0 license. 
