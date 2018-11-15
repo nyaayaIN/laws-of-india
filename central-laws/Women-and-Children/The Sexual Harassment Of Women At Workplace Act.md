@@ -1,6 +1,6 @@
 # The Sexual Harassment Of Women At The Workplace (Prevention, Prohibition and Redressal) Act, 2013
 
-**ACT NO. 14 OF 2013**
+**ACT NO. 13 OF 2013**
 
 *[22nd April, 2013]*
 
